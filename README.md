@@ -12,7 +12,7 @@ cross-proj_data.csv contains the raw data used for the cross-project study.
 
 single-proj_data.csv contains the raw data used fro the single-project study.
 
-sentiment_polarity folder contains the box plots of the sentiment polarity scores by SentiStrengthSE and Senti4SD.
+tables-complete-results-statistical-tests folder contains the tables with the complete results of statistical tests, for both the single study and the cross study.
 
-tables-complete-results-statistical-tests folder with the tables the complete results of statistical tests.
+sentiment_polarity folder contains the box plots of the sentiment polarity scores by SentiStrengthSE and Senti4SD for the general and source code discussions.
 
