@@ -1,10 +1,12 @@
 # icpc2020
 
---------replication package--------
+----------------replication package----------------
 
 bots.txt contains the names of the 147 bots.
 
 users.txt contains the names of the 728 users.
+
+users_noCommitData.txt contains the names of the 13 users whose past commit data was not computed.
 
 cross-proj_data.csv contains the raw data used for the cross-project study.
 
@@ -12,7 +14,5 @@ single-proj_data.csv contains the raw data used fro the single-project study.
 
 sentiment_polarity folder contains the box plots of the sentiment polarity scores by SentiStrengthSE and Senti4SD.
 
-#MISSING: TABLES WITH STATISTICAL TESTS
-
-#MISSING: COMMIT DATA
+tables-complete-results-statistical-tests folder with the tables the complete results of statistical tests.
 
