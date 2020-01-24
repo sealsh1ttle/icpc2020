@@ -13,5 +13,5 @@ raw_data folder contains cross-study.csv and single-study.csv (i.e., the raw dat
 # MISSING 
 tables-complete-results-statistical-tests folder contains the tables with the complete results of statistical tests, for both the single study and the cross study.
 
-sentiment_polarity folder contains the box plots of the sentiment polarity scores by SentiStrengthSE and Senti4SD for the general and source code discussions. Also, this folder contains the raw conversations analyzed by the two tools.
+sentiment_polarity folder contains the box plots of the sentiment polarity scores by SentiStrengthSE and Senti4SD for the general and source code discussions. Also, this folder contains the raw conversations(.csv) analyzed by the two tools.
 
