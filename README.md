@@ -8,11 +8,10 @@ users.txt contains the names of the 728 users.
 
 users_noCommitData.txt contains the names of the 13 users whose past commit data was not computed.
 
-cross-proj_data.csv contains the raw data used for the cross-project study.
+raw_data folder contains cross-study.csv and single-study.csv (i.e., the raw data used for the cross-project and single-project studies).
 
-single-proj_data.csv contains the raw data used fro the single-project study.
-
+#MISSING 
 tables-complete-results-statistical-tests folder contains the tables with the complete results of statistical tests, for both the single study and the cross study.
 
-sentiment_polarity folder contains the box plots of the sentiment polarity scores by SentiStrengthSE and Senti4SD for the general and source code discussions.
+sentiment_polarity folder contains the box plots of the sentiment polarity scores by SentiStrengthSE and Senti4SD for the general and source code discussions. #MISSING Also, this folder contains the raw conversations analyzed by the two tools.
 
