@@ -9,7 +9,7 @@
 
 4) raw_data (folder) contains cross-proj_scenario.csv and single-proj_scenario.csv (i.e., the raw data of the 32062 PRs used for the cross-project and single-project scenarios).
 
-5) tables-complete-results-statistical-tests (folder) contains the Tex code to generate the tables with the complete results of statistical tests, for both the single-project scenario and the cross-project one, grouped by independent variable (PastCommits and PastPRs).
+5) tables-complete-results-statistical-tests (folder) contains the Tex code to generate the tables with the complete results of statistical tests, for both the single- and the cross-project one, grouped by independent variable (PastCommits and PastPRs).
 
 6) sentiment_polarity (folder) contains:
 - the raw conversations(.csv) analyzed by the two tools;
