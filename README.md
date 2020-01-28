@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------
-# ICPC2020 - Replication Package
+# ICPC 2020 - Replication Package
 
 bots.txt contains the names of the 147 bots.
 
