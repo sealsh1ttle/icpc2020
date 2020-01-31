@@ -6,67 +6,67 @@
 \toprule
 \textbf{Test} & \textbf{adj. $p$-value} & \textbf{$d$}\\\midrule
 \multicolumn{3}{l}{\textbf{Acceptance Rate}}\\\midrule
-low $vs$ medium-low & 0.57 & 0.012 (Negligible)\\
-low $vs$ medium-high & 0.46 & 0.015 (Negligible)\\
-low $vs$ high & \textbf{0.037} & 0.025 (Negligible)\\
-medium-low $vs$ medium-high & 0.76 & 0.0028 (Negligible)\\
-medium-low $vs$ high & 0.57 & 0.014 (Negligible)\\
-medium-high $vs$ high & 0.57 & 0.011 (Negligible)\\\midrule
+low $vs$ medium-low & \textbf{$<$0.01} & -0.085 (Negligible)\\
+low $vs$ medium-high & \textbf{$<$0.01} & -0.14 (Negligible)\\
+low $vs$ high & \textbf{$<$0.01} & -0.13 (Negligible)\\
+medium-low $vs$ medium-high & \textbf{$<$0.01} & -0.067 (Negligible)\\
+medium-low $vs$ high & \textbf{$<$0.01} & -0.059 (Negligible)\\
+medium-high $vs$ high & 0.70 & -0.00052 (Negligible)\\
 
 \multicolumn{3}{l}{\textbf{Accepted PR Closing Time}}\\\midrule
-low $vs$ medium-low & 0.18 & -0.02 (Negligible)\\
-low $vs$ medium-high & 0.81 & 0.0028 (Negligible)\\
-low $vs$ high & \textbf{$<$0.01} & -0.045 (Negligible)\\
-medium-low $vs$ medium-high & 0.18 & 0.023 (Negligible)\\
-medium-low $vs$ high & 0.18 & -0.025 (Negligible)\\
-medium-high $vs$ high & \textbf{$<$0.01} & -0.048 (Negligible)\\\midrule
+low $vs$ medium-low & \textbf{$<$0.01} & -0.039 (Negligible)\\
+low $vs$ medium-high & \textbf{$<$0.01} & 0.038 (Negligible)\\
+low $vs$ high & \textbf{$<$0.01} & 0.10 (Negligible)\\
+medium-low $vs$ medium-high & \textbf{$<$0.01} & 0.078 (Negligible)\\
+medium-low $vs$ high & \textbf{$<$0.01} & 0.14 (Negligible)\\
+medium-high $vs$ high & \textbf{$<$0.01} & 0.066 (Negligible)\\
 
 \multicolumn{3}{l}{\textbf{General Comments Received}}\\\midrule
-low $vs$ medium-low & 0.58 & -0.0068 (Negligible)\\
-low $vs$ medium-high & 0.23 & 0.021 (Negligible)\\
-low $vs$ high & \textbf{$<$0.01} & 0.042 (Negligible)\\
-medium-low $vs$ medium-high & 0.092 & 0.028 (Negligible)\\
-medium-low $vs$ high & \textbf{$<$0.01} & 0.048 (Negligible)\\
-medium-high $vs$ high & 0.23 & 0.02 (Negligible)\\\midrule
+low $vs$ medium-low & \textbf{$<$0.01} & 0.094 (Negligible)\\
+low $vs$ medium-high & \textbf{$<$0.01} & 0.14 (Negligible)\\
+low $vs$ high & \textbf{$<$0.01} & 0.31 (Small)\\
+medium-low $vs$ medium-high & \textbf{$<$0.01} & 0.047 (Negligible)\\
+medium-low $vs$ high & \textbf{$<$0.01} & 0.21 (Small)\\
+medium-high $vs$ high & \textbf{$<$0.01} & 0.16 (Small)\\
 
 \multicolumn{3}{l}{\textbf{Source Code Comments Received}}\\\midrule
-low $vs$ medium-low & 1.00 & -0.0035 (Negligible)\\
-low $vs$ medium-high & 1.00 & -0.014 (Negligible)\\
-low $vs$ high & 0.93 & -0.022 (Negligible)\\
-medium-low $vs$ medium-high & 1.00 & -0.012 (Negligible)\\
-medium-low $vs$ high & 1.00 & -0.019 (Negligible)\\
-medium-high $vs$ high & 1.00 & -0.008 (Negligible)\\\midrule
+low $vs$ medium-low & 0.80 & 0.0037 (Negligible)\\
+low $vs$ medium-high & \textbf{$<$0.01} & 0.069 (Negligible)\\
+low $vs$ high & \textbf{$<$0.01} & 0.13 (Negligible)\\
+medium-low $vs$ medium-high & \textbf{$<$0.01} & 0.065 (Negligible)\\
+medium-low $vs$ high & \textbf{$<$0.01} & 0.12 (Negligible)\\
+medium-high $vs$ high & \textbf{$<$0.01} & 0.059 (Negligible)\\
 
 \multicolumn{3}{l}{\textbf{Sentiment Analysis on General Comments: SentiStrength-SE}}\\\midrule
-low $vs$ medium-low SSE & \textbf{$<$0.01} & 0.11 (Negligible)\\
-low $vs$ medium-high SSE & \textbf{$<$0.01} & 0.16 (Small)\\
-low $vs$ high SSE & \textbf{$<$0.01} & 0.21 (Small)\\
-medium-low $vs$ medium-high SSE & \textbf{$<$0.01} & 0.049 (Negligible)\\
-medium-low $vs$ high SSE & \textbf{$<$0.01} & 0.11 (Negligible)\\
-medium-high $vs$ high SSE & \textbf{$<$0.01} & 0.06 (Negligible)\\\midrule
+low $vs$ medium-low SSE & 0.69 & -0.015 (Negligible)\\
+low $vs$ medium-high SSE & \textbf{$<$0.01} & 0.039 (Negligible)\\
+low $vs$ high SSE & 0.99 & -0.00014 (Negligible)\\
+medium-low $vs$ medium-high SSE & \textbf{$<$0.01} & 0.053 (Negligible)\\
+medium-low $vs$ high SSE & 0.69 & 0.014 (Negligible)\\
+medium-high $vs$ high SSE & \textbf{$<$0.01} & -0.039 (Negligible)\\
 
 \multicolumn{3}{l}{\textbf{Sentiment Analysis on General Comments: Senti4SD}}\\\midrule
-low $vs$ medium-low 4SD & \textbf{$<$0.01} & 0.11 (Negligible)\\
-low $vs$ medium-high 4SD & \textbf{$<$0.01} & 0.16 (Small)\\
-low $vs$ high 4SD & \textbf{$<$0.01} & 0.19 (Small)\\
-medium-low $vs$ medium-high 4SD & \textbf{$<$0.01} & 0.06 (Negligible)\\
-medium-low $vs$ high 4SD & \textbf{$<$0.01} & 0.089 (Negligible)\\
-medium-high $vs$ high 4SD & \textbf{0.018} & 0.029 (Negligible)\\\midrule
+low $vs$ medium-low 4SD & 0.86 & -0.0096 (Negligible)\\
+low $vs$ medium-high 4SD & \textbf{$<$0.01} & 0.038 (Negligible)\\
+low $vs$ high 4SD & 0.86 & 0.0092 (Negligible)\\
+medium-low $vs$ medium-high 4SD & \textbf{$<$0.01} & 0.048 (Negligible)\\
+medium-low $vs$ high 4SD & 0.42 & 0.018 (Negligible)\\
+medium-high $vs$ high 4SD & 0.095 & -0.028 (Negligible)\\
 
 \multicolumn{3}{l}{\textbf{Sentiment Analysis on Code Comments: SentiStrength-SE}}\\\midrule
-low $vs$ medium-low SSE & 0.64 & 0.023 (Negligible)\\
-low $vs$ medium-high SSE & 0.10 & 0.039 (Negligible)\\
-low $vs$ high SSE & 0.93 & 0.0015 (Negligible)\\
-medium-low $vs$ medium-high 4SD & 0.66 & 0.016 (Negligible)\\
-medium-low $vs$ high SSE & 0.64 & -0.022 (Negligible)\\
-medium-high $vs$ high SSE & 0.11 & -0.038 (Negligible)\\\midrule
+low $vs$ medium-low SSE & 0.66 & -0.023 (Negligible)\\
+low $vs$ medium-high SSE & 1.00 & 0.0074 (Negligible)\\
+low $vs$ high SSE & 1.00 & 0.0062 (Negligible)\\
+medium-low $vs$ medium-high 4SD & 0.41 & 0.03 (Negligible)\\
+medium-low $vs$ high SSE & 0.48 & 0.029 (Negligible)\\
+medium-high $vs$ high SSE & 1.00 & -0.001 (Negligible)\\
 
 \multicolumn{3}{l}{\textbf{Sentiment Analysis on Code Comments: Senti4SD}}\\\midrule
-low $vs$ medium-low 4SD & \textbf{$<$0.01} & 0.053 (Negligible)\\
-low $vs$ medium-high 4SD & \textbf{$<$0.01} & 0.067 (Negligible)\\
-low $vs$ high 4SD & \textbf{$<$0.01} & 0.061 (Negligible)\\
-medium-low $vs$ medium-high 4SD & 1.00 & 0.014 (Negligible)\\
-medium-low $vs$ high 4SD & 1.00 & 0.0084 (Negligible)\\
-medium-high $vs$ high 4SD & 1.00 & -0.006 (Negligible)\\\bottomrule
+low $vs$ medium-low 4SD & 0.66 & -0.017 (Negligible)\\
+low $vs$ medium-high 4SD & 0.094 & 0.039 (Negligible)\\
+low $vs$ high 4SD & 0.72 & 0.0062 (Negligible)\\
+medium-low $vs$ medium-high 4SD & \textbf{$<$0.01} & 0.055 (Negligible)\\
+medium-low $vs$ high 4SD & 0.61 & 0.023 (Negligible)\\
+medium-high $vs$ high 4SD & 0.28 & -0.032 (Negligible)\\
 \end{tabular}
 \end{table}
