@@ -1,5 +1,5 @@
 \begin{table}[ht]
-\caption{Local-project scenario - Knowledge groups created by past prs: Results of Mann-Whitney test (adj. $p$-value) and Cliff's Delta ($d$).}
+\caption{Single-project scenario - Knowledge groups created by past prs: Results of Mann-Whitney test (adj. $p$-value) and Cliff's Delta ($d$).}
 \label{tab:stats-local}
 \footnotesize
 \begin{tabular}{lrr}
