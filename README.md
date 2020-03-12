@@ -17,7 +17,7 @@
 6) info_repositories (folder) contains:
 - general_stat(.pdf) with the statistics for all the projects;
 - lang_stat(.csv) with the statistics for the projects regarding their main programming language;
-- the loc subfolder with 4977 json files wit size information for each project (the filename is `<username>__<repo>`.json).
+- the loc subfolder with 4977 json files with LOC and language information for each project (the filename is `<username>__<repo>`.json).
   Each json file contains both overall information on the repository (e.g., total number of lines, total number of files), and details for each language used in the repository (i.e., number of files, number of blank lines, number of comments, and number of lines of code, for each language used).
   
   Please note that it was not possible extracting info for 4/4981 repositories.
