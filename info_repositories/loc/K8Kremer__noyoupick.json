@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.84003305435181,
+  "n_files"            : 21,
+  "n_lines"            : 13635,
+  "files_per_second"   : 5.46870292592957,
+  "lines_per_second"   : 3550.75068547856,
+  "report_file"        : "loc/K8Kremer__noyoupick.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 13044},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 66,
+  "comment": 25,
+  "code": 348},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 0,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 37},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 15},
+"SUM": {
+  "blank": 107,
+  "comment": 45,
+  "code": 13483,
+  "nFiles": 21} }

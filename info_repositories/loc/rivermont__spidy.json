@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.8712420463562,
+  "n_files"            : 14,
+  "n_lines"            : 2529,
+  "files_per_second"   : 2.0374773447872,
+  "lines_per_second"   : 368.055728926202,
+  "report_file"        : "loc/rivermont__spidy.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 270,
+  "comment": 238,
+  "code": 1195},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 203,
+  "comment": 0,
+  "code": 464},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 23,
+  "code": 47},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 30},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 7,
+  "code": 12},
+"SUM": {
+  "blank": 497,
+  "comment": 270,
+  "code": 1762,
+  "nFiles": 14} }

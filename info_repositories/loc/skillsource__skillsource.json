@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.229265928268433,
+  "n_files"            : 27,
+  "n_lines"            : 11838,
+  "files_per_second"   : 117.767171964547,
+  "lines_per_second"   : 51634.3622857892,
+  "report_file"        : "loc/skillsource__skillsource.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 9201},
+"JSX" :{
+  "nFiles": 15,
+  "blank": 114,
+  "comment": 0,
+  "code": 996},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 77,
+  "comment": 32,
+  "code": 649},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 122,
+  "comment": 60,
+  "code": 525},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 42},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 324,
+  "comment": 92,
+  "code": 11422,
+  "nFiles": 27} }

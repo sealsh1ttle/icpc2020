@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 69.7087631225586,
+  "n_files"            : 273,
+  "n_lines"            : 75626,
+  "files_per_second"   : 3.91629384558186,
+  "lines_per_second"   : 1084.88512221968,
+  "report_file"        : "loc/InfraSIM__obsoleted-vpduserv.json"},
+"Python" :{
+  "nFiles": 211,
+  "blank": 6630,
+  "comment": 12167,
+  "code": 25722},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 2224,
+  "comment": 0,
+  "code": 11521},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 2015,
+  "comment": 2230,
+  "code": 8791},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 278,
+  "comment": 37,
+  "code": 1047},
+"reStructuredText" :{
+  "nFiles": 16,
+  "blank": 494,
+  "comment": 416,
+  "code": 983},
+"make" :{
+  "nFiles": 3,
+  "blank": 66,
+  "comment": 13,
+  "code": 334},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 83,
+  "comment": 0,
+  "code": 256},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"C" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 28,
+  "code": 69},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 11835,
+  "comment": 14892,
+  "code": 48899,
+  "nFiles": 273} }

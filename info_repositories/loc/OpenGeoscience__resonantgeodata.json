@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.62943887710571,
+  "n_files"            : 12,
+  "n_lines"            : 561,
+  "files_per_second"   : 4.56371133190542,
+  "lines_per_second"   : 213.353504766578,
+  "report_file"        : "loc/OpenGeoscience__resonantgeodata.json"},
+"Python" :{
+  "nFiles": 6,
+  "blank": 50,
+  "comment": 10,
+  "code": 233},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 9,
+  "code": 168},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 79,
+  "comment": 19,
+  "code": 463,
+  "nFiles": 12} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.41275405883789,
+  "n_files"            : 202,
+  "n_lines"            : 24373,
+  "files_per_second"   : 142.983131944538,
+  "lines_per_second"   : 17252.1181924962,
+  "report_file"        : "loc/puppetlabs__puppetlabs-netapp.json"},
+"Ruby" :{
+  "nFiles": 157,
+  "blank": 2387,
+  "comment": 852,
+  "code": 12032},
+"YAML" :{
+  "nFiles": 34,
+  "blank": 487,
+  "comment": 25,
+  "code": 5929},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 744,
+  "comment": 0,
+  "code": 1405},
+"Puppet" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 179,
+  "code": 208},
+"diff" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 22,
+  "code": 30},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 3655,
+  "comment": 1078,
+  "code": 19640,
+  "nFiles": 202} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.64606499671936,
+  "n_files"            : 8,
+  "n_lines"            : 919,
+  "files_per_second"   : 0.829353731570419,
+  "lines_per_second"   : 95.2720099141519,
+  "report_file"        : "loc/solettaproject__meta-soletta.json"},
+"diff" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 94,
+  "code": 640},
+"C" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 17,
+  "code": 47},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 33},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 22},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 54,
+  "comment": 112,
+  "code": 753,
+  "nFiles": 8} }

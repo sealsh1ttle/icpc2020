@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.7185151576996,
+  "n_files"            : 98,
+  "n_lines"            : 2785,
+  "files_per_second"   : 4.3136621966593,
+  "lines_per_second"   : 122.587236915267,
+  "report_file"        : "loc/nickkhall__todo-app.json"},
+"JavaScript" :{
+  "nFiles": 91,
+  "blank": 386,
+  "comment": 280,
+  "code": 1855},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 100},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 9,
+  "code": 81},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 19},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 11},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 4,
+  "code": 10},
+"SUM": {
+  "blank": 404,
+  "comment": 293,
+  "code": 2088,
+  "nFiles": 98} }

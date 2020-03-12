@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.031135082244873,
+  "n_files"            : 3,
+  "n_lines"            : 315,
+  "files_per_second"   : 96.3543303468872,
+  "lines_per_second"   : 10117.2046864232,
+  "report_file"        : "loc/firebeasty__valet.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 77,
+  "comment": 14,
+  "code": 223},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 77,
+  "comment": 14,
+  "code": 224,
+  "nFiles": 3} }

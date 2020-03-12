@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.2899520397186,
+  "n_files"            : 221,
+  "n_lines"            : 140663,
+  "files_per_second"   : 5.62484779254983,
+  "lines_per_second"   : 3580.12653865808,
+  "report_file"        : "loc/ladybug-tools__honeybee-legacy.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 59647},
+"Python" :{
+  "nFiles": 216,
+  "blank": 12239,
+  "comment": 15651,
+  "code": 52483},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 475},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 95},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 12286,
+  "comment": 15651,
+  "code": 112726,
+  "nFiles": 221} }

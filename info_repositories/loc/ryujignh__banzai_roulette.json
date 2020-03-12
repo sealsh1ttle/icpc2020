@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.4439270496368,
+  "n_files"            : 96,
+  "n_lines"            : 2188,
+  "files_per_second"   : 3.92735585428063,
+  "lines_per_second"   : 89.5109855121461,
+  "report_file"        : "loc/ryujignh__banzai_roulette.json"},
+"Ruby" :{
+  "nFiles": 61,
+  "blank": 178,
+  "comment": 189,
+  "code": 579},
+"ERB" :{
+  "nFiles": 17,
+  "blank": 32,
+  "comment": 0,
+  "code": 336},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 38,
+  "comment": 12,
+  "code": 229},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 100,
+  "code": 84},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 18,
+  "code": 55},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 14},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 64,
+  "code": 0},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 320,
+  "comment": 389,
+  "code": 1479,
+  "nFiles": 96} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.5287811756134,
+  "n_files"            : 51,
+  "n_lines"            : 17778,
+  "files_per_second"   : 5.97975243471199,
+  "lines_per_second"   : 2084.47134871195,
+  "report_file"        : "loc/elasticio__api-docs.json"},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 2494,
+  "comment": 0,
+  "code": 9873},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 643,
+  "comment": 1215,
+  "code": 1560},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 154,
+  "comment": 59,
+  "code": 729},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 86,
+  "comment": 158,
+  "code": 221},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 220},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 12,
+  "code": 104},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 4,
+  "code": 92},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 28},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 11,
+  "code": 15},
+"SUM": {
+  "blank": 3439,
+  "comment": 1460,
+  "code": 12879,
+  "nFiles": 51} }

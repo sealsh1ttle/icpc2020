@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.5381720066071,
+  "n_files"            : 114,
+  "n_lines"            : 20026,
+  "files_per_second"   : 4.29569903954267,
+  "lines_per_second"   : 754.611131279662,
+  "report_file"        : "loc/exp0nge__time-barter.json"},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 984,
+  "comment": 19,
+  "code": 7976},
+"Sass" :{
+  "nFiles": 54,
+  "blank": 240,
+  "comment": 149,
+  "code": 4331},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2671},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 44,
+  "code": 1758},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 109,
+  "comment": 98,
+  "code": 662},
+"Handlebars" :{
+  "nFiles": 13,
+  "blank": 69,
+  "comment": 7,
+  "code": 446},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 98,
+  "comment": 0,
+  "code": 174},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 156},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1534,
+  "comment": 317,
+  "code": 18175,
+  "nFiles": 114} }

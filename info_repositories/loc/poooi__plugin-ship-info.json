@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.725341081619263,
+  "n_files"            : 59,
+  "n_lines"            : 29437,
+  "files_per_second"   : 81.3410428488174,
+  "lines_per_second"   : 40583.6657345871,
+  "report_file"        : "loc/poooi__plugin-ship-info.json"},
+"TypeScript" :{
+  "nFiles": 44,
+  "blank": 1246,
+  "comment": 8237,
+  "code": 12020},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 111,
+  "comment": 262,
+  "code": 6634},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 5,
+  "comment": 0,
+  "code": 869},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1373,
+  "comment": 8499,
+  "code": 19565,
+  "nFiles": 59} }

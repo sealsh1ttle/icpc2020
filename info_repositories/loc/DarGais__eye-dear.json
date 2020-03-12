@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.3092358112335,
+  "n_files"            : 182,
+  "n_lines"            : 4492,
+  "files_per_second"   : 5.15445876464133,
+  "lines_per_second"   : 127.218839399829,
+  "report_file"        : "loc/DarGais__eye-dear.json"},
+"Ruby" :{
+  "nFiles": 108,
+  "blank": 355,
+  "comment": 417,
+  "code": 1713},
+"ERB" :{
+  "nFiles": 45,
+  "blank": 121,
+  "comment": 0,
+  "code": 767},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 70,
+  "comment": 27,
+  "code": 436},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 31,
+  "comment": 42,
+  "code": 173},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 59},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 27,
+  "code": 4},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 624,
+  "comment": 534,
+  "code": 3334,
+  "nFiles": 182} }

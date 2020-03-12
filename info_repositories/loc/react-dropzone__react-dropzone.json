@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.11194920539856,
+  "n_files"            : 37,
+  "n_lines"            : 5696,
+  "files_per_second"   : 4.06060209138113,
+  "lines_per_second"   : 625.113230067754,
+  "report_file"        : "loc/react-dropzone__react-dropzone.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 536,
+  "comment": 319,
+  "code": 2859},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 207,
+  "comment": 0,
+  "code": 978},
+"TypeScript" :{
+  "nFiles": 9,
+  "blank": 36,
+  "comment": 0,
+  "code": 377},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 295},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 10,
+  "code": 40},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 32},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 785,
+  "comment": 329,
+  "code": 4582,
+  "nFiles": 37} }

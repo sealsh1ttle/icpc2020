@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 94.2655189037323,
+  "n_files"            : 242,
+  "n_lines"            : 78080,
+  "files_per_second"   : 2.56721654762374,
+  "lines_per_second"   : 828.298628258106,
+  "report_file"        : "loc/firecracker-microvm__firecracker.json"},
+"Rust" :{
+  "nFiles": 146,
+  "blank": 5691,
+  "comment": 8997,
+  "code": 45761},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 5,
+  "comment": 5,
+  "code": 4554},
+"Python" :{
+  "nFiles": 34,
+  "blank": 1183,
+  "comment": 1345,
+  "code": 4060},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 835,
+  "comment": 0,
+  "code": 2920},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 639},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 126,
+  "comment": 257,
+  "code": 509},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 95,
+  "comment": 81,
+  "code": 357},
+"TOML" :{
+  "nFiles": 22,
+  "blank": 49,
+  "comment": 0,
+  "code": 245},
+"C" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 23,
+  "code": 186},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"diff" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 11,
+  "code": 15},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 5,
+  "code": 5},
+"SUM": {
+  "blank": 8063,
+  "comment": 10724,
+  "code": 59293,
+  "nFiles": 242} }

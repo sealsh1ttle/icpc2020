@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1062.17399001122,
+  "n_files"            : 2472,
+  "n_lines"            : 1133170,
+  "files_per_second"   : 2.32730232828795,
+  "lines_per_second"   : 1066.84028290698,
+  "report_file"        : "loc/openfaas__openfaas-cloud.json"},
+"Go" :{
+  "nFiles": 2108,
+  "blank": 80826,
+  "comment": 113269,
+  "code": 887967},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 19,
+  "comment": 0,
+  "code": 15478},
+"Markdown" :{
+  "nFiles": 79,
+  "blank": 2265,
+  "comment": 0,
+  "code": 5634},
+"Protocol Buffers" :{
+  "nFiles": 51,
+  "blank": 2620,
+  "comment": 7935,
+  "code": 4410},
+"Assembly" :{
+  "nFiles": 41,
+  "blank": 465,
+  "comment": 499,
+  "code": 1537},
+"Bourne Shell" :{
+  "nFiles": 18,
+  "blank": 233,
+  "comment": 810,
+  "code": 1428},
+"Perl" :{
+  "nFiles": 11,
+  "blank": 208,
+  "comment": 200,
+  "code": 1375},
+"JSX" :{
+  "nFiles": 16,
+  "blank": 152,
+  "comment": 3,
+  "code": 1225},
+"YAML" :{
+  "nFiles": 48,
+  "blank": 118,
+  "comment": 85,
+  "code": 1061},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 63,
+  "comment": 30,
+  "code": 440},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 43,
+  "comment": 10,
+  "code": 330},
+"TOML" :{
+  "nFiles": 20,
+  "blank": 120,
+  "comment": 336,
+  "code": 324},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 50,
+  "code": 306},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 40,
+  "comment": 17,
+  "code": 292},
+"make" :{
+  "nFiles": 18,
+  "blank": 91,
+  "comment": 144,
+  "code": 258},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 62,
+  "comment": 14,
+  "code": 138},
+"C" :{
+  "nFiles": 4,
+  "blank": 33,
+  "comment": 43,
+  "code": 93},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"SUM": {
+  "blank": 87392,
+  "comment": 123464,
+  "code": 922314,
+  "nFiles": 2472} }

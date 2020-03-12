@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.5895719528198,
+  "n_files"            : 57,
+  "n_lines"            : 2771,
+  "files_per_second"   : 3.65629025431259,
+  "lines_per_second"   : 177.747022714038,
+  "report_file"        : "loc/MontFerret__montferret.github.io.json"},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 415,
+  "comment": 0,
+  "code": 1311},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 33,
+  "comment": 1,
+  "code": 442},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 50,
+  "comment": 0,
+  "code": 241},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 103},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 69},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 14,
+  "code": 39},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 19},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 9},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 517,
+  "comment": 19,
+  "code": 2235,
+  "nFiles": 57} }

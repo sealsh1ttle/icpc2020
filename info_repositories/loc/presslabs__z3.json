@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.237679958343506,
+  "n_files"            : 14,
+  "n_lines"            : 2341,
+  "files_per_second"   : 58.9027366782292,
+  "lines_per_second"   : 9849.37904026675,
+  "report_file"        : "loc/presslabs__z3.json"},
+"Python" :{
+  "nFiles": 10,
+  "blank": 320,
+  "comment": 109,
+  "code": 1711},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 0,
+  "code": 125},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 369,
+  "comment": 109,
+  "code": 1863,
+  "nFiles": 14} }

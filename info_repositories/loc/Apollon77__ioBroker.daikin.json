@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.172177076339722,
+  "n_files"            : 12,
+  "n_lines"            : 2099,
+  "files_per_second"   : 69.6956892003606,
+  "lines_per_second"   : 12190.9376359631,
+  "report_file"        : "loc/Apollon77__ioBroker.daikin.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 142,
+  "comment": 53,
+  "code": 1426},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 152},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 4,
+  "code": 105},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 86},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 86},
+"SUM": {
+  "blank": 187,
+  "comment": 57,
+  "code": 1855,
+  "nFiles": 12} }

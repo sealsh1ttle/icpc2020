@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 75.5624918937683,
+  "n_files"            : 256,
+  "n_lines"            : 32595,
+  "files_per_second"   : 3.38792426750437,
+  "lines_per_second"   : 431.36481054416,
+  "report_file"        : "loc/mpcjanssen__simpletask-android.json"},
+"XML" :{
+  "nFiles": 121,
+  "blank": 828,
+  "comment": 859,
+  "code": 9486},
+"Kotlin" :{
+  "nFiles": 66,
+  "blank": 1600,
+  "comment": 734,
+  "code": 8441},
+"Java" :{
+  "nFiles": 18,
+  "blank": 906,
+  "comment": 1541,
+  "code": 3665},
+"Markdown" :{
+  "nFiles": 34,
+  "blank": 1077,
+  "comment": 0,
+  "code": 2364},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 14,
+  "code": 207},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 22,
+  "code": 136},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 19,
+  "code": 135},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 4,
+  "code": 123},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 4,
+  "code": 70},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 4574,
+  "comment": 3218,
+  "code": 24803,
+  "nFiles": 256} }

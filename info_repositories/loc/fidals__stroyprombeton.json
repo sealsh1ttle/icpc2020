@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 83.7724120616913,
+  "n_files"            : 260,
+  "n_lines"            : 29287,
+  "files_per_second"   : 3.10364705517291,
+  "lines_per_second"   : 349.601966557112,
+  "report_file"        : "loc/fidals__stroyprombeton.json"},
+"Sass" :{
+  "nFiles": 56,
+  "blank": 1414,
+  "comment": 2783,
+  "code": 7336},
+"Python" :{
+  "nFiles": 80,
+  "blank": 1660,
+  "comment": 742,
+  "code": 6347},
+"HTML" :{
+  "nFiles": 62,
+  "blank": 342,
+  "comment": 20,
+  "code": 3603},
+"JavaScript" :{
+  "nFiles": 32,
+  "blank": 336,
+  "comment": 662,
+  "code": 2328},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 63,
+  "comment": 31,
+  "code": 517},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 62,
+  "comment": 0,
+  "code": 192},
+"make" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 23,
+  "code": 102},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 124,
+  "comment": 219,
+  "code": 101},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 21,
+  "comment": 20,
+  "code": 87},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 78},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 5,
+  "code": 25},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 4065,
+  "comment": 4505,
+  "code": 20717,
+  "nFiles": 260} }

@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.39337110519409,
+  "n_files"            : 393,
+  "n_lines"            : 63401,
+  "files_per_second"   : 89.4529486788342,
+  "lines_per_second"   : 14431.0595399154,
+  "report_file"        : "loc/istio__old_mixer_repo.json"},
+"Go" :{
+  "nFiles": 258,
+  "blank": 6327,
+  "comment": 6552,
+  "code": 40651},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1442},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 484,
+  "comment": 0,
+  "code": 1400},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 17,
+  "code": 1126},
+"YAML" :{
+  "nFiles": 22,
+  "blank": 13,
+  "comment": 68,
+  "code": 1042},
+"Protocol Buffers" :{
+  "nFiles": 47,
+  "blank": 435,
+  "comment": 837,
+  "code": 691},
+"Bourne Shell" :{
+  "nFiles": 21,
+  "blank": 162,
+  "comment": 155,
+  "code": 493},
+"Starlark" :{
+  "nFiles": 10,
+  "blank": 87,
+  "comment": 341,
+  "code": 317},
+"Python" :{
+  "nFiles": 3,
+  "blank": 82,
+  "comment": 65,
+  "code": 263},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 11,
+  "code": 97},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 14,
+  "code": 60},
+"SVG" :{
+  "nFiles": 11,
+  "blank": 22,
+  "comment": 0,
+  "code": 22},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 13,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 10},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 7687,
+  "comment": 8076,
+  "code": 47638,
+  "nFiles": 393} }

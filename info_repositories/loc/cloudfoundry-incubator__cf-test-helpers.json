@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.6911590099335,
+  "n_files"            : 66,
+  "n_lines"            : 5340,
+  "files_per_second"   : 5.20047065428313,
+  "lines_per_second"   : 420.765352937453,
+  "report_file"        : "loc/cloudfoundry-incubator__cf-test-helpers.json"},
+"Go" :{
+  "nFiles": 64,
+  "blank": 966,
+  "comment": 20,
+  "code": 4328},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 8},
+"SUM": {
+  "blank": 973,
+  "comment": 21,
+  "code": 4346,
+  "nFiles": 66} }

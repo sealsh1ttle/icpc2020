@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1299.36952805519,
+  "n_files"            : 3702,
+  "n_lines"            : 310224,
+  "files_per_second"   : 2.84907404711953,
+  "lines_per_second"   : 238.749634574179,
+  "report_file"        : "loc/phpservermon__phpservermon.json"},
+"Ruby" :{
+  "nFiles": 848,
+  "blank": 7844,
+  "comment": 1942,
+  "code": 48881},
+"JavaScript" :{
+  "nFiles": 141,
+  "blank": 6187,
+  "comment": 2768,
+  "code": 41340},
+"Puppet" :{
+  "nFiles": 545,
+  "blank": 2974,
+  "comment": 6781,
+  "code": 22913},
+"PHP" :{
+  "nFiles": 95,
+  "blank": 35753,
+  "comment": 60382,
+  "code": 13574},
+"Sass" :{
+  "nFiles": 110,
+  "blank": 1832,
+  "comment": 1158,
+  "code": 10117},
+"Markdown" :{
+  "nFiles": 71,
+  "blank": 4137,
+  "comment": 0,
+  "code": 9561},
+"CSS" :{
+  "nFiles": 19,
+  "blank": 3402,
+  "comment": 76,
+  "code": 7967},
+"ERB" :{
+  "nFiles": 149,
+  "blank": 543,
+  "comment": 22,
+  "code": 5274},
+"HTML" :{
+  "nFiles": 45,
+  "blank": 205,
+  "comment": 230,
+  "code": 3344},
+"Bourne Shell" :{
+  "nFiles": 37,
+  "blank": 378,
+  "comment": 267,
+  "code": 2090},
+"YAML" :{
+  "nFiles": 117,
+  "blank": 14,
+  "comment": 13,
+  "code": 1922},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 9,
+  "comment": 0,
+  "code": 1540},
+"SVG" :{
+  "nFiles": 1479,
+  "blank": 0,
+  "comment": 0,
+  "code": 1479},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 334,
+  "comment": 26,
+  "code": 806},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 56,
+  "comment": 126,
+  "code": 784},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 49,
+  "comment": 41,
+  "code": 255},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"make" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 7,
+  "code": 192},
+"XML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 6,
+  "code": 54},
+"Python" :{
+  "nFiles": 1,
+  "blank": 69,
+  "comment": 161,
+  "code": 31},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 14},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 63860,
+  "comment": 74008,
+  "code": 172356,
+  "nFiles": 3702} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.98473620414734,
+  "n_files"            : 9,
+  "n_lines"            : 3452,
+  "files_per_second"   : 1.50382568136639,
+  "lines_per_second"   : 576.800694675199,
+  "report_file"        : "loc/Gael-de-Sailly__valleys_mapgen.json"},
+"Lua" :{
+  "nFiles": 8,
+  "blank": 375,
+  "comment": 261,
+  "code": 2622},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 162},
+"SUM": {
+  "blank": 407,
+  "comment": 261,
+  "code": 2784,
+  "nFiles": 9} }

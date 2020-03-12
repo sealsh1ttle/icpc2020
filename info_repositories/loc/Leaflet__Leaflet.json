@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 97.1505250930786,
+  "n_files"            : 383,
+  "n_lines"            : 290190,
+  "files_per_second"   : 3.94233587140217,
+  "lines_per_second"   : 2987.01422068458,
+  "report_file"        : "loc/Leaflet__Leaflet.json"},
+"HTML" :{
+  "nFiles": 103,
+  "blank": 36663,
+  "comment": 131,
+  "code": 212604},
+"JavaScript" :{
+  "nFiles": 139,
+  "blank": 4548,
+  "comment": 3804,
+  "code": 16740},
+"Markdown" :{
+  "nFiles": 107,
+  "blank": 2359,
+  "comment": 0,
+  "code": 10256},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 361,
+  "comment": 219,
+  "code": 1918},
+"Handlebars" :{
+  "nFiles": 18,
+  "blank": 16,
+  "comment": 9,
+  "code": 344},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 101},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 3,
+  "code": 41},
+"XML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 21},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 43972,
+  "comment": 4166,
+  "code": 242052,
+  "nFiles": 383} }

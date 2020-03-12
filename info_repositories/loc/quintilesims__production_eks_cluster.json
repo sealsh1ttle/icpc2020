@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.85505700111389,
+  "n_files"            : 27,
+  "n_lines"            : 573,
+  "files_per_second"   : 4.61139831685044,
+  "lines_per_second"   : 97.8641198353816,
+  "report_file"        : "loc/quintilesims__production_eks_cluster.json"},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 4,
+  "comment": 5,
+  "code": 176},
+"make" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 1,
+  "code": 91},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 0,
+  "code": 81},
+"HCL" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 0,
+  "code": 58},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 14,
+  "code": 51},
+"SUM": {
+  "blank": 96,
+  "comment": 20,
+  "code": 457,
+  "nFiles": 27} }

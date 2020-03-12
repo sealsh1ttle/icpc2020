@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.8240759372711,
+  "n_files"            : 42,
+  "n_lines"            : 4135,
+  "files_per_second"   : 3.88023885303494,
+  "lines_per_second"   : 382.018753745226,
+  "report_file"        : "loc/whitecube__nova-flexible-content.json"},
+"PHP" :{
+  "nFiles": 21,
+  "blank": 421,
+  "comment": 1100,
+  "code": 1340},
+"Vuejs Component" :{
+  "nFiles": 10,
+  "blank": 76,
+  "comment": 65,
+  "code": 449},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 141,
+  "comment": 0,
+  "code": 353},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 66},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 16,
+  "code": 64},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 652,
+  "comment": 1182,
+  "code": 2301,
+  "nFiles": 42} }

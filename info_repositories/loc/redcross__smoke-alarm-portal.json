@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 91.1586258411407,
+  "n_files"            : 326,
+  "n_lines"            : 174501,
+  "files_per_second"   : 3.57618378943217,
+  "lines_per_second"   : 1914.25658723835,
+  "report_file"        : "loc/redcross__smoke-alarm-portal.json"},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 652,
+  "comment": 657,
+  "code": 44988},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 43578},
+"JavaScript" :{
+  "nFiles": 140,
+  "blank": 7232,
+  "comment": 6776,
+  "code": 36153},
+"CSS" :{
+  "nFiles": 27,
+  "blank": 2250,
+  "comment": 175,
+  "code": 16156},
+"LESS" :{
+  "nFiles": 102,
+  "blank": 1313,
+  "comment": 1634,
+  "code": 7531},
+"Pug" :{
+  "nFiles": 38,
+  "blank": 202,
+  "comment": 41,
+  "code": 2170},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 422,
+  "comment": 0,
+  "code": 1432},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 565},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 2,
+  "code": 266},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 86,
+  "code": 69},
+"Python" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 29,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 17,
+  "code": 4},
+"SUM": {
+  "blank": 12156,
+  "comment": 9417,
+  "code": 152928,
+  "nFiles": 326} }

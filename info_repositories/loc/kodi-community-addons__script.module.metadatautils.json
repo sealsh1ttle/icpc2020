@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.311666011810303,
+  "n_files"            : 29,
+  "n_lines"            : 6593,
+  "files_per_second"   : 93.0483238501188,
+  "lines_per_second"   : 21154.0551428908,
+  "report_file"        : "loc/kodi-community-addons__script.module.metadatautils.json"},
+"Python" :{
+  "nFiles": 21,
+  "blank": 439,
+  "comment": 703,
+  "code": 4001},
+"PO File" :{
+  "nFiles": 5,
+  "blank": 261,
+  "comment": 20,
+  "code": 849},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 0,
+  "code": 175},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 93},
+"SUM": {
+  "blank": 752,
+  "comment": 723,
+  "code": 5118,
+  "nFiles": 29} }

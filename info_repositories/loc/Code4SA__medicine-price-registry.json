@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.1502358913422,
+  "n_files"            : 50,
+  "n_lines"            : 31913,
+  "files_per_second"   : 3.30027864639212,
+  "lines_per_second"   : 2106.43584884623,
+  "report_file"        : "loc/Code4SA__medicine-price-registry.json"},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 2837,
+  "comment": 2455,
+  "code": 16373},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 1067,
+  "comment": 20,
+  "code": 6188},
+"Python" :{
+  "nFiles": 24,
+  "blank": 396,
+  "comment": 103,
+  "code": 1580},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 369},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 1,
+  "code": 209},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 136},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 68},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 4,
+  "code": 49},
+"SUM": {
+  "blank": 4357,
+  "comment": 2584,
+  "code": 24972,
+  "nFiles": 50} }

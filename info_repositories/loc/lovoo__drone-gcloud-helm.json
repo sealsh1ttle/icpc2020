@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.84315896034241,
+  "n_files"            : 23,
+  "n_lines"            : 3233,
+  "files_per_second"   : 5.98466007712333,
+  "lines_per_second"   : 841.235044753901,
+  "report_file"        : "loc/lovoo__drone-gcloud-helm.json"},
+"Go" :{
+  "nFiles": 15,
+  "blank": 344,
+  "comment": 205,
+  "code": 2242},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 74,
+  "comment": 0,
+  "code": 268},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 30},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 26},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 20,
+  "code": 6},
+"SUM": {
+  "blank": 436,
+  "comment": 225,
+  "code": 2572,
+  "nFiles": 23} }

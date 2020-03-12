@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.7871079444885,
+  "n_files"            : 241,
+  "n_lines"            : 9854,
+  "files_per_second"   : 5.15099159977871,
+  "lines_per_second"   : 210.613573544479,
+  "report_file"        : "loc/iOS-Goodies__iOS-Goodies.json"},
+"Markdown" :{
+  "nFiles": 241,
+  "blank": 3043,
+  "comment": 0,
+  "code": 6811},
+"SUM": {
+  "blank": 3043,
+  "comment": 0,
+  "code": 6811,
+  "nFiles": 241} }

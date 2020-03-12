@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.281514883041382,
+  "n_files"            : 37,
+  "n_lines"            : 11586,
+  "files_per_second"   : 131.431772275291,
+  "lines_per_second"   : 41155.9057724735,
+  "report_file"        : "loc/the-ethan-hunt__B.E.N.J.I..json"},
+"Python" :{
+  "nFiles": 29,
+  "blank": 1632,
+  "comment": 1924,
+  "code": 7425},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 116,
+  "comment": 0,
+  "code": 433},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 1,
+  "code": 43},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1759,
+  "comment": 1925,
+  "code": 7902,
+  "nFiles": 37} }

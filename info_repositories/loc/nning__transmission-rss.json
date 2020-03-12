@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.7060010433197,
+  "n_files"            : 35,
+  "n_lines"            : 2372,
+  "files_per_second"   : 6.13389302495418,
+  "lines_per_second"   : 415.702693005466,
+  "report_file"        : "loc/nning__transmission-rss.json"},
+"Ruby" :{
+  "nFiles": 22,
+  "blank": 267,
+  "comment": 69,
+  "code": 1025},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 14,
+  "comment": 0,
+  "code": 680},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 0,
+  "code": 148},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 9,
+  "code": 72},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 15},
+"SUM": {
+  "blank": 351,
+  "comment": 81,
+  "code": 1940,
+  "nFiles": 35} }

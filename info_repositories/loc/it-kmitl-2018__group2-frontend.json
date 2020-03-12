@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.05853915214539,
+  "n_files"            : 43,
+  "n_lines"            : 16852,
+  "files_per_second"   : 5.33595471687351,
+  "lines_per_second"   : 2091.19788113378,
+  "report_file"        : "loc/it-kmitl-2018__group2-frontend.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 15274},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 89,
+  "comment": 108,
+  "code": 769},
+"Vuejs Component" :{
+  "nFiles": 15,
+  "blank": 33,
+  "comment": 22,
+  "code": 510},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 20},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 11},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 132,
+  "comment": 131,
+  "code": 16589,
+  "nFiles": 43} }

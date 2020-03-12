@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.980682134628296,
+  "n_files"            : 40,
+  "n_lines"            : 4294,
+  "files_per_second"   : 40.7879358536097,
+  "lines_per_second"   : 4378.58491388501,
+  "report_file"        : "loc/fossasia__gci15.fossasia.org.json"},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 23,
+  "code": 1900},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 211,
+  "comment": 1,
+  "code": 1270},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 27,
+  "comment": 5,
+  "code": 261},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 74,
+  "comment": 0,
+  "code": 151},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 39,
+  "comment": 12,
+  "code": 126},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 89},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 40},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 411,
+  "comment": 45,
+  "code": 3838,
+  "nFiles": 40} }

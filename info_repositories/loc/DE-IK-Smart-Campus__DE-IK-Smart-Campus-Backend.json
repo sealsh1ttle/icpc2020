@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 264.149495840073,
+  "n_files"            : 481,
+  "n_lines"            : 42584,
+  "files_per_second"   : 1.82093855023376,
+  "lines_per_second"   : 161.211740588679,
+  "report_file"        : "loc/DE-IK-Smart-Campus__DE-IK-Smart-Campus-Backend.json"},
+"Java" :{
+  "nFiles": 414,
+  "blank": 4027,
+  "comment": 4691,
+  "code": 13335},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 2940,
+  "comment": 7,
+  "code": 11493},
+"XML" :{
+  "nFiles": 12,
+  "blank": 39,
+  "comment": 103,
+  "code": 1991},
+"Maven" :{
+  "nFiles": 14,
+  "blank": 72,
+  "comment": 21,
+  "code": 1873},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 4,
+  "comment": 79,
+  "code": 747},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 155,
+  "comment": 12,
+  "code": 406},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 9,
+  "comment": 1,
+  "code": 147},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 92},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 7280,
+  "comment": 4914,
+  "code": 30390,
+  "nFiles": 481} }

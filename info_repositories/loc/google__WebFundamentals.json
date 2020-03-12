@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.9660549163818,
+  "n_files"            : 4324,
+  "n_lines"            : 706808,
+  "files_per_second"   : 68.6719218115574,
+  "lines_per_second"   : 11225.2228750655,
+  "report_file"        : "loc/google__WebFundamentals.json"},
+"Markdown" :{
+  "nFiles": 3087,
+  "blank": 169369,
+  "comment": 1,
+  "code": 400645},
+"HTML" :{
+  "nFiles": 678,
+  "blank": 5168,
+  "comment": 326,
+  "code": 71982},
+"SVG" :{
+  "nFiles": 197,
+  "blank": 220,
+  "comment": 16,
+  "code": 21868},
+"YAML" :{
+  "nFiles": 136,
+  "blank": 1033,
+  "comment": 212,
+  "code": 9461},
+"JavaScript" :{
+  "nFiles": 70,
+  "blank": 1074,
+  "comment": 3073,
+  "code": 9212},
+"Python" :{
+  "nFiles": 38,
+  "blank": 1264,
+  "comment": 1504,
+  "code": 4328},
+"JSON" :{
+  "nFiles": 59,
+  "blank": 0,
+  "comment": 0,
+  "code": 3414},
+"CSS" :{
+  "nFiles": 27,
+  "blank": 281,
+  "comment": 52,
+  "code": 1541},
+"Handlebars" :{
+  "nFiles": 21,
+  "blank": 15,
+  "comment": 53,
+  "code": 414},
+"XML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 102},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 37,
+  "comment": 39,
+  "code": 102},
+"SUM": {
+  "blank": 178463,
+  "comment": 5276,
+  "code": 523069,
+  "nFiles": 4324} }

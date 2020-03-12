@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.03754091262817,
+  "n_files"            : 128,
+  "n_lines"            : 15427,
+  "files_per_second"   : 62.8208244588797,
+  "lines_per_second"   : 7571.38171036826,
+  "report_file"        : "loc/bcye__Hello-Goodbye.json"},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 819,
+  "comment": 42,
+  "code": 3147},
+"SVG" :{
+  "nFiles": 18,
+  "blank": 4,
+  "comment": 0,
+  "code": 2707},
+"Sass" :{
+  "nFiles": 33,
+  "blank": 584,
+  "comment": 324,
+  "code": 2200},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 1095},
+"XML" :{
+  "nFiles": 23,
+  "blank": 7,
+  "comment": 6,
+  "code": 850},
+"Objective C" :{
+  "nFiles": 5,
+  "blank": 242,
+  "comment": 207,
+  "code": 819},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 41,
+  "comment": 46,
+  "code": 573},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 252,
+  "comment": 116,
+  "code": 553},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 27,
+  "code": 212},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 0,
+  "code": 121},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 41,
+  "comment": 37,
+  "code": 92},
+"Swift" :{
+  "nFiles": 6,
+  "blank": 47,
+  "comment": 55,
+  "code": 80},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 2111,
+  "comment": 861,
+  "code": 12455,
+  "nFiles": 128} }

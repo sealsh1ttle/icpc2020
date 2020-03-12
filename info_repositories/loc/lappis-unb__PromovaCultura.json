@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.6204209327698,
+  "n_files"            : 110,
+  "n_lines"            : 119192,
+  "files_per_second"   : 3.98256059412521,
+  "lines_per_second"   : 4315.35783940884,
+  "report_file"        : "loc/lappis-unb__PromovaCultura.json"},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 15022,
+  "comment": 26794,
+  "code": 67302},
+"Vuejs Component" :{
+  "nFiles": 40,
+  "blank": 440,
+  "comment": 160,
+  "code": 4357},
+"SVG" :{
+  "nFiles": 16,
+  "blank": 18,
+  "comment": 16,
+  "code": 3057},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 124,
+  "comment": 11,
+  "code": 874},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 107,
+  "comment": 12,
+  "code": 619},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 70,
+  "comment": 0,
+  "code": 136},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 73},
+"SUM": {
+  "blank": 15781,
+  "comment": 26993,
+  "code": 76418,
+  "nFiles": 110} }

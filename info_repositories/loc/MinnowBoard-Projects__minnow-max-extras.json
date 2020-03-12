@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.2057449817657,
+  "n_files"            : 30,
+  "n_lines"            : 1706,
+  "files_per_second"   : 2.11182166359508,
+  "lines_per_second"   : 120.092258603107,
+  "report_file"        : "loc/MinnowBoard-Projects__minnow-max-extras.json"},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 170,
+  "comment": 70,
+  "code": 748},
+"C" :{
+  "nFiles": 6,
+  "blank": 91,
+  "comment": 96,
+  "code": 319},
+"make" :{
+  "nFiles": 8,
+  "blank": 55,
+  "comment": 13,
+  "code": 144},
+"SUM": {
+  "blank": 316,
+  "comment": 179,
+  "code": 1211,
+  "nFiles": 30} }

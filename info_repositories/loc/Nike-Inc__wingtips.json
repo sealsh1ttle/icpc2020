@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 91.6250021457672,
+  "n_files"            : 246,
+  "n_lines"            : 56569,
+  "files_per_second"   : 2.68485669019288,
+  "lines_per_second"   : 617.396984176915,
+  "report_file"        : "loc/Nike-Inc__wingtips.json"},
+"Java" :{
+  "nFiles": 192,
+  "blank": 7234,
+  "comment": 13506,
+  "code": 31111},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 710,
+  "comment": 0,
+  "code": 2466},
+"Gradle" :{
+  "nFiles": 24,
+  "blank": 147,
+  "comment": 76,
+  "code": 996},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 37,
+  "code": 134},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 2,
+  "code": 15},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 10},
+"SUM": {
+  "blank": 8139,
+  "comment": 13624,
+  "code": 34806,
+  "nFiles": 246} }

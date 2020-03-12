@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.2485301494598,
+  "n_files"            : 25,
+  "n_lines"            : 1882,
+  "files_per_second"   : 1.6395022834962,
+  "lines_per_second"   : 123.421731901594,
+  "report_file"        : "loc/irenecrsn__gmat.json"},
+"R" :{
+  "nFiles": 10,
+  "blank": 132,
+  "comment": 324,
+  "code": 495},
+"C" :{
+  "nFiles": 5,
+  "blank": 76,
+  "comment": 73,
+  "code": 338},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 0,
+  "code": 231},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 1,
+  "code": 31},
+"Rmd" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 62,
+  "code": 25},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 10,
+  "code": 16},
+"SUM": {
+  "blank": 276,
+  "comment": 470,
+  "code": 1136,
+  "nFiles": 25} }

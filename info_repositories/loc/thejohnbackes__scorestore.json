@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.1611661911011,
+  "n_files"            : 145,
+  "n_lines"            : 7846,
+  "files_per_second"   : 8.4493092360582,
+  "lines_per_second"   : 457.195036318018,
+  "report_file"        : "loc/thejohnbackes__scorestore.json"},
+"JavaScript" :{
+  "nFiles": 92,
+  "blank": 939,
+  "comment": 330,
+  "code": 4878},
+"HTML" :{
+  "nFiles": 30,
+  "blank": 66,
+  "comment": 155,
+  "code": 885},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 66,
+  "comment": 0,
+  "code": 353},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 166},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1074,
+  "comment": 485,
+  "code": 6287,
+  "nFiles": 145} }

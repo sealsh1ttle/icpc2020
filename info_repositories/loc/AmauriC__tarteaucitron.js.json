@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.229097127914429,
+  "n_files"            : 19,
+  "n_lines"            : 6273,
+  "files_per_second"   : 82.9342566315226,
+  "lines_per_second"   : 27381.3995710285,
+  "report_file"        : "loc/AmauriC__tarteaucitron.js.json"},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 543,
+  "comment": 215,
+  "code": 4639},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 109,
+  "comment": 33,
+  "code": 630},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 60},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 669,
+  "comment": 248,
+  "code": 5356,
+  "nFiles": 19} }

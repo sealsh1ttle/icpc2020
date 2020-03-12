@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 81.8902628421783,
+  "n_files"            : 32,
+  "n_lines"            : 12246,
+  "files_per_second"   : 0.390766849309929,
+  "lines_per_second"   : 149.541588645294,
+  "report_file"        : "loc/cpitclaudel__company-coq.json"},
+"Lisp" :{
+  "nFiles": 14,
+  "blank": 1002,
+  "comment": 393,
+  "code": 7649},
+"Coq" :{
+  "nFiles": 4,
+  "blank": 234,
+  "comment": 258,
+  "code": 914},
+"Python" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 33,
+  "code": 366},
+"diff" :{
+  "nFiles": 3,
+  "blank": 75,
+  "comment": 328,
+  "code": 318},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 99,
+  "comment": 0,
+  "code": 212},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 4,
+  "code": 99},
+"make" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 1,
+  "code": 76},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 5,
+  "code": 32},
+"awk" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1553,
+  "comment": 1022,
+  "code": 9671,
+  "nFiles": 32} }

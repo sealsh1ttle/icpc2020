@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.149892091751099,
+  "n_files"            : 25,
+  "n_lines"            : 3265,
+  "files_per_second"   : 166.786651036356,
+  "lines_per_second"   : 21782.3366253481,
+  "report_file"        : "loc/Timtech4u__tech-events.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 800,
+  "comment": 0,
+  "code": 1694},
+"Python" :{
+  "nFiles": 13,
+  "blank": 93,
+  "comment": 70,
+  "code": 333},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 33,
+  "code": 109},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 51},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 915,
+  "comment": 105,
+  "code": 2245,
+  "nFiles": 25} }

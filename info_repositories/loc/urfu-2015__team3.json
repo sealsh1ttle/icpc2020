@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.4186499118805,
+  "n_files"            : 72,
+  "n_lines"            : 7139,
+  "files_per_second"   : 5.79773167863602,
+  "lines_per_second"   : 574.86120074698,
+  "report_file"        : "loc/urfu-2015__team3.json"},
+"JavaScript" :{
+  "nFiles": 35,
+  "blank": 332,
+  "comment": 127,
+  "code": 3474},
+"Stylus" :{
+  "nFiles": 12,
+  "blank": 89,
+  "comment": 24,
+  "code": 1397},
+"Handlebars" :{
+  "nFiles": 18,
+  "blank": 13,
+  "comment": 25,
+  "code": 1010},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 350},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 227},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 442,
+  "comment": 176,
+  "code": 6521,
+  "nFiles": 72} }

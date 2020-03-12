@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.2681238651276,
+  "n_files"            : 97,
+  "n_lines"            : 14350,
+  "files_per_second"   : 6.35310538851131,
+  "lines_per_second"   : 939.866621908631,
+  "report_file"        : "loc/danrice92__novum_opus_web.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 12277},
+"Ruby" :{
+  "nFiles": 61,
+  "blank": 225,
+  "comment": 316,
+  "code": 720},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"ERB" :{
+  "nFiles": 8,
+  "blank": 11,
+  "comment": 0,
+  "code": 129},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 29,
+  "comment": 123,
+  "code": 82},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 5,
+  "code": 74},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 68},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 11,
+  "comment": 20,
+  "code": 36},
+"SUM": {
+  "blank": 315,
+  "comment": 467,
+  "code": 13568,
+  "nFiles": 97} }

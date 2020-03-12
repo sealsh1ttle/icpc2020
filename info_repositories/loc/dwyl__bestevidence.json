@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.10002088546753,
+  "n_files"            : 228,
+  "n_lines"            : 9367,
+  "files_per_second"   : 207.268791903979,
+  "lines_per_second"   : 8515.29286738847,
+  "report_file"        : "loc/dwyl__bestevidence.json"},
+"Elixir" :{
+  "nFiles": 139,
+  "blank": 893,
+  "comment": 407,
+  "code": 5274},
+"EEx" :{
+  "nFiles": 52,
+  "blank": 74,
+  "comment": 0,
+  "code": 1183},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 91,
+  "comment": 102,
+  "code": 418},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 15,
+  "code": 275},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 48,
+  "comment": 4,
+  "code": 165},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 0,
+  "code": 155},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 76},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 18,
+  "code": 55},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1193,
+  "comment": 546,
+  "code": 7628,
+  "nFiles": 228} }

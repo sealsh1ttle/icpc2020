@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.072350025177,
+  "n_files"            : 79,
+  "n_lines"            : 132276,
+  "files_per_second"   : 4.62736529437932,
+  "lines_per_second"   : 7747.96673011796,
+  "report_file"        : "loc/kubernetes__kube-openapi.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 108470},
+"Go" :{
+  "nFiles": 64,
+  "blank": 1287,
+  "comment": 1598,
+  "code": 10513},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 10281},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 0,
+  "code": 93},
+"SUM": {
+  "blank": 1321,
+  "comment": 1598,
+  "code": 129357,
+  "nFiles": 79} }

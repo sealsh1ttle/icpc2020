@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.6569352149963,
+  "n_files"            : 149,
+  "n_lines"            : 35103,
+  "files_per_second"   : 6.04292458494105,
+  "lines_per_second"   : 1423.65625305494,
+  "report_file"        : "loc/jedisct1__pure-ftpd.json"},
+"C" :{
+  "nFiles": 53,
+  "blank": 1817,
+  "comment": 799,
+  "code": 21117},
+"C/C++ Header" :{
+  "nFiles": 78,
+  "blank": 581,
+  "comment": 146,
+  "code": 8211},
+"m4" :{
+  "nFiles": 4,
+  "blank": 180,
+  "comment": 12,
+  "code": 1480},
+"make" :{
+  "nFiles": 8,
+  "blank": 43,
+  "comment": 0,
+  "code": 349},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 4,
+  "code": 191},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 19,
+  "code": 78},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 2670,
+  "comment": 980,
+  "code": 31453,
+  "nFiles": 149} }

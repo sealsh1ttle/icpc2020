@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.47865509986877,
+  "n_files"            : 32,
+  "n_lines"            : 10034,
+  "files_per_second"   : 4.93929673778253,
+  "lines_per_second"   : 1548.77823334094,
+  "report_file"        : "loc/lucatonile__MjukvaruProjekt.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 8011},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 231,
+  "comment": 123,
+  "code": 1625},
+"Pug" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 23},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 239,
+  "comment": 123,
+  "code": 9672,
+  "nFiles": 32} }

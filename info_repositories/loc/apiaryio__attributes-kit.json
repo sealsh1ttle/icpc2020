@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 77.0559930801392,
+  "n_files"            : 326,
+  "n_lines"            : 33203,
+  "files_per_second"   : 4.23068974869944,
+  "lines_per_second"   : 430.894453147447,
+  "report_file"        : "loc/apiaryio__attributes-kit.json"},
+"Markdown" :{
+  "nFiles": 206,
+  "blank": 831,
+  "comment": 0,
+  "code": 23670},
+"JavaScript" :{
+  "nFiles": 106,
+  "blank": 1205,
+  "comment": 153,
+  "code": 6990},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 176},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 7,
+  "code": 85},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 44},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 2049,
+  "comment": 166,
+  "code": 30988,
+  "nFiles": 326} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.3938310146332,
+  "n_files"            : 202,
+  "n_lines"            : 39546,
+  "files_per_second"   : 3.78320858723622,
+  "lines_per_second"   : 740.647360350711,
+  "report_file"        : "loc/ox-it__wl-basiclti.json"},
+"Java" :{
+  "nFiles": 102,
+  "blank": 3550,
+  "comment": 6174,
+  "code": 18434},
+"PHP" :{
+  "nFiles": 25,
+  "blank": 588,
+  "comment": 368,
+  "code": 3676},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 134,
+  "comment": 397,
+  "code": 1879},
+"Maven" :{
+  "nFiles": 12,
+  "blank": 61,
+  "comment": 54,
+  "code": 1088},
+"Velocity Template Language" :{
+  "nFiles": 24,
+  "blank": 91,
+  "comment": 26,
+  "code": 918},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 39,
+  "comment": 82,
+  "code": 538},
+"XML" :{
+  "nFiles": 12,
+  "blank": 89,
+  "comment": 80,
+  "code": 413},
+"JSP" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 5,
+  "code": 371},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 25,
+  "code": 159},
+"diff" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 38,
+  "code": 68},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 2,
+  "code": 58},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 14,
+  "code": 33},
+"SUM": {
+  "blank": 4646,
+  "comment": 7265,
+  "code": 27635,
+  "nFiles": 202} }

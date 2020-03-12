@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 54.0756440162659,
+  "n_files"            : 149,
+  "n_lines"            : 118741,
+  "files_per_second"   : 2.75539945405331,
+  "lines_per_second"   : 2195.83145351506,
+  "report_file"        : "loc/Seeed-Studio__GrovePiExamples_win10.json"},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 110092},
+"C#" :{
+  "nFiles": 77,
+  "blank": 657,
+  "comment": 967,
+  "code": 3788},
+"MSBuild script" :{
+  "nFiles": 18,
+  "blank": 6,
+  "comment": 144,
+  "code": 2447},
+"XAML" :{
+  "nFiles": 32,
+  "blank": 41,
+  "comment": 0,
+  "code": 358},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 72},
+"XML" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 76,
+  "code": 43},
+"SUM": {
+  "blank": 754,
+  "comment": 1187,
+  "code": 116800,
+  "nFiles": 149} }

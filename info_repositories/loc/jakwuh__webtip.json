@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.11017608642578,
+  "n_files"            : 216,
+  "n_lines"            : 9959,
+  "files_per_second"   : 194.563729701126,
+  "lines_per_second"   : 8970.64900043295,
+  "report_file"        : "loc/jakwuh__webtip.json"},
+"Markdown" :{
+  "nFiles": 101,
+  "blank": 1578,
+  "comment": 0,
+  "code": 4330},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 263,
+  "comment": 0,
+  "code": 1218},
+"JavaScript" :{
+  "nFiles": 35,
+  "blank": 205,
+  "comment": 59,
+  "code": 988},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 445},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 0,
+  "code": 438},
+"JSON" :{
+  "nFiles": 66,
+  "blank": 0,
+  "comment": 0,
+  "code": 307},
+"Python" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 53},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 38},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 2075,
+  "comment": 59,
+  "code": 7825,
+  "nFiles": 216} }

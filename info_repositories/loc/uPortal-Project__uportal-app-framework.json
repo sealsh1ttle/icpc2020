@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 49.7043688297272,
+  "n_files"            : 267,
+  "n_lines"            : 37029,
+  "files_per_second"   : 5.37176120100559,
+  "lines_per_second"   : 744.98481465182,
+  "report_file"        : "loc/uPortal-Project__uportal-app-framework.json"},
+"JSON" :{
+  "nFiles": 63,
+  "blank": 2,
+  "comment": 0,
+  "code": 15281},
+"JavaScript" :{
+  "nFiles": 56,
+  "blank": 582,
+  "comment": 2291,
+  "code": 6271},
+"Markdown" :{
+  "nFiles": 33,
+  "blank": 1042,
+  "comment": 0,
+  "code": 3322},
+"LESS" :{
+  "nFiles": 54,
+  "blank": 547,
+  "comment": 1057,
+  "code": 2471},
+"HTML" :{
+  "nFiles": 48,
+  "blank": 310,
+  "comment": 871,
+  "code": 1807},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 19,
+  "code": 446},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 230},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 137},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 58,
+  "code": 71},
+"XML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 17,
+  "code": 27},
+"JSP" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 34,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 20,
+  "code": 15},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 23,
+  "code": 0},
+"SUM": {
+  "blank": 2545,
+  "comment": 4390,
+  "code": 30094,
+  "nFiles": 267} }

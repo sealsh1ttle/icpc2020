@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 201.374712944031,
+  "n_files"            : 480,
+  "n_lines"            : 40109,
+  "files_per_second"   : 2.38361606073852,
+  "lines_per_second"   : 199.175951208669,
+  "report_file"        : "loc/spinnaker__kayenta.json"},
+"Java" :{
+  "nFiles": 357,
+  "blank": 3995,
+  "comment": 5921,
+  "code": 20216},
+"Scala" :{
+  "nFiles": 35,
+  "blank": 642,
+  "comment": 828,
+  "code": 3114},
+"Groovy" :{
+  "nFiles": 13,
+  "blank": 348,
+  "comment": 191,
+  "code": 1574},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 6,
+  "comment": 0,
+  "code": 914},
+"Gradle" :{
+  "nFiles": 22,
+  "blank": 111,
+  "comment": 84,
+  "code": 607},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 54,
+  "comment": 0,
+  "code": 529},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 63,
+  "comment": 92,
+  "code": 326},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 33,
+  "comment": 42,
+  "code": 180},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"Kotlin" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 15,
+  "code": 39},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 11,
+  "code": 11},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 5291,
+  "comment": 7186,
+  "code": 27632,
+  "nFiles": 480} }

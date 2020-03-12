@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.2225689888,
+  "n_files"            : 76,
+  "n_lines"            : 10239,
+  "files_per_second"   : 4.68483136379139,
+  "lines_per_second"   : 631.157741235,
+  "report_file"        : "loc/moloquent__moloquent.json"},
+"PHP" :{
+  "nFiles": 71,
+  "blank": 1771,
+  "comment": 2328,
+  "code": 5961},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 68},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 51},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 28},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 1788,
+  "comment": 2328,
+  "code": 6123,
+  "nFiles": 76} }

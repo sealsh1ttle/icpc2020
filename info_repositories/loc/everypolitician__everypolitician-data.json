@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 80.0743870735168,
+  "n_files"            : 1965,
+  "n_lines"            : 7049436,
+  "files_per_second"   : 24.5396820608308,
+  "lines_per_second"   : 88036.0906606486,
+  "report_file"        : "loc/everypolitician__everypolitician-data.json"},
+"JSON" :{
+  "nFiles": 1862,
+  "blank": 682,
+  "comment": 0,
+  "code": 7040603},
+"Ruby" :{
+  "nFiles": 82,
+  "blank": 831,
+  "comment": 356,
+  "code": 3278},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 37,
+  "comment": 50,
+  "code": 2230},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 93,
+  "comment": 1,
+  "code": 462},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 43,
+  "code": 266},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 151},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 79,
+  "comment": 0,
+  "code": 132},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 9,
+  "code": 38},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 14},
+"SUM": {
+  "blank": 1800,
+  "comment": 462,
+  "code": 7047174,
+  "nFiles": 1965} }

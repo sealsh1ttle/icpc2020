@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 128.756847858429,
+  "n_files"            : 679,
+  "n_lines"            : 36385,
+  "files_per_second"   : 5.27350592448936,
+  "lines_per_second"   : 282.586911726871,
+  "report_file"        : "loc/yochiyochirb__meetups.json"},
+"Markdown" :{
+  "nFiles": 678,
+  "blank": 10190,
+  "comment": 0,
+  "code": 26174},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 4,
+  "code": 11},
+"SUM": {
+  "blank": 10196,
+  "comment": 4,
+  "code": 26185,
+  "nFiles": 679} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.82184910774231,
+  "n_files"            : 25,
+  "n_lines"            : 8948,
+  "files_per_second"   : 5.18473296061011,
+  "lines_per_second"   : 1855.71962126157,
+  "report_file"        : "loc/elixir-lang__gen_stage.json"},
+"Elixir" :{
+  "nFiles": 22,
+  "blank": 1806,
+  "comment": 1612,
+  "code": 5216},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 126,
+  "comment": 0,
+  "code": 169},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 1932,
+  "comment": 1612,
+  "code": 5404,
+  "nFiles": 25} }

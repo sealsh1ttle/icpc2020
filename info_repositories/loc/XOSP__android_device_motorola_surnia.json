@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.945184946060181,
+  "n_files"            : 23,
+  "n_lines"            : 2228,
+  "files_per_second"   : 24.3338619556638,
+  "lines_per_second"   : 2357.21062770517,
+  "report_file"        : "loc/XOSP__android_device_motorola_surnia.json"},
+"XML" :{
+  "nFiles": 10,
+  "blank": 216,
+  "comment": 201,
+  "code": 1182},
+"C++" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 33,
+  "code": 134},
+"make" :{
+  "nFiles": 7,
+  "blank": 42,
+  "comment": 93,
+  "code": 88},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 17,
+  "code": 66},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 63},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 18},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 32,
+  "code": 12},
+"SUM": {
+  "blank": 289,
+  "comment": 376,
+  "code": 1563,
+  "nFiles": 23} }

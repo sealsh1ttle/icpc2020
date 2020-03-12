@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.5956988334656,
+  "n_files"            : 56,
+  "n_lines"            : 5398,
+  "files_per_second"   : 5.28516343095077,
+  "lines_per_second"   : 509.45200357629,
+  "report_file"        : "loc/AsaCapstone2016__asa.json"},
+"JavaScript" :{
+  "nFiles": 43,
+  "blank": 650,
+  "comment": 526,
+  "code": 3529},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 108,
+  "comment": 0,
+  "code": 277},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 21,
+  "code": 202},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 767,
+  "comment": 547,
+  "code": 4084,
+  "nFiles": 56} }

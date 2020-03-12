@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.529243946075439,
+  "n_files"            : 4,
+  "n_lines"            : 76,
+  "files_per_second"   : 7.55795135619715,
+  "lines_per_second"   : 143.601075767746,
+  "report_file"        : "loc/IBM-Swift__CommonCrypto.json"},
+"Swift" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 33,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 2},
+"SUM": {
+  "blank": 7,
+  "comment": 48,
+  "code": 21,
+  "nFiles": 4} }

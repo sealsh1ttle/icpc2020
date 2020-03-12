@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.3051769733429,
+  "n_files"            : 60,
+  "n_lines"            : 2385,
+  "files_per_second"   : 2.28091983797724,
+  "lines_per_second"   : 90.6665635595954,
+  "report_file"        : "loc/thepracticaldev__DEV-Android.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 15,
+  "code": 524},
+"XML" :{
+  "nFiles": 25,
+  "blank": 17,
+  "comment": 4,
+  "code": 404},
+"Kotlin" :{
+  "nFiles": 15,
+  "blank": 112,
+  "comment": 84,
+  "code": 340},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 82,
+  "comment": 0,
+  "code": 188},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 31,
+  "comment": 5,
+  "code": 173},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 37,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"Java" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 22,
+  "code": 48},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 318,
+  "comment": 187,
+  "code": 1880,
+  "nFiles": 60} }

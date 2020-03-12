@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.508543014526367,
+  "n_files"            : 24,
+  "n_lines"            : 821,
+  "files_per_second"   : 47.1936479598534,
+  "lines_per_second"   : 1614.41604062665,
+  "report_file"        : "loc/schmengler__AutoSKU.json"},
+"PHP" :{
+  "nFiles": 10,
+  "blank": 43,
+  "comment": 240,
+  "code": 238},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 0,
+  "code": 104},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 22,
+  "code": 71},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 0,
+  "code": 56},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 73,
+  "comment": 262,
+  "code": 486,
+  "nFiles": 24} }

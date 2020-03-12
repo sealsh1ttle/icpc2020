@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 115.803733110428,
+  "n_files"            : 4843,
+  "n_lines"            : 988242,
+  "files_per_second"   : 41.8207588815969,
+  "lines_per_second"   : 8533.76634290049,
+  "report_file"        : "loc/druid-io__druid-io.github.io.json"},
+"HTML" :{
+  "nFiles": 2762,
+  "blank": 438,
+  "comment": 107845,
+  "code": 514911},
+"Markdown" :{
+  "nFiles": 2048,
+  "blank": 84879,
+  "comment": 0,
+  "code": 266284},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3896},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 2996},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 646,
+  "comment": 8,
+  "code": 2856},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 525,
+  "comment": 107,
+  "code": 2670},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 104},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 86517,
+  "comment": 107960,
+  "code": 793765,
+  "nFiles": 4843} }

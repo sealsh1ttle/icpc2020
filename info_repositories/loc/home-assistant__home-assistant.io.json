@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 413.77929520607,
+  "n_files"            : 1732,
+  "n_lines"            : 205357,
+  "files_per_second"   : 4.185806346684,
+  "lines_per_second"   : 496.295978023087,
+  "report_file"        : "loc/home-assistant__home-assistant.io.json"},
+"Markdown" :{
+  "nFiles": 1502,
+  "blank": 27626,
+  "comment": 1,
+  "code": 158618},
+"Sass" :{
+  "nFiles": 102,
+  "blank": 1431,
+  "comment": 473,
+  "code": 7790},
+"SVG" :{
+  "nFiles": 29,
+  "blank": 4,
+  "comment": 10,
+  "code": 2750},
+"HTML" :{
+  "nFiles": 58,
+  "blank": 167,
+  "comment": 8,
+  "code": 2127},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 1663},
+"Ruby" :{
+  "nFiles": 11,
+  "blank": 160,
+  "comment": 213,
+  "code": 840},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 48,
+  "comment": 43,
+  "code": 541},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 15,
+  "code": 307},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 27,
+  "comment": 47,
+  "code": 194},
+"XML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 153},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 7,
+  "code": 22},
+"SUM": {
+  "blank": 29535,
+  "comment": 817,
+  "code": 175005,
+  "nFiles": 1732} }

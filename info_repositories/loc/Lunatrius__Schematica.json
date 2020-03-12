@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.825477123260498,
+  "n_files"            : 102,
+  "n_lines"            : 10160,
+  "files_per_second"   : 123.564902195129,
+  "lines_per_second"   : 12308.0333951227,
+  "report_file"        : "loc/Lunatrius__Schematica.json"},
+"Java" :{
+  "nFiles": 94,
+  "blank": 1685,
+  "comment": 247,
+  "code": 7652},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 1,
+  "code": 158},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 92},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"GLSL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1790,
+  "comment": 270,
+  "code": 8100,
+  "nFiles": 102} }

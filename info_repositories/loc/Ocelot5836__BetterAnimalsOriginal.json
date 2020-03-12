@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.1584250926971,
+  "n_files"            : 58,
+  "n_lines"            : 5826,
+  "files_per_second"   : 3.19410960498585,
+  "lines_per_second"   : 320.842802735303,
+  "report_file"        : "loc/Ocelot5836__BetterAnimalsOriginal.json"},
+"Java" :{
+  "nFiles": 54,
+  "blank": 531,
+  "comment": 195,
+  "code": 4762},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 27,
+  "code": 35},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 590,
+  "comment": 245,
+  "code": 4991,
+  "nFiles": 58} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.145031929016113,
+  "n_files"            : 7,
+  "n_lines"            : 64,
+  "files_per_second"   : 48.2652340590622,
+  "lines_per_second"   : 441.282139968569,
+  "report_file"        : "loc/coala__coala-tutorial.json"},
+"Python" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 8,
+  "code": 22},
+"C" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 4},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 18,
+  "comment": 9,
+  "code": 37,
+  "nFiles": 7} }

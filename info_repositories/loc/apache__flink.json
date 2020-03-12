@@ -1,0 +1,149 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4935.5987200737,
+  "n_files"            : 11426,
+  "n_lines"            : 2095700,
+  "files_per_second"   : 2.31501802476952,
+  "lines_per_second"   : 424.609073561131,
+  "report_file"        : "loc/apache__flink.json"},
+"Java" :{
+  "nFiles": 8184,
+  "blank": 221667,
+  "comment": 332767,
+  "code": 837629},
+"Scala" :{
+  "nFiles": 1822,
+  "blank": 51746,
+  "comment": 64946,
+  "code": 261710},
+"Markdown" :{
+  "nFiles": 376,
+  "blank": 22562,
+  "comment": 0,
+  "code": 90369},
+"XML" :{
+  "nFiles": 193,
+  "blank": 2417,
+  "comment": 3265,
+  "code": 79114},
+"Maven" :{
+  "nFiles": 173,
+  "blank": 2779,
+  "comment": 4159,
+  "code": 21715},
+"SVG" :{
+  "nFiles": 47,
+  "blank": 162,
+  "comment": 698,
+  "code": 18773},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 5,
+  "comment": 0,
+  "code": 13206},
+"HTML" :{
+  "nFiles": 136,
+  "blank": 288,
+  "comment": 1571,
+  "code": 10053},
+"Python" :{
+  "nFiles": 84,
+  "blank": 4428,
+  "comment": 7266,
+  "code": 9861},
+"Bourne Shell" :{
+  "nFiles": 128,
+  "blank": 2146,
+  "comment": 3407,
+  "code": 7450},
+"TypeScript" :{
+  "nFiles": 105,
+  "blank": 524,
+  "comment": 2185,
+  "code": 4693},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 72,
+  "comment": 121,
+  "code": 2504},
+"YAML" :{
+  "nFiles": 48,
+  "blank": 192,
+  "comment": 767,
+  "code": 1852},
+"Clojure" :{
+  "nFiles": 18,
+  "blank": 249,
+  "comment": 297,
+  "code": 1619},
+"LESS" :{
+  "nFiles": 46,
+  "blank": 205,
+  "comment": 782,
+  "code": 1019},
+"Freemarker Template" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 49,
+  "code": 549},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 30,
+  "comment": 84,
+  "code": 217},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 95,
+  "code": 168},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 0,
+  "code": 142},
+"Ruby" :{
+  "nFiles": 7,
+  "blank": 42,
+  "comment": 128,
+  "code": 130},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 42,
+  "code": 103},
+"make" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 25,
+  "code": 92},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 25,
+  "code": 59},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 38},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 41,
+  "comment": 133,
+  "code": 34},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 25},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 41,
+  "code": 23},
+"SUM": {
+  "blank": 309700,
+  "comment": 422853,
+  "code": 1363147,
+  "nFiles": 11426} }

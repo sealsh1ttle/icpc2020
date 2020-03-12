@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.0961129665375,
+  "n_files"            : 47,
+  "n_lines"            : 5975,
+  "files_per_second"   : 4.23571751132471,
+  "lines_per_second"   : 538.476853833301,
+  "report_file"        : "loc/martinlunde__RealBack.json"},
+"Python" :{
+  "nFiles": 32,
+  "blank": 407,
+  "comment": 234,
+  "code": 1696},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 168,
+  "comment": 285,
+  "code": 1250},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 167,
+  "comment": 14,
+  "code": 814},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 71,
+  "comment": 11,
+  "code": 755},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 76},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 833,
+  "comment": 544,
+  "code": 4598,
+  "nFiles": 47} }

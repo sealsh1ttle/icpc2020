@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.1318709850311,
+  "n_files"            : 2176,
+  "n_lines"            : 518750,
+  "files_per_second"   : 94.0693470670017,
+  "lines_per_second"   : 22425.7692054261,
+  "report_file"        : "loc/RedaMaachiGit__clubhilaire.json"},
+"HTML" :{
+  "nFiles": 205,
+  "blank": 8164,
+  "comment": 4404,
+  "code": 122231},
+"JavaScript" :{
+  "nFiles": 530,
+  "blank": 24125,
+  "comment": 27069,
+  "code": 115890},
+"PHP" :{
+  "nFiles": 389,
+  "blank": 14725,
+  "comment": 40507,
+  "code": 80453},
+"CSS" :{
+  "nFiles": 159,
+  "blank": 1952,
+  "comment": 1317,
+  "code": 34045},
+"SVG" :{
+  "nFiles": 737,
+  "blank": 11,
+  "comment": 736,
+  "code": 15280},
+"LESS" :{
+  "nFiles": 103,
+  "blank": 950,
+  "comment": 1129,
+  "code": 10281},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 6491},
+"Sass" :{
+  "nFiles": 21,
+  "blank": 131,
+  "comment": 61,
+  "code": 4447},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 623,
+  "comment": 0,
+  "code": 2320},
+"Python" :{
+  "nFiles": 3,
+  "blank": 152,
+  "comment": 257,
+  "code": 548},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 451},
+"SUM": {
+  "blank": 50833,
+  "comment": 75480,
+  "code": 392437,
+  "nFiles": 2176} }

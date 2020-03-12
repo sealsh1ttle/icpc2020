@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.172332048416138,
+  "n_files"            : 28,
+  "n_lines"            : 1310,
+  "files_per_second"   : 162.477033478922,
+  "lines_per_second"   : 7601.60406633528,
+  "report_file"        : "loc/ripio__marmojs-sdk.json"},
+"TypeScript" :{
+  "nFiles": 22,
+  "blank": 154,
+  "comment": 7,
+  "code": 860},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 127},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 21,
+  "code": 84},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 19},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 15},
+"SUM": {
+  "blank": 174,
+  "comment": 31,
+  "code": 1105,
+  "nFiles": 28} }

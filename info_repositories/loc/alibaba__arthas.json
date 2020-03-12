@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.741858959198,
+  "n_files"            : 452,
+  "n_lines"            : 63067,
+  "files_per_second"   : 67.043823185196,
+  "lines_per_second"   : 9354.54158588663,
+  "report_file"        : "loc/alibaba__arthas.json"},
+"Java" :{
+  "nFiles": 302,
+  "blank": 5714,
+  "comment": 7465,
+  "code": 26239},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 76,
+  "comment": 22,
+  "code": 9404},
+"Markdown" :{
+  "nFiles": 102,
+  "blank": 2195,
+  "comment": 0,
+  "code": 6922},
+"Maven" :{
+  "nFiles": 14,
+  "blank": 69,
+  "comment": 9,
+  "code": 1220},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 193,
+  "comment": 226,
+  "code": 924},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 102,
+  "comment": 33,
+  "code": 463},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 67,
+  "comment": 82,
+  "code": 363},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 11,
+  "code": 331},
+"Python" :{
+  "nFiles": 3,
+  "blank": 179,
+  "comment": 344,
+  "code": 184},
+"XML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 69},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 8,
+  "code": 48},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 14},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"ActionScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 8663,
+  "comment": 8210,
+  "code": 46194,
+  "nFiles": 452} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.358870983123779,
+  "n_files"            : 3,
+  "n_lines"            : 82,
+  "files_per_second"   : 8.35955020349266,
+  "lines_per_second"   : 228.494372228799,
+  "report_file"        : "loc/yahoojapan__AntPickax.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 66},
+"SUM": {
+  "blank": 16,
+  "comment": 0,
+  "code": 66,
+  "nFiles": 3} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 54.1119289398193,
+  "n_files"            : 247,
+  "n_lines"            : 52572,
+  "files_per_second"   : 4.56461273584798,
+  "lines_per_second"   : 971.541784408906,
+  "report_file"        : "loc/jembi__openhim-core-js.json"},
+"JavaScript" :{
+  "nFiles": 150,
+  "blank": 4032,
+  "comment": 1635,
+  "code": 27961},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 11252},
+"Markdown" :{
+  "nFiles": 52,
+  "blank": 1625,
+  "comment": 0,
+  "code": 4326},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 80,
+  "comment": 35,
+  "code": 310},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 9,
+  "code": 190},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 13,
+  "code": 150},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 109},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 5,
+  "code": 73},
+"Python" :{
+  "nFiles": 1,
+  "blank": 75,
+  "comment": 178,
+  "code": 44},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 4,
+  "code": 25},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 62,
+  "code": 13},
+"SUM": {
+  "blank": 5949,
+  "comment": 1943,
+  "code": 44680,
+  "nFiles": 247} }

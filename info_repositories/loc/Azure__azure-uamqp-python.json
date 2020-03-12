@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 251.579611063004,
+  "n_files"            : 1102,
+  "n_lines"            : 346659,
+  "files_per_second"   : 4.38032317223046,
+  "lines_per_second"   : 1377.92962845938,
+  "report_file"        : "loc/Azure__azure-uamqp-python.json"},
+"C" :{
+  "nFiles": 379,
+  "blank": 34324,
+  "comment": 32382,
+  "code": 157300},
+"C/C++ Header" :{
+  "nFiles": 252,
+  "blank": 9706,
+  "comment": 2542,
+  "code": 45328},
+"Markdown" :{
+  "nFiles": 96,
+  "blank": 7239,
+  "comment": 0,
+  "code": 13618},
+"Python" :{
+  "nFiles": 47,
+  "blank": 1463,
+  "comment": 2859,
+  "code": 6155},
+"C#" :{
+  "nFiles": 20,
+  "blank": 1594,
+  "comment": 654,
+  "code": 5679},
+"C++" :{
+  "nFiles": 24,
+  "blank": 1647,
+  "comment": 985,
+  "code": 5428},
+"Cython" :{
+  "nFiles": 45,
+  "blank": 1258,
+  "comment": 375,
+  "code": 4450},
+"CMake" :{
+  "nFiles": 144,
+  "blank": 1160,
+  "comment": 478,
+  "code": 3881},
+"DOS Batch" :{
+  "nFiles": 30,
+  "blank": 443,
+  "comment": 281,
+  "code": 1155},
+"Bourne Shell" :{
+  "nFiles": 35,
+  "blank": 214,
+  "comment": 228,
+  "code": 712},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 91,
+  "comment": 24,
+  "code": 607},
+"XML" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 6,
+  "code": 576},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 127,
+  "comment": 23,
+  "code": 309},
+"Windows Module Definition" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 0,
+  "code": 301},
+"MSBuild script" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 28,
+  "code": 285},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 119},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 21,
+  "code": 116},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 198,
+  "code": 99},
+"make" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 22,
+  "code": 25},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 24},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 59384,
+  "comment": 41106,
+  "code": 246169,
+  "nFiles": 1102} }

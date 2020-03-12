@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.241857051849365,
+  "n_files"            : 12,
+  "n_lines"            : 788,
+  "files_per_second"   : 49.6160848246588,
+  "lines_per_second"   : 3258.12290348593,
+  "report_file"        : "loc/ho-nl__magento2-Ho_Templatehints.json"},
+"PHP" :{
+  "nFiles": 5,
+  "blank": 65,
+  "comment": 144,
+  "code": 254},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 5,
+  "code": 125},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 42},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 7,
+  "code": 23},
+"XML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 12,
+  "code": 18},
+"SUM": {
+  "blank": 126,
+  "comment": 168,
+  "code": 494,
+  "nFiles": 12} }

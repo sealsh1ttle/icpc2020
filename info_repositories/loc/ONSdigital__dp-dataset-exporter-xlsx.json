@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.457433938980103,
+  "n_files"            : 78,
+  "n_lines"            : 5627,
+  "files_per_second"   : 170.516425112464,
+  "lines_per_second"   : 12301.2297962543,
+  "report_file"        : "loc/ONSdigital__dp-dataset-exporter-xlsx.json"},
+"Java" :{
+  "nFiles": 60,
+  "blank": 1184,
+  "comment": 257,
+  "code": 3764},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 3,
+  "code": 117},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 28,
+  "comment": 0,
+  "code": 69},
+"HCL" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 68},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 26},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 18},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1251,
+  "comment": 263,
+  "code": 4113,
+  "nFiles": 78} }

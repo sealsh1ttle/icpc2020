@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.7725250720978,
+  "n_files"            : 141,
+  "n_lines"            : 17074,
+  "files_per_second"   : 3.54516088039172,
+  "lines_per_second"   : 429.291325331973,
+  "report_file"        : "loc/MicrosoftDocs__windows-iotcore-docs.json"},
+"Markdown" :{
+  "nFiles": 134,
+  "blank": 4927,
+  "comment": 0,
+  "code": 11592},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 1,
+  "code": 363},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 0,
+  "code": 154},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 4949,
+  "comment": 4,
+  "code": 12121,
+  "nFiles": 141} }

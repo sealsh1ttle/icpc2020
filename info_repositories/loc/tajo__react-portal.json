@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.140791177749634,
+  "n_files"            : 15,
+  "n_lines"            : 855,
+  "files_per_second"   : 106.540766543442,
+  "lines_per_second"   : 6072.8236929762,
+  "report_file"        : "loc/tajo__react-portal.json"},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 60,
+  "comment": 3,
+  "code": 557},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 98},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 78},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 93,
+  "comment": 3,
+  "code": 759,
+  "nFiles": 15} }

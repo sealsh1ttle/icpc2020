@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 45.6202380657196,
+  "n_files"            : 193,
+  "n_lines"            : 53005,
+  "files_per_second"   : 4.23057853670049,
+  "lines_per_second"   : 1161.87469086948,
+  "report_file"        : "loc/thewilly__uniovi.ri.json"},
+"XML" :{
+  "nFiles": 13,
+  "blank": 9,
+  "comment": 34,
+  "code": 44130},
+"Java" :{
+  "nFiles": 161,
+  "blank": 1614,
+  "comment": 1366,
+  "code": 5333},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 69},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 2,
+  "code": 67},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 19,
+  "comment": 30,
+  "code": 65},
+"XQuery" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1692,
+  "comment": 1454,
+  "code": 49859,
+  "nFiles": 193} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.409738779067993,
+  "n_files"            : 76,
+  "n_lines"            : 6894,
+  "files_per_second"   : 185.484030027308,
+  "lines_per_second"   : 16825.3539869508,
+  "report_file"        : "loc/sailthru__sailthru-magento2-extension.json"},
+"PHP" :{
+  "nFiles": 57,
+  "blank": 756,
+  "comment": 1100,
+  "code": 4043},
+"XML" :{
+  "nFiles": 14,
+  "blank": 3,
+  "comment": 65,
+  "code": 599},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 61,
+  "comment": 0,
+  "code": 211},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 23},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 820,
+  "comment": 1168,
+  "code": 4906,
+  "nFiles": 76} }

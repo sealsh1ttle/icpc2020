@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 90.0283679962158,
+  "n_files"            : 406,
+  "n_lines"            : 81202,
+  "files_per_second"   : 4.5096896571208,
+  "lines_per_second"   : 901.960146644146,
+  "report_file"        : "loc/Nike-Inc__riposte.json"},
+"Java" :{
+  "nFiles": 361,
+  "blank": 11505,
+  "comment": 14639,
+  "code": 51385},
+"Gradle" :{
+  "nFiles": 20,
+  "blank": 122,
+  "comment": 69,
+  "code": 871},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 249,
+  "comment": 0,
+  "code": 755},
+"Groovy" :{
+  "nFiles": 3,
+  "blank": 62,
+  "comment": 0,
+  "code": 721},
+"Kotlin" :{
+  "nFiles": 5,
+  "blank": 70,
+  "comment": 33,
+  "code": 304},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 33,
+  "comment": 39,
+  "code": 164},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"XML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 4,
+  "code": 49},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 2,
+  "code": 15},
+"SUM": {
+  "blank": 12076,
+  "comment": 14788,
+  "code": 54338,
+  "nFiles": 406} }

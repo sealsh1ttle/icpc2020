@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.512953042984,
+  "n_files"            : 136,
+  "n_lines"            : 38870,
+  "files_per_second"   : 4.76976200237753,
+  "lines_per_second"   : 1363.24006641481,
+  "report_file"        : "loc/ropensci__elastic.json"},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 24665},
+"R" :{
+  "nFiles": 102,
+  "blank": 791,
+  "comment": 5458,
+  "code": 4667},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 272,
+  "comment": 0,
+  "code": 815},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 0,
+  "code": 259},
+"Rmd" :{
+  "nFiles": 5,
+  "blank": 463,
+  "comment": 1210,
+  "code": 192},
+"make" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 1578,
+  "comment": 6668,
+  "code": 30624,
+  "nFiles": 136} }

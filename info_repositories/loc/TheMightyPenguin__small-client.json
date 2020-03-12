@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0946471691131592,
+  "n_files"            : 14,
+  "n_lines"            : 331,
+  "files_per_second"   : 147.917789102194,
+  "lines_per_second"   : 3497.19915663045,
+  "report_file"        : "loc/TheMightyPenguin__small-client.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 20,
+  "comment": 28,
+  "code": 110},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 11,
+  "code": 46},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 41,
+  "comment": 59,
+  "code": 231,
+  "nFiles": 14} }

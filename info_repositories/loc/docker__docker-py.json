@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.22461104393005,
+  "n_files"            : 155,
+  "n_lines"            : 31758,
+  "files_per_second"   : 126.570800392727,
+  "lines_per_second"   : 25933.1321217563,
+  "report_file"        : "loc/docker__docker-py.json"},
+"Python" :{
+  "nFiles": 121,
+  "blank": 4520,
+  "comment": 5122,
+  "code": 18730},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 571,
+  "comment": 0,
+  "code": 1626},
+"reStructuredText" :{
+  "nFiles": 16,
+  "blank": 226,
+  "comment": 370,
+  "code": 181},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 1,
+  "code": 106},
+"make" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 81},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 3,
+  "code": 43},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 37},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 1,
+  "code": 35},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"INI" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 18},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 5380,
+  "comment": 5497,
+  "code": 20881,
+  "nFiles": 155} }

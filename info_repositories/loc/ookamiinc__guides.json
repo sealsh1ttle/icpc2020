@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.961812973022461,
+  "n_files"            : 11,
+  "n_lines"            : 509,
+  "files_per_second"   : 11.4367349043265,
+  "lines_per_second"   : 529.20891511838,
+  "report_file"        : "loc/ookamiinc__guides.json"},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 161,
+  "comment": 0,
+  "code": 348},
+"SUM": {
+  "blank": 161,
+  "comment": 0,
+  "code": 348,
+  "nFiles": 11} }

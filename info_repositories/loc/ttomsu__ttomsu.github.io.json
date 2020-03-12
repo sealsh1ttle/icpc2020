@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 95.2705290317535,
+  "n_files"            : 321,
+  "n_lines"            : 49191,
+  "files_per_second"   : 3.36935255070339,
+  "lines_per_second"   : 516.329661438163,
+  "report_file"        : "loc/ttomsu__ttomsu.github.io.json"},
+"HTML" :{
+  "nFiles": 45,
+  "blank": 3252,
+  "comment": 60,
+  "code": 10494},
+"Markdown" :{
+  "nFiles": 119,
+  "blank": 3645,
+  "comment": 0,
+  "code": 10461},
+"Sass" :{
+  "nFiles": 109,
+  "blank": 1577,
+  "comment": 1154,
+  "code": 9142},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 9,
+  "code": 2908},
+"Mustache" :{
+  "nFiles": 23,
+  "blank": 396,
+  "comment": 0,
+  "code": 2525},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 473,
+  "comment": 290,
+  "code": 1589},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 102,
+  "code": 923},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 2,
+  "code": 97},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"SUM": {
+  "blank": 9401,
+  "comment": 1617,
+  "code": 38173,
+  "nFiles": 321} }

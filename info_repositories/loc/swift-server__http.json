@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.30208206176758,
+  "n_files"            : 35,
+  "n_lines"            : 8058,
+  "files_per_second"   : 5.55372012883364,
+  "lines_per_second"   : 1278.62505137547,
+  "report_file"        : "loc/swift-server__http.json"},
+"Swift" :{
+  "nFiles": 27,
+  "blank": 460,
+  "comment": 893,
+  "code": 3201},
+"C" :{
+  "nFiles": 1,
+  "blank": 401,
+  "comment": 218,
+  "code": 1851},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 79,
+  "comment": 0,
+  "code": 490},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 102,
+  "code": 211},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 0,
+  "code": 85},
+"SUM": {
+  "blank": 1007,
+  "comment": 1213,
+  "code": 5838,
+  "nFiles": 35} }

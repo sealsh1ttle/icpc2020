@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 97.7190361022949,
+  "n_files"            : 532,
+  "n_lines"            : 395201,
+  "files_per_second"   : 5.44417977519844,
+  "lines_per_second"   : 4044.25806642518,
+  "report_file"        : "loc/kun-lun__artifacts.json"},
+"Go" :{
+  "nFiles": 456,
+  "blank": 20572,
+  "comment": 19500,
+  "code": 348776},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 262,
+  "comment": 270,
+  "code": 1578},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 494,
+  "comment": 0,
+  "code": 1073},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 55,
+  "comment": 12,
+  "code": 727},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 69,
+  "comment": 293,
+  "code": 504},
+"Assembly" :{
+  "nFiles": 24,
+  "blank": 218,
+  "comment": 248,
+  "code": 416},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 25,
+  "code": 18},
+"make" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 6,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 10},
+"SUM": {
+  "blank": 21697,
+  "comment": 20364,
+  "code": 353140,
+  "nFiles": 532} }

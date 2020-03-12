@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 75.6027491092682,
+  "n_files"            : 785,
+  "n_lines"            : 52633,
+  "files_per_second"   : 10.3832203094288,
+  "lines_per_second"   : 696.178387956896,
+  "report_file"        : "loc/ConsenSys__mythril.json"},
+"JSON" :{
+  "nFiles": 538,
+  "blank": 0,
+  "comment": 0,
+  "code": 26295},
+"Python" :{
+  "nFiles": 156,
+  "blank": 3851,
+  "comment": 3635,
+  "code": 13814},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 158,
+  "comment": 0,
+  "code": 1174},
+"Solidity" :{
+  "nFiles": 29,
+  "blank": 347,
+  "comment": 259,
+  "code": 1101},
+"reStructuredText" :{
+  "nFiles": 25,
+  "blank": 334,
+  "comment": 444,
+  "code": 393},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 121,
+  "comment": 0,
+  "code": 273},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 15,
+  "code": 168},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 0,
+  "code": 47},
+"INI" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 46},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 1,
+  "code": 37},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 4,
+  "code": 15},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 9},
+"SUM": {
+  "blank": 4870,
+  "comment": 4365,
+  "code": 43398,
+  "nFiles": 785} }

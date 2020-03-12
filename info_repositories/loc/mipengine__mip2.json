@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 234.741168022156,
+  "n_files"            : 824,
+  "n_lines"            : 205533,
+  "files_per_second"   : 3.5102492116859,
+  "lines_per_second"   : 875.572877700775,
+  "report_file"        : "loc/mipengine__mip2.json"},
+"JavaScript" :{
+  "nFiles": 524,
+  "blank": 15177,
+  "comment": 27246,
+  "code": 83786},
+"JSON" :{
+  "nFiles": 49,
+  "blank": 3,
+  "comment": 0,
+  "code": 40958},
+"Markdown" :{
+  "nFiles": 153,
+  "blank": 5435,
+  "comment": 0,
+  "code": 15157},
+"HTML" :{
+  "nFiles": 69,
+  "blank": 1495,
+  "comment": 83,
+  "code": 14732},
+"LESS" :{
+  "nFiles": 15,
+  "blank": 120,
+  "comment": 28,
+  "code": 1085},
+"Vuejs Component" :{
+  "nFiles": 8,
+  "blank": 13,
+  "comment": 3,
+  "code": 107},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 7,
+  "code": 20},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 22256,
+  "comment": 27372,
+  "code": 155905,
+  "nFiles": 824} }

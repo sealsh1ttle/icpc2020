@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.0514919757843,
+  "n_files"            : 100,
+  "n_lines"            : 8762,
+  "files_per_second"   : 3.4421640060123,
+  "lines_per_second"   : 301.602410206798,
+  "report_file"        : "loc/mchen07__restli-csharp.json"},
+"C#" :{
+  "nFiles": 75,
+  "blank": 1059,
+  "comment": 1203,
+  "code": 4131},
+"Java" :{
+  "nFiles": 17,
+  "blank": 280,
+  "comment": 350,
+  "code": 1083},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 14,
+  "code": 237},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 64},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 54},
+"SUM": {
+  "blank": 1419,
+  "comment": 1589,
+  "code": 5754,
+  "nFiles": 100} }

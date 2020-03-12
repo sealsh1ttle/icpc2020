@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.0436298847198,
+  "n_files"            : 258,
+  "n_lines"            : 36551,
+  "files_per_second"   : 4.86392052279819,
+  "lines_per_second"   : 689.074259801537,
+  "report_file"        : "loc/pytorch__vision.json"},
+"Python" :{
+  "nFiles": 126,
+  "blank": 4267,
+  "comment": 4426,
+  "code": 15361},
+"C++" :{
+  "nFiles": 25,
+  "blank": 612,
+  "comment": 195,
+  "code": 3577},
+"C/C++ Header" :{
+  "nFiles": 32,
+  "blank": 336,
+  "comment": 165,
+  "code": 1444},
+"YAML" :{
+  "nFiles": 21,
+  "blank": 98,
+  "comment": 44,
+  "code": 1327},
+"DOS Batch" :{
+  "nFiles": 27,
+  "blank": 315,
+  "comment": 32,
+  "code": 1094},
+"CUDA" :{
+  "nFiles": 3,
+  "blank": 116,
+  "comment": 33,
+  "code": 652},
+"reStructuredText" :{
+  "nFiles": 8,
+  "blank": 294,
+  "comment": 278,
+  "code": 381},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 56,
+  "comment": 21,
+  "code": 305},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 71,
+  "code": 144},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 427,
+  "code": 102},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 0,
+  "code": 97},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 10,
+  "code": 83},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 56},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 7,
+  "code": 14},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 6188,
+  "comment": 5710,
+  "code": 24653,
+  "nFiles": 258} }

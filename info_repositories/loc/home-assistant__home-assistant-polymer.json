@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 263.428634881973,
+  "n_files"            : 974,
+  "n_lines"            : 171154,
+  "files_per_second"   : 3.69739607251274,
+  "lines_per_second"   : 649.716763239061,
+  "report_file"        : "loc/home-assistant__home-assistant-polymer.json"},
+"JSON" :{
+  "nFiles": 70,
+  "blank": 0,
+  "comment": 0,
+  "code": 68922},
+"TypeScript" :{
+  "nFiles": 634,
+  "blank": 6561,
+  "comment": 1795,
+  "code": 62106},
+"JavaScript" :{
+  "nFiles": 219,
+  "blank": 3181,
+  "comment": 1165,
+  "code": 26229},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 110,
+  "comment": 0,
+  "code": 332},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 0,
+  "code": 179},
+"Bourne Shell" :{
+  "nFiles": 17,
+  "blank": 75,
+  "comment": 48,
+  "code": 164},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 12,
+  "code": 90},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 14,
+  "code": 59},
+"Python" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 2,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 4,
+  "code": 16},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 9989,
+  "comment": 3040,
+  "code": 158125,
+  "nFiles": 974} }

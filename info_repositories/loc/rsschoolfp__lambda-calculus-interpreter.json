@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0995140075683594,
+  "n_files"            : 17,
+  "n_lines"            : 705,
+  "files_per_second"   : 170.83022194963,
+  "lines_per_second"   : 7084.42979261701,
+  "report_file"        : "loc/rsschoolfp__lambda-calculus-interpreter.json"},
+"Haskell" :{
+  "nFiles": 12,
+  "blank": 68,
+  "comment": 0,
+  "code": 432},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 78,
+  "code": 74},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 102,
+  "comment": 78,
+  "code": 525,
+  "nFiles": 17} }

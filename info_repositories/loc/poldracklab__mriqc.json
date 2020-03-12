@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.0234508514404,
+  "n_files"            : 123,
+  "n_lines"            : 31263,
+  "files_per_second"   : 5.58495581958062,
+  "lines_per_second"   : 1419.53230721585,
+  "report_file"        : "loc/poldracklab__mriqc.json"},
+"Python" :{
+  "nFiles": 61,
+  "blank": 2653,
+  "comment": 3174,
+  "code": 7794},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 49,
+  "comment": 0,
+  "code": 5653},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 100,
+  "code": 3238},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 378,
+  "comment": 502,
+  "code": 2389},
+"Jupyter Notebook" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 1513,
+  "code": 831},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 70,
+  "comment": 19,
+  "code": 794},
+"reStructuredText" :{
+  "nFiles": 22,
+  "blank": 387,
+  "comment": 191,
+  "code": 617},
+"make" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 6,
+  "code": 223},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 21,
+  "code": 140},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 11,
+  "code": 125},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 88},
+"RobotFramework" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 72},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 13,
+  "code": 15},
+"Tcl/Tk" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 75,
+  "code": 12},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3644,
+  "comment": 5625,
+  "code": 21994,
+  "nFiles": 123} }

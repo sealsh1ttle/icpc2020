@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0944581031799316,
+  "n_files"            : 15,
+  "n_lines"            : 2712,
+  "files_per_second"   : 158.80056337175,
+  "lines_per_second"   : 28711.1418576123,
+  "report_file"        : "loc/underscorgan__community_management.json"},
+"Ruby" :{
+  "nFiles": 10,
+  "blank": 235,
+  "comment": 63,
+  "code": 1312},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 107,
+  "code": 339},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 165,
+  "comment": 31,
+  "code": 337},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 34},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 1},
+"SUM": {
+  "blank": 466,
+  "comment": 205,
+  "code": 2041,
+  "nFiles": 15} }

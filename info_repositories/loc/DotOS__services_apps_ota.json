@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.54479885101318,
+  "n_files"            : 28,
+  "n_lines"            : 393,
+  "files_per_second"   : 4.27820634940757,
+  "lines_per_second"   : 60.0476819756135,
+  "report_file"        : "loc/DotOS__services_apps_ota.json"},
+"XML" :{
+  "nFiles": 28,
+  "blank": 0,
+  "comment": 1,
+  "code": 392},
+"SUM": {
+  "blank": 0,
+  "comment": 1,
+  "code": 392,
+  "nFiles": 28} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.6981198787689,
+  "n_files"            : 47,
+  "n_lines"            : 6083,
+  "files_per_second"   : 3.43112780556451,
+  "lines_per_second"   : 444.075541303168,
+  "report_file"        : "loc/dragos__dragos-vscode-scala.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 3,
+  "comment": 0,
+  "code": 3277},
+"Scala" :{
+  "nFiles": 28,
+  "blank": 393,
+  "comment": 386,
+  "code": 1486},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 28,
+  "code": 186},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 80,
+  "comment": 0,
+  "code": 141},
+"Groovy" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 2,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 527,
+  "comment": 416,
+  "code": 5140,
+  "nFiles": 47} }

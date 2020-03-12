@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 40.9553391933441,
+  "n_files"            : 129,
+  "n_lines"            : 15969,
+  "files_per_second"   : 3.14977247266858,
+  "lines_per_second"   : 389.912531907322,
+  "report_file"        : "loc/openMF__DataImportTool.json"},
+"Java" :{
+  "nFiles": 120,
+  "blank": 2494,
+  "comment": 186,
+  "code": 12601},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 252},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 34},
+"XML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 4,
+  "code": 32},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2598,
+  "comment": 213,
+  "code": 13158,
+  "nFiles": 129} }

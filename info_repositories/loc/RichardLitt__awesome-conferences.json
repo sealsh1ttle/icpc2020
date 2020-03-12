@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.851077079772949,
+  "n_files"            : 7,
+  "n_lines"            : 1520,
+  "files_per_second"   : 8.22487194916289,
+  "lines_per_second"   : 1785.97219467537,
+  "report_file"        : "loc/RichardLitt__awesome-conferences.json"},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 850},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 98,
+  "comment": 0,
+  "code": 464},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 4,
+  "code": 91},
+"SUM": {
+  "blank": 111,
+  "comment": 4,
+  "code": 1405,
+  "nFiles": 7} }

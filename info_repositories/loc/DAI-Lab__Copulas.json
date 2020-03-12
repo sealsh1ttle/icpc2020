@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.418179988861084,
+  "n_files"            : 54,
+  "n_lines"            : 9504,
+  "files_per_second"   : 129.13099966134,
+  "lines_per_second"   : 22727.0559403959,
+  "report_file"        : "loc/DAI-Lab__Copulas.json"},
+"Python" :{
+  "nFiles": 38,
+  "blank": 1808,
+  "comment": 1708,
+  "code": 4385},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 229,
+  "comment": 0,
+  "code": 511},
+"make" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 12,
+  "code": 157},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 68,
+  "comment": 15,
+  "code": 146},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 275,
+  "code": 41},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 19},
+"SUM": {
+  "blank": 2180,
+  "comment": 2014,
+  "code": 5310,
+  "nFiles": 54} }

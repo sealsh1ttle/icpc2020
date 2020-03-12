@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.39289402961731,
+  "n_files"            : 40,
+  "n_lines"            : 11158,
+  "files_per_second"   : 4.7659365004307,
+  "lines_per_second"   : 1329.45798679514,
+  "report_file"        : "loc/atom__tree-view.json"},
+"CoffeeScript" :{
+  "nFiles": 14,
+  "blank": 1554,
+  "comment": 202,
+  "code": 5473},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 2126},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 188,
+  "comment": 32,
+  "code": 1034},
+"CSON" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 0,
+  "code": 187},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 45,
+  "comment": 0,
+  "code": 100},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 21,
+  "code": 93},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 4,
+  "code": 36},
+"SUM": {
+  "blank": 1850,
+  "comment": 259,
+  "code": 9049,
+  "nFiles": 40} }

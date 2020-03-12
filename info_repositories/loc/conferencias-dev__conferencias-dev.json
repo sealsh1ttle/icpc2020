@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.9781720638275,
+  "n_files"            : 108,
+  "n_lines"            : 12221,
+  "files_per_second"   : 5.14820832203124,
+  "lines_per_second"   : 582.557906514294,
+  "report_file"        : "loc/conferencias-dev__conferencias-dev.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 8169},
+"Markdown" :{
+  "nFiles": 56,
+  "blank": 186,
+  "comment": 0,
+  "code": 904},
+"Stylus" :{
+  "nFiles": 15,
+  "blank": 62,
+  "comment": 22,
+  "code": 872},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 129,
+  "comment": 234,
+  "code": 643},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 58,
+  "comment": 3,
+  "code": 429},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 42,
+  "comment": 6,
+  "code": 368},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 8,
+  "code": 30},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 486,
+  "comment": 273,
+  "code": 11462,
+  "nFiles": 108} }

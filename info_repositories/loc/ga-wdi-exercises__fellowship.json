@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.57566499710083,
+  "n_files"            : 3,
+  "n_lines"            : 74,
+  "files_per_second"   : 5.21136427454966,
+  "lines_per_second"   : 128.546985438892,
+  "report_file"        : "loc/ga-wdi-exercises__fellowship.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 17,
+  "code": 31},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 5,
+  "comment": 17,
+  "code": 52,
+  "nFiles": 3} }

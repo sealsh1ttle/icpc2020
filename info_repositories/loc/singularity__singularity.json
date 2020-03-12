@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.1794309616089,
+  "n_files"            : 82,
+  "n_lines"            : 26896,
+  "files_per_second"   : 2.81019873581108,
+  "lines_per_second"   : 921.745185346034,
+  "report_file"        : "loc/singularity__singularity.json"},
+"Python" :{
+  "nFiles": 65,
+  "blank": 3494,
+  "comment": 2739,
+  "code": 10874},
+"PO File" :{
+  "nFiles": 8,
+  "blank": 1647,
+  "comment": 2025,
+  "code": 3901},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1170},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 2,
+  "code": 482},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 8,
+  "code": 159},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 36,
+  "code": 148},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 9},
+"SUM": {
+  "blank": 5287,
+  "comment": 4817,
+  "code": 16792,
+  "nFiles": 82} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 108.564162015915,
+  "n_files"            : 516,
+  "n_lines"            : 19643,
+  "files_per_second"   : 4.75294968817018,
+  "lines_per_second"   : 180.934478148696,
+  "report_file"        : "loc/SatelliteQE__robottelo-ci.json"},
+"YAML" :{
+  "nFiles": 261,
+  "blank": 87,
+  "comment": 18,
+  "code": 8568},
+"Groovy" :{
+  "nFiles": 152,
+  "blank": 734,
+  "comment": 34,
+  "code": 3708},
+"Bourne Shell" :{
+  "nFiles": 81,
+  "blank": 673,
+  "comment": 479,
+  "code": 2896},
+"Python" :{
+  "nFiles": 13,
+  "blank": 282,
+  "comment": 426,
+  "code": 957},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 18,
+  "code": 257},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 11,
+  "code": 170},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 0,
+  "code": 158},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 44},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1891,
+  "comment": 986,
+  "code": 16766,
+  "nFiles": 516} }

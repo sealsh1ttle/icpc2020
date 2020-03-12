@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.4907259941101,
+  "n_files"            : 59,
+  "n_lines"            : 10039,
+  "files_per_second"   : 4.72350446465809,
+  "lines_per_second"   : 803.716293571231,
+  "report_file"        : "loc/realm__jazzy.json"},
+"Ruby" :{
+  "nFiles": 27,
+  "blank": 521,
+  "comment": 313,
+  "code": 3059},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 17,
+  "comment": 10,
+  "code": 1779},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 245,
+  "comment": 124,
+  "code": 1351},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 590,
+  "comment": 0,
+  "code": 1252},
+"Mustache" :{
+  "nFiles": 18,
+  "blank": 13,
+  "comment": 0,
+  "code": 548},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 26,
+  "code": 153},
+"SUM": {
+  "blank": 1424,
+  "comment": 473,
+  "code": 8142,
+  "nFiles": 59} }

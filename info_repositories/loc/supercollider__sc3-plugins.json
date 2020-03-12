@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 207.710856199265,
+  "n_files"            : 732,
+  "n_lines"            : 407618,
+  "files_per_second"   : 3.52412971278577,
+  "lines_per_second"   : 1962.4299252272,
+  "report_file"        : "loc/supercollider__sc3-plugins.json"},
+"C++" :{
+  "nFiles": 211,
+  "blank": 40301,
+  "comment": 34673,
+  "code": 209695},
+"C/C++ Header" :{
+  "nFiles": 207,
+  "blank": 7683,
+  "comment": 8384,
+  "code": 87266},
+"Scheme" :{
+  "nFiles": 228,
+  "blank": 1939,
+  "comment": 0,
+  "code": 9594},
+"HTML" :{
+  "nFiles": 44,
+  "blank": 136,
+  "comment": 25,
+  "code": 2812},
+"C" :{
+  "nFiles": 10,
+  "blank": 374,
+  "comment": 214,
+  "code": 1738},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 234,
+  "comment": 0,
+  "code": 798},
+"CMake" :{
+  "nFiles": 11,
+  "blank": 121,
+  "comment": 67,
+  "code": 592},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 3,
+  "code": 125},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 29,
+  "code": 108},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 5,
+  "code": 88},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 76},
+"MATLAB" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 68,
+  "code": 53},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 13,
+  "code": 52},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 21,
+  "code": 49},
+"make" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 2,
+  "code": 36},
+"Haskell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 12,
+  "code": 21},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 17},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 9},
+"SUM": {
+  "blank": 50969,
+  "comment": 43520,
+  "code": 313129,
+  "nFiles": 732} }

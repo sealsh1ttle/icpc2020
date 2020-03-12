@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.6155169010162,
+  "n_files"            : 49,
+  "n_lines"            : 5670,
+  "files_per_second"   : 3.88410561251381,
+  "lines_per_second"   : 449.446506590884,
+  "report_file"        : "loc/nulab__zxcvbn4j.json"},
+"Java" :{
+  "nFiles": 40,
+  "blank": 529,
+  "comment": 46,
+  "code": 3241},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 19,
+  "code": 876},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 120,
+  "comment": 0,
+  "code": 281},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 4,
+  "code": 242},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 743,
+  "comment": 93,
+  "code": 4834,
+  "nFiles": 49} }

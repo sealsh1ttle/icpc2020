@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.647986173629761,
+  "n_files"            : 3,
+  "n_lines"            : 264,
+  "files_per_second"   : 4.62972841410364,
+  "lines_per_second"   : 407.416100441121,
+  "report_file"        : "loc/learn-co-curriculum__sql-insert-select-update-code-along.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 83,
+  "comment": 0,
+  "code": 181},
+"SUM": {
+  "blank": 83,
+  "comment": 0,
+  "code": 181,
+  "nFiles": 3} }

@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 85.8552300930023,
+  "n_files"            : 191,
+  "n_lines"            : 155978,
+  "files_per_second"   : 2.22467518627695,
+  "lines_per_second"   : 1816.75594871783,
+  "report_file"        : "loc/src-d__blog.json"},
+"HTML" :{
+  "nFiles": 38,
+  "blank": 230,
+  "comment": 16,
+  "code": 52348},
+"SVG" :{
+  "nFiles": 40,
+  "blank": 5,
+  "comment": 3117,
+  "code": 46992},
+"RobotFramework" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 29184},
+"Markdown" :{
+  "nFiles": 65,
+  "blank": 3030,
+  "comment": 0,
+  "code": 13661},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 568,
+  "comment": 569,
+  "code": 3809},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 171,
+  "comment": 40,
+  "code": 1416},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 9,
+  "code": 146},
+"make" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 15,
+  "code": 55},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 357,
+  "code": 55},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"C" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 24},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"Go" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 19},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 4039,
+  "comment": 4125,
+  "code": 147814,
+  "nFiles": 191} }

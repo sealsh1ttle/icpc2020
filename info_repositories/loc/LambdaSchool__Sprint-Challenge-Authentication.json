@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.198537826538086,
+  "n_files"            : 11,
+  "n_lines"            : 4197,
+  "files_per_second"   : 55.4050590348829,
+  "lines_per_second"   : 21139.5484335822,
+  "report_file"        : "loc/LambdaSchool__Sprint-Challenge-Authentication.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4038},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 18,
+  "comment": 6,
+  "code": 71},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 38},
+"SUM": {
+  "blank": 44,
+  "comment": 6,
+  "code": 4147,
+  "nFiles": 11} }

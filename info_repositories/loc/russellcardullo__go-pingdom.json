@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.56412100791931,
+  "n_files"            : 31,
+  "n_lines"            : 4687,
+  "files_per_second"   : 5.57141010338889,
+  "lines_per_second"   : 842.361263051087,
+  "report_file"        : "loc/russellcardullo__go-pingdom.json"},
+"Go" :{
+  "nFiles": 28,
+  "blank": 623,
+  "comment": 230,
+  "code": 3432},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 100,
+  "comment": 0,
+  "code": 266},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 734,
+  "comment": 230,
+  "code": 3723,
+  "nFiles": 31} }

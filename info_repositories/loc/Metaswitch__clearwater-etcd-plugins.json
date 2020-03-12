@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.1108980178833,
+  "n_files"            : 40,
+  "n_lines"            : 2398,
+  "files_per_second"   : 4.93163641212182,
+  "lines_per_second"   : 295.651602906703,
+  "report_file"        : "loc/Metaswitch__clearwater-etcd-plugins.json"},
+"Python" :{
+  "nFiles": 27,
+  "blank": 311,
+  "comment": 407,
+  "code": 883},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 491},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 51,
+  "comment": 71,
+  "code": 161},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 372,
+  "comment": 478,
+  "code": 1548,
+  "nFiles": 40} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.76550102233887,
+  "n_files"            : 28,
+  "n_lines"            : 4095,
+  "files_per_second"   : 3.60569136742793,
+  "lines_per_second"   : 527.332362486334,
+  "report_file"        : "loc/cheminfo__netcdfjs.json"},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 283,
+  "comment": 507,
+  "code": 1283},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 167,
+  "comment": 4,
+  "code": 686},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 517,
+  "comment": 0,
+  "code": 407},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 0,
+  "code": 145},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1013,
+  "comment": 511,
+  "code": 2571,
+  "nFiles": 28} }

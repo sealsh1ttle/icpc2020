@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.4982190132141,
+  "n_files"            : 23,
+  "n_lines"            : 10808,
+  "files_per_second"   : 1.3940898700386,
+  "lines_per_second"   : 655.101013712051,
+  "report_file"        : "loc/ironhack-labs__lab-angular-introduction.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 10392},
+"TypeScript" :{
+  "nFiles": 10,
+  "blank": 35,
+  "comment": 62,
+  "code": 113},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 0,
+  "code": 66},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 5,
+  "code": 65},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 16},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 88,
+  "comment": 68,
+  "code": 10652,
+  "nFiles": 23} }

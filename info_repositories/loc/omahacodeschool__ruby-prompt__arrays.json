@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.364047050476074,
+  "n_files"            : 2,
+  "n_lines"            : 82,
+  "files_per_second"   : 5.49379536899021,
+  "lines_per_second"   : 225.245610128598,
+  "report_file"        : "loc/omahacodeschool__ruby-prompt__arrays.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 33,
+  "comment": 0,
+  "code": 49,
+  "nFiles": 2} }

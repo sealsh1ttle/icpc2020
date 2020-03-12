@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.8818399906158,
+  "n_files"            : 74,
+  "n_lines"            : 9913,
+  "files_per_second"   : 3.09858871967477,
+  "lines_per_second"   : 415.08526997481,
+  "report_file"        : "loc/kubernetes__org.json"},
+"YAML" :{
+  "nFiles": 55,
+  "blank": 1,
+  "comment": 0,
+  "code": 7041},
+"Starlark" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 26,
+  "code": 1866},
+"Go" :{
+  "nFiles": 2,
+  "blank": 56,
+  "comment": 32,
+  "code": 318},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 60,
+  "comment": 0,
+  "code": 209},
+"Python" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 32,
+  "code": 137},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 39,
+  "code": 31},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 178,
+  "comment": 129,
+  "code": 9606,
+  "nFiles": 74} }

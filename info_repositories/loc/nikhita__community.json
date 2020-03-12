@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 146.766709804535,
+  "n_files"            : 755,
+  "n_lines"            : 133453,
+  "files_per_second"   : 5.1442183381062,
+  "lines_per_second"   : 909.286582616274,
+  "report_file"        : "loc/nikhita__community.json"},
+"Markdown" :{
+  "nFiles": 655,
+  "blank": 27755,
+  "comment": 2,
+  "code": 92155},
+"SVG" :{
+  "nFiles": 75,
+  "blank": 72,
+  "comment": 74,
+  "code": 8623},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 48,
+  "comment": 9,
+  "code": 3309},
+"Go" :{
+  "nFiles": 3,
+  "blank": 99,
+  "comment": 77,
+  "code": 589},
+"Python" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 80,
+  "code": 173},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 37,
+  "comment": 46,
+  "code": 154},
+"make" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 14,
+  "code": 40},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 13,
+  "code": 12},
+"SUM": {
+  "blank": 28083,
+  "comment": 315,
+  "code": 105055,
+  "nFiles": 755} }

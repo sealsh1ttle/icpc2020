@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 73.2415390014648,
+  "n_files"            : 160,
+  "n_lines"            : 5278,
+  "files_per_second"   : 2.18455267572682,
+  "lines_per_second"   : 72.0629313905384,
+  "report_file"        : "loc/magento-devdocs__pagebuilder-examples.json"},
+"XML" :{
+  "nFiles": 58,
+  "blank": 44,
+  "comment": 257,
+  "code": 1802},
+"LESS" :{
+  "nFiles": 23,
+  "blank": 147,
+  "comment": 138,
+  "code": 637},
+"JavaScript" :{
+  "nFiles": 19,
+  "blank": 126,
+  "comment": 243,
+  "code": 570},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 11,
+  "comment": 56,
+  "code": 313},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 143,
+  "comment": 0,
+  "code": 282},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 125},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 4,
+  "code": 116},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 5,
+  "code": 111},
+"PHP" :{
+  "nFiles": 12,
+  "blank": 29,
+  "comment": 52,
+  "code": 54},
+"SUM": {
+  "blank": 513,
+  "comment": 755,
+  "code": 4010,
+  "nFiles": 160} }

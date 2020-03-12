@@ -1,0 +1,159 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2285.26949810982,
+  "n_files"            : 6469,
+  "n_lines"            : 2493811,
+  "files_per_second"   : 2.83073834633097,
+  "lines_per_second"   : 1091.25466473984,
+  "report_file"        : "loc/kubernetes-sigs__cluster-api-provider-digitalocean.json"},
+"Go" :{
+  "nFiles": 5282,
+  "blank": 143533,
+  "comment": 222536,
+  "code": 1781126},
+"JSON" :{
+  "nFiles": 67,
+  "blank": 19,
+  "comment": 0,
+  "code": 124707},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 327,
+  "comment": 9325,
+  "code": 54285},
+"Markdown" :{
+  "nFiles": 257,
+  "blank": 5728,
+  "comment": 0,
+  "code": 18573},
+"Swift" :{
+  "nFiles": 24,
+  "blank": 2874,
+  "comment": 2493,
+  "code": 18049},
+"Protocol Buffers" :{
+  "nFiles": 271,
+  "blank": 6001,
+  "comment": 16311,
+  "code": 17139},
+"YAML" :{
+  "nFiles": 159,
+  "blank": 216,
+  "comment": 108,
+  "code": 14987},
+"Assembly" :{
+  "nFiles": 74,
+  "blank": 1247,
+  "comment": 1386,
+  "code": 11526},
+"Java" :{
+  "nFiles": 2,
+  "blank": 499,
+  "comment": 1374,
+  "code": 6285},
+"XML" :{
+  "nFiles": 18,
+  "blank": 231,
+  "comment": 20,
+  "code": 6097},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 518,
+  "comment": 87,
+  "code": 3309},
+"C++" :{
+  "nFiles": 1,
+  "blank": 411,
+  "comment": 220,
+  "code": 2749},
+"Bourne Shell" :{
+  "nFiles": 74,
+  "blank": 580,
+  "comment": 1115,
+  "code": 2434},
+"m4" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 1658},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 205,
+  "comment": 22,
+  "code": 1637},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 259,
+  "comment": 222,
+  "code": 1608},
+"make" :{
+  "nFiles": 122,
+  "blank": 369,
+  "comment": 1729,
+  "code": 1438},
+"Perl" :{
+  "nFiles": 5,
+  "blank": 205,
+  "comment": 234,
+  "code": 1402},
+"Python" :{
+  "nFiles": 10,
+  "blank": 158,
+  "comment": 139,
+  "code": 860},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 65,
+  "comment": 78,
+  "code": 418},
+"C" :{
+  "nFiles": 8,
+  "blank": 102,
+  "comment": 99,
+  "code": 396},
+"TOML" :{
+  "nFiles": 9,
+  "blank": 103,
+  "comment": 128,
+  "code": 338},
+"Dockerfile" :{
+  "nFiles": 14,
+  "blank": 72,
+  "comment": 135,
+  "code": 315},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 46,
+  "code": 215},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 20,
+  "code": 155},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 122},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 2,
+  "code": 115},
+"awk" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 37,
+  "code": 64},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"SUM": {
+  "blank": 163901,
+  "comment": 257885,
+  "code": 2072025,
+  "nFiles": 6469} }

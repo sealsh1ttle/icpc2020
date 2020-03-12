@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 135.570830106735,
+  "n_files"            : 459,
+  "n_lines"            : 47072,
+  "files_per_second"   : 3.38568407111344,
+  "lines_per_second"   : 347.213334630614,
+  "report_file"        : "loc/reactjs__zh-hans.reactjs.org.json"},
+"Markdown" :{
+  "nFiles": 272,
+  "blank": 10592,
+  "comment": 9,
+  "code": 25984},
+"JavaScript" :{
+  "nFiles": 161,
+  "blank": 836,
+  "comment": 725,
+  "code": 6261},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 5,
+  "comment": 7,
+  "code": 1933},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 1,
+  "code": 430},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 126},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 53},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 11,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 11507,
+  "comment": 753,
+  "code": 34812,
+  "nFiles": 459} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.891950130462646,
+  "n_files"            : 127,
+  "n_lines"            : 14286,
+  "files_per_second"   : 142.384641991281,
+  "lines_per_second"   : 16016.5905156491,
+  "report_file"        : "loc/ChannelApe__shopify-sdk.json"},
+"Java" :{
+  "nFiles": 120,
+  "blank": 2652,
+  "comment": 48,
+  "code": 10973},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 1,
+  "code": 312},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 0,
+  "code": 93},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 16,
+  "code": 55},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 24},
+"SUM": {
+  "blank": 2720,
+  "comment": 66,
+  "code": 11500,
+  "nFiles": 127} }

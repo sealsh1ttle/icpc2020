@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.347344875335693,
+  "n_files"            : 1,
+  "n_lines"            : 38,
+  "files_per_second"   : 2.87898302525277,
+  "lines_per_second"   : 109.401354959605,
+  "report_file"        : "loc/ga-wdi-exercises__emergency_compliment.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 14,
+  "comment": 0,
+  "code": 24,
+  "nFiles": 1} }

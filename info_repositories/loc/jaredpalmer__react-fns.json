@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.3679308891296,
+  "n_files"            : 67,
+  "n_lines"            : 3256,
+  "files_per_second"   : 5.89377263579843,
+  "lines_per_second"   : 286.419756748652,
+  "report_file"        : "loc/jaredpalmer__react-fns.json"},
+"TypeScript" :{
+  "nFiles": 40,
+  "blank": 178,
+  "comment": 234,
+  "code": 857},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 61,
+  "comment": 60,
+  "code": 748},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 140,
+  "comment": 0,
+  "code": 409},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 42,
+  "code": 247},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 187},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 9,
+  "code": 20},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 425,
+  "comment": 345,
+  "code": 2486,
+  "nFiles": 67} }

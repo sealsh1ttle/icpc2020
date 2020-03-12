@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.37863612174988,
+  "n_files"            : 881,
+  "n_lines"            : 80576,
+  "files_per_second"   : 119.398759535396,
+  "lines_per_second"   : 10920.175310243,
+  "report_file"        : "loc/blockchain__My-Wallet-V3-Frontend.json"},
+"JavaScript" :{
+  "nFiles": 515,
+  "blank": 5746,
+  "comment": 1061,
+  "code": 30497},
+"JSON" :{
+  "nFiles": 43,
+  "blank": 1,
+  "comment": 0,
+  "code": 28820},
+"Pug" :{
+  "nFiles": 195,
+  "blank": 133,
+  "comment": 51,
+  "code": 6742},
+"Sass" :{
+  "nFiles": 60,
+  "blank": 502,
+  "comment": 94,
+  "code": 5032},
+"SVG" :{
+  "nFiles": 53,
+  "blank": 8,
+  "comment": 32,
+  "code": 785},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 159,
+  "comment": 0,
+  "code": 627},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 0,
+  "code": 86},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"make" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 3,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 5,
+  "code": 24},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 9},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 6585,
+  "comment": 1247,
+  "code": 72744,
+  "nFiles": 881} }

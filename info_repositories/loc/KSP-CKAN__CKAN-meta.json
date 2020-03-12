@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 727.621112108231,
+  "n_files"            : 5,
+  "n_lines"            : 1880,
+  "files_per_second"   : 0.00687170825144539,
+  "lines_per_second"   : 2.58376230254347,
+  "report_file"        : "loc/KSP-CKAN__CKAN-meta.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 1818},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 27,
+  "comment": 0,
+  "code": 1853,
+  "nFiles": 5} }

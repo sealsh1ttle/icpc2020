@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.56704902648926,
+  "n_files"            : 6,
+  "n_lines"            : 1067,
+  "files_per_second"   : 3.82885276629929,
+  "lines_per_second"   : 680.897650273557,
+  "report_file"        : "loc/sparkfun__SparkFun_Photon_Weather_Shield_Particle_Library.json"},
+"C++" :{
+  "nFiles": 1,
+  "blank": 82,
+  "comment": 114,
+  "code": 310},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 45,
+  "code": 99},
+"Arduino Sketch" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 148,
+  "code": 85},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 69},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 190,
+  "comment": 307,
+  "code": 570,
+  "nFiles": 6} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 112.275401115417,
+  "n_files"            : 471,
+  "n_lines"            : 266848,
+  "files_per_second"   : 4.19504179295533,
+  "lines_per_second"   : 2376.72720247674,
+  "report_file"        : "loc/skycoin__skywire-updater.json"},
+"Go" :{
+  "nFiles": 402,
+  "blank": 23723,
+  "comment": 21446,
+  "code": 214464},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 846,
+  "comment": 0,
+  "code": 2461},
+"Assembly" :{
+  "nFiles": 33,
+  "blank": 253,
+  "comment": 300,
+  "code": 1558},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 297,
+  "code": 507},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 44,
+  "comment": 85,
+  "code": 248},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 22,
+  "code": 218},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 4,
+  "code": 167},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 3,
+  "code": 27},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"SUM": {
+  "blank": 25010,
+  "comment": 22164,
+  "code": 219674,
+  "nFiles": 471} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.038877010345459,
+  "n_files"            : 1,
+  "n_lines"            : 229,
+  "files_per_second"   : 25.7221424979456,
+  "lines_per_second"   : 5890.37063202954,
+  "report_file"        : "loc/dwyl__learn-vagrant.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 81,
+  "comment": 0,
+  "code": 148},
+"SUM": {
+  "blank": 81,
+  "comment": 0,
+  "code": 148,
+  "nFiles": 1} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.14209008216858,
+  "n_files"            : 298,
+  "n_lines"            : 68419,
+  "files_per_second"   : 94.8413292448729,
+  "lines_per_second"   : 21774.9963275334,
+  "report_file"        : "loc/Bloc__bloc-overflow.json"},
+"JavaScript" :{
+  "nFiles": 171,
+  "blank": 9444,
+  "comment": 7358,
+  "code": 36354},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 1,
+  "comment": 0,
+  "code": 7857},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 1134,
+  "comment": 0,
+  "code": 2567},
+"JSX" :{
+  "nFiles": 16,
+  "blank": 213,
+  "comment": 5,
+  "code": 1379},
+"Ruby" :{
+  "nFiles": 51,
+  "blank": 229,
+  "comment": 750,
+  "code": 442},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 22,
+  "comment": 24,
+  "code": 196},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 27,
+  "comment": 51,
+  "code": 158},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 13,
+  "code": 125},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 11097,
+  "comment": 8202,
+  "code": 49120,
+  "nFiles": 298} }

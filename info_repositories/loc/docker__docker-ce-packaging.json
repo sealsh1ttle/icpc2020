@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.94042801856995,
+  "n_files"            : 36,
+  "n_lines"            : 1605,
+  "files_per_second"   : 4.53376063806741,
+  "lines_per_second"   : 202.130161780505,
+  "report_file"        : "loc/docker__docker-ce-packaging.json"},
+"make" :{
+  "nFiles": 7,
+  "blank": 91,
+  "comment": 25,
+  "code": 451},
+"Dockerfile" :{
+  "nFiles": 13,
+  "blank": 79,
+  "comment": 3,
+  "code": 246},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 55,
+  "comment": 72,
+  "code": 241},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 26,
+  "code": 126},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 65},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 8},
+"SUM": {
+  "blank": 280,
+  "comment": 129,
+  "code": 1196,
+  "nFiles": 36} }

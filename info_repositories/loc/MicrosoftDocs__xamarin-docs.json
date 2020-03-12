@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 371.445230007172,
+  "n_files"            : 1581,
+  "n_lines"            : 308806,
+  "files_per_second"   : 4.25634756426802,
+  "lines_per_second"   : 831.363482562524,
+  "report_file"        : "loc/MicrosoftDocs__xamarin-docs.json"},
+"Markdown" :{
+  "nFiles": 1423,
+  "blank": 79778,
+  "comment": 0,
+  "code": 216695},
+"YAML" :{
+  "nFiles": 56,
+  "blank": 35,
+  "comment": 48,
+  "code": 5551},
+"SVG" :{
+  "nFiles": 96,
+  "blank": 568,
+  "comment": 16,
+  "code": 5321},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 777},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 80383,
+  "comment": 67,
+  "code": 228356,
+  "nFiles": 1581} }

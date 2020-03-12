@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.49238801002502,
+  "n_files"            : 29,
+  "n_lines"            : 8134,
+  "files_per_second"   : 5.28003483130972,
+  "lines_per_second"   : 1480.95873509908,
+  "report_file"        : "loc/JuliaDatabases__ODBC.jl.json"},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 721,
+  "comment": 1112,
+  "code": 3054},
+"Julia" :{
+  "nFiles": 11,
+  "blank": 258,
+  "comment": 475,
+  "code": 2078},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 89,
+  "comment": 0,
+  "code": 121},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 5,
+  "code": 83},
+"INI" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 29},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 1099,
+  "comment": 1592,
+  "code": 5443,
+  "nFiles": 29} }

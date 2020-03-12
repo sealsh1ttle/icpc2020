@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.9550890922546,
+  "n_files"            : 117,
+  "n_lines"            : 6652,
+  "files_per_second"   : 3.55028625996032,
+  "lines_per_second"   : 201.850463258599,
+  "report_file"        : "loc/Omnipotent-Onions__OmnipotentOnions.json"},
+"JavaScript" :{
+  "nFiles": 96,
+  "blank": 597,
+  "comment": 434,
+  "code": 4259},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 187,
+  "comment": 0,
+  "code": 458},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 50,
+  "comment": 8,
+  "code": 239},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 0,
+  "code": 198},
+"EJS" :{
+  "nFiles": 6,
+  "blank": 21,
+  "comment": 27,
+  "code": 103},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 38},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 8},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 868,
+  "comment": 471,
+  "code": 5313,
+  "nFiles": 117} }

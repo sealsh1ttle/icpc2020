@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.7677309513092,
+  "n_files"            : 64,
+  "n_lines"            : 2371563,
+  "files_per_second"   : 2.58400739760204,
+  "lines_per_second"   : 95752.1302481139,
+  "report_file"        : "loc/Septima__fikspunktsregister.json"},
+"SQL" :{
+  "nFiles": 23,
+  "blank": 439847,
+  "comment": 99,
+  "code": 1929181},
+"Python" :{
+  "nFiles": 22,
+  "blank": 332,
+  "comment": 225,
+  "code": 1450},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 6,
+  "code": 111},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 0,
+  "code": 108},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 7,
+  "code": 58},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 22,
+  "code": 19},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"awk" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 8,
+  "code": 11},
+"SUM": {
+  "blank": 440242,
+  "comment": 367,
+  "code": 1930954,
+  "nFiles": 64} }

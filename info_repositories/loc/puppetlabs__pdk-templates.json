@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.203613042831421,
+  "n_files"            : 44,
+  "n_lines"            : 2922,
+  "files_per_second"   : 216.096176296669,
+  "lines_per_second"   : 14350.7506167924,
+  "report_file"        : "loc/puppetlabs__pdk-templates.json"},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 20,
+  "comment": 15,
+  "code": 1158},
+"ERB" :{
+  "nFiles": 32,
+  "blank": 146,
+  "comment": 0,
+  "code": 1152},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 72,
+  "comment": 0,
+  "code": 219},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 7,
+  "code": 55},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 15,
+  "code": 28},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 267,
+  "comment": 37,
+  "code": 2618,
+  "nFiles": 44} }

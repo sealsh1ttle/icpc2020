@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.190514087677002,
+  "n_files"            : 1,
+  "n_lines"            : 102,
+  "files_per_second"   : 5.24895566618361,
+  "lines_per_second"   : 535.393477950728,
+  "report_file"        : "loc/ironhack-labs__lab-nodemailer.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 0,
+  "code": 59},
+"SUM": {
+  "blank": 43,
+  "comment": 0,
+  "code": 59,
+  "nFiles": 1} }

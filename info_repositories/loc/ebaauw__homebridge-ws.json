@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.107194185256958,
+  "n_files"            : 11,
+  "n_lines"            : 1093,
+  "files_per_second"   : 102.617506477908,
+  "lines_per_second"   : 10196.448598214,
+  "report_file"        : "loc/ebaauw__homebridge-ws.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 677},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 43,
+  "comment": 69,
+  "code": 275},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 48,
+  "comment": 69,
+  "code": 976,
+  "nFiles": 11} }

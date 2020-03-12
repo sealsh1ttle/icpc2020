@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0660011768341064,
+  "n_files"            : 6,
+  "n_lines"            : 388,
+  "files_per_second"   : 90.9074699543762,
+  "lines_per_second"   : 5878.68305704966,
+  "report_file"        : "loc/peter-mueller__paper-chips-input.json"},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 56,
+  "comment": 0,
+  "code": 316},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 56,
+  "comment": 0,
+  "code": 332,
+  "nFiles": 6} }

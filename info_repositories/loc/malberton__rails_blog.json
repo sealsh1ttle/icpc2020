@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.6736810207367,
+  "n_files"            : 164,
+  "n_lines"            : 29342,
+  "files_per_second"   : 4.13372280515842,
+  "lines_per_second"   : 739.583503347307,
+  "report_file"        : "loc/malberton__rails_blog.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 2839,
+  "comment": 2231,
+  "code": 9453},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 868,
+  "comment": 1369,
+  "code": 7924},
+"Ruby" :{
+  "nFiles": 112,
+  "blank": 450,
+  "comment": 715,
+  "code": 1683},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 884},
+"ERB" :{
+  "nFiles": 28,
+  "blank": 61,
+  "comment": 50,
+  "code": 335},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 11,
+  "comment": 24,
+  "code": 80},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 113,
+  "code": 32},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 4260,
+  "comment": 4508,
+  "code": 20574,
+  "nFiles": 164} }

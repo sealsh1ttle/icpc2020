@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.9958689212799,
+  "n_files"            : 253,
+  "n_lines"            : 19586,
+  "files_per_second"   : 3.8335732847427,
+  "lines_per_second"   : 296.776151600674,
+  "report_file"        : "loc/kmagiera__react-native-reanimated.json"},
+"JavaScript" :{
+  "nFiles": 127,
+  "blank": 885,
+  "comment": 359,
+  "code": 10027},
+"Objective C" :{
+  "nFiles": 31,
+  "blank": 479,
+  "comment": 103,
+  "code": 2267},
+"Java" :{
+  "nFiles": 35,
+  "blank": 356,
+  "comment": 51,
+  "code": 2123},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 270,
+  "comment": 0,
+  "code": 680},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 18,
+  "code": 341},
+"C/C++ Header" :{
+  "nFiles": 29,
+  "blank": 140,
+  "comment": 25,
+  "code": 281},
+"XML" :{
+  "nFiles": 10,
+  "blank": 9,
+  "comment": 4,
+  "code": 221},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 94,
+  "code": 179},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 155},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 37,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 59},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 25,
+  "code": 31},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 18},
+"SUM": {
+  "blank": 2282,
+  "comment": 719,
+  "code": 16585,
+  "nFiles": 253} }

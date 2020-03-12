@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.591854095458984,
+  "n_files"            : 34,
+  "n_lines"            : 21033,
+  "files_per_second"   : 57.4465907406333,
+  "lines_per_second"   : 35537.4747955218,
+  "report_file"        : "loc/ARTFL-Project__text-pair.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 14961},
+"Python" :{
+  "nFiles": 9,
+  "blank": 202,
+  "comment": 136,
+  "code": 2222},
+"Vuejs Component" :{
+  "nFiles": 6,
+  "blank": 73,
+  "comment": 14,
+  "code": 1427},
+"Go" :{
+  "nFiles": 2,
+  "blank": 75,
+  "comment": 25,
+  "code": 1218},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 75,
+  "comment": 0,
+  "code": 169},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 16,
+  "comment": 0,
+  "code": 161},
+"INI" :{
+  "nFiles": 2,
+  "blank": 56,
+  "comment": 0,
+  "code": 149},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 33},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 502,
+  "comment": 175,
+  "code": 20356,
+  "nFiles": 34} }

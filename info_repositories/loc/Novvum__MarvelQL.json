@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 109.798797130585,
+  "n_files"            : 180,
+  "n_lines"            : 10737268,
+  "files_per_second"   : 1.63936222166373,
+  "lines_per_second"   : 97790.3973504379,
+  "report_file"        : "loc/Novvum__MarvelQL.json"},
+"JSON" :{
+  "nFiles": 124,
+  "blank": 0,
+  "comment": 0,
+  "code": 10730469},
+"TypeScript" :{
+  "nFiles": 36,
+  "blank": 165,
+  "comment": 106,
+  "code": 2867},
+"GraphQL" :{
+  "nFiles": 3,
+  "blank": 255,
+  "comment": 2,
+  "code": 2262},
+"Python" :{
+  "nFiles": 4,
+  "blank": 132,
+  "comment": 1,
+  "code": 435},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 92,
+  "comment": 0,
+  "code": 220},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 30,
+  "code": 92},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 12,
+  "code": 88},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 9,
+  "code": 17},
+"SUM": {
+  "blank": 658,
+  "comment": 160,
+  "code": 10736450,
+  "nFiles": 180} }

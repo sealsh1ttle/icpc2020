@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 160.473515987396,
+  "n_files"            : 454,
+  "n_lines"            : 85170,
+  "files_per_second"   : 2.82912726879903,
+  "lines_per_second"   : 530.741783003554,
+  "report_file"        : "loc/hyperledger__blockchain-explorer.json"},
+"JSON" :{
+  "nFiles": 54,
+  "blank": 7,
+  "comment": 0,
+  "code": 32672},
+"JavaScript" :{
+  "nFiles": 203,
+  "blank": 2223,
+  "comment": 3541,
+  "code": 20208},
+"Markdown" :{
+  "nFiles": 45,
+  "blank": 1936,
+  "comment": 0,
+  "code": 5991},
+"YAML" :{
+  "nFiles": 48,
+  "blank": 475,
+  "comment": 1386,
+  "code": 3535},
+"Python" :{
+  "nFiles": 17,
+  "blank": 796,
+  "comment": 462,
+  "code": 3374},
+"Bourne Shell" :{
+  "nFiles": 30,
+  "blank": 417,
+  "comment": 485,
+  "code": 2347},
+"TypeScript" :{
+  "nFiles": 11,
+  "blank": 269,
+  "comment": 214,
+  "code": 1163},
+"reStructuredText" :{
+  "nFiles": 25,
+  "blank": 549,
+  "comment": 262,
+  "code": 854},
+"Java" :{
+  "nFiles": 5,
+  "blank": 81,
+  "comment": 37,
+  "code": 430},
+"Go" :{
+  "nFiles": 3,
+  "blank": 104,
+  "comment": 92,
+  "code": 335},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 20,
+  "code": 194},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 36,
+  "code": 162},
+"Cucumber" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 43,
+  "code": 147},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 6,
+  "code": 74},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 16,
+  "code": 21},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 28,
+  "code": 20},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 7,
+  "code": 9},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 6970,
+  "comment": 6636,
+  "code": 71564,
+  "nFiles": 454} }

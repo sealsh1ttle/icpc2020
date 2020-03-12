@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 428.326653957367,
+  "n_files"            : 1737,
+  "n_lines"            : 181717,
+  "files_per_second"   : 4.05531615637651,
+  "lines_per_second"   : 424.248639026062,
+  "report_file"        : "loc/Alfresco__alfresco-js-api.json"},
+"Markdown" :{
+  "nFiles": 911,
+  "blank": 18150,
+  "comment": 0,
+  "code": 41987},
+"JSON" :{
+  "nFiles": 29,
+  "blank": 4,
+  "comment": 0,
+  "code": 40979},
+"TypeScript" :{
+  "nFiles": 717,
+  "blank": 10166,
+  "comment": 21993,
+  "code": 26982},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 746,
+  "comment": 59,
+  "code": 15197},
+"JavaScript" :{
+  "nFiles": 39,
+  "blank": 333,
+  "comment": 31,
+  "code": 3673},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 113,
+  "comment": 23,
+  "code": 362},
+"Java" :{
+  "nFiles": 1,
+  "blank": 70,
+  "comment": 15,
+  "code": 329},
+"Mustache" :{
+  "nFiles": 16,
+  "blank": 49,
+  "comment": 0,
+  "code": 279},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 99},
+"XML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 2,
+  "code": 47},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 29643,
+  "comment": 22125,
+  "code": 129949,
+  "nFiles": 1737} }

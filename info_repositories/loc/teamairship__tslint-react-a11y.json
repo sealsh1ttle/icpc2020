@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.588547945022583,
+  "n_files"            : 3,
+  "n_lines"            : 118,
+  "files_per_second"   : 5.09729075663477,
+  "lines_per_second"   : 200.493436427634,
+  "report_file"        : "loc/teamairship__tslint-react-a11y.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 46},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 17,
+  "comment": 0,
+  "code": 101,
+  "nFiles": 3} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.280702829361,
+  "n_files"            : 55,
+  "n_lines"            : 1131,
+  "files_per_second"   : 3.8513510614422,
+  "lines_per_second"   : 79.1977827362024,
+  "report_file"        : "loc/turingschool-examples__rails_challenge_2.json"},
+"Ruby" :{
+  "nFiles": 39,
+  "blank": 116,
+  "comment": 336,
+  "code": 220},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 107,
+  "code": 31},
+"ERB" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 25},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 12},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 23,
+  "code": 4},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 168,
+  "comment": 484,
+  "code": 479,
+  "nFiles": 55} }

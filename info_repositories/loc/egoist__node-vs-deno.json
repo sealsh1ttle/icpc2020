@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.74247097969055,
+  "n_files"            : 6,
+  "n_lines"            : 193,
+  "files_per_second"   : 3.44338589849316,
+  "lines_per_second"   : 110.76224640153,
+  "report_file"        : "loc/egoist__node-vs-deno.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 44,
+  "comment": 0,
+  "code": 102},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 14},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 4},
+"SUM": {
+  "blank": 48,
+  "comment": 4,
+  "code": 141,
+  "nFiles": 6} }

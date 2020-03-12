@@ -1,0 +1,224 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1387.34905099869,
+  "n_files"            : 4416,
+  "n_lines"            : 2469771,
+  "files_per_second"   : 3.18304899320119,
+  "lines_per_second"   : 1780.20880774173,
+  "report_file"        : "loc/opencv__opencv.json"},
+"XML" :{
+  "nFiles": 153,
+  "blank": 548,
+  "comment": 57332,
+  "code": 674630},
+"C++" :{
+  "nFiles": 1437,
+  "blank": 104180,
+  "comment": 73529,
+  "code": 589985},
+"C/C++ Header" :{
+  "nFiles": 1175,
+  "blank": 62861,
+  "comment": 110329,
+  "code": 330224},
+"C" :{
+  "nFiles": 345,
+  "blank": 26347,
+  "comment": 38557,
+  "code": 169649},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 21,
+  "code": 32353},
+"Markdown" :{
+  "nFiles": 288,
+  "blank": 9398,
+  "comment": 0,
+  "code": 28566},
+"Java" :{
+  "nFiles": 192,
+  "blank": 5788,
+  "comment": 2374,
+  "code": 24525},
+"Python" :{
+  "nFiles": 230,
+  "blank": 5779,
+  "comment": 4282,
+  "code": 23213},
+"OpenCL" :{
+  "nFiles": 109,
+  "blank": 3658,
+  "comment": 3953,
+  "code": 22753},
+"CMake" :{
+  "nFiles": 226,
+  "blank": 3068,
+  "comment": 3342,
+  "code": 18559},
+"HTML" :{
+  "nFiles": 82,
+  "blank": 420,
+  "comment": 28,
+  "code": 6882},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 4,
+  "code": 5556},
+"JavaScript" :{
+  "nFiles": 21,
+  "blank": 731,
+  "comment": 726,
+  "code": 3660},
+"Objective C++" :{
+  "nFiles": 7,
+  "blank": 973,
+  "comment": 844,
+  "code": 3544},
+"XAML" :{
+  "nFiles": 20,
+  "blank": 182,
+  "comment": 1202,
+  "code": 2097},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 1,
+  "comment": 0,
+  "code": 1308},
+"TeX" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 0,
+  "code": 1292},
+"CUDA" :{
+  "nFiles": 7,
+  "blank": 304,
+  "comment": 180,
+  "code": 1195},
+"Protocol Buffers" :{
+  "nFiles": 10,
+  "blank": 317,
+  "comment": 1240,
+  "code": 1164},
+"GLSL" :{
+  "nFiles": 11,
+  "blank": 54,
+  "comment": 8,
+  "code": 680},
+"C#" :{
+  "nFiles": 11,
+  "blank": 142,
+  "comment": 307,
+  "code": 599},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 2,
+  "code": 496},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 21,
+  "code": 479},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 2,
+  "code": 435},
+"DOS Batch" :{
+  "nFiles": 6,
+  "blank": 68,
+  "comment": 2,
+  "code": 387},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 3,
+  "code": 281},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 46,
+  "code": 277},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 49,
+  "comment": 22,
+  "code": 273},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 37,
+  "code": 190},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 77,
+  "code": 148},
+"Ant" :{
+  "nFiles": 4,
+  "blank": 43,
+  "comment": 59,
+  "code": 126},
+"Scala" :{
+  "nFiles": 5,
+  "blank": 23,
+  "comment": 41,
+  "code": 95},
+"make" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 4,
+  "code": 67},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 48},
+"diff" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 60,
+  "code": 40},
+"HLSL" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 13,
+  "code": 39},
+"Clojure" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 3,
+  "code": 30},
+"Prolog" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 0,
+  "code": 29},
+"INI" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 225196,
+  "comment": 298651,
+  "code": 1945924,
+  "nFiles": 4416} }

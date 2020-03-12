@@ -1,0 +1,194 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1871.79000091553,
+  "n_files"            : 7815,
+  "n_lines"            : 4109940,
+  "files_per_second"   : 4.17514785108241,
+  "lines_per_second"   : 2195.72708369515,
+  "report_file"        : "loc/FreeCAD__FreeCAD.json"},
+"Qt Linguist" :{
+  "nFiles": 1026,
+  "blank": 1973,
+  "comment": 0,
+  "code": 1899915},
+"C++" :{
+  "nFiles": 1943,
+  "blank": 112208,
+  "comment": 118116,
+  "code": 644519},
+"SVG" :{
+  "nFiles": 1392,
+  "blank": 715,
+  "comment": 1630,
+  "code": 383012},
+"Python" :{
+  "nFiles": 703,
+  "blank": 48252,
+  "comment": 81207,
+  "code": 289780},
+"C/C++ Header" :{
+  "nFiles": 1902,
+  "blank": 45777,
+  "comment": 80875,
+  "code": 158807},
+"Qt" :{
+  "nFiles": 312,
+  "blank": 8,
+  "comment": 0,
+  "code": 81221},
+"C" :{
+  "nFiles": 43,
+  "blank": 7761,
+  "comment": 10716,
+  "code": 50486},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 9,
+  "comment": 0,
+  "code": 18650},
+"CMake" :{
+  "nFiles": 185,
+  "blank": 2507,
+  "comment": 1570,
+  "code": 16325},
+"XML" :{
+  "nFiles": 178,
+  "blank": 449,
+  "comment": 53,
+  "code": 15541},
+"MSBuild script" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 8327},
+"Fortran 77" :{
+  "nFiles": 2,
+  "blank": 218,
+  "comment": 8877,
+  "code": 7757},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 691,
+  "comment": 21,
+  "code": 4295},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 113,
+  "comment": 62,
+  "code": 808},
+"diff" :{
+  "nFiles": 3,
+  "blank": 184,
+  "comment": 595,
+  "code": 761},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 97,
+  "comment": 87,
+  "code": 742},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 51,
+  "comment": 106,
+  "code": 618},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 76,
+  "comment": 29,
+  "code": 415},
+"lex" :{
+  "nFiles": 3,
+  "blank": 107,
+  "comment": 27,
+  "code": 378},
+"yacc" :{
+  "nFiles": 3,
+  "blank": 55,
+  "comment": 21,
+  "code": 265},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 70,
+  "comment": 0,
+  "code": 249},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 7,
+  "code": 249},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 61,
+  "comment": 81,
+  "code": 189},
+"make" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 10,
+  "code": 170},
+"DOS Batch" :{
+  "nFiles": 9,
+  "blank": 29,
+  "comment": 1,
+  "code": 162},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 5,
+  "code": 73},
+"reStructuredText" :{
+  "nFiles": 22,
+  "blank": 83,
+  "comment": 154,
+  "code": 56},
+"Qt Project" :{
+  "nFiles": 7,
+  "blank": 17,
+  "comment": 2,
+  "code": 45},
+"ProGuard" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 12,
+  "code": 44},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 34},
+"GLSL" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 25,
+  "code": 19},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"INI" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 31,
+  "code": 13},
+"Windows Module Definition" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 2,
+  "code": 13},
+"SUM": {
+  "blank": 221602,
+  "comment": 304328,
+  "code": 3584010,
+  "nFiles": 7815} }

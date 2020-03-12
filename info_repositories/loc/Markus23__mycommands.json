@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.415946006774902,
+  "n_files"            : 42,
+  "n_lines"            : 3122,
+  "files_per_second"   : 100.974644102616,
+  "lines_per_second"   : 7505.78187829444,
+  "report_file"        : "loc/Markus23__mycommands.json"},
+"Java" :{
+  "nFiles": 34,
+  "blank": 573,
+  "comment": 162,
+  "code": 1940},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 101},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 8,
+  "code": 51},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 626,
+  "comment": 194,
+  "code": 2302,
+  "nFiles": 42} }

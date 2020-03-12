@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.50917387008667,
+  "n_files"            : 3,
+  "n_lines"            : 69,
+  "files_per_second"   : 5.89189700463095,
+  "lines_per_second"   : 135.513631106512,
+  "report_file"        : "loc/urfu-2015__webdev-tasks-1.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 37},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 19,
+  "comment": 0,
+  "code": 50,
+  "nFiles": 3} }

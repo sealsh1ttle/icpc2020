@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.7172260284424,
+  "n_files"            : 71,
+  "n_lines"            : 2105,
+  "files_per_second"   : 4.51733657526565,
+  "lines_per_second"   : 133.929485787805,
+  "report_file"        : "loc/mrapacz__github-trends.json"},
+"Elm" :{
+  "nFiles": 28,
+  "blank": 233,
+  "comment": 12,
+  "code": 766},
+"Elixir" :{
+  "nFiles": 27,
+  "blank": 124,
+  "comment": 67,
+  "code": 455},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 66,
+  "code": 74},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 19,
+  "code": 53},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"EEx" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 29},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 27},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 26},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 21},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 15},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 3},
+"SUM": {
+  "blank": 410,
+  "comment": 174,
+  "code": 1521,
+  "nFiles": 71} }

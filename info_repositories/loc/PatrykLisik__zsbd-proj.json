@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.223366975784302,
+  "n_files"            : 7,
+  "n_lines"            : 1926,
+  "files_per_second"   : 31.3385628086744,
+  "lines_per_second"   : 8622.58170992956,
+  "report_file"        : "loc/PatrykLisik__zsbd-proj.json"},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 272,
+  "comment": 113,
+  "code": 1250},
+"Python" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 13,
+  "code": 237},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 311,
+  "comment": 126,
+  "code": 1489,
+  "nFiles": 7} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.2752940654755,
+  "n_files"            : 50,
+  "n_lines"            : 133820,
+  "files_per_second"   : 4.43447414405786,
+  "lines_per_second"   : 11868.4265991565,
+  "report_file"        : "loc/formio__ngFormio.json"},
+"JavaScript" :{
+  "nFiles": 41,
+  "blank": 18584,
+  "comment": 24093,
+  "code": 78923},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 9129},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 2673},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 93,
+  "comment": 0,
+  "code": 318},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 18678,
+  "comment": 24098,
+  "code": 91044,
+  "nFiles": 50} }

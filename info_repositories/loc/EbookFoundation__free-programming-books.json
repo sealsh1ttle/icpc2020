@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.443740844726562,
+  "n_files"            : 59,
+  "n_lines"            : 10493,
+  "files_per_second"   : 132.960489666793,
+  "lines_per_second"   : 23646.6850520959,
+  "report_file"        : "loc/EbookFoundation__free-programming-books.json"},
+"Markdown" :{
+  "nFiles": 57,
+  "blank": 3574,
+  "comment": 0,
+  "code": 6909},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 3574,
+  "comment": 0,
+  "code": 6919,
+  "nFiles": 59} }

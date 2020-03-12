@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.336180925369263,
+  "n_files"            : 61,
+  "n_lines"            : 3008,
+  "files_per_second"   : 181.449914009837,
+  "lines_per_second"   : 8947.56297281292,
+  "report_file"        : "loc/syuilo__logica.json"},
+"TypeScript" :{
+  "nFiles": 51,
+  "blank": 437,
+  "comment": 294,
+  "code": 1852},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 69,
+  "comment": 25,
+  "code": 171},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 47},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 533,
+  "comment": 319,
+  "code": 2156,
+  "nFiles": 61} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.66634392738342,
+  "n_files"            : 25,
+  "n_lines"            : 2601,
+  "files_per_second"   : 4.41201598780192,
+  "lines_per_second"   : 459.026143370912,
+  "report_file"        : "loc/austinksmith__Hamsters.js.json"},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 206,
+  "comment": 424,
+  "code": 1138},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 571},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 77,
+  "comment": 0,
+  "code": 106},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 79},
+"SUM": {
+  "blank": 283,
+  "comment": 424,
+  "code": 1894,
+  "nFiles": 25} }

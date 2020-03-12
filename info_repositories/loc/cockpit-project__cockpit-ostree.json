@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.17853498458862,
+  "n_files"            : 46,
+  "n_lines"            : 71341,
+  "files_per_second"   : 39.0315099691815,
+  "lines_per_second"   : 60533.6294067691,
+  "report_file"        : "loc/cockpit-project__cockpit-ostree.json"},
+"PO File" :{
+  "nFiles": 21,
+  "blank": 19848,
+  "comment": 42885,
+  "code": 3538},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 326,
+  "comment": 244,
+  "code": 1901},
+"Python" :{
+  "nFiles": 1,
+  "blank": 121,
+  "comment": 69,
+  "code": 525},
+"LESS" :{
+  "nFiles": 3,
+  "blank": 112,
+  "comment": 37,
+  "code": 472},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 14,
+  "code": 386},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 78,
+  "comment": 29,
+  "code": 344},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 106},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 22,
+  "code": 104},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 54},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 16},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 2},
+"SUM": {
+  "blank": 20570,
+  "comment": 43307,
+  "code": 7464,
+  "nFiles": 46} }

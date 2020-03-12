@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.1923589706421,
+  "n_files"            : 82,
+  "n_lines"            : 9806,
+  "files_per_second"   : 5.0641169794143,
+  "lines_per_second"   : 605.594281708983,
+  "report_file"        : "loc/pytorch__text.json"},
+"Python" :{
+  "nFiles": 54,
+  "blank": 1394,
+  "comment": 1826,
+  "code": 5260},
+"reStructuredText" :{
+  "nFiles": 9,
+  "blank": 249,
+  "comment": 219,
+  "code": 297},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 0,
+  "code": 83},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 10,
+  "code": 82},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 3,
+  "code": 76},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 29,
+  "code": 66},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 56},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 7,
+  "code": 14},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1746,
+  "comment": 2096,
+  "code": 5964,
+  "nFiles": 82} }

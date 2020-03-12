@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 101.069077014923,
+  "n_files"            : 455,
+  "n_lines"            : 45125,
+  "files_per_second"   : 4.50187152627127,
+  "lines_per_second"   : 446.476818951628,
+  "report_file"        : "loc/helloworld1__AnyMemo.json"},
+"Java" :{
+  "nFiles": 236,
+  "blank": 6004,
+  "comment": 3437,
+  "code": 23517},
+"XML" :{
+  "nFiles": 199,
+  "blank": 246,
+  "comment": 40,
+  "code": 11218},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 43,
+  "comment": 24,
+  "code": 214},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 0,
+  "code": 145},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 72},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Haskell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 6371,
+  "comment": 3503,
+  "code": 35251,
+  "nFiles": 455} }

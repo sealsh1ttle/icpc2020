@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.6555409431458,
+  "n_files"            : 63,
+  "n_lines"            : 9511,
+  "files_per_second"   : 4.0241343450724,
+  "lines_per_second"   : 607.516535809264,
+  "report_file"        : "loc/drivetribe__react-native-camera.json"},
+"Java" :{
+  "nFiles": 27,
+  "blank": 758,
+  "comment": 599,
+  "code": 3979},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 474,
+  "comment": 0,
+  "code": 1256},
+"Objective C" :{
+  "nFiles": 6,
+  "blank": 196,
+  "comment": 49,
+  "code": 1255},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 56,
+  "comment": 7,
+  "code": 347},
+"C/C++ Header" :{
+  "nFiles": 6,
+  "blank": 45,
+  "comment": 26,
+  "code": 150},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 67},
+"XML" :{
+  "nFiles": 6,
+  "blank": 8,
+  "comment": 87,
+  "code": 60},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 23},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 1549,
+  "comment": 768,
+  "code": 7194,
+  "nFiles": 63} }

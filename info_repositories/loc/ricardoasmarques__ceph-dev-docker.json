@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.233150005340576,
+  "n_files"            : 40,
+  "n_lines"            : 9012,
+  "files_per_second"   : 171.563367290383,
+  "lines_per_second"   : 38653.2266505233,
+  "report_file"        : "loc/ricardoasmarques__ceph-dev-docker.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 7327},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 159,
+  "comment": 0,
+  "code": 310},
+"INI" :{
+  "nFiles": 1,
+  "blank": 122,
+  "comment": 194,
+  "code": 214},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 71,
+  "comment": 11,
+  "code": 199},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 19,
+  "code": 145},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 3,
+  "code": 79},
+"XML" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 0,
+  "code": 72},
+"zsh" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 19},
+"SUM": {
+  "blank": 418,
+  "comment": 229,
+  "code": 8365,
+  "nFiles": 40} }

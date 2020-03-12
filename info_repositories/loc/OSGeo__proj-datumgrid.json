@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.5549509525299,
+  "n_files"            : 18,
+  "n_lines"            : 1413,
+  "files_per_second"   : 1.02535176820907,
+  "lines_per_second"   : 80.4901138044118,
+  "report_file"        : "loc/OSGeo__proj-datumgrid.json"},
+"C" :{
+  "nFiles": 1,
+  "blank": 73,
+  "comment": 49,
+  "code": 291},
+"Python" :{
+  "nFiles": 3,
+  "blank": 93,
+  "comment": 124,
+  "code": 255},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 71,
+  "comment": 50,
+  "code": 143},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 96},
+"CMake" :{
+  "nFiles": 6,
+  "blank": 33,
+  "comment": 6,
+  "code": 84},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 4,
+  "code": 21},
+"SUM": {
+  "blank": 290,
+  "comment": 233,
+  "code": 890,
+  "nFiles": 18} }

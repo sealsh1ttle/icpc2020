@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.51999688148499,
+  "n_files"            : 179,
+  "n_lines"            : 14490,
+  "files_per_second"   : 117.763399504559,
+  "lines_per_second"   : 9532.91429508971,
+  "report_file"        : "loc/FredBoat__Backend.json"},
+"Java" :{
+  "nFiles": 162,
+  "blank": 1725,
+  "comment": 5087,
+  "code": 6707},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 44,
+  "comment": 86,
+  "code": 152},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 57,
+  "comment": 0,
+  "code": 148},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 25,
+  "code": 131},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 22,
+  "comment": 68,
+  "code": 106},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1898,
+  "comment": 5268,
+  "code": 7324,
+  "nFiles": 179} }

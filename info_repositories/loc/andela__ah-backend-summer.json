@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.801649808883667,
+  "n_files"            : 136,
+  "n_lines"            : 9810,
+  "files_per_second"   : 169.650137120828,
+  "lines_per_second"   : 12237.2635673186,
+  "report_file"        : "loc/andela__ah-backend-summer.json"},
+"Python" :{
+  "nFiles": 131,
+  "blank": 1328,
+  "comment": 1234,
+  "code": 6577},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 176,
+  "comment": 0,
+  "code": 381},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 2,
+  "code": 58},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 1510,
+  "comment": 1236,
+  "code": 7064,
+  "nFiles": 136} }

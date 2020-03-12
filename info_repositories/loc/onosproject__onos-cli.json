@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.108574151992798,
+  "n_files"            : 12,
+  "n_lines"            : 796,
+  "files_per_second"   : 110.523543400975,
+  "lines_per_second"   : 7331.39504559798,
+  "report_file"        : "loc/onosproject__onos-cli.json"},
+"Go" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 64,
+  "code": 269},
+"Python" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 31,
+  "code": 153},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 52},
+"make" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 49},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 26},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 25},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 117,
+  "comment": 95,
+  "code": 584,
+  "nFiles": 12} }

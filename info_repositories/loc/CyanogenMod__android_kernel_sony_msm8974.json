@@ -1,0 +1,164 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9848.36412906647,
+  "n_files"            : 36877,
+  "n_lines"            : 16633748,
+  "files_per_second"   : 3.74447974472849,
+  "lines_per_second"   : 1688.98588455997,
+  "report_file"        : "loc/CyanogenMod__android_kernel_sony_msm8974.json"},
+"C" :{
+  "nFiles": 18475,
+  "blank": 1824773,
+  "comment": 1777966,
+  "code": 9622975},
+"C/C++ Header" :{
+  "nFiles": 15105,
+  "blank": 376485,
+  "comment": 639544,
+  "code": 1899262},
+"Assembly" :{
+  "nFiles": 1269,
+  "blank": 41909,
+  "comment": 98493,
+  "code": 214038},
+"XML" :{
+  "nFiles": 146,
+  "blank": 2938,
+  "comment": 270,
+  "code": 41667},
+"make" :{
+  "nFiles": 1614,
+  "blank": 6773,
+  "comment": 7033,
+  "code": 26793},
+"Perl" :{
+  "nFiles": 42,
+  "blank": 3439,
+  "comment": 2788,
+  "code": 16123},
+"Bourne Shell" :{
+  "nFiles": 71,
+  "blank": 714,
+  "comment": 1600,
+  "code": 4183},
+"yacc" :{
+  "nFiles": 7,
+  "blank": 531,
+  "comment": 341,
+  "code": 3410},
+"PO File" :{
+  "nFiles": 5,
+  "blank": 791,
+  "comment": 918,
+  "code": 3061},
+"Python" :{
+  "nFiles": 24,
+  "blank": 658,
+  "comment": 452,
+  "code": 3002},
+"C++" :{
+  "nFiles": 3,
+  "blank": 227,
+  "comment": 104,
+  "code": 1583},
+"lex" :{
+  "nFiles": 7,
+  "blank": 242,
+  "comment": 249,
+  "code": 1520},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 1045},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 108,
+  "comment": 3,
+  "code": 911},
+"awk" :{
+  "nFiles": 8,
+  "blank": 89,
+  "comment": 88,
+  "code": 716},
+"Glade" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 0,
+  "code": 603},
+"Bourne Again Shell" :{
+  "nFiles": 31,
+  "blank": 83,
+  "comment": 61,
+  "code": 514},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 0,
+  "code": 378},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 93,
+  "comment": 0,
+  "code": 374},
+"Clojure" :{
+  "nFiles": 46,
+  "blank": 57,
+  "comment": 0,
+  "code": 364},
+"Pascal" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 0,
+  "code": 231},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 218},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 55,
+  "comment": 0,
+  "code": 189},
+"ASP" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 137},
+"m4" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 84},
+"XSLT" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 27,
+  "code": 70},
+"sed" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 30},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 12,
+  "code": 27},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 11},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 2260267,
+  "comment": 2529955,
+  "code": 11843526,
+  "nFiles": 36877} }

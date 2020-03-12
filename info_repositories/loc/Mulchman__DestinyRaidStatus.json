@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.591670989990234,
+  "n_files"            : 85,
+  "n_lines"            : 4165,
+  "files_per_second"   : 143.660922096929,
+  "lines_per_second"   : 7039.38518274953,
+  "report_file"        : "loc/Mulchman__DestinyRaidStatus.json"},
+"JavaScript" :{
+  "nFiles": 47,
+  "blank": 413,
+  "comment": 142,
+  "code": 2155},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 69,
+  "comment": 6,
+  "code": 403},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 311},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 20,
+  "comment": 0,
+  "code": 231},
+"PHP" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 8,
+  "code": 173},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 50,
+  "comment": 0,
+  "code": 106},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 607,
+  "comment": 156,
+  "code": 3402,
+  "nFiles": 85} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.1391899585724,
+  "n_files"            : 203,
+  "n_lines"            : 31519,
+  "files_per_second"   : 5.9462453633592,
+  "lines_per_second"   : 923.249791171028,
+  "report_file"        : "loc/theforeman__hammer-cli-foreman.json"},
+"Ruby" :{
+  "nFiles": 175,
+  "blank": 4437,
+  "comment": 316,
+  "code": 16091},
+"PO File" :{
+  "nFiles": 3,
+  "blank": 2856,
+  "comment": 126,
+  "code": 5780},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 185,
+  "comment": 0,
+  "code": 1000},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 662},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 14,
+  "code": 5},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 8,
+  "code": 4},
+"SUM": {
+  "blank": 7485,
+  "comment": 464,
+  "code": 23570,
+  "nFiles": 203} }

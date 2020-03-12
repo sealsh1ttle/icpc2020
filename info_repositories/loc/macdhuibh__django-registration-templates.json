@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.174079179763794,
+  "n_files"            : 16,
+  "n_lines"            : 185,
+  "files_per_second"   : 91.9121977809766,
+  "lines_per_second"   : 1062.73478684254,
+  "report_file"        : "loc/macdhuibh__django-registration-templates.json"},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 35,
+  "comment": 0,
+  "code": 125},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 46,
+  "comment": 0,
+  "code": 139,
+  "nFiles": 16} }

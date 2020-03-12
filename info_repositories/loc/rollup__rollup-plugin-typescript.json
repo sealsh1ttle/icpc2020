@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.0901989936829,
+  "n_files"            : 41,
+  "n_lines"            : 3755,
+  "files_per_second"   : 2.71699531710375,
+  "lines_per_second"   : 248.837010139624,
+  "report_file"        : "loc/rollup__rollup-plugin-typescript.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 2867},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 109,
+  "comment": 20,
+  "code": 418},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 0,
+  "code": 145},
+"TypeScript" :{
+  "nFiles": 25,
+  "blank": 11,
+  "comment": 5,
+  "code": 69},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 54},
+"SUM": {
+  "blank": 177,
+  "comment": 25,
+  "code": 3553,
+  "nFiles": 41} }

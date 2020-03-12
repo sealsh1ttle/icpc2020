@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.17809009552002,
+  "n_files"            : 23,
+  "n_lines"            : 27944,
+  "files_per_second"   : 2.50596799123019,
+  "lines_per_second"   : 3044.64215421463,
+  "report_file"        : "loc/bardsoftware__papeeria-edit-history.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 2502,
+  "comment": 53,
+  "code": 18479},
+"Kotlin" :{
+  "nFiles": 8,
+  "blank": 361,
+  "comment": 211,
+  "code": 2978},
+"Java" :{
+  "nFiles": 1,
+  "blank": 137,
+  "comment": 687,
+  "code": 1645},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 33,
+  "comment": 0,
+  "code": 197},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 12,
+  "code": 163},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 37,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 48},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 29},
+"XML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 29},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 3151,
+  "comment": 1005,
+  "code": 23788,
+  "nFiles": 23} }

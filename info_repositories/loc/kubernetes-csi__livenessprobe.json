@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 123.450654983521,
+  "n_files"            : 536,
+  "n_lines"            : 418569,
+  "files_per_second"   : 4.34181576494309,
+  "lines_per_second"   : 3390.57739350087,
+  "report_file"        : "loc/kubernetes-csi__livenessprobe.json"},
+"Go" :{
+  "nFiles": 484,
+  "blank": 27293,
+  "comment": 43039,
+  "code": 344006},
+"Assembly" :{
+  "nFiles": 30,
+  "blank": 244,
+  "comment": 284,
+  "code": 1546},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 154,
+  "comment": 475,
+  "code": 827},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 9,
+  "code": 264},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 81,
+  "comment": 0,
+  "code": 235},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 20,
+  "code": 10},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 13,
+  "code": 5},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 13,
+  "code": 3},
+"SUM": {
+  "blank": 27789,
+  "comment": 43860,
+  "code": 346920,
+  "nFiles": 536} }

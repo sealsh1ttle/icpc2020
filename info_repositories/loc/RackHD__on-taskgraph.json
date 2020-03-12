@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.75288009643555,
+  "n_files"            : 379,
+  "n_lines"            : 36482,
+  "files_per_second"   : 65.8800450638327,
+  "lines_per_second"   : 6341.51927181727,
+  "report_file"        : "loc/RackHD__on-taskgraph.json"},
+"JavaScript" :{
+  "nFiles": 291,
+  "blank": 2253,
+  "comment": 2939,
+  "code": 16681},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 9,
+  "comment": 0,
+  "code": 9063},
+"Python" :{
+  "nFiles": 20,
+  "blank": 283,
+  "comment": 366,
+  "code": 1347},
+"Bourne Shell" :{
+  "nFiles": 29,
+  "blank": 204,
+  "comment": 268,
+  "code": 969},
+"XML" :{
+  "nFiles": 4,
+  "blank": 33,
+  "comment": 8,
+  "code": 751},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 24,
+  "comment": 9,
+  "code": 193},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 100,
+  "comment": 0,
+  "code": 193},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 118},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 29,
+  "comment": 11,
+  "code": 114},
+"Expect" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 33,
+  "code": 112},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 110},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 36,
+  "comment": 67,
+  "code": 66},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 19},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 7},
+"SUM": {
+  "blank": 3032,
+  "comment": 3707,
+  "code": 29743,
+  "nFiles": 379} }

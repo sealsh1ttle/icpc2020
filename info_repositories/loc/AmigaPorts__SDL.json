@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.9690968990326,
+  "n_files"            : 1189,
+  "n_lines"            : 504559,
+  "files_per_second"   : 85.1164544561461,
+  "lines_per_second"   : 36119.657816601,
+  "report_file"        : "loc/AmigaPorts__SDL.json"},
+"C" :{
+  "nFiles": 464,
+  "blank": 30592,
+  "comment": 25412,
+  "code": 174233},
+"C/C++ Header" :{
+  "nFiles": 446,
+  "blank": 17254,
+  "comment": 20715,
+  "code": 108120},
+"Bourne Shell" :{
+  "nFiles": 32,
+  "blank": 6561,
+  "comment": 5941,
+  "code": 41020},
+"XML" :{
+  "nFiles": 62,
+  "blank": 913,
+  "comment": 72,
+  "code": 16011},
+"m4" :{
+  "nFiles": 19,
+  "blank": 1360,
+  "comment": 234,
+  "code": 13695},
+"Objective C" :{
+  "nFiles": 37,
+  "blank": 2460,
+  "comment": 1673,
+  "code": 10897},
+"C++" :{
+  "nFiles": 39,
+  "blank": 1445,
+  "comment": 1575,
+  "code": 6560},
+"Java" :{
+  "nFiles": 12,
+  "blank": 1078,
+  "comment": 988,
+  "code": 5347},
+"CMake" :{
+  "nFiles": 8,
+  "blank": 339,
+  "comment": 815,
+  "code": 2777},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 765,
+  "comment": 0,
+  "code": 2094},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 614},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 54,
+  "code": 555},
+"make" :{
+  "nFiles": 19,
+  "blank": 141,
+  "comment": 86,
+  "code": 359},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 58,
+  "comment": 195,
+  "code": 286},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 7,
+  "code": 159},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 109,
+  "code": 157},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 9,
+  "code": 102},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 3,
+  "code": 78},
+"Python" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 4,
+  "code": 61},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 35,
+  "code": 37},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 4,
+  "code": 33},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 16},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 60,
+  "code": 16},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 63163,
+  "comment": 58026,
+  "code": 383370,
+  "nFiles": 1189} }

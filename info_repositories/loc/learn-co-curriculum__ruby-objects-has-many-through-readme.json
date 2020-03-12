@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.18041610717773,
+  "n_files"            : 8,
+  "n_lines"            : 775,
+  "files_per_second"   : 6.77727112613471,
+  "lines_per_second"   : 656.5481403443,
+  "report_file"        : "loc/learn-co-curriculum__ruby-objects-has-many-through-readme.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 110,
+  "comment": 0,
+  "code": 357},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 46,
+  "comment": 81,
+  "code": 181},
+"SUM": {
+  "blank": 156,
+  "comment": 81,
+  "code": 538,
+  "nFiles": 8} }

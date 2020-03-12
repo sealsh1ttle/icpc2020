@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.312612056732178,
+  "n_files"            : 41,
+  "n_lines"            : 2056,
+  "files_per_second"   : 131.152970965306,
+  "lines_per_second"   : 6576.84166596756,
+  "report_file"        : "loc/akilawickey__sms-application.json"},
+"Java" :{
+  "nFiles": 12,
+  "blank": 298,
+  "comment": 217,
+  "code": 717},
+"XML" :{
+  "nFiles": 23,
+  "blank": 42,
+  "comment": 6,
+  "code": 450},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 3,
+  "code": 42},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 396,
+  "comment": 264,
+  "code": 1396,
+  "nFiles": 41} }

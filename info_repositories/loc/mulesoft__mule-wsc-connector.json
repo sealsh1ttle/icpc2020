@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.0263800621033,
+  "n_files"            : 128,
+  "n_lines"            : 11518,
+  "files_per_second"   : 4.73611337167138,
+  "lines_per_second"   : 426.176201678992,
+  "report_file"        : "loc/mulesoft__mule-wsc-connector.json"},
+"XML" :{
+  "nFiles": 33,
+  "blank": 187,
+  "comment": 47,
+  "code": 4773},
+"Java" :{
+  "nFiles": 90,
+  "blank": 885,
+  "comment": 1179,
+  "code": 3818},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 8,
+  "code": 518},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 27},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1108,
+  "comment": 1236,
+  "code": 9174,
+  "nFiles": 128} }

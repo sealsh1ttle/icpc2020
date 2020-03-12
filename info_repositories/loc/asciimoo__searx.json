@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.51541304588318,
+  "n_files"            : 567,
+  "n_lines"            : 138018,
+  "files_per_second"   : 125.569907833116,
+  "lines_per_second"   : 30565.9744961393,
+  "report_file"        : "loc/asciimoo__searx.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 35743},
+"PO File" :{
+  "nFiles": 41,
+  "blank": 7573,
+  "comment": 16957,
+  "code": 16765},
+"Python" :{
+  "nFiles": 193,
+  "blank": 3710,
+  "comment": 7400,
+  "code": 12233},
+"LESS" :{
+  "nFiles": 118,
+  "blank": 2253,
+  "comment": 1833,
+  "code": 10091},
+"CSS" :{
+  "nFiles": 22,
+  "blank": 108,
+  "comment": 724,
+  "code": 6701},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 373,
+  "comment": 828,
+  "code": 4171},
+"HTML" :{
+  "nFiles": 92,
+  "blank": 303,
+  "comment": 30,
+  "code": 3161},
+"XML" :{
+  "nFiles": 37,
+  "blank": 1011,
+  "comment": 2463,
+  "code": 1057},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 124,
+  "comment": 78,
+  "code": 749},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 4,
+  "code": 532},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 104,
+  "comment": 4,
+  "code": 407},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 71,
+  "comment": 46,
+  "code": 295},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 1,
+  "code": 64},
+"INI" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 28},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 15651,
+  "comment": 30368,
+  "code": 91999,
+  "nFiles": 567} }

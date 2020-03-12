@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.576148986816406,
+  "n_files"            : 2,
+  "n_lines"            : 377,
+  "files_per_second"   : 3.47132433756638,
+  "lines_per_second"   : 654.344637631262,
+  "report_file"        : "loc/GitHubDaily__GitHubDaily.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 0,
+  "code": 310},
+"SUM": {
+  "blank": 67,
+  "comment": 0,
+  "code": 310,
+  "nFiles": 2} }

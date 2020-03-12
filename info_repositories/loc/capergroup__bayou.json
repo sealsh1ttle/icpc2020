@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 130.236798048019,
+  "n_files"            : 604,
+  "n_lines"            : 39127,
+  "files_per_second"   : 4.63770615565426,
+  "lines_per_second"   : 300.429683364709,
+  "report_file"        : "loc/capergroup__bayou.json"},
+"Java" :{
+  "nFiles": 271,
+  "blank": 3643,
+  "comment": 5883,
+  "code": 13149},
+"JSON" :{
+  "nFiles": 47,
+  "blank": 0,
+  "comment": 0,
+  "code": 4929},
+"XML" :{
+  "nFiles": 215,
+  "blank": 3,
+  "comment": 46,
+  "code": 4212},
+"Python" :{
+  "nFiles": 47,
+  "blank": 1070,
+  "comment": 1243,
+  "code": 4123},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 55,
+  "comment": 0,
+  "code": 270},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 74,
+  "comment": 163,
+  "code": 237},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 7},
+"SUM": {
+  "blank": 4850,
+  "comment": 7341,
+  "code": 26936,
+  "nFiles": 604} }

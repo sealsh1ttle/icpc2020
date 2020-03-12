@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.6946618556976,
+  "n_files"            : 52,
+  "n_lines"            : 14684,
+  "files_per_second"   : 4.44647315515717,
+  "lines_per_second"   : 1255.61561173707,
+  "report_file"        : "loc/CityOfZion__neo-mon.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 10256},
+"JavaScript" :{
+  "nFiles": 19,
+  "blank": 716,
+  "comment": 531,
+  "code": 2275},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 51,
+  "comment": 0,
+  "code": 398},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 210},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 24,
+  "code": 132},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 42},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 815,
+  "comment": 555,
+  "code": 13314,
+  "nFiles": 52} }

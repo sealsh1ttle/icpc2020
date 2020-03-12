@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.54129600524902,
+  "n_files"            : 488,
+  "n_lines"            : 470643,
+  "files_per_second"   : 74.6029532386866,
+  "lines_per_second"   : 71949.5035268753,
+  "report_file"        : "loc/lybros__drone-vision.json"},
+"C" :{
+  "nFiles": 106,
+  "blank": 20308,
+  "comment": 70435,
+  "code": 156188},
+"C++" :{
+  "nFiles": 108,
+  "blank": 11001,
+  "comment": 5709,
+  "code": 66259},
+"C/C++ Header" :{
+  "nFiles": 159,
+  "blank": 7484,
+  "comment": 18849,
+  "code": 59450},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 4094,
+  "comment": 4650,
+  "code": 26870},
+"m4" :{
+  "nFiles": 8,
+  "blank": 1039,
+  "comment": 137,
+  "code": 9374},
+"SWIG" :{
+  "nFiles": 6,
+  "blank": 313,
+  "comment": 508,
+  "code": 2721},
+"CUDA" :{
+  "nFiles": 1,
+  "blank": 181,
+  "comment": 115,
+  "code": 1500},
+"MATLAB" :{
+  "nFiles": 55,
+  "blank": 134,
+  "comment": 666,
+  "code": 1156},
+"Python" :{
+  "nFiles": 3,
+  "blank": 81,
+  "comment": 30,
+  "code": 485},
+"CMake" :{
+  "nFiles": 20,
+  "blank": 84,
+  "comment": 41,
+  "code": 477},
+"Fortran 77" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 108},
+"GLSL" :{
+  "nFiles": 6,
+  "blank": 22,
+  "comment": 0,
+  "code": 68},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 50},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 44760,
+  "comment": 101140,
+  "code": 324743,
+  "nFiles": 488} }

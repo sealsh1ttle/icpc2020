@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 105.622633934021,
+  "n_files"            : 157,
+  "n_lines"            : 4154,
+  "files_per_second"   : 1.48642382936666,
+  "lines_per_second"   : 39.3286916381471,
+  "report_file"        : "loc/gradle__kotlin-dsl-samples.json"},
+"Gradle" :{
+  "nFiles": 73,
+  "blank": 252,
+  "comment": 83,
+  "code": 1091},
+"Kotlin" :{
+  "nFiles": 33,
+  "blank": 210,
+  "comment": 135,
+  "code": 654},
+"Markdown" :{
+  "nFiles": 27,
+  "blank": 267,
+  "comment": 0,
+  "code": 535},
+"XML" :{
+  "nFiles": 10,
+  "blank": 42,
+  "comment": 61,
+  "code": 339},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Java" :{
+  "nFiles": 7,
+  "blank": 17,
+  "comment": 7,
+  "code": 59},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 39,
+  "code": 36},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 19},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 853,
+  "comment": 368,
+  "code": 2933,
+  "nFiles": 157} }

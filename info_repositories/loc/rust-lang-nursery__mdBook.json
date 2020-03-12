@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.1121680736542,
+  "n_files"            : 126,
+  "n_lines"            : 24106,
+  "files_per_second"   : 5.22557737716137,
+  "lines_per_second"   : 999.74419249089,
+  "report_file"        : "loc/rust-lang-nursery__mdBook.json"},
+"Rust" :{
+  "nFiles": 48,
+  "blank": 1291,
+  "comment": 1007,
+  "code": 6919},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6380},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2671},
+"Markdown" :{
+  "nFiles": 48,
+  "blank": 684,
+  "comment": 0,
+  "code": 2250},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 149,
+  "comment": 120,
+  "code": 948},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 165,
+  "comment": 40,
+  "code": 927},
+"Handlebars" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 15,
+  "code": 230},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 9,
+  "code": 116},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 3,
+  "code": 86},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 2,
+  "code": 21},
+"SUM": {
+  "blank": 2362,
+  "comment": 1196,
+  "code": 20548,
+  "nFiles": 126} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 136.469444036484,
+  "n_files"            : 313,
+  "n_lines"            : 5101,
+  "files_per_second"   : 2.29355371240702,
+  "lines_per_second"   : 37.3783306293554,
+  "report_file"        : "loc/gusztavvargadr__packer.json"},
+"YAML" :{
+  "nFiles": 172,
+  "blank": 190,
+  "comment": 0,
+  "code": 1640},
+"JSON" :{
+  "nFiles": 59,
+  "blank": 18,
+  "comment": 0,
+  "code": 1074},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 753},
+"Ruby" :{
+  "nFiles": 45,
+  "blank": 78,
+  "comment": 6,
+  "code": 363},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 148,
+  "comment": 0,
+  "code": 315},
+"Bourne Shell" :{
+  "nFiles": 17,
+  "blank": 65,
+  "comment": 48,
+  "code": 256},
+"PowerShell" :{
+  "nFiles": 7,
+  "blank": 37,
+  "comment": 0,
+  "code": 93},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 539,
+  "comment": 54,
+  "code": 4508,
+  "nFiles": 313} }

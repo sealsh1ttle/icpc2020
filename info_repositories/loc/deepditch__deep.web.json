@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.1498579978943,
+  "n_files"            : 230,
+  "n_lines"            : 34880,
+  "files_per_second"   : 5.8748616664809,
+  "lines_per_second"   : 890.935543160235,
+  "report_file"        : "loc/deepditch__deep.web.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 19228},
+"JavaScript" :{
+  "nFiles": 86,
+  "blank": 467,
+  "comment": 415,
+  "code": 3920},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 331,
+  "comment": 129,
+  "code": 2862},
+"PHP" :{
+  "nFiles": 98,
+  "blank": 725,
+  "comment": 2158,
+  "code": 2711},
+"Sass" :{
+  "nFiles": 28,
+  "blank": 285,
+  "comment": 37,
+  "code": 1414},
+"Blade" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 7,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 39},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 32},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1839,
+  "comment": 2746,
+  "code": 30295,
+  "nFiles": 230} }

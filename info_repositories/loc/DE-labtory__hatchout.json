@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.444699048996,
+  "n_files"            : 227,
+  "n_lines"            : 10724,
+  "files_per_second"   : 3.22238582979986,
+  "lines_per_second"   : 152.232888276536,
+  "report_file"        : "loc/DE-labtory__hatchout.json"},
+"TypeScript" :{
+  "nFiles": 128,
+  "blank": 713,
+  "comment": 26,
+  "code": 3992},
+"JavaScript" :{
+  "nFiles": 28,
+  "blank": 379,
+  "comment": 0,
+  "code": 2855},
+"Solidity" :{
+  "nFiles": 18,
+  "blank": 277,
+  "comment": 142,
+  "code": 657},
+"C++" :{
+  "nFiles": 1,
+  "blank": 139,
+  "comment": 19,
+  "code": 438},
+"JSON" :{
+  "nFiles": 33,
+  "blank": 0,
+  "comment": 0,
+  "code": 428},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 80,
+  "comment": 0,
+  "code": 193},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 48,
+  "comment": 16,
+  "code": 109},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 15,
+  "code": 107},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 50},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1675,
+  "comment": 218,
+  "code": 8831,
+  "nFiles": 227} }

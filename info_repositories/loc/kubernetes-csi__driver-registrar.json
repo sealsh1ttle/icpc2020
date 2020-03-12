@@ -1,0 +1,154 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5338.0160369873,
+  "n_files"            : 11912,
+  "n_lines"            : 4392712,
+  "files_per_second"   : 2.2315406917966,
+  "lines_per_second"   : 822.910978453931,
+  "report_file"        : "loc/kubernetes-csi__driver-registrar.json"},
+"Go" :{
+  "nFiles": 9932,
+  "blank": 283920,
+  "comment": 395419,
+  "code": 2967550},
+"HTML" :{
+  "nFiles": 76,
+  "blank": 4444,
+  "comment": 17,
+  "code": 271500},
+"JSON" :{
+  "nFiles": 157,
+  "blank": 15,
+  "comment": 0,
+  "code": 235287},
+"YAML" :{
+  "nFiles": 505,
+  "blank": 639,
+  "comment": 1213,
+  "code": 29000},
+"Bourne Shell" :{
+  "nFiles": 317,
+  "blank": 5349,
+  "comment": 10186,
+  "code": 25111},
+"Protocol Buffers" :{
+  "nFiles": 317,
+  "blank": 9138,
+  "comment": 26814,
+  "code": 21636},
+"Swift" :{
+  "nFiles": 21,
+  "blank": 2854,
+  "comment": 2459,
+  "code": 17930},
+"PO File" :{
+  "nFiles": 11,
+  "blank": 1240,
+  "comment": 1755,
+  "code": 13635},
+"Markdown" :{
+  "nFiles": 233,
+  "blank": 4236,
+  "comment": 0,
+  "code": 13493},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 1550,
+  "comment": 4281,
+  "code": 7900},
+"Assembly" :{
+  "nFiles": 51,
+  "blank": 919,
+  "comment": 978,
+  "code": 7858},
+"XML" :{
+  "nFiles": 6,
+  "blank": 228,
+  "comment": 20,
+  "code": 5802},
+"Python" :{
+  "nFiles": 15,
+  "blank": 784,
+  "comment": 788,
+  "code": 2682},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 7,
+  "comment": 7,
+  "code": 2322},
+"make" :{
+  "nFiles": 136,
+  "blank": 551,
+  "comment": 2555,
+  "code": 1904},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 5,
+  "code": 1402},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 180,
+  "comment": 180,
+  "code": 1185},
+"Dockerfile" :{
+  "nFiles": 67,
+  "blank": 232,
+  "comment": 939,
+  "code": 580},
+"Java" :{
+  "nFiles": 1,
+  "blank": 77,
+  "comment": 14,
+  "code": 384},
+"sed" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 32,
+  "code": 365},
+"C" :{
+  "nFiles": 6,
+  "blank": 106,
+  "comment": 79,
+  "code": 360},
+"Starlark" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 91,
+  "code": 102},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 11,
+  "code": 77},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 90,
+  "code": 62},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 58},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 316562,
+  "comment": 447938,
+  "code": 3628212,
+  "nFiles": 11912} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.3190128803253,
+  "n_files"            : 120,
+  "n_lines"            : 34754,
+  "files_per_second"   : 3.49660406662788,
+  "lines_per_second"   : 1012.67481442988,
+  "report_file"        : "loc/datacarpentry__python-ecology-lesson.json"},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 1035,
+  "comment": 93,
+  "code": 13995},
+"Markdown" :{
+  "nFiles": 38,
+  "blank": 1348,
+  "comment": 0,
+  "code": 5315},
+"HTML" :{
+  "nFiles": 41,
+  "blank": 96,
+  "comment": 79,
+  "code": 1253},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 4,
+  "comment": 4,
+  "code": 1072},
+"Python" :{
+  "nFiles": 7,
+  "blank": 317,
+  "comment": 218,
+  "code": 916},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 240},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 24,
+  "code": 207},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 7784,
+  "code": 167},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 50,
+  "code": 135},
+"R" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 23,
+  "code": 73},
+"make" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 28,
+  "code": 67},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 12,
+  "code": 49},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 4},
+"SUM": {
+  "blank": 2936,
+  "comment": 8318,
+  "code": 23500,
+  "nFiles": 120} }

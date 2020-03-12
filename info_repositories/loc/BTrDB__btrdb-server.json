@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.521126985549927,
+  "n_files"            : 87,
+  "n_lines"            : 22929,
+  "files_per_second"   : 166.945873870247,
+  "lines_per_second"   : 43998.8728962171,
+  "report_file"        : "loc/BTrDB__btrdb-server.json"},
+"Go" :{
+  "nFiles": 62,
+  "blank": 1701,
+  "comment": 2102,
+  "code": 18167},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 283},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 53,
+  "comment": 33,
+  "code": 215},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 112},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 2,
+  "code": 62},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 25,
+  "code": 54},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 29},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 19},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 1807,
+  "comment": 2164,
+  "code": 18958,
+  "nFiles": 87} }

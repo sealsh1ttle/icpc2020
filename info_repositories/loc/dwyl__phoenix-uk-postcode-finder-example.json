@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.362752199172974,
+  "n_files"            : 49,
+  "n_lines"            : 11258,
+  "files_per_second"   : 135.078436772302,
+  "lines_per_second"   : 31034.9600241342,
+  "report_file"        : "loc/dwyl__phoenix-uk-postcode-finder-example.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 9713},
+"Elixir" :{
+  "nFiles": 35,
+  "blank": 135,
+  "comment": 303,
+  "code": 714},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 11,
+  "code": 117},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 19,
+  "code": 57},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 63,
+  "code": 50},
+"EEx" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 173,
+  "comment": 396,
+  "code": 10689,
+  "nFiles": 49} }

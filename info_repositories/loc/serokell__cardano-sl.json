@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 433.115130901337,
+  "n_files"            : 1453,
+  "n_lines"            : 362655,
+  "files_per_second"   : 3.35476619571389,
+  "lines_per_second"   : 837.317780252319,
+  "report_file"        : "loc/serokell__cardano-sl.json"},
+"Haskell" :{
+  "nFiles": 1078,
+  "blank": 20856,
+  "comment": 19870,
+  "code": 103322},
+"Nix" :{
+  "nFiles": 31,
+  "blank": 5208,
+  "comment": 107,
+  "code": 87179},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 11,
+  "comment": 0,
+  "code": 74706},
+"YAML" :{
+  "nFiles": 32,
+  "blank": 250,
+  "comment": 425,
+  "code": 16017},
+"Markdown" :{
+  "nFiles": 95,
+  "blank": 3567,
+  "comment": 0,
+  "code": 11284},
+"PureScript" :{
+  "nFiles": 67,
+  "blank": 884,
+  "comment": 359,
+  "code": 6407},
+"TeX" :{
+  "nFiles": 3,
+  "blank": 350,
+  "comment": 230,
+  "code": 2745},
+"CSS" :{
+  "nFiles": 18,
+  "blank": 594,
+  "comment": 54,
+  "code": 2352},
+"Bourne Shell" :{
+  "nFiles": 63,
+  "blank": 475,
+  "comment": 356,
+  "code": 1864},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 79,
+  "comment": 34,
+  "code": 929},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 121,
+  "comment": 152,
+  "code": 771},
+"R" :{
+  "nFiles": 1,
+  "blank": 81,
+  "comment": 78,
+  "code": 437},
+"SVG" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 8,
+  "code": 302},
+"make" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 49},
+"Python" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 15,
+  "code": 35},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 17},
+"diff" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 21,
+  "code": 13},
+"SUM": {
+  "blank": 32516,
+  "comment": 21710,
+  "code": 308429,
+  "nFiles": 1453} }

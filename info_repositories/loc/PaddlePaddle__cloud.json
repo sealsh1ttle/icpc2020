@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.9414868354797,
+  "n_files"            : 232,
+  "n_lines"            : 35127,
+  "files_per_second"   : 3.68596313281279,
+  "lines_per_second"   : 558.08977140653,
+  "report_file"        : "loc/PaddlePaddle__cloud.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 1954,
+  "comment": 1756,
+  "code": 6781},
+"Python" :{
+  "nFiles": 67,
+  "blank": 1258,
+  "comment": 1582,
+  "code": 5775},
+"Go" :{
+  "nFiles": 72,
+  "blank": 1210,
+  "comment": 894,
+  "code": 5716},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 11,
+  "code": 2796},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 759,
+  "comment": 0,
+  "code": 2526},
+"YAML" :{
+  "nFiles": 26,
+  "blank": 9,
+  "comment": 44,
+  "code": 837},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 74,
+  "comment": 54,
+  "code": 367},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 29,
+  "comment": 0,
+  "code": 235},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 12,
+  "code": 206},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 117},
+"LESS" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 2,
+  "code": 43},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 4,
+  "comment": 1,
+  "code": 27},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 5339,
+  "comment": 4356,
+  "code": 25432,
+  "nFiles": 232} }

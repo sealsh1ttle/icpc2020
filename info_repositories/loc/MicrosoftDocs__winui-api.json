@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.943825006485,
+  "n_files"            : 2071,
+  "n_lines"            : 161473,
+  "files_per_second"   : 79.82631703237,
+  "lines_per_second"   : 6223.94731538768,
+  "report_file"        : "loc/MicrosoftDocs__winui-api.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 60429},
+"Markdown" :{
+  "nFiles": 1590,
+  "blank": 24638,
+  "comment": 0,
+  "code": 27413},
+"XAML" :{
+  "nFiles": 165,
+  "blank": 973,
+  "comment": 3265,
+  "code": 23449},
+"MSBuild script" :{
+  "nFiles": 64,
+  "blank": 18,
+  "comment": 499,
+  "code": 7322},
+"C#" :{
+  "nFiles": 162,
+  "blank": 891,
+  "comment": 1928,
+  "code": 5417},
+"Visual Basic" :{
+  "nFiles": 49,
+  "blank": 413,
+  "comment": 673,
+  "code": 1319},
+"C++" :{
+  "nFiles": 12,
+  "blank": 206,
+  "comment": 517,
+  "code": 733},
+"XML" :{
+  "nFiles": 8,
+  "blank": 65,
+  "comment": 28,
+  "code": 715},
+"C/C++ Header" :{
+  "nFiles": 12,
+  "blank": 64,
+  "comment": 86,
+  "code": 262},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 29,
+  "code": 64},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 4,
+  "code": 23},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 27296,
+  "comment": 7029,
+  "code": 127148,
+  "nFiles": 2071} }

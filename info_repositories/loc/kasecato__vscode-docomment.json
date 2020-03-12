@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.8656170368195,
+  "n_files"            : 39,
+  "n_lines"            : 4848,
+  "files_per_second"   : 3.03133537150903,
+  "lines_per_second"   : 376.818304642968,
+  "report_file"        : "loc/kasecato__vscode-docomment.json"},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 2696},
+"TypeScript" :{
+  "nFiles": 22,
+  "blank": 343,
+  "comment": 346,
+  "code": 1117},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 83,
+  "comment": 0,
+  "code": 150},
+"C#" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 70},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 23},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 441,
+  "comment": 346,
+  "code": 4061,
+  "nFiles": 39} }

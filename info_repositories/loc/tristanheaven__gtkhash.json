@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.0752680301666,
+  "n_files"            : 115,
+  "n_lines"            : 23522,
+  "files_per_second"   : 4.41030941146821,
+  "lines_per_second"   : 902.080851970046,
+  "report_file"        : "loc/tristanheaven__gtkhash.json"},
+"C" :{
+  "nFiles": 34,
+  "blank": 1367,
+  "comment": 1175,
+  "code": 6151},
+"PO File" :{
+  "nFiles": 31,
+  "blank": 2061,
+  "comment": 3034,
+  "code": 5471},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 7,
+  "code": 1438},
+"C/C++ Header" :{
+  "nFiles": 23,
+  "blank": 173,
+  "comment": 582,
+  "code": 596},
+"m4" :{
+  "nFiles": 1,
+  "blank": 69,
+  "comment": 0,
+  "code": 528},
+"make" :{
+  "nFiles": 11,
+  "blank": 133,
+  "comment": 0,
+  "code": 366},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 116},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 88},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 3,
+  "code": 58},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 57},
+"SUM": {
+  "blank": 3852,
+  "comment": 4801,
+  "code": 14869,
+  "nFiles": 115} }

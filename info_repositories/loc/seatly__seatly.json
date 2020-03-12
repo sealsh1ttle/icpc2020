@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.36699104309082,
+  "n_files"            : 28,
+  "n_lines"            : 2392,
+  "files_per_second"   : 4.39768170090083,
+  "lines_per_second"   : 375.687665305528,
+  "report_file"        : "loc/seatly__seatly.json"},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 132,
+  "comment": 360,
+  "code": 629},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 188,
+  "comment": 0,
+  "code": 492},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 36,
+  "comment": 31,
+  "code": 246},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 15,
+  "code": 169},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 47},
+"SUM": {
+  "blank": 403,
+  "comment": 406,
+  "code": 1583,
+  "nFiles": 28} }

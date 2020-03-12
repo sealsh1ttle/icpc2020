@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2489.97683095932,
+  "n_files"            : 6521,
+  "n_lines"            : 378374,
+  "files_per_second"   : 2.61889987044082,
+  "lines_per_second"   : 151.958843670936,
+  "report_file"        : "loc/Sylius__Sylius.json"},
+"PHP" :{
+  "nFiles": 2224,
+  "blank": 31704,
+  "comment": 39707,
+  "code": 106492},
+"YAML" :{
+  "nFiles": 2118,
+  "blank": 2656,
+  "comment": 3667,
+  "code": 80111},
+"Cucumber" :{
+  "nFiles": 574,
+  "blank": 1989,
+  "comment": 0,
+  "code": 17202},
+"JSON" :{
+  "nFiles": 259,
+  "blank": 46,
+  "comment": 0,
+  "code": 14565},
+"reStructuredText" :{
+  "nFiles": 394,
+  "blank": 11918,
+  "comment": 21997,
+  "code": 12434},
+"XML" :{
+  "nFiles": 326,
+  "blank": 2929,
+  "comment": 1787,
+  "code": 9258},
+"Twig" :{
+  "nFiles": 443,
+  "blank": 918,
+  "comment": 5,
+  "code": 7148},
+"Markdown" :{
+  "nFiles": 68,
+  "blank": 1497,
+  "comment": 0,
+  "code": 3954},
+"JavaScript" :{
+  "nFiles": 40,
+  "blank": 401,
+  "comment": 534,
+  "code": 1873},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 126,
+  "comment": 38,
+  "code": 564},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 52,
+  "comment": 2,
+  "code": 471},
+"Bourne Again Shell" :{
+  "nFiles": 27,
+  "blank": 153,
+  "comment": 15,
+  "code": 469},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 454},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 61,
+  "comment": 11,
+  "code": 344},
+"Python" :{
+  "nFiles": 7,
+  "blank": 65,
+  "comment": 35,
+  "code": 308},
+"Bourne Shell" :{
+  "nFiles": 18,
+  "blank": 91,
+  "comment": 28,
+  "code": 273},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 9},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 54611,
+  "comment": 67828,
+  "code": 255935,
+  "nFiles": 6521} }

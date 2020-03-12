@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 949.458033800125,
+  "n_files"            : 3559,
+  "n_lines"            : 62372,
+  "files_per_second"   : 3.74845424789909,
+  "lines_per_second"   : 65.6922136414617,
+  "report_file"        : "loc/Homebrew__homebrew-cask.json"},
+"Ruby" :{
+  "nFiles": 3485,
+  "blank": 10662,
+  "comment": 1582,
+  "code": 46036},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 821,
+  "comment": 0,
+  "code": 1584},
+"Bourne Again Shell" :{
+  "nFiles": 13,
+  "blank": 275,
+  "comment": 152,
+  "code": 789},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 30,
+  "comment": 22,
+  "code": 173},
+"Python" :{
+  "nFiles": 5,
+  "blank": 27,
+  "comment": 15,
+  "code": 110},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 52},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 13},
+"SUM": {
+  "blank": 11826,
+  "comment": 1772,
+  "code": 48774,
+  "nFiles": 3559} }

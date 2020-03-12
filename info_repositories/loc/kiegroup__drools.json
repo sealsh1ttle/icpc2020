@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2719.2731487751,
+  "n_files"            : 7004,
+  "n_lines"            : 1088997,
+  "files_per_second"   : 2.57568828756867,
+  "lines_per_second"   : 400.473560550745,
+  "report_file"        : "loc/kiegroup__drools.json"},
+"Java" :{
+  "nFiles": 6005,
+  "blank": 149448,
+  "comment": 141604,
+  "code": 696619},
+"Drools" :{
+  "nFiles": 742,
+  "blank": 8906,
+  "comment": 13642,
+  "code": 32385},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 11555},
+"XSD" :{
+  "nFiles": 13,
+  "blank": 38,
+  "comment": 42,
+  "code": 9436},
+"XML" :{
+  "nFiles": 126,
+  "blank": 489,
+  "comment": 257,
+  "code": 7165},
+"ANTLR Grammar" :{
+  "nFiles": 10,
+  "blank": 909,
+  "comment": 249,
+  "code": 6676},
+"Maven" :{
+  "nFiles": 76,
+  "blank": 611,
+  "comment": 249,
+  "code": 5861},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 989},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 22,
+  "code": 471},
+"Protocol Buffers" :{
+  "nFiles": 2,
+  "blank": 94,
+  "comment": 60,
+  "code": 371},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 26,
+  "comment": 0,
+  "code": 196},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 65,
+  "comment": 0,
+  "code": 159},
+"Python" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 30,
+  "code": 88},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 78},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 4,
+  "code": 51},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 24},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 160686,
+  "comment": 156165,
+  "code": 772146,
+  "nFiles": 7004} }

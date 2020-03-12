@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.4303879737854,
+  "n_files"            : 3,
+  "n_lines"            : 120,
+  "files_per_second"   : 6.97045499114215,
+  "lines_per_second"   : 278.818199645686,
+  "report_file"        : "loc/flathub__org.wesnoth.Wesnoth.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 86},
+"diff" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 16,
+  "code": 18},
+"SUM": {
+  "blank": 0,
+  "comment": 16,
+  "code": 104,
+  "nFiles": 3} }

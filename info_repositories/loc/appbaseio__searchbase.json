@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.240871906280518,
+  "n_files"            : 34,
+  "n_lines"            : 4045,
+  "files_per_second"   : 141.153862752279,
+  "lines_per_second"   : 16793.1580833226,
+  "report_file"        : "loc/appbaseio__searchbase.json"},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 230,
+  "comment": 119,
+  "code": 2869},
+"TypeScript" :{
+  "nFiles": 4,
+  "blank": 87,
+  "comment": 33,
+  "code": 235},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 163},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 95,
+  "comment": 0,
+  "code": 130},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 36},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 8,
+  "code": 31},
+"SUM": {
+  "blank": 421,
+  "comment": 160,
+  "code": 3464,
+  "nFiles": 34} }

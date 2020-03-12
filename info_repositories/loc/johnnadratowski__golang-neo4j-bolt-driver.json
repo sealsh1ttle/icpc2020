@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.12351202964783,
+  "n_files"            : 81,
+  "n_lines"            : 7913,
+  "files_per_second"   : 72.0953562245257,
+  "lines_per_second"   : 7043.0932568478,
+  "report_file"        : "loc/johnnadratowski__golang-neo4j-bolt-driver.json"},
+"Go" :{
+  "nFiles": 43,
+  "blank": 1244,
+  "comment": 517,
+  "code": 5719},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 66,
+  "comment": 0,
+  "code": 218},
+"JSON" :{
+  "nFiles": 32,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 39,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 9,
+  "code": 22},
+"SUM": {
+  "blank": 1331,
+  "comment": 565,
+  "code": 6017,
+  "nFiles": 81} }

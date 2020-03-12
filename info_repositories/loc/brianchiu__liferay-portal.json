@@ -1,0 +1,184 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1056.27764701843,
+  "n_files"            : 38559,
+  "n_lines"            : 9720896,
+  "files_per_second"   : 36.504606633342,
+  "lines_per_second"   : 9202.97426291211,
+  "report_file"        : "loc/brianchiu__liferay-portal.json"},
+"Java" :{
+  "nFiles": 28841,
+  "blank": 1401131,
+  "comment": 1585350,
+  "code": 4167252},
+"XML" :{
+  "nFiles": 1028,
+  "blank": 11292,
+  "comment": 2006,
+  "code": 1239920},
+"JavaScript" :{
+  "nFiles": 958,
+  "blank": 55741,
+  "comment": 53949,
+  "code": 224678},
+"Maven" :{
+  "nFiles": 1098,
+  "blank": 10560,
+  "comment": 14696,
+  "code": 198421},
+"JSP" :{
+  "nFiles": 2531,
+  "blank": 43072,
+  "comment": 37934,
+  "code": 160134},
+"JSON" :{
+  "nFiles": 343,
+  "blank": 423,
+  "comment": 0,
+  "code": 116001},
+"Sass" :{
+  "nFiles": 893,
+  "blank": 13516,
+  "comment": 2073,
+  "code": 59444},
+"CSS" :{
+  "nFiles": 161,
+  "blank": 7657,
+  "comment": 1421,
+  "code": 59399},
+"XSD" :{
+  "nFiles": 123,
+  "blank": 7085,
+  "comment": 891,
+  "code": 46507},
+"Gradle" :{
+  "nFiles": 1376,
+  "blank": 4166,
+  "comment": 173,
+  "code": 25858},
+"Markdown" :{
+  "nFiles": 153,
+  "blank": 9002,
+  "comment": 0,
+  "code": 24256},
+"Freemarker Template" :{
+  "nFiles": 284,
+  "blank": 5788,
+  "comment": 284,
+  "code": 22537},
+"HTML" :{
+  "nFiles": 200,
+  "blank": 779,
+  "comment": 548,
+  "code": 15855},
+"SVG" :{
+  "nFiles": 18,
+  "blank": 0,
+  "comment": 3,
+  "code": 14744},
+"YAML" :{
+  "nFiles": 30,
+  "blank": 0,
+  "comment": 9,
+  "code": 11638},
+"DTD" :{
+  "nFiles": 146,
+  "blank": 7081,
+  "comment": 23997,
+  "code": 7634},
+"SQL" :{
+  "nFiles": 166,
+  "blank": 627,
+  "comment": 0,
+  "code": 7119},
+"Ant" :{
+  "nFiles": 24,
+  "blank": 572,
+  "comment": 30,
+  "code": 3881},
+"diff" :{
+  "nFiles": 74,
+  "blank": 253,
+  "comment": 1586,
+  "code": 3098},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 505,
+  "comment": 186,
+  "code": 1795},
+"ANTLR Grammar" :{
+  "nFiles": 6,
+  "blank": 248,
+  "comment": 165,
+  "code": 1550},
+"Groovy" :{
+  "nFiles": 31,
+  "blank": 278,
+  "comment": 254,
+  "code": 876},
+"Korn Shell" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 177,
+  "code": 541},
+"XSLT" :{
+  "nFiles": 12,
+  "blank": 83,
+  "comment": 6,
+  "code": 450},
+"Drools" :{
+  "nFiles": 2,
+  "blank": 106,
+  "comment": 0,
+  "code": 329},
+"DOS Batch" :{
+  "nFiles": 6,
+  "blank": 105,
+  "comment": 6,
+  "code": 298},
+"Velocity Template Language" :{
+  "nFiles": 26,
+  "blank": 49,
+  "comment": 277,
+  "code": 208},
+"TypeScript" :{
+  "nFiles": 5,
+  "blank": 17,
+  "comment": 12,
+  "code": 88},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 79},
+"Python" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 16},
+"XMI" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Go" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1580226,
+  "comment": 1726033,
+  "code": 6414637,
+  "nFiles": 38559} }

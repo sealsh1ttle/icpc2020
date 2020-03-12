@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 106.687095165253,
+  "n_files"            : 5099,
+  "n_lines"            : 495987,
+  "files_per_second"   : 47.7939716336068,
+  "lines_per_second"   : 4648.98776400034,
+  "report_file"        : "loc/aspnet__AspNetCore.Docs.json"},
+"C#" :{
+  "nFiles": 2524,
+  "blank": 20988,
+  "comment": 5492,
+  "code": 117823},
+"JavaScript" :{
+  "nFiles": 289,
+  "blank": 20076,
+  "comment": 18050,
+  "code": 76468},
+"Markdown" :{
+  "nFiles": 519,
+  "blank": 34188,
+  "comment": 6,
+  "code": 63885},
+"CSS" :{
+  "nFiles": 34,
+  "blank": 4073,
+  "comment": 182,
+  "code": 60218},
+"Razor" :{
+  "nFiles": 1080,
+  "blank": 2822,
+  "comment": 278,
+  "code": 35734},
+"JSON" :{
+  "nFiles": 235,
+  "blank": 26,
+  "comment": 0,
+  "code": 13848},
+"LESS" :{
+  "nFiles": 71,
+  "blank": 1175,
+  "comment": 1542,
+  "code": 5590},
+"MSBuild script" :{
+  "nFiles": 203,
+  "blank": 653,
+  "comment": 94,
+  "code": 3270},
+"XML" :{
+  "nFiles": 54,
+  "blank": 329,
+  "comment": 1447,
+  "code": 2619},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 16,
+  "code": 1273},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 3,
+  "code": 1123},
+"HTML" :{
+  "nFiles": 26,
+  "blank": 114,
+  "comment": 4,
+  "code": 1020},
+"TypeScript" :{
+  "nFiles": 26,
+  "blank": 120,
+  "comment": 101,
+  "code": 645},
+"PowerShell" :{
+  "nFiles": 8,
+  "blank": 88,
+  "comment": 81,
+  "code": 278},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 38},
+"XAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 30},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 28},
+"Protocol Buffers" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 9,
+  "code": 28},
+"Java" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 22},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 2,
+  "code": 21},
+"PO File" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"ASP.NET" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 84703,
+  "comment": 27312,
+  "code": 383972,
+  "nFiles": 5099} }

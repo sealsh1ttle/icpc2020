@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.8844859600067,
+  "n_files"            : 1360,
+  "n_lines"            : 451702,
+  "files_per_second"   : 52.5411245215104,
+  "lines_per_second"   : 17450.6845798642,
+  "report_file"        : "loc/open-learning-exchange__BeLL-Apps.json"},
+"JavaScript" :{
+  "nFiles": 946,
+  "blank": 45487,
+  "comment": 39816,
+  "code": 269373},
+"CSS" :{
+  "nFiles": 52,
+  "blank": 4196,
+  "comment": 713,
+  "code": 43963},
+"JSON" :{
+  "nFiles": 146,
+  "blank": 1,
+  "comment": 0,
+  "code": 17020},
+"Markdown" :{
+  "nFiles": 103,
+  "blank": 4722,
+  "comment": 0,
+  "code": 14639},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 818,
+  "comment": 252,
+  "code": 6288},
+"Python" :{
+  "nFiles": 14,
+  "blank": 297,
+  "comment": 351,
+  "code": 1033},
+"diff" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 13,
+  "code": 588},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 87,
+  "comment": 170,
+  "code": 582},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 379},
+"YAML" :{
+  "nFiles": 23,
+  "blank": 26,
+  "comment": 22,
+  "code": 250},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 27,
+  "comment": 19,
+  "code": 135},
+"make" :{
+  "nFiles": 14,
+  "blank": 35,
+  "comment": 3,
+  "code": 113},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 78},
+"XML" :{
+  "nFiles": 7,
+  "blank": 5,
+  "comment": 0,
+  "code": 56},
+"DOS Batch" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 2,
+  "code": 41},
+"C" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 23},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 55727,
+  "comment": 41365,
+  "code": 354610,
+  "nFiles": 1360} }

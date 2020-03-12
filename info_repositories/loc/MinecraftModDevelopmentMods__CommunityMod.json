@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 151.893131971359,
+  "n_files"            : 496,
+  "n_lines"            : 27192,
+  "files_per_second"   : 3.26545376714943,
+  "lines_per_second"   : 179.020602492595,
+  "report_file"        : "loc/MinecraftModDevelopmentMods__CommunityMod.json"},
+"Java" :{
+  "nFiles": 301,
+  "blank": 3520,
+  "comment": 1354,
+  "code": 17715},
+"JSON" :{
+  "nFiles": 190,
+  "blank": 7,
+  "comment": 0,
+  "code": 4085},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 1,
+  "code": 106},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"GLSL" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 1,
+  "code": 58},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 3643,
+  "comment": 1380,
+  "code": 22169,
+  "nFiles": 496} }

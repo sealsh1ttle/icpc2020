@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1319.60874199867,
+  "n_files"            : 4859,
+  "n_lines"            : 2240860,
+  "files_per_second"   : 3.68215202381926,
+  "lines_per_second"   : 1698.12454910385,
+  "report_file"        : "loc/CloudFoundryOnAzure__open-service-broker-azure.json"},
+"Go" :{
+  "nFiles": 4419,
+  "blank": 222916,
+  "comment": 328905,
+  "code": 1622717},
+"YAML" :{
+  "nFiles": 194,
+  "blank": 130,
+  "comment": 125,
+  "code": 29071},
+"Markdown" :{
+  "nFiles": 101,
+  "blank": 3881,
+  "comment": 0,
+  "code": 10357},
+"Assembly" :{
+  "nFiles": 49,
+  "blank": 872,
+  "comment": 950,
+  "code": 7436},
+"XML" :{
+  "nFiles": 1,
+  "blank": 228,
+  "comment": 13,
+  "code": 4780},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 441,
+  "comment": 16,
+  "code": 2214},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 180,
+  "comment": 179,
+  "code": 1173},
+"Bourne Shell" :{
+  "nFiles": 37,
+  "blank": 205,
+  "comment": 407,
+  "code": 1096},
+"C" :{
+  "nFiles": 6,
+  "blank": 90,
+  "comment": 33,
+  "code": 434},
+"make" :{
+  "nFiles": 8,
+  "blank": 81,
+  "comment": 74,
+  "code": 424},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 342},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 7,
+  "code": 233},
+"Python" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 126,
+  "code": 166},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 45,
+  "comment": 82,
+  "code": 106},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 17,
+  "code": 80},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 13,
+  "code": 56},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 229216,
+  "comment": 330947,
+  "code": 1680697,
+  "nFiles": 4859} }

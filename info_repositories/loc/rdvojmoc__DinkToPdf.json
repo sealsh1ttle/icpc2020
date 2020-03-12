@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.0252690315247,
+  "n_files"            : 54,
+  "n_lines"            : 30194,
+  "files_per_second"   : 3.59394563163575,
+  "lines_per_second"   : 2009.54804447426,
+  "report_file"        : "loc/rdvojmoc__DinkToPdf.json"},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 18,
+  "comment": 0,
+  "code": 27339},
+"C#" :{
+  "nFiles": 38,
+  "blank": 378,
+  "comment": 658,
+  "code": 1628},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 77},
+"XML" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 0,
+  "code": 76},
+"SUM": {
+  "blank": 416,
+  "comment": 658,
+  "code": 29120,
+  "nFiles": 54} }

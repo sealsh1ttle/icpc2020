@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.2794120311737,
+  "n_files"            : 35,
+  "n_lines"            : 1390,
+  "files_per_second"   : 3.10299862291297,
+  "lines_per_second"   : 123.233373881401,
+  "report_file"        : "loc/hanford__next-offline.json"},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 75,
+  "comment": 36,
+  "code": 464},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 140,
+  "comment": 0,
+  "code": 445},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 2,
+  "comment": 0,
+  "code": 228},
+"SUM": {
+  "blank": 217,
+  "comment": 36,
+  "code": 1137,
+  "nFiles": 35} }

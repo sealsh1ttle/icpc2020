@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 376.945533037186,
+  "n_files"            : 1304,
+  "n_lines"            : 273546,
+  "files_per_second"   : 3.45938573536925,
+  "lines_per_second"   : 725.691050895182,
+  "report_file"        : "loc/facebook__react-native-website.json"},
+"Markdown" :{
+  "nFiles": 1204,
+  "blank": 87031,
+  "comment": 0,
+  "code": 173847},
+"JSON" :{
+  "nFiles": 41,
+  "blank": 0,
+  "comment": 0,
+  "code": 8263},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 173,
+  "comment": 168,
+  "code": 1700},
+"CSS" :{
+  "nFiles": 30,
+  "blank": 304,
+  "comment": 38,
+  "code": 1576},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 3,
+  "code": 184},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 125},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 29,
+  "code": 91},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 87518,
+  "comment": 238,
+  "code": 185790,
+  "nFiles": 1304} }

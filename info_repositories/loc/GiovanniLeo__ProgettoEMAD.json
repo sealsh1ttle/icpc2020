@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.38587212562561,
+  "n_files"            : 97,
+  "n_lines"            : 68984,
+  "files_per_second"   : 69.9920275517572,
+  "lines_per_second"   : 49776.5982333033,
+  "report_file"        : "loc/GiovanniLeo__ProgettoEMAD.json"},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 36,
+  "comment": 0,
+  "code": 65619},
+"TypeScript" :{
+  "nFiles": 56,
+  "blank": 418,
+  "comment": 153,
+  "code": 2020},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 48,
+  "comment": 4,
+  "code": 304},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 155},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 3,
+  "code": 75},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 4,
+  "code": 52},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 2,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 536,
+  "comment": 166,
+  "code": 68282,
+  "nFiles": 97} }

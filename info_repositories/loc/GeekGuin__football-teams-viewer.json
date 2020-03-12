@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.458904027938843,
+  "n_files"            : 31,
+  "n_lines"            : 4285,
+  "files_per_second"   : 67.552250825158,
+  "lines_per_second"   : 9337.46434792909,
+  "report_file"        : "loc/GeekGuin__football-teams-viewer.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 768,
+  "comment": 0,
+  "code": 1718},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 107,
+  "comment": 408,
+  "code": 995},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 0,
+  "code": 128},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 109},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 12,
+  "code": 19},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 889,
+  "comment": 420,
+  "code": 2976,
+  "nFiles": 31} }

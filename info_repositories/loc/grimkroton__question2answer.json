@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.15953207015991,
+  "n_files"            : 605,
+  "n_lines"            : 86229,
+  "files_per_second"   : 145.449052873089,
+  "lines_per_second"   : 20730.4568267663,
+  "report_file"        : "loc/grimkroton__question2answer.json"},
+"PHP" :{
+  "nFiles": 431,
+  "blank": 13488,
+  "comment": 15152,
+  "code": 41875},
+"CSS" :{
+  "nFiles": 16,
+  "blank": 1028,
+  "comment": 218,
+  "code": 6708},
+"JavaScript" :{
+  "nFiles": 129,
+  "blank": 467,
+  "comment": 697,
+  "code": 3241},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 590,
+  "comment": 0,
+  "code": 2456},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 151},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"XML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 5,
+  "code": 24},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 15589,
+  "comment": 16072,
+  "code": 54568,
+  "nFiles": 605} }

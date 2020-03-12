@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.2727439403534,
+  "n_files"            : 357,
+  "n_lines"            : 26573,
+  "files_per_second"   : 9.84210074062905,
+  "lines_per_second"   : 732.58863580038,
+  "report_file"        : "loc/chai2010__advanced-go-programming-book.json"},
+"Markdown" :{
+  "nFiles": 74,
+  "blank": 4433,
+  "comment": 0,
+  "code": 11768},
+"Go" :{
+  "nFiles": 164,
+  "blank": 1252,
+  "comment": 710,
+  "code": 4708},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 728},
+"Assembly" :{
+  "nFiles": 25,
+  "blank": 122,
+  "comment": 192,
+  "code": 422},
+"C/C++ Header" :{
+  "nFiles": 16,
+  "blank": 227,
+  "comment": 114,
+  "code": 416},
+"C" :{
+  "nFiles": 23,
+  "blank": 104,
+  "comment": 47,
+  "code": 347},
+"make" :{
+  "nFiles": 31,
+  "blank": 94,
+  "comment": 68,
+  "code": 270},
+"C++" :{
+  "nFiles": 7,
+  "blank": 74,
+  "comment": 43,
+  "code": 209},
+"Protocol Buffers" :{
+  "nFiles": 11,
+  "blank": 49,
+  "comment": 4,
+  "code": 144},
+"Python" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 6},
+"SWIG" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 4},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 6366,
+  "comment": 1182,
+  "code": 19025,
+  "nFiles": 357} }

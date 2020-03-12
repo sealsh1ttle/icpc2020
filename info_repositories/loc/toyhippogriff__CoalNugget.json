@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.374491930007935,
+  "n_files"            : 20,
+  "n_lines"            : 604,
+  "files_per_second"   : 53.4056902096028,
+  "lines_per_second"   : 1612.85184433,
+  "report_file"        : "loc/toyhippogriff__CoalNugget.json"},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 274},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 38},
+"Java" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 56,
+  "comment": 24,
+  "code": 524,
+  "nFiles": 20} }

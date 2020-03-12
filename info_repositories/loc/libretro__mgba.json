@@ -1,0 +1,169 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 277.726792097092,
+  "n_files"            : 1127,
+  "n_lines"            : 600489,
+  "files_per_second"   : 4.05794482948555,
+  "lines_per_second"   : 2162.15726061486,
+  "report_file"        : "loc/libretro__mgba.json"},
+"C" :{
+  "nFiles": 352,
+  "blank": 38427,
+  "comment": 85329,
+  "code": 264837},
+"C/C++ Header" :{
+  "nFiles": 375,
+  "blank": 9074,
+  "comment": 21807,
+  "code": 34895},
+"Qt Linguist" :{
+  "nFiles": 7,
+  "blank": 14,
+  "comment": 0,
+  "code": 34703},
+"Bourne Shell" :{
+  "nFiles": 56,
+  "blank": 3971,
+  "comment": 4955,
+  "code": 25482},
+"C++" :{
+  "nFiles": 89,
+  "blank": 2224,
+  "comment": 796,
+  "code": 16465},
+"m4" :{
+  "nFiles": 8,
+  "blank": 1040,
+  "comment": 122,
+  "code": 9668},
+"Qt" :{
+  "nFiles": 25,
+  "blank": 0,
+  "comment": 0,
+  "code": 7804},
+"XML" :{
+  "nFiles": 28,
+  "blank": 13,
+  "comment": 55,
+  "code": 6774},
+"MSBuild script" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 5752},
+"CMake" :{
+  "nFiles": 18,
+  "blank": 467,
+  "comment": 171,
+  "code": 3171},
+"Assembly" :{
+  "nFiles": 11,
+  "blank": 1071,
+  "comment": 1537,
+  "code": 3161},
+"Python" :{
+  "nFiles": 29,
+  "blank": 488,
+  "comment": 187,
+  "code": 2062},
+"Ada" :{
+  "nFiles": 10,
+  "blank": 599,
+  "comment": 560,
+  "code": 1681},
+"Pascal" :{
+  "nFiles": 5,
+  "blank": 219,
+  "comment": 476,
+  "code": 1199},
+"C#" :{
+  "nFiles": 9,
+  "blank": 230,
+  "comment": 506,
+  "code": 879},
+"make" :{
+  "nFiles": 20,
+  "blank": 277,
+  "comment": 244,
+  "code": 844},
+"F#" :{
+  "nFiles": 14,
+  "blank": 180,
+  "comment": 5,
+  "code": 842},
+"awk" :{
+  "nFiles": 3,
+  "blank": 93,
+  "comment": 396,
+  "code": 785},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 296,
+  "comment": 0,
+  "code": 700},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 539},
+"Windows Module Definition" :{
+  "nFiles": 5,
+  "blank": 17,
+  "comment": 21,
+  "code": 502},
+"Windows Resource File" :{
+  "nFiles": 7,
+  "blank": 56,
+  "comment": 46,
+  "code": 297},
+"Objective C" :{
+  "nFiles": 2,
+  "blank": 63,
+  "comment": 26,
+  "code": 293},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 269},
+"INI" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 0,
+  "code": 243},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 3,
+  "comment": 0,
+  "code": 170},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 14,
+  "code": 105},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 20,
+  "code": 67},
+"SAS" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 22,
+  "code": 32},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 26},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 7},
+"SUM": {
+  "blank": 58923,
+  "comment": 117312,
+  "code": 424254,
+  "nFiles": 1127} }

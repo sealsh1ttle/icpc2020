@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.547700881958008,
+  "n_files"            : 43,
+  "n_lines"            : 5989,
+  "files_per_second"   : 78.5100068604542,
+  "lines_per_second"   : 10934.8007229595,
+  "report_file"        : "loc/radar-pi__relatorios.json"},
+"TeX" :{
+  "nFiles": 40,
+  "blank": 1512,
+  "comment": 264,
+  "code": 4119},
+"make" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 5,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1529,
+  "comment": 269,
+  "code": 4191,
+  "nFiles": 43} }

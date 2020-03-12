@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 199.811563014984,
+  "n_files"            : 354,
+  "n_lines"            : 60571,
+  "files_per_second"   : 1.7716692400502,
+  "lines_per_second"   : 303.140614517177,
+  "report_file"        : "loc/gemc__detectors.json"},
+"Perl" :{
+  "nFiles": 251,
+  "blank": 6508,
+  "comment": 5006,
+  "code": 28746},
+"Python" :{
+  "nFiles": 55,
+  "blank": 2227,
+  "comment": 2303,
+  "code": 10030},
+"C++" :{
+  "nFiles": 24,
+  "blank": 1060,
+  "comment": 545,
+  "code": 2967},
+"Groovy" :{
+  "nFiles": 8,
+  "blank": 69,
+  "comment": 37,
+  "code": 245},
+"C/C++ Header" :{
+  "nFiles": 10,
+  "blank": 70,
+  "comment": 77,
+  "code": 230},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 50,
+  "comment": 1,
+  "code": 200},
+"Fortran 77" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 57,
+  "code": 72},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 5,
+  "code": 27},
+"C Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 10008,
+  "comment": 8031,
+  "code": 42532,
+  "nFiles": 354} }

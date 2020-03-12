@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.9897990226746,
+  "n_files"            : 53,
+  "n_lines"            : 4248,
+  "files_per_second"   : 4.82265416234168,
+  "lines_per_second"   : 386.540280785424,
+  "report_file"        : "loc/danielberkompas__elasticsearch-elixir.json"},
+"Elixir" :{
+  "nFiles": 37,
+  "blank": 545,
+  "comment": 639,
+  "code": 1923},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 254,
+  "comment": 0,
+  "code": 717},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 32,
+  "code": 53},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 816,
+  "comment": 671,
+  "code": 2761,
+  "nFiles": 53} }

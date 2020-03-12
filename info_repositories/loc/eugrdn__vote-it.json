@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.4255080223083,
+  "n_files"            : 115,
+  "n_lines"            : 3308,
+  "files_per_second"   : 2.42485541632797,
+  "lines_per_second"   : 69.7514931931559,
+  "report_file"        : "loc/eugrdn__vote-it.json"},
+"TypeScript" :{
+  "nFiles": 85,
+  "blank": 356,
+  "comment": 50,
+  "code": 2087},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 32,
+  "comment": 0,
+  "code": 331},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 44,
+  "comment": 4,
+  "code": 289},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 2,
+  "code": 62},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 24},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 455,
+  "comment": 56,
+  "code": 2797,
+  "nFiles": 115} }

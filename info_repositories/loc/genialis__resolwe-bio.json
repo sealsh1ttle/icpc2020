@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.83285307884216,
+  "n_files"            : 396,
+  "n_lines"            : 54453,
+  "files_per_second"   : 103.317291806975,
+  "lines_per_second"   : 14206.9103302152,
+  "report_file"        : "loc/genialis__resolwe-bio.json"},
+"YAML" :{
+  "nFiles": 127,
+  "blank": 1295,
+  "comment": 544,
+  "code": 24653},
+"Python" :{
+  "nFiles": 159,
+  "blank": 2975,
+  "comment": 1348,
+  "code": 13612},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 1130,
+  "comment": 63,
+  "code": 2056},
+"reStructuredText" :{
+  "nFiles": 12,
+  "blank": 438,
+  "comment": 122,
+  "code": 1967},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 1557},
+"Bourne Shell" :{
+  "nFiles": 47,
+  "blank": 252,
+  "comment": 165,
+  "code": 975},
+"R" :{
+  "nFiles": 8,
+  "blank": 52,
+  "comment": 64,
+  "code": 239},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 64,
+  "comment": 30,
+  "code": 213},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 32,
+  "comment": 0,
+  "code": 202},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 14,
+  "code": 123},
+"INI" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 94},
+"Dockerfile" :{
+  "nFiles": 7,
+  "blank": 18,
+  "comment": 14,
+  "code": 76},
+"SQL" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"RobotFramework" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 6280,
+  "comment": 2364,
+  "code": 45809,
+  "nFiles": 396} }

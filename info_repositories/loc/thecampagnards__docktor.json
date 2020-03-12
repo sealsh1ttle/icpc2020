@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.3150842189789,
+  "n_files"            : 150,
+  "n_lines"            : 33273,
+  "files_per_second"   : 9.19394579805535,
+  "lines_per_second"   : 2039.40105692464,
+  "report_file"        : "loc/thecampagnards__docktor.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 17939},
+"TypeScript" :{
+  "nFiles": 71,
+  "blank": 740,
+  "comment": 43,
+  "code": 7923},
+"Go" :{
+  "nFiles": 55,
+  "blank": 960,
+  "comment": 429,
+  "code": 4583},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 2,
+  "code": 267},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 19,
+  "comment": 2,
+  "code": 137},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 109},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 21},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"SUM": {
+  "blank": 1781,
+  "comment": 496,
+  "code": 30996,
+  "nFiles": 150} }

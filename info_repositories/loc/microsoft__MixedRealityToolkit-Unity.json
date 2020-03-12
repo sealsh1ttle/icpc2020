@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 886.551138162613,
+  "n_files"            : 1516,
+  "n_lines"            : 278444,
+  "files_per_second"   : 1.70999724070281,
+  "lines_per_second"   : 314.075509030509,
+  "report_file"        : "loc/microsoft__MixedRealityToolkit-Unity.json"},
+"Unity-Prefab" :{
+  "nFiles": 370,
+  "blank": 26,
+  "comment": 0,
+  "code": 126302},
+"C#" :{
+  "nFiles": 959,
+  "blank": 20414,
+  "comment": 23590,
+  "code": 92791},
+"Markdown" :{
+  "nFiles": 124,
+  "blank": 3349,
+  "comment": 0,
+  "code": 6860},
+"HLSL" :{
+  "nFiles": 9,
+  "blank": 524,
+  "comment": 158,
+  "code": 2454},
+"YAML" :{
+  "nFiles": 27,
+  "blank": 106,
+  "comment": 46,
+  "code": 787},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 255},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 101,
+  "code": 254},
+"XML" :{
+  "nFiles": 7,
+  "blank": 25,
+  "comment": 35,
+  "code": 173},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 9,
+  "code": 68},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 37},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 24519,
+  "comment": 23939,
+  "code": 229986,
+  "nFiles": 1516} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.184287071228027,
+  "n_files"            : 22,
+  "n_lines"            : 3194,
+  "files_per_second"   : 119.378965943728,
+  "lines_per_second"   : 17331.6553283757,
+  "report_file"        : "loc/Automattic__msm-sitemap.json"},
+"PHP" :{
+  "nFiles": 15,
+  "blank": 479,
+  "comment": 729,
+  "code": 1526},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 11,
+  "code": 104},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 6,
+  "code": 85},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 56},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 54},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 14,
+  "code": 28},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 560,
+  "comment": 760,
+  "code": 1874,
+  "nFiles": 22} }

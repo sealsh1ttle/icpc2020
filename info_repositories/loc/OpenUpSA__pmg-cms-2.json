@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 171.02224612236,
+  "n_files"            : 618,
+  "n_lines"            : 145860,
+  "files_per_second"   : 3.61356498357438,
+  "lines_per_second"   : 852.871502433914,
+  "report_file"        : "loc/OpenUpSA__pmg-cms-2.json"},
+"JavaScript" :{
+  "nFiles": 118,
+  "blank": 5156,
+  "comment": 3625,
+  "code": 74108},
+"HTML" :{
+  "nFiles": 159,
+  "blank": 2042,
+  "comment": 76,
+  "code": 12259},
+"Python" :{
+  "nFiles": 182,
+  "blank": 3336,
+  "comment": 2754,
+  "code": 12210},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 172,
+  "comment": 77,
+  "code": 9328},
+"Sass" :{
+  "nFiles": 90,
+  "blank": 1538,
+  "comment": 1612,
+  "code": 9117},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 12,
+  "comment": 12,
+  "code": 4797},
+"LESS" :{
+  "nFiles": 15,
+  "blank": 35,
+  "comment": 50,
+  "code": 1907},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 292,
+  "comment": 0,
+  "code": 580},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 298},
+"INI" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 0,
+  "code": 215},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 5,
+  "comment": 0,
+  "code": 146},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 26},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 15},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 12646,
+  "comment": 8206,
+  "code": 125008,
+  "nFiles": 618} }

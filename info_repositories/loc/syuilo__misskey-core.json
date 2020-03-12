@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.803056955337524,
+  "n_files"            : 154,
+  "n_lines"            : 9104,
+  "files_per_second"   : 191.767220215749,
+  "lines_per_second"   : 11336.680343144,
+  "report_file"        : "loc/syuilo__misskey-core.json"},
+"JavaScript" :{
+  "nFiles": 71,
+  "blank": 728,
+  "comment": 1111,
+  "code": 3644},
+"TypeScript" :{
+  "nFiles": 62,
+  "blank": 420,
+  "comment": 365,
+  "code": 1739},
+"Pug" :{
+  "nFiles": 5,
+  "blank": 24,
+  "comment": 0,
+  "code": 369},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 0,
+  "code": 305},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 172},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 0,
+  "code": 75},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 33},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 27},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1221,
+  "comment": 1477,
+  "code": 6406,
+  "nFiles": 154} }

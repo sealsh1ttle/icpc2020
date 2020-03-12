@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.43297100067139,
+  "n_files"            : 4,
+  "n_lines"            : 515,
+  "files_per_second"   : 2.7914033139023,
+  "lines_per_second"   : 359.393176664921,
+  "report_file"        : "loc/llangit__lambda-mongocluster-s3.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 410},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 3,
+  "code": 51},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 19,
+  "comment": 3,
+  "code": 493,
+  "nFiles": 4} }

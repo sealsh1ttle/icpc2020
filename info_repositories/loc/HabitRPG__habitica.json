@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1194.01123404503,
+  "n_files"            : 3233,
+  "n_lines"            : 629288,
+  "files_per_second"   : 2.70767971675388,
+  "lines_per_second"   : 527.036917289396,
+  "report_file"        : "loc/HabitRPG__habitica.json"},
+"JSON" :{
+  "nFiles": 1738,
+  "blank": 921,
+  "comment": 0,
+  "code": 402567},
+"JavaScript" :{
+  "nFiles": 1004,
+  "blank": 17459,
+  "comment": 8464,
+  "code": 98049},
+"CSS" :{
+  "nFiles": 29,
+  "blank": 27,
+  "comment": 12,
+  "code": 55868},
+"Vuejs Component" :{
+  "nFiles": 234,
+  "blank": 4108,
+  "comment": 816,
+  "code": 35602},
+"SVG" :{
+  "nFiles": 153,
+  "blank": 0,
+  "comment": 3,
+  "code": 2194},
+"Sass" :{
+  "nFiles": 33,
+  "blank": 340,
+  "comment": 28,
+  "code": 1841},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 81,
+  "comment": 11,
+  "code": 214},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 6,
+  "comment": 11,
+  "code": 201},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 25,
+  "code": 156},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 31,
+  "comment": 13,
+  "code": 92},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 36},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 21},
+"Pug" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 19},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"Python" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 23015,
+  "comment": 9389,
+  "code": 596884,
+  "nFiles": 3233} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.12440800666809,
+  "n_files"            : 38,
+  "n_lines"            : 2841,
+  "files_per_second"   : 4.67726386572555,
+  "lines_per_second"   : 349.687016908586,
+  "report_file"        : "loc/jerairrest__react-chartjs-2.json"},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 285,
+  "comment": 27,
+  "code": 2014},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 69,
+  "comment": 0,
+  "code": 164},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 130},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 4,
+  "code": 45},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 6,
+  "code": 42},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 377,
+  "comment": 39,
+  "code": 2425,
+  "nFiles": 38} }

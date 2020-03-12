@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.1332139968872,
+  "n_files"            : 151,
+  "n_lines"            : 14091,
+  "files_per_second"   : 4.6991875762763,
+  "lines_per_second"   : 438.518226074896,
+  "report_file"        : "loc/kubernetes-sigs__cluster-api-provider-vsphere.json"},
+"Go" :{
+  "nFiles": 48,
+  "blank": 1001,
+  "comment": 1276,
+  "code": 5039},
+"YAML" :{
+  "nFiles": 51,
+  "blank": 54,
+  "comment": 175,
+  "code": 2698},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 252,
+  "comment": 0,
+  "code": 875},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 225,
+  "comment": 406,
+  "code": 849},
+"make" :{
+  "nFiles": 8,
+  "blank": 89,
+  "comment": 160,
+  "code": 247},
+"Python" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 76,
+  "code": 181},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 30,
+  "comment": 142,
+  "code": 83},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 161,
+  "code": 3},
+"SUM": {
+  "blank": 1720,
+  "comment": 2396,
+  "code": 9975,
+  "nFiles": 151} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 51.5758090019226,
+  "n_files"            : 280,
+  "n_lines"            : 47720,
+  "files_per_second"   : 5.42890175488207,
+  "lines_per_second"   : 925.239970510615,
+  "report_file"        : "loc/quarkusio__quarkusio.github.io.json"},
+"AsciiDoc" :{
+  "nFiles": 157,
+  "blank": 11011,
+  "comment": 592,
+  "code": 30112},
+"Sass" :{
+  "nFiles": 43,
+  "blank": 198,
+  "comment": 29,
+  "code": 1756},
+"HTML" :{
+  "nFiles": 44,
+  "blank": 100,
+  "comment": 2,
+  "code": 1425},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 39,
+  "comment": 57,
+  "code": 1216},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 0,
+  "code": 332},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 18,
+  "comment": 17,
+  "code": 203},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 80,
+  "comment": 0,
+  "code": 192},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 36,
+  "code": 126},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 50},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 1,
+  "code": 32},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 27},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 11513,
+  "comment": 734,
+  "code": 35473,
+  "nFiles": 280} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.33565592765808,
+  "n_files"            : 13,
+  "n_lines"            : 740,
+  "files_per_second"   : 9.73304556271015,
+  "lines_per_second"   : 554.034901261963,
+  "report_file"        : "loc/t-jayw__pleasetakecareofmyplant.json"},
+"Python" :{
+  "nFiles": 12,
+  "blank": 196,
+  "comment": 106,
+  "code": 435},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 197,
+  "comment": 106,
+  "code": 437,
+  "nFiles": 13} }

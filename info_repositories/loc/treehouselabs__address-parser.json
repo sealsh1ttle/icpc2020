@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.129085063934326,
+  "n_files"            : 8,
+  "n_lines"            : 507,
+  "files_per_second"   : 61.9746371591845,
+  "lines_per_second"   : 3927.64262996332,
+  "report_file"        : "loc/treehouselabs__address-parser.json"},
+"PHP" :{
+  "nFiles": 3,
+  "blank": 48,
+  "comment": 95,
+  "code": 197},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 1,
+  "code": 73},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 24},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 68,
+  "comment": 96,
+  "code": 343,
+  "nFiles": 8} }

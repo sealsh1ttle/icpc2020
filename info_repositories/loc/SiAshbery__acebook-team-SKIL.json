@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.927402973175,
+  "n_files"            : 128,
+  "n_lines"            : 3947,
+  "files_per_second"   : 4.58331195789838,
+  "lines_per_second"   : 141.330721076757,
+  "report_file"        : "loc/SiAshbery__acebook-team-SKIL.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 159,
+  "comment": 83,
+  "code": 1094},
+"Ruby" :{
+  "nFiles": 84,
+  "blank": 281,
+  "comment": 400,
+  "code": 938},
+"ERB" :{
+  "nFiles": 21,
+  "blank": 40,
+  "comment": 0,
+  "code": 254},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 107,
+  "code": 99},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 6,
+  "code": 96},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 28,
+  "code": 68},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 23},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 560,
+  "comment": 627,
+  "code": 2760,
+  "nFiles": 128} }

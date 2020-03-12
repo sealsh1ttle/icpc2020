@@ -1,0 +1,139 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 75.1356189250946,
+  "n_files"            : 5734,
+  "n_lines"            : 559771,
+  "files_per_second"   : 76.3153359489383,
+  "lines_per_second"   : 7450.14159739678,
+  "report_file"        : "loc/spring-projects__spring-boot.json"},
+"Java" :{
+  "nFiles": 4838,
+  "blank": 71927,
+  "comment": 129455,
+  "code": 271248},
+"Maven" :{
+  "nFiles": 245,
+  "blank": 22,
+  "comment": 318,
+  "code": 24140},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 3382,
+  "comment": 2897,
+  "code": 15153},
+"AsciiDoc" :{
+  "nFiles": 58,
+  "blank": 6078,
+  "comment": 90,
+  "code": 14350},
+"JSON" :{
+  "nFiles": 33,
+  "blank": 5,
+  "comment": 0,
+  "code": 6459},
+"XML" :{
+  "nFiles": 91,
+  "blank": 116,
+  "comment": 31,
+  "code": 1881},
+"Gradle" :{
+  "nFiles": 118,
+  "blank": 247,
+  "comment": 110,
+  "code": 1508},
+"YAML" :{
+  "nFiles": 55,
+  "blank": 35,
+  "comment": 11,
+  "code": 1333},
+"Groovy" :{
+  "nFiles": 97,
+  "blank": 334,
+  "comment": 282,
+  "code": 1281},
+"HTML" :{
+  "nFiles": 42,
+  "blank": 70,
+  "comment": 58,
+  "code": 962},
+"Bourne Shell" :{
+  "nFiles": 48,
+  "blank": 174,
+  "comment": 96,
+  "code": 958},
+"Velocity Template Language" :{
+  "nFiles": 16,
+  "blank": 137,
+  "comment": 0,
+  "code": 951},
+"Kotlin" :{
+  "nFiles": 10,
+  "blank": 125,
+  "comment": 279,
+  "code": 627},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 25,
+  "comment": 48,
+  "code": 576},
+"SQL" :{
+  "nFiles": 36,
+  "blank": 108,
+  "comment": 85,
+  "code": 409},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 51,
+  "code": 323},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 74,
+  "comment": 4,
+  "code": 260},
+"Ant" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 1,
+  "code": 138},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 112},
+"XSLT" :{
+  "nFiles": 5,
+  "blank": 4,
+  "comment": 0,
+  "code": 107},
+"Dockerfile" :{
+  "nFiles": 7,
+  "blank": 12,
+  "comment": 1,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 44},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"Mustache" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 0,
+  "code": 32},
+"JSP" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 82982,
+  "comment": 133817,
+  "code": 342972,
+  "nFiles": 5734} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.623592138290405,
+  "n_files"            : 14,
+  "n_lines"            : 27673,
+  "files_per_second"   : 22.4505716803637,
+  "lines_per_second"   : 44376.7621507646,
+  "report_file"        : "loc/Taskim__labwhat.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 15242},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 41,
+  "comment": 34,
+  "code": 12199},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 101},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 54,
+  "comment": 54,
+  "code": 27565,
+  "nFiles": 14} }

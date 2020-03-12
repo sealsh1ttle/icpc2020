@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.197618007659912,
+  "n_files"            : 1,
+  "n_lines"            : 7,
+  "files_per_second"   : 5.06026759322934,
+  "lines_per_second"   : 35.4218731526054,
+  "report_file"        : "loc/ganiszulfa__codesaya-git.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 3,
+  "comment": 0,
+  "code": 4,
+  "nFiles": 1} }

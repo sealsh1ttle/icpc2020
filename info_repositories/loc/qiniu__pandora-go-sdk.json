@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.1557459831238,
+  "n_files"            : 61,
+  "n_lines"            : 20145,
+  "files_per_second"   : 2.24630176014716,
+  "lines_per_second"   : 741.831950133844,
+  "report_file"        : "loc/qiniu__pandora-go-sdk.json"},
+"Go" :{
+  "nFiles": 59,
+  "blank": 1940,
+  "comment": 423,
+  "code": 17544},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 0,
+  "code": 181},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 1986,
+  "comment": 423,
+  "code": 17736,
+  "nFiles": 61} }

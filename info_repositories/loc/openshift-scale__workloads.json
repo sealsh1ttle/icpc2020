@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.368298053741455,
+  "n_files"            : 66,
+  "n_lines"            : 8894,
+  "files_per_second"   : 179.202684699311,
+  "lines_per_second"   : 24148.9193593284,
+  "report_file"        : "loc/openshift-scale__workloads.json"},
+"YAML" :{
+  "nFiles": 47,
+  "blank": 624,
+  "comment": 393,
+  "code": 5524},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 600,
+  "comment": 0,
+  "code": 1753},
+"SUM": {
+  "blank": 1224,
+  "comment": 393,
+  "code": 7277,
+  "nFiles": 66} }

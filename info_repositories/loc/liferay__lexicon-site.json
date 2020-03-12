@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.5718050003052,
+  "n_files"            : 166,
+  "n_lines"            : 26015,
+  "files_per_second"   : 7.35430773027481,
+  "lines_per_second"   : 1152.54406989819,
+  "report_file"        : "loc/liferay__lexicon-site.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 13874},
+"Markdown" :{
+  "nFiles": 108,
+  "blank": 2348,
+  "comment": 0,
+  "code": 4778},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 406,
+  "comment": 957,
+  "code": 1475},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 259,
+  "comment": 3,
+  "code": 1202},
+"SVG" :{
+  "nFiles": 28,
+  "blank": 0,
+  "comment": 23,
+  "code": 690},
+"SUM": {
+  "blank": 3013,
+  "comment": 983,
+  "code": 22019,
+  "nFiles": 166} }

@@ -1,0 +1,154 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 141.823909044266,
+  "n_files"            : 12951,
+  "n_lines"            : 3475035,
+  "files_per_second"   : 91.3174660554432,
+  "lines_per_second"   : 24502.4624086153,
+  "report_file"        : "loc/mantidproject__mantid.json"},
+"C++" :{
+  "nFiles": 2758,
+  "blank": 115344,
+  "comment": 176082,
+  "code": 801623},
+"C/C++ Header" :{
+  "nFiles": 4934,
+  "blank": 125510,
+  "comment": 134277,
+  "code": 603634},
+"XML" :{
+  "nFiles": 506,
+  "blank": 9240,
+  "comment": 23339,
+  "code": 575914},
+"Python" :{
+  "nFiles": 2267,
+  "blank": 77501,
+  "comment": 85572,
+  "code": 290795},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 130566},
+"Qt" :{
+  "nFiles": 245,
+  "blank": 19,
+  "comment": 0,
+  "code": 108865},
+"reStructuredText" :{
+  "nFiles": 1858,
+  "blank": 46382,
+  "comment": 47723,
+  "code": 64210},
+"CMake" :{
+  "nFiles": 255,
+  "blank": 2029,
+  "comment": 2853,
+  "code": 19839},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 3846,
+  "comment": 184,
+  "code": 11635},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 602,
+  "comment": 2211,
+  "code": 3977},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 6,
+  "comment": 6,
+  "code": 2745},
+"XSD" :{
+  "nFiles": 5,
+  "blank": 25,
+  "comment": 30,
+  "code": 1121},
+"Bourne Again Shell" :{
+  "nFiles": 14,
+  "blank": 204,
+  "comment": 488,
+  "code": 1039},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 73,
+  "comment": 114,
+  "code": 780},
+"DOS Batch" :{
+  "nFiles": 11,
+  "blank": 107,
+  "comment": 5,
+  "code": 660},
+"Perl" :{
+  "nFiles": 4,
+  "blank": 130,
+  "comment": 138,
+  "code": 591},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 500},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 130,
+  "comment": 0,
+  "code": 406},
+"diff" :{
+  "nFiles": 6,
+  "blank": 62,
+  "comment": 276,
+  "code": 316},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 34,
+  "comment": 5,
+  "code": 277},
+"C" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 59,
+  "code": 228},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 45,
+  "comment": 85,
+  "code": 199},
+"make" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 18,
+  "code": 65},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 5,
+  "code": 34},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 17,
+  "code": 30},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 20,
+  "code": 25},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 15,
+  "code": 18},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 381414,
+  "comment": 473522,
+  "code": 2620099,
+  "nFiles": 12951} }

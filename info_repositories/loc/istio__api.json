@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.09299087524414,
+  "n_files"            : 347,
+  "n_lines"            : 173190,
+  "files_per_second"   : 84.7790797919387,
+  "lines_per_second"   : 42313.8006604204,
+  "report_file"        : "loc/istio__api.json"},
+"Go" :{
+  "nFiles": 59,
+  "blank": 3292,
+  "comment": 7727,
+  "code": 81774},
+"Python" :{
+  "nFiles": 38,
+  "blank": 1113,
+  "comment": 451,
+  "code": 16064},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 1341,
+  "comment": 0,
+  "code": 10977},
+"Protocol Buffers" :{
+  "nFiles": 185,
+  "blank": 5872,
+  "comment": 25727,
+  "code": 9848},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 0,
+  "code": 6300},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 57,
+  "comment": 182,
+  "code": 941},
+"make" :{
+  "nFiles": 4,
+  "blank": 143,
+  "comment": 146,
+  "code": 424},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 152,
+  "comment": 0,
+  "code": 381},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 40,
+  "comment": 112,
+  "code": 109},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 12010,
+  "comment": 34345,
+  "code": 126835,
+  "nFiles": 347} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 78.3788588047028,
+  "n_files"            : 362,
+  "n_lines"            : 83324,
+  "files_per_second"   : 4.61859237963643,
+  "lines_per_second"   : 1063.09279403543,
+  "report_file"        : "loc/OPAE__intel-fpga-bbb.json"},
+"Verilog-SystemVerilog" :{
+  "nFiles": 179,
+  "blank": 8102,
+  "comment": 13570,
+  "code": 33835},
+"C++" :{
+  "nFiles": 28,
+  "blank": 1114,
+  "comment": 1832,
+  "code": 4313},
+"C" :{
+  "nFiles": 17,
+  "blank": 990,
+  "comment": 1015,
+  "code": 3828},
+"C/C++ Header" :{
+  "nFiles": 45,
+  "blank": 1156,
+  "comment": 3110,
+  "code": 3492},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 297,
+  "comment": 510,
+  "code": 1222},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 279,
+  "comment": 0,
+  "code": 968},
+"Tcl/Tk" :{
+  "nFiles": 5,
+  "blank": 167,
+  "comment": 220,
+  "code": 637},
+"make" :{
+  "nFiles": 20,
+  "blank": 187,
+  "comment": 74,
+  "code": 544},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 8,
+  "comment": 0,
+  "code": 542},
+"Python" :{
+  "nFiles": 4,
+  "blank": 95,
+  "comment": 152,
+  "code": 421},
+"CMake" :{
+  "nFiles": 6,
+  "blank": 61,
+  "comment": 158,
+  "code": 237},
+"XML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 177},
+"SUM": {
+  "blank": 12461,
+  "comment": 20647,
+  "code": 50216,
+  "nFiles": 362} }

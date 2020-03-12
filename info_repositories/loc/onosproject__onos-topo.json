@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.258869886398315,
+  "n_files"            : 38,
+  "n_lines"            : 7505,
+  "files_per_second"   : 146.791890430741,
+  "lines_per_second"   : 28991.3983600714,
+  "report_file"        : "loc/onosproject__onos-topo.json"},
+"Go" :{
+  "nFiles": 23,
+  "blank": 505,
+  "comment": 578,
+  "code": 5605},
+"Python" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 31,
+  "code": 153},
+"Protocol Buffers" :{
+  "nFiles": 3,
+  "blank": 87,
+  "comment": 121,
+  "code": 113},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 66},
+"make" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 60},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 44},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 0,
+  "code": 28},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 692,
+  "comment": 730,
+  "code": 6083,
+  "nFiles": 38} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.96285796165466,
+  "n_files"            : 21,
+  "n_lines"            : 7928,
+  "files_per_second"   : 7.08775117531188,
+  "lines_per_second"   : 2675.7948246606,
+  "report_file"        : "loc/quantopian__empyrical.json"},
+"Python" :{
+  "nFiles": 13,
+  "blank": 1207,
+  "comment": 2652,
+  "code": 3678},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 77},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 55,
+  "comment": 44,
+  "code": 67},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 40},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 2,
+  "code": 34},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 1316,
+  "comment": 2706,
+  "code": 3906,
+  "nFiles": 21} }

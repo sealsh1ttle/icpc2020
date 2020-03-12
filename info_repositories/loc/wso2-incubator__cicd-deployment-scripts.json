@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.149450778961182,
+  "n_files"            : 13,
+  "n_lines"            : 9745,
+  "files_per_second"   : 86.9851605348716,
+  "lines_per_second"   : 65205.4145701788,
+  "report_file"        : "loc/wso2-incubator__cicd-deployment-scripts.json"},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 130,
+  "comment": 246,
+  "code": 9282},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 0,
+  "code": 57},
+"SUM": {
+  "blank": 160,
+  "comment": 246,
+  "code": 9339,
+  "nFiles": 13} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.7269608974457,
+  "n_files"            : 59,
+  "n_lines"            : 4884,
+  "files_per_second"   : 4.00625766652462,
+  "lines_per_second"   : 331.636651581461,
+  "report_file"        : "loc/ePages-de__restdocs-wiremock.json"},
+"Java" :{
+  "nFiles": 46,
+  "blank": 621,
+  "comment": 487,
+  "code": 2317},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 85,
+  "comment": 0,
+  "code": 290},
+"AsciiDoc" :{
+  "nFiles": 2,
+  "blank": 212,
+  "comment": 0,
+  "code": 274},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 50,
+  "comment": 0,
+  "code": 271},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 125},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1012,
+  "comment": 509,
+  "code": 3363,
+  "nFiles": 59} }

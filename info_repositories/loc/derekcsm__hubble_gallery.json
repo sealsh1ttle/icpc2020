@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.9162728786469,
+  "n_files"            : 113,
+  "n_lines"            : 8947,
+  "files_per_second"   : 3.77720849312935,
+  "lines_per_second"   : 299.068003433878,
+  "report_file"        : "loc/derekcsm__hubble_gallery.json"},
+"Java" :{
+  "nFiles": 44,
+  "blank": 895,
+  "comment": 529,
+  "code": 4074},
+"XML" :{
+  "nFiles": 46,
+  "blank": 213,
+  "comment": 30,
+  "code": 1327},
+"Kotlin" :{
+  "nFiles": 15,
+  "blank": 185,
+  "comment": 30,
+  "code": 900},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 275},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 6,
+  "code": 148},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 24},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 1379,
+  "comment": 633,
+  "code": 6935,
+  "nFiles": 113} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 282.06250500679,
+  "n_files"            : 1225,
+  "n_lines"            : 105756,
+  "files_per_second"   : 4.34300900777475,
+  "lines_per_second"   : 374.938171939777,
+  "report_file"        : "loc/keystonejs__keystone-5.json"},
+"JavaScript" :{
+  "nFiles": 870,
+  "blank": 8122,
+  "comment": 5433,
+  "code": 64367},
+"Markdown" :{
+  "nFiles": 206,
+  "blank": 7322,
+  "comment": 0,
+  "code": 16428},
+"JSON" :{
+  "nFiles": 122,
+  "blank": 0,
+  "comment": 0,
+  "code": 2768},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 23,
+  "comment": 1,
+  "code": 504},
+"Vuejs Component" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 16,
+  "code": 218},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 20,
+  "comment": 30,
+  "code": 155},
+"JSX" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 0,
+  "code": 100},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 98},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 29},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Pug" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 15537,
+  "comment": 5488,
+  "code": 84731,
+  "nFiles": 1225} }

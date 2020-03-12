@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 90.0679140090942,
+  "n_files"            : 5819,
+  "n_lines"            : 1716378,
+  "files_per_second"   : 64.6068032552908,
+  "lines_per_second"   : 19056.4866399226,
+  "report_file"        : "loc/cri-o__cri-o.json"},
+"Go" :{
+  "nFiles": 5160,
+  "blank": 135170,
+  "comment": 195210,
+  "code": 1306456},
+"Markdown" :{
+  "nFiles": 239,
+  "blank": 6488,
+  "comment": 0,
+  "code": 19342},
+"YAML" :{
+  "nFiles": 131,
+  "blank": 850,
+  "comment": 247,
+  "code": 13389},
+"Protocol Buffers" :{
+  "nFiles": 67,
+  "blank": 3345,
+  "comment": 10984,
+  "code": 6098},
+"JSON" :{
+  "nFiles": 42,
+  "blank": 3,
+  "comment": 0,
+  "code": 5310},
+"Assembly" :{
+  "nFiles": 42,
+  "blank": 526,
+  "comment": 878,
+  "code": 2536},
+"Bourne Shell" :{
+  "nFiles": 38,
+  "blank": 214,
+  "comment": 426,
+  "code": 1690},
+"C" :{
+  "nFiles": 6,
+  "blank": 264,
+  "comment": 149,
+  "code": 1423},
+"make" :{
+  "nFiles": 34,
+  "blank": 355,
+  "comment": 156,
+  "code": 1244},
+"Bourne Again Shell" :{
+  "nFiles": 11,
+  "blank": 186,
+  "comment": 131,
+  "code": 1123},
+"TOML" :{
+  "nFiles": 22,
+  "blank": 169,
+  "comment": 229,
+  "code": 369},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 320},
+"Dockerfile" :{
+  "nFiles": 11,
+  "blank": 54,
+  "comment": 40,
+  "code": 243},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 45,
+  "comment": 14,
+  "code": 219},
+"Fish Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 112},
+"Nix" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 1,
+  "code": 106},
+"Python" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 28,
+  "code": 96},
+"Starlark" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 37,
+  "code": 36},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 8,
+  "code": 1},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 147721,
+  "comment": 208541,
+  "code": 1360116,
+  "nFiles": 5819} }

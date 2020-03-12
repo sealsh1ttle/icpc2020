@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.00061917304993,
+  "n_files"            : 113,
+  "n_lines"            : 25813,
+  "files_per_second"   : 112.930076739956,
+  "lines_per_second"   : 25797.0271760044,
+  "report_file"        : "loc/python-trio__urllib3.json"},
+"Python" :{
+  "nFiles": 88,
+  "blank": 4209,
+  "comment": 3600,
+  "code": 14780},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 760,
+  "comment": 180,
+  "code": 1408},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 5,
+  "code": 193},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 1,
+  "code": 148},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 39,
+  "code": 127},
+"make" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 4,
+  "code": 105},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 13,
+  "code": 105},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 5101,
+  "comment": 3842,
+  "code": 16870,
+  "nFiles": 113} }

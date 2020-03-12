@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.867705106735229,
+  "n_files"            : 5,
+  "n_lines"            : 270,
+  "files_per_second"   : 5.76232634934312,
+  "lines_per_second"   : 311.165622864529,
+  "report_file"        : "loc/vgno__koa-remove-trailing-slashes.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 3,
+  "code": 143},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 31},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 51,
+  "comment": 3,
+  "code": 216,
+  "nFiles": 5} }

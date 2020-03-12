@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.222939968109131,
+  "n_files"            : 21,
+  "n_lines"            : 1665,
+  "files_per_second"   : 94.1957612092253,
+  "lines_per_second"   : 7468.37821016001,
+  "report_file"        : "loc/chmorgan__esphttpd-freertos.json"},
+"C" :{
+  "nFiles": 4,
+  "blank": 119,
+  "comment": 137,
+  "code": 558},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 45,
+  "comment": 0,
+  "code": 350},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 14,
+  "code": 172},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 45},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 23,
+  "code": 41},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 38},
+"make" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 35,
+  "code": 9},
+"SUM": {
+  "blank": 243,
+  "comment": 209,
+  "code": 1213,
+  "nFiles": 21} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.05285000801086,
+  "n_files"            : 14,
+  "n_lines"            : 1813,
+  "files_per_second"   : 6.81978709860322,
+  "lines_per_second"   : 883.162429269116,
+  "report_file"        : "loc/d-oliveros__ngSticky.json"},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 203,
+  "comment": 210,
+  "code": 576},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 74,
+  "comment": 3,
+  "code": 278},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 17,
+  "code": 152},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 149},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 78},
+"SUM": {
+  "blank": 350,
+  "comment": 230,
+  "code": 1233,
+  "nFiles": 14} }

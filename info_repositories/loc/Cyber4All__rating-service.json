@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.458241939544678,
+  "n_files"            : 71,
+  "n_lines"            : 14897,
+  "files_per_second"   : 154.939986659771,
+  "lines_per_second"   : 32509.0279052199,
+  "report_file"        : "loc/Cyber4All__rating-service.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 10823},
+"TypeScript" :{
+  "nFiles": 54,
+  "blank": 230,
+  "comment": 606,
+  "code": 2545},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 437},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 3,
+  "code": 134},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 13,
+  "code": 38},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 6},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 288,
+  "comment": 624,
+  "code": 13985,
+  "nFiles": 71} }

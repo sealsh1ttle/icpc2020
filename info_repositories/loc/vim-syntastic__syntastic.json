@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 75.6378359794617,
+  "n_files"            : 282,
+  "n_lines"            : 19200,
+  "files_per_second"   : 3.72829280938938,
+  "lines_per_second"   : 253.84121255417,
+  "report_file"        : "loc/vim-syntastic__syntastic.json"},
+"vim script" :{
+  "nFiles": 275,
+  "blank": 3142,
+  "comment": 3735,
+  "code": 11235},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 139,
+  "comment": 0,
+  "code": 509},
+"Erlang" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 27,
+  "code": 248},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 47},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 33},
+"Python" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 3332,
+  "comment": 3764,
+  "code": 12104,
+  "nFiles": 282} }

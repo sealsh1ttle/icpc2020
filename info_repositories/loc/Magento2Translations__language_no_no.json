@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0959391593933105,
+  "n_files"            : 5,
+  "n_lines"            : 109,
+  "files_per_second"   : 52.1163624073678,
+  "lines_per_second"   : 1136.13670048062,
+  "report_file"        : "loc/Magento2Translations__language_no_no.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 55},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 14,
+  "comment": 0,
+  "code": 95,
+  "nFiles": 5} }

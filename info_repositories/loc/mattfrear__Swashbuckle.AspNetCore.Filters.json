@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.0616290569305,
+  "n_files"            : 99,
+  "n_lines"            : 4693,
+  "files_per_second"   : 9.83936094640737,
+  "lines_per_second"   : 466.425463853432,
+  "report_file"        : "loc/mattfrear__Swashbuckle.AspNetCore.Filters.json"},
+"C#" :{
+  "nFiles": 83,
+  "blank": 496,
+  "comment": 290,
+  "code": 2889},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 120,
+  "comment": 0,
+  "code": 504},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 203},
+"MSBuild script" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 0,
+  "code": 138},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 12,
+  "code": 22},
+"SUM": {
+  "blank": 635,
+  "comment": 302,
+  "code": 3756,
+  "nFiles": 99} }

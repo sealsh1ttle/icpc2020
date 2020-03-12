@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.669296979904175,
+  "n_files"            : 3,
+  "n_lines"            : 48,
+  "files_per_second"   : 4.4823151606474,
+  "lines_per_second"   : 71.7170425703584,
+  "report_file"        : "loc/sider__devon_rex_php.json"},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 9,
+  "code": 24},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 2},
+"SUM": {
+  "blank": 7,
+  "comment": 11,
+  "code": 30,
+  "nFiles": 3} }

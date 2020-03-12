@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 97.7145380973816,
+  "n_files"            : 9609,
+  "n_lines"            : 735961,
+  "files_per_second"   : 98.3374653055591,
+  "lines_per_second"   : 7531.74516637992,
+  "report_file"        : "loc/unoplatform__uno.json"},
+"C#" :{
+  "nFiles": 8416,
+  "blank": 38274,
+  "comment": 51908,
+  "code": 525209},
+"XAML" :{
+  "nFiles": 764,
+  "blank": 3754,
+  "comment": 2795,
+  "code": 58407},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 1310,
+  "comment": 1139,
+  "code": 16628},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 3,
+  "comment": 0,
+  "code": 8726},
+"Markdown" :{
+  "nFiles": 94,
+  "blank": 2290,
+  "comment": 0,
+  "code": 6608},
+"MSBuild script" :{
+  "nFiles": 51,
+  "blank": 407,
+  "comment": 185,
+  "code": 4740},
+"TypeScript" :{
+  "nFiles": 71,
+  "blank": 803,
+  "comment": 1173,
+  "code": 3564},
+"XML" :{
+  "nFiles": 137,
+  "blank": 258,
+  "comment": 256,
+  "code": 2381},
+"Java" :{
+  "nFiles": 10,
+  "blank": 454,
+  "comment": 630,
+  "code": 2155},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 112,
+  "comment": 36,
+  "code": 619},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 76,
+  "comment": 0,
+  "code": 367},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 58,
+  "comment": 17,
+  "code": 285},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 22,
+  "code": 136},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 16,
+  "code": 71},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 20},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 47864,
+  "comment": 58177,
+  "code": 629920,
+  "nFiles": 9609} }

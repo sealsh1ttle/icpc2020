@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.01894021034241,
+  "n_files"            : 37,
+  "n_lines"            : 9790,
+  "files_per_second"   : 6.14726159539225,
+  "lines_per_second"   : 1626.53218969973,
+  "report_file"        : "loc/reubenhwk__radvd.json"},
+"C" :{
+  "nFiles": 19,
+  "blank": 936,
+  "comment": 604,
+  "code": 4494},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 131,
+  "comment": 17,
+  "code": 831},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 112,
+  "comment": 165,
+  "code": 630},
+"C/C++ Header" :{
+  "nFiles": 7,
+  "blank": 162,
+  "comment": 146,
+  "code": 551},
+"make" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 23,
+  "code": 215},
+"m4" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 27,
+  "code": 200},
+"lex" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 14,
+  "code": 119},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 1,
+  "code": 115},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 22,
+  "code": 76},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 1,
+  "code": 29},
+"SUM": {
+  "blank": 1510,
+  "comment": 1020,
+  "code": 7260,
+  "nFiles": 37} }

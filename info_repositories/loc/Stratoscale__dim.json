@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.778316974639893,
+  "n_files"            : 5,
+  "n_lines"            : 301,
+  "files_per_second"   : 6.42411788887602,
+  "lines_per_second"   : 386.731896910337,
+  "report_file"        : "loc/Stratoscale__dim.json"},
+"Python" :{
+  "nFiles": 4,
+  "blank": 61,
+  "comment": 46,
+  "code": 127},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 57},
+"SUM": {
+  "blank": 71,
+  "comment": 46,
+  "code": 184,
+  "nFiles": 5} }

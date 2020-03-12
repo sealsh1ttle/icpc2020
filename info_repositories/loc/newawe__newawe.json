@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.184247970581055,
+  "n_files"            : 35,
+  "n_lines"            : 1154,
+  "files_per_second"   : 189.961386763838,
+  "lines_per_second"   : 6263.29829501341,
+  "report_file"        : "loc/newawe__newawe.json"},
+"PHP" :{
+  "nFiles": 22,
+  "blank": 56,
+  "comment": 75,
+  "code": 601},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 1,
+  "code": 126},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 69},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 51,
+  "code": 50},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 3,
+  "code": 46},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 113,
+  "comment": 130,
+  "code": 911,
+  "nFiles": 35} }

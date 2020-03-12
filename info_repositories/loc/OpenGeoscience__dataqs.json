@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.3511967658997,
+  "n_files"            : 121,
+  "n_lines"            : 15780,
+  "files_per_second"   : 2.5025233726032,
+  "lines_per_second"   : 326.362139005607,
+  "report_file"        : "loc/OpenGeoscience__dataqs.json"},
+"Python" :{
+  "nFiles": 58,
+  "blank": 1107,
+  "comment": 2238,
+  "code": 5333},
+"XML" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 82,
+  "code": 2435},
+"Scheme" :{
+  "nFiles": 35,
+  "blank": 5,
+  "comment": 0,
+  "code": 2411},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 17,
+  "code": 1081},
+"YAML" :{
+  "nFiles": 16,
+  "blank": 103,
+  "comment": 20,
+  "code": 432},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 138},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 77},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 68},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 67},
+"diff" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 17,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1341,
+  "comment": 2374,
+  "code": 12065,
+  "nFiles": 121} }

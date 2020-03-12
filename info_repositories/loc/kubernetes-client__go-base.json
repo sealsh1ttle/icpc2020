@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.58668804168701,
+  "n_files"            : 13,
+  "n_lines"            : 1966,
+  "files_per_second"   : 8.19316693543492,
+  "lines_per_second"   : 1239.05893808193,
+  "report_file"        : "loc/kubernetes-client__go-base.json"},
+"Go" :{
+  "nFiles": 9,
+  "blank": 212,
+  "comment": 327,
+  "code": 1363},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 228,
+  "comment": 327,
+  "code": 1411,
+  "nFiles": 13} }

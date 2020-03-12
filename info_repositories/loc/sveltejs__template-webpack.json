@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.96269702911377,
+  "n_files"            : 6,
+  "n_lines"            : 229,
+  "files_per_second"   : 6.23249040824757,
+  "lines_per_second"   : 237.873383914782,
+  "report_file"        : "loc/sveltejs__template-webpack.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 4,
+  "code": 58},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 50},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 40},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 43,
+  "comment": 4,
+  "code": 182,
+  "nFiles": 6} }

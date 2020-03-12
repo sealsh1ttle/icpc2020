@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.8191781044006,
+  "n_files"            : 22,
+  "n_lines"            : 3437,
+  "files_per_second"   : 2.03342617966994,
+  "lines_per_second"   : 317.676626342071,
+  "report_file"        : "loc/FUNPBL2015__Kan_App.json"},
+"Swift" :{
+  "nFiles": 15,
+  "blank": 389,
+  "comment": 389,
+  "code": 1482},
+"XML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 9,
+  "code": 1093},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 23,
+  "code": 3},
+"SUM": {
+  "blank": 394,
+  "comment": 421,
+  "code": 2622,
+  "nFiles": 22} }

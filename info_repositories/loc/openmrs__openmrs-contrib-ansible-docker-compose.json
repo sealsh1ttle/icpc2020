@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.25841093063354,
+  "n_files"            : 71,
+  "n_lines"            : 19677,
+  "files_per_second"   : 31.4380341668301,
+  "lines_per_second"   : 8712.76335634812,
+  "report_file"        : "loc/openmrs__openmrs-contrib-ansible-docker-compose.json"},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 1606,
+  "comment": 2432,
+  "code": 11743},
+"YAML" :{
+  "nFiles": 42,
+  "blank": 107,
+  "comment": 257,
+  "code": 1698},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 1188},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 89,
+  "comment": 0,
+  "code": 290},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 5,
+  "code": 161},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 1,
+  "code": 73},
+"SUM": {
+  "blank": 1829,
+  "comment": 2695,
+  "code": 15153,
+  "nFiles": 71} }

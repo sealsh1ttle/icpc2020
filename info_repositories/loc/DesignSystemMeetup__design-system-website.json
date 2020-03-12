@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.0123109817505,
+  "n_files"            : 68,
+  "n_lines"            : 2864,
+  "files_per_second"   : 3.23619805832205,
+  "lines_per_second"   : 136.301047632858,
+  "report_file"        : "loc/DesignSystemMeetup__design-system-website.json"},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 111,
+  "comment": 82,
+  "code": 648},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 64,
+  "comment": 26,
+  "code": 456},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 76,
+  "comment": 0,
+  "code": 436},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 2,
+  "comment": 0,
+  "code": 434},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 58,
+  "comment": 0,
+  "code": 274},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 134},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 311,
+  "comment": 108,
+  "code": 2445,
+  "nFiles": 68} }

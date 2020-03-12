@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.30363512039185,
+  "n_files"            : 562,
+  "n_lines"            : 75366,
+  "files_per_second"   : 105.965057407358,
+  "lines_per_second"   : 14210.2535881902,
+  "report_file"        : "loc/NativeScript__docs.json"},
+"Markdown" :{
+  "nFiles": 499,
+  "blank": 12342,
+  "comment": 1,
+  "code": 35323},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 16,
+  "code": 17070},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 1768,
+  "comment": 34,
+  "code": 5045},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 220,
+  "comment": 152,
+  "code": 1080},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 29,
+  "comment": 29,
+  "code": 737},
+"Ruby" :{
+  "nFiles": 16,
+  "blank": 166,
+  "comment": 13,
+  "code": 573},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 39,
+  "code": 378},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 51,
+  "comment": 4,
+  "code": 162},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 33},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 14613,
+  "comment": 288,
+  "code": 60465,
+  "nFiles": 562} }

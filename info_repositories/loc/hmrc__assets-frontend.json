@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.3556969165802,
+  "n_files"            : 439,
+  "n_lines"            : 45952,
+  "files_per_second"   : 186.356740933084,
+  "lines_per_second"   : 19506.7538937518,
+  "report_file"        : "loc/hmrc__assets-frontend.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 14147},
+"JavaScript" :{
+  "nFiles": 156,
+  "blank": 2562,
+  "comment": 1687,
+  "code": 10700},
+"Sass" :{
+  "nFiles": 93,
+  "blank": 2086,
+  "comment": 149,
+  "code": 8874},
+"HTML" :{
+  "nFiles": 125,
+  "blank": 282,
+  "comment": 370,
+  "code": 2976},
+"Markdown" :{
+  "nFiles": 44,
+  "blank": 701,
+  "comment": 0,
+  "code": 1282},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 1,
+  "code": 86},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 31},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 5635,
+  "comment": 2207,
+  "code": 38110,
+  "nFiles": 439} }

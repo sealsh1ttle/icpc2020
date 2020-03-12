@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.269635915756226,
+  "n_files"            : 28,
+  "n_lines"            : 10673,
+  "files_per_second"   : 103.843732840526,
+  "lines_per_second"   : 39583.0057359618,
+  "report_file"        : "loc/urlogic__collab-web-dev.json"},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 2918,
+  "comment": 366,
+  "code": 5311},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 186,
+  "comment": 22,
+  "code": 1190},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 73,
+  "comment": 14,
+  "code": 580},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3179,
+  "comment": 402,
+  "code": 7092,
+  "nFiles": 28} }

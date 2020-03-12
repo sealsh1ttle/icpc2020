@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.30814099311829,
+  "n_files"            : 8,
+  "n_lines"            : 361,
+  "files_per_second"   : 6.11554873831296,
+  "lines_per_second"   : 275.964136816372,
+  "report_file"        : "loc/flathub__org.audacityteam.Audacity.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 168},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"diff" :{
+  "nFiles": 6,
+  "blank": 17,
+  "comment": 65,
+  "code": 49},
+"SUM": {
+  "blank": 29,
+  "comment": 65,
+  "code": 267,
+  "nFiles": 8} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.09581899642944,
+  "n_files"            : 20,
+  "n_lines"            : 926,
+  "files_per_second"   : 6.46032601488232,
+  "lines_per_second"   : 299.113094489051,
+  "report_file"        : "loc/amsul__react-performance.json"},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 81,
+  "comment": 36,
+  "code": 498},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 0,
+  "code": 90},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 87},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 28},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 143,
+  "comment": 56,
+  "code": 727,
+  "nFiles": 20} }

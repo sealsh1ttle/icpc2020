@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.59984016418457,
+  "n_files"            : 4,
+  "n_lines"            : 135,
+  "files_per_second"   : 2.50024976841282,
+  "lines_per_second"   : 84.3834296839327,
+  "report_file"        : "loc/sesac__docker-cfg.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 29,
+  "comment": 0,
+  "code": 70},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 30,
+  "comment": 0,
+  "code": 105,
+  "nFiles": 4} }

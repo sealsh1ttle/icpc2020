@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6353.38655591011,
+  "n_files"            : 15170,
+  "n_lines"            : 5042733,
+  "files_per_second"   : 2.38770297801074,
+  "lines_per_second"   : 793.707884074691,
+  "report_file"        : "loc/nikhita__kubernetes.json"},
+"Go" :{
+  "nFiles": 12620,
+  "blank": 413152,
+  "comment": 704009,
+  "code": 3127449},
+"JSON" :{
+  "nFiles": 390,
+  "blank": 27,
+  "comment": 0,
+  "code": 489915},
+"YAML" :{
+  "nFiles": 948,
+  "blank": 1017,
+  "comment": 1104,
+  "code": 108993},
+"Markdown" :{
+  "nFiles": 460,
+  "blank": 15940,
+  "comment": 0,
+  "code": 52966},
+"Bourne Shell" :{
+  "nFiles": 322,
+  "blank": 5632,
+  "comment": 10795,
+  "code": 27577},
+"PO File" :{
+  "nFiles": 11,
+  "blank": 1459,
+  "comment": 2006,
+  "code": 16382},
+"Assembly" :{
+  "nFiles": 106,
+  "blank": 1898,
+  "comment": 2509,
+  "code": 11095},
+"Protocol Buffers" :{
+  "nFiles": 112,
+  "blank": 4807,
+  "comment": 14830,
+  "code": 9303},
+"PowerShell" :{
+  "nFiles": 6,
+  "blank": 262,
+  "comment": 803,
+  "code": 1663},
+"make" :{
+  "nFiles": 65,
+  "blank": 512,
+  "comment": 984,
+  "code": 1645},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 401,
+  "comment": 4372,
+  "code": 840},
+"Starlark" :{
+  "nFiles": 15,
+  "blank": 84,
+  "comment": 365,
+  "code": 769},
+"Bourne Again Shell" :{
+  "nFiles": 10,
+  "blank": 76,
+  "comment": 68,
+  "code": 695},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 55,
+  "comment": 115,
+  "code": 692},
+"Dockerfile" :{
+  "nFiles": 57,
+  "blank": 258,
+  "comment": 823,
+  "code": 600},
+"Python" :{
+  "nFiles": 8,
+  "blank": 160,
+  "comment": 176,
+  "code": 575},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 26,
+  "code": 453},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 61,
+  "code": 438},
+"sed" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 32,
+  "code": 408},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 4,
+  "code": 378},
+"TOML" :{
+  "nFiles": 16,
+  "blank": 162,
+  "comment": 196,
+  "code": 328},
+"C" :{
+  "nFiles": 5,
+  "blank": 35,
+  "comment": 44,
+  "code": 107},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 66},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 446061,
+  "comment": 743322,
+  "code": 3853350,
+  "nFiles": 15170} }

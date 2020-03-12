@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.3028039932251,
+  "n_files"            : 1431,
+  "n_lines"            : 256119,
+  "files_per_second"   : 100.050311860376,
+  "lines_per_second"   : 17906.9083321926,
+  "report_file"        : "loc/deis__deis.json"},
+"Go" :{
+  "nFiles": 942,
+  "blank": 23516,
+  "comment": 18540,
+  "code": 156452},
+"Python" :{
+  "nFiles": 90,
+  "blank": 1795,
+  "comment": 1929,
+  "code": 11605},
+"Markdown" :{
+  "nFiles": 78,
+  "blank": 2082,
+  "comment": 0,
+  "code": 9222},
+"reStructuredText" :{
+  "nFiles": 120,
+  "blank": 5891,
+  "comment": 7966,
+  "code": 5565},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 5,
+  "comment": 0,
+  "code": 2477},
+"Bourne Shell" :{
+  "nFiles": 38,
+  "blank": 451,
+  "comment": 299,
+  "code": 1490},
+"Bourne Again Shell" :{
+  "nFiles": 38,
+  "blank": 342,
+  "comment": 206,
+  "code": 1146},
+"make" :{
+  "nFiles": 21,
+  "blank": 318,
+  "comment": 36,
+  "code": 940},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 16,
+  "code": 750},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 85,
+  "comment": 128,
+  "code": 568},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 40,
+  "comment": 14,
+  "code": 463},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 359},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 45,
+  "comment": 62,
+  "code": 325},
+"TOML" :{
+  "nFiles": 28,
+  "blank": 0,
+  "comment": 0,
+  "code": 284},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 1,
+  "code": 222},
+"Dockerfile" :{
+  "nFiles": 16,
+  "blank": 86,
+  "comment": 44,
+  "code": 192},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 3,
+  "code": 48},
+"HCL" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 39},
+"diff" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 7,
+  "code": 6},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 34712,
+  "comment": 29252,
+  "code": 192155,
+  "nFiles": 1431} }

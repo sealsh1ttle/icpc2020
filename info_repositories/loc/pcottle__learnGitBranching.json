@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.8074679374695,
+  "n_files"            : 136,
+  "n_lines"            : 49244,
+  "files_per_second"   : 3.50448012272115,
+  "lines_per_second"   : 1268.93102325941,
+  "report_file"        : "loc/pcottle__learnGitBranching.json"},
+"JavaScript" :{
+  "nFiles": 118,
+  "blank": 2502,
+  "comment": 1229,
+  "code": 42168},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 241,
+  "comment": 52,
+  "code": 1347},
+"JSX" :{
+  "nFiles": 7,
+  "blank": 75,
+  "comment": 9,
+  "code": 592},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 19,
+  "code": 445},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 255},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 0,
+  "code": 139},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 2912,
+  "comment": 1309,
+  "code": 45023,
+  "nFiles": 136} }

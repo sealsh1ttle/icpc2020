@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.8532478809357,
+  "n_files"            : 131,
+  "n_lines"            : 10282,
+  "files_per_second"   : 4.11261044681111,
+  "lines_per_second"   : 322.792829115358,
+  "report_file"        : "loc/vtex__toolbelt.json"},
+"TypeScript" :{
+  "nFiles": 114,
+  "blank": 1007,
+  "comment": 399,
+  "code": 7438},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 301,
+  "comment": 0,
+  "code": 711},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 191},
+"Fish Shell" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 5,
+  "code": 91},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 9,
+  "code": 51},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 1,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1344,
+  "comment": 414,
+  "code": 8524,
+  "nFiles": 131} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.41266298294067,
+  "n_files"            : 209,
+  "n_lines"            : 17165,
+  "files_per_second"   : 147.947530673547,
+  "lines_per_second"   : 12150.8103541217,
+  "report_file"        : "loc/tuchk4__storybook-readme.json"},
+"JavaScript" :{
+  "nFiles": 188,
+  "blank": 2967,
+  "comment": 1142,
+  "code": 11401},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 329,
+  "comment": 0,
+  "code": 943},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 289},
+"Vuejs Component" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 1,
+  "code": 63},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 3319,
+  "comment": 1144,
+  "code": 12702,
+  "nFiles": 209} }

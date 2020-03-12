@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.298110961914062,
+  "n_files"            : 37,
+  "n_lines"            : 3747,
+  "files_per_second"   : 124.114858985515,
+  "lines_per_second"   : 12569.1453140196,
+  "report_file"        : "loc/gbozee__django-paystack.json"},
+"Python" :{
+  "nFiles": 28,
+  "blank": 307,
+  "comment": 278,
+  "code": 2840},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 62,
+  "comment": 0,
+  "code": 123},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 49},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 19,
+  "code": 47},
+"INI" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 381,
+  "comment": 297,
+  "code": 3069,
+  "nFiles": 37} }

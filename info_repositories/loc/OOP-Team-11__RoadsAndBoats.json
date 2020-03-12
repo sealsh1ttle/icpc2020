@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.5268640518188,
+  "n_files"            : 267,
+  "n_lines"            : 19484,
+  "files_per_second"   : 3.7857914652752,
+  "lines_per_second"   : 276.263524005326,
+  "report_file"        : "loc/OOP-Team-11__RoadsAndBoats.json"},
+"Java" :{
+  "nFiles": 264,
+  "blank": 3128,
+  "comment": 394,
+  "code": 15904},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3134,
+  "comment": 394,
+  "code": 15956,
+  "nFiles": 267} }

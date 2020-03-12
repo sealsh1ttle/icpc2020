@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.282471895217896,
+  "n_files"            : 53,
+  "n_lines"            : 1778,
+  "files_per_second"   : 187.629285947603,
+  "lines_per_second"   : 6294.43151726111,
+  "report_file"        : "loc/Garner412__where-to-find.json"},
+"Ruby" :{
+  "nFiles": 24,
+  "blank": 118,
+  "comment": 42,
+  "code": 656},
+"ERB" :{
+  "nFiles": 22,
+  "blank": 54,
+  "comment": 0,
+  "code": 319},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 90,
+  "comment": 159,
+  "code": 201},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 0,
+  "code": 60},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 292,
+  "comment": 201,
+  "code": 1285,
+  "nFiles": 53} }

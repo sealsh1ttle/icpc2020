@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 359.048154115677,
+  "n_files"            : 1312,
+  "n_lines"            : 304776,
+  "files_per_second"   : 3.65410596033117,
+  "lines_per_second"   : 848.84435835815,
+  "report_file"        : "loc/laws-africa__indigo.json"},
+"JavaScript" :{
+  "nFiles": 578,
+  "blank": 20847,
+  "comment": 11850,
+  "code": 194671},
+"Python" :{
+  "nFiles": 294,
+  "blank": 4421,
+  "comment": 3629,
+  "code": 14194},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 1513,
+  "comment": 88,
+  "code": 14062},
+"Sass" :{
+  "nFiles": 143,
+  "blank": 2224,
+  "comment": 1203,
+  "code": 11557},
+"HTML" :{
+  "nFiles": 131,
+  "blank": 905,
+  "comment": 36,
+  "code": 6588},
+"SVG" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 5160},
+"JSON" :{
+  "nFiles": 35,
+  "blank": 0,
+  "comment": 0,
+  "code": 1596},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 1406},
+"reStructuredText" :{
+  "nFiles": 22,
+  "blank": 988,
+  "comment": 318,
+  "code": 1406},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 706,
+  "comment": 0,
+  "code": 1342},
+"PO File" :{
+  "nFiles": 33,
+  "blank": 282,
+  "comment": 264,
+  "code": 1270},
+"XSLT" :{
+  "nFiles": 5,
+  "blank": 132,
+  "comment": 63,
+  "code": 683},
+"LESS" :{
+  "nFiles": 6,
+  "blank": 44,
+  "comment": 77,
+  "code": 648},
+"make" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 11,
+  "code": 267},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 28},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 32147,
+  "comment": 17544,
+  "code": 255085,
+  "nFiles": 1312} }

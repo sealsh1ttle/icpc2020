@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.47164916992188,
+  "n_files"            : 1044,
+  "n_lines"            : 129726,
+  "files_per_second"   : 110.223677130623,
+  "lines_per_second"   : 13696.2420875931,
+  "report_file"        : "loc/iTXTech__Genisys.json"},
+"PHP" :{
+  "nFiles": 1006,
+  "blank": 15634,
+  "comment": 27078,
+  "code": 58707},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 22383},
+"INI" :{
+  "nFiles": 22,
+  "blank": 669,
+  "comment": 0,
+  "code": 4543},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 46,
+  "comment": 129,
+  "code": 175},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 0,
+  "code": 110},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 9,
+  "code": 103},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 34},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 33},
+"SUM": {
+  "blank": 16422,
+  "comment": 27216,
+  "code": 86088,
+  "nFiles": 1044} }

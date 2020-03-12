@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0934000015258789,
+  "n_files"            : 2,
+  "n_lines"            : 230,
+  "files_per_second"   : 21.413275881434,
+  "lines_per_second"   : 2462.52672636491,
+  "report_file"        : "loc/jirengu-inc__everything-about-java.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 72,
+  "comment": 0,
+  "code": 158},
+"SUM": {
+  "blank": 72,
+  "comment": 0,
+  "code": 158,
+  "nFiles": 2} }

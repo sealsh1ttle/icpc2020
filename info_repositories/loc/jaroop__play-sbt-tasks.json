@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.863523960113525,
+  "n_files"            : 5,
+  "n_lines"            : 169,
+  "files_per_second"   : 5.79022729067374,
+  "lines_per_second"   : 195.709682424773,
+  "report_file"        : "loc/jaroop__play-sbt-tasks.json"},
+"Scala" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 11,
+  "code": 93},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 30,
+  "comment": 11,
+  "code": 128,
+  "nFiles": 5} }

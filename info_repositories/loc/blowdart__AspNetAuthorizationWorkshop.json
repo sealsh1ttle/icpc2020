@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.5618360042572,
+  "n_files"            : 102,
+  "n_lines"            : 3836,
+  "files_per_second"   : 2.71552221218472,
+  "lines_per_second"   : 102.124933391574,
+  "report_file"        : "loc/blowdart__AspNetAuthorizationWorkshop.json"},
+"C#" :{
+  "nFiles": 68,
+  "blank": 300,
+  "comment": 52,
+  "code": 2064},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 196,
+  "comment": 0,
+  "code": 661},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 324},
+"Razor" :{
+  "nFiles": 18,
+  "blank": 29,
+  "comment": 0,
+  "code": 180},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 533,
+  "comment": 52,
+  "code": 3251,
+  "nFiles": 102} }

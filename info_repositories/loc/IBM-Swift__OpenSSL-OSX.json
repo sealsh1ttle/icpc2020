@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.464156150817871,
+  "n_files"            : 4,
+  "n_lines"            : 101,
+  "files_per_second"   : 8.61778949379807,
+  "lines_per_second"   : 217.599184718401,
+  "report_file"        : "loc/IBM-Swift__OpenSSL-OSX.json"},
+"Swift" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 33,
+  "code": 25},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 11},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 10,
+  "comment": 48,
+  "code": 43,
+  "nFiles": 4} }

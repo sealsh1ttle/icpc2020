@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 49.9969139099121,
+  "n_files"            : 112,
+  "n_lines"            : 12882,
+  "files_per_second"   : 2.24013826536993,
+  "lines_per_second"   : 257.655902986566,
+  "report_file"        : "loc/ajalt__clikt.json"},
+"Kotlin" :{
+  "nFiles": 69,
+  "blank": 1064,
+  "comment": 1283,
+  "code": 6792},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 684,
+  "comment": 0,
+  "code": 2363},
+"Gradle" :{
+  "nFiles": 12,
+  "blank": 32,
+  "comment": 0,
+  "code": 186},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 37,
+  "code": 133},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 13},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 9},
+"SUM": {
+  "blank": 1845,
+  "comment": 1326,
+  "code": 9711,
+  "nFiles": 112} }

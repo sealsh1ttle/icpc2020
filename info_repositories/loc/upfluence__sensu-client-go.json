@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.9727900028229,
+  "n_files"            : 129,
+  "n_lines"            : 28943,
+  "files_per_second"   : 4.30390364019668,
+  "lines_per_second"   : 965.642504327228,
+  "report_file"        : "loc/upfluence__sensu-client-go.json"},
+"Go" :{
+  "nFiles": 121,
+  "blank": 3768,
+  "comment": 3055,
+  "code": 21787},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 149},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 85},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 6,
+  "code": 9},
+"SUM": {
+  "blank": 3838,
+  "comment": 3061,
+  "code": 22044,
+  "nFiles": 129} }

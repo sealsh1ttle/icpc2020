@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.63388800621033,
+  "n_files"            : 169,
+  "n_lines"            : 63266,
+  "files_per_second"   : 64.1637000516052,
+  "lines_per_second"   : 24020.003831153,
+  "report_file"        : "loc/npi-ufc-qxd__sinutri.json"},
+"JavaScript" :{
+  "nFiles": 39,
+  "blank": 5551,
+  "comment": 4317,
+  "code": 22454},
+"CSS" :{
+  "nFiles": 26,
+  "blank": 2287,
+  "comment": 756,
+  "code": 10224},
+"HTML" :{
+  "nFiles": 37,
+  "blank": 1920,
+  "comment": 77,
+  "code": 8917},
+"Java" :{
+  "nFiles": 63,
+  "blank": 1426,
+  "comment": 34,
+  "code": 4829},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 65,
+  "code": 138},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 113},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 78},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 11260,
+  "comment": 5251,
+  "code": 46755,
+  "nFiles": 169} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.47767376899719,
+  "n_files"            : 37,
+  "n_lines"            : 2941,
+  "files_per_second"   : 6.75469214859315,
+  "lines_per_second"   : 536.906746189526,
+  "report_file"        : "loc/theforeman__puppet-katello.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 319,
+  "comment": 0,
+  "code": 836},
+"Ruby" :{
+  "nFiles": 17,
+  "blank": 140,
+  "comment": 26,
+  "code": 817},
+"Puppet" :{
+  "nFiles": 8,
+  "blank": 49,
+  "comment": 146,
+  "code": 405},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 70},
+"ERB" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 0,
+  "code": 63},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 2,
+  "code": 51},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 521,
+  "comment": 174,
+  "code": 2246,
+  "nFiles": 37} }

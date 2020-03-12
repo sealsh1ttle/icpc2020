@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.097020149231,
+  "n_files"            : 348,
+  "n_lines"            : 66202,
+  "files_per_second"   : 10.8421279726909,
+  "lines_per_second"   : 2062.55906910368,
+  "report_file"        : "loc/nikhita__go-git.json"},
+"Go" :{
+  "nFiles": 337,
+  "blank": 11040,
+  "comment": 6519,
+  "code": 47949},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 114,
+  "comment": 0,
+  "code": 387},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 9,
+  "code": 63},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 44},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 41},
+"SUM": {
+  "blank": 11186,
+  "comment": 6532,
+  "code": 48484,
+  "nFiles": 348} }

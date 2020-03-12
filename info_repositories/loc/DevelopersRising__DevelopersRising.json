@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.74495506286621,
+  "n_files"            : 19,
+  "n_lines"            : 662,
+  "files_per_second"   : 6.92178908756367,
+  "lines_per_second"   : 241.169703998271,
+  "report_file"        : "loc/DevelopersRising__DevelopersRising.json"},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 212,
+  "comment": 0,
+  "code": 435},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 212,
+  "comment": 0,
+  "code": 450,
+  "nFiles": 19} }

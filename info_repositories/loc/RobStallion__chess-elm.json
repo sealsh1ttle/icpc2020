@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.141790866851807,
+  "n_files"            : 22,
+  "n_lines"            : 1083,
+  "files_per_second"   : 155.158089434585,
+  "lines_per_second"   : 7638.00958443891,
+  "report_file"        : "loc/RobStallion__chess-elm.json"},
+"Elm" :{
+  "nFiles": 6,
+  "blank": 208,
+  "comment": 0,
+  "code": 501},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 272},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 32},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 225,
+  "comment": 0,
+  "code": 858,
+  "nFiles": 22} }

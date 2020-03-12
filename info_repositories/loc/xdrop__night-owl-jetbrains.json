@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.27908802032471,
+  "n_files"            : 39,
+  "n_lines"            : 31537,
+  "files_per_second"   : 7.38763965477529,
+  "lines_per_second"   : 5973.9485075038,
+  "report_file"        : "loc/xdrop__night-owl-jetbrains.json"},
+"XML" :{
+  "nFiles": 15,
+  "blank": 26,
+  "comment": 0,
+  "code": 30356},
+"Kotlin" :{
+  "nFiles": 15,
+  "blank": 105,
+  "comment": 4,
+  "code": 479},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 94},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 0,
+  "code": 90},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 55},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 246,
+  "comment": 28,
+  "code": 31263,
+  "nFiles": 39} }

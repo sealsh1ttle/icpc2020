@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.22485089302063,
+  "n_files"            : 2,
+  "n_lines"            : 64,
+  "files_per_second"   : 8.8947834412937,
+  "lines_per_second"   : 284.633070121398,
+  "report_file"        : "loc/theforeman__foreman-packaging.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 45},
+"SUM": {
+  "blank": 19,
+  "comment": 0,
+  "code": 45,
+  "nFiles": 2} }

@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.739284038543701,
+  "n_files"            : 118,
+  "n_lines"            : 27074,
+  "files_per_second"   : 159.613888367515,
+  "lines_per_second"   : 36621.9187598483,
+  "report_file"        : "loc/ninja-build__ninja.json"},
+"C++" :{
+  "nFiles": 59,
+  "blank": 2533,
+  "comment": 2140,
+  "code": 15177},
+"C/C++ Header" :{
+  "nFiles": 34,
+  "blank": 541,
+  "comment": 952,
+  "code": 1475},
+"Python" :{
+  "nFiles": 9,
+  "blank": 271,
+  "comment": 271,
+  "code": 1266},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 259,
+  "comment": 0,
+  "code": 907},
+"C" :{
+  "nFiles": 1,
+  "blank": 44,
+  "comment": 91,
+  "code": 275},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 81,
+  "comment": 0,
+  "code": 182},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 16,
+  "code": 97},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 37,
+  "code": 89},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 4,
+  "code": 87},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 34,
+  "code": 39},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 37,
+  "code": 36},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 15,
+  "code": 19},
+"SUM": {
+  "blank": 3799,
+  "comment": 3597,
+  "code": 19678,
+  "nFiles": 118} }

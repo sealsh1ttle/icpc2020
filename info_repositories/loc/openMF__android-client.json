@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 270.656700134277,
+  "n_files"            : 882,
+  "n_lines"            : 121464,
+  "files_per_second"   : 3.25874068353906,
+  "lines_per_second"   : 448.775145561664,
+  "report_file"        : "loc/openMF__android-client.json"},
+"Java" :{
+  "nFiles": 654,
+  "blank": 17162,
+  "comment": 7075,
+  "code": 64532},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 14941},
+"XML" :{
+  "nFiles": 203,
+  "blank": 2023,
+  "comment": 714,
+  "code": 13673},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 160,
+  "comment": 0,
+  "code": 402},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 62,
+  "comment": 58,
+  "code": 249},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"ProGuard" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 34,
+  "code": 76},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 22},
+"SUM": {
+  "blank": 19477,
+  "comment": 7905,
+  "code": 94082,
+  "nFiles": 882} }

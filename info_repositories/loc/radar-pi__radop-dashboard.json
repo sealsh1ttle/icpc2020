@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.55357003211975,
+  "n_files"            : 331,
+  "n_lines"            : 69123,
+  "files_per_second"   : 129.622448507994,
+  "lines_per_second"   : 27069.161656248,
+  "report_file"        : "loc/radar-pi__radop-dashboard.json"},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 3344,
+  "comment": 60,
+  "code": 25100},
+"Sass" :{
+  "nFiles": 187,
+  "blank": 2510,
+  "comment": 2039,
+  "code": 12306},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 2985,
+  "comment": 2943,
+  "code": 11474},
+"Python" :{
+  "nFiles": 55,
+  "blank": 558,
+  "comment": 478,
+  "code": 1907},
+"HTML" :{
+  "nFiles": 31,
+  "blank": 279,
+  "comment": 79,
+  "code": 1615},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 2,
+  "code": 168},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 67,
+  "comment": 9,
+  "code": 156},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 67,
+  "comment": 0,
+  "code": 124},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 95},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 33,
+  "comment": 11,
+  "code": 91},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 15,
+  "code": 62},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 13,
+  "code": 49},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 31},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 9991,
+  "comment": 5661,
+  "code": 53471,
+  "nFiles": 331} }

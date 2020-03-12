@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.986505031585693,
+  "n_files"            : 68,
+  "n_lines"            : 3529,
+  "files_per_second"   : 68.9302110205133,
+  "lines_per_second"   : 3577.27521604987,
+  "report_file"        : "loc/gluster__gbench.json"},
+"YAML" :{
+  "nFiles": 51,
+  "blank": 147,
+  "comment": 128,
+  "code": 1477},
+"Python" :{
+  "nFiles": 4,
+  "blank": 222,
+  "comment": 261,
+  "code": 821},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 64,
+  "comment": 0,
+  "code": 218},
+"INI" :{
+  "nFiles": 3,
+  "blank": 29,
+  "comment": 0,
+  "code": 106},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 8,
+  "code": 38},
+"SUM": {
+  "blank": 472,
+  "comment": 397,
+  "code": 2660,
+  "nFiles": 68} }

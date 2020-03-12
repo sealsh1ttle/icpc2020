@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.5461640357971,
+  "n_files"            : 31,
+  "n_lines"            : 1576,
+  "files_per_second"   : 2.68487437939468,
+  "lines_per_second"   : 136.495549094388,
+  "report_file"        : "loc/NevinhaJS__nevinha-js-examples.json"},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 105,
+  "comment": 9,
+  "code": 569},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 82,
+  "comment": 0,
+  "code": 463},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 293},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 190,
+  "comment": 9,
+  "code": 1377,
+  "nFiles": 31} }

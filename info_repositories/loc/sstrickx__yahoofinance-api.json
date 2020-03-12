@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.17084288597107,
+  "n_files"            : 41,
+  "n_lines"            : 5626,
+  "files_per_second"   : 4.47069048175703,
+  "lines_per_second"   : 613.465967082074,
+  "report_file"        : "loc/sstrickx__yahoofinance-api.json"},
+"Java" :{
+  "nFiles": 37,
+  "blank": 820,
+  "comment": 927,
+  "code": 3378},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 5,
+  "code": 264},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 116},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 6,
+  "code": 61},
+"SUM": {
+  "blank": 869,
+  "comment": 938,
+  "code": 3819,
+  "nFiles": 41} }

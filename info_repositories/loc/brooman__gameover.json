@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.12424898147583,
+  "n_files"            : 12,
+  "n_lines"            : 7609,
+  "files_per_second"   : 96.5802685660996,
+  "lines_per_second"   : 61239.938626621,
+  "report_file"        : "loc/brooman__gameover.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7021},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 97,
+  "comment": 24,
+  "code": 296},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 79},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 40},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 10,
+  "code": 13},
+"SUM": {
+  "blank": 126,
+  "comment": 34,
+  "code": 7449,
+  "nFiles": 12} }

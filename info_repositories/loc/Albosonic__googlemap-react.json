@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.168097972869873,
+  "n_files"            : 12,
+  "n_lines"            : 556,
+  "files_per_second"   : 71.3869405747645,
+  "lines_per_second"   : 3307.59491329742,
+  "report_file"        : "loc/Albosonic__googlemap-react.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 56,
+  "comment": 0,
+  "code": 213},
+"JSX" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 0,
+  "code": 132},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 51},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 43},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 91,
+  "comment": 2,
+  "code": 463,
+  "nFiles": 12} }

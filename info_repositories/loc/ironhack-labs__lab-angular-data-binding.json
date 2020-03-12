@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.08475208282471,
+  "n_files"            : 24,
+  "n_lines"            : 11146,
+  "files_per_second"   : 5.87550958133141,
+  "lines_per_second"   : 2728.68457473,
+  "report_file"        : "loc/ironhack-labs__lab-angular-data-binding.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 10698},
+"TypeScript" :{
+  "nFiles": 11,
+  "blank": 26,
+  "comment": 27,
+  "code": 211},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 5,
+  "code": 67},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 51},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 20},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 66,
+  "comment": 33,
+  "code": 11047,
+  "nFiles": 24} }

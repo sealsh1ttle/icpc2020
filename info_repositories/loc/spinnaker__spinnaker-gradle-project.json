@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.6684420108795,
+  "n_files"            : 35,
+  "n_lines"            : 2473,
+  "files_per_second"   : 2.76277066824337,
+  "lines_per_second"   : 195.209481787596,
+  "report_file"        : "loc/spinnaker__spinnaker-gradle-project.json"},
+"Groovy" :{
+  "nFiles": 18,
+  "blank": 138,
+  "comment": 252,
+  "code": 1000},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 318},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 39,
+  "code": 174},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 15,
+  "comment": 0,
+  "code": 128},
+"Java" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 20,
+  "code": 120},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 50},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 251,
+  "comment": 313,
+  "code": 1909,
+  "nFiles": 35} }

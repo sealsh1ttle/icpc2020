@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.10629081726074,
+  "n_files"            : 345,
+  "n_lines"            : 82836,
+  "files_per_second"   : 84.0174296836933,
+  "lines_per_second"   : 20172.9501602273,
+  "report_file"        : "loc/bbcmicrobit__micropython.json"},
+"C" :{
+  "nFiles": 133,
+  "blank": 5824,
+  "comment": 8982,
+  "code": 37996},
+"C/C++ Header" :{
+  "nFiles": 86,
+  "blank": 1433,
+  "comment": 2978,
+  "code": 7704},
+"C++" :{
+  "nFiles": 22,
+  "blank": 798,
+  "comment": 983,
+  "code": 4906},
+"reStructuredText" :{
+  "nFiles": 45,
+  "blank": 1556,
+  "comment": 1266,
+  "code": 2672},
+"Python" :{
+  "nFiles": 47,
+  "blank": 650,
+  "comment": 779,
+  "code": 2289},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1198},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"make" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 7,
+  "code": 170},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 0,
+  "code": 94},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 46,
+  "code": 45},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 13,
+  "code": 41},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 26},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 10398,
+  "comment": 15063,
+  "code": 57375,
+  "nFiles": 345} }

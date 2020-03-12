@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.412036180496216,
+  "n_files"            : 3,
+  "n_lines"            : 954,
+  "files_per_second"   : 7.28091401193724,
+  "lines_per_second"   : 2315.33065579604,
+  "report_file"        : "loc/bagrat__vim-buffet.json"},
+"vim script" :{
+  "nFiles": 2,
+  "blank": 138,
+  "comment": 34,
+  "code": 505},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 67,
+  "comment": 0,
+  "code": 210},
+"SUM": {
+  "blank": 205,
+  "comment": 34,
+  "code": 715,
+  "nFiles": 3} }

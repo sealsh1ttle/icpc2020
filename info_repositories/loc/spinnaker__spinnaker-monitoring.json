@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.3669412136078,
+  "n_files"            : 95,
+  "n_lines"            : 31658,
+  "files_per_second"   : 3.60299661725537,
+  "lines_per_second"   : 1200.67017799022,
+  "report_file"        : "loc/spinnaker__spinnaker-monitoring.json"},
+"JSON" :{
+  "nFiles": 30,
+  "blank": 16,
+  "comment": 0,
+  "code": 19137},
+"Python" :{
+  "nFiles": 28,
+  "blank": 1630,
+  "comment": 1841,
+  "code": 7251},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 173,
+  "comment": 128,
+  "code": 795},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 67,
+  "code": 82},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 46,
+  "comment": 88,
+  "code": 81},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 11},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1951,
+  "comment": 2146,
+  "code": 27561,
+  "nFiles": 95} }

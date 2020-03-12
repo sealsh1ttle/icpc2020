@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 141.429984092712,
+  "n_files"            : 686,
+  "n_lines"            : 55003,
+  "files_per_second"   : 4.85045660155277,
+  "lines_per_second"   : 388.906216407007,
+  "report_file"        : "loc/OpenNeuroOrg__openneuro.json"},
+"Sass" :{
+  "nFiles": 210,
+  "blank": 2277,
+  "comment": 1703,
+  "code": 14849},
+"JSX" :{
+  "nFiles": 231,
+  "blank": 1018,
+  "comment": 446,
+  "code": 12062},
+"JavaScript" :{
+  "nFiles": 194,
+  "blank": 786,
+  "comment": 1349,
+  "code": 10377},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 2,
+  "code": 7496},
+"YAML" :{
+  "nFiles": 21,
+  "blank": 46,
+  "comment": 34,
+  "code": 847},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 24,
+  "comment": 0,
+  "code": 819},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 456},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 136,
+  "comment": 0,
+  "code": 242},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 4,
+  "code": 18},
+"SUM": {
+  "blank": 4299,
+  "comment": 3538,
+  "code": 47166,
+  "nFiles": 686} }

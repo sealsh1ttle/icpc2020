@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 164.102791070938,
+  "n_files"            : 475,
+  "n_lines"            : 110103,
+  "files_per_second"   : 2.89452724661257,
+  "lines_per_second"   : 670.93922828165,
+  "report_file"        : "loc/PramodSSImmaneni__apex-core.json"},
+"Java" :{
+  "nFiles": 409,
+  "blank": 12041,
+  "comment": 19960,
+  "code": 64658},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 1521,
+  "comment": 0,
+  "code": 7803},
+"Maven" :{
+  "nFiles": 12,
+  "blank": 119,
+  "comment": 217,
+  "code": 1677},
+"XML" :{
+  "nFiles": 28,
+  "blank": 145,
+  "comment": 347,
+  "code": 1110},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 294},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 27,
+  "code": 67},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 14,
+  "code": 20},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 19,
+  "code": 16},
+"Velocity Template Language" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 16,
+  "code": 1},
+"SUM": {
+  "blank": 13854,
+  "comment": 20600,
+  "code": 75649,
+  "nFiles": 475} }

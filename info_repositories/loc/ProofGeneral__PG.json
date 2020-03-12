@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 92.1280109882355,
+  "n_files"            : 213,
+  "n_lines"            : 61912,
+  "files_per_second"   : 2.31200041893013,
+  "lines_per_second"   : 672.021455102358,
+  "report_file"        : "loc/ProofGeneral__PG.json"},
+"Lisp" :{
+  "nFiles": 102,
+  "blank": 7087,
+  "comment": 9086,
+  "code": 37334},
+"OCaml" :{
+  "nFiles": 24,
+  "blank": 879,
+  "comment": 772,
+  "code": 2239},
+"Coq" :{
+  "nFiles": 57,
+  "blank": 358,
+  "comment": 363,
+  "code": 1006},
+"lex" :{
+  "nFiles": 12,
+  "blank": 93,
+  "comment": 0,
+  "code": 433},
+"XSLT" :{
+  "nFiles": 3,
+  "blank": 67,
+  "comment": 2,
+  "code": 385},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 130,
+  "comment": 0,
+  "code": 303},
+"make" :{
+  "nFiles": 3,
+  "blank": 82,
+  "comment": 159,
+  "code": 236},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 64,
+  "comment": 55,
+  "code": 222},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 11,
+  "code": 160},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 6,
+  "code": 139},
+"Standard ML" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 37,
+  "code": 54},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 5,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 19},
+"diff" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 12,
+  "code": 11},
+"SUM": {
+  "blank": 8843,
+  "comment": 10508,
+  "code": 42561,
+  "nFiles": 213} }

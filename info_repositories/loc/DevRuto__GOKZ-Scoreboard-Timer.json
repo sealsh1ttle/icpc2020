@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.32996082305908,
+  "n_files"            : 4,
+  "n_lines"            : 723,
+  "files_per_second"   : 1.20121533331596,
+  "lines_per_second"   : 217.11967149686,
+  "report_file"        : "loc/DevRuto__GOKZ-Scoreboard-Timer.json"},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 62,
+  "comment": 191,
+  "code": 276},
+"SparForte" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 129},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 92,
+  "comment": 191,
+  "code": 440,
+  "nFiles": 4} }

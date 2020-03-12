@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.106631994247437,
+  "n_files"            : 1,
+  "n_lines"            : 3520,
+  "files_per_second"   : 9.37804837148153,
+  "lines_per_second"   : 33010.730267615,
+  "report_file"        : "loc/appear__reactjs-interview-questions-ko.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 849,
+  "comment": 0,
+  "code": 2671},
+"SUM": {
+  "blank": 849,
+  "comment": 0,
+  "code": 2671,
+  "nFiles": 1} }

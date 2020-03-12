@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.33758687973022,
+  "n_files"            : 25,
+  "n_lines"            : 2444,
+  "files_per_second"   : 7.49044171758631,
+  "lines_per_second"   : 732.265582311238,
+  "report_file"        : "loc/Stratoscale__docker-test-tools.json"},
+"Python" :{
+  "nFiles": 17,
+  "blank": 447,
+  "comment": 350,
+  "code": 1255},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 0,
+  "code": 192},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 69},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 2,
+  "code": 46},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 7},
+"SUM": {
+  "blank": 520,
+  "comment": 355,
+  "code": 1569,
+  "nFiles": 25} }

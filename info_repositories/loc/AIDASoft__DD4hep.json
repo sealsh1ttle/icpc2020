@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 494.198786973953,
+  "n_files"            : 1600,
+  "n_lines"            : 265619,
+  "files_per_second"   : 3.23756359216707,
+  "lines_per_second"   : 537.47400236739,
+  "report_file"        : "loc/AIDASoft__DD4hep.json"},
+"C++" :{
+  "nFiles": 653,
+  "blank": 13191,
+  "comment": 20692,
+  "code": 80429},
+"XML" :{
+  "nFiles": 339,
+  "blank": 1928,
+  "comment": 2606,
+  "code": 51198},
+"C/C++ Header" :{
+  "nFiles": 418,
+  "blank": 7596,
+  "comment": 25416,
+  "code": 31147},
+"TeX" :{
+  "nFiles": 20,
+  "blank": 959,
+  "comment": 440,
+  "code": 6408},
+"Python" :{
+  "nFiles": 77,
+  "blank": 1594,
+  "comment": 1770,
+  "code": 5959},
+"CMake" :{
+  "nFiles": 49,
+  "blank": 679,
+  "comment": 1882,
+  "code": 4597},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 570,
+  "comment": 0,
+  "code": 2252},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 266,
+  "comment": 81,
+  "code": 1336},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 113,
+  "comment": 295,
+  "code": 967},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 297},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 120,
+  "comment": 0,
+  "code": 282},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 15,
+  "code": 266},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 22,
+  "code": 55},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 14,
+  "code": 52},
+"C Shell" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 20,
+  "code": 44},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 27065,
+  "comment": 53253,
+  "code": 185301,
+  "nFiles": 1600} }

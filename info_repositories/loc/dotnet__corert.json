@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 52.014496088028,
+  "n_files"            : 3623,
+  "n_lines"            : 840931,
+  "files_per_second"   : 69.6536595080827,
+  "lines_per_second"   : 16167.2430427247,
+  "report_file"        : "loc/dotnet__corert.json"},
+"C#" :{
+  "nFiles": 2828,
+  "blank": 79902,
+  "comment": 99792,
+  "code": 416065},
+"C++" :{
+  "nFiles": 132,
+  "blank": 14909,
+  "comment": 12416,
+  "code": 71984},
+"C/C++ Header" :{
+  "nFiles": 187,
+  "blank": 10148,
+  "comment": 12201,
+  "code": 48217},
+"Assembly" :{
+  "nFiles": 111,
+  "blank": 5355,
+  "comment": 9177,
+  "code": 13740},
+"XML" :{
+  "nFiles": 76,
+  "blank": 720,
+  "comment": 959,
+  "code": 8885},
+"SKILL" :{
+  "nFiles": 37,
+  "blank": 1006,
+  "comment": 0,
+  "code": 6228},
+"MSBuild script" :{
+  "nFiles": 71,
+  "blank": 168,
+  "comment": 45,
+  "code": 5583},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 2,
+  "comment": 0,
+  "code": 5509},
+"Bourne Shell" :{
+  "nFiles": 27,
+  "blank": 426,
+  "comment": 154,
+  "code": 2199},
+"CMake" :{
+  "nFiles": 29,
+  "blank": 348,
+  "comment": 168,
+  "code": 1863},
+"Python" :{
+  "nFiles": 4,
+  "blank": 652,
+  "comment": 703,
+  "code": 1683},
+"DOS Batch" :{
+  "nFiles": 29,
+  "blank": 339,
+  "comment": 17,
+  "code": 1413},
+"Markdown" :{
+  "nFiles": 34,
+  "blank": 644,
+  "comment": 0,
+  "code": 1375},
+"YAML" :{
+  "nFiles": 18,
+  "blank": 196,
+  "comment": 174,
+  "code": 997},
+"C" :{
+  "nFiles": 3,
+  "blank": 175,
+  "comment": 260,
+  "code": 915},
+"Pascal" :{
+  "nFiles": 4,
+  "blank": 284,
+  "comment": 75,
+  "code": 850},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 28,
+  "code": 538},
+"PowerShell" :{
+  "nFiles": 5,
+  "blank": 94,
+  "comment": 158,
+  "code": 459},
+"diff" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 144,
+  "code": 123},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 94,
+  "comment": 54,
+  "code": 117},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 61},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 15,
+  "code": 52},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 11,
+  "code": 11},
+"SUM": {
+  "blank": 115513,
+  "comment": 136551,
+  "code": 588867,
+  "nFiles": 3623} }

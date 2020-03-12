@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.17454981803894,
+  "n_files"            : 8,
+  "n_lines"            : 369,
+  "files_per_second"   : 45.8321875661611,
+  "lines_per_second"   : 2114.00965148918,
+  "report_file"        : "loc/GoogleCloudPlatform__continuous-deployment-demo.json"},
+"Python" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 53,
+  "code": 101},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 0,
+  "code": 75},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 41,
+  "code": 31},
+"SUM": {
+  "blank": 68,
+  "comment": 94,
+  "code": 207,
+  "nFiles": 8} }

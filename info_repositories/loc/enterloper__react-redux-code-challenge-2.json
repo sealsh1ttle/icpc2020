@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.34140801429749,
+  "n_files"            : 29,
+  "n_lines"            : 615,
+  "files_per_second"   : 5.42928005544136,
+  "lines_per_second"   : 115.138180486084,
+  "report_file"        : "loc/enterloper__react-redux-code-challenge-2.json"},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 24,
+  "comment": 15,
+  "code": 202},
+"LESS" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 5,
+  "code": 111},
+"JSX" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 0,
+  "code": 102},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 66},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 42},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 57,
+  "comment": 20,
+  "code": 538,
+  "nFiles": 29} }

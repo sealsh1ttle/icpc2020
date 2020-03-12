@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.287037134170532,
+  "n_files"            : 22,
+  "n_lines"            : 8323,
+  "files_per_second"   : 76.6451353535656,
+  "lines_per_second"   : 28996.2482521694,
+  "report_file"        : "loc/ripio__rcn-oracle.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5479},
+"Solidity" :{
+  "nFiles": 12,
+  "blank": 283,
+  "comment": 368,
+  "code": 988},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 92,
+  "comment": 16,
+  "code": 909},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 37,
+  "code": 144},
+"SUM": {
+  "blank": 382,
+  "comment": 421,
+  "code": 7520,
+  "nFiles": 22} }

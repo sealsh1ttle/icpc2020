@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.3001430034637,
+  "n_files"            : 92,
+  "n_lines"            : 32225,
+  "files_per_second"   : 2.93928369559906,
+  "lines_per_second"   : 1029.54801185521,
+  "report_file"        : "loc/react-pdf__site.json"},
+"JavaScript" :{
+  "nFiles": 55,
+  "blank": 1368,
+  "comment": 205,
+  "code": 28839},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 329,
+  "comment": 0,
+  "code": 898},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 65,
+  "comment": 9,
+  "code": 353},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 86},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 64},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1762,
+  "comment": 214,
+  "code": 30249,
+  "nFiles": 92} }

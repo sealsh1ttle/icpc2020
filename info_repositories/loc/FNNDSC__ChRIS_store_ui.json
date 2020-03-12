@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.5664110183716,
+  "n_files"            : 120,
+  "n_lines"            : 9752,
+  "files_per_second"   : 4.69365840648381,
+  "lines_per_second"   : 381.437973166917,
+  "report_file"        : "loc/FNNDSC__ChRIS_store_ui.json"},
+"JavaScript" :{
+  "nFiles": 77,
+  "blank": 776,
+  "comment": 171,
+  "code": 5675},
+"CSS" :{
+  "nFiles": 31,
+  "blank": 446,
+  "comment": 418,
+  "code": 1370},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 1,
+  "code": 565},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 100},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 0,
+  "code": 88},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 25},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 28,
+  "code": 12},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1277,
+  "comment": 619,
+  "code": 7856,
+  "nFiles": 120} }

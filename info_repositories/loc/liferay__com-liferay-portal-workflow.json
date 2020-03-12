@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.4482460021973,
+  "n_files"            : 826,
+  "n_lines"            : 273780,
+  "files_per_second"   : 36.795747869083,
+  "lines_per_second"   : 12196.0530891011,
+  "report_file"        : "loc/liferay__com-liferay-portal-workflow.json"},
+"Java" :{
+  "nFiles": 707,
+  "blank": 40962,
+  "comment": 68356,
+  "code": 138383},
+"XML" :{
+  "nFiles": 45,
+  "blank": 325,
+  "comment": 118,
+  "code": 20277},
+"JSP" :{
+  "nFiles": 42,
+  "blank": 546,
+  "comment": 630,
+  "code": 2121},
+"SQL" :{
+  "nFiles": 6,
+  "blank": 57,
+  "comment": 0,
+  "code": 592},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 93,
+  "comment": 0,
+  "code": 410},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 57,
+  "comment": 0,
+  "code": 346},
+"Gradle" :{
+  "nFiles": 16,
+  "blank": 24,
+  "comment": 0,
+  "code": 227},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"SUM": {
+  "blank": 42108,
+  "comment": 69128,
+  "code": 162544,
+  "nFiles": 826} }

@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.5224239826202,
+  "n_files"            : 121,
+  "n_lines"            : 45307,
+  "files_per_second"   : 2.5461664170214,
+  "lines_per_second"   : 953.381502942054,
+  "report_file"        : "loc/Kitware__flow.json"},
+"JavaScript" :{
+  "nFiles": 62,
+  "blank": 4088,
+  "comment": 10725,
+  "code": 25642},
+"Python" :{
+  "nFiles": 6,
+  "blank": 474,
+  "comment": 1104,
+  "code": 1202},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 119,
+  "comment": 21,
+  "code": 638},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 324},
+"Pug" :{
+  "nFiles": 8,
+  "blank": 5,
+  "comment": 1,
+  "code": 193},
+"reStructuredText" :{
+  "nFiles": 12,
+  "blank": 74,
+  "comment": 35,
+  "code": 191},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 174},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 87},
+"Stylus" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 63},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 0,
+  "code": 46},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 9,
+  "code": 23},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 7,
+  "code": 10},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 4808,
+  "comment": 11902,
+  "code": 28597,
+  "nFiles": 121} }

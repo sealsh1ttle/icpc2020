@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 193.888479948044,
+  "n_files"            : 487,
+  "n_lines"            : 4252,
+  "files_per_second"   : 2.51175314866825,
+  "lines_per_second"   : 21.9301322138345,
+  "report_file"        : "loc/web-standards-ru__calendar.json"},
+"YAML" :{
+  "nFiles": 476,
+  "blank": 0,
+  "comment": 0,
+  "code": 2244},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1104},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 114,
+  "comment": 0,
+  "code": 367},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 61,
+  "comment": 104,
+  "code": 241},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 178,
+  "comment": 104,
+  "code": 3970,
+  "nFiles": 487} }

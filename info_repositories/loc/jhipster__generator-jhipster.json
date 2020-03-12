@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 437.276669025421,
+  "n_files"            : 2082,
+  "n_lines"            : 195253,
+  "files_per_second"   : 4.76128764116377,
+  "lines_per_second"   : 446.520507108622,
+  "report_file"        : "loc/jhipster__generator-jhipster.json"},
+"EJS" :{
+  "nFiles": 1130,
+  "blank": 10707,
+  "comment": 13941,
+  "code": 86668},
+"JavaScript" :{
+  "nFiles": 145,
+  "blank": 2629,
+  "comment": 3989,
+  "code": 31304},
+"JSON" :{
+  "nFiles": 721,
+  "blank": 2,
+  "comment": 0,
+  "code": 30271},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 4,
+  "code": 10728},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 175,
+  "comment": 188,
+  "code": 976},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 81,
+  "code": 899},
+"YAML" :{
+  "nFiles": 35,
+  "blank": 11,
+  "comment": 97,
+  "code": 840},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 339,
+  "comment": 0,
+  "code": 787},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 2,
+  "code": 221},
+"Mustache" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 101},
+"Java" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 31,
+  "code": 85},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 14,
+  "code": 57},
+"SUM": {
+  "blank": 13969,
+  "comment": 18347,
+  "code": 162937,
+  "nFiles": 2082} }

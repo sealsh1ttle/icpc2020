@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 173.517009019852,
+  "n_files"            : 453,
+  "n_lines"            : 20971,
+  "files_per_second"   : 2.61069506994656,
+  "lines_per_second"   : 120.858468679579,
+  "report_file"        : "loc/exercism__swift.json"},
+"Swift" :{
+  "nFiles": 350,
+  "blank": 2513,
+  "comment": 152,
+  "code": 12346},
+"Markdown" :{
+  "nFiles": 96,
+  "blank": 1729,
+  "comment": 0,
+  "code": 3103},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1017},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 67},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 4254,
+  "comment": 152,
+  "code": 16565,
+  "nFiles": 453} }

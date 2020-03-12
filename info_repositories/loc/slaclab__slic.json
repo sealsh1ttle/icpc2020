@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 50.682156085968,
+  "n_files"            : 146,
+  "n_lines"            : 14449,
+  "files_per_second"   : 2.88069828269247,
+  "lines_per_second"   : 285.090475935778,
+  "report_file"        : "loc/slaclab__slic.json"},
+"C++" :{
+  "nFiles": 59,
+  "blank": 1320,
+  "comment": 807,
+  "code": 4333},
+"C/C++ Header" :{
+  "nFiles": 66,
+  "blank": 1380,
+  "comment": 3180,
+  "code": 2538},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 50,
+  "comment": 0,
+  "code": 302},
+"CMake" :{
+  "nFiles": 12,
+  "blank": 94,
+  "comment": 38,
+  "code": 218},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 0,
+  "code": 121},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 11},
+"SUM": {
+  "blank": 2899,
+  "comment": 4027,
+  "code": 7523,
+  "nFiles": 146} }

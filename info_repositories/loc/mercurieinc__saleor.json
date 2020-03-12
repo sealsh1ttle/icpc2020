@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.6543498039246,
+  "n_files"            : 2507,
+  "n_lines"            : 649036,
+  "files_per_second"   : 94.0559427801488,
+  "lines_per_second"   : 24350.0968800386,
+  "report_file"        : "loc/mercurieinc__saleor.json"},
+"PO File" :{
+  "nFiles": 124,
+  "blank": 70355,
+  "comment": 82772,
+  "code": 235717},
+"TypeScript" :{
+  "nFiles": 1092,
+  "blank": 5585,
+  "comment": 1433,
+  "code": 81211},
+"Python" :{
+  "nFiles": 765,
+  "blank": 14627,
+  "comment": 9161,
+  "code": 68637},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 43942},
+"HTML" :{
+  "nFiles": 199,
+  "blank": 880,
+  "comment": 41,
+  "code": 14258},
+"Sass" :{
+  "nFiles": 59,
+  "blank": 261,
+  "comment": 18,
+  "code": 4729},
+"YAML" :{
+  "nFiles": 47,
+  "blank": 26,
+  "comment": 7,
+  "code": 3355},
+"GraphQL" :{
+  "nFiles": 1,
+  "blank": 404,
+  "comment": 0,
+  "code": 2851},
+"JavaScript" :{
+  "nFiles": 43,
+  "blank": 195,
+  "comment": 81,
+  "code": 1845},
+"reStructuredText" :{
+  "nFiles": 64,
+  "blank": 1194,
+  "comment": 694,
+  "code": 1486},
+"SVG" :{
+  "nFiles": 70,
+  "blank": 7,
+  "comment": 17,
+  "code": 1359},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 127,
+  "comment": 0,
+  "code": 530},
+"XML" :{
+  "nFiles": 15,
+  "blank": 6,
+  "comment": 0,
+  "code": 483},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"Handlebars" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 0,
+  "code": 69},
+"INI" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 60},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 8,
+  "code": 50},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 2,
+  "code": 21},
+"SUM": {
+  "blank": 93782,
+  "comment": 94242,
+  "code": 461012,
+  "nFiles": 2507} }

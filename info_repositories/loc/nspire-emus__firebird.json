@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.4718909263611,
+  "n_files"            : 149,
+  "n_lines"            : 31268,
+  "files_per_second"   : 3.20623923472587,
+  "lines_per_second"   : 672.836834841667,
+  "report_file"        : "loc/nspire-emus__firebird.json"},
+"C++" :{
+  "nFiles": 27,
+  "blank": 1483,
+  "comment": 615,
+  "code": 8034},
+"C" :{
+  "nFiles": 23,
+  "blank": 874,
+  "comment": 451,
+  "code": 7618},
+"Qt Linguist" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2917},
+"QML" :{
+  "nFiles": 33,
+  "blank": 479,
+  "comment": 50,
+  "code": 2548},
+"C/C++ Header" :{
+  "nFiles": 42,
+  "blank": 493,
+  "comment": 191,
+  "code": 1825},
+"Assembly" :{
+  "nFiles": 5,
+  "blank": 169,
+  "comment": 155,
+  "code": 1279},
+"Qt" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1038},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 22,
+  "code": 239},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 179},
+"XML" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 23,
+  "code": 130},
+"make" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 0,
+  "code": 83},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 52},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 51},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 50},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 12,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"Qt Project" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3643,
+  "comment": 1519,
+  "code": 26106,
+  "nFiles": 149} }

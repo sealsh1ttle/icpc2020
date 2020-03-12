@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.9216718673706,
+  "n_files"            : 2032,
+  "n_lines"            : 230712,
+  "files_per_second"   : 101.999471406222,
+  "lines_per_second"   : 11580.9557318269,
+  "report_file"        : "loc/learningequality__kolibri.json"},
+"Vuejs Component" :{
+  "nFiles": 409,
+  "blank": 6406,
+  "comment": 1606,
+  "code": 44865},
+"Python" :{
+  "nFiles": 429,
+  "blank": 8865,
+  "comment": 6769,
+  "code": 40709},
+"JavaScript" :{
+  "nFiles": 514,
+  "blank": 3217,
+  "comment": 3789,
+  "code": 39909},
+"JSON" :{
+  "nFiles": 381,
+  "blank": 0,
+  "comment": 0,
+  "code": 32104},
+"CSS" :{
+  "nFiles": 41,
+  "blank": 557,
+  "comment": 311,
+  "code": 27241},
+"Cucumber" :{
+  "nFiles": 120,
+  "blank": 638,
+  "comment": 78,
+  "code": 4347},
+"reStructuredText" :{
+  "nFiles": 42,
+  "blank": 1216,
+  "comment": 645,
+  "code": 1728},
+"PO File" :{
+  "nFiles": 20,
+  "blank": 356,
+  "comment": 356,
+  "code": 932},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 321,
+  "comment": 0,
+  "code": 789},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 41,
+  "comment": 0,
+  "code": 576},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 72,
+  "comment": 12,
+  "code": 512},
+"make" :{
+  "nFiles": 2,
+  "blank": 79,
+  "comment": 22,
+  "code": 386},
+"SVG" :{
+  "nFiles": 13,
+  "blank": 10,
+  "comment": 1,
+  "code": 363},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 88,
+  "comment": 98,
+  "code": 274},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 10,
+  "code": 182},
+"INI" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 178},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 4},
+"SUM": {
+  "blank": 21914,
+  "comment": 13699,
+  "code": 195099,
+  "nFiles": 2032} }

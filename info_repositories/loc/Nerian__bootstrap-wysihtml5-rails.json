@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.1104707717896,
+  "n_files"            : 86,
+  "n_lines"            : 17276,
+  "files_per_second"   : 4.50015078262495,
+  "lines_per_second"   : 904.007033960798,
+  "report_file"        : "loc/Nerian__bootstrap-wysihtml5-rails.json"},
+"JavaScript" :{
+  "nFiles": 41,
+  "blank": 1855,
+  "comment": 2062,
+  "code": 12376},
+"Ruby" :{
+  "nFiles": 32,
+  "blank": 109,
+  "comment": 205,
+  "code": 239},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 0,
+  "code": 109},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 3,
+  "code": 94},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 71},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 10,
+  "code": 17},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 16},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 2050,
+  "comment": 2286,
+  "code": 12940,
+  "nFiles": 86} }

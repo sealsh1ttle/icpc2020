@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 226.461848974228,
+  "n_files"            : 845,
+  "n_lines"            : 92286,
+  "files_per_second"   : 3.73131281859385,
+  "lines_per_second"   : 407.512348848227,
+  "report_file"        : "loc/naver__ngrinder.json"},
+"Java" :{
+  "nFiles": 537,
+  "blank": 6413,
+  "comment": 16257,
+  "code": 29832},
+"JavaScript" :{
+  "nFiles": 88,
+  "blank": 1323,
+  "comment": 1443,
+  "code": 13388},
+"Vuejs Component" :{
+  "nFiles": 60,
+  "blank": 1018,
+  "comment": 31,
+  "code": 8237},
+"Freemarker Template" :{
+  "nFiles": 46,
+  "blank": 515,
+  "comment": 251,
+  "code": 6319},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 550,
+  "comment": 287,
+  "code": 2408},
+"XML" :{
+  "nFiles": 36,
+  "blank": 133,
+  "comment": 3,
+  "code": 858},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 197,
+  "comment": 0,
+  "code": 761},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 20,
+  "comment": 0,
+  "code": 446},
+"Gradle" :{
+  "nFiles": 7,
+  "blank": 52,
+  "comment": 2,
+  "code": 269},
+"Groovy" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 11,
+  "code": 217},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 168},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 120},
+"DOS Batch" :{
+  "nFiles": 6,
+  "blank": 28,
+  "comment": 3,
+  "code": 101},
+"Python" :{
+  "nFiles": 6,
+  "blank": 23,
+  "comment": 37,
+  "code": 88},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 19,
+  "code": 78},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 1,
+  "code": 74},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 50},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 9,
+  "code": 19},
+"SUM": {
+  "blank": 10358,
+  "comment": 18374,
+  "code": 63554,
+  "nFiles": 845} }

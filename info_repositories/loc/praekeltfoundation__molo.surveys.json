@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.1128451824188,
+  "n_files"            : 92,
+  "n_lines"            : 11283,
+  "files_per_second"   : 4.81351672772546,
+  "lines_per_second"   : 590.33596998833,
+  "report_file"        : "loc/praekeltfoundation__molo.surveys.json"},
+"Python" :{
+  "nFiles": 65,
+  "blank": 1477,
+  "comment": 546,
+  "code": 6950},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 76,
+  "comment": 8,
+  "code": 592},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 64,
+  "comment": 13,
+  "code": 526},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 125,
+  "comment": 13,
+  "code": 358},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 42},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 15},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 1,
+  "code": 3},
+"SUM": {
+  "blank": 1818,
+  "comment": 589,
+  "code": 8876,
+  "nFiles": 92} }

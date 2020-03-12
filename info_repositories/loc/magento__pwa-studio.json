@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 300.349889993668,
+  "n_files"            : 1060,
+  "n_lines"            : 71656,
+  "files_per_second"   : 3.52921720737886,
+  "lines_per_second"   : 238.575083218811,
+  "report_file"        : "loc/magento__pwa-studio.json"},
+"JavaScript" :{
+  "nFiles": 689,
+  "blank": 5786,
+  "comment": 3295,
+  "code": 35548},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 1,
+  "comment": 0,
+  "code": 9695},
+"Markdown" :{
+  "nFiles": 162,
+  "blank": 2997,
+  "comment": 0,
+  "code": 8555},
+"CSS" :{
+  "nFiles": 107,
+  "blank": 376,
+  "comment": 34,
+  "code": 2731},
+"YAML" :{
+  "nFiles": 33,
+  "blank": 152,
+  "comment": 64,
+  "code": 809},
+"GraphQL" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 5,
+  "code": 347},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 62,
+  "comment": 16,
+  "code": 294},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 93,
+  "comment": 10,
+  "code": 277},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 39,
+  "comment": 21,
+  "code": 171},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 58,
+  "code": 169},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 9553,
+  "comment": 3503,
+  "code": 58600,
+  "nFiles": 1060} }

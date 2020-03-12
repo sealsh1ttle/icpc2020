@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 77.8075911998749,
+  "n_files"            : 260,
+  "n_lines"            : 35559,
+  "files_per_second"   : 3.34157626512435,
+  "lines_per_second"   : 457.011963121372,
+  "report_file"        : "loc/erishforG__flask.json"},
+"reStructuredText" :{
+  "nFiles": 144,
+  "blank": 5670,
+  "comment": 2747,
+  "code": 13090},
+"Python" :{
+  "nFiles": 73,
+  "blank": 2167,
+  "comment": 3160,
+  "code": 7239},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 8,
+  "comment": 1,
+  "code": 348},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 288},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 1,
+  "code": 204},
+"make" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 5,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 1,
+  "code": 119},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 13,
+  "code": 96},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 48},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 7,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 30},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 25},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 7958,
+  "comment": 5937,
+  "code": 21664,
+  "nFiles": 260} }

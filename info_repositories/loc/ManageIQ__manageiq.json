@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 769.482113838196,
+  "n_files"            : 2650,
+  "n_lines"            : 743947,
+  "files_per_second"   : 3.44387472085834,
+  "lines_per_second"   : 966.815195078641,
+  "report_file"        : "loc/ManageIQ__manageiq.json"},
+"PO File" :{
+  "nFiles": 6,
+  "blank": 96990,
+  "comment": 168454,
+  "code": 210291},
+"Ruby" :{
+  "nFiles": 2173,
+  "blank": 34582,
+  "comment": 7898,
+  "code": 173100},
+"YAML" :{
+  "nFiles": 428,
+  "blank": 1099,
+  "comment": 1525,
+  "code": 43821},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 508,
+  "comment": 0,
+  "code": 4290},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 90,
+  "comment": 10,
+  "code": 581},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 15,
+  "code": 120},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 56,
+  "comment": 44,
+  "code": 118},
+"XML" :{
+  "nFiles": 5,
+  "blank": 4,
+  "comment": 0,
+  "code": 116},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 72},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 7,
+  "code": 52},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 133369,
+  "comment": 177956,
+  "code": 432622,
+  "nFiles": 2650} }

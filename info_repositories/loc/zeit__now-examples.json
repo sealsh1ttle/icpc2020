@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 223.160722970963,
+  "n_files"            : 606,
+  "n_lines"            : 313232,
+  "files_per_second"   : 2.71553162192817,
+  "lines_per_second"   : 1403.616173267,
+  "report_file"        : "loc/zeit__now-examples.json"},
+"JSON" :{
+  "nFiles": 116,
+  "blank": 5,
+  "comment": 0,
+  "code": 295531},
+"JavaScript" :{
+  "nFiles": 140,
+  "blank": 1077,
+  "comment": 956,
+  "code": 5332},
+"Markdown" :{
+  "nFiles": 121,
+  "blank": 995,
+  "comment": 0,
+  "code": 1998},
+"CSS" :{
+  "nFiles": 33,
+  "blank": 167,
+  "comment": 52,
+  "code": 1932},
+"HTML" :{
+  "nFiles": 51,
+  "blank": 106,
+  "comment": 99,
+  "code": 1107},
+"Stylus" :{
+  "nFiles": 15,
+  "blank": 114,
+  "comment": 68,
+  "code": 993},
+"SVG" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 0,
+  "code": 452},
+"YAML" :{
+  "nFiles": 20,
+  "blank": 32,
+  "comment": 61,
+  "code": 376},
+"EJS" :{
+  "nFiles": 29,
+  "blank": 8,
+  "comment": 5,
+  "code": 367},
+"Vuejs Component" :{
+  "nFiles": 8,
+  "blank": 39,
+  "comment": 19,
+  "code": 331},
+"TypeScript" :{
+  "nFiles": 17,
+  "blank": 40,
+  "comment": 73,
+  "code": 188},
+"TOML" :{
+  "nFiles": 12,
+  "blank": 49,
+  "comment": 9,
+  "code": 145},
+"Python" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 32,
+  "code": 103},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 78},
+"make" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 65},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 36},
+"Handlebars" :{
+  "nFiles": 7,
+  "blank": 4,
+  "comment": 2,
+  "code": 34},
+"Go" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 30,
+  "code": 6},
+"SUM": {
+  "blank": 2720,
+  "comment": 1406,
+  "code": 309106,
+  "nFiles": 606} }

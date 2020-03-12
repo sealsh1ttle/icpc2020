@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 191.776354074478,
+  "n_files"            : 732,
+  "n_lines"            : 48881,
+  "files_per_second"   : 3.8169460647673,
+  "lines_per_second"   : 254.885437967063,
+  "report_file"        : "loc/it-projects-llc__misc-addons.json"},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 1252,
+  "comment": 1435,
+  "code": 9126},
+"Python" :{
+  "nFiles": 237,
+  "blank": 1513,
+  "comment": 1963,
+  "code": 7162},
+"PO File" :{
+  "nFiles": 159,
+  "blank": 1878,
+  "comment": 5540,
+  "code": 6333},
+"XML" :{
+  "nFiles": 124,
+  "blank": 337,
+  "comment": 354,
+  "code": 4884},
+"HTML" :{
+  "nFiles": 33,
+  "blank": 188,
+  "comment": 263,
+  "code": 2625},
+"reStructuredText" :{
+  "nFiles": 121,
+  "blank": 1062,
+  "comment": 42,
+  "code": 2201},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 29,
+  "comment": 4,
+  "code": 292},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 193},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 6,
+  "code": 49},
+"diff" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 29,
+  "code": 29},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 6313,
+  "comment": 9636,
+  "code": 32932,
+  "nFiles": 732} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.5227129459381,
+  "n_files"            : 63,
+  "n_lines"            : 20492,
+  "files_per_second"   : 2.28901853257521,
+  "lines_per_second"   : 744.548694754464,
+  "report_file"        : "loc/apicollective__apibuilder-validation.json"},
+"Scala" :{
+  "nFiles": 49,
+  "blank": 2530,
+  "comment": 2022,
+  "code": 15708},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 19,
+  "comment": 0,
+  "code": 122},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 50},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 14},
+"Go" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 2565,
+  "comment": 2023,
+  "code": 15904,
+  "nFiles": 63} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.847751140594482,
+  "n_files"            : 8,
+  "n_lines"            : 215,
+  "files_per_second"   : 9.43673162667765,
+  "lines_per_second"   : 253.612162466962,
+  "report_file"        : "loc/joeblethephilgray__svelte-playground.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 4,
+  "code": 57},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 50},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 19},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 30,
+  "comment": 4,
+  "code": 181,
+  "nFiles": 8} }

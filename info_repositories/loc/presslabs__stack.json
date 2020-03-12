@@ -1,0 +1,169 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 100.464475154877,
+  "n_files"            : 6731,
+  "n_lines"            : 2601584,
+  "files_per_second"   : 66.9988071865547,
+  "lines_per_second"   : 25895.5615503827,
+  "report_file"        : "loc/presslabs__stack.json"},
+"Go" :{
+  "nFiles": 5290,
+  "blank": 142825,
+  "comment": 223961,
+  "code": 1866673},
+"JSON" :{
+  "nFiles": 273,
+  "blank": 111,
+  "comment": 0,
+  "code": 142886},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 328,
+  "comment": 9327,
+  "code": 54297},
+"Markdown" :{
+  "nFiles": 264,
+  "blank": 5929,
+  "comment": 0,
+  "code": 18916},
+"Swift" :{
+  "nFiles": 24,
+  "blank": 2874,
+  "comment": 2493,
+  "code": 18049},
+"YAML" :{
+  "nFiles": 181,
+  "blank": 301,
+  "comment": 190,
+  "code": 18020},
+"Protocol Buffers" :{
+  "nFiles": 275,
+  "blank": 6099,
+  "comment": 16720,
+  "code": 17321},
+"Assembly" :{
+  "nFiles": 76,
+  "blank": 1265,
+  "comment": 1406,
+  "code": 11546},
+"Java" :{
+  "nFiles": 2,
+  "blank": 499,
+  "comment": 1374,
+  "code": 6285},
+"XML" :{
+  "nFiles": 18,
+  "blank": 231,
+  "comment": 20,
+  "code": 6097},
+"HTML" :{
+  "nFiles": 31,
+  "blank": 517,
+  "comment": 87,
+  "code": 3328},
+"C++" :{
+  "nFiles": 1,
+  "blank": 411,
+  "comment": 220,
+  "code": 2749},
+"Bourne Shell" :{
+  "nFiles": 64,
+  "blank": 461,
+  "comment": 865,
+  "code": 2079},
+"make" :{
+  "nFiles": 130,
+  "blank": 431,
+  "comment": 1742,
+  "code": 1736},
+"m4" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 1658},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 205,
+  "comment": 22,
+  "code": 1640},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 259,
+  "comment": 222,
+  "code": 1608},
+"HCL" :{
+  "nFiles": 11,
+  "blank": 152,
+  "comment": 12,
+  "code": 775},
+"Python" :{
+  "nFiles": 6,
+  "blank": 56,
+  "comment": 34,
+  "code": 571},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 61,
+  "code": 438},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 66,
+  "comment": 78,
+  "code": 426},
+"C" :{
+  "nFiles": 9,
+  "blank": 103,
+  "comment": 99,
+  "code": 403},
+"TOML" :{
+  "nFiles": 16,
+  "blank": 82,
+  "comment": 151,
+  "code": 310},
+"Dockerfile" :{
+  "nFiles": 10,
+  "blank": 65,
+  "comment": 85,
+  "code": 280},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 46,
+  "code": 216},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 20,
+  "code": 155},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 122},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 2,
+  "code": 115},
+"awk" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 37,
+  "code": 64},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 163509,
+  "comment": 259293,
+  "code": 2178782,
+  "nFiles": 6731} }

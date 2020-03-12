@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.66491317749023,
+  "n_files"            : 9,
+  "n_lines"            : 424,
+  "files_per_second"   : 5.40568728849093,
+  "lines_per_second"   : 254.667934480017,
+  "report_file"        : "loc/elasticio__hello-world-java.json"},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 60},
+"Java" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 10,
+  "code": 49},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 27},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 66,
+  "comment": 33,
+  "code": 325,
+  "nFiles": 9} }

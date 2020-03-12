@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.0179688930511,
+  "n_files"            : 62,
+  "n_lines"            : 19655,
+  "files_per_second"   : 4.12838782937469,
+  "lines_per_second"   : 1308.76552881225,
+  "report_file"        : "loc/feedhenry__mobile-security.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 1,
+  "code": 12184},
+"AsciiDoc" :{
+  "nFiles": 25,
+  "blank": 1227,
+  "comment": 21,
+  "code": 3363},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 7,
+  "comment": 0,
+  "code": 1525},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 404},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 161,
+  "comment": 0,
+  "code": 269},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 51,
+  "comment": 3,
+  "code": 263},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 8,
+  "code": 65},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 26},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 8},
+"SUM": {
+  "blank": 1505,
+  "comment": 43,
+  "code": 18107,
+  "nFiles": 62} }

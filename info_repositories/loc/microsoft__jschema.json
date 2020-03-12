@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.6292281150818,
+  "n_files"            : 173,
+  "n_lines"            : 234083,
+  "files_per_second"   : 3.96523173739572,
+  "lines_per_second"   : 5365.27942650175,
+  "report_file"        : "loc/microsoft__jschema.json"},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 1,
+  "comment": 0,
+  "code": 207406},
+"C#" :{
+  "nFiles": 119,
+  "blank": 3002,
+  "comment": 3738,
+  "code": 17533},
+"XML" :{
+  "nFiles": 10,
+  "blank": 81,
+  "comment": 291,
+  "code": 832},
+"MSBuild script" :{
+  "nFiles": 12,
+  "blank": 81,
+  "comment": 0,
+  "code": 293},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 113,
+  "comment": 0,
+  "code": 249},
+"PowerShell" :{
+  "nFiles": 4,
+  "blank": 59,
+  "comment": 46,
+  "code": 206},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 0,
+  "code": 94},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 3378,
+  "comment": 4075,
+  "code": 226630,
+  "nFiles": 173} }

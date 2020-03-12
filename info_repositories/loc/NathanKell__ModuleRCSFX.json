@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.190565824508667,
+  "n_files"            : 3,
+  "n_lines"            : 456,
+  "files_per_second"   : 15.7425918720466,
+  "lines_per_second"   : 2392.87396455108,
+  "report_file"        : "loc/NathanKell__ModuleRCSFX.json"},
+"C#" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 54,
+  "code": 279},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 56},
+"SUM": {
+  "blank": 60,
+  "comment": 61,
+  "code": 335,
+  "nFiles": 3} }

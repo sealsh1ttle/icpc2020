@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.01573991775513,
+  "n_files"            : 154,
+  "n_lines"            : 14627,
+  "files_per_second"   : 151.613614182214,
+  "lines_per_second"   : 14400.3398353458,
+  "report_file"        : "loc/unoplatform__Uno.SourceGeneration.json"},
+"C#" :{
+  "nFiles": 116,
+  "blank": 1621,
+  "comment": 2429,
+  "code": 7979},
+"MSBuild script" :{
+  "nFiles": 10,
+  "blank": 42,
+  "comment": 34,
+  "code": 764},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 206,
+  "comment": 0,
+  "code": 575},
+"XML" :{
+  "nFiles": 10,
+  "blank": 89,
+  "comment": 92,
+  "code": 347},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 48,
+  "code": 173},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 125},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"XAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"F#" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2028,
+  "comment": 2603,
+  "code": 9996,
+  "nFiles": 154} }

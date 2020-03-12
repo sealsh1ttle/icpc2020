@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.7158851623535,
+  "n_files"            : 52,
+  "n_lines"            : 3814,
+  "files_per_second"   : 2.6374671779531,
+  "lines_per_second"   : 193.44807339833,
+  "report_file"        : "loc/studieresan__apodidae.json"},
+"Swift" :{
+  "nFiles": 31,
+  "blank": 522,
+  "comment": 331,
+  "code": 1856},
+"XML" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 5,
+  "code": 719},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 343},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 13},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 535,
+  "comment": 336,
+  "code": 2943,
+  "nFiles": 52} }

@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 109.672144889832,
+  "n_files"            : 512,
+  "n_lines"            : 496483,
+  "files_per_second"   : 4.66845980366589,
+  "lines_per_second"   : 4526.97447012393,
+  "report_file"        : "loc/math-comp__math-comp.json"},
+"HTML" :{
+  "nFiles": 382,
+  "blank": 24133,
+  "comment": 11,
+  "code": 303930},
+"Coq" :{
+  "nFiles": 89,
+  "blank": 19653,
+  "comment": 6715,
+  "code": 83615},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 8860,
+  "comment": 11383,
+  "code": 34361},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 299,
+  "comment": 102,
+  "code": 1199},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 178,
+  "comment": 0,
+  "code": 662},
+"OCaml" :{
+  "nFiles": 2,
+  "blank": 69,
+  "comment": 58,
+  "code": 486},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 108,
+  "code": 231},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 31,
+  "code": 91},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 9,
+  "code": 72},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 39},
+"make" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 9,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 32},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 53300,
+  "comment": 18429,
+  "code": 424754,
+  "nFiles": 512} }

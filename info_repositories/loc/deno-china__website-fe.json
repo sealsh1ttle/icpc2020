@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.9120619297028,
+  "n_files"            : 70,
+  "n_lines"            : 3030,
+  "files_per_second"   : 5.42128750474568,
+  "lines_per_second"   : 234.664301991135,
+  "report_file"        : "loc/deno-china__website-fe.json"},
+"TypeScript" :{
+  "nFiles": 40,
+  "blank": 155,
+  "comment": 26,
+  "code": 1522},
+"LESS" :{
+  "nFiles": 21,
+  "blank": 58,
+  "comment": 2,
+  "code": 884},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 92},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 92},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 70},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 50},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 46},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 242,
+  "comment": 28,
+  "code": 2760,
+  "nFiles": 70} }

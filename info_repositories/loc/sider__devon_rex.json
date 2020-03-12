@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.53510403633118,
+  "n_files"            : 27,
+  "n_lines"            : 868,
+  "files_per_second"   : 3.58322856191727,
+  "lines_per_second"   : 115.194162657192,
+  "report_file"        : "loc/sider__devon_rex.json"},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 63,
+  "comment": 54,
+  "code": 184},
+"ERB" :{
+  "nFiles": 11,
+  "blank": 39,
+  "comment": 0,
+  "code": 125},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 12,
+  "code": 99},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 78},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 5,
+  "code": 77},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 61},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 2},
+"SUM": {
+  "blank": 168,
+  "comment": 74,
+  "code": 626,
+  "nFiles": 27} }

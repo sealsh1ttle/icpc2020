@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 40.2401850223541,
+  "n_files"            : 146,
+  "n_lines"            : 15866,
+  "files_per_second"   : 3.62821393387964,
+  "lines_per_second"   : 394.282481335167,
+  "report_file"        : "loc/spinnaker__rosco.json"},
+"Groovy" :{
+  "nFiles": 61,
+  "blank": 1529,
+  "comment": 1059,
+  "code": 8086},
+"Java" :{
+  "nFiles": 40,
+  "blank": 389,
+  "comment": 466,
+  "code": 1729},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 28,
+  "comment": 0,
+  "code": 761},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 106,
+  "code": 537},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 63,
+  "comment": 55,
+  "code": 328},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 23,
+  "code": 168},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 0,
+  "code": 144},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 25,
+  "comment": 0,
+  "code": 78},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"XML" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 64},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 23},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2160,
+  "comment": 1711,
+  "code": 11995,
+  "nFiles": 146} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.80008912086487,
+  "n_files"            : 128,
+  "n_lines"            : 158489,
+  "files_per_second"   : 33.683420553797,
+  "lines_per_second"   : 41706.6534386776,
+  "report_file"        : "loc/greenfield-apollo__Aro.json"},
+"JavaScript" :{
+  "nFiles": 38,
+  "blank": 15253,
+  "comment": 55643,
+  "code": 65452},
+"Sass" :{
+  "nFiles": 43,
+  "blank": 1134,
+  "comment": 303,
+  "code": 8239},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 1250,
+  "comment": 389,
+  "code": 6182},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 2227},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 395,
+  "comment": 0,
+  "code": 1201},
+"JSON" :{
+  "nFiles": 20,
+  "blank": 0,
+  "comment": 0,
+  "code": 518},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 18,
+  "code": 94},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 71},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 25,
+  "code": 51},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 18064,
+  "comment": 56381,
+  "code": 84044,
+  "nFiles": 128} }

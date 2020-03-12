@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.4794418811798,
+  "n_files"            : 44,
+  "n_lines"            : 3326,
+  "files_per_second"   : 3.26423010595368,
+  "lines_per_second"   : 246.746121190953,
+  "report_file"        : "loc/OpenGeoscience__girder_geospatial.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 1388},
+"Python" :{
+  "nFiles": 24,
+  "blank": 191,
+  "comment": 19,
+  "code": 1123},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 44,
+  "comment": 3,
+  "code": 321},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 82},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 79},
+"INI" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 28},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 268,
+  "comment": 25,
+  "code": 3033,
+  "nFiles": 44} }

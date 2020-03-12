@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.3970730304718,
+  "n_files"            : 15,
+  "n_lines"            : 7834,
+  "files_per_second"   : 6.25763162378396,
+  "lines_per_second"   : 3268.15240938157,
+  "report_file"        : "loc/buttercup__buttercup-generator.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 7262},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 36,
+  "comment": 0,
+  "code": 428},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 0,
+  "code": 71},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 67,
+  "comment": 0,
+  "code": 7767,
+  "nFiles": 15} }

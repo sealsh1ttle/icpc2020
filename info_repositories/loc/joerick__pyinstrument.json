@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.23814702033997,
+  "n_files"            : 52,
+  "n_lines"            : 20308,
+  "files_per_second"   : 7.18415912993677,
+  "lines_per_second"   : 2805.690454053,
+  "report_file"        : "loc/joerick__pyinstrument.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 15499},
+"Python" :{
+  "nFiles": 33,
+  "blank": 722,
+  "comment": 369,
+  "code": 2619},
+"Vuejs Component" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 5,
+  "code": 391},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 136,
+  "comment": 0,
+  "code": 349},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 21,
+  "comment": 3,
+  "code": 126},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 1,
+  "code": 25},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 905,
+  "comment": 378,
+  "code": 19025,
+  "nFiles": 52} }

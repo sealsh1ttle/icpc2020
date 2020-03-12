@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.1557769775391,
+  "n_files"            : 28,
+  "n_lines"            : 4114,
+  "files_per_second"   : 2.7570514852705,
+  "lines_per_second"   : 405.089636085815,
+  "report_file"        : "loc/OpenGeoscience__minerva-docker.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 226,
+  "comment": 513,
+  "code": 2125},
+"Python" :{
+  "nFiles": 9,
+  "blank": 138,
+  "comment": 58,
+  "code": 442},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 61,
+  "comment": 11,
+  "code": 399},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 30},
+"Pug" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Stylus" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 455,
+  "comment": 582,
+  "code": 3077,
+  "nFiles": 28} }

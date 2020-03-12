@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 68.5004358291626,
+  "n_files"            : 310,
+  "n_lines"            : 57029,
+  "files_per_second"   : 4.52551865178096,
+  "lines_per_second"   : 832.534849007794,
+  "report_file"        : "loc/jleyba__js-dossier.json"},
+"Java" :{
+  "nFiles": 139,
+  "blank": 4819,
+  "comment": 8099,
+  "code": 21177},
+"JSON" :{
+  "nFiles": 37,
+  "blank": 0,
+  "comment": 0,
+  "code": 9879},
+"JavaScript" :{
+  "nFiles": 59,
+  "blank": 1470,
+  "comment": 4950,
+  "code": 2635},
+"LESS" :{
+  "nFiles": 9,
+  "blank": 286,
+  "comment": 126,
+  "code": 1129},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 258,
+  "comment": 0,
+  "code": 769},
+"XML" :{
+  "nFiles": 45,
+  "blank": 3,
+  "comment": 0,
+  "code": 611},
+"Protocol Buffers" :{
+  "nFiles": 3,
+  "blank": 104,
+  "comment": 114,
+  "code": 235},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 5,
+  "code": 164},
+"Starlark" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 5,
+  "code": 68},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 36,
+  "code": 28},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 6998,
+  "comment": 13335,
+  "code": 36696,
+  "nFiles": 310} }

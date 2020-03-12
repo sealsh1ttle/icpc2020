@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.85792899131775,
+  "n_files"            : 12,
+  "n_lines"            : 3368,
+  "files_per_second"   : 6.45880443013536,
+  "lines_per_second"   : 1812.77111005799,
+  "report_file"        : "loc/KarlJorgensen__virgin-media-hub3.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 464,
+  "comment": 668,
+  "code": 1732},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 11,
+  "code": 207},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 0,
+  "code": 109},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 4,
+  "code": 35},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 24,
+  "code": 31},
+"SUM": {
+  "blank": 547,
+  "comment": 707,
+  "code": 2114,
+  "nFiles": 12} }

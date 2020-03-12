@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.18150615692139,
+  "n_files"            : 5,
+  "n_lines"            : 565,
+  "files_per_second"   : 4.23188653796637,
+  "lines_per_second"   : 478.2031787902,
+  "report_file"        : "loc/sushant10__HQ_Bot.json"},
+"Python" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 46,
+  "code": 203},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 164},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 0,
+  "code": 79},
+"SUM": {
+  "blank": 73,
+  "comment": 46,
+  "code": 446,
+  "nFiles": 5} }

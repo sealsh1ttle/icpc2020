@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 321.739378929138,
+  "n_files"            : 1599,
+  "n_lines"            : 275748,
+  "files_per_second"   : 4.96986102640601,
+  "lines_per_second"   : 857.053932651285,
+  "report_file"        : "loc/chainer__chainer.json"},
+"Python" :{
+  "nFiles": 1079,
+  "blank": 38636,
+  "comment": 33053,
+  "code": 133330},
+"C++" :{
+  "nFiles": 164,
+  "blank": 5365,
+  "comment": 1387,
+  "code": 29076},
+"C/C++ Header" :{
+  "nFiles": 149,
+  "blank": 2307,
+  "comment": 1022,
+  "code": 6785},
+"reStructuredText" :{
+  "nFiles": 88,
+  "blank": 3939,
+  "comment": 4520,
+  "code": 5599},
+"CUDA" :{
+  "nFiles": 24,
+  "blank": 729,
+  "comment": 121,
+  "code": 3906},
+"CMake" :{
+  "nFiles": 19,
+  "blank": 170,
+  "comment": 158,
+  "code": 1507},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 318,
+  "comment": 249,
+  "code": 1113},
+"Markdown" :{
+  "nFiles": 38,
+  "blank": 364,
+  "comment": 0,
+  "code": 905},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 2,
+  "code": 322},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 5,
+  "code": 193},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 25,
+  "comment": 29,
+  "code": 162},
+"make" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 6,
+  "code": 159},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 1,
+  "code": 69},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 8,
+  "code": 58},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 51991,
+  "comment": 40561,
+  "code": 183196,
+  "nFiles": 1599} }

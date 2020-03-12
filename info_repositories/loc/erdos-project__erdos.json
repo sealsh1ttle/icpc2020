@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.1433699131012,
+  "n_files"            : 130,
+  "n_lines"            : 10588,
+  "files_per_second"   : 7.58310651050306,
+  "lines_per_second"   : 617.614859486203,
+  "report_file"        : "loc/erdos-project__erdos.json"},
+"Python" :{
+  "nFiles": 111,
+  "blank": 1596,
+  "comment": 1246,
+  "code": 6556},
+"XML" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 74,
+  "code": 476},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 81,
+  "comment": 83,
+  "code": 117},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 17,
+  "code": 68},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 12,
+  "code": 67},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 43},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 11},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 9},
+"SUM": {
+  "blank": 1775,
+  "comment": 1440,
+  "code": 7373,
+  "nFiles": 130} }

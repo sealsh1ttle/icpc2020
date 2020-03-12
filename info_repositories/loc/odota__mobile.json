@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3673.38634300232,
+  "n_files"            : 12722,
+  "n_lines"            : 2489788,
+  "files_per_second"   : 3.46328940440338,
+  "lines_per_second"   : 677.790944789394,
+  "report_file"        : "loc/odota__mobile.json"},
+"C/C++ Header" :{
+  "nFiles": 12318,
+  "blank": 334579,
+  "comment": 349731,
+  "code": 1694261},
+"C++" :{
+  "nFiles": 216,
+  "blank": 9562,
+  "comment": 8305,
+  "code": 46645},
+"JSON" :{
+  "nFiles": 38,
+  "blank": 42,
+  "comment": 0,
+  "code": 30838},
+"JavaScript" :{
+  "nFiles": 93,
+  "blank": 918,
+  "comment": 64,
+  "code": 11872},
+"XML" :{
+  "nFiles": 13,
+  "blank": 56,
+  "comment": 2,
+  "code": 541},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 141,
+  "comment": 0,
+  "code": 495},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 7,
+  "code": 264},
+"m4" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 259},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 31,
+  "code": 144},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 84,
+  "code": 125},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 33,
+  "comment": 27,
+  "code": 73},
+"Objective C" :{
+  "nFiles": 8,
+  "blank": 11,
+  "comment": 16,
+  "code": 66},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 61,
+  "code": 63},
+"Java" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 4,
+  "code": 51},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 23,
+  "code": 30},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 15},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 5},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"INI" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 16,
+  "code": 4},
+"SUM": {
+  "blank": 345494,
+  "comment": 358399,
+  "code": 1785895,
+  "nFiles": 12722} }

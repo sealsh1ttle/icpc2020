@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.2787778377533,
+  "n_files"            : 36,
+  "n_lines"            : 7051,
+  "files_per_second"   : 3.87982131154428,
+  "lines_per_second"   : 759.906112991631,
+  "report_file"        : "loc/IBM-Swift__HeliumLogger.json"},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 264,
+  "comment": 0,
+  "code": 2567},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 9,
+  "code": 1762},
+"Swift" :{
+  "nFiles": 10,
+  "blank": 216,
+  "comment": 342,
+  "code": 939},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 59,
+  "code": 458},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 67,
+  "comment": 0,
+  "code": 158},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 73},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 625,
+  "comment": 415,
+  "code": 6011,
+  "nFiles": 36} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.62169599533081,
+  "n_files"            : 146,
+  "n_lines"            : 64847,
+  "files_per_second"   : 55.6891417845636,
+  "lines_per_second"   : 24734.7518993397,
+  "report_file"        : "loc/coala__landing-frontend.json"},
+"JavaScript" :{
+  "nFiles": 90,
+  "blank": 6252,
+  "comment": 21402,
+  "code": 25433},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 1350,
+  "comment": 444,
+  "code": 7585},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 69,
+  "comment": 4,
+  "code": 989},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 175,
+  "comment": 0,
+  "code": 881},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 216},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 27},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 9},
+"SUM": {
+  "blank": 7854,
+  "comment": 21853,
+  "code": 35140,
+  "nFiles": 146} }

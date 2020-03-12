@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.12449502944946,
+  "n_files"            : 21,
+  "n_lines"            : 5053,
+  "files_per_second"   : 5.09153238155389,
+  "lines_per_second"   : 1225.11967257104,
+  "report_file"        : "loc/boazsegev__combine_pdf.json"},
+"Ruby" :{
+  "nFiles": 19,
+  "blank": 340,
+  "comment": 1577,
+  "code": 2380},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 347,
+  "comment": 0,
+  "code": 409},
+"SUM": {
+  "blank": 687,
+  "comment": 1577,
+  "code": 2789,
+  "nFiles": 21} }

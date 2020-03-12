@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.43896198272705,
+  "n_files"            : 29,
+  "n_lines"            : 2412,
+  "files_per_second"   : 4.50383153026753,
+  "lines_per_second"   : 374.594539689837,
+  "report_file"        : "loc/drapanjanas__re-natal.json"},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 181,
+  "comment": 5,
+  "code": 845},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 180,
+  "comment": 0,
+  "code": 354},
+"ClojureScript" :{
+  "nFiles": 21,
+  "blank": 90,
+  "comment": 19,
+  "code": 351},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 18,
+  "code": 229},
+"Clojure" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 2,
+  "code": 53},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 487,
+  "comment": 44,
+  "code": 1881,
+  "nFiles": 29} }

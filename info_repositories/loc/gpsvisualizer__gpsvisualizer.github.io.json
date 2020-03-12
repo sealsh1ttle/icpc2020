@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.41338610649109,
+  "n_files"            : 15,
+  "n_lines"            : 9967,
+  "files_per_second"   : 4.3944633077035,
+  "lines_per_second"   : 2919.97438585872,
+  "report_file"        : "loc/gpsvisualizer__gpsvisualizer.github.io.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 377,
+  "comment": 312,
+  "code": 6776},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 245,
+  "comment": 80,
+  "code": 1539},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 7,
+  "code": 576},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 675,
+  "comment": 399,
+  "code": 8893,
+  "nFiles": 15} }

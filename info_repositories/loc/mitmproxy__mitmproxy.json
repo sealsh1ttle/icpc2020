@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.70044183731079,
+  "n_files"            : 771,
+  "n_lines"            : 93636,
+  "files_per_second"   : 115.067038670011,
+  "lines_per_second"   : 13974.6008208886,
+  "report_file"        : "loc/mitmproxy__mitmproxy.json"},
+"Python" :{
+  "nFiles": 460,
+  "blank": 10114,
+  "comment": 5480,
+  "code": 44681},
+"CSS" :{
+  "nFiles": 30,
+  "blank": 471,
+  "comment": 110,
+  "code": 9548},
+"JavaScript" :{
+  "nFiles": 89,
+  "blank": 1004,
+  "comment": 181,
+  "code": 7021},
+"XML" :{
+  "nFiles": 10,
+  "blank": 37,
+  "comment": 17,
+  "code": 3649},
+"JSX" :{
+  "nFiles": 50,
+  "blank": 403,
+  "comment": 32,
+  "code": 2805},
+"Markdown" :{
+  "nFiles": 38,
+  "blank": 722,
+  "comment": 0,
+  "code": 2084},
+"Sass" :{
+  "nFiles": 18,
+  "blank": 56,
+  "comment": 35,
+  "code": 1915},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 934},
+"LESS" :{
+  "nFiles": 17,
+  "blank": 110,
+  "comment": 25,
+  "code": 676},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 23,
+  "comment": 1,
+  "code": 442},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 157},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 15,
+  "comment": 7,
+  "code": 157},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 23,
+  "comment": 17,
+  "code": 84},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 83},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 69,
+  "comment": 61,
+  "code": 69},
+"C" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 7,
+  "code": 68},
+"INI" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 65},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 4,
+  "code": 38},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 2,
+  "code": 32},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 14},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 13105,
+  "comment": 5979,
+  "code": 74552,
+  "nFiles": 771} }

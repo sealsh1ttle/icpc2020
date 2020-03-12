@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 192.120042085648,
+  "n_files"            : 606,
+  "n_lines"            : 257691,
+  "files_per_second"   : 3.15427788491658,
+  "lines_per_second"   : 1341.30201723108,
+  "report_file"        : "loc/OpenGeoscience__fsqio.json"},
+"RobotFramework" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 155419},
+"Scala" :{
+  "nFiles": 379,
+  "blank": 9048,
+  "comment": 4792,
+  "code": 46938},
+"JavaScript" :{
+  "nFiles": 24,
+  "blank": 1605,
+  "comment": 2711,
+  "code": 10495},
+"Python" :{
+  "nFiles": 59,
+  "blank": 1184,
+  "comment": 905,
+  "code": 5791},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 989,
+  "comment": 41,
+  "code": 5482},
+"Java" :{
+  "nFiles": 19,
+  "blank": 697,
+  "comment": 428,
+  "code": 3827},
+"Thrift" :{
+  "nFiles": 51,
+  "blank": 414,
+  "comment": 208,
+  "code": 1958},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 451,
+  "comment": 0,
+  "code": 1188},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 97,
+  "comment": 15,
+  "code": 737},
+"INI" :{
+  "nFiles": 2,
+  "blank": 101,
+  "comment": 0,
+  "code": 445},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 155,
+  "comment": 17,
+  "code": 381},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 60,
+  "comment": 15,
+  "code": 262},
+"Mustache" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 8,
+  "code": 161},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 8,
+  "code": 100},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 88},
+"XML" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 27,
+  "code": 78},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 8,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 14918,
+  "comment": 9189,
+  "code": 233584,
+  "nFiles": 606} }

@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 58.3217418193817,
+  "n_files"            : 217,
+  "n_lines"            : 14547,
+  "files_per_second"   : 3.72073935432233,
+  "lines_per_second"   : 249.426706854041,
+  "report_file"        : "loc/honeypotio__staticpages.json"},
+"Sass" :{
+  "nFiles": 65,
+  "blank": 761,
+  "comment": 776,
+  "code": 4107},
+"Handlebars" :{
+  "nFiles": 38,
+  "blank": 83,
+  "comment": 7,
+  "code": 3705},
+"SVG" :{
+  "nFiles": 41,
+  "blank": 1,
+  "comment": 40,
+  "code": 1963},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 237,
+  "comment": 0,
+  "code": 918},
+"JavaScript" :{
+  "nFiles": 38,
+  "blank": 70,
+  "comment": 15,
+  "code": 679},
+"JSX" :{
+  "nFiles": 9,
+  "blank": 38,
+  "comment": 1,
+  "code": 483},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 3,
+  "code": 298},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 1,
+  "comment": 0,
+  "code": 167},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 69},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 34},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 33},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 4,
+  "code": 3},
+"SUM": {
+  "blank": 1222,
+  "comment": 848,
+  "code": 12477,
+  "nFiles": 217} }

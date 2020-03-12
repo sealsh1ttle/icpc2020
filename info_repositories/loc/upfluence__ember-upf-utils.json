@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.06773114204407,
+  "n_files"            : 365,
+  "n_lines"            : 9347,
+  "files_per_second"   : 176.521982272404,
+  "lines_per_second"   : 4520.41361178125,
+  "report_file"        : "loc/upfluence__ember-upf-utils.json"},
+"JavaScript" :{
+  "nFiles": 268,
+  "blank": 1079,
+  "comment": 302,
+  "code": 5131},
+"LESS" :{
+  "nFiles": 35,
+  "blank": 249,
+  "comment": 21,
+  "code": 1203},
+"Handlebars" :{
+  "nFiles": 51,
+  "blank": 67,
+  "comment": 0,
+  "code": 904},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 7,
+  "code": 112},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 92},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 0,
+  "code": 70},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 1456,
+  "comment": 330,
+  "code": 7561,
+  "nFiles": 365} }

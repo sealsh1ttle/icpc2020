@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.4075601100922,
+  "n_files"            : 170,
+  "n_lines"            : 23388,
+  "files_per_second"   : 2.81421728820328,
+  "lines_per_second"   : 387.170081979401,
+  "report_file"        : "loc/algolia__algoliasearch-magento.json"},
+"PHP" :{
+  "nFiles": 128,
+  "blank": 2593,
+  "comment": 2422,
+  "code": 10163},
+"XML" :{
+  "nFiles": 8,
+  "blank": 34,
+  "comment": 15,
+  "code": 2031},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 278,
+  "comment": 137,
+  "code": 1195},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 220,
+  "comment": 22,
+  "code": 1059},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 182,
+  "comment": 0,
+  "code": 592},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 43,
+  "comment": 14,
+  "code": 362},
+"INI" :{
+  "nFiles": 1,
+  "blank": 350,
+  "comment": 1417,
+  "code": 174},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 22},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 1,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 6},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3713,
+  "comment": 4030,
+  "code": 15645,
+  "nFiles": 170} }

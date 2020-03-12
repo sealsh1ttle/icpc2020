@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.3147959709167,
+  "n_files"            : 40,
+  "n_lines"            : 2479,
+  "files_per_second"   : 2.31016294198251,
+  "lines_per_second"   : 143.172348329366,
+  "report_file"        : "loc/openservicebrokerapi__osb-checker.json"},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 130,
+  "comment": 27,
+  "code": 1351},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 1,
+  "comment": 0,
+  "code": 640},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 44,
+  "comment": 0,
+  "code": 197},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 25},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 8,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 201,
+  "comment": 35,
+  "code": 2243,
+  "nFiles": 40} }

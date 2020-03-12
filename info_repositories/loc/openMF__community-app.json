@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.55372309684753,
+  "n_files"            : 802,
+  "n_lines"            : 177258,
+  "files_per_second"   : 106.17280905289,
+  "lines_per_second"   : 23466.3089614679,
+  "report_file"        : "loc/openMF__community-app.json"},
+"JSON" :{
+  "nFiles": 35,
+  "blank": 33,
+  "comment": 0,
+  "code": 62912},
+"HTML" :{
+  "nFiles": 325,
+  "blank": 2220,
+  "comment": 399,
+  "code": 46793},
+"JavaScript" :{
+  "nFiles": 408,
+  "blank": 3956,
+  "comment": 1642,
+  "code": 41051},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 1610,
+  "comment": 2331,
+  "code": 9836},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 607,
+  "comment": 301,
+  "code": 2242},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 506},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 244,
+  "comment": 0,
+  "code": 423},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 33},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 7,
+  "code": 24},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 5,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 3,
+  "code": 16},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 8692,
+  "comment": 4690,
+  "code": 163876,
+  "nFiles": 802} }

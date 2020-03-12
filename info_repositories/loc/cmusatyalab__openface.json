@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.8222558498383,
+  "n_files"            : 162,
+  "n_lines"            : 38329,
+  "files_per_second"   : 3.45989310125389,
+  "lines_per_second"   : 818.606436283706,
+  "report_file"        : "loc/cmusatyalab__openface.json"},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 23,
+  "comment": 66,
+  "code": 9401},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 2305,
+  "comment": 1933,
+  "code": 9132},
+"Lua" :{
+  "nFiles": 32,
+  "blank": 581,
+  "comment": 756,
+  "code": 3282},
+"Python" :{
+  "nFiles": 34,
+  "blank": 815,
+  "comment": 757,
+  "code": 3128},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 35,
+  "comment": 39,
+  "code": 1466},
+"Sass" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 24,
+  "code": 1352},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 274,
+  "comment": 0,
+  "code": 1108},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 853},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 65,
+  "comment": 19,
+  "code": 249},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 32,
+  "code": 189},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 13,
+  "code": 57},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 30},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 19,
+  "code": 22},
+"SUM": {
+  "blank": 4195,
+  "comment": 3665,
+  "code": 30469,
+  "nFiles": 162} }

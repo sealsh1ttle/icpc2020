@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.95565986633301,
+  "n_files"            : 26,
+  "n_lines"            : 8070,
+  "files_per_second"   : 5.24652633580338,
+  "lines_per_second"   : 1628.44105884359,
+  "report_file"        : "loc/invenia__ODBC.jl.json"},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 721,
+  "comment": 1112,
+  "code": 3054},
+"Julia" :{
+  "nFiles": 10,
+  "blank": 261,
+  "comment": 478,
+  "code": 2030},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 100,
+  "comment": 0,
+  "code": 127},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 4,
+  "code": 88},
+"INI" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 1107,
+  "comment": 1594,
+  "code": 5369,
+  "nFiles": 26} }

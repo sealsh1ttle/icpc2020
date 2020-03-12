@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.4993109703064,
+  "n_files"            : 25,
+  "n_lines"            : 12418,
+  "files_per_second"   : 4.54602406283039,
+  "lines_per_second"   : 2258.10107248911,
+  "report_file"        : "loc/ironhack-labs__lab-angular-ironcontacts.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 11862},
+"TypeScript" :{
+  "nFiles": 12,
+  "blank": 54,
+  "comment": 30,
+  "code": 293},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 5,
+  "code": 67},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 42},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 34},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 84,
+  "comment": 36,
+  "code": 12298,
+  "nFiles": 25} }

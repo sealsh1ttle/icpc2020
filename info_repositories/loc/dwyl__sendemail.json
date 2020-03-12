@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.109565019607544,
+  "n_files"            : 11,
+  "n_lines"            : 872,
+  "files_per_second"   : 100.397006630414,
+  "lines_per_second"   : 7958.74452561098,
+  "report_file"        : "loc/dwyl__sendemail.json"},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 54,
+  "comment": 54,
+  "code": 310},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 98,
+  "comment": 0,
+  "code": 266},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 156,
+  "comment": 54,
+  "code": 662,
+  "nFiles": 11} }

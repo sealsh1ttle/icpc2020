@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 42.2728810310364,
+  "n_files"            : 226,
+  "n_lines"            : 28606,
+  "files_per_second"   : 5.34621711337992,
+  "lines_per_second"   : 676.69861391746,
+  "report_file"        : "loc/sky-uk__cassandra-operator.json"},
+"Go" :{
+  "nFiles": 127,
+  "blank": 2744,
+  "comment": 1750,
+  "code": 14712},
+"YAML" :{
+  "nFiles": 18,
+  "blank": 428,
+  "comment": 2958,
+  "code": 1639},
+"Java" :{
+  "nFiles": 25,
+  "blank": 300,
+  "comment": 1,
+  "code": 1201},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 267,
+  "comment": 0,
+  "code": 730},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 142,
+  "comment": 75,
+  "code": 723},
+"make" :{
+  "nFiles": 6,
+  "blank": 125,
+  "comment": 2,
+  "code": 462},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 28,
+  "comment": 8,
+  "code": 105},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 43},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 4,
+  "code": 28},
+"XML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 21},
+"SUM": {
+  "blank": 4080,
+  "comment": 4803,
+  "code": 19723,
+  "nFiles": 226} }

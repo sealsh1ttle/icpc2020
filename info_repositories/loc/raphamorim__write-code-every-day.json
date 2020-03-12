@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.54810500144958,
+  "n_files"            : 17,
+  "n_lines"            : 3653,
+  "files_per_second"   : 4.79128999650648,
+  "lines_per_second"   : 1029.56366807283,
+  "report_file"        : "loc/raphamorim__write-code-every-day.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 456,
+  "comment": 4,
+  "code": 1969},
+"Stylus" :{
+  "nFiles": 3,
+  "blank": 135,
+  "comment": 198,
+  "code": 389},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 30,
+  "comment": 7,
+  "code": 291},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 4,
+  "code": 75},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 646,
+  "comment": 214,
+  "code": 2793,
+  "nFiles": 17} }

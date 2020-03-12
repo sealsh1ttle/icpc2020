@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.4482009410858,
+  "n_files"            : 16,
+  "n_lines"            : 6256,
+  "files_per_second"   : 0.427256840059459,
+  "lines_per_second"   : 167.057424463249,
+  "report_file"        : "loc/feedhenry-templates__appforms-datasources-mongodb.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3238},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2280},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 60,
+  "comment": 127,
+  "code": 271},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 48,
+  "comment": 0,
+  "code": 136},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 60},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 113,
+  "comment": 127,
+  "code": 6016,
+  "nFiles": 16} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.0347170829773,
+  "n_files"            : 166,
+  "n_lines"            : 32775,
+  "files_per_second"   : 4.87737270138867,
+  "lines_per_second"   : 962.987290891648,
+  "report_file"        : "loc/ska-sa__katgui.json"},
+"JavaScript" :{
+  "nFiles": 77,
+  "blank": 1984,
+  "comment": 438,
+  "code": 16724},
+"HTML" :{
+  "nFiles": 55,
+  "blank": 209,
+  "comment": 14,
+  "code": 4957},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 4,
+  "comment": 3,
+  "code": 4303},
+"LESS" :{
+  "nFiles": 21,
+  "blank": 583,
+  "comment": 93,
+  "code": 3303},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 89},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 29},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 6,
+  "code": 12},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 5,
+  "code": 3},
+"SUM": {
+  "blank": 2796,
+  "comment": 559,
+  "code": 29420,
+  "nFiles": 166} }

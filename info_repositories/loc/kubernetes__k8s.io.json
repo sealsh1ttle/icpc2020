@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.6455149650574,
+  "n_files"            : 76,
+  "n_lines"            : 7248,
+  "files_per_second"   : 4.56579445932078,
+  "lines_per_second"   : 435.432608436276,
+  "report_file"        : "loc/kubernetes__k8s.io.json"},
+"YAML" :{
+  "nFiles": 36,
+  "blank": 84,
+  "comment": 152,
+  "code": 3173},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 198,
+  "comment": 303,
+  "code": 896},
+"Python" :{
+  "nFiles": 2,
+  "blank": 99,
+  "comment": 75,
+  "code": 510},
+"Go" :{
+  "nFiles": 2,
+  "blank": 68,
+  "comment": 38,
+  "code": 462},
+"HCL" :{
+  "nFiles": 7,
+  "blank": 97,
+  "comment": 129,
+  "code": 389},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 116,
+  "comment": 0,
+  "code": 348},
+"make" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 26,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 21,
+  "code": 9},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 677,
+  "comment": 744,
+  "code": 5827,
+  "nFiles": 76} }

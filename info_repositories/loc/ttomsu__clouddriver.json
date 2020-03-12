@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1437.99176812172,
+  "n_files"            : 3253,
+  "n_lines"            : 326502,
+  "files_per_second"   : 2.26218263005011,
+  "lines_per_second"   : 227.05415096115,
+  "report_file"        : "loc/ttomsu__clouddriver.json"},
+"Groovy" :{
+  "nFiles": 1811,
+  "blank": 27225,
+  "comment": 31166,
+  "code": 138902},
+"Java" :{
+  "nFiles": 1236,
+  "blank": 14412,
+  "comment": 21250,
+  "code": 74833},
+"Kotlin" :{
+  "nFiles": 97,
+  "blank": 1110,
+  "comment": 2057,
+  "code": 6601},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 1,
+  "comment": 0,
+  "code": 4320},
+"Gradle" :{
+  "nFiles": 41,
+  "blank": 183,
+  "comment": 150,
+  "code": 1175},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 261,
+  "comment": 0,
+  "code": 1053},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 59,
+  "comment": 66,
+  "code": 957},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 36,
+  "comment": 42,
+  "code": 191},
+"Protocol Buffers" :{
+  "nFiles": 6,
+  "blank": 32,
+  "comment": 21,
+  "code": 154},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"XML" :{
+  "nFiles": 8,
+  "blank": 7,
+  "comment": 33,
+  "code": 66},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 26},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 43360,
+  "comment": 54787,
+  "code": 228355,
+  "nFiles": 3253} }

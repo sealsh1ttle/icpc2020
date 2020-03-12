@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.3869190216064,
+  "n_files"            : 79,
+  "n_lines"            : 22934,
+  "files_per_second"   : 4.82091843474891,
+  "lines_per_second"   : 1399.5309288928,
+  "report_file"        : "loc/mcrowe__amazon-product-api.json"},
+"JSON" :{
+  "nFiles": 59,
+  "blank": 0,
+  "comment": 0,
+  "code": 21798},
+"TypeScript" :{
+  "nFiles": 13,
+  "blank": 149,
+  "comment": 6,
+  "code": 483},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 6,
+  "code": 382},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 54},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 187,
+  "comment": 12,
+  "code": 22735,
+  "nFiles": 79} }

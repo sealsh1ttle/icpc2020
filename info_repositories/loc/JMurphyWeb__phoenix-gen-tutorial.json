@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0861749649047852,
+  "n_files"            : 1,
+  "n_lines"            : 186,
+  "files_per_second"   : 11.6042983145384,
+  "lines_per_second"   : 2158.39948650413,
+  "report_file"        : "loc/JMurphyWeb__phoenix-gen-tutorial.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 0,
+  "code": 145},
+"SUM": {
+  "blank": 41,
+  "comment": 0,
+  "code": 145,
+  "nFiles": 1} }

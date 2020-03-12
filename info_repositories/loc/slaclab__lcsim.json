@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 501.747453927994,
+  "n_files"            : 1566,
+  "n_lines"            : 302126,
+  "files_per_second"   : 3.12109207080249,
+  "lines_per_second"   : 602.147549797748,
+  "report_file"        : "loc/slaclab__lcsim.json"},
+"Java" :{
+  "nFiles": 1420,
+  "blank": 31498,
+  "comment": 53739,
+  "code": 128552},
+"INI" :{
+  "nFiles": 3,
+  "blank": 1891,
+  "comment": 0,
+  "code": 49380},
+"XML" :{
+  "nFiles": 81,
+  "blank": 838,
+  "comment": 3002,
+  "code": 27969},
+"XSD" :{
+  "nFiles": 20,
+  "blank": 228,
+  "comment": 192,
+  "code": 3055},
+"Maven" :{
+  "nFiles": 24,
+  "blank": 114,
+  "comment": 29,
+  "code": 1368},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 10,
+  "comment": 0,
+  "code": 151},
+"Python" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 18,
+  "code": 31},
+"Velocity Template Language" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 6,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 34596,
+  "comment": 56986,
+  "code": 210544,
+  "nFiles": 1566} }

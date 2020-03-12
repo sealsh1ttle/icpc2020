@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 81.3780078887939,
+  "n_files"            : 397,
+  "n_lines"            : 10475,
+  "files_per_second"   : 4.8784679091987,
+  "lines_per_second"   : 128.720280475709,
+  "report_file"        : "loc/WomenWhoCodeNYC__Algorithms.json"},
+"Markdown" :{
+  "nFiles": 190,
+  "blank": 853,
+  "comment": 0,
+  "code": 2407},
+"JavaScript" :{
+  "nFiles": 58,
+  "blank": 277,
+  "comment": 209,
+  "code": 1226},
+"Ruby" :{
+  "nFiles": 46,
+  "blank": 287,
+  "comment": 223,
+  "code": 950},
+"Python" :{
+  "nFiles": 49,
+  "blank": 277,
+  "comment": 270,
+  "code": 814},
+"Java" :{
+  "nFiles": 27,
+  "blank": 186,
+  "comment": 118,
+  "code": 752},
+"C++" :{
+  "nFiles": 11,
+  "blank": 93,
+  "comment": 99,
+  "code": 580},
+"Objective C" :{
+  "nFiles": 13,
+  "blank": 137,
+  "comment": 137,
+  "code": 319},
+"Scala" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 12,
+  "code": 74},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 23,
+  "code": 42},
+"Swift" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 19,
+  "code": 33},
+"SUM": {
+  "blank": 2168,
+  "comment": 1110,
+  "code": 7197,
+  "nFiles": 397} }

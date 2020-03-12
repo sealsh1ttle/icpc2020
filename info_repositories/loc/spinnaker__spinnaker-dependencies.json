@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.56053304672241,
+  "n_files"            : 9,
+  "n_lines"            : 762,
+  "files_per_second"   : 5.76726011596019,
+  "lines_per_second"   : 488.294689817962,
+  "report_file"        : "loc/spinnaker__spinnaker-dependencies.json"},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 7,
+  "code": 315},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 24,
+  "code": 164},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 3,
+  "code": 100},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 78,
+  "comment": 36,
+  "code": 648,
+  "nFiles": 9} }

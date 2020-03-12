@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 110.538078069687,
+  "n_files"            : 205,
+  "n_lines"            : 77269,
+  "files_per_second"   : 1.85456454083417,
+  "lines_per_second"   : 699.026085393732,
+  "report_file"        : "loc/OpenGeoscience__nex.json"},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 5808,
+  "comment": 11448,
+  "code": 25575},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 64,
+  "comment": 39,
+  "code": 7819},
+"Python" :{
+  "nFiles": 30,
+  "blank": 1375,
+  "comment": 1869,
+  "code": 3373},
+"YAML" :{
+  "nFiles": 72,
+  "blank": 440,
+  "comment": 215,
+  "code": 2593},
+"Jupyter Notebook" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 12493,
+  "code": 900},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 100,
+  "comment": 175,
+  "code": 435},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 98,
+  "comment": 41,
+  "code": 390},
+"Java" :{
+  "nFiles": 6,
+  "blank": 99,
+  "comment": 83,
+  "code": 376},
+"Scala" :{
+  "nFiles": 13,
+  "blank": 139,
+  "comment": 60,
+  "code": 349},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 93,
+  "comment": 0,
+  "code": 194},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 27,
+  "code": 168},
+"INI" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 124},
+"Pug" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 3,
+  "code": 71},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 5,
+  "code": 68},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 47},
+"XML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 26},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 6,
+  "code": 17},
+"Stylus" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 8277,
+  "comment": 26464,
+  "code": 42528,
+  "nFiles": 205} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.0540769100189,
+  "n_files"            : 95,
+  "n_lines"            : 2122,
+  "files_per_second"   : 3.64626236147589,
+  "lines_per_second"   : 81.4459866426509,
+  "report_file"        : "loc/airtidy__railstest.json"},
+"Ruby" :{
+  "nFiles": 60,
+  "blank": 250,
+  "comment": 580,
+  "code": 506},
+"ERB" :{
+  "nFiles": 18,
+  "blank": 68,
+  "comment": 0,
+  "code": 228},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 40,
+  "code": 88},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 42},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 18},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 25,
+  "code": 4},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 6,
+  "code": 0},
+"SUM": {
+  "blank": 382,
+  "comment": 672,
+  "code": 1068,
+  "nFiles": 95} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.615863084793091,
+  "n_files"            : 3,
+  "n_lines"            : 282,
+  "files_per_second"   : 4.87121256993005,
+  "lines_per_second"   : 457.893981573425,
+  "report_file"        : "loc/cyang__alexa-macros.json"},
+"Python" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 48,
+  "code": 99},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 96},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 37,
+  "comment": 48,
+  "code": 197,
+  "nFiles": 3} }

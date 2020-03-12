@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.318796873092651,
+  "n_files"            : 40,
+  "n_lines"            : 7483,
+  "files_per_second"   : 125.471745102013,
+  "lines_per_second"   : 23472.6267149591,
+  "report_file"        : "loc/HDI-Project__SDV.json"},
+"Python" :{
+  "nFiles": 19,
+  "blank": 1173,
+  "comment": 961,
+  "code": 3203},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 117,
+  "comment": 0,
+  "code": 374},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 188,
+  "comment": 185,
+  "code": 285},
+"make" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 12,
+  "code": 149},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 121},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 457,
+  "code": 113},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 23},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 17},
+"SUM": {
+  "blank": 1552,
+  "comment": 1619,
+  "code": 4312,
+  "nFiles": 40} }

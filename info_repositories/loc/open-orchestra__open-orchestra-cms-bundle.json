@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.3039090633392,
+  "n_files"            : 1164,
+  "n_lines"            : 86994,
+  "files_per_second"   : 112.966835483967,
+  "lines_per_second"   : 8442.81519423731,
+  "report_file"        : "loc/open-orchestra__open-orchestra-cms-bundle.json"},
+"PHP" :{
+  "nFiles": 681,
+  "blank": 7168,
+  "comment": 15008,
+  "code": 34368},
+"JavaScript" :{
+  "nFiles": 263,
+  "blank": 1658,
+  "comment": 4914,
+  "code": 10813},
+"YAML" :{
+  "nFiles": 95,
+  "blank": 197,
+  "comment": 4,
+  "code": 4456},
+"LESS" :{
+  "nFiles": 5,
+  "blank": 268,
+  "comment": 175,
+  "code": 2736},
+"HTML" :{
+  "nFiles": 95,
+  "blank": 23,
+  "comment": 6,
+  "code": 2011},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 1795},
+"Twig" :{
+  "nFiles": 8,
+  "blank": 75,
+  "comment": 3,
+  "code": 1004},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 6,
+  "comment": 0,
+  "code": 178},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 78},
+"XML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 9407,
+  "comment": 20111,
+  "code": 57476,
+  "nFiles": 1164} }

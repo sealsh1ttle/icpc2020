@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 314.731014966965,
+  "n_files"            : 1082,
+  "n_lines"            : 113921,
+  "files_per_second"   : 3.43785629170856,
+  "lines_per_second"   : 361.963056014538,
+  "report_file"        : "loc/Stratio__sparta.json"},
+"Scala" :{
+  "nFiles": 366,
+  "blank": 4580,
+  "comment": 6090,
+  "code": 21265},
+"JavaScript" :{
+  "nFiles": 182,
+  "blank": 4056,
+  "comment": 4993,
+  "code": 19298},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 16196},
+"JSON" :{
+  "nFiles": 86,
+  "blank": 13,
+  "comment": 0,
+  "code": 11430},
+"Sass" :{
+  "nFiles": 189,
+  "blank": 1240,
+  "comment": 74,
+  "code": 6899},
+"Cucumber" :{
+  "nFiles": 52,
+  "blank": 657,
+  "comment": 832,
+  "code": 4446},
+"HTML" :{
+  "nFiles": 94,
+  "blank": 192,
+  "comment": 111,
+  "code": 3485},
+"Maven" :{
+  "nFiles": 12,
+  "blank": 93,
+  "comment": 97,
+  "code": 2197},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 3,
+  "code": 1343},
+"Java" :{
+  "nFiles": 60,
+  "blank": 378,
+  "comment": 921,
+  "code": 1060},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 129,
+  "comment": 0,
+  "code": 438},
+"XML" :{
+  "nFiles": 11,
+  "blank": 88,
+  "comment": 153,
+  "code": 405},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 51,
+  "comment": 133,
+  "code": 197},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 53,
+  "comment": 137,
+  "code": 179},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 11530,
+  "comment": 13544,
+  "code": 88847,
+  "nFiles": 1082} }

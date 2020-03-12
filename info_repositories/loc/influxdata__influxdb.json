@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 530.380602121353,
+  "n_files"            : 2651,
+  "n_lines"            : 487984,
+  "files_per_second"   : 4.99829742904783,
+  "lines_per_second"   : 920.063814642202,
+  "report_file"        : "loc/influxdata__influxdb.json"},
+"Go" :{
+  "nFiles": 1247,
+  "blank": 39884,
+  "comment": 23852,
+  "code": 282032},
+"TypeScript" :{
+  "nFiles": 987,
+  "blank": 13400,
+  "comment": 4121,
+  "code": 84415},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 33,
+  "comment": 27,
+  "code": 11081},
+"JSON" :{
+  "nFiles": 168,
+  "blank": 0,
+  "comment": 0,
+  "code": 9406},
+"Sass" :{
+  "nFiles": 138,
+  "blank": 1233,
+  "comment": 67,
+  "code": 8802},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 4,
+  "comment": 13,
+  "code": 2859},
+"Markdown" :{
+  "nFiles": 37,
+  "blank": 995,
+  "comment": 0,
+  "code": 2560},
+"Python" :{
+  "nFiles": 1,
+  "blank": 84,
+  "comment": 127,
+  "code": 843},
+"Protocol Buffers" :{
+  "nFiles": 5,
+  "blank": 110,
+  "comment": 62,
+  "code": 502},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 73,
+  "comment": 92,
+  "code": 405},
+"make" :{
+  "nFiles": 13,
+  "blank": 151,
+  "comment": 115,
+  "code": 329},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 3,
+  "code": 115},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 19,
+  "code": 89},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 20},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 55993,
+  "comment": 28498,
+  "code": 403493,
+  "nFiles": 2651} }

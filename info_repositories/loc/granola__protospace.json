@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.8981170654297,
+  "n_files"            : 113,
+  "n_lines"            : 12727,
+  "files_per_second"   : 4.05045257122479,
+  "lines_per_second"   : 456.195662601575,
+  "report_file"        : "loc/granola__protospace.json"},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 14,
+  "code": 7366},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 588,
+  "comment": 210,
+  "code": 1619},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 104,
+  "comment": 1,
+  "code": 554},
+"Ruby" :{
+  "nFiles": 62,
+  "blank": 198,
+  "comment": 523,
+  "code": 512},
+"Haml" :{
+  "nFiles": 22,
+  "blank": 9,
+  "comment": 2,
+  "code": 451},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"ERB" :{
+  "nFiles": 11,
+  "blank": 30,
+  "comment": 0,
+  "code": 93},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 12,
+  "comment": 72,
+  "code": 86},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 34},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 972,
+  "comment": 827,
+  "code": 10928,
+  "nFiles": 113} }

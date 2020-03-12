@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.498291969299316,
+  "n_files"            : 88,
+  "n_lines"            : 21167,
+  "files_per_second"   : 176.603287674379,
+  "lines_per_second"   : 42479.1112523134,
+  "report_file"        : "loc/Edouard360__Halite-Python-RL.json"},
+"C/C++ Header" :{
+  "nFiles": 28,
+  "blank": 2747,
+  "comment": 5829,
+  "code": 8025},
+"Python" :{
+  "nFiles": 29,
+  "blank": 329,
+  "comment": 198,
+  "code": 1120},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 106,
+  "comment": 88,
+  "code": 956},
+"C++" :{
+  "nFiles": 3,
+  "blank": 169,
+  "comment": 92,
+  "code": 842},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 131,
+  "comment": 0,
+  "code": 254},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 81},
+"make" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 1,
+  "code": 67},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 3,
+  "code": 37},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 1,
+  "code": 18},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3525,
+  "comment": 6212,
+  "code": 11430,
+  "nFiles": 88} }

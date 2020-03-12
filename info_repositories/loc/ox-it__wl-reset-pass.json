@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.2062668800354,
+  "n_files"            : 61,
+  "n_lines"            : 7452,
+  "files_per_second"   : 3.54521991465673,
+  "lines_per_second"   : 433.098013180688,
+  "report_file"        : "loc/ox-it__wl-reset-pass.json"},
+"Java" :{
+  "nFiles": 25,
+  "blank": 684,
+  "comment": 763,
+  "code": 2795},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 145,
+  "comment": 28,
+  "code": 816},
+"XML" :{
+  "nFiles": 17,
+  "blank": 143,
+  "comment": 73,
+  "code": 642},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 46,
+  "comment": 69,
+  "code": 489},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 25,
+  "comment": 0,
+  "code": 433},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 23,
+  "code": 247},
+"SUM": {
+  "blank": 1074,
+  "comment": 956,
+  "code": 5422,
+  "nFiles": 61} }

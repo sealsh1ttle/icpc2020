@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.26532816886902,
+  "n_files"            : 23,
+  "n_lines"            : 7980,
+  "files_per_second"   : 4.36819876413142,
+  "lines_per_second"   : 1515.57504946821,
+  "report_file"        : "loc/mateodelnorte__loop.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 7337},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 50,
+  "comment": 1,
+  "code": 315},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 71,
+  "comment": 0,
+  "code": 161},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 6,
+  "code": 35},
+"SUM": {
+  "blank": 125,
+  "comment": 7,
+  "code": 7848,
+  "nFiles": 23} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 83.2266738414764,
+  "n_files"            : 384,
+  "n_lines"            : 94429,
+  "files_per_second"   : 4.61390540166741,
+  "lines_per_second"   : 1134.60019055743,
+  "report_file"        : "loc/ox-it__wl-msgcntr.json"},
+"Java" :{
+  "nFiles": 191,
+  "blank": 10047,
+  "comment": 10216,
+  "code": 44796},
+"JSP" :{
+  "nFiles": 82,
+  "blank": 1426,
+  "comment": 1442,
+  "code": 9591},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 847,
+  "comment": 1258,
+  "code": 4339},
+"XML" :{
+  "nFiles": 29,
+  "blank": 487,
+  "comment": 300,
+  "code": 3648},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 319,
+  "comment": 191,
+  "code": 2121},
+"SQL" :{
+  "nFiles": 46,
+  "blank": 483,
+  "comment": 382,
+  "code": 1993},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 8,
+  "comment": 0,
+  "code": 495},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 10},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 13625,
+  "comment": 13794,
+  "code": 67010,
+  "nFiles": 384} }

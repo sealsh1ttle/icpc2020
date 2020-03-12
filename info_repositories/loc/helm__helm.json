@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 171.184116125107,
+  "n_files"            : 590,
+  "n_lines"            : 82654,
+  "files_per_second"   : 3.44658145484017,
+  "lines_per_second"   : 482.836853505695,
+  "report_file"        : "loc/helm__helm.json"},
+"Go" :{
+  "nFiles": 303,
+  "blank": 7634,
+  "comment": 7423,
+  "code": 42106},
+"YAML" :{
+  "nFiles": 137,
+  "blank": 55,
+  "comment": 136,
+  "code": 9544},
+"Markdown" :{
+  "nFiles": 111,
+  "blank": 3028,
+  "comment": 0,
+  "code": 8639},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 231,
+  "comment": 51,
+  "code": 1642},
+"Protocol Buffers" :{
+  "nFiles": 13,
+  "blank": 172,
+  "comment": 397,
+  "code": 425},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 100,
+  "comment": 157,
+  "code": 343},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 3,
+  "code": 238},
+"make" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 5,
+  "code": 237},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 13,
+  "code": 8},
+"SUM": {
+  "blank": 11287,
+  "comment": 8185,
+  "code": 63182,
+  "nFiles": 590} }

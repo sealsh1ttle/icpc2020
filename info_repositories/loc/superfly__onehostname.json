@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.17529916763306,
+  "n_files"            : 9,
+  "n_lines"            : 408,
+  "files_per_second"   : 7.65762475449137,
+  "lines_per_second"   : 347.145655536942,
+  "report_file"        : "loc/superfly__onehostname.json"},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 44,
+  "code": 154},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 110},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 15,
+  "code": 38},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 33,
+  "comment": 59,
+  "code": 316,
+  "nFiles": 9} }

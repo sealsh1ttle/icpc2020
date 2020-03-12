@@ -1,0 +1,194 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.3438141345978,
+  "n_files"            : 6308,
+  "n_lines"            : 1433556,
+  "files_per_second"   : 104.5343270137,
+  "lines_per_second"   : 23756.469831397,
+  "report_file"        : "loc/xbmc__xbmc.json"},
+"C++" :{
+  "nFiles": 2017,
+  "blank": 91862,
+  "comment": 74180,
+  "code": 556957},
+"C/C++ Header" :{
+  "nFiles": 2080,
+  "blank": 35686,
+  "comment": 79321,
+  "code": 136591},
+"XML" :{
+  "nFiles": 516,
+  "blank": 414,
+  "comment": 852,
+  "code": 105557},
+"PO File" :{
+  "nFiles": 499,
+  "blank": 17937,
+  "comment": 7582,
+  "code": 59188},
+"diff" :{
+  "nFiles": 122,
+  "blank": 1259,
+  "comment": 6916,
+  "code": 43972},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 8026,
+  "comment": 10978,
+  "code": 31917},
+"SVG" :{
+  "nFiles": 18,
+  "blank": 0,
+  "comment": 10,
+  "code": 26085},
+"C" :{
+  "nFiles": 61,
+  "blank": 4211,
+  "comment": 6561,
+  "code": 22754},
+"Markdown" :{
+  "nFiles": 57,
+  "blank": 4863,
+  "comment": 0,
+  "code": 15849},
+"CMake" :{
+  "nFiles": 412,
+  "blank": 1997,
+  "comment": 2035,
+  "code": 12525},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 0,
+  "code": 8392},
+"Objective C++" :{
+  "nFiles": 37,
+  "blank": 1444,
+  "comment": 1286,
+  "code": 7329},
+"Python" :{
+  "nFiles": 67,
+  "blank": 2022,
+  "comment": 3180,
+  "code": 7083},
+"make" :{
+  "nFiles": 127,
+  "blank": 1323,
+  "comment": 412,
+  "code": 4370},
+"Bourne Shell" :{
+  "nFiles": 22,
+  "blank": 323,
+  "comment": 564,
+  "code": 4303},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 115,
+  "comment": 4,
+  "code": 3194},
+"Objective C" :{
+  "nFiles": 9,
+  "blank": 557,
+  "comment": 500,
+  "code": 2320},
+"MSBuild script" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 14,
+  "code": 1965},
+"DOS Batch" :{
+  "nFiles": 43,
+  "blank": 302,
+  "comment": 134,
+  "code": 1693},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 198,
+  "comment": 6,
+  "code": 1555},
+"GLSL" :{
+  "nFiles": 55,
+  "blank": 327,
+  "comment": 700,
+  "code": 1363},
+"m4" :{
+  "nFiles": 8,
+  "blank": 175,
+  "comment": 62,
+  "code": 1267},
+"Groovy" :{
+  "nFiles": 5,
+  "blank": 197,
+  "comment": 439,
+  "code": 1075},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 171,
+  "comment": 166,
+  "code": 1000},
+"XAML" :{
+  "nFiles": 3,
+  "blank": 58,
+  "comment": 64,
+  "code": 921},
+"C#" :{
+  "nFiles": 6,
+  "blank": 184,
+  "comment": 138,
+  "code": 608},
+"Java" :{
+  "nFiles": 13,
+  "blank": 129,
+  "comment": 619,
+  "code": 500},
+"XSD" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 454},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 90,
+  "comment": 46,
+  "code": 371},
+"Windows Module Definition" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 0,
+  "code": 283},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 70,
+  "code": 240},
+"SWIG" :{
+  "nFiles": 8,
+  "blank": 92,
+  "comment": 67,
+  "code": 218},
+"HLSL" :{
+  "nFiles": 11,
+  "blank": 67,
+  "comment": 209,
+  "code": 151},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 103,
+  "code": 88},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 65},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 3,
+  "code": 21},
+"SUM": {
+  "blank": 174111,
+  "comment": 197221,
+  "code": 1062224,
+  "nFiles": 6308} }

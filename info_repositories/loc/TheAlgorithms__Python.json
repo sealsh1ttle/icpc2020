@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 85.6070780754089,
+  "n_files"            : 380,
+  "n_lines"            : 38923,
+  "files_per_second"   : 4.43888529480317,
+  "lines_per_second"   : 454.670348235853,
+  "report_file"        : "loc/TheAlgorithms__Python.json"},
+"Python" :{
+  "nFiles": 362,
+  "blank": 5565,
+  "comment": 7960,
+  "code": 15453},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 179,
+  "comment": 0,
+  "code": 691},
+"Jupyter Notebook" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 8527,
+  "code": 499},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 7,
+  "code": 38},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 5745,
+  "comment": 16494,
+  "code": 16684,
+  "nFiles": 380} }

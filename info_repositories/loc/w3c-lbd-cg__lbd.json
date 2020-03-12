@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.104175090789795,
+  "n_files"            : 11,
+  "n_lines"            : 2628,
+  "files_per_second"   : 105.591460651528,
+  "lines_per_second"   : 25226.7598720196,
+  "report_file"        : "loc/w3c-lbd-cg__lbd.json"},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 307,
+  "comment": 31,
+  "code": 1696},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 81,
+  "comment": 29,
+  "code": 387},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 29},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 399,
+  "comment": 61,
+  "code": 2168,
+  "nFiles": 11} }

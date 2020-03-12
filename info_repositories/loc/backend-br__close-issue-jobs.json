@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.840759992599487,
+  "n_files"            : 3,
+  "n_lines"            : 131,
+  "files_per_second"   : 3.56820023122712,
+  "lines_per_second"   : 155.811410096917,
+  "report_file"        : "loc/backend-br__close-issue-jobs.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 68},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 21},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 23,
+  "comment": 0,
+  "code": 108,
+  "nFiles": 3} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.9587869644165,
+  "n_files"            : 83,
+  "n_lines"            : 19436,
+  "files_per_second"   : 4.15856936335742,
+  "lines_per_second"   : 973.80667646042,
+  "report_file"        : "loc/akohli96__AlumMeetup.json"},
+"JavaScript" :{
+  "nFiles": 26,
+  "blank": 2130,
+  "comment": 2812,
+  "code": 9638},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 785,
+  "comment": 318,
+  "code": 2906},
+"Python" :{
+  "nFiles": 15,
+  "blank": 67,
+  "comment": 21,
+  "code": 361},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 30,
+  "comment": 0,
+  "code": 141},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 0,
+  "code": 123},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 41},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 39},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3027,
+  "comment": 3151,
+  "code": 13258,
+  "nFiles": 83} }

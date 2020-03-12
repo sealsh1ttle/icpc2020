@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.57850813865662,
+  "n_files"            : 180,
+  "n_lines"            : 31541,
+  "files_per_second"   : 114.031721213163,
+  "lines_per_second"   : 19981.5251043576,
+  "report_file"        : "loc/KizeRemi__Shiny-Porky.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 21232},
+"JavaScript" :{
+  "nFiles": 151,
+  "blank": 840,
+  "comment": 240,
+  "code": 8630},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 95,
+  "comment": 0,
+  "code": 204},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 28,
+  "comment": 6,
+  "code": 141},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 3,
+  "code": 74},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 40},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 966,
+  "comment": 250,
+  "code": 30325,
+  "nFiles": 180} }

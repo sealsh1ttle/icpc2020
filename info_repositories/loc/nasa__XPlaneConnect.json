@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.56712508201599,
+  "n_files"            : 178,
+  "n_lines"            : 29298,
+  "files_per_second"   : 113.583786031308,
+  "lines_per_second"   : 18695.3806918273,
+  "report_file"        : "loc/nasa__XPlaneConnect.json"},
+"C/C++ Header" :{
+  "nFiles": 43,
+  "blank": 1359,
+  "comment": 5151,
+  "code": 3510},
+"Pascal" :{
+  "nFiles": 17,
+  "blank": 1394,
+  "comment": 3492,
+  "code": 2972},
+"C++" :{
+  "nFiles": 15,
+  "blank": 380,
+  "comment": 296,
+  "code": 2865},
+"Java" :{
+  "nFiles": 15,
+  "blank": 263,
+  "comment": 448,
+  "code": 1693},
+"XML" :{
+  "nFiles": 31,
+  "blank": 0,
+  "comment": 0,
+  "code": 1061},
+"C" :{
+  "nFiles": 7,
+  "blank": 123,
+  "comment": 286,
+  "code": 929},
+"Python" :{
+  "nFiles": 7,
+  "blank": 274,
+  "comment": 392,
+  "code": 888},
+"MATLAB" :{
+  "nFiles": 35,
+  "blank": 167,
+  "comment": 414,
+  "code": 575},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 15,
+  "code": 128},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 95},
+"CMake" :{
+  "nFiles": 5,
+  "blank": 25,
+  "comment": 1,
+  "code": 62},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 4024,
+  "comment": 10495,
+  "code": 14779,
+  "nFiles": 178} }

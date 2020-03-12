@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.37910389900208,
+  "n_files"            : 13,
+  "n_lines"            : 6914,
+  "files_per_second"   : 3.8471738036345,
+  "lines_per_second"   : 2046.10459064069,
+  "report_file"        : "loc/ironhack-labs__lab-javascript-chronometer.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 1048,
+  "comment": 937,
+  "code": 4466},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 171},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 75,
+  "comment": 0,
+  "code": 109},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 5,
+  "code": 50},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 1156,
+  "comment": 942,
+  "code": 4816,
+  "nFiles": 13} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.146260976791382,
+  "n_files"            : 15,
+  "n_lines"            : 1484,
+  "files_per_second"   : 102.556405194771,
+  "lines_per_second"   : 10146.2470206027,
+  "report_file"        : "loc/zrlio__crail-blkdev.json"},
+"Java" :{
+  "nFiles": 11,
+  "blank": 142,
+  "comment": 249,
+  "code": 675},
+"XML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 27,
+  "code": 209},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 80},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 63},
+"SUM": {
+  "blank": 181,
+  "comment": 276,
+  "code": 1027,
+  "nFiles": 15} }

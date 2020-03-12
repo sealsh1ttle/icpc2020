@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.64604902267456,
+  "n_files"            : 210,
+  "n_lines"            : 49884,
+  "files_per_second"   : 127.578217360006,
+  "lines_per_second"   : 30305.2942608882,
+  "report_file"        : "loc/RamanMaan__cinder.json"},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 37580},
+"JavaScript" :{
+  "nFiles": 142,
+  "blank": 876,
+  "comment": 250,
+  "code": 8137},
+"JSX" :{
+  "nFiles": 25,
+  "blank": 225,
+  "comment": 9,
+  "code": 1689},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 93,
+  "comment": 4,
+  "code": 458},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 53,
+  "comment": 0,
+  "code": 233},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 12,
+  "code": 121},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 7,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 39},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1277,
+  "comment": 282,
+  "code": 48325,
+  "nFiles": 210} }

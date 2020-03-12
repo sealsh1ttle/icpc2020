@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.206074953079224,
+  "n_files"            : 26,
+  "n_lines"            : 2483,
+  "files_per_second"   : 126.167686133135,
+  "lines_per_second"   : 12049.0140257144,
+  "report_file"        : "loc/vyuldashev__laravel-queue-rabbitmq.json"},
+"PHP" :{
+  "nFiles": 20,
+  "blank": 362,
+  "comment": 262,
+  "code": 1541},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 0,
+  "code": 131},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 51},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 41},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"SUM": {
+  "blank": 423,
+  "comment": 262,
+  "code": 1798,
+  "nFiles": 26} }

@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 419.227637052536,
+  "n_files"            : 1088,
+  "n_lines"            : 123864,
+  "files_per_second"   : 2.59524874755253,
+  "lines_per_second"   : 295.457620282028,
+  "report_file"        : "loc/springfox__springfox.json"},
+"JSON" :{
+  "nFiles": 37,
+  "blank": 73,
+  "comment": 0,
+  "code": 32658},
+"Java" :{
+  "nFiles": 651,
+  "blank": 7039,
+  "comment": 14270,
+  "code": 31733},
+"Groovy" :{
+  "nFiles": 332,
+  "blank": 3739,
+  "comment": 4889,
+  "code": 22604},
+"AsciiDoc" :{
+  "nFiles": 9,
+  "blank": 533,
+  "comment": 14,
+  "code": 1894},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 281,
+  "comment": 0,
+  "code": 1466},
+"Gradle" :{
+  "nFiles": 29,
+  "blank": 195,
+  "comment": 71,
+  "code": 1300},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 36,
+  "comment": 57,
+  "code": 256},
+"XML" :{
+  "nFiles": 5,
+  "blank": 39,
+  "comment": 64,
+  "code": 141},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 3,
+  "code": 102},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 60},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 7,
+  "code": 56},
+"SUM": {
+  "blank": 12006,
+  "comment": 19400,
+  "code": 92458,
+  "nFiles": 1088} }

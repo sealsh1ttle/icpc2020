@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.9438099861145,
+  "n_files"            : 129,
+  "n_lines"            : 110560,
+  "files_per_second"   : 6.1593377750049,
+  "lines_per_second"   : 5278.88670081041,
+  "report_file"        : "loc/tokenly__foldingcoin-stats.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 8186,
+  "comment": 16717,
+  "code": 45972},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 14378},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3031,
+  "comment": 16,
+  "code": 12672},
+"PHP" :{
+  "nFiles": 92,
+  "blank": 1002,
+  "comment": 1599,
+  "code": 3176},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2312},
+"Vuejs Component" :{
+  "nFiles": 8,
+  "blank": 159,
+  "comment": 67,
+  "code": 820},
+"Blade" :{
+  "nFiles": 8,
+  "blank": 29,
+  "comment": 32,
+  "code": 227},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 9,
+  "code": 76},
+"XML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 37},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 12439,
+  "comment": 18441,
+  "code": 79680,
+  "nFiles": 129} }

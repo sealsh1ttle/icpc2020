@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.0168120861053,
+  "n_files"            : 20,
+  "n_lines"            : 1924,
+  "files_per_second"   : 0.768733691653225,
+  "lines_per_second"   : 73.9521811370402,
+  "report_file"        : "loc/chrislgarry__Apollo-11.json"},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 294,
+  "comment": 0,
+  "code": 1630},
+"SUM": {
+  "blank": 294,
+  "comment": 0,
+  "code": 1630,
+  "nFiles": 20} }

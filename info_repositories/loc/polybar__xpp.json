@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.529499053955078,
+  "n_files"            : 61,
+  "n_lines"            : 13794,
+  "files_per_second"   : 115.20322754944,
+  "lines_per_second"   : 26051.0380461799,
+  "report_file"        : "loc/polybar__xpp.json"},
+"Python" :{
+  "nFiles": 13,
+  "blank": 771,
+  "comment": 1204,
+  "code": 3095},
+"C++" :{
+  "nFiles": 15,
+  "blank": 892,
+  "comment": 1606,
+  "code": 2745},
+"C/C++ Header" :{
+  "nFiles": 25,
+  "blank": 423,
+  "comment": 51,
+  "code": 2138},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 82,
+  "code": 341},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 88,
+  "comment": 0,
+  "code": 227},
+"make" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 3,
+  "code": 62},
+"SUM": {
+  "blank": 2240,
+  "comment": 2946,
+  "code": 8608,
+  "nFiles": 61} }

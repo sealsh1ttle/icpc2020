@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.229320049285889,
+  "n_files"            : 36,
+  "n_lines"            : 2970,
+  "files_per_second"   : 156.985837531892,
+  "lines_per_second"   : 12951.3315963811,
+  "report_file"        : "loc/containers__python-podman.json"},
+"Python" :{
+  "nFiles": 30,
+  "blank": 545,
+  "comment": 296,
+  "code": 1744},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 9,
+  "code": 155},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 67},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 35},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 34},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 614,
+  "comment": 307,
+  "code": 2049,
+  "nFiles": 36} }

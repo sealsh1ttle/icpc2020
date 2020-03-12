@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.8687150478363,
+  "n_files"            : 77,
+  "n_lines"            : 11265,
+  "files_per_second"   : 3.68973364308712,
+  "lines_per_second"   : 539.803240121771,
+  "report_file"        : "loc/hmrc__capital-gains-calculator.json"},
+"Scala" :{
+  "nFiles": 68,
+  "blank": 1878,
+  "comment": 1044,
+  "code": 7402},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 157,
+  "comment": 0,
+  "code": 579},
+"XML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 175},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 2054,
+  "comment": 1044,
+  "code": 8167,
+  "nFiles": 77} }

@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 580.224224090576,
+  "n_files"            : 1970,
+  "n_lines"            : 9239536,
+  "files_per_second"   : 3.3952391475687,
+  "lines_per_second"   : 15924.0783414063,
+  "report_file"        : "loc/projecttacoma__bonnie.json"},
+"JSON" :{
+  "nFiles": 577,
+  "blank": 6397,
+  "comment": 0,
+  "code": 8629868},
+"JavaScript" :{
+  "nFiles": 662,
+  "blank": 36214,
+  "comment": 38016,
+  "code": 221051},
+"YAML" :{
+  "nFiles": 82,
+  "blank": 146,
+  "comment": 336,
+  "code": 197628},
+"CSS" :{
+  "nFiles": 41,
+  "blank": 1546,
+  "comment": 340,
+  "code": 22021},
+"SVG" :{
+  "nFiles": 20,
+  "blank": 0,
+  "comment": 0,
+  "code": 14380},
+"HTML" :{
+  "nFiles": 51,
+  "blank": 1141,
+  "comment": 21,
+  "code": 13842},
+"LESS" :{
+  "nFiles": 113,
+  "blank": 1618,
+  "comment": 1762,
+  "code": 11047},
+"CoffeeScript" :{
+  "nFiles": 113,
+  "blank": 1695,
+  "comment": 1413,
+  "code": 7982},
+"Ruby" :{
+  "nFiles": 99,
+  "blank": 1529,
+  "comment": 1487,
+  "code": 7981},
+"Markdown" :{
+  "nFiles": 59,
+  "blank": 2071,
+  "comment": 0,
+  "code": 4608},
+"XML" :{
+  "nFiles": 6,
+  "blank": 22,
+  "comment": 131,
+  "code": 3848},
+"Sass" :{
+  "nFiles": 18,
+  "blank": 232,
+  "comment": 39,
+  "code": 2608},
+"Handlebars" :{
+  "nFiles": 70,
+  "blank": 112,
+  "comment": 6,
+  "code": 2138},
+"ERB" :{
+  "nFiles": 40,
+  "blank": 111,
+  "comment": 7,
+  "code": 1156},
+"reStructuredText" :{
+  "nFiles": 8,
+  "blank": 581,
+  "comment": 306,
+  "code": 746},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 78,
+  "comment": 98,
+  "code": 360},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 28,
+  "comment": 17,
+  "code": 166},
+"make" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 5,
+  "code": 133},
+"Python" :{
+  "nFiles": 1,
+  "blank": 68,
+  "comment": 150,
+  "code": 31},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 53639,
+  "comment": 44136,
+  "code": 9141761,
+  "nFiles": 1970} }

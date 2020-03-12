@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.469066858291626,
+  "n_files"            : 3,
+  "n_lines"            : 197,
+  "files_per_second"   : 6.39567675048757,
+  "lines_per_second"   : 419.982773282017,
+  "report_file"        : "loc/darthmeme__gridsome-plugin-rss.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 100},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 42},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 37,
+  "comment": 0,
+  "code": 160,
+  "nFiles": 3} }

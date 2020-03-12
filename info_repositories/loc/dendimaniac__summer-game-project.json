@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.1106610298157,
+  "n_files"            : 6,
+  "n_lines"            : 1521,
+  "files_per_second"   : 0.199264971103052,
+  "lines_per_second"   : 50.5136701746236,
+  "report_file"        : "loc/dendimaniac__summer-game-project.json"},
+"Unity-Prefab" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1155},
+"C#" :{
+  "nFiles": 4,
+  "blank": 56,
+  "comment": 61,
+  "code": 208},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 56,
+  "comment": 61,
+  "code": 1404,
+  "nFiles": 6} }

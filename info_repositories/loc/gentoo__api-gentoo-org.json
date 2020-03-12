@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.88327789306641,
+  "n_files"            : 8,
+  "n_lines"            : 6359,
+  "files_per_second"   : 2.77461982392959,
+  "lines_per_second"   : 2205.47593254604,
+  "report_file"        : "loc/gentoo__api-gentoo-org.json"},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 153,
+  "code": 5783},
+"Python" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 54,
+  "code": 155},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 6,
+  "code": 71},
+"awk" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 5,
+  "code": 52},
+"SUM": {
+  "blank": 80,
+  "comment": 218,
+  "code": 6061,
+  "nFiles": 8} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.7252309322357,
+  "n_files"            : 159,
+  "n_lines"            : 27309,
+  "files_per_second"   : 3.33157109759744,
+  "lines_per_second"   : 572.213050970368,
+  "report_file"        : "loc/gonum__plot.json"},
+"Go" :{
+  "nFiles": 145,
+  "blank": 2757,
+  "comment": 3093,
+  "code": 20655},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 5,
+  "code": 260},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 5,
+  "code": 247},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 83},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 11,
+  "code": 50},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 13,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 2836,
+  "comment": 3127,
+  "code": 21346,
+  "nFiles": 159} }

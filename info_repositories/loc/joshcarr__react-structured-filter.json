@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.77640914916992,
+  "n_files"            : 29,
+  "n_lines"            : 3779,
+  "files_per_second"   : 6.07150666835981,
+  "lines_per_second"   : 791.180127576956,
+  "report_file"        : "loc/joshcarr__react-structured-filter.json"},
+"JavaScript" :{
+  "nFiles": 19,
+  "blank": 331,
+  "comment": 383,
+  "code": 1861},
+"JSX" :{
+  "nFiles": 3,
+  "blank": 92,
+  "comment": 73,
+  "code": 392},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 6,
+  "code": 242},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 0,
+  "code": 147},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 80},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 43},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 537,
+  "comment": 462,
+  "code": 2780,
+  "nFiles": 29} }

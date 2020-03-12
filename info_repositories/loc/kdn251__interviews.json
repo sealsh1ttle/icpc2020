@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 103.939306974411,
+  "n_files"            : 341,
+  "n_lines"            : 15981,
+  "files_per_second"   : 3.28076076247027,
+  "lines_per_second"   : 153.753189868145,
+  "report_file"        : "loc/kdn251__interviews.json"},
+"Java" :{
+  "nFiles": 334,
+  "blank": 2773,
+  "comment": 4446,
+  "code": 7743},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 139,
+  "comment": 0,
+  "code": 825},
+"XML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"SUM": {
+  "blank": 2912,
+  "comment": 4446,
+  "code": 8623,
+  "nFiles": 341} }

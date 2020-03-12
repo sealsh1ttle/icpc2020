@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.00391101837158,
+  "n_files"            : 24,
+  "n_lines"            : 1603,
+  "files_per_second"   : 7.98958419647543,
+  "lines_per_second"   : 533.637644456255,
+  "report_file"        : "loc/IBM-Swift-Sunset__Kitura-Request.json"},
+"Swift" :{
+  "nFiles": 22,
+  "blank": 234,
+  "comment": 490,
+  "code": 743},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 73},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 7,
+  "code": 28},
+"SUM": {
+  "blank": 262,
+  "comment": 497,
+  "code": 844,
+  "nFiles": 24} }

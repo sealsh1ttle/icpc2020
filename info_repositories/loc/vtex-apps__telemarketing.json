@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.86637091636658,
+  "n_files"            : 43,
+  "n_lines"            : 1602,
+  "files_per_second"   : 5.46630720279605,
+  "lines_per_second"   : 203.651724159983,
+  "report_file"        : "loc/vtex-apps__telemarketing.json"},
+"TypeScript" :{
+  "nFiles": 25,
+  "blank": 101,
+  "comment": 32,
+  "code": 704},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 205,
+  "comment": 0,
+  "code": 305},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 148},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 1,
+  "code": 54},
+"GraphQL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 324,
+  "comment": 33,
+  "code": 1245,
+  "nFiles": 43} }

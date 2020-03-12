@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.80403399467468,
+  "n_files"            : 752,
+  "n_lines"            : 105115,
+  "files_per_second"   : 110.522669432364,
+  "lines_per_second"   : 15448.9234007752,
+  "report_file"        : "loc/cmatsuoka__libxmp.json"},
+"C" :{
+  "nFiles": 668,
+  "blank": 15575,
+  "comment": 12242,
+  "code": 64578},
+"C/C++ Header" :{
+  "nFiles": 52,
+  "blank": 663,
+  "comment": 918,
+  "code": 3894},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 157,
+  "comment": 403,
+  "code": 3255},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 76,
+  "comment": 35,
+  "code": 1013},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 352,
+  "comment": 87,
+  "code": 755},
+"m4" :{
+  "nFiles": 3,
+  "blank": 33,
+  "comment": 19,
+  "code": 285},
+"Python" :{
+  "nFiles": 3,
+  "blank": 73,
+  "comment": 32,
+  "code": 271},
+"make" :{
+  "nFiles": 19,
+  "blank": 111,
+  "comment": 0,
+  "code": 258},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 17046,
+  "comment": 13736,
+  "code": 74333,
+  "nFiles": 752} }

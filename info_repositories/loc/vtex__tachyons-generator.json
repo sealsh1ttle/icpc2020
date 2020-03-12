@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.1113240718842,
+  "n_files"            : 120,
+  "n_lines"            : 20145,
+  "files_per_second"   : 5.68415318676363,
+  "lines_per_second"   : 954.227216227944,
+  "report_file"        : "loc/vtex__tachyons-generator.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 11850},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 99,
+  "comment": 0,
+  "code": 4324},
+"JavaScript" :{
+  "nFiles": 102,
+  "blank": 609,
+  "comment": 208,
+  "code": 2949},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 17,
+  "code": 74},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 718,
+  "comment": 225,
+  "code": 19202,
+  "nFiles": 120} }

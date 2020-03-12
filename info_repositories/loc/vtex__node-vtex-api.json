@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.2974038124084,
+  "n_files"            : 127,
+  "n_lines"            : 8062,
+  "files_per_second"   : 3.07525384832644,
+  "lines_per_second"   : 195.218082875652,
+  "report_file"        : "loc/vtex__node-vtex-api.json"},
+"TypeScript" :{
+  "nFiles": 119,
+  "blank": 1062,
+  "comment": 313,
+  "code": 5641},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 362,
+  "comment": 0,
+  "code": 553},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 125},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1425,
+  "comment": 313,
+  "code": 6324,
+  "nFiles": 127} }

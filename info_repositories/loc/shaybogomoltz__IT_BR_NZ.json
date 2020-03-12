@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.33502006530762,
+  "n_files"            : 11,
+  "n_lines"            : 953,
+  "files_per_second"   : 8.23957653210655,
+  "lines_per_second"   : 713.846948645231,
+  "report_file"        : "loc/shaybogomoltz__IT_BR_NZ.json"},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 49,
+  "comment": 0,
+  "code": 903},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 49,
+  "comment": 0,
+  "code": 904,
+  "nFiles": 11} }

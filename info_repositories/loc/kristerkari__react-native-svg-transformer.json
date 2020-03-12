@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.82851886749268,
+  "n_files"            : 7,
+  "n_lines"            : 434,
+  "files_per_second"   : 3.82823504008937,
+  "lines_per_second"   : 237.350572485541,
+  "report_file"        : "loc/kristerkari__react-native-svg-transformer.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 75,
+  "comment": 0,
+  "code": 173},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 68},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 6,
+  "code": 52},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 52},
+"SUM": {
+  "blank": 83,
+  "comment": 6,
+  "code": 345,
+  "nFiles": 7} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.0881080627441,
+  "n_files"            : 198,
+  "n_lines"            : 49776,
+  "files_per_second"   : 5.0654792419774,
+  "lines_per_second"   : 1273.43078155893,
+  "report_file"        : "loc/Metaswitch__clearwater-monit.json"},
+"C" :{
+  "nFiles": 115,
+  "blank": 4502,
+  "comment": 5121,
+  "code": 22936},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 688,
+  "comment": 330,
+  "code": 3690},
+"C/C++ Header" :{
+  "nFiles": 52,
+  "blank": 1464,
+  "comment": 4790,
+  "code": 2101},
+"m4" :{
+  "nFiles": 2,
+  "blank": 123,
+  "comment": 0,
+  "code": 1283},
+"lex" :{
+  "nFiles": 1,
+  "blank": 168,
+  "comment": 36,
+  "code": 856},
+"Pascal" :{
+  "nFiles": 8,
+  "blank": 42,
+  "comment": 292,
+  "code": 448},
+"make" :{
+  "nFiles": 6,
+  "blank": 65,
+  "comment": 15,
+  "code": 293},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 49,
+  "comment": 136,
+  "code": 181},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 0,
+  "code": 73},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 11},
+"SUM": {
+  "blank": 7153,
+  "comment": 10724,
+  "code": 31899,
+  "nFiles": 198} }

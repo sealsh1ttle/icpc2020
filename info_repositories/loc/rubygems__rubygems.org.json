@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 184.385836839676,
+  "n_files"            : 477,
+  "n_lines"            : 34293,
+  "files_per_second"   : 2.58696659231345,
+  "lines_per_second"   : 185.985000734183,
+  "report_file"        : "loc/rubygems__rubygems.org.json"},
+"Ruby" :{
+  "nFiles": 339,
+  "blank": 3166,
+  "comment": 411,
+  "code": 15877},
+"YAML" :{
+  "nFiles": 21,
+  "blank": 84,
+  "comment": 109,
+  "code": 3640},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 29,
+  "code": 3275},
+"ERB" :{
+  "nFiles": 62,
+  "blank": 282,
+  "comment": 0,
+  "code": 2754},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 310,
+  "comment": 17,
+  "code": 2309},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 193,
+  "comment": 249,
+  "code": 716},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 83,
+  "comment": 0,
+  "code": 193},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 49,
+  "comment": 25,
+  "code": 176},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 140},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 134},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 41},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 4185,
+  "comment": 840,
+  "code": 29268,
+  "nFiles": 477} }

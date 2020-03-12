@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 276.881408929825,
+  "n_files"            : 749,
+  "n_lines"            : 185330,
+  "files_per_second"   : 2.7051292569442,
+  "lines_per_second"   : 669.347937502628,
+  "report_file"        : "loc/johnm589__weekendLab.json"},
+"JavaScript" :{
+  "nFiles": 410,
+  "blank": 18402,
+  "comment": 33342,
+  "code": 76601},
+"Markdown" :{
+  "nFiles": 146,
+  "blank": 7648,
+  "comment": 0,
+  "code": 21095},
+"JSON" :{
+  "nFiles": 108,
+  "blank": 0,
+  "comment": 0,
+  "code": 13903},
+"C/C++ Header" :{
+  "nFiles": 30,
+  "blank": 1107,
+  "comment": 428,
+  "code": 5318},
+"C++" :{
+  "nFiles": 8,
+  "blank": 458,
+  "comment": 487,
+  "code": 1627},
+"C" :{
+  "nFiles": 4,
+  "blank": 209,
+  "comment": 249,
+  "code": 972},
+"diff" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 13,
+  "code": 588},
+"Python" :{
+  "nFiles": 3,
+  "blank": 81,
+  "comment": 177,
+  "code": 557},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 104,
+  "comment": 59,
+  "code": 473},
+"make" :{
+  "nFiles": 12,
+  "blank": 112,
+  "comment": 134,
+  "code": 405},
+"D" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 290},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 5,
+  "code": 222},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 8,
+  "comment": 12,
+  "code": 122},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 43},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 28183,
+  "comment": 34906,
+  "code": 122241,
+  "nFiles": 749} }

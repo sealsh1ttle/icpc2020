@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.1163458824158,
+  "n_files"            : 38,
+  "n_lines"            : 2309,
+  "files_per_second"   : 3.41838949614817,
+  "lines_per_second"   : 207.712140700161,
+  "report_file"        : "loc/ysmood__nisp.json"},
+"TypeScript" :{
+  "nFiles": 27,
+  "blank": 243,
+  "comment": 34,
+  "code": 1462},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 241},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 63,
+  "comment": 0,
+  "code": 140},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 66},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 26},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 330,
+  "comment": 34,
+  "code": 1945,
+  "nFiles": 38} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.189016103744507,
+  "n_files"            : 16,
+  "n_lines"            : 1267,
+  "files_per_second"   : 84.6488721491541,
+  "lines_per_second"   : 6703.13256331114,
+  "report_file"        : "loc/klaxer__klaxer.json"},
+"Python" :{
+  "nFiles": 11,
+  "blank": 205,
+  "comment": 182,
+  "code": 626},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 0,
+  "code": 168},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 19},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 264,
+  "comment": 182,
+  "code": 821,
+  "nFiles": 16} }

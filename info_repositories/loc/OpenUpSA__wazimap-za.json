@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 133.233897924423,
+  "n_files"            : 231,
+  "n_lines"            : 10835209,
+  "files_per_second"   : 1.73379300312173,
+  "lines_per_second"   : 81324.7166734269,
+  "report_file"        : "loc/OpenUpSA__wazimap-za.json"},
+"SQL" :{
+  "nFiles": 169,
+  "blank": 2800,
+  "comment": 2759,
+  "code": 10821796},
+"Python" :{
+  "nFiles": 20,
+  "blank": 683,
+  "comment": 357,
+  "code": 3726},
+"HTML" :{
+  "nFiles": 20,
+  "blank": 139,
+  "comment": 2,
+  "code": 1995},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 92,
+  "comment": 61,
+  "code": 315},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 56,
+  "comment": 5,
+  "code": 218},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 0,
+  "code": 103},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 29},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 7,
+  "code": 14},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 3811,
+  "comment": 3192,
+  "code": 10828206,
+  "nFiles": 231} }

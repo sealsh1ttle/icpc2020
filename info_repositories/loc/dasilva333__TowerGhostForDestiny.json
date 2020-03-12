@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.7051229476929,
+  "n_files"            : 513,
+  "n_lines"            : 136109,
+  "files_per_second"   : 28.9746646502022,
+  "lines_per_second"   : 7687.5489880592,
+  "report_file"        : "loc/dasilva333__TowerGhostForDestiny.json"},
+"CSS" :{
+  "nFiles": 25,
+  "blank": 338,
+  "comment": 176,
+  "code": 43952},
+"JavaScript" :{
+  "nFiles": 224,
+  "blank": 7325,
+  "comment": 6715,
+  "code": 38867},
+"LESS" :{
+  "nFiles": 82,
+  "blank": 2511,
+  "comment": 3012,
+  "code": 8586},
+"HTML" :{
+  "nFiles": 36,
+  "blank": 794,
+  "comment": 205,
+  "code": 8259},
+"Sass" :{
+  "nFiles": 74,
+  "blank": 1408,
+  "comment": 1824,
+  "code": 5821},
+"JSON" :{
+  "nFiles": 40,
+  "blank": 17,
+  "comment": 0,
+  "code": 3599},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 7,
+  "comment": 7,
+  "code": 1202},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 412,
+  "comment": 0,
+  "code": 782},
+"XML" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 9,
+  "code": 149},
+"DOS Batch" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 85},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 12835,
+  "comment": 11948,
+  "code": 111326,
+  "nFiles": 513} }

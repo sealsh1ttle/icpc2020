@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.194864988327026,
+  "n_files"            : 19,
+  "n_lines"            : 8728,
+  "files_per_second"   : 97.5034056303322,
+  "lines_per_second"   : 44789.98549166,
+  "report_file"        : "loc/blockchain__wallet-options.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 8174},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 30,
+  "comment": 0,
+  "code": 386},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 77},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 73,
+  "comment": 2,
+  "code": 8653,
+  "nFiles": 19} }

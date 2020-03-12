@@ -1,0 +1,164 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1623.21039104462,
+  "n_files"            : 4828,
+  "n_lines"            : 723948,
+  "files_per_second"   : 2.97435257107549,
+  "lines_per_second"   : 445.997637764075,
+  "report_file"        : "loc/Azure__azure-quickstart-templates.json"},
+"JSON" :{
+  "nFiles": 3170,
+  "blank": 1473,
+  "comment": 0,
+  "code": 575632},
+"Bourne Shell" :{
+  "nFiles": 349,
+  "blank": 6821,
+  "comment": 6229,
+  "code": 30841},
+"PowerShell" :{
+  "nFiles": 257,
+  "blank": 6458,
+  "comment": 4284,
+  "code": 28874},
+"Markdown" :{
+  "nFiles": 866,
+  "blank": 13009,
+  "comment": 16,
+  "code": 27800},
+"YAML" :{
+  "nFiles": 67,
+  "blank": 791,
+  "comment": 1142,
+  "code": 7972},
+"Python" :{
+  "nFiles": 17,
+  "blank": 920,
+  "comment": 1220,
+  "code": 3502},
+"XML" :{
+  "nFiles": 32,
+  "blank": 34,
+  "comment": 2,
+  "code": 1394},
+"HCL" :{
+  "nFiles": 13,
+  "blank": 64,
+  "comment": 16,
+  "code": 1140},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 130,
+  "comment": 37,
+  "code": 659},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 105,
+  "comment": 43,
+  "code": 537},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 112,
+  "comment": 66,
+  "code": 416},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 381},
+"SQL" :{
+  "nFiles": 14,
+  "blank": 48,
+  "comment": 0,
+  "code": 257},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 0,
+  "code": 204},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 143},
+"Java" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 12,
+  "code": 115},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 84},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 72},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 65},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 14,
+  "code": 61},
+"JSP" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 58},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"INI" :{
+  "nFiles": 3,
+  "blank": 95,
+  "comment": 243,
+  "code": 35},
+"Groovy" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 31},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 1,
+  "code": 27},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 22},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"C#" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 10,
+  "code": 9},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 8,
+  "code": 6},
+"SUM": {
+  "blank": 30207,
+  "comment": 13344,
+  "code": 680397,
+  "nFiles": 4828} }

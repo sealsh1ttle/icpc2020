@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.95999813079834,
+  "n_files"            : 54,
+  "n_lines"            : 13267,
+  "files_per_second"   : 6.02678697157145,
+  "lines_per_second"   : 1480.69227318219,
+  "report_file"        : "loc/enkidevs__curriculum-tools.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7499},
+"JavaScript" :{
+  "nFiles": 32,
+  "blank": 467,
+  "comment": 424,
+  "code": 3088},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 396,
+  "comment": 0,
+  "code": 1285},
+"Python" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 1,
+  "code": 54},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 20},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 884,
+  "comment": 430,
+  "code": 11953,
+  "nFiles": 54} }

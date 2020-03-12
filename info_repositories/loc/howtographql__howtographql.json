@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.7561240196228,
+  "n_files"            : 328,
+  "n_lines"            : 65431,
+  "files_per_second"   : 119.007707078758,
+  "lines_per_second"   : 23740.223420336,
+  "report_file"        : "loc/howtographql__howtographql.json"},
+"Markdown" :{
+  "nFiles": 151,
+  "blank": 9102,
+  "comment": 0,
+  "code": 23217},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 18264},
+"TypeScript" :{
+  "nFiles": 90,
+  "blank": 432,
+  "comment": 118,
+  "code": 7980},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 379,
+  "comment": 97,
+  "code": 2594},
+"SVG" :{
+  "nFiles": 40,
+  "blank": 6,
+  "comment": 15,
+  "code": 1781},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 184,
+  "comment": 110,
+  "code": 1049},
+"GraphQL" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 85},
+"SUM": {
+  "blank": 10121,
+  "comment": 340,
+  "code": 54970,
+  "nFiles": 328} }

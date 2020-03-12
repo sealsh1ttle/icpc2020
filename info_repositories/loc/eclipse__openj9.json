@@ -1,0 +1,169 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2930.1762778759,
+  "n_files"            : 8602,
+  "n_lines"            : 2242132,
+  "files_per_second"   : 2.9356595591019,
+  "lines_per_second"   : 765.186728501308,
+  "report_file"        : "loc/eclipse__openj9.json"},
+"Java" :{
+  "nFiles": 4480,
+  "blank": 87480,
+  "comment": 210870,
+  "code": 490129},
+"C++" :{
+  "nFiles": 780,
+  "blank": 69337,
+  "comment": 82539,
+  "code": 413911},
+"C" :{
+  "nFiles": 686,
+  "blank": 54057,
+  "comment": 60773,
+  "code": 258981},
+"XML" :{
+  "nFiles": 544,
+  "blank": 5428,
+  "comment": 7937,
+  "code": 146972},
+"C/C++ Header" :{
+  "nFiles": 1239,
+  "blank": 30378,
+  "comment": 68073,
+  "code": 124326},
+"Assembly" :{
+  "nFiles": 88,
+  "blank": 4886,
+  "comment": 9056,
+  "code": 18405},
+"Perl" :{
+  "nFiles": 26,
+  "blank": 1022,
+  "comment": 1112,
+  "code": 14668},
+"m4" :{
+  "nFiles": 31,
+  "blank": 2362,
+  "comment": 820,
+  "code": 13509},
+"CMake" :{
+  "nFiles": 176,
+  "blank": 955,
+  "comment": 4004,
+  "code": 7209},
+"Markdown" :{
+  "nFiles": 53,
+  "blank": 1810,
+  "comment": 0,
+  "code": 6797},
+"Ant" :{
+  "nFiles": 80,
+  "blank": 1056,
+  "comment": 1650,
+  "code": 4749},
+"make" :{
+  "nFiles": 120,
+  "blank": 1199,
+  "comment": 3204,
+  "code": 4528},
+"Groovy" :{
+  "nFiles": 19,
+  "blank": 505,
+  "comment": 967,
+  "code": 3183},
+"Freemarker Template" :{
+  "nFiles": 29,
+  "blank": 488,
+  "comment": 157,
+  "code": 2993},
+"Dockerfile" :{
+  "nFiles": 40,
+  "blank": 454,
+  "comment": 1311,
+  "code": 2790},
+"Pascal" :{
+  "nFiles": 13,
+  "blank": 390,
+  "comment": 0,
+  "code": 2521},
+"XSD" :{
+  "nFiles": 14,
+  "blank": 295,
+  "comment": 267,
+  "code": 1982},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 167,
+  "comment": 17,
+  "code": 1146},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 9,
+  "comment": 259,
+  "code": 1109},
+"Bourne Shell" :{
+  "nFiles": 56,
+  "blank": 231,
+  "comment": 1389,
+  "code": 1005},
+"DOS Batch" :{
+  "nFiles": 59,
+  "blank": 265,
+  "comment": 1367,
+  "code": 723},
+"INI" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 0,
+  "code": 590},
+"Cucumber" :{
+  "nFiles": 12,
+  "blank": 71,
+  "comment": 0,
+  "code": 474},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 41,
+  "code": 255},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 109},
+"sed" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 66,
+  "code": 37},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 21,
+  "code": 32},
+"Expect" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"Windows Message File" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 51,
+  "code": 21},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 39,
+  "code": 14},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 12},
+"SUM": {
+  "blank": 262911,
+  "comment": 456010,
+  "code": 1523211,
+  "nFiles": 8602} }

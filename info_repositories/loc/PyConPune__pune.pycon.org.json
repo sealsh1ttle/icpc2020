@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.953166007995605,
+  "n_files"            : 82,
+  "n_lines"            : 7716,
+  "files_per_second"   : 86.0290855025729,
+  "lines_per_second"   : 8095.1271187543,
+  "report_file"        : "loc/PyConPune__pune.pycon.org.json"},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 2089},
+"HTML" :{
+  "nFiles": 21,
+  "blank": 125,
+  "comment": 55,
+  "code": 1851},
+"Python" :{
+  "nFiles": 53,
+  "blank": 414,
+  "comment": 101,
+  "code": 1785},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 21,
+  "code": 841},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 26,
+  "code": 206},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 86},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 613,
+  "comment": 204,
+  "code": 6899,
+  "nFiles": 82} }

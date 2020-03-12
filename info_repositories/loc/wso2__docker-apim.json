@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.682401895523071,
+  "n_files"            : 56,
+  "n_lines"            : 10642,
+  "files_per_second"   : 82.0630780298099,
+  "lines_per_second"   : 15594.9156498792,
+  "report_file"        : "loc/wso2__docker-apim.json"},
+"XML" :{
+  "nFiles": 12,
+  "blank": 510,
+  "comment": 2429,
+  "code": 2110},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 239,
+  "comment": 31,
+  "code": 1716},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 439,
+  "comment": 0,
+  "code": 872},
+"Dockerfile" :{
+  "nFiles": 12,
+  "blank": 100,
+  "comment": 403,
+  "code": 584},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 161,
+  "code": 443},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 69,
+  "comment": 159,
+  "code": 343},
+"SUM": {
+  "blank": 1391,
+  "comment": 3183,
+  "code": 6068,
+  "nFiles": 56} }

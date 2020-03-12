@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.502907037734985,
+  "n_files"            : 3,
+  "n_lines"            : 164,
+  "files_per_second"   : 5.96531719562234,
+  "lines_per_second"   : 326.104006694021,
+  "report_file"        : "loc/flathub__net.sourceforge.Chessx.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 65},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 53},
+"diff" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 24,
+  "code": 15},
+"SUM": {
+  "blank": 7,
+  "comment": 24,
+  "code": 133,
+  "nFiles": 3} }

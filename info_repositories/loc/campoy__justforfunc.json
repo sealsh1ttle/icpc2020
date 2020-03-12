@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 293.740224123001,
+  "n_files"            : 1313,
+  "n_lines"            : 449726,
+  "files_per_second"   : 4.46993599164067,
+  "lines_per_second"   : 1531.03307979939,
+  "report_file"        : "loc/campoy__justforfunc.json"},
+"Go" :{
+  "nFiles": 1138,
+  "blank": 39411,
+  "comment": 57332,
+  "code": 335830},
+"Markdown" :{
+  "nFiles": 64,
+  "blank": 1382,
+  "comment": 0,
+  "code": 3890},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 220,
+  "comment": 115,
+  "code": 2989},
+"Protocol Buffers" :{
+  "nFiles": 17,
+  "blank": 482,
+  "comment": 953,
+  "code": 1489},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 186,
+  "comment": 169,
+  "code": 1171},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 102,
+  "comment": 315,
+  "code": 660},
+"YAML" :{
+  "nFiles": 25,
+  "blank": 84,
+  "comment": 44,
+  "code": 484},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 458},
+"Assembly" :{
+  "nFiles": 25,
+  "blank": 223,
+  "comment": 252,
+  "code": 428},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 394},
+"make" :{
+  "nFiles": 15,
+  "blank": 56,
+  "comment": 94,
+  "code": 199},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 83},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 33,
+  "code": 48},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 23,
+  "code": 37},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"SUM": {
+  "blank": 42204,
+  "comment": 59338,
+  "code": 348184,
+  "nFiles": 1313} }

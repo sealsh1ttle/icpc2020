@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.912551164627075,
+  "n_files"            : 57,
+  "n_lines"            : 84703,
+  "files_per_second"   : 62.4622511147566,
+  "lines_per_second"   : 92820.0009854953,
+  "report_file"        : "loc/Groovman__motocal.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 0,
+  "code": 59535},
+"JavaScript" :{
+  "nFiles": 32,
+  "blank": 1135,
+  "comment": 817,
+  "code": 18914},
+"Python" :{
+  "nFiles": 4,
+  "blank": 305,
+  "comment": 244,
+  "code": 1959},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 198,
+  "comment": 9,
+  "code": 1139},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 0,
+  "code": 249},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 94},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1702,
+  "comment": 1075,
+  "code": 81926,
+  "nFiles": 57} }

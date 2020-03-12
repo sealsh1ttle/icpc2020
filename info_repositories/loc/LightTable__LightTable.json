@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 344.991907119751,
+  "n_files"            : 1434,
+  "n_lines"            : 388645,
+  "files_per_second"   : 4.15661924354139,
+  "lines_per_second"   : 1126.53367218002,
+  "report_file"        : "loc/LightTable__LightTable.json"},
+"JavaScript" :{
+  "nFiles": 956,
+  "blank": 25504,
+  "comment": 21648,
+  "code": 160925},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 7160,
+  "comment": 120,
+  "code": 108470},
+"JSON" :{
+  "nFiles": 127,
+  "blank": 99,
+  "comment": 0,
+  "code": 16967},
+"Markdown" :{
+  "nFiles": 139,
+  "blank": 6551,
+  "comment": 2,
+  "code": 16929},
+"ClojureScript" :{
+  "nFiles": 68,
+  "blank": 2139,
+  "comment": 353,
+  "code": 12227},
+"CSS" :{
+  "nFiles": 46,
+  "blank": 391,
+  "comment": 202,
+  "code": 3006},
+"XML" :{
+  "nFiles": 3,
+  "blank": 233,
+  "comment": 11,
+  "code": 2130},
+"make" :{
+  "nFiles": 17,
+  "blank": 177,
+  "comment": 194,
+  "code": 567},
+"Windows Module Definition" :{
+  "nFiles": 5,
+  "blank": 83,
+  "comment": 0,
+  "code": 411},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 80,
+  "code": 259},
+"Python" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 46,
+  "code": 247},
+"YAML" :{
+  "nFiles": 28,
+  "blank": 21,
+  "comment": 1,
+  "code": 247},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 69,
+  "comment": 43,
+  "code": 222},
+"C++" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 16,
+  "code": 210},
+"Clojure" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 2,
+  "code": 154},
+"diff" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 66,
+  "code": 111},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 2,
+  "code": 66},
+"D" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 64},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 46},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 42587,
+  "comment": 22786,
+  "code": 323272,
+  "nFiles": 1434} }

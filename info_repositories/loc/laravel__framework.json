@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.1164751052856,
+  "n_files"            : 1369,
+  "n_lines"            : 212824,
+  "files_per_second"   : 104.372553526086,
+  "lines_per_second"   : 16225.7007535688,
+  "report_file"        : "loc/laravel__framework.json"},
+"PHP" :{
+  "nFiles": 1270,
+  "blank": 31015,
+  "comment": 60283,
+  "code": 117377},
+"JSON" :{
+  "nFiles": 32,
+  "blank": 0,
+  "comment": 0,
+  "code": 1351},
+"Blade" :{
+  "nFiles": 34,
+  "blank": 152,
+  "comment": 37,
+  "code": 865},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 290,
+  "comment": 0,
+  "code": 747},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 11,
+  "code": 234},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 1,
+  "code": 100},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 45},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 28,
+  "comment": 77,
+  "code": 45},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 30},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 6,
+  "code": 21},
+"Vuejs Component" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 21},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 31564,
+  "comment": 60419,
+  "code": 120841,
+  "nFiles": 1369} }

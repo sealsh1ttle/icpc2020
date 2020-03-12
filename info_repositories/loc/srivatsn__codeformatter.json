@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.4704871177673,
+  "n_files"            : 146,
+  "n_lines"            : 19240,
+  "files_per_second"   : 3.35860050531448,
+  "lines_per_second"   : 442.599135083908,
+  "report_file"        : "loc/srivatsn__codeformatter.json"},
+"C#" :{
+  "nFiles": 127,
+  "blank": 2566,
+  "comment": 1202,
+  "code": 13752},
+"MSBuild script" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 52,
+  "code": 1155},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 77,
+  "comment": 0,
+  "code": 184},
+"XML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 50,
+  "code": 153},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 2660,
+  "comment": 1304,
+  "code": 15276,
+  "nFiles": 146} }

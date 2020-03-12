@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.5362658500671,
+  "n_files"            : 82,
+  "n_lines"            : 21276,
+  "files_per_second"   : 2.60018102301181,
+  "lines_per_second"   : 674.651846897552,
+  "report_file"        : "loc/rchain-community__rchain.cloud.json"},
+"JavaScript" :{
+  "nFiles": 49,
+  "blank": 1516,
+  "comment": 1980,
+  "code": 11502},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4103},
+"CSS" :{
+  "nFiles": 15,
+  "blank": 326,
+  "comment": 40,
+  "code": 1401},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 57,
+  "comment": 0,
+  "code": 147},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 20,
+  "code": 101},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 20,
+  "code": 19},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 2,
+  "code": 18},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1915,
+  "comment": 2062,
+  "code": 17299,
+  "nFiles": 82} }

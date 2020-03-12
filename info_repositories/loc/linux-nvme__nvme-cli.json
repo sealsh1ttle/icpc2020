@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 54.7288999557495,
+  "n_files"            : 197,
+  "n_lines"            : 125180,
+  "files_per_second"   : 3.59956074686833,
+  "lines_per_second"   : 2287.27418422831,
+  "report_file"        : "loc/linux-nvme__nvme-cli.json"},
+"HTML" :{
+  "nFiles": 106,
+  "blank": 8833,
+  "comment": 0,
+  "code": 83418},
+"C" :{
+  "nFiles": 26,
+  "blank": 3438,
+  "comment": 756,
+  "code": 21675},
+"C/C++ Header" :{
+  "nFiles": 33,
+  "blank": 499,
+  "comment": 396,
+  "code": 2950},
+"Python" :{
+  "nFiles": 18,
+  "blank": 219,
+  "comment": 919,
+  "code": 717},
+"make" :{
+  "nFiles": 3,
+  "blank": 104,
+  "comment": 21,
+  "code": 380},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 5,
+  "code": 292},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 64,
+  "comment": 0,
+  "code": 164},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 50,
+  "code": 156},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 10,
+  "code": 32},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 25},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 13209,
+  "comment": 2157,
+  "code": 109814,
+  "nFiles": 197} }

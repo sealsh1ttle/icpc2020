@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.94720196723938,
+  "n_files"            : 22,
+  "n_lines"            : 908,
+  "files_per_second"   : 5.57356836123248,
+  "lines_per_second"   : 230.03636690905,
+  "report_file"        : "loc/vincentserpoul__parityPoA.json"},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 12,
+  "comment": 16,
+  "code": 436},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 58,
+  "comment": 0,
+  "code": 116},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 27,
+  "comment": 23,
+  "code": 96},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 79},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 6},
+"SUM": {
+  "blank": 107,
+  "comment": 41,
+  "code": 760,
+  "nFiles": 22} }

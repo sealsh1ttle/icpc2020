@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.7704470157623,
+  "n_files"            : 158,
+  "n_lines"            : 16094,
+  "files_per_second"   : 3.78257862407787,
+  "lines_per_second"   : 385.296331493097,
+  "report_file"        : "loc/open-orchestra__open-orchestra-model-bundle.json"},
+"PHP" :{
+  "nFiles": 126,
+  "blank": 1979,
+  "comment": 4865,
+  "code": 8686},
+"YAML" :{
+  "nFiles": 28,
+  "blank": 16,
+  "comment": 0,
+  "code": 435},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 41},
+"XML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 22},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2017,
+  "comment": 4866,
+  "code": 9211,
+  "nFiles": 158} }

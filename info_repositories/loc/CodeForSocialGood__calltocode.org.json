@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 50.3153071403503,
+  "n_files"            : 187,
+  "n_lines"            : 9619,
+  "files_per_second"   : 3.71656282408014,
+  "lines_per_second"   : 191.17442676378,
+  "report_file"        : "loc/CodeForSocialGood__calltocode.org.json"},
+"JavaScript" :{
+  "nFiles": 129,
+  "blank": 805,
+  "comment": 109,
+  "code": 4498},
+"Sass" :{
+  "nFiles": 29,
+  "blank": 244,
+  "comment": 6,
+  "code": 1480},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 525,
+  "comment": 0,
+  "code": 1137},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 285},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 49,
+  "comment": 16,
+  "code": 267},
+"Cucumber" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 67},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 38},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 1,
+  "code": 37},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1651,
+  "comment": 132,
+  "code": 7836,
+  "nFiles": 187} }

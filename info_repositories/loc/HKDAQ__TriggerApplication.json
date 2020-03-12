@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.8782560825348,
+  "n_files"            : 63,
+  "n_lines"            : 11040,
+  "files_per_second"   : 4.23436723030693,
+  "lines_per_second"   : 742.022447977595,
+  "report_file"        : "loc/HKDAQ__TriggerApplication.json"},
+"C/C++ Header" :{
+  "nFiles": 19,
+  "blank": 1124,
+  "comment": 256,
+  "code": 3261},
+"CUDA" :{
+  "nFiles": 7,
+  "blank": 1074,
+  "comment": 715,
+  "code": 2378},
+"C++" :{
+  "nFiles": 13,
+  "blank": 250,
+  "comment": 156,
+  "code": 869},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 168,
+  "comment": 0,
+  "code": 394},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 58,
+  "comment": 4,
+  "code": 160},
+"make" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 6,
+  "code": 102},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 9},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 4},
+"SUM": {
+  "blank": 2722,
+  "comment": 1141,
+  "code": 7177,
+  "nFiles": 63} }

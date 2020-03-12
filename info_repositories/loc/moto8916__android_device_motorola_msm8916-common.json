@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.5401010513306,
+  "n_files"            : 218,
+  "n_lines"            : 34994,
+  "files_per_second"   : 12.4286627176223,
+  "lines_per_second"   : 1995.08542724989,
+  "report_file"        : "loc/moto8916__android_device_motorola_msm8916-common.json"},
+"C++" :{
+  "nFiles": 40,
+  "blank": 1980,
+  "comment": 2650,
+  "code": 10506},
+"C/C++ Header" :{
+  "nFiles": 74,
+  "blank": 1046,
+  "comment": 2679,
+  "code": 4219},
+"C" :{
+  "nFiles": 20,
+  "blank": 858,
+  "comment": 1424,
+  "code": 3318},
+"Java" :{
+  "nFiles": 25,
+  "blank": 278,
+  "comment": 409,
+  "code": 1194},
+"Windows Resource File" :{
+  "nFiles": 5,
+  "blank": 157,
+  "comment": 0,
+  "code": 1033},
+"make" :{
+  "nFiles": 18,
+  "blank": 243,
+  "comment": 203,
+  "code": 879},
+"XML" :{
+  "nFiles": 24,
+  "blank": 121,
+  "comment": 372,
+  "code": 756},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 85,
+  "comment": 55,
+  "code": 375},
+"F#" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 0,
+  "code": 98},
+"Python" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 13,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 4799,
+  "comment": 7805,
+  "code": 22390,
+  "nFiles": 218} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.183220863342285,
+  "n_files"            : 32,
+  "n_lines"            : 4153,
+  "files_per_second"   : 174.652599143248,
+  "lines_per_second"   : 22666.6326325597,
+  "report_file"        : "loc/Karuhanga__store-manager-backend.json"},
+"Python" :{
+  "nFiles": 25,
+  "blank": 430,
+  "comment": 188,
+  "code": 2118},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1241},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 65},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 11,
+  "code": 31},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 28},
+"SUM": {
+  "blank": 470,
+  "comment": 200,
+  "code": 3483,
+  "nFiles": 32} }

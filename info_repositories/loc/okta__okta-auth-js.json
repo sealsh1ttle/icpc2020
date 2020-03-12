@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.09453010559082,
+  "n_files"            : 142,
+  "n_lines"            : 30223,
+  "files_per_second"   : 129.736038574608,
+  "lines_per_second"   : 27612.7626326786,
+  "report_file"        : "loc/okta__okta-auth-js.json"},
+"JavaScript" :{
+  "nFiles": 123,
+  "blank": 1249,
+  "comment": 803,
+  "code": 15188},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 10893},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 459,
+  "comment": 0,
+  "code": 1506},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 16,
+  "code": 61},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 1732,
+  "comment": 819,
+  "code": 27672,
+  "nFiles": 142} }

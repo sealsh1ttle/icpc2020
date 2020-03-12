@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.11409711837769,
+  "n_files"            : 39,
+  "n_lines"            : 5569,
+  "files_per_second"   : 5.4820730376666,
+  "lines_per_second"   : 782.811916583726,
+  "report_file"        : "loc/ConnectHolland__kvk-api-bundle.json"},
+"PHP" :{
+  "nFiles": 34,
+  "blank": 541,
+  "comment": 1468,
+  "code": 2536},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 944},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 45},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 557,
+  "comment": 1468,
+  "code": 3544,
+  "nFiles": 39} }

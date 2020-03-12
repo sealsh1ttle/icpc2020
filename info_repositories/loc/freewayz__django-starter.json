@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.147397994995117,
+  "n_files"            : 21,
+  "n_lines"            : 483,
+  "files_per_second"   : 142.471408791522,
+  "lines_per_second"   : 3276.842402205,
+  "report_file"        : "loc/freewayz__django-starter.json"},
+"Python" :{
+  "nFiles": 14,
+  "blank": 89,
+  "comment": 52,
+  "code": 219},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 0,
+  "code": 49},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 12},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 9},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 120,
+  "comment": 52,
+  "code": 311,
+  "nFiles": 21} }

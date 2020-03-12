@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.17888593673706,
+  "n_files"            : 17,
+  "n_lines"            : 1261,
+  "files_per_second"   : 5.34778546267989,
+  "lines_per_second"   : 396.679851084667,
+  "report_file"        : "loc/ropensci__IEEER.json"},
+"R" :{
+  "nFiles": 11,
+  "blank": 110,
+  "comment": 208,
+  "code": 412},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 1,
+  "code": 172},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 39},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 29},
+"Rmd" :{
+  "nFiles": 1,
+  "blank": 61,
+  "comment": 145,
+  "code": 25},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 219,
+  "comment": 354,
+  "code": 688,
+  "nFiles": 17} }

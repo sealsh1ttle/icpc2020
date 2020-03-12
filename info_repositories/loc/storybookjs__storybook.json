@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 545.439549207687,
+  "n_files"            : 2062,
+  "n_lines"            : 117091,
+  "files_per_second"   : 3.78043726934596,
+  "lines_per_second"   : 214.672735356444,
+  "report_file"        : "loc/storybookjs__storybook.json"},
+"JavaScript" :{
+  "nFiles": 921,
+  "blank": 5340,
+  "comment": 1632,
+  "code": 34382},
+"TypeScript" :{
+  "nFiles": 605,
+  "blank": 4530,
+  "comment": 1461,
+  "code": 29270},
+"Markdown" :{
+  "nFiles": 187,
+  "blank": 8291,
+  "comment": 0,
+  "code": 20017},
+"JSON" :{
+  "nFiles": 172,
+  "blank": 0,
+  "comment": 0,
+  "code": 6304},
+"CSS" :{
+  "nFiles": 32,
+  "blank": 189,
+  "comment": 22,
+  "code": 1008},
+"YAML" :{
+  "nFiles": 18,
+  "blank": 22,
+  "comment": 72,
+  "code": 877},
+"HTML" :{
+  "nFiles": 35,
+  "blank": 62,
+  "comment": 95,
+  "code": 691},
+"Vuejs Component" :{
+  "nFiles": 9,
+  "blank": 43,
+  "comment": 20,
+  "code": 423},
+"Kotlin" :{
+  "nFiles": 27,
+  "blank": 64,
+  "comment": 124,
+  "code": 320},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 2,
+  "comment": 8,
+  "code": 320},
+"XML" :{
+  "nFiles": 7,
+  "blank": 6,
+  "comment": 4,
+  "code": 209},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 62,
+  "comment": 73,
+  "code": 170},
+"JSX" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 3,
+  "code": 128},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 24,
+  "code": 75},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 89,
+  "code": 71},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Handlebars" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 58},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 43},
+"Java" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 4,
+  "code": 40},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 25,
+  "code": 31},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 1,
+  "code": 16},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 8,
+  "code": 4},
+"SUM": {
+  "blank": 18752,
+  "comment": 3688,
+  "code": 94651,
+  "nFiles": 2062} }

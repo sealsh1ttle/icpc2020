@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.1562149524689,
+  "n_files"            : 118,
+  "n_lines"            : 543752,
+  "files_per_second"   : 4.1909042177437,
+  "lines_per_second"   : 19311.9707644625,
+  "report_file"        : "loc/kubernetes-client__haskell.json"},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 773,
+  "comment": 94,
+  "code": 324592},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 107518},
+"Haskell" :{
+  "nFiles": 101,
+  "blank": 19790,
+  "comment": 23308,
+  "code": 67383},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 46,
+  "comment": 0,
+  "code": 161},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 8,
+  "code": 36},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 17,
+  "code": 6},
+"SUM": {
+  "blank": 20629,
+  "comment": 23427,
+  "code": 499696,
+  "nFiles": 118} }

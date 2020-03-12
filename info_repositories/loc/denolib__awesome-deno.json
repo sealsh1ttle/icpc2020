@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.582998037338257,
+  "n_files"            : 2,
+  "n_lines"            : 182,
+  "files_per_second"   : 3.43054328129684,
+  "lines_per_second"   : 312.179438598012,
+  "report_file"        : "loc/denolib__awesome-deno.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 144},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 29,
+  "comment": 0,
+  "code": 153,
+  "nFiles": 2} }

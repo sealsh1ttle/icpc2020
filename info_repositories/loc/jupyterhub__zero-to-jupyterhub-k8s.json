@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.2204492092133,
+  "n_files"            : 120,
+  "n_lines"            : 14449,
+  "files_per_second"   : 3.84363463817771,
+  "lines_per_second"   : 462.805640725248,
+  "report_file"        : "loc/jupyterhub__zero-to-jupyterhub-k8s.json"},
+"YAML" :{
+  "nFiles": 48,
+  "blank": 184,
+  "comment": 165,
+  "code": 3554},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 649,
+  "comment": 0,
+  "code": 3110},
+"reStructuredText" :{
+  "nFiles": 29,
+  "blank": 1256,
+  "comment": 572,
+  "code": 2321},
+"Python" :{
+  "nFiles": 12,
+  "blank": 305,
+  "comment": 342,
+  "code": 1163},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 46,
+  "comment": 35,
+  "code": 169},
+"Go" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 18,
+  "code": 132},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 2,
+  "code": 88},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 26,
+  "comment": 24,
+  "code": 59},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 31},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 6,
+  "code": 19},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 71,
+  "code": 3},
+"SUM": {
+  "blank": 2537,
+  "comment": 1236,
+  "code": 10676,
+  "nFiles": 120} }

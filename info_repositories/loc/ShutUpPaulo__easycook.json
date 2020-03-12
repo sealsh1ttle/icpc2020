@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.7622580528259,
+  "n_files"            : 142,
+  "n_lines"            : 4101,
+  "files_per_second"   : 4.93702544978204,
+  "lines_per_second"   : 142.5826857011,
+  "report_file"        : "loc/ShutUpPaulo__easycook.json"},
+"Ruby" :{
+  "nFiles": 87,
+  "blank": 371,
+  "comment": 905,
+  "code": 1277},
+"ERB" :{
+  "nFiles": 35,
+  "blank": 74,
+  "comment": 0,
+  "code": 777},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 6,
+  "code": 153},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 40,
+  "code": 95},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 19,
+  "code": 63},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 22,
+  "code": 22},
+"CoffeeScript" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 9,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 513,
+  "comment": 1004,
+  "code": 2584,
+  "nFiles": 142} }

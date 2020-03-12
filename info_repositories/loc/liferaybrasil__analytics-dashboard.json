@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.848032951355,
+  "n_files"            : 76,
+  "n_lines"            : 5831,
+  "files_per_second"   : 2.94026242318048,
+  "lines_per_second"   : 225.587765652176,
+  "report_file"        : "loc/liferaybrasil__analytics-dashboard.json"},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 234,
+  "comment": 26,
+  "code": 1726},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 1689},
+"Java" :{
+  "nFiles": 14,
+  "blank": 260,
+  "comment": 224,
+  "code": 607},
+"Sass" :{
+  "nFiles": 18,
+  "blank": 131,
+  "comment": 0,
+  "code": 553},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 1,
+  "code": 128},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 76},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 70},
+"JSP" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 65},
+"SUM": {
+  "blank": 663,
+  "comment": 254,
+  "code": 4914,
+  "nFiles": 76} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.351958990097046,
+  "n_files"            : 13,
+  "n_lines"            : 1744,
+  "files_per_second"   : 36.936121439647,
+  "lines_per_second"   : 4955.12275313418,
+  "report_file"        : "loc/caseyamcl__guzzle_retry_middleware.json"},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 159,
+  "comment": 275,
+  "code": 616},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 171,
+  "comment": 0,
+  "code": 388},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 3,
+  "code": 39},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 338,
+  "comment": 278,
+  "code": 1128,
+  "nFiles": 13} }

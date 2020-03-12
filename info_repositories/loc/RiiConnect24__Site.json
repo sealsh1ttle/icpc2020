@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 45.9840431213379,
+  "n_files"            : 175,
+  "n_lines"            : 708595,
+  "files_per_second"   : 3.80566796917418,
+  "lines_per_second"   : 15409.5845406685,
+  "report_file"        : "loc/RiiConnect24__Site.json"},
+"YAML" :{
+  "nFiles": 37,
+  "blank": 4066,
+  "comment": 17,
+  "code": 698373},
+"HTML" :{
+  "nFiles": 129,
+  "blank": 240,
+  "comment": 12,
+  "code": 5647},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 10,
+  "code": 131},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 4342,
+  "comment": 39,
+  "code": 704214,
+  "nFiles": 175} }

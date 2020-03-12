@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.980219125747681,
+  "n_files"            : 171,
+  "n_lines"            : 11972,
+  "files_per_second"   : 174.450789122857,
+  "lines_per_second"   : 12213.5955987067,
+  "report_file"        : "loc/zrlio__jNVMf.json"},
+"Java" :{
+  "nFiles": 168,
+  "blank": 1709,
+  "comment": 2726,
+  "code": 6880},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 255},
+"XML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 22,
+  "code": 198},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 118},
+"SUM": {
+  "blank": 1772,
+  "comment": 2749,
+  "code": 7451,
+  "nFiles": 171} }

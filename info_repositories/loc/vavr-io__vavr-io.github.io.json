@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.3796648979187,
+  "n_files"            : 51,
+  "n_lines"            : 16990,
+  "files_per_second"   : 4.91345342085431,
+  "lines_per_second"   : 1636.85438471205,
+  "report_file"        : "loc/vavr-io__vavr-io.github.io.json"},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 27,
+  "comment": 37,
+  "code": 9227},
+"LESS" :{
+  "nFiles": 16,
+  "blank": 84,
+  "comment": 68,
+  "code": 1890},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 589,
+  "comment": 261,
+  "code": 1622},
+"Sass" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 24,
+  "code": 1352},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 5,
+  "code": 933},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 45,
+  "comment": 57,
+  "code": 731},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 776,
+  "comment": 452,
+  "code": 15762,
+  "nFiles": 51} }

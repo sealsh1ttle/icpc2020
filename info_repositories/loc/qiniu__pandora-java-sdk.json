@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.7846949100494,
+  "n_files"            : 97,
+  "n_lines"            : 8517,
+  "files_per_second"   : 3.4911306499506,
+  "lines_per_second"   : 306.535667480714,
+  "report_file"        : "loc/qiniu__pandora-java-sdk.json"},
+"Java" :{
+  "nFiles": 92,
+  "blank": 1057,
+  "comment": 1446,
+  "code": 5725},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 0,
+  "code": 216},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 1095,
+  "comment": 1446,
+  "code": 5976,
+  "nFiles": 97} }

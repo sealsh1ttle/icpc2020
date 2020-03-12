@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 925.282208919525,
+  "n_files"            : 987,
+  "n_lines"            : 327750,
+  "files_per_second"   : 1.06670158626798,
+  "lines_per_second"   : 354.216256230325,
+  "report_file"        : "loc/HewlettPackard__lustre_exporter.json"},
+"Go" :{
+  "nFiles": 819,
+  "blank": 28693,
+  "comment": 28731,
+  "code": 236889},
+"Assembly" :{
+  "nFiles": 45,
+  "blank": 861,
+  "comment": 934,
+  "code": 7422},
+"Java" :{
+  "nFiles": 1,
+  "blank": 422,
+  "comment": 1360,
+  "code": 5901},
+"C++" :{
+  "nFiles": 1,
+  "blank": 411,
+  "comment": 220,
+  "code": 2749},
+"Markdown" :{
+  "nFiles": 28,
+  "blank": 581,
+  "comment": 0,
+  "code": 1869},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 253,
+  "comment": 219,
+  "code": 1608},
+"Protocol Buffers" :{
+  "nFiles": 26,
+  "blank": 424,
+  "comment": 1764,
+  "code": 1446},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 180,
+  "comment": 179,
+  "code": 1173},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 115,
+  "comment": 371,
+  "code": 729},
+"Python" :{
+  "nFiles": 4,
+  "blank": 49,
+  "comment": 34,
+  "code": 541},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 13,
+  "code": 231},
+"C" :{
+  "nFiles": 3,
+  "blank": 51,
+  "comment": 22,
+  "code": 189},
+"make" :{
+  "nFiles": 14,
+  "blank": 81,
+  "comment": 342,
+  "code": 173},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 122},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 2,
+  "code": 115},
+"YAML" :{
+  "nFiles": 18,
+  "blank": 10,
+  "comment": 1,
+  "code": 109},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 9,
+  "code": 34},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 20,
+  "code": 7},
+"SUM": {
+  "blank": 32197,
+  "comment": 34221,
+  "code": 261332,
+  "nFiles": 987} }

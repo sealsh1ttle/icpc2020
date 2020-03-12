@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.620891809463501,
+  "n_files"            : 90,
+  "n_lines"            : 9712,
+  "files_per_second"   : 144.952789887448,
+  "lines_per_second"   : 15642.0166154099,
+  "report_file"        : "loc/puppetlabs__puppetlabs-haproxy.json"},
+"Ruby" :{
+  "nFiles": 26,
+  "blank": 277,
+  "comment": 101,
+  "code": 3502},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 963,
+  "comment": 0,
+  "code": 2122},
+"Puppet" :{
+  "nFiles": 24,
+  "blank": 94,
+  "comment": 1076,
+  "code": 861},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 8,
+  "comment": 18,
+  "code": 347},
+"ERB" :{
+  "nFiles": 17,
+  "blank": 16,
+  "comment": 15,
+  "code": 188},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 94},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1360,
+  "comment": 1210,
+  "code": 7142,
+  "nFiles": 90} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.375789880752563,
+  "n_files"            : 30,
+  "n_lines"            : 26461,
+  "files_per_second"   : 79.8318462964502,
+  "lines_per_second"   : 70414.3494950123,
+  "report_file"        : "loc/mix-bank__Mix-Bank.json"},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 3209,
+  "comment": 7564,
+  "code": 15526},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 71},
+"Handlebars" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 0,
+  "code": 40},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3220,
+  "comment": 7564,
+  "code": 15677,
+  "nFiles": 30} }

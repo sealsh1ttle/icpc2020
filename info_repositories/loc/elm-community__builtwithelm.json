@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.903004884719849,
+  "n_files"            : 19,
+  "n_lines"            : 1996,
+  "files_per_second"   : 21.0408607101772,
+  "lines_per_second"   : 2210.3977882902,
+  "report_file"        : "loc/elm-community__builtwithelm.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1057},
+"Elm" :{
+  "nFiles": 8,
+  "blank": 76,
+  "comment": 0,
+  "code": 585},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 103},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 3,
+  "code": 70},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 33},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 118,
+  "comment": 3,
+  "code": 1875,
+  "nFiles": 19} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 57.1814320087433,
+  "n_files"            : 118,
+  "n_lines"            : 8881,
+  "files_per_second"   : 2.06360694118254,
+  "lines_per_second"   : 155.312654615611,
+  "report_file"        : "loc/NethServer__nethserver-sssd.json"},
+"PHP" :{
+  "nFiles": 65,
+  "blank": 548,
+  "comment": 848,
+  "code": 2570},
+"Perl" :{
+  "nFiles": 25,
+  "blank": 641,
+  "comment": 674,
+  "code": 1952},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 251,
+  "comment": 2,
+  "code": 469},
+"Bourne Again Shell" :{
+  "nFiles": 20,
+  "blank": 102,
+  "comment": 387,
+  "code": 256},
+"Python" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 58,
+  "code": 65},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 1565,
+  "comment": 1969,
+  "code": 5347,
+  "nFiles": 118} }

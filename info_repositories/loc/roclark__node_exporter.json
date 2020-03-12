@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 151.365437030792,
+  "n_files"            : 526,
+  "n_lines"            : 183186,
+  "files_per_second"   : 3.47503373503289,
+  "lines_per_second"   : 1210.22344065729,
+  "report_file"        : "loc/roclark__node_exporter.json"},
+"Go" :{
+  "nFiles": 446,
+  "blank": 16421,
+  "comment": 17419,
+  "code": 139162},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 403,
+  "comment": 3441,
+  "code": 1290},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 284,
+  "comment": 0,
+  "code": 933},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 152,
+  "comment": 142,
+  "code": 915},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 93,
+  "comment": 305,
+  "code": 698},
+"Assembly" :{
+  "nFiles": 25,
+  "blank": 198,
+  "comment": 242,
+  "code": 220},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 217},
+"Python" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 32,
+  "code": 152},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 3,
+  "code": 111},
+"C" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 20,
+  "code": 81},
+"make" :{
+  "nFiles": 4,
+  "blank": 28,
+  "comment": 46,
+  "code": 78},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 17653,
+  "comment": 21651,
+  "code": 143882,
+  "nFiles": 526} }

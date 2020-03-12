@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 132.554767131805,
+  "n_files"            : 275,
+  "n_lines"            : 50086,
+  "files_per_second"   : 2.07461418363441,
+  "lines_per_second"   : 377.85136727823,
+  "report_file"        : "loc/apicollective__apibuilder-generator.json"},
+"Scala" :{
+  "nFiles": 232,
+  "blank": 4959,
+  "comment": 1280,
+  "code": 26203},
+"JSON" :{
+  "nFiles": 30,
+  "blank": 54,
+  "comment": 0,
+  "code": 17243},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 34,
+  "comment": 0,
+  "code": 171},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 1,
+  "code": 81},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 5069,
+  "comment": 1282,
+  "code": 43735,
+  "nFiles": 275} }

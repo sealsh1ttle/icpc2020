@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.761367082595825,
+  "n_files"            : 127,
+  "n_lines"            : 27340,
+  "files_per_second"   : 166.805215123043,
+  "lines_per_second"   : 35909.0911926298,
+  "report_file"        : "loc/BigNoid__script.skinshortcuts.json"},
+"PO File" :{
+  "nFiles": 71,
+  "blank": 3326,
+  "comment": 383,
+  "code": 10846},
+"Python" :{
+  "nFiles": 10,
+  "blank": 1522,
+  "comment": 1426,
+  "code": 6408},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 793,
+  "comment": 0,
+  "code": 1493},
+"XML" :{
+  "nFiles": 14,
+  "blank": 29,
+  "comment": 19,
+  "code": 1095},
+"SUM": {
+  "blank": 5670,
+  "comment": 1828,
+  "code": 19842,
+  "nFiles": 127} }

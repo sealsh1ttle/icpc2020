@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 232.205830812454,
+  "n_files"            : 964,
+  "n_lines"            : 752475,
+  "files_per_second"   : 4.15148920518966,
+  "lines_per_second"   : 3240.55170090777,
+  "report_file"        : "loc/mysociety__pombola.json"},
+"JSON" :{
+  "nFiles": 50,
+  "blank": 0,
+  "comment": 0,
+  "code": 589046},
+"Python" :{
+  "nFiles": 396,
+  "blank": 9041,
+  "comment": 5785,
+  "code": 39015},
+"HTML" :{
+  "nFiles": 328,
+  "blank": 3360,
+  "comment": 720,
+  "code": 33156},
+"JavaScript" :{
+  "nFiles": 42,
+  "blank": 4431,
+  "comment": 9489,
+  "code": 20123},
+"XML" :{
+  "nFiles": 14,
+  "blank": 6,
+  "comment": 0,
+  "code": 13619},
+"Sass" :{
+  "nFiles": 64,
+  "blank": 1975,
+  "comment": 208,
+  "code": 10196},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 1132,
+  "comment": 0,
+  "code": 5897},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 156,
+  "comment": 121,
+  "code": 1763},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 0,
+  "code": 1003},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 407,
+  "comment": 0,
+  "code": 931},
+"Bourne Again Shell" :{
+  "nFiles": 12,
+  "blank": 105,
+  "comment": 126,
+  "code": 258},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 60,
+  "comment": 12,
+  "code": 152},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 15,
+  "code": 57},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 38},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 23,
+  "code": 17},
+"SUM": {
+  "blank": 20701,
+  "comment": 16503,
+  "code": 715271,
+  "nFiles": 964} }

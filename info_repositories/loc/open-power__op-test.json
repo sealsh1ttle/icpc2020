@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.2742929458618,
+  "n_files"            : 129,
+  "n_lines"            : 39439,
+  "files_per_second"   : 5.54259587176573,
+  "lines_per_second"   : 1694.53053167883,
+  "report_file"        : "loc/open-power__op-test.json"},
+"Python" :{
+  "nFiles": 118,
+  "blank": 4604,
+  "comment": 8788,
+  "code": 22725},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 136,
+  "comment": 151,
+  "code": 1480},
+"Tcl/Tk" :{
+  "nFiles": 1,
+  "blank": 91,
+  "comment": 85,
+  "code": 386},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 181,
+  "comment": 244,
+  "code": 180},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 56,
+  "comment": 0,
+  "code": 129},
+"C" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 3,
+  "code": 98},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 39},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 5105,
+  "comment": 9277,
+  "code": 25057,
+  "nFiles": 129} }

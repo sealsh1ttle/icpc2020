@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 68.054398059845,
+  "n_files"            : 309,
+  "n_lines"            : 23466,
+  "files_per_second"   : 4.54048538829592,
+  "lines_per_second"   : 344.812395216026,
+  "report_file"        : "loc/raml-org__raml-org.json"},
+"Sass" :{
+  "nFiles": 88,
+  "blank": 1335,
+  "comment": 1052,
+  "code": 6898},
+"HTML" :{
+  "nFiles": 42,
+  "blank": 396,
+  "comment": 57,
+  "code": 3820},
+"JavaScript" :{
+  "nFiles": 77,
+  "blank": 87,
+  "comment": 552,
+  "code": 2859},
+"Markdown" :{
+  "nFiles": 39,
+  "blank": 761,
+  "comment": 0,
+  "code": 1903},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 10,
+  "code": 1731},
+"SVG" :{
+  "nFiles": 55,
+  "blank": 87,
+  "comment": 22,
+  "code": 1678},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 8,
+  "code": 72},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 56},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 51},
+"SUM": {
+  "blank": 2697,
+  "comment": 1701,
+  "code": 19068,
+  "nFiles": 309} }

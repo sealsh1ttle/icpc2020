@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.308757066726685,
+  "n_files"            : 45,
+  "n_lines"            : 4143,
+  "files_per_second"   : 145.74565200101,
+  "lines_per_second"   : 13418.316360893,
+  "report_file"        : "loc/wso2__docker-sp.json"},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 564,
+  "code": 1506},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 181,
+  "comment": 0,
+  "code": 522},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 105,
+  "comment": 218,
+  "code": 260},
+"Dockerfile" :{
+  "nFiles": 15,
+  "blank": 71,
+  "comment": 326,
+  "code": 175},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 45,
+  "code": 153},
+"SUM": {
+  "blank": 374,
+  "comment": 1153,
+  "code": 2616,
+  "nFiles": 45} }

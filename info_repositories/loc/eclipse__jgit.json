@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 555.126132965088,
+  "n_files"            : 1764,
+  "n_lines"            : 420687,
+  "files_per_second"   : 3.17765620324514,
+  "lines_per_second"   : 757.822366879019,
+  "report_file"        : "loc/eclipse__jgit.json"},
+"Java" :{
+  "nFiles": 1559,
+  "blank": 41656,
+  "comment": 142216,
+  "code": 221865},
+"Maven" :{
+  "nFiles": 32,
+  "blank": 648,
+  "comment": 1112,
+  "code": 4358},
+"INI" :{
+  "nFiles": 36,
+  "blank": 0,
+  "comment": 0,
+  "code": 3087},
+"XML" :{
+  "nFiles": 62,
+  "blank": 98,
+  "comment": 17,
+  "code": 2046},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 322,
+  "comment": 0,
+  "code": 848},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 50,
+  "comment": 0,
+  "code": 509},
+"diff" :{
+  "nFiles": 41,
+  "blank": 51,
+  "comment": 250,
+  "code": 486},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 45,
+  "comment": 140,
+  "code": 216},
+"TITAN Project File Information" :{
+  "nFiles": 12,
+  "blank": 23,
+  "comment": 0,
+  "code": 199},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 1,
+  "code": 122},
+"Starlark" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 6,
+  "code": 107},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 96},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"SUM": {
+  "blank": 42962,
+  "comment": 143742,
+  "code": 233983,
+  "nFiles": 1764} }

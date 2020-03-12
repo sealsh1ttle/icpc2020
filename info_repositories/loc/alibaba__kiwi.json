@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.3077540397644,
+  "n_files"            : 103,
+  "n_lines"            : 6230,
+  "files_per_second"   : 3.39847023520324,
+  "lines_per_second"   : 205.557956944817,
+  "report_file"        : "loc/alibaba__kiwi.json"},
+"TypeScript" :{
+  "nFiles": 44,
+  "blank": 225,
+  "comment": 415,
+  "code": 2103},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 92,
+  "comment": 562,
+  "code": 1809},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 0,
+  "code": 544},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 152,
+  "comment": 0,
+  "code": 203},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 57},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 20,
+  "code": 30},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 480,
+  "comment": 997,
+  "code": 4753,
+  "nFiles": 103} }

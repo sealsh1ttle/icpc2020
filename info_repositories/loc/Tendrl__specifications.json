@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.342326164245605,
+  "n_files"            : 54,
+  "n_lines"            : 12085,
+  "files_per_second"   : 157.744296638854,
+  "lines_per_second"   : 35302.5893496399,
+  "report_file"        : "loc/Tendrl__specifications.json"},
+"AsciiDoc" :{
+  "nFiles": 54,
+  "blank": 3542,
+  "comment": 27,
+  "code": 8516},
+"SUM": {
+  "blank": 3542,
+  "comment": 27,
+  "code": 8516,
+  "nFiles": 54} }

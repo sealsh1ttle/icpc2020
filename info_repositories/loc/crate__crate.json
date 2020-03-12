@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1148.85043001175,
+  "n_files"            : 4780,
+  "n_lines"            : 686377,
+  "files_per_second"   : 4.1606808642193,
+  "lines_per_second"   : 597.446788606747,
+  "report_file"        : "loc/crate__crate.json"},
+"Java" :{
+  "nFiles": 4405,
+  "blank": 79657,
+  "comment": 138951,
+  "code": 422043},
+"reStructuredText" :{
+  "nFiles": 225,
+  "blank": 10197,
+  "comment": 5580,
+  "code": 20149},
+"Gradle" :{
+  "nFiles": 42,
+  "blank": 277,
+  "comment": 206,
+  "code": 1648},
+"Python" :{
+  "nFiles": 14,
+  "blank": 319,
+  "comment": 358,
+  "code": 1236},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 138,
+  "comment": 23,
+  "code": 842},
+"SQL" :{
+  "nFiles": 22,
+  "blank": 2,
+  "comment": 88,
+  "code": 691},
+"RobotFramework" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 672},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 79,
+  "comment": 148,
+  "code": 390},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 1,
+  "comment": 0,
+  "code": 388},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 331},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 206,
+  "comment": 539,
+  "code": 323},
+"XML" :{
+  "nFiles": 9,
+  "blank": 18,
+  "comment": 148,
+  "code": 315},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 15,
+  "code": 148},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 44,
+  "comment": 0,
+  "code": 103},
+"Bourne Again Shell" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 42},
+"SUM": {
+  "blank": 90999,
+  "comment": 146057,
+  "code": 449321,
+  "nFiles": 4780} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.3400588035583,
+  "n_files"            : 47,
+  "n_lines"            : 1155,
+  "files_per_second"   : 4.54542869561107,
+  "lines_per_second"   : 111.701492413421,
+  "report_file"        : "loc/nataliecodes__hip-hop-hacks-maps-pack.json"},
+"Ruby" :{
+  "nFiles": 32,
+  "blank": 113,
+  "comment": 217,
+  "code": 315},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"ERB" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 51},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 15,
+  "code": 48},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 15,
+  "code": 28},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 91,
+  "code": 23},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 162,
+  "comment": 341,
+  "code": 652,
+  "nFiles": 47} }

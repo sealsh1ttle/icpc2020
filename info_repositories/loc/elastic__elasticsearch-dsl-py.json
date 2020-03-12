@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.510135889053345,
+  "n_files"            : 70,
+  "n_lines"            : 13429,
+  "files_per_second"   : 137.218340254199,
+  "lines_per_second"   : 26324.3584467662,
+  "report_file"        : "loc/elastic__elasticsearch-dsl-py.json"},
+"Python" :{
+  "nFiles": 58,
+  "blank": 2150,
+  "comment": 1342,
+  "code": 7308},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 745,
+  "comment": 762,
+  "code": 914},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 2928,
+  "comment": 2110,
+  "code": 8391,
+  "nFiles": 70} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 146.724503993988,
+  "n_files"            : 648,
+  "n_lines"            : 453058,
+  "files_per_second"   : 4.4164402152387,
+  "lines_per_second"   : 3087.81415283274,
+  "report_file"        : "loc/pivotal-cf__on-demand-services-sdk.json"},
+"Go" :{
+  "nFiles": 605,
+  "blank": 28669,
+  "comment": 25097,
+  "code": 396687},
+"Assembly" :{
+  "nFiles": 32,
+  "blank": 262,
+  "comment": 304,
+  "code": 1587},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 22,
+  "comment": 11,
+  "code": 218},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 32},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 20,
+  "code": 25},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 22,
+  "code": 11},
+"SUM": {
+  "blank": 29013,
+  "comment": 25461,
+  "code": 398584,
+  "nFiles": 648} }

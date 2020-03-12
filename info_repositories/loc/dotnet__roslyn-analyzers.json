@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 413.701958179474,
+  "n_files"            : 1570,
+  "n_lines"            : 389613,
+  "files_per_second"   : 3.79500258328218,
+  "lines_per_second"   : 941.772192025682,
+  "report_file"        : "loc/dotnet__roslyn-analyzers.json"},
+"C#" :{
+  "nFiles": 1105,
+  "blank": 40724,
+  "comment": 32085,
+  "code": 231237},
+"XML" :{
+  "nFiles": 211,
+  "blank": 347,
+  "comment": 854,
+  "code": 75049},
+"Visual Basic" :{
+  "nFiles": 123,
+  "blank": 702,
+  "comment": 524,
+  "code": 2464},
+"MSBuild script" :{
+  "nFiles": 77,
+  "blank": 68,
+  "comment": 175,
+  "code": 2289},
+"Markdown" :{
+  "nFiles": 28,
+  "blank": 403,
+  "comment": 0,
+  "code": 1391},
+"PowerShell" :{
+  "nFiles": 10,
+  "blank": 93,
+  "comment": 42,
+  "code": 503},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 16,
+  "code": 288},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 6,
+  "code": 108},
+"DOS Batch" :{
+  "nFiles": 7,
+  "blank": 20,
+  "comment": 7,
+  "code": 74},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 49},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 42424,
+  "comment": 33710,
+  "code": 313479,
+  "nFiles": 1570} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.9834558963776,
+  "n_files"            : 132,
+  "n_lines"            : 17821,
+  "files_per_second"   : 6.29067016662339,
+  "lines_per_second"   : 849.288129086329,
+  "report_file"        : "loc/json-iterator__go.json"},
+"Go" :{
+  "nFiles": 125,
+  "blank": 1706,
+  "comment": 468,
+  "code": 15486},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 67},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 21},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 12},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 20,
+  "code": 4},
+"SUM": {
+  "blank": 1743,
+  "comment": 488,
+  "code": 15590,
+  "nFiles": 132} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0700018405914307,
+  "n_files"            : 13,
+  "n_lines"            : 792,
+  "files_per_second"   : 185.709402640927,
+  "lines_per_second"   : 11313.9882224319,
+  "report_file"        : "loc/coala__teams.json"},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 180,
+  "comment": 0,
+  "code": 430},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 49,
+  "comment": 1,
+  "code": 129},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 229,
+  "comment": 1,
+  "code": 562,
+  "nFiles": 13} }

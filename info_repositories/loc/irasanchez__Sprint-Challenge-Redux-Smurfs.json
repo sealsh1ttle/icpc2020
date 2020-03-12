@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.56255602836609,
+  "n_files"            : 16,
+  "n_lines"            : 827,
+  "files_per_second"   : 3.50680625082204,
+  "lines_per_second"   : 181.258048089364,
+  "report_file"        : "loc/irasanchez__Sprint-Challenge-Redux-Smurfs.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 42,
+  "comment": 70,
+  "code": 383},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 0,
+  "code": 144},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 63},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 28},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"SUM": {
+  "blank": 102,
+  "comment": 90,
+  "code": 635,
+  "nFiles": 16} }

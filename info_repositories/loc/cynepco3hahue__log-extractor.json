@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0747890472412109,
+  "n_files"            : 8,
+  "n_lines"            : 938,
+  "files_per_second"   : 106.967534620387,
+  "lines_per_second"   : 12541.9434342404,
+  "report_file"        : "loc/cynepco3hahue__log-extractor.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 140,
+  "comment": 190,
+  "code": 544},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 30},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 148,
+  "comment": 190,
+  "code": 600,
+  "nFiles": 8} }

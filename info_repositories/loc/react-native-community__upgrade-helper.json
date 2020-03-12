@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.775162935257,
+  "n_files"            : 50,
+  "n_lines"            : 2478,
+  "files_per_second"   : 3.38405743605632,
+  "lines_per_second"   : 167.713886530951,
+  "report_file"        : "loc/react-native-community__upgrade-helper.json"},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 252,
+  "comment": 64,
+  "code": 1682},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 48,
+  "comment": 0,
+  "code": 107},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 4,
+  "code": 84},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 79},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 69},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 20,
+  "code": 15},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 3,
+  "code": 11},
+"SUM": {
+  "blank": 323,
+  "comment": 92,
+  "code": 2063,
+  "nFiles": 50} }

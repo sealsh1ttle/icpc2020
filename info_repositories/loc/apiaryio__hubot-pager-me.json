@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.3923819065094,
+  "n_files"            : 12,
+  "n_lines"            : 1589,
+  "files_per_second"   : 8.61832514764798,
+  "lines_per_second"   : 1141.20988830105,
+  "report_file"        : "loc/apiaryio__hubot-pager-me.json"},
+"CoffeeScript" :{
+  "nFiles": 5,
+  "blank": 226,
+  "comment": 85,
+  "code": 971},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 0,
+  "code": 135},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 33},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 4,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 298,
+  "comment": 90,
+  "code": 1201,
+  "nFiles": 12} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.379685878753662,
+  "n_files"            : 2,
+  "n_lines"            : 6,
+  "files_per_second"   : 5.26751220394369,
+  "lines_per_second"   : 15.8025366118311,
+  "report_file"        : "loc/PDXCapstoneF__practice.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"Python" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 1,
+  "comment": 1,
+  "code": 4,
+  "nFiles": 2} }

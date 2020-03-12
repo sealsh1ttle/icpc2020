@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.552091836929321,
+  "n_files"            : 2,
+  "n_lines"            : 324,
+  "files_per_second"   : 3.62258571168847,
+  "lines_per_second"   : 586.858885293532,
+  "report_file"        : "loc/JoshuaDoes__miitomo-assetscraper.json"},
+"Go" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 229},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 56,
+  "comment": 0,
+  "code": 268,
+  "nFiles": 2} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.386426210403442,
+  "n_files"            : 64,
+  "n_lines"            : 14952,
+  "files_per_second"   : 165.620235576623,
+  "lines_per_second"   : 38693.0275365887,
+  "report_file"        : "loc/aws-samples__aws-cdk-changelogs-demo.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 9126},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 604,
+  "comment": 0,
+  "code": 2013},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 435,
+  "comment": 376,
+  "code": 1916},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 2,
+  "code": 220},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 4,
+  "code": 172},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 1095,
+  "comment": 382,
+  "code": 13475,
+  "nFiles": 64} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 203.987092971802,
+  "n_files"            : 799,
+  "n_lines"            : 27177,
+  "files_per_second"   : 3.91691448885175,
+  "lines_per_second"   : 133.229017601407,
+  "report_file"        : "loc/react-cosmos__react-cosmos.json"},
+"TypeScript" :{
+  "nFiles": 467,
+  "blank": 2539,
+  "comment": 734,
+  "code": 21475},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 407,
+  "comment": 0,
+  "code": 849},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 430},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 40,
+  "comment": 45,
+  "code": 276},
+"SVG" :{
+  "nFiles": 273,
+  "blank": 0,
+  "comment": 0,
+  "code": 273},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 15,
+  "code": 64},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 2993,
+  "comment": 794,
+  "code": 23390,
+  "nFiles": 799} }

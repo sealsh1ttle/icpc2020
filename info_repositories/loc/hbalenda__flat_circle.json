@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.2378680706024,
+  "n_files"            : 99,
+  "n_lines"            : 2279,
+  "files_per_second"   : 4.89181961531846,
+  "lines_per_second"   : 112.610675791018,
+  "report_file"        : "loc/hbalenda__flat_circle.json"},
+"Ruby" :{
+  "nFiles": 77,
+  "blank": 211,
+  "comment": 317,
+  "code": 938},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 10,
+  "comment": 0,
+  "code": 463},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 24,
+  "comment": 32,
+  "code": 65},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 263,
+  "comment": 352,
+  "code": 1664,
+  "nFiles": 99} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.317323923111,
+  "n_files"            : 79,
+  "n_lines"            : 3340,
+  "files_per_second"   : 4.84148015766904,
+  "lines_per_second"   : 204.690426919172,
+  "report_file"        : "loc/mstahv__g-leaflet.json"},
+"Java" :{
+  "nFiles": 74,
+  "blank": 564,
+  "comment": 889,
+  "code": 998},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 24,
+  "code": 563},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 13,
+  "code": 165},
+"XML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 3,
+  "code": 44},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 1},
+"SUM": {
+  "blank": 636,
+  "comment": 933,
+  "code": 1771,
+  "nFiles": 79} }

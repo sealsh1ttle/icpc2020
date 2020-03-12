@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.72930192947388,
+  "n_files"            : 19,
+  "n_lines"            : 7204,
+  "files_per_second"   : 2.82347265721297,
+  "lines_per_second"   : 1070.54194855591,
+  "report_file"        : "loc/Flet__tape-nock.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 6534},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 87,
+  "comment": 0,
+  "code": 255},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 46,
+  "comment": 1,
+  "code": 172},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 1,
+  "code": 87},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 144,
+  "comment": 2,
+  "code": 7058,
+  "nFiles": 19} }

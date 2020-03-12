@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 52.9430179595947,
+  "n_files"            : 212,
+  "n_lines"            : 21485,
+  "files_per_second"   : 4.0043051599702,
+  "lines_per_second"   : 405.813662084716,
+  "report_file"        : "loc/openai__gym.json"},
+"Python" :{
+  "nFiles": 162,
+  "blank": 2672,
+  "comment": 2115,
+  "code": 11204},
+"XML" :{
+  "nFiles": 32,
+  "blank": 172,
+  "comment": 69,
+  "code": 2197},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 229,
+  "comment": 141,
+  "code": 1585},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 196,
+  "comment": 0,
+  "code": 525},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 68,
+  "comment": 17,
+  "code": 181},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 30,
+  "code": 40},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 18},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3359,
+  "comment": 2375,
+  "code": 15751,
+  "nFiles": 212} }

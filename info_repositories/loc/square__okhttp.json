@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.99574017524719,
+  "n_files"            : 430,
+  "n_lines"            : 91955,
+  "files_per_second"   : 107.614604839365,
+  "lines_per_second"   : 23013.2581116367,
+  "report_file"        : "loc/square__okhttp.json"},
+"Java" :{
+  "nFiles": 167,
+  "blank": 6847,
+  "comment": 4397,
+  "code": 36722},
+"Kotlin" :{
+  "nFiles": 185,
+  "blank": 4178,
+  "comment": 9288,
+  "code": 22718},
+"Markdown" :{
+  "nFiles": 40,
+  "blank": 1316,
+  "comment": 0,
+  "code": 4080},
+"Gradle" :{
+  "nFiles": 21,
+  "blank": 92,
+  "comment": 22,
+  "code": 1115},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 62,
+  "comment": 5,
+  "code": 316},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 51,
+  "comment": 58,
+  "code": 219},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 153},
+"XML" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 47,
+  "code": 87},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 42},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 4,
+  "code": 4},
+"SUM": {
+  "blank": 12602,
+  "comment": 13823,
+  "code": 65530,
+  "nFiles": 430} }

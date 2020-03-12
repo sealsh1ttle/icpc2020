@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.5235600471497,
+  "n_files"            : 264,
+  "n_lines"            : 20412,
+  "files_per_second"   : 4.22240831777517,
+  "lines_per_second"   : 326.468934024344,
+  "report_file"        : "loc/se-edu__addressbook-level4.json"},
+"Java" :{
+  "nFiles": 196,
+  "blank": 2808,
+  "comment": 2827,
+  "code": 9813},
+"AsciiDoc" :{
+  "nFiles": 20,
+  "blank": 607,
+  "comment": 9,
+  "code": 1527},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 103,
+  "comment": 15,
+  "code": 875},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 38,
+  "comment": 34,
+  "code": 216},
+"XML" :{
+  "nFiles": 2,
+  "blank": 68,
+  "comment": 160,
+  "code": 205},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 75,
+  "code": 184},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 13,
+  "code": 177},
+"FXML" :{
+  "nFiles": 11,
+  "blank": 25,
+  "comment": 2,
+  "code": 154},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 1,
+  "comment": 0,
+  "code": 127},
+"Slim" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 9,
+  "code": 118},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 6,
+  "code": 29},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 3768,
+  "comment": 3152,
+  "code": 13492,
+  "nFiles": 264} }

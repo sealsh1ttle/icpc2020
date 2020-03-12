@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.1404650211334,
+  "n_files"            : 220,
+  "n_lines"            : 19388,
+  "files_per_second"   : 4.13997129894344,
+  "lines_per_second"   : 364.84437974507,
+  "report_file"        : "loc/postlund__pyatv.json"},
+"Python" :{
+  "nFiles": 149,
+  "blank": 2660,
+  "comment": 1426,
+  "code": 11864},
+"reStructuredText" :{
+  "nFiles": 17,
+  "blank": 568,
+  "comment": 569,
+  "code": 1097},
+"Protocol Buffers" :{
+  "nFiles": 42,
+  "blank": 114,
+  "comment": 79,
+  "code": 636},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 63,
+  "comment": 0,
+  "code": 146},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 0,
+  "code": 59},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 23},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 3445,
+  "comment": 2080,
+  "code": 13863,
+  "nFiles": 220} }

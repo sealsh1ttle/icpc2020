@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.20297384262085,
+  "n_files"            : 19,
+  "n_lines"            : 1187,
+  "files_per_second"   : 2.63779938885447,
+  "lines_per_second"   : 164.793046030013,
+  "report_file"        : "loc/sima-11__SMSegmentView.json"},
+"Swift" :{
+  "nFiles": 7,
+  "blank": 146,
+  "comment": 111,
+  "code": 465},
+"XML" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 1,
+  "code": 262},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 68},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 67},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 20},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 10,
+  "code": 3},
+"SUM": {
+  "blank": 180,
+  "comment": 122,
+  "code": 885,
+  "nFiles": 19} }

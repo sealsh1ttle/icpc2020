@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.0514738559723,
+  "n_files"            : 164,
+  "n_lines"            : 9790,
+  "files_per_second"   : 2.64296703702253,
+  "lines_per_second"   : 157.772239588113,
+  "report_file"        : "loc/JakeWharton__u2020.json"},
+"Java" :{
+  "nFiles": 106,
+  "blank": 1110,
+  "comment": 607,
+  "code": 5560},
+"XML" :{
+  "nFiles": 46,
+  "blank": 102,
+  "comment": 27,
+  "code": 1579},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 53,
+  "comment": 9,
+  "code": 310},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 22,
+  "code": 134},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 0,
+  "code": 97},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 27},
+"SUM": {
+  "blank": 1353,
+  "comment": 671,
+  "code": 7766,
+  "nFiles": 164} }

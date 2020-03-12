@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.0417740345001,
+  "n_files"            : 62,
+  "n_lines"            : 4710,
+  "files_per_second"   : 3.25599914628057,
+  "lines_per_second"   : 247.350902886798,
+  "report_file"        : "loc/sysco-middleware__kafka-testing.json"},
+"Java" :{
+  "nFiles": 34,
+  "blank": 427,
+  "comment": 276,
+  "code": 2297},
+"Maven" :{
+  "nFiles": 9,
+  "blank": 38,
+  "comment": 50,
+  "code": 706},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 62,
+  "code": 215},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 8,
+  "code": 212},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 147},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 23,
+  "comment": 0,
+  "code": 117},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 572,
+  "comment": 396,
+  "code": 3742,
+  "nFiles": 62} }

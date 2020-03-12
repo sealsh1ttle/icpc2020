@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.520419120788574,
+  "n_files"            : 60,
+  "n_lines"            : 9209,
+  "files_per_second"   : 115.29169010755,
+  "lines_per_second"   : 17695.3529033405,
+  "report_file"        : "loc/groupe-sii__sonar-web-frontend-reporters.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 6063},
+"JavaScript" :{
+  "nFiles": 44,
+  "blank": 563,
+  "comment": 78,
+  "code": 1871},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 120,
+  "comment": 0,
+  "code": 299},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 14,
+  "code": 166},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 2,
+  "code": 4},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 3},
+"SUM": {
+  "blank": 686,
+  "comment": 95,
+  "code": 8428,
+  "nFiles": 60} }

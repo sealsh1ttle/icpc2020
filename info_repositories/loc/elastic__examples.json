@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 125.979554891586,
+  "n_files"            : 428,
+  "n_lines"            : 62518,
+  "files_per_second"   : 3.39737666455737,
+  "lines_per_second"   : 496.255126903733,
+  "report_file"        : "loc/elastic__examples.json"},
+"JSON" :{
+  "nFiles": 161,
+  "blank": 219,
+  "comment": 0,
+  "code": 15092},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 2273,
+  "comment": 2480,
+  "code": 9741},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 78,
+  "comment": 44,
+  "code": 7683},
+"YAML" :{
+  "nFiles": 69,
+  "blank": 389,
+  "comment": 776,
+  "code": 6343},
+"Markdown" :{
+  "nFiles": 90,
+  "blank": 2507,
+  "comment": 0,
+  "code": 5233},
+"XML" :{
+  "nFiles": 10,
+  "blank": 34,
+  "comment": 163,
+  "code": 1573},
+"Python" :{
+  "nFiles": 11,
+  "blank": 250,
+  "comment": 165,
+  "code": 951},
+"Bourne Shell" :{
+  "nFiles": 29,
+  "blank": 197,
+  "comment": 51,
+  "code": 742},
+"PHP" :{
+  "nFiles": 8,
+  "blank": 89,
+  "comment": 24,
+  "code": 582},
+"Jupyter Notebook" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 2926,
+  "code": 528},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 511},
+"HCL" :{
+  "nFiles": 8,
+  "blank": 73,
+  "comment": 0,
+  "code": 283},
+"Java" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 13,
+  "code": 143},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 6,
+  "code": 109},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 5,
+  "code": 75},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 9,
+  "comment": 2,
+  "code": 47},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 6,
+  "code": 24},
+"SUM": {
+  "blank": 6197,
+  "comment": 6661,
+  "code": 49660,
+  "nFiles": 428} }

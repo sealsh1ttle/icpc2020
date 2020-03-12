@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.3499720096588,
+  "n_files"            : 460,
+  "n_lines"            : 18651,
+  "files_per_second"   : 44.4445646394713,
+  "lines_per_second"   : 1802.033858893,
+  "report_file"        : "loc/dwyl__learn-phoenix-framework.json"},
+"Elixir" :{
+  "nFiles": 352,
+  "blank": 1659,
+  "comment": 3360,
+  "code": 7432},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 697,
+  "comment": 0,
+  "code": 2117},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 214,
+  "comment": 531,
+  "code": 972},
+"EEx" :{
+  "nFiles": 45,
+  "blank": 118,
+  "comment": 0,
+  "code": 818},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 16,
+  "code": 258},
+"PO File" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 32,
+  "code": 120},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 36,
+  "code": 114},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 80},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 2747,
+  "comment": 3975,
+  "code": 11929,
+  "nFiles": 460} }

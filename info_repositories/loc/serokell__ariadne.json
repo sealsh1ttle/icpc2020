@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.8163230419159,
+  "n_files"            : 268,
+  "n_lines"            : 73966,
+  "files_per_second"   : 4.40671166218465,
+  "lines_per_second"   : 1216.21953285504,
+  "report_file"        : "loc/serokell__ariadne.json"},
+"Haskell" :{
+  "nFiles": 228,
+  "blank": 5563,
+  "comment": 4186,
+  "code": 29633},
+"YAML" :{
+  "nFiles": 18,
+  "blank": 260,
+  "comment": 172,
+  "code": 16695},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14568},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 649,
+  "comment": 0,
+  "code": 2009},
+"Nix" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 3,
+  "code": 76},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 63},
+"make" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 12,
+  "code": 29},
+"SUM": {
+  "blank": 6520,
+  "comment": 4373,
+  "code": 63073,
+  "nFiles": 268} }

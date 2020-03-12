@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.230134963989258,
+  "n_files"            : 13,
+  "n_lines"            : 4555,
+  "files_per_second"   : 56.4885916275061,
+  "lines_per_second"   : 19792.7334510223,
+  "report_file"        : "loc/azat-co__nodeframework.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 200,
+  "comment": 18,
+  "code": 1324},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 1180},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 253,
+  "comment": 215,
+  "code": 1001},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 348},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 458,
+  "comment": 233,
+  "code": 3864,
+  "nFiles": 13} }

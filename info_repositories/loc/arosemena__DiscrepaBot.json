@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.076657772064209,
+  "n_files"            : 3,
+  "n_lines"            : 80,
+  "files_per_second"   : 39.1349750875512,
+  "lines_per_second"   : 1043.59933566803,
+  "report_file"        : "loc/arosemena__DiscrepaBot.json"},
+"Python" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 9,
+  "code": 39},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 19,
+  "comment": 9,
+  "code": 52,
+  "nFiles": 3} }

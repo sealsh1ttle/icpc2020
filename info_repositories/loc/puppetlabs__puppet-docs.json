@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.1029498577118,
+  "n_files"            : 3250,
+  "n_lines"            : 1118727,
+  "files_per_second"   : 67.5634240647087,
+  "lines_per_second"   : 23256.9312965044,
+  "report_file"        : "loc/puppetlabs__puppet-docs.json"},
+"Markdown" :{
+  "nFiles": 2745,
+  "blank": 279472,
+  "comment": 1,
+  "code": 589193},
+"JSON" :{
+  "nFiles": 51,
+  "blank": 523,
+  "comment": 0,
+  "code": 158685},
+"HTML" :{
+  "nFiles": 332,
+  "blank": 9800,
+  "comment": 501,
+  "code": 60915},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 114,
+  "comment": 140,
+  "code": 8415},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 859,
+  "comment": 460,
+  "code": 3450},
+"Ruby" :{
+  "nFiles": 55,
+  "blank": 511,
+  "comment": 438,
+  "code": 2654},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 54,
+  "comment": 182,
+  "code": 1079},
+"SVG" :{
+  "nFiles": 39,
+  "blank": 4,
+  "comment": 36,
+  "code": 990},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 19,
+  "code": 95},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 91},
+"SUM": {
+  "blank": 291383,
+  "comment": 1777,
+  "code": 825567,
+  "nFiles": 3250} }

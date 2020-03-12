@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1532.71036696434,
+  "n_files"            : 4438,
+  "n_lines"            : 1205382,
+  "files_per_second"   : 2.89552422666118,
+  "lines_per_second"   : 786.438211667713,
+  "report_file"        : "loc/kubernetes-sigs__service-catalog.json"},
+"Go" :{
+  "nFiles": 4035,
+  "blank": 109862,
+  "comment": 156873,
+  "code": 905120},
+"Markdown" :{
+  "nFiles": 69,
+  "blank": 1304,
+  "comment": 0,
+  "code": 4124},
+"YAML" :{
+  "nFiles": 120,
+  "blank": 74,
+  "comment": 306,
+  "code": 4004},
+"Assembly" :{
+  "nFiles": 36,
+  "blank": 456,
+  "comment": 661,
+  "code": 3568},
+"Bourne Shell" :{
+  "nFiles": 42,
+  "blank": 683,
+  "comment": 1288,
+  "code": 3409},
+"JSON" :{
+  "nFiles": 55,
+  "blank": 0,
+  "comment": 0,
+  "code": 3047},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 410,
+  "comment": 75,
+  "code": 2425},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 702,
+  "comment": 95,
+  "code": 2037},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 185,
+  "comment": 110,
+  "code": 860},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 235,
+  "comment": 26,
+  "code": 704},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 91,
+  "comment": 19,
+  "code": 618},
+"make" :{
+  "nFiles": 1,
+  "blank": 75,
+  "comment": 71,
+  "code": 313},
+"Starlark" :{
+  "nFiles": 5,
+  "blank": 35,
+  "comment": 127,
+  "code": 287},
+"Python" :{
+  "nFiles": 6,
+  "blank": 88,
+  "comment": 118,
+  "code": 258},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 7,
+  "code": 116},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 27,
+  "code": 108},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 66},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 24,
+  "comment": 75,
+  "code": 34},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 1,
+  "code": 25},
+"C" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 7,
+  "code": 24},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 19,
+  "code": 16},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 114308,
+  "comment": 159910,
+  "code": 931164,
+  "nFiles": 4438} }

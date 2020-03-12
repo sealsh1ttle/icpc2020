@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 84.6672339439392,
+  "n_files"            : 290,
+  "n_lines"            : 43530,
+  "files_per_second"   : 3.4251739012995,
+  "lines_per_second"   : 514.130413529543,
+  "report_file"        : "loc/microsoft__react-native-code-push.json"},
+"Objective C" :{
+  "nFiles": 38,
+  "blank": 1235,
+  "comment": 949,
+  "code": 5771},
+"C" :{
+  "nFiles": 13,
+  "blank": 999,
+  "comment": 633,
+  "code": 4862},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 4471},
+"JavaScript" :{
+  "nFiles": 64,
+  "blank": 487,
+  "comment": 677,
+  "code": 3509},
+"TypeScript" :{
+  "nFiles": 9,
+  "blank": 446,
+  "comment": 990,
+  "code": 2750},
+"C/C++ Header" :{
+  "nFiles": 47,
+  "blank": 915,
+  "comment": 1325,
+  "code": 2580},
+"C#" :{
+  "nFiles": 32,
+  "blank": 419,
+  "comment": 319,
+  "code": 2443},
+"Java" :{
+  "nFiles": 25,
+  "blank": 423,
+  "comment": 148,
+  "code": 2349},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 813,
+  "comment": 0,
+  "code": 1840},
+"MSBuild script" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 36,
+  "code": 745},
+"XML" :{
+  "nFiles": 15,
+  "blank": 36,
+  "comment": 89,
+  "code": 382},
+"Gradle" :{
+  "nFiles": 8,
+  "blank": 54,
+  "comment": 188,
+  "code": 252},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"ProGuard" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 42,
+  "code": 35},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 21},
+"XAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"INI" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 5894,
+  "comment": 5422,
+  "code": 32214,
+  "nFiles": 290} }

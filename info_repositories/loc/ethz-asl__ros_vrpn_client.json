@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.82571482658386,
+  "n_files"            : 18,
+  "n_lines"            : 2890,
+  "files_per_second"   : 6.37006955927008,
+  "lines_per_second"   : 1022.75005701614,
+  "report_file"        : "loc/ethz-asl__ros_vrpn_client.json"},
+"C++" :{
+  "nFiles": 6,
+  "blank": 192,
+  "comment": 542,
+  "code": 1283},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 64,
+  "comment": 114,
+  "code": 298},
+"Python" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 14,
+  "code": 109},
+"XML" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 5,
+  "code": 106},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 51},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 29},
+"Gencat NLS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 322,
+  "comment": 675,
+  "code": 1893,
+  "nFiles": 18} }

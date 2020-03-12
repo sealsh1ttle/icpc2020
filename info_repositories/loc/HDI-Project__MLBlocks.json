@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.378269910812378,
+  "n_files"            : 42,
+  "n_lines"            : 7008,
+  "files_per_second"   : 111.031828859452,
+  "lines_per_second"   : 18526.4537296914,
+  "report_file"        : "loc/HDI-Project__MLBlocks.json"},
+"Python" :{
+  "nFiles": 14,
+  "blank": 867,
+  "comment": 1007,
+  "code": 2261},
+"reStructuredText" :{
+  "nFiles": 20,
+  "blank": 529,
+  "comment": 577,
+  "code": 1031},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 104,
+  "comment": 0,
+  "code": 307},
+"make" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 12,
+  "code": 161},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 23},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 19},
+"SUM": {
+  "blank": 1579,
+  "comment": 1600,
+  "code": 3829,
+  "nFiles": 42} }

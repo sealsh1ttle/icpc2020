@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.09879994392395,
+  "n_files"            : 192,
+  "n_lines"            : 125291,
+  "files_per_second"   : 61.9594693024533,
+  "lines_per_second"   : 40432.1034811129,
+  "report_file"        : "loc/fossasia__2016.fossasia.org.json"},
+"CSS" :{
+  "nFiles": 38,
+  "blank": 160,
+  "comment": 1859,
+  "code": 57220},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 1591,
+  "comment": 86,
+  "code": 24091},
+"LESS" :{
+  "nFiles": 62,
+  "blank": 5867,
+  "comment": 3455,
+  "code": 18267},
+"SVG" :{
+  "nFiles": 23,
+  "blank": 1,
+  "comment": 9,
+  "code": 6825},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 1218,
+  "comment": 494,
+  "code": 3423},
+"XML" :{
+  "nFiles": 13,
+  "blank": 11,
+  "comment": 2,
+  "code": 179},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 11,
+  "code": 69},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 3,
+  "code": 40},
+"Java" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 9,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 15},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 8938,
+  "comment": 5965,
+  "code": 110388,
+  "nFiles": 192} }

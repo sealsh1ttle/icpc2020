@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 92.3341829776764,
+  "n_files"            : 423,
+  "n_lines"            : 38379,
+  "files_per_second"   : 4.58118528110298,
+  "lines_per_second"   : 415.653214901776,
+  "report_file"        : "loc/avocado-framework-tests__avocado-misc-tests.json"},
+"Python" :{
+  "nFiles": 190,
+  "blank": 3508,
+  "comment": 6971,
+  "code": 17589},
+"YAML" :{
+  "nFiles": 179,
+  "blank": 20,
+  "comment": 205,
+  "code": 2933},
+"C++" :{
+  "nFiles": 1,
+  "blank": 353,
+  "comment": 292,
+  "code": 2534},
+"C" :{
+  "nFiles": 16,
+  "blank": 343,
+  "comment": 268,
+  "code": 2235},
+"diff" :{
+  "nFiles": 17,
+  "blank": 74,
+  "comment": 330,
+  "code": 352},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 39,
+  "code": 146},
+"make" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 0,
+  "code": 68},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 0,
+  "code": 52},
+"SUM": {
+  "blank": 4365,
+  "comment": 8105,
+  "code": 25909,
+  "nFiles": 423} }

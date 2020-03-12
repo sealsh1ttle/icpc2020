@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 855.801517009735,
+  "n_files"            : 2673,
+  "n_lines"            : 418631,
+  "files_per_second"   : 3.12338777961011,
+  "lines_per_second"   : 489.168331300396,
+  "report_file"        : "loc/vufind-org__vufind.json"},
+"PHP" :{
+  "nFiles": 1893,
+  "blank": 17875,
+  "comment": 125726,
+  "code": 131848},
+"INI" :{
+  "nFiles": 245,
+  "blank": 1462,
+  "comment": 10014,
+  "code": 42413},
+"JavaScript" :{
+  "nFiles": 58,
+  "blank": 5181,
+  "comment": 5293,
+  "code": 20235},
+"Sass" :{
+  "nFiles": 129,
+  "blank": 1569,
+  "comment": 1644,
+  "code": 10767},
+"LESS" :{
+  "nFiles": 121,
+  "blank": 1540,
+  "comment": 1805,
+  "code": 10519},
+"XSLT" :{
+  "nFiles": 20,
+  "blank": 350,
+  "comment": 445,
+  "code": 4982},
+"CSS" :{
+  "nFiles": 30,
+  "blank": 213,
+  "comment": 276,
+  "code": 3360},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 3188},
+"YAML" :{
+  "nFiles": 19,
+  "blank": 183,
+  "comment": 1043,
+  "code": 2506},
+"Java" :{
+  "nFiles": 16,
+  "blank": 298,
+  "comment": 1567,
+  "code": 2182},
+"XML" :{
+  "nFiles": 20,
+  "blank": 443,
+  "comment": 1479,
+  "code": 1788},
+"DOS Batch" :{
+  "nFiles": 33,
+  "blank": 238,
+  "comment": 188,
+  "code": 1168},
+"JSON" :{
+  "nFiles": 27,
+  "blank": 19,
+  "comment": 0,
+  "code": 1057},
+"Bourne Again Shell" :{
+  "nFiles": 26,
+  "blank": 180,
+  "comment": 87,
+  "code": 634},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 118,
+  "comment": 204,
+  "code": 621},
+"Ant" :{
+  "nFiles": 2,
+  "blank": 102,
+  "comment": 123,
+  "code": 573},
+"SQL" :{
+  "nFiles": 17,
+  "blank": 127,
+  "comment": 161,
+  "code": 529},
+"XHTML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 227},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 0,
+  "code": 26},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 26,
+  "code": 0},
+"SUM": {
+  "blank": 29927,
+  "comment": 150081,
+  "code": 238623,
+  "nFiles": 2673} }

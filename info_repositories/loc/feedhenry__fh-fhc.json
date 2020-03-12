@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 83.4595921039581,
+  "n_files"            : 410,
+  "n_lines"            : 35283,
+  "files_per_second"   : 4.91255695917253,
+  "lines_per_second"   : 422.755480952401,
+  "report_file"        : "loc/feedhenry__fh-fhc.json"},
+"JavaScript" :{
+  "nFiles": 391,
+  "blank": 1364,
+  "comment": 888,
+  "code": 20988},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 17,
+  "comment": 0,
+  "code": 7412},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 560,
+  "comment": 879,
+  "code": 2042},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 304,
+  "comment": 0,
+  "code": 788},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 2253,
+  "comment": 1768,
+  "code": 31262,
+  "nFiles": 410} }

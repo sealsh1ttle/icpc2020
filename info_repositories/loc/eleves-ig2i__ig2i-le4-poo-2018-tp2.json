@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.10801601409912,
+  "n_files"            : 30,
+  "n_lines"            : 9404,
+  "files_per_second"   : 4.91157847830639,
+  "lines_per_second"   : 1539.61613366644,
+  "report_file"        : "loc/eleves-ig2i__ig2i-le4-poo-2018-tp2.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6184},
+"XML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 126,
+  "code": 1330},
+"Java" :{
+  "nFiles": 19,
+  "blank": 192,
+  "comment": 238,
+  "code": 1093},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 108},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 27},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 55,
+  "code": 5},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 226,
+  "comment": 419,
+  "code": 8759,
+  "nFiles": 30} }

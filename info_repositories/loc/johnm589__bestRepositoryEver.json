@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.567443132400513,
+  "n_files"            : 2,
+  "n_lines"            : 180,
+  "files_per_second"   : 3.52458226349343,
+  "lines_per_second"   : 317.212403714409,
+  "report_file"        : "loc/johnm589__bestRepositoryEver.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 46,
+  "code": 94},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 29,
+  "comment": 46,
+  "code": 105,
+  "nFiles": 2} }

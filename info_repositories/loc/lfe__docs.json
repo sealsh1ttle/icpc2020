@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 214.559428930283,
+  "n_files"            : 788,
+  "n_lines"            : 185577,
+  "files_per_second"   : 3.67264213895744,
+  "lines_per_second"   : 864.9212058646,
+  "report_file"        : "loc/lfe__docs.json"},
+"HTML" :{
+  "nFiles": 710,
+  "blank": 33168,
+  "comment": 4832,
+  "code": 129206},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 1528,
+  "comment": 688,
+  "code": 8697},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 2,
+  "comment": 0,
+  "code": 1361},
+"Python" :{
+  "nFiles": 11,
+  "blank": 265,
+  "comment": 501,
+  "code": 1137},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 86,
+  "comment": 71,
+  "code": 1137},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 337,
+  "comment": 299,
+  "code": 907},
+"LFE" :{
+  "nFiles": 15,
+  "blank": 87,
+  "comment": 14,
+  "code": 414},
+"make" :{
+  "nFiles": 6,
+  "blank": 80,
+  "comment": 4,
+  "code": 313},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 90,
+  "comment": 0,
+  "code": 217},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 10,
+  "code": 38},
+"Erlang" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 13,
+  "code": 23},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 35682,
+  "comment": 6432,
+  "code": 143463,
+  "nFiles": 788} }

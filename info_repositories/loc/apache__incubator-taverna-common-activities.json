@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.16898107528687,
+  "n_files"            : 261,
+  "n_lines"            : 37290,
+  "files_per_second"   : 120.333000123332,
+  "lines_per_second"   : 17192.4045003796,
+  "report_file"        : "loc/apache__incubator-taverna-common-activities.json"},
+"Java" :{
+  "nFiles": 207,
+  "blank": 4325,
+  "comment": 8384,
+  "code": 19373},
+"Velocity Template Language" :{
+  "nFiles": 12,
+  "blank": 145,
+  "comment": 0,
+  "code": 842},
+"Maven" :{
+  "nFiles": 9,
+  "blank": 99,
+  "comment": 177,
+  "code": 827},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 195,
+  "comment": 276,
+  "code": 702},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 7,
+  "comment": 0,
+  "code": 442},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 80,
+  "comment": 29,
+  "code": 427},
+"XML" :{
+  "nFiles": 15,
+  "blank": 143,
+  "comment": 213,
+  "code": 262},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 0,
+  "code": 149},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 70,
+  "code": 19},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 14,
+  "code": 4},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 14,
+  "code": 1},
+"SUM": {
+  "blank": 5065,
+  "comment": 9177,
+  "code": 23048,
+  "nFiles": 261} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.484833955764771,
+  "n_files"            : 3,
+  "n_lines"            : 205,
+  "files_per_second"   : 6.18768542163645,
+  "lines_per_second"   : 422.82517047849,
+  "report_file"        : "loc/knowbody__react-native-online-meetups.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 73,
+  "comment": 0,
+  "code": 132},
+"SUM": {
+  "blank": 73,
+  "comment": 0,
+  "code": 132,
+  "nFiles": 3} }

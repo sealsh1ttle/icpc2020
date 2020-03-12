@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.580862045288086,
+  "n_files"            : 99,
+  "n_lines"            : 13815,
+  "files_per_second"   : 170.436338202989,
+  "lines_per_second"   : 23783.6162855989,
+  "report_file"        : "loc/coala__coala-quickstart.json"},
+"Python" :{
+  "nFiles": 78,
+  "blank": 1515,
+  "comment": 2155,
+  "code": 6195},
+"PowerShell" :{
+  "nFiles": 8,
+  "blank": 659,
+  "comment": 302,
+  "code": 2168},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 59,
+  "comment": 71,
+  "code": 425},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 84},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 39,
+  "code": 67},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 13},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 2285,
+  "comment": 2568,
+  "code": 8962,
+  "nFiles": 99} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 67.3753488063812,
+  "n_files"            : 167,
+  "n_lines"            : 5396,
+  "files_per_second"   : 2.47865136075085,
+  "lines_per_second"   : 80.0886391773149,
+  "report_file"        : "loc/katyjane8__knit-wits.json"},
+"Ruby" :{
+  "nFiles": 122,
+  "blank": 729,
+  "comment": 374,
+  "code": 2769},
+"ERB" :{
+  "nFiles": 21,
+  "blank": 17,
+  "comment": 0,
+  "code": 494},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 46,
+  "comment": 23,
+  "code": 478},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 2,
+  "code": 193},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 34},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 107,
+  "code": 32},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 24,
+  "code": 4},
+"SUM": {
+  "blank": 857,
+  "comment": 530,
+  "code": 4009,
+  "nFiles": 167} }

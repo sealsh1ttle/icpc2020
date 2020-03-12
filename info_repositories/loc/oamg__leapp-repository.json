@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 107.634485960007,
+  "n_files"            : 399,
+  "n_lines"            : 21474,
+  "files_per_second"   : 3.70699034274438,
+  "lines_per_second"   : 199.508547920032,
+  "report_file"        : "loc/oamg__leapp-repository.json"},
+"Python" :{
+  "nFiles": 373,
+  "blank": 4230,
+  "comment": 2594,
+  "code": 13708},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 91,
+  "comment": 132,
+  "code": 252},
+"make" :{
+  "nFiles": 8,
+  "blank": 28,
+  "comment": 19,
+  "code": 168},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 0,
+  "code": 113},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 48},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 10,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 4405,
+  "comment": 2756,
+  "code": 14313,
+  "nFiles": 399} }

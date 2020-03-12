@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.639490127563477,
+  "n_files"            : 2,
+  "n_lines"            : 209,
+  "files_per_second"   : 3.1274915965008,
+  "lines_per_second"   : 326.822871834334,
+  "report_file"        : "loc/ga-wdi-lessons__atom-intro.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 140},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 63,
+  "comment": 0,
+  "code": 146,
+  "nFiles": 2} }

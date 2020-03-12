@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 161.849167823792,
+  "n_files"            : 662,
+  "n_lines"            : 126819,
+  "files_per_second"   : 4.09022801229805,
+  "lines_per_second"   : 783.562879594602,
+  "report_file"        : "loc/fossasia__phimpme-android.json"},
+"Java" :{
+  "nFiles": 337,
+  "blank": 17682,
+  "comment": 14115,
+  "code": 70123},
+"XML" :{
+  "nFiles": 271,
+  "blank": 1453,
+  "comment": 330,
+  "code": 14517},
+"CMake" :{
+  "nFiles": 13,
+  "blank": 608,
+  "comment": 974,
+  "code": 3200},
+"C++" :{
+  "nFiles": 4,
+  "blank": 146,
+  "comment": 16,
+  "code": 1091},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 199,
+  "comment": 0,
+  "code": 678},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 57,
+  "comment": 25,
+  "code": 254},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 53,
+  "comment": 28,
+  "code": 220},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 103,
+  "comment": 85,
+  "code": 160},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 15,
+  "code": 152},
+"make" :{
+  "nFiles": 6,
+  "blank": 32,
+  "comment": 12,
+  "code": 123},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 8,
+  "code": 118},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 3,
+  "code": 85},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"Python" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 29,
+  "code": 10},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 7,
+  "code": 7},
+"SUM": {
+  "blank": 20419,
+  "comment": 15647,
+  "code": 90753,
+  "nFiles": 662} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.2458908557892,
+  "n_files"            : 241,
+  "n_lines"            : 63380,
+  "files_per_second"   : 5.21127381352696,
+  "lines_per_second"   : 1370.50014232921,
+  "report_file"        : "loc/rmcauley__rainwave.json"},
+"JavaScript" :{
+  "nFiles": 60,
+  "blank": 6172,
+  "comment": 2459,
+  "code": 27321},
+"Python" :{
+  "nFiles": 116,
+  "blank": 1859,
+  "comment": 840,
+  "code": 11713},
+"Sass" :{
+  "nFiles": 24,
+  "blank": 732,
+  "comment": 46,
+  "code": 3750},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 538,
+  "comment": 0,
+  "code": 3489},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 12,
+  "comment": 5,
+  "code": 1893},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 177,
+  "comment": 13,
+  "code": 1511},
+"XML" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 40,
+  "code": 329},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 105,
+  "comment": 0,
+  "code": 282},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 8,
+  "code": 38},
+"SUM": {
+  "blank": 9643,
+  "comment": 3411,
+  "code": 50326,
+  "nFiles": 241} }

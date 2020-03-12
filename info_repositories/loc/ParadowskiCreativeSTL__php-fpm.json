@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.343993902206421,
+  "n_files"            : 2,
+  "n_lines"            : 45,
+  "files_per_second"   : 5.81405654917644,
+  "lines_per_second"   : 130.81627235647,
+  "report_file"        : "loc/ParadowskiCreativeSTL__php-fpm.json"},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 5,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3,
+  "comment": 5,
+  "code": 37,
+  "nFiles": 2} }

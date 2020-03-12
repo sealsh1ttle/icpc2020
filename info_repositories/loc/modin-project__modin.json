@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.0592920780182,
+  "n_files"            : 150,
+  "n_lines"            : 40604,
+  "files_per_second"   : 6.23459740683924,
+  "lines_per_second"   : 1687.66395404867,
+  "report_file"        : "loc/modin-project__modin.json"},
+"Python" :{
+  "nFiles": 111,
+  "blank": 5575,
+  "comment": 4678,
+  "code": 27421},
+"reStructuredText" :{
+  "nFiles": 20,
+  "blank": 327,
+  "comment": 499,
+  "code": 1133},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 57,
+  "comment": 0,
+  "code": 141},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 34,
+  "comment": 13,
+  "code": 127},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 72,
+  "code": 113},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 328,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 6033,
+  "comment": 5590,
+  "code": 28981,
+  "nFiles": 150} }

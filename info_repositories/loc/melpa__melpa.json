@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 831.650690078735,
+  "n_files"            : 48,
+  "n_lines"            : 4742,
+  "files_per_second"   : 0.0577165396152749,
+  "lines_per_second"   : 5.7019131428257,
+  "report_file"        : "loc/melpa__melpa.json"},
+"Lisp" :{
+  "nFiles": 5,
+  "blank": 169,
+  "comment": 181,
+  "code": 1029},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 241,
+  "comment": 0,
+  "code": 867},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 46,
+  "code": 566},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 10,
+  "code": 391},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 6,
+  "code": 312},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 50,
+  "comment": 12,
+  "code": 192},
+"make" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 6,
+  "code": 165},
+"Python" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 9,
+  "code": 92},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 10,
+  "code": 71},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 17},
+"SUM": {
+  "blank": 630,
+  "comment": 284,
+  "code": 3828,
+  "nFiles": 48} }

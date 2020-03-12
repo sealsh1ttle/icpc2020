@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.9213259220123,
+  "n_files"            : 60,
+  "n_lines"            : 2902,
+  "files_per_second"   : 4.6434863079946,
+  "lines_per_second"   : 224.589954430006,
+  "report_file"        : "loc/yeriomin__SmsScheduler.json"},
+"Java" :{
+  "nFiles": 38,
+  "blank": 345,
+  "comment": 79,
+  "code": 1878},
+"XML" :{
+  "nFiles": 15,
+  "blank": 33,
+  "comment": 0,
+  "code": 380},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 119},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 1,
+  "code": 38},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 391,
+  "comment": 82,
+  "code": 2429,
+  "nFiles": 60} }

@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 97.1244440078735,
+  "n_files"            : 305,
+  "n_lines"            : 63362,
+  "files_per_second"   : 3.14030111693895,
+  "lines_per_second"   : 652.379538922905,
+  "report_file"        : "loc/OpenUpSA__nearby.json"},
+"JavaScript" :{
+  "nFiles": 149,
+  "blank": 7070,
+  "comment": 4508,
+  "code": 32936},
+"Sass" :{
+  "nFiles": 86,
+  "blank": 1369,
+  "comment": 1592,
+  "code": 7262},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 27,
+  "code": 2247},
+"LESS" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 33,
+  "code": 1343},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 199,
+  "comment": 50,
+  "code": 1313},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 375,
+  "comment": 0,
+  "code": 1087},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 701},
+"Python" :{
+  "nFiles": 9,
+  "blank": 143,
+  "comment": 63,
+  "code": 446},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 411},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 28},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 4,
+  "code": 22},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 9241,
+  "comment": 6279,
+  "code": 47842,
+  "nFiles": 305} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.31932091712952,
+  "n_files"            : 96,
+  "n_lines"            : 16686,
+  "files_per_second"   : 72.7647070197825,
+  "lines_per_second"   : 12647.4156388759,
+  "report_file"        : "loc/google__docsy-example.json"},
+"Markdown" :{
+  "nFiles": 87,
+  "blank": 4885,
+  "comment": 0,
+  "code": 8608},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2867},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 0,
+  "code": 106},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 37,
+  "code": 89},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 3},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 14,
+  "code": 3},
+"SUM": {
+  "blank": 4959,
+  "comment": 51,
+  "code": 11676,
+  "nFiles": 96} }

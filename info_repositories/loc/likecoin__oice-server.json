@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.462347984314,
+  "n_files"            : 231,
+  "n_lines"            : 51090,
+  "files_per_second"   : 5.8536810858751,
+  "lines_per_second"   : 1294.65180379809,
+  "report_file"        : "loc/likecoin__oice-server.json"},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 3569,
+  "comment": 5181,
+  "code": 16499},
+"Python" :{
+  "nFiles": 209,
+  "blank": 3522,
+  "comment": 2178,
+  "code": 14764},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 0,
+  "code": 4721},
+"INI" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 0,
+  "code": 161},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 115},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 80},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 63},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 26,
+  "comment": 3,
+  "code": 56},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 7223,
+  "comment": 7364,
+  "code": 36503,
+  "nFiles": 231} }

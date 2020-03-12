@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.66119480133057,
+  "n_files"            : 257,
+  "n_lines"            : 22885,
+  "files_per_second"   : 154.707924557765,
+  "lines_per_second"   : 13776.2290019628,
+  "report_file"        : "loc/coding-blocks__codingblocks.online.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 12975},
+"JavaScript" :{
+  "nFiles": 183,
+  "blank": 551,
+  "comment": 360,
+  "code": 2602},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 366,
+  "comment": 52,
+  "code": 2324},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 311,
+  "comment": 259,
+  "code": 1933},
+"Handlebars" :{
+  "nFiles": 51,
+  "blank": 101,
+  "comment": 28,
+  "code": 877},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 1,
+  "code": 65},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 32},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 8,
+  "code": 5},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1359,
+  "comment": 708,
+  "code": 20818,
+  "nFiles": 257} }

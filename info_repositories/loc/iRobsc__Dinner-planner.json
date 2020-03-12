@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.1287460327148,
+  "n_files"            : 56,
+  "n_lines"            : 13184,
+  "files_per_second"   : 4.26544925619374,
+  "lines_per_second"   : 1004.20862488675,
+  "report_file"        : "loc/iRobsc__Dinner-planner.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11211},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 170,
+  "comment": 69,
+  "code": 1107},
+"Sass" :{
+  "nFiles": 16,
+  "blank": 85,
+  "comment": 0,
+  "code": 475},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 29},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 18},
+"SUM": {
+  "blank": 273,
+  "comment": 71,
+  "code": 12840,
+  "nFiles": 56} }

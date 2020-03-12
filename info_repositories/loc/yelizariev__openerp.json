@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.2516870498657,
+  "n_files"            : 174,
+  "n_lines"            : 39986,
+  "files_per_second"   : 3.76202493570459,
+  "lines_per_second"   : 864.530626891286,
+  "report_file"        : "loc/yelizariev__openerp.json"},
+"Python" :{
+  "nFiles": 119,
+  "blank": 3887,
+  "comment": 6497,
+  "code": 15204},
+"XML" :{
+  "nFiles": 21,
+  "blank": 1499,
+  "comment": 10,
+  "code": 8395},
+"PO File" :{
+  "nFiles": 16,
+  "blank": 509,
+  "comment": 1211,
+  "code": 1290},
+"Java" :{
+  "nFiles": 8,
+  "blank": 121,
+  "comment": 215,
+  "code": 740},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 170},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 87},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 1,
+  "code": 58},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 4,
+  "code": 14},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 6075,
+  "comment": 7940,
+  "code": 25971,
+  "nFiles": 174} }

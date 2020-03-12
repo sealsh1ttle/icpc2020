@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.3227219581604,
+  "n_files"            : 56,
+  "n_lines"            : 41716,
+  "files_per_second"   : 1.42411301179975,
+  "lines_per_second"   : 1060.86247143283,
+  "report_file"        : "loc/CamDavidsonPilon__Probabilistic-Programming-and-Bayesian-Methods-for-Hackers.json"},
+"Jupyter Notebook" :{
+  "nFiles": 27,
+  "blank": 0,
+  "comment": 30052,
+  "code": 9614},
+"Python" :{
+  "nFiles": 16,
+  "blank": 330,
+  "comment": 270,
+  "code": 667},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 69,
+  "comment": 38,
+  "code": 227},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 85,
+  "comment": 0,
+  "code": 172},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 75},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 61},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 515,
+  "comment": 30361,
+  "code": 10840,
+  "nFiles": 56} }

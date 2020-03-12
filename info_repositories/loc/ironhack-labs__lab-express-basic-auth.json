@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.90337586402893,
+  "n_files"            : 13,
+  "n_lines"            : 4715,
+  "files_per_second"   : 4.47754634908354,
+  "lines_per_second"   : 1623.97161814838,
+  "report_file"        : "loc/ironhack-labs__lab-express-basic-auth.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4505},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 50,
+  "comment": 0,
+  "code": 58},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 4,
+  "code": 46},
+"Handlebars" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 20},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 75,
+  "comment": 4,
+  "code": 4636,
+  "nFiles": 13} }

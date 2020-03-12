@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.423770904541016,
+  "n_files"            : 71,
+  "n_lines"            : 6070,
+  "files_per_second"   : 167.543357128068,
+  "lines_per_second"   : 14323.7771516532,
+  "report_file"        : "loc/wso2__kubernetes-sp.json"},
+"YAML" :{
+  "nFiles": 57,
+  "blank": 87,
+  "comment": 1295,
+  "code": 3270},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 273,
+  "comment": 0,
+  "code": 579},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 67,
+  "comment": 99,
+  "code": 363},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 15,
+  "code": 7},
+"SUM": {
+  "blank": 432,
+  "comment": 1409,
+  "code": 4229,
+  "nFiles": 71} }

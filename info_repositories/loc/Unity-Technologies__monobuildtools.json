@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.13296723365784,
+  "n_files"            : 37,
+  "n_lines"            : 2760,
+  "files_per_second"   : 17.3467268583158,
+  "lines_per_second"   : 1293.97205753923,
+  "report_file"        : "loc/Unity-Technologies__monobuildtools.json"},
+"Perl" :{
+  "nFiles": 18,
+  "blank": 514,
+  "comment": 261,
+  "code": 1893},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 25,
+  "comment": 1,
+  "code": 49},
+"DOS Batch" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 539,
+  "comment": 262,
+  "code": 1959,
+  "nFiles": 37} }

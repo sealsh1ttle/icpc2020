@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.94661903381348,
+  "n_files"            : 162,
+  "n_lines"            : 37564,
+  "files_per_second"   : 41.047792708653,
+  "lines_per_second"   : 9518.02027967803,
+  "report_file"        : "loc/devSchacht__translations.json"},
+"Markdown" :{
+  "nFiles": 154,
+  "blank": 10817,
+  "comment": 0,
+  "code": 23852},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2803},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 34},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 28},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 2,
+  "code": 6},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 10836,
+  "comment": 2,
+  "code": 26726,
+  "nFiles": 162} }

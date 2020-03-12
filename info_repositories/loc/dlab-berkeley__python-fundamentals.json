@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.79313111305237,
+  "n_files"            : 41,
+  "n_lines"            : 15288,
+  "files_per_second"   : 4.66273042820211,
+  "lines_per_second"   : 1738.62982405741,
+  "report_file"        : "loc/dlab-berkeley__python-fundamentals.json"},
+"Jupyter Notebook" :{
+  "nFiles": 33,
+  "blank": 0,
+  "comment": 13203,
+  "code": 1597},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 143,
+  "comment": 0,
+  "code": 277},
+"Python" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 17,
+  "code": 37},
+"SUM": {
+  "blank": 157,
+  "comment": 13220,
+  "code": 1911,
+  "nFiles": 41} }

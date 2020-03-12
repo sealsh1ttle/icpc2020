@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.76344799995422,
+  "n_files"            : 28,
+  "n_lines"            : 1931,
+  "files_per_second"   : 3.60664488255284,
+  "lines_per_second"   : 248.729688150341,
+  "report_file"        : "loc/yeriomin__DumbphoneAssistant.json"},
+"Java" :{
+  "nFiles": 9,
+  "blank": 156,
+  "comment": 106,
+  "code": 929},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 2,
+  "code": 327},
+"XML" :{
+  "nFiles": 10,
+  "blank": 39,
+  "comment": 0,
+  "code": 290},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 1,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 208,
+  "comment": 124,
+  "code": 1599,
+  "nFiles": 28} }

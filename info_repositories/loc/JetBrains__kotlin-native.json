@@ -1,0 +1,149 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.2379329204559,
+  "n_files"            : 2030,
+  "n_lines"            : 212183,
+  "files_per_second"   : 83.7530166727524,
+  "lines_per_second"   : 8754.17060919932,
+  "report_file"        : "loc/JetBrains__kotlin-native.json"},
+"Kotlin" :{
+  "nFiles": 1281,
+  "blank": 22733,
+  "comment": 20722,
+  "code": 100368},
+"C++" :{
+  "nFiles": 53,
+  "blank": 2759,
+  "comment": 3829,
+  "code": 16724},
+"Gradle" :{
+  "nFiles": 82,
+  "blank": 1420,
+  "comment": 483,
+  "code": 7281},
+"Swift" :{
+  "nFiles": 42,
+  "blank": 985,
+  "comment": 298,
+  "code": 6822},
+"C/C++ Header" :{
+  "nFiles": 49,
+  "blank": 945,
+  "comment": 1046,
+  "code": 4117},
+"Windows Module Definition" :{
+  "nFiles": 363,
+  "blank": 628,
+  "comment": 0,
+  "code": 3499},
+"Markdown" :{
+  "nFiles": 43,
+  "blank": 1265,
+  "comment": 0,
+  "code": 3100},
+"Groovy" :{
+  "nFiles": 13,
+  "blank": 477,
+  "comment": 316,
+  "code": 2509},
+"Objective C++" :{
+  "nFiles": 5,
+  "blank": 652,
+  "comment": 290,
+  "code": 2195},
+"C" :{
+  "nFiles": 5,
+  "blank": 94,
+  "comment": 112,
+  "code": 1554},
+"XML" :{
+  "nFiles": 33,
+  "blank": 15,
+  "comment": 14,
+  "code": 1028},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 812},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 80,
+  "comment": 48,
+  "code": 462},
+"Bourne Shell" :{
+  "nFiles": 17,
+  "blank": 91,
+  "comment": 67,
+  "code": 394},
+"Objective C" :{
+  "nFiles": 4,
+  "blank": 89,
+  "comment": 2,
+  "code": 346},
+"Python" :{
+  "nFiles": 3,
+  "blank": 88,
+  "comment": 39,
+  "code": 273},
+"DOS Batch" :{
+  "nFiles": 9,
+  "blank": 72,
+  "comment": 68,
+  "code": 245},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 113},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 24,
+  "comment": 81,
+  "code": 97},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 79},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 25,
+  "comment": 22,
+  "code": 79},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 41},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 22},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 15},
+"Puppet" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 32,
+  "code": 10},
+"Java" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 20,
+  "code": 1},
+"SUM": {
+  "blank": 32481,
+  "comment": 27493,
+  "code": 152209,
+  "nFiles": 2030} }

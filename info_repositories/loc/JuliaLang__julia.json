@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 412.437724113464,
+  "n_files"            : 1130,
+  "n_lines"            : 462573,
+  "files_per_second"   : 2.73980757320135,
+  "lines_per_second"   : 1121.55841465351,
+  "report_file"        : "loc/JuliaLang__julia.json"},
+"Julia" :{
+  "nFiles": 609,
+  "blank": 33940,
+  "comment": 21750,
+  "code": 219616},
+"C" :{
+  "nFiles": 83,
+  "blank": 4560,
+  "comment": 4518,
+  "code": 47950},
+"Markdown" :{
+  "nFiles": 129,
+  "blank": 9143,
+  "comment": 0,
+  "code": 31911},
+"C++" :{
+  "nFiles": 37,
+  "blank": 2383,
+  "comment": 3311,
+  "code": 27220},
+"C/C++ Header" :{
+  "nFiles": 58,
+  "blank": 1611,
+  "comment": 2027,
+  "code": 11729},
+"diff" :{
+  "nFiles": 68,
+  "blank": 760,
+  "comment": 4241,
+  "code": 11474},
+"Scheme" :{
+  "nFiles": 11,
+  "blank": 634,
+  "comment": 701,
+  "code": 7200},
+"make" :{
+  "nFiles": 42,
+  "blank": 818,
+  "comment": 388,
+  "code": 3840},
+"Bourne Shell" :{
+  "nFiles": 23,
+  "blank": 191,
+  "comment": 282,
+  "code": 2508},
+"Lisp" :{
+  "nFiles": 6,
+  "blank": 288,
+  "comment": 97,
+  "code": 1896},
+"XML" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 6,
+  "code": 852},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 2,
+  "code": 674},
+"Objective C" :{
+  "nFiles": 5,
+  "blank": 102,
+  "comment": 43,
+  "code": 589},
+"Clojure" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 403},
+"TOML" :{
+  "nFiles": 34,
+  "blank": 103,
+  "comment": 1,
+  "code": 353},
+"Assembly" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 98,
+  "code": 187},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 24,
+  "code": 184},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 14,
+  "code": 130},
+"Python" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 20,
+  "code": 103},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 169,
+  "comment": 1131,
+  "code": 95},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 74},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 69},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 5,
+  "code": 29},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 2},
+"SUM": {
+  "blank": 54783,
+  "comment": 38663,
+  "code": 369127,
+  "nFiles": 1130} }

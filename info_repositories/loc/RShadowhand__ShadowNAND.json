@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.8912720680237,
+  "n_files"            : 71,
+  "n_lines"            : 12028,
+  "files_per_second"   : 3.39854843538575,
+  "lines_per_second"   : 575.74282508197,
+  "report_file"        : "loc/RShadowhand__ShadowNAND.json"},
+"C" :{
+  "nFiles": 24,
+  "blank": 1386,
+  "comment": 690,
+  "code": 7349},
+"C/C++ Header" :{
+  "nFiles": 33,
+  "blank": 400,
+  "comment": 493,
+  "code": 1186},
+"make" :{
+  "nFiles": 6,
+  "blank": 83,
+  "comment": 0,
+  "code": 223},
+"Assembly" :{
+  "nFiles": 7,
+  "blank": 23,
+  "comment": 27,
+  "code": 108},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 50},
+"SUM": {
+  "blank": 1902,
+  "comment": 1210,
+  "code": 8916,
+  "nFiles": 71} }

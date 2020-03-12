@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.333106994628906,
+  "n_files"            : 34,
+  "n_lines"            : 29956,
+  "files_per_second"   : 102.069306703923,
+  "lines_per_second"   : 89929.0632830215,
+  "report_file"        : "loc/babajka__babajka-legends-map.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 28940},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 96,
+  "comment": 58,
+  "code": 615},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 0,
+  "code": 126},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 18,
+  "code": 48},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 136,
+  "comment": 76,
+  "code": 29744,
+  "nFiles": 34} }

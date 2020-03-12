@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 411.94303393364,
+  "n_files"            : 3256,
+  "n_lines"            : 972220,
+  "files_per_second"   : 7.90400548568206,
+  "lines_per_second"   : 2360.08360359024,
+  "report_file"        : "loc/digitalocean__digitalocean-cloud-controller-manager.json"},
+"Go" :{
+  "nFiles": 2936,
+  "blank": 84160,
+  "comment": 126043,
+  "code": 722159},
+"Protocol Buffers" :{
+  "nFiles": 62,
+  "blank": 3367,
+  "comment": 10251,
+  "code": 6101},
+"Markdown" :{
+  "nFiles": 87,
+  "blank": 2040,
+  "comment": 0,
+  "code": 5343},
+"YAML" :{
+  "nFiles": 80,
+  "blank": 140,
+  "comment": 106,
+  "code": 4050},
+"Assembly" :{
+  "nFiles": 38,
+  "blank": 417,
+  "comment": 445,
+  "code": 2607},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1610},
+"Bourne Shell" :{
+  "nFiles": 28,
+  "blank": 239,
+  "comment": 605,
+  "code": 1156},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 50,
+  "code": 306},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 22,
+  "code": 218},
+"make" :{
+  "nFiles": 13,
+  "blank": 70,
+  "comment": 112,
+  "code": 216},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 39,
+  "code": 51},
+"C" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 30,
+  "code": 40},
+"Starlark" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 37,
+  "code": 36},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 45,
+  "code": 11},
+"SUM": {
+  "blank": 90531,
+  "comment": 137785,
+  "code": 743904,
+  "nFiles": 3256} }

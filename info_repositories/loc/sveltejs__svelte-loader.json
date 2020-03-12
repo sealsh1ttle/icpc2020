@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.63356399536133,
+  "n_files"            : 30,
+  "n_lines"            : 4079,
+  "files_per_second"   : 4.52245580520188,
+  "lines_per_second"   : 614.903240980615,
+  "report_file"        : "loc/sveltejs__svelte-loader.json"},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 406,
+  "comment": 148,
+  "code": 1555},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 1444},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 110,
+  "comment": 0,
+  "code": 273},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 13,
+  "comment": 0,
+  "code": 92},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 5,
+  "code": 23},
+"SUM": {
+  "blank": 539,
+  "comment": 153,
+  "code": 3387,
+  "nFiles": 30} }

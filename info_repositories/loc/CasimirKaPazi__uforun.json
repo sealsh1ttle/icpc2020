@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.82103180885315,
+  "n_files"            : 9,
+  "n_lines"            : 594,
+  "files_per_second"   : 2.35538473643361,
+  "lines_per_second"   : 155.455392604618,
+  "report_file"        : "loc/CasimirKaPazi__uforun.json"},
+"Lua" :{
+  "nFiles": 9,
+  "blank": 79,
+  "comment": 21,
+  "code": 494},
+"SUM": {
+  "blank": 79,
+  "comment": 21,
+  "code": 494,
+  "nFiles": 9} }

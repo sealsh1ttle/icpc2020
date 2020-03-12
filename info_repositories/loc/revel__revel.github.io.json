@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.2426929473877,
+  "n_files"            : 104,
+  "n_lines"            : 21134,
+  "files_per_second"   : 4.28995244982495,
+  "lines_per_second"   : 871.767837255775,
+  "report_file"        : "loc/revel__revel.github.io.json"},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 79,
+  "comment": 51,
+  "code": 8762},
+"Markdown" :{
+  "nFiles": 67,
+  "blank": 2194,
+  "comment": 0,
+  "code": 6242},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 624,
+  "comment": 257,
+  "code": 1870},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 64,
+  "comment": 7,
+  "code": 657},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 28},
+"Python" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 3},
+"SUM": {
+  "blank": 2967,
+  "comment": 317,
+  "code": 17850,
+  "nFiles": 104} }

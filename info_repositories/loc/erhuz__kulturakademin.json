@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.498482942581177,
+  "n_files"            : 63,
+  "n_lines"            : 16858,
+  "files_per_second"   : 126.383461937096,
+  "lines_per_second"   : 33818.6095450091,
+  "report_file"        : "loc/erhuz__kulturakademin.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 14540},
+"JavaScript" :{
+  "nFiles": 28,
+  "blank": 217,
+  "comment": 75,
+  "code": 1308},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 75,
+  "comment": 1,
+  "code": 411},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 0,
+  "code": 79},
+"SVG" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 70},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 20},
+"SUM": {
+  "blank": 334,
+  "comment": 96,
+  "code": 16428,
+  "nFiles": 63} }

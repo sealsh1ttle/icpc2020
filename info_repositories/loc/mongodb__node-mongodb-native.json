@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 315.656111955643,
+  "n_files"            : 1373,
+  "n_lines"            : 337810,
+  "files_per_second"   : 4.34967025188772,
+  "lines_per_second"   : 1070.18361820116,
+  "report_file"        : "loc/mongodb__node-mongodb-native.json"},
+"JavaScript" :{
+  "nFiles": 367,
+  "blank": 20043,
+  "comment": 29700,
+  "code": 104562},
+"JSON" :{
+  "nFiles": 398,
+  "blank": 8,
+  "comment": 0,
+  "code": 91363},
+"YAML" :{
+  "nFiles": 386,
+  "blank": 2039,
+  "comment": 701,
+  "code": 36589},
+"CSS" :{
+  "nFiles": 67,
+  "blank": 2218,
+  "comment": 601,
+  "code": 20349},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 12409},
+"Markdown" :{
+  "nFiles": 49,
+  "blank": 2389,
+  "comment": 0,
+  "code": 8231},
+"reStructuredText" :{
+  "nFiles": 18,
+  "blank": 764,
+  "comment": 32,
+  "code": 2157},
+"Sass" :{
+  "nFiles": 13,
+  "blank": 19,
+  "comment": 22,
+  "code": 928},
+"LESS" :{
+  "nFiles": 12,
+  "blank": 18,
+  "comment": 27,
+  "code": 907},
+"HTML" :{
+  "nFiles": 41,
+  "blank": 77,
+  "comment": 22,
+  "code": 649},
+"Python" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 234,
+  "code": 529},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 18,
+  "code": 48},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 2,
+  "code": 47},
+"make" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 1,
+  "code": 33},
+"SUM": {
+  "blank": 27649,
+  "comment": 31360,
+  "code": 278801,
+  "nFiles": 1373} }

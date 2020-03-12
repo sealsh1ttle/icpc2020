@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.213165044784546,
+  "n_files"            : 32,
+  "n_lines"            : 4906,
+  "files_per_second"   : 150.118421302816,
+  "lines_per_second"   : 23015.0304659879,
+  "report_file"        : "loc/PokeAlert__PokeAlert.json"},
+"XML" :{
+  "nFiles": 31,
+  "blank": 395,
+  "comment": 44,
+  "code": 4465},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 395,
+  "comment": 44,
+  "code": 4467,
+  "nFiles": 32} }

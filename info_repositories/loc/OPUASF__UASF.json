@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.06743907928467,
+  "n_files"            : 5,
+  "n_lines"            : 375,
+  "files_per_second"   : 2.41845094740591,
+  "lines_per_second"   : 181.383821055443,
+  "report_file"        : "loc/OPUASF__UASF.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 93,
+  "comment": 0,
+  "code": 179},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 86},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 7},
+"SUM": {
+  "blank": 97,
+  "comment": 6,
+  "code": 272,
+  "nFiles": 5} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 58.8614721298218,
+  "n_files"            : 242,
+  "n_lines"            : 34520,
+  "files_per_second"   : 4.1113480727471,
+  "lines_per_second"   : 586.461716823264,
+  "report_file"        : "loc/JavaMoney__jsr354-ri.json"},
+"Java" :{
+  "nFiles": 222,
+  "blank": 3809,
+  "comment": 8667,
+  "code": 17814},
+"Maven" :{
+  "nFiles": 7,
+  "blank": 63,
+  "comment": 98,
+  "code": 1971},
+"AsciiDoc" :{
+  "nFiles": 2,
+  "blank": 382,
+  "comment": 4,
+  "code": 1362},
+"XML" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 7,
+  "code": 264},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 40},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 4269,
+  "comment": 8776,
+  "code": 21475,
+  "nFiles": 242} }

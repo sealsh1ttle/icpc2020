@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.8054559230804,
+  "n_files"            : 37,
+  "n_lines"            : 1033,
+  "files_per_second"   : 3.42419609717421,
+  "lines_per_second"   : 95.5998531994854,
+  "report_file"        : "loc/orbita-center__parity-poa-playground.json"},
+"JSON" :{
+  "nFiles": 31,
+  "blank": 0,
+  "comment": 0,
+  "code": 782},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 130},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 38},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 28},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 34,
+  "comment": 0,
+  "code": 999,
+  "nFiles": 37} }

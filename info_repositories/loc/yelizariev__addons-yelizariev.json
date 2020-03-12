@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 166.452106952667,
+  "n_files"            : 464,
+  "n_lines"            : 43240,
+  "files_per_second"   : 2.78758862530917,
+  "lines_per_second"   : 259.774422755104,
+  "report_file"        : "loc/yelizariev__addons-yelizariev.json"},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 4300,
+  "comment": 2363,
+  "code": 14580},
+"Python" :{
+  "nFiles": 228,
+  "blank": 1534,
+  "comment": 1589,
+  "code": 8656},
+"XML" :{
+  "nFiles": 118,
+  "blank": 441,
+  "comment": 301,
+  "code": 4774},
+"PO File" :{
+  "nFiles": 16,
+  "blank": 267,
+  "comment": 638,
+  "code": 862},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 257,
+  "comment": 134,
+  "code": 817},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 67,
+  "comment": 119,
+  "code": 666},
+"reStructuredText" :{
+  "nFiles": 60,
+  "blank": 261,
+  "comment": 4,
+  "code": 556},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 21},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 7134,
+  "comment": 5149,
+  "code": 30957,
+  "nFiles": 464} }

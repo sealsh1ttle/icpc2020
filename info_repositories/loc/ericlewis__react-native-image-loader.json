@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.11249995231628,
+  "n_files"            : 15,
+  "n_lines"            : 573,
+  "files_per_second"   : 3.64741645566501,
+  "lines_per_second"   : 139.331308606404,
+  "report_file"        : "loc/ericlewis__react-native-image-loader.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 0,
+  "code": 198},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 10,
+  "code": 97},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 5,
+  "code": 71},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 27},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 19,
+  "code": 25},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 22},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 6,
+  "code": 7},
+"SUM": {
+  "blank": 78,
+  "comment": 40,
+  "code": 455,
+  "nFiles": 15} }

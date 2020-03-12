@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.377497911453247,
+  "n_files"            : 1,
+  "n_lines"            : 29,
+  "files_per_second"   : 2.64902127842328,
+  "lines_per_second"   : 76.8216170742752,
+  "report_file"        : "loc/InfinityPhase__GithubStoryProject.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 8,
+  "comment": 0,
+  "code": 21,
+  "nFiles": 1} }

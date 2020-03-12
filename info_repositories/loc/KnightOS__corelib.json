@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.75479102134705,
+  "n_files"            : 16,
+  "n_lines"            : 2229,
+  "files_per_second"   : 5.80806307121484,
+  "lines_per_second"   : 809.135786608618,
+  "report_file"        : "loc/KnightOS__corelib.json"},
+"Assembly" :{
+  "nFiles": 12,
+  "blank": 126,
+  "comment": 269,
+  "code": 1346},
+"C" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 276},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 67,
+  "code": 52},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 187,
+  "comment": 336,
+  "code": 1706,
+  "nFiles": 16} }

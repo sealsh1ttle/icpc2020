@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7953448295593,
+  "n_files"            : 1363,
+  "n_lines"            : 143937,
+  "files_per_second"   : 126.258125286364,
+  "lines_per_second"   : 13333.2470868256,
+  "report_file"        : "loc/Nukkit__Nukkit.json"},
+"Java" :{
+  "nFiles": 1353,
+  "blank": 20107,
+  "comment": 8405,
+  "code": 86648},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 28253},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 6,
+  "code": 249},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 64,
+  "comment": 0,
+  "code": 178},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 20182,
+  "comment": 8411,
+  "code": 115344,
+  "nFiles": 1363} }

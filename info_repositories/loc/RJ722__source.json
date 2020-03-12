@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0313260555267334,
+  "n_files"            : 3,
+  "n_lines"            : 196,
+  "files_per_second"   : 95.7669246752061,
+  "lines_per_second"   : 6256.77241211346,
+  "report_file"        : "loc/RJ722__source.json"},
+"Python" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 62,
+  "code": 96},
+"SUM": {
+  "blank": 38,
+  "comment": 62,
+  "code": 96,
+  "nFiles": 3} }

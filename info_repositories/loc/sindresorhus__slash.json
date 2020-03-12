@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.08165693283081,
+  "n_files"            : 9,
+  "n_lines"            : 156,
+  "files_per_second"   : 4.3234789835235,
+  "lines_per_second"   : 74.940302381074,
+  "report_file"        : "loc/sindresorhus__slash.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 35},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 23},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 17,
+  "code": 5},
+"SUM": {
+  "blank": 32,
+  "comment": 17,
+  "code": 107,
+  "nFiles": 9} }

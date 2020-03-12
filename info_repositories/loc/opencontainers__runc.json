@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.63369703292847,
+  "n_files"            : 721,
+  "n_lines"            : 314242,
+  "files_per_second"   : 108.687508100097,
+  "lines_per_second"   : 47370.568544231,
+  "report_file"        : "loc/opencontainers__runc.json"},
+"Go" :{
+  "nFiles": 614,
+  "blank": 27981,
+  "comment": 21715,
+  "code": 253084},
+"Markdown" :{
+  "nFiles": 45,
+  "blank": 1139,
+  "comment": 0,
+  "code": 4073},
+"Assembly" :{
+  "nFiles": 40,
+  "blank": 313,
+  "comment": 365,
+  "code": 1751},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 152,
+  "comment": 86,
+  "code": 1057},
+"C" :{
+  "nFiles": 6,
+  "blank": 254,
+  "comment": 424,
+  "code": 1033},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 70,
+  "comment": 89,
+  "code": 376},
+"make" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 1,
+  "code": 93},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 51},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 1,
+  "code": 43},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 28},
+"SUM": {
+  "blank": 29964,
+  "comment": 22689,
+  "code": 261589,
+  "nFiles": 721} }

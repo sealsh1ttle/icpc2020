@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.713073015213013,
+  "n_files"            : 120,
+  "n_lines"            : 13640,
+  "files_per_second"   : 168.285711897474,
+  "lines_per_second"   : 19128.4759190129,
+  "report_file"        : "loc/brianmuks__lubuto-library.json"},
+"JavaScript" :{
+  "nFiles": 108,
+  "blank": 2213,
+  "comment": 405,
+  "code": 8879},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1679},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 62,
+  "comment": 32,
+  "code": 254},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 26,
+  "code": 46},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2300,
+  "comment": 463,
+  "code": 10877,
+  "nFiles": 120} }

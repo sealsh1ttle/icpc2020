@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 246.353238105774,
+  "n_files"            : 731,
+  "n_lines"            : 67786,
+  "files_per_second"   : 2.96728391159258,
+  "lines_per_second"   : 275.15773903039,
+  "report_file"        : "loc/fagolabs__devops.json"},
+"JSON" :{
+  "nFiles": 414,
+  "blank": 0,
+  "comment": 0,
+  "code": 32855},
+"Markdown" :{
+  "nFiles": 64,
+  "blank": 2515,
+  "comment": 0,
+  "code": 9253},
+"Bourne Shell" :{
+  "nFiles": 118,
+  "blank": 1556,
+  "comment": 1624,
+  "code": 7816},
+"YAML" :{
+  "nFiles": 79,
+  "blank": 536,
+  "comment": 2789,
+  "code": 4471},
+"Python" :{
+  "nFiles": 23,
+  "blank": 348,
+  "comment": 262,
+  "code": 1382},
+"INI" :{
+  "nFiles": 3,
+  "blank": 175,
+  "comment": 0,
+  "code": 609},
+"Dockerfile" :{
+  "nFiles": 20,
+  "blank": 97,
+  "comment": 137,
+  "code": 419},
+"make" :{
+  "nFiles": 6,
+  "blank": 116,
+  "comment": 116,
+  "code": 310},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 24,
+  "code": 180},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 0,
+  "code": 98},
+"SUM": {
+  "blank": 5441,
+  "comment": 4952,
+  "code": 57393,
+  "nFiles": 731} }

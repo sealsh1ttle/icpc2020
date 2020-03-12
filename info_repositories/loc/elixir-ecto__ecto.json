@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.4731388092041,
+  "n_files"            : 139,
+  "n_lines"            : 47070,
+  "files_per_second"   : 4.2804608700346,
+  "lines_per_second"   : 1449.5057061333,
+  "report_file"        : "loc/elixir-ecto__ecto.json"},
+"Elixir" :{
+  "nFiles": 121,
+  "blank": 8487,
+  "comment": 7591,
+  "code": 27301},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 953,
+  "comment": 0,
+  "code": 2714},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 9440,
+  "comment": 7591,
+  "code": 30039,
+  "nFiles": 139} }

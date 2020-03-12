@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.5177218914032,
+  "n_files"            : 177,
+  "n_lines"            : 7051,
+  "files_per_second"   : 116.622156537754,
+  "lines_per_second"   : 4645.7786765407,
+  "report_file"        : "loc/calvinmclean__atmosphere-ansible.json"},
+"YAML" :{
+  "nFiles": 148,
+  "blank": 626,
+  "comment": 355,
+  "code": 3227},
+"XML" :{
+  "nFiles": 1,
+  "blank": 194,
+  "comment": 0,
+  "code": 623},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 201,
+  "comment": 0,
+  "code": 553},
+"Python" :{
+  "nFiles": 1,
+  "blank": 120,
+  "comment": 103,
+  "code": 414},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 128,
+  "comment": 21,
+  "code": 315},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 20,
+  "comment": 46,
+  "code": 85},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 1289,
+  "comment": 525,
+  "code": 5237,
+  "nFiles": 177} }

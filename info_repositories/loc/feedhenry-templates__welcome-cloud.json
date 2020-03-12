@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.1530737876892,
+  "n_files"            : 19,
+  "n_lines"            : 6556,
+  "files_per_second"   : 0.540493275630818,
+  "lines_per_second"   : 186.498627107139,
+  "report_file"        : "loc/feedhenry-templates__welcome-cloud.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3068},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2161},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 132,
+  "comment": 110,
+  "code": 813},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 0,
+  "code": 132},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 192,
+  "comment": 110,
+  "code": 6254,
+  "nFiles": 19} }

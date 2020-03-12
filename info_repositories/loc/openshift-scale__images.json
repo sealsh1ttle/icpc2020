@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.44454288482666,
+  "n_files"            : 29,
+  "n_lines"            : 34054,
+  "files_per_second"   : 65.2355509217247,
+  "lines_per_second"   : 76604.5327961522,
+  "report_file"        : "loc/openshift-scale__images.json"},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 30,
+  "comment": 0,
+  "code": 32917},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 77,
+  "comment": 6,
+  "code": 435},
+"awk" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 214},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 16,
+  "code": 157},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 27,
+  "comment": 14,
+  "code": 115},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 171,
+  "comment": 38,
+  "code": 33845,
+  "nFiles": 29} }

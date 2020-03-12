@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.600622892379761,
+  "n_files"            : 2,
+  "n_lines"            : 197,
+  "files_per_second"   : 3.32987640893222,
+  "lines_per_second"   : 327.992826279824,
+  "report_file"        : "loc/flathub__net.mediaarea.MediaInfo.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 109},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 87},
+"SUM": {
+  "blank": 0,
+  "comment": 1,
+  "code": 196,
+  "nFiles": 2} }

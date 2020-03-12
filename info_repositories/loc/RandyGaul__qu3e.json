@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.994215965271,
+  "n_files"            : 92,
+  "n_lines"            : 49319,
+  "files_per_second"   : 4.18291791556783,
+  "lines_per_second"   : 2242.36226823793,
+  "report_file"        : "loc/RandyGaul__qu3e.json"},
+"C" :{
+  "nFiles": 24,
+  "blank": 3167,
+  "comment": 3075,
+  "code": 15605},
+"C++" :{
+  "nFiles": 26,
+  "blank": 2011,
+  "comment": 1681,
+  "code": 9843},
+"C/C++ Header" :{
+  "nFiles": 36,
+  "blank": 1499,
+  "comment": 2640,
+  "code": 9322},
+"CMake" :{
+  "nFiles": 5,
+  "blank": 42,
+  "comment": 1,
+  "code": 250},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 120},
+"SUM": {
+  "blank": 6782,
+  "comment": 7397,
+  "code": 35140,
+  "nFiles": 92} }

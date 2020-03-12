@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.8711211681366,
+  "n_files"            : 25,
+  "n_lines"            : 1129,
+  "files_per_second"   : 4.25813048037205,
+  "lines_per_second"   : 192.297172493602,
+  "report_file"        : "loc/haruue__EasyReflect.json"},
+"Java" :{
+  "nFiles": 9,
+  "blank": 92,
+  "comment": 131,
+  "code": 286},
+"XML" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 256},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 52},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 34},
+"SUM": {
+  "blank": 160,
+  "comment": 154,
+  "code": 815,
+  "nFiles": 25} }

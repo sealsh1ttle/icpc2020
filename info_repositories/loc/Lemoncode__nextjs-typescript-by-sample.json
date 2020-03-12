@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.902905941009521,
+  "n_files"            : 60,
+  "n_lines"            : 3343,
+  "files_per_second"   : 66.4521045602105,
+  "lines_per_second"   : 3702.48975907973,
+  "report_file"        : "loc/Lemoncode__nextjs-typescript-by-sample.json"},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 771,
+  "comment": 0,
+  "code": 1928},
+"TypeScript" :{
+  "nFiles": 19,
+  "blank": 38,
+  "comment": 0,
+  "code": 245},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 243},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 15,
+  "comment": 0,
+  "code": 96},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 825,
+  "comment": 0,
+  "code": 2518,
+  "nFiles": 60} }

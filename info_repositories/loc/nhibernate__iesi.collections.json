@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7753648757935,
+  "n_files"            : 33,
+  "n_lines"            : 38933,
+  "files_per_second"   : 3.06254130420526,
+  "lines_per_second"   : 3613.14910898858,
+  "report_file"        : "loc/nhibernate__iesi.collections.json"},
+"XML" :{
+  "nFiles": 15,
+  "blank": 62,
+  "comment": 4,
+  "code": 33067},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2606},
+"C#" :{
+  "nFiles": 9,
+  "blank": 246,
+  "comment": 433,
+  "code": 910},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 227,
+  "comment": 648,
+  "code": 427},
+"NAnt script" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 6,
+  "code": 197},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 47},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 580,
+  "comment": 1091,
+  "code": 37262,
+  "nFiles": 33} }

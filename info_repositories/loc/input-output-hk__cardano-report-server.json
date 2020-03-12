@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.41058206558228,
+  "n_files"            : 20,
+  "n_lines"            : 1836,
+  "files_per_second"   : 3.11984150509169,
+  "lines_per_second"   : 286.401450167417,
+  "report_file"        : "loc/input-output-hk__cardano-report-server.json"},
+"Haskell" :{
+  "nFiles": 14,
+  "blank": 252,
+  "comment": 136,
+  "code": 1026},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 118},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 183,
+  "code": 74},
+"Nix" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 283,
+  "comment": 319,
+  "code": 1234,
+  "nFiles": 20} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.28460788726807,
+  "n_files"            : 25,
+  "n_lines"            : 3256,
+  "files_per_second"   : 3.97797292185043,
+  "lines_per_second"   : 518.0911933418,
+  "report_file"        : "loc/dantaki__SV2.json"},
+"Python" :{
+  "nFiles": 15,
+  "blank": 32,
+  "comment": 99,
+  "code": 1364},
+"Cython" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 35,
+  "code": 706},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 460,
+  "code": 216},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 117,
+  "comment": 0,
+  "code": 208},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 150,
+  "comment": 594,
+  "code": 2512,
+  "nFiles": 25} }

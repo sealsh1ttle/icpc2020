@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.02158308029175,
+  "n_files"            : 18,
+  "n_lines"            : 506,
+  "files_per_second"   : 3.58452697330544,
+  "lines_per_second"   : 100.765036027364,
+  "report_file"        : "loc/OpenGeoscience__girder_ktile.json"},
+"Python" :{
+  "nFiles": 9,
+  "blank": 70,
+  "comment": 15,
+  "code": 302},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 2,
+  "code": 82},
+"Pug" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"Stylus" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 79,
+  "comment": 17,
+  "code": 410,
+  "nFiles": 18} }

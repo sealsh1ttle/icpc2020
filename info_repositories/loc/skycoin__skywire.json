@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 276.327530860901,
+  "n_files"            : 985,
+  "n_lines"            : 249888,
+  "files_per_second"   : 3.56461043505591,
+  "lines_per_second"   : 904.318144563706,
+  "report_file"        : "loc/skycoin__skywire.json"},
+"Go" :{
+  "nFiles": 440,
+  "blank": 16646,
+  "comment": 14434,
+  "code": 164501},
+"JSON" :{
+  "nFiles": 32,
+  "blank": 9,
+  "comment": 0,
+  "code": 22759},
+"TypeScript" :{
+  "nFiles": 227,
+  "blank": 1224,
+  "comment": 506,
+  "code": 8917},
+"Markdown" :{
+  "nFiles": 34,
+  "blank": 1243,
+  "comment": 0,
+  "code": 3533},
+"Sass" :{
+  "nFiles": 76,
+  "blank": 300,
+  "comment": 62,
+  "code": 3068},
+"Assembly" :{
+  "nFiles": 31,
+  "blank": 281,
+  "comment": 311,
+  "code": 2571},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 3,
+  "code": 2421},
+"HTML" :{
+  "nFiles": 74,
+  "blank": 65,
+  "comment": 157,
+  "code": 2269},
+"Python" :{
+  "nFiles": 1,
+  "blank": 228,
+  "comment": 160,
+  "code": 907},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 142,
+  "comment": 131,
+  "code": 855},
+"Bourne Again Shell" :{
+  "nFiles": 15,
+  "blank": 331,
+  "comment": 418,
+  "code": 780},
+"YAML" :{
+  "nFiles": 16,
+  "blank": 41,
+  "comment": 7,
+  "code": 216},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 5,
+  "comment": 6,
+  "code": 84},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 6,
+  "comment": 10,
+  "code": 54},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 16,
+  "code": 34},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 30},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 10,
+  "code": 26},
+"C" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 7,
+  "code": 24},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 20,
+  "code": 12},
+"SUM": {
+  "blank": 20569,
+  "comment": 16258,
+  "code": 213061,
+  "nFiles": 985} }

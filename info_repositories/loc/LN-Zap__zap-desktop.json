@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 228.845712900162,
+  "n_files"            : 870,
+  "n_lines"            : 66638,
+  "files_per_second"   : 3.80168799744811,
+  "lines_per_second"   : 291.191821579249,
+  "report_file"        : "loc/LN-Zap__zap-desktop.json"},
+"JavaScript" :{
+  "nFiles": 743,
+  "blank": 4760,
+  "comment": 5563,
+  "code": 38577},
+"JSON" :{
+  "nFiles": 32,
+  "blank": 8,
+  "comment": 0,
+  "code": 15806},
+"SVG" :{
+  "nFiles": 71,
+  "blank": 1,
+  "comment": 15,
+  "code": 693},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 307,
+  "comment": 0,
+  "code": 531},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 17,
+  "comment": 6,
+  "code": 177},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 1,
+  "code": 84},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 57},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 5114,
+  "comment": 5585,
+  "code": 55939,
+  "nFiles": 870} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 151.407522201538,
+  "n_files"            : 431,
+  "n_lines"            : 33052,
+  "files_per_second"   : 2.84662210789169,
+  "lines_per_second"   : 218.298268932798,
+  "report_file"        : "loc/fossasia__susi_android.json"},
+"XML" :{
+  "nFiles": 160,
+  "blank": 1150,
+  "comment": 147,
+  "code": 13863},
+"Kotlin" :{
+  "nFiles": 232,
+  "blank": 2178,
+  "comment": 1267,
+  "code": 11801},
+"Java" :{
+  "nFiles": 17,
+  "blank": 261,
+  "comment": 177,
+  "code": 948},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 197,
+  "comment": 0,
+  "code": 374},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 42,
+  "comment": 22,
+  "code": 203},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 2,
+  "code": 65},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 6,
+  "code": 57},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 3895,
+  "comment": 1659,
+  "code": 27498,
+  "nFiles": 431} }

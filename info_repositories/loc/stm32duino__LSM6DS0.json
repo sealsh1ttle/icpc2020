@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.109023094177246,
+  "n_files"            : 6,
+  "n_lines"            : 7243,
+  "files_per_second"   : 55.034211285963,
+  "lines_per_second"   : 66435.465390705,
+  "report_file"        : "loc/stm32duino__LSM6DS0.json"},
+"C" :{
+  "nFiles": 1,
+  "blank": 856,
+  "comment": 1477,
+  "code": 1862},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 272,
+  "comment": 809,
+  "code": 921},
+"C++" :{
+  "nFiles": 1,
+  "blank": 137,
+  "comment": 214,
+  "code": 566},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 48,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 1287,
+  "comment": 2548,
+  "code": 3408,
+  "nFiles": 6} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 42.7982058525085,
+  "n_files"            : 145,
+  "n_lines"            : 3055,
+  "files_per_second"   : 3.38799248967819,
+  "lines_per_second"   : 71.3814969377025,
+  "report_file"        : "loc/omahacodeschool__tag-awards.json"},
+"Ruby" :{
+  "nFiles": 102,
+  "blank": 363,
+  "comment": 264,
+  "code": 1709},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"ERB" :{
+  "nFiles": 14,
+  "blank": 39,
+  "comment": 0,
+  "code": 144},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 30,
+  "comment": 107,
+  "code": 106},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 13},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 24,
+  "code": 4},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 461,
+  "comment": 431,
+  "code": 2163,
+  "nFiles": 145} }

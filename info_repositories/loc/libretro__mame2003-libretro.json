@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 471.550091028214,
+  "n_files"            : 2703,
+  "n_lines"            : 1955538,
+  "files_per_second"   : 5.73215879166965,
+  "lines_per_second"   : 4147.04193087092,
+  "report_file"        : "loc/libretro__mame2003-libretro.json"},
+"C" :{
+  "nFiles": 2042,
+  "blank": 243831,
+  "comment": 169766,
+  "code": 1073956},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 330877},
+"C/C++ Header" :{
+  "nFiles": 623,
+  "blank": 14659,
+  "comment": 26708,
+  "code": 72744},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 9443},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 1442,
+  "comment": 0,
+  "code": 4474},
+"Assembly" :{
+  "nFiles": 11,
+  "blank": 495,
+  "comment": 983,
+  "code": 3734},
+"make" :{
+  "nFiles": 13,
+  "blank": 212,
+  "comment": 47,
+  "code": 909},
+"C++" :{
+  "nFiles": 2,
+  "blank": 101,
+  "comment": 60,
+  "code": 625},
+"Python" :{
+  "nFiles": 3,
+  "blank": 87,
+  "comment": 52,
+  "code": 325},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 260831,
+  "comment": 197618,
+  "code": 1497089,
+  "nFiles": 2703} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.72839713096619,
+  "n_files"            : 35,
+  "n_lines"            : 678,
+  "files_per_second"   : 5.20183326262344,
+  "lines_per_second"   : 100.766941487391,
+  "report_file"        : "loc/rebeccafae__model_view_controller.json"},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Ruby" :{
+  "nFiles": 25,
+  "blank": 73,
+  "comment": 157,
+  "code": 108},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 29},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 39,
+  "code": 21},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 16,
+  "code": 0},
+"SUM": {
+  "blank": 108,
+  "comment": 230,
+  "code": 340,
+  "nFiles": 35} }

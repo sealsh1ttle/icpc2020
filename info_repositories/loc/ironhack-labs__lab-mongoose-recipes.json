@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.998871088027954,
+  "n_files"            : 6,
+  "n_lines"            : 337,
+  "files_per_second"   : 6.00678112712787,
+  "lines_per_second"   : 337.380873307016,
+  "report_file"        : "loc/ironhack-labs__lab-mongoose-recipes.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 195},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 2,
+  "code": 68},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 40},
+"SUM": {
+  "blank": 32,
+  "comment": 2,
+  "code": 303,
+  "nFiles": 6} }

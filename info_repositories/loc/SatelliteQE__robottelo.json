@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.1839470863342,
+  "n_files"            : 406,
+  "n_lines"            : 195469,
+  "files_per_second"   : 5.78479861642113,
+  "lines_per_second"   : 2785.09556835769,
+  "report_file"        : "loc/SatelliteQE__robottelo.json"},
+"Python" :{
+  "nFiles": 365,
+  "blank": 24570,
+  "comment": 42627,
+  "code": 76597},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 48432},
+"reStructuredText" :{
+  "nFiles": 29,
+  "blank": 890,
+  "comment": 417,
+  "code": 1199},
+"make" :{
+  "nFiles": 2,
+  "blank": 65,
+  "comment": 8,
+  "code": 286},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 4,
+  "code": 218},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 13,
+  "code": 96},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 25555,
+  "comment": 43069,
+  "code": 126845,
+  "nFiles": 406} }

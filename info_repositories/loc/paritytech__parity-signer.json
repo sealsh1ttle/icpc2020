@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.8861429691315,
+  "n_files"            : 139,
+  "n_lines"            : 12239,
+  "files_per_second"   : 4.22670424228442,
+  "lines_per_second"   : 372.162828930353,
+  "report_file"        : "loc/paritytech__parity-signer.json"},
+"JavaScript" :{
+  "nFiles": 77,
+  "blank": 1104,
+  "comment": 941,
+  "code": 6691},
+"Rust" :{
+  "nFiles": 4,
+  "blank": 184,
+  "comment": 68,
+  "code": 604},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 409},
+"XML" :{
+  "nFiles": 10,
+  "blank": 7,
+  "comment": 4,
+  "code": 278},
+"Java" :{
+  "nFiles": 4,
+  "blank": 52,
+  "comment": 34,
+  "code": 235},
+"Swift" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 25,
+  "code": 189},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 90,
+  "code": 146},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 0,
+  "code": 125},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Objective C" :{
+  "nFiles": 4,
+  "blank": 37,
+  "comment": 47,
+  "code": 107},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 2,
+  "code": 75},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 24,
+  "comment": 4,
+  "code": 65},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 18,
+  "code": 61},
+"make" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 33},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 49,
+  "code": 32},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 32},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 25,
+  "code": 31},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 15},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 5,
+  "code": 12},
+"INI" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1621,
+  "comment": 1335,
+  "code": 9283,
+  "nFiles": 139} }

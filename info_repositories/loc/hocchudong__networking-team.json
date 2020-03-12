@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.7863550186157,
+  "n_files"            : 89,
+  "n_lines"            : 15104,
+  "files_per_second"   : 4.73748100213205,
+  "lines_per_second"   : 803.987787148342,
+  "report_file"        : "loc/hocchudong__networking-team.json"},
+"Markdown" :{
+  "nFiles": 65,
+  "blank": 2457,
+  "comment": 1,
+  "code": 11014},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 19,
+  "comment": 46,
+  "code": 770},
+"Python" :{
+  "nFiles": 10,
+  "blank": 98,
+  "comment": 118,
+  "code": 334},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 157},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 24,
+  "code": 39},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 2575,
+  "comment": 189,
+  "code": 12340,
+  "nFiles": 89} }

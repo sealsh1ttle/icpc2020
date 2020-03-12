@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 84.4169600009918,
+  "n_files"            : 6094,
+  "n_lines"            : 1395209,
+  "files_per_second"   : 72.1892851854462,
+  "lines_per_second"   : 16527.5911378899,
+  "report_file"        : "loc/CreatorDev__openwrt-old.json"},
+"diff" :{
+  "nFiles": 3433,
+  "blank": 36639,
+  "comment": 146764,
+  "code": 698003},
+"C" :{
+  "nFiles": 706,
+  "blank": 44337,
+  "comment": 42014,
+  "code": 210284},
+"C/C++ Header" :{
+  "nFiles": 447,
+  "blank": 10961,
+  "comment": 20296,
+  "code": 50668},
+"make" :{
+  "nFiles": 942,
+  "blank": 12169,
+  "comment": 5940,
+  "code": 48828},
+"Bourne Shell" :{
+  "nFiles": 446,
+  "blank": 5541,
+  "comment": 2398,
+  "code": 33821},
+"Perl" :{
+  "nFiles": 24,
+  "blank": 1319,
+  "comment": 928,
+  "code": 6986},
+"m4" :{
+  "nFiles": 35,
+  "blank": 277,
+  "comment": 556,
+  "code": 3405},
+"Assembly" :{
+  "nFiles": 26,
+  "blank": 938,
+  "comment": 1891,
+  "code": 2572},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 2405},
+"TeX" :{
+  "nFiles": 13,
+  "blank": 518,
+  "comment": 0,
+  "code": 1934},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 105,
+  "comment": 25,
+  "code": 615},
+"Python" :{
+  "nFiles": 4,
+  "blank": 96,
+  "comment": 75,
+  "code": 548},
+"lex" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 13,
+  "code": 354},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 5,
+  "code": 279},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 197},
+"awk" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 7,
+  "code": 106},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 65,
+  "comment": 0,
+  "code": 91},
+"INI" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 48},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"Clojure" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 113116,
+  "comment": 220913,
+  "code": 1061180,
+  "nFiles": 6094} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.9770309925079,
+  "n_files"            : 67,
+  "n_lines"            : 5727,
+  "files_per_second"   : 3.3538517322783,
+  "lines_per_second"   : 286.679236876982,
+  "report_file"        : "loc/jsolja__CalorieTrek.json"},
+"Java" :{
+  "nFiles": 36,
+  "blank": 565,
+  "comment": 176,
+  "code": 3049},
+"XML" :{
+  "nFiles": 23,
+  "blank": 212,
+  "comment": 9,
+  "code": 1300},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 8,
+  "code": 66},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 21,
+  "code": 0},
+"SUM": {
+  "blank": 840,
+  "comment": 236,
+  "code": 4651,
+  "nFiles": 67} }

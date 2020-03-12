@@ -1,0 +1,214 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1761.00467991829,
+  "n_files"            : 5472,
+  "n_lines"            : 1324079,
+  "files_per_second"   : 3.10731712550242,
+  "lines_per_second"   : 751.88840501062,
+  "report_file"        : "loc/ms-iot__samples.json"},
+"C" :{
+  "nFiles": 710,
+  "blank": 53335,
+  "comment": 84864,
+  "code": 293409},
+"C++" :{
+  "nFiles": 876,
+  "blank": 36122,
+  "comment": 32848,
+  "code": 189433},
+"C/C++ Header" :{
+  "nFiles": 1576,
+  "blank": 32463,
+  "comment": 91098,
+  "code": 126499},
+"XML" :{
+  "nFiles": 669,
+  "blank": 1900,
+  "comment": 4200,
+  "code": 111512},
+"C#" :{
+  "nFiles": 543,
+  "blank": 11356,
+  "comment": 16977,
+  "code": 48016},
+"Java" :{
+  "nFiles": 311,
+  "blank": 7097,
+  "comment": 13214,
+  "code": 32713},
+"MSBuild script" :{
+  "nFiles": 117,
+  "blank": 30,
+  "comment": 795,
+  "code": 25864},
+"Scheme" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 14985},
+"JavaScript" :{
+  "nFiles": 33,
+  "blank": 1895,
+  "comment": 3418,
+  "code": 10590},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 1037,
+  "comment": 561,
+  "code": 10223},
+"Assembly" :{
+  "nFiles": 35,
+  "blank": 2045,
+  "comment": 2163,
+  "code": 9229},
+"XSD" :{
+  "nFiles": 7,
+  "blank": 54,
+  "comment": 0,
+  "code": 8487},
+"XAML" :{
+  "nFiles": 173,
+  "blank": 666,
+  "comment": 1180,
+  "code": 6787},
+"HTML" :{
+  "nFiles": 21,
+  "blank": 326,
+  "comment": 231,
+  "code": 5842},
+"make" :{
+  "nFiles": 79,
+  "blank": 1217,
+  "comment": 1034,
+  "code": 4594},
+"diff" :{
+  "nFiles": 16,
+  "blank": 470,
+  "comment": 2079,
+  "code": 3826},
+"JSON" :{
+  "nFiles": 46,
+  "blank": 8,
+  "comment": 0,
+  "code": 2551},
+"SVG" :{
+  "nFiles": 16,
+  "blank": 36,
+  "comment": 13,
+  "code": 2200},
+"Bourne Shell" :{
+  "nFiles": 28,
+  "blank": 292,
+  "comment": 232,
+  "code": 1273},
+"Markdown" :{
+  "nFiles": 60,
+  "blank": 599,
+  "comment": 0,
+  "code": 1264},
+"Perl" :{
+  "nFiles": 4,
+  "blank": 206,
+  "comment": 127,
+  "code": 972},
+"Gradle" :{
+  "nFiles": 38,
+  "blank": 122,
+  "comment": 205,
+  "code": 905},
+"Python" :{
+  "nFiles": 18,
+  "blank": 319,
+  "comment": 907,
+  "code": 844},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 7,
+  "code": 724},
+"DOS Batch" :{
+  "nFiles": 16,
+  "blank": 126,
+  "comment": 47,
+  "code": 664},
+"m4" :{
+  "nFiles": 3,
+  "blank": 75,
+  "comment": 0,
+  "code": 615},
+"reStructuredText" :{
+  "nFiles": 17,
+  "blank": 154,
+  "comment": 3,
+  "code": 441},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 36,
+  "code": 177},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 138},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 60,
+  "code": 133},
+"Arduino Sketch" :{
+  "nFiles": 4,
+  "blank": 43,
+  "comment": 15,
+  "code": 124},
+"Visual Basic" :{
+  "nFiles": 6,
+  "blank": 34,
+  "comment": 54,
+  "code": 121},
+"RAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 79},
+"Qt Project" :{
+  "nFiles": 10,
+  "blank": 10,
+  "comment": 0,
+  "code": 61},
+"ProGuard" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 79,
+  "code": 52},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 25,
+  "code": 39},
+"CoffeeScript" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 2,
+  "code": 32},
+"Windows Module Definition" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 19},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 152156,
+  "comment": 256475,
+  "code": 915448,
+  "nFiles": 5472} }

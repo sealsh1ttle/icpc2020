@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.4210638999939,
+  "n_files"            : 58,
+  "n_lines"            : 10001,
+  "files_per_second"   : 6.88749078368139,
+  "lines_per_second"   : 1187.61716082065,
+  "report_file"        : "loc/IANW-Projects__InductionEq.json"},
+"MATLAB" :{
+  "nFiles": 29,
+  "blank": 592,
+  "comment": 1286,
+  "code": 3135},
+"OpenCL" :{
+  "nFiles": 10,
+  "blank": 687,
+  "comment": 287,
+  "code": 1752},
+"C/C++ Header" :{
+  "nFiles": 14,
+  "blank": 333,
+  "comment": 439,
+  "code": 1008},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 60},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 379,
+  "code": 0},
+"SUM": {
+  "blank": 1632,
+  "comment": 2391,
+  "code": 5978,
+  "nFiles": 58} }

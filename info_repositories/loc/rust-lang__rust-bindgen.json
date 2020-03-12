@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.44039988517761,
+  "n_files"            : 1046,
+  "n_lines"            : 261005,
+  "files_per_second"   : 110.800391161642,
+  "lines_per_second"   : 27647.6635708837,
+  "report_file"        : "loc/rust-lang__rust-bindgen.json"},
+"C/C++ Header" :{
+  "nFiles": 469,
+  "blank": 53313,
+  "comment": 1537,
+  "code": 131670},
+"Rust" :{
+  "nFiles": 524,
+  "blank": 4563,
+  "comment": 5685,
+  "code": 60049},
+"Markdown" :{
+  "nFiles": 29,
+  "blank": 752,
+  "comment": 0,
+  "code": 2072},
+"Python" :{
+  "nFiles": 2,
+  "blank": 105,
+  "comment": 53,
+  "code": 398},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 75,
+  "comment": 26,
+  "code": 230},
+"TOML" :{
+  "nFiles": 7,
+  "blank": 19,
+  "comment": 11,
+  "code": 125},
+"C++" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 116},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 3,
+  "code": 111},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 58878,
+  "comment": 7315,
+  "code": 194812,
+  "nFiles": 1046} }

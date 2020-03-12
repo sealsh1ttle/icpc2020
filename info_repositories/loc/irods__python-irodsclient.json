@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.702057838439941,
+  "n_files"            : 58,
+  "n_lines"            : 12377,
+  "files_per_second"   : 82.6142759532222,
+  "lines_per_second"   : 17629.601611604,
+  "report_file"        : "loc/irods__python-irodsclient.json"},
+"Python" :{
+  "nFiles": 53,
+  "blank": 2832,
+  "comment": 1085,
+  "code": 6788},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 100,
+  "comment": 53,
+  "code": 723},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 525},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 249},
+"SUM": {
+  "blank": 2954,
+  "comment": 1138,
+  "code": 8285,
+  "nFiles": 58} }

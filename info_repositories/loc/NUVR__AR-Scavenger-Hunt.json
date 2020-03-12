@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.889076948165894,
+  "n_files"            : 43,
+  "n_lines"            : 9800,
+  "files_per_second"   : 48.3647676263637,
+  "lines_per_second"   : 11022.6679706596,
+  "report_file"        : "loc/NUVR__AR-Scavenger-Hunt.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 1437,
+  "comment": 1807,
+  "code": 5094},
+"TypeScript" :{
+  "nFiles": 19,
+  "blank": 103,
+  "comment": 35,
+  "code": 941},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 0,
+  "code": 135},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 100},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 53},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 0,
+  "code": 26},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 1583,
+  "comment": 1843,
+  "code": 6374,
+  "nFiles": 43} }

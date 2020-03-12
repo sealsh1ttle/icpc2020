@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.119830846786499,
+  "n_files"            : 8,
+  "n_lines"            : 214,
+  "files_per_second"   : 66.7607733278685,
+  "lines_per_second"   : 1785.85068652048,
+  "report_file"        : "loc/coala__coala-emacs.json"},
+"Lisp" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 29,
+  "code": 71},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 43},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 34},
+"Python" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 36,
+  "comment": 29,
+  "code": 149,
+  "nFiles": 8} }

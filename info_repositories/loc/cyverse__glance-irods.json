@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0600080490112305,
+  "n_files"            : 3,
+  "n_lines"            : 1048,
+  "files_per_second"   : 49.9932933903342,
+  "lines_per_second"   : 17464.3238243568,
+  "report_file"        : "loc/cyverse__glance-irods.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 164,
+  "comment": 268,
+  "code": 527},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 60},
+"SUM": {
+  "blank": 193,
+  "comment": 268,
+  "code": 587,
+  "nFiles": 3} }

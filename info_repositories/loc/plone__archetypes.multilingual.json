@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.5846531391144,
+  "n_files"            : 39,
+  "n_lines"            : 1232,
+  "files_per_second"   : 3.36652289297472,
+  "lines_per_second"   : 106.347594978073,
+  "report_file"        : "loc/plone__archetypes.multilingual.json"},
+"Python" :{
+  "nFiles": 20,
+  "blank": 126,
+  "comment": 75,
+  "code": 437},
+"XML" :{
+  "nFiles": 11,
+  "blank": 47,
+  "comment": 4,
+  "code": 291},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 50,
+  "comment": 5,
+  "code": 73},
+"PO File" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 19,
+  "code": 64},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 5},
+"SUM": {
+  "blank": 240,
+  "comment": 105,
+  "code": 887,
+  "nFiles": 39} }

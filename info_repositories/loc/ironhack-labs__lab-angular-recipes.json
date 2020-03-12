@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.11536502838135,
+  "n_files"            : 35,
+  "n_lines"            : 11381,
+  "files_per_second"   : 3.83967069788483,
+  "lines_per_second"   : 1248.55120607507,
+  "report_file"        : "loc/ironhack-labs__lab-angular-recipes.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 1,
+  "comment": 0,
+  "code": 10667},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 51,
+  "comment": 13,
+  "code": 342},
+"TypeScript" :{
+  "nFiles": 9,
+  "blank": 21,
+  "comment": 27,
+  "code": 97},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 0,
+  "code": 72},
+"EJS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 128,
+  "comment": 41,
+  "code": 11212,
+  "nFiles": 35} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.57907199859619,
+  "n_files"            : 12,
+  "n_lines"            : 8920,
+  "files_per_second"   : 1.25273095366217,
+  "lines_per_second"   : 931.196675555547,
+  "report_file"        : "loc/joythecoder__joythecoder.github.io.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 807,
+  "comment": 698,
+  "code": 3157},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 270,
+  "comment": 15,
+  "code": 2504},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 78,
+  "comment": 131,
+  "code": 1162},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 91},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1158,
+  "comment": 845,
+  "code": 6917,
+  "nFiles": 12} }

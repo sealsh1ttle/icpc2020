@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.8267228603363,
+  "n_files"            : 77,
+  "n_lines"            : 16377,
+  "files_per_second"   : 42.151987951705,
+  "lines_per_second"   : 8965.2351517542,
+  "report_file"        : "loc/psf__requests.json"},
+"Python" :{
+  "nFiles": 34,
+  "blank": 1951,
+  "comment": 1951,
+  "code": 5911},
+"reStructuredText" :{
+  "nFiles": 19,
+  "blank": 926,
+  "comment": 237,
+  "code": 2018},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 522,
+  "comment": 0,
+  "code": 1486},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 7,
+  "code": 203},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 47,
+  "comment": 8,
+  "code": 199},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 5,
+  "code": 193},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 2,
+  "code": 143},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 12,
+  "code": 101},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 12,
+  "code": 57},
+"INI" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3594,
+  "comment": 2236,
+  "code": 10547,
+  "nFiles": 77} }

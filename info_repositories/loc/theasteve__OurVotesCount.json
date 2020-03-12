@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.632308959960938,
+  "n_files"            : 121,
+  "n_lines"            : 3256,
+  "files_per_second"   : 191.362146769951,
+  "lines_per_second"   : 5149.38140399141,
+  "report_file"        : "loc/theasteve__OurVotesCount.json"},
+"Ruby" :{
+  "nFiles": 66,
+  "blank": 275,
+  "comment": 523,
+  "code": 741},
+"ERB" :{
+  "nFiles": 36,
+  "blank": 111,
+  "comment": 0,
+  "code": 730},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 3,
+  "code": 329},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 23,
+  "comment": 108,
+  "code": 91},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 31,
+  "code": 31},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 11},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 468,
+  "comment": 668,
+  "code": 2120,
+  "nFiles": 121} }

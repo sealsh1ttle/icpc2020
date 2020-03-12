@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.74514484405518,
+  "n_files"            : 431,
+  "n_lines"            : 55818,
+  "files_per_second"   : 115.082331377422,
+  "lines_per_second"   : 14904.0964566704,
+  "report_file"        : "loc/Weasyl__weasyl.json"},
+"Python" :{
+  "nFiles": 208,
+  "blank": 6665,
+  "comment": 5429,
+  "code": 21956},
+"HTML" :{
+  "nFiles": 147,
+  "blank": 1863,
+  "comment": 18,
+  "code": 9023},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 853,
+  "comment": 0,
+  "code": 4351},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 401,
+  "comment": 70,
+  "code": 1659},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 365,
+  "comment": 0,
+  "code": 748},
+"reStructuredText" :{
+  "nFiles": 28,
+  "blank": 249,
+  "comment": 239,
+  "code": 507},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 8,
+  "comment": 8,
+  "code": 503},
+"make" :{
+  "nFiles": 4,
+  "blank": 103,
+  "comment": 66,
+  "code": 402},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 155},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 2,
+  "code": 66},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 30},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 16},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 15},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 10537,
+  "comment": 5835,
+  "code": 39446,
+  "nFiles": 431} }

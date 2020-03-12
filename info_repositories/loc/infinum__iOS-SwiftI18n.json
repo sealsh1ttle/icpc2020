@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.8613879680634,
+  "n_files"            : 63,
+  "n_lines"            : 2382,
+  "files_per_second"   : 1.91714361125669,
+  "lines_per_second"   : 72.4862870160861,
+  "report_file"        : "loc/infinum__iOS-SwiftI18n.json"},
+"Swift" :{
+  "nFiles": 38,
+  "blank": 310,
+  "comment": 253,
+  "code": 729},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 50,
+  "code": 329},
+"XML" :{
+  "nFiles": 10,
+  "blank": 3,
+  "comment": 1,
+  "code": 300},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 48,
+  "comment": 0,
+  "code": 110},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 93},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 39},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 7,
+  "code": 24},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 432,
+  "comment": 311,
+  "code": 1639,
+  "nFiles": 63} }

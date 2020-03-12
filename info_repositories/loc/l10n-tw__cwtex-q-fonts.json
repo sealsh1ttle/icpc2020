@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.28569221496582,
+  "n_files"            : 1,
+  "n_lines"            : 90,
+  "files_per_second"   : 3.5002703875555,
+  "lines_per_second"   : 315.024334879995,
+  "report_file"        : "loc/l10n-tw__cwtex-q-fonts.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 60},
+"SUM": {
+  "blank": 30,
+  "comment": 0,
+  "code": 60,
+  "nFiles": 1} }

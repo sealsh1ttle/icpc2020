@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.3529698848724,
+  "n_files"            : 162,
+  "n_lines"            : 13937,
+  "files_per_second"   : 6.38978394782309,
+  "lines_per_second"   : 549.71863506673,
+  "report_file"        : "loc/TheAlgorithms__Java.json"},
+"Java" :{
+  "nFiles": 160,
+  "blank": 2047,
+  "comment": 3447,
+  "code": 8234},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 68,
+  "comment": 0,
+  "code": 141},
+"SUM": {
+  "blank": 2115,
+  "comment": 3447,
+  "code": 8375,
+  "nFiles": 162} }

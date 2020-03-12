@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 547.116459131241,
+  "n_files"            : 2161,
+  "n_lines"            : 826879,
+  "files_per_second"   : 3.94979892111348,
+  "lines_per_second"   : 1511.34001947774,
+  "report_file"        : "loc/opencv__opencv_contrib.json"},
+"XML" :{
+  "nFiles": 19,
+  "blank": 289,
+  "comment": 7528,
+  "code": 231933},
+"C++" :{
+  "nFiles": 961,
+  "blank": 42726,
+  "comment": 39938,
+  "code": 222313},
+"C/C++ Header" :{
+  "nFiles": 730,
+  "blank": 18383,
+  "comment": 45027,
+  "code": 92127},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 4,
+  "code": 49677},
+"CUDA" :{
+  "nFiles": 136,
+  "blank": 7043,
+  "comment": 6840,
+  "code": 26607},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 9532},
+"Markdown" :{
+  "nFiles": 122,
+  "blank": 2750,
+  "comment": 0,
+  "code": 7961},
+"Python" :{
+  "nFiles": 43,
+  "blank": 986,
+  "comment": 622,
+  "code": 4491},
+"OpenCL" :{
+  "nFiles": 12,
+  "blank": 652,
+  "comment": 474,
+  "code": 3322},
+"CMake" :{
+  "nFiles": 79,
+  "blank": 361,
+  "comment": 559,
+  "code": 1693},
+"TeX" :{
+  "nFiles": 26,
+  "blank": 120,
+  "comment": 0,
+  "code": 1324},
+"SWIG" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 4,
+  "code": 520},
+"MATLAB" :{
+  "nFiles": 9,
+  "blank": 53,
+  "comment": 186,
+  "code": 277},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 37,
+  "comment": 6,
+  "code": 212},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 59,
+  "code": 132},
+"Java" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 7,
+  "code": 34},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 3},
+"SUM": {
+  "blank": 73450,
+  "comment": 101255,
+  "code": 652174,
+  "nFiles": 2161} }

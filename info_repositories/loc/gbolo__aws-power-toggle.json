@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.9173741340637,
+  "n_files"            : 73,
+  "n_lines"            : 25925,
+  "files_per_second"   : 2.2176738552319,
+  "lines_per_second"   : 787.578009546398,
+  "report_file"        : "loc/gbolo__aws-power-toggle.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 15103},
+"Go" :{
+  "nFiles": 24,
+  "blank": 300,
+  "comment": 285,
+  "code": 7642},
+"Vuejs Component" :{
+  "nFiles": 8,
+  "blank": 72,
+  "comment": 6,
+  "code": 922},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 149,
+  "comment": 0,
+  "code": 617},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 43,
+  "comment": 59,
+  "code": 370},
+"make" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 4,
+  "code": 64},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 44,
+  "code": 52},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 40},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 13,
+  "code": 15},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 20,
+  "code": 15},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 644,
+  "comment": 432,
+  "code": 24849,
+  "nFiles": 73} }

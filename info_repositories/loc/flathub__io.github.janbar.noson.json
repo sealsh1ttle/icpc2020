@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.45949602127075,
+  "n_files"            : 1,
+  "n_lines"            : 50,
+  "files_per_second"   : 0.40658736235049,
+  "lines_per_second"   : 20.3293681175245,
+  "report_file"        : "loc/flathub__io.github.janbar.noson.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 50,
+  "nFiles": 1} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.111654043197632,
+  "n_files"            : 19,
+  "n_lines"            : 573,
+  "files_per_second"   : 170.16849059706,
+  "lines_per_second"   : 5131.92342695346,
+  "report_file"        : "loc/presslabs__docker-orchestrator.json"},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 13,
+  "comment": 45,
+  "code": 449},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 3,
+  "code": 38},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 23,
+  "comment": 48,
+  "code": 502,
+  "nFiles": 19} }

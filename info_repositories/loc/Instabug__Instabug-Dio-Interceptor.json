@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.091810941696167,
+  "n_files"            : 9,
+  "n_lines"            : 429,
+  "files_per_second"   : 98.0275317269264,
+  "lines_per_second"   : 4672.64567898349,
+  "report_file"        : "loc/Instabug__Instabug-Dio-Interceptor.json"},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 111,
+  "code": 151},
+"Dart" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 87},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 30,
+  "comment": 111,
+  "code": 288,
+  "nFiles": 9} }

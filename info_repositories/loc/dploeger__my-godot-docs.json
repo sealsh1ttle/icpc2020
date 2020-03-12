@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.221728086471558,
+  "n_files"            : 2,
+  "n_lines"            : 292,
+  "files_per_second"   : 9.02005709708117,
+  "lines_per_second"   : 1316.92833617385,
+  "report_file"        : "loc/dploeger__my-godot-docs.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 129,
+  "comment": 0,
+  "code": 163},
+"SUM": {
+  "blank": 129,
+  "comment": 0,
+  "code": 163,
+  "nFiles": 2} }

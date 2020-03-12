@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.618327140808105,
+  "n_files"            : 5,
+  "n_lines"            : 3543,
+  "files_per_second"   : 8.08633435282396,
+  "lines_per_second"   : 5729.97652241106,
+  "report_file"        : "loc/otaviopace__gargula.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3461},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 50},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 12,
+  "comment": 0,
+  "code": 3531,
+  "nFiles": 5} }

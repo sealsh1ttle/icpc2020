@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.64532685279846,
+  "n_files"            : 18,
+  "n_lines"            : 19533,
+  "files_per_second"   : 6.80445215341083,
+  "lines_per_second"   : 7383.96466180966,
+  "report_file"        : "loc/pawelgrzybek__siema.json"},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 1,
+  "code": 12991},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 4871},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 122,
+  "comment": 166,
+  "code": 710},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 113,
+  "comment": 0,
+  "code": 286},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 6,
+  "code": 141},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 6,
+  "code": 71},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 275,
+  "comment": 179,
+  "code": 19079,
+  "nFiles": 18} }

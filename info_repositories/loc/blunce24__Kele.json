@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0364220142364502,
+  "n_files"            : 5,
+  "n_lines"            : 124,
+  "files_per_second"   : 137.27961247668,
+  "lines_per_second"   : 3404.53438942166,
+  "report_file"        : "loc/blunce24__Kele.json"},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 107},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 16,
+  "comment": 0,
+  "code": 108,
+  "nFiles": 5} }

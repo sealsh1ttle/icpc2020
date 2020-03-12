@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.899824857711792,
+  "n_files"            : 113,
+  "n_lines"            : 19022,
+  "files_per_second"   : 125.579993741619,
+  "lines_per_second"   : 21139.6693889653,
+  "report_file"        : "loc/ftn-ai-lab__ori-2016-siit.json"},
+"RobotFramework" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 7133},
+"Python" :{
+  "nFiles": 74,
+  "blank": 1998,
+  "comment": 2042,
+  "code": 5966},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 107,
+  "comment": 0,
+  "code": 191},
+"Jupyter Notebook" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 1444,
+  "code": 92},
+"Prolog" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 0,
+  "code": 38},
+"SUM": {
+  "blank": 2116,
+  "comment": 3486,
+  "code": 13420,
+  "nFiles": 113} }

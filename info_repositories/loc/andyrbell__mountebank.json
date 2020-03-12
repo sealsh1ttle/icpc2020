@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.385706186294556,
+  "n_files"            : 2,
+  "n_lines"            : 29,
+  "files_per_second"   : 5.18529406855985,
+  "lines_per_second"   : 75.1867639941178,
+  "report_file"        : "loc/andyrbell__mountebank.json"},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 12,
+  "comment": 0,
+  "code": 17,
+  "nFiles": 2} }

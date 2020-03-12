@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.1952021121979,
+  "n_files"            : 101,
+  "n_lines"            : 21287,
+  "files_per_second"   : 9.90662067200809,
+  "lines_per_second"   : 2087.94291331719,
+  "report_file"        : "loc/deliquescentlicorice__silent-disco.json"},
+"JavaScript" :{
+  "nFiles": 71,
+  "blank": 2499,
+  "comment": 1355,
+  "code": 9183},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 21,
+  "code": 6640},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 169,
+  "comment": 0,
+  "code": 475},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 229},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 132},
+"Objective C" :{
+  "nFiles": 4,
+  "blank": 43,
+  "comment": 44,
+  "code": 117},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 116},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 3,
+  "code": 95},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 12,
+  "code": 91},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 9,
+  "code": 10},
+"SUM": {
+  "blank": 2755,
+  "comment": 1444,
+  "code": 17088,
+  "nFiles": 101} }

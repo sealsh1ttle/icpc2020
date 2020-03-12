@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.74008107185364,
+  "n_files"            : 7,
+  "n_lines"            : 4846,
+  "files_per_second"   : 2.55466893731891,
+  "lines_per_second"   : 1768.56081003535,
+  "report_file"        : "loc/davidguttman__authentic-client.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4265},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 84,
+  "comment": 3,
+  "code": 374},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 0,
+  "code": 69},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 123,
+  "comment": 3,
+  "code": 4720,
+  "nFiles": 7} }

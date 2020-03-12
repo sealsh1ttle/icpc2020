@@ -1,0 +1,154 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6607.52716398239,
+  "n_files"            : 18995,
+  "n_lines"            : 4442421,
+  "files_per_second"   : 2.87475170795236,
+  "lines_per_second"   : 672.327315461618,
+  "report_file"        : "loc/dotnet__corefx.json"},
+"C#" :{
+  "nFiles": 15792,
+  "blank": 504181,
+  "comment": 471033,
+  "code": 3120656},
+"XML" :{
+  "nFiles": 1336,
+  "blank": 2627,
+  "comment": 5784,
+  "code": 89335},
+"C" :{
+  "nFiles": 129,
+  "blank": 6009,
+  "comment": 6021,
+  "code": 46854},
+"MSBuild script" :{
+  "nFiles": 667,
+  "blank": 10,
+  "comment": 429,
+  "code": 37158},
+"Visual Basic" :{
+  "nFiles": 73,
+  "blank": 9394,
+  "comment": 5428,
+  "code": 35145},
+"C/C++ Header" :{
+  "nFiles": 158,
+  "blank": 3365,
+  "comment": 8119,
+  "code": 19851},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 4,
+  "comment": 0,
+  "code": 15613},
+"XSLT" :{
+  "nFiles": 294,
+  "blank": 1299,
+  "comment": 292,
+  "code": 8067},
+"Markdown" :{
+  "nFiles": 86,
+  "blank": 2592,
+  "comment": 0,
+  "code": 7095},
+"XSD" :{
+  "nFiles": 237,
+  "blank": 1067,
+  "comment": 33,
+  "code": 6480},
+"Bourne Shell" :{
+  "nFiles": 30,
+  "blank": 709,
+  "comment": 326,
+  "code": 4376},
+"DTD" :{
+  "nFiles": 9,
+  "blank": 2117,
+  "comment": 763,
+  "code": 4272},
+"PowerShell" :{
+  "nFiles": 49,
+  "blank": 901,
+  "comment": 509,
+  "code": 3987},
+"YAML" :{
+  "nFiles": 43,
+  "blank": 429,
+  "comment": 239,
+  "code": 3102},
+"Pascal" :{
+  "nFiles": 6,
+  "blank": 251,
+  "comment": 48,
+  "code": 2254},
+"CMake" :{
+  "nFiles": 20,
+  "blank": 351,
+  "comment": 176,
+  "code": 1827},
+"SKILL" :{
+  "nFiles": 7,
+  "blank": 90,
+  "comment": 0,
+  "code": 650},
+"DOS Batch" :{
+  "nFiles": 16,
+  "blank": 51,
+  "comment": 2,
+  "code": 237},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 3,
+  "code": 145},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 14,
+  "code": 105},
+"Windows Resource File" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 0,
+  "code": 98},
+"diff" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 83,
+  "code": 95},
+"Windows Module Definition" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 42},
+"ASP" :{
+  "nFiles": 11,
+  "blank": 5,
+  "comment": 0,
+  "code": 35},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 24},
+"C++" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 7,
+  "code": 21},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"Python" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 47,
+  "code": 2},
+"SUM": {
+  "blank": 535535,
+  "comment": 499356,
+  "code": 3407530,
+  "nFiles": 18995} }

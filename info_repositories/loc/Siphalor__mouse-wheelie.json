@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.311845064163208,
+  "n_files"            : 52,
+  "n_lines"            : 2520,
+  "files_per_second"   : 166.74947265731,
+  "lines_per_second"   : 8080.93598262349,
+  "report_file"        : "loc/Siphalor__mouse-wheelie.json"},
+"Java" :{
+  "nFiles": 40,
+  "blank": 243,
+  "comment": 13,
+  "code": 1639},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 22,
+  "comment": 0,
+  "code": 158},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 13,
+  "code": 101},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 42},
+"SUM": {
+  "blank": 342,
+  "comment": 50,
+  "code": 2128,
+  "nFiles": 52} }

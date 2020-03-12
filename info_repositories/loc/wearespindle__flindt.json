@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.7443058490753,
+  "n_files"            : 107,
+  "n_lines"            : 5680,
+  "files_per_second"   : 6.39023205646407,
+  "lines_per_second"   : 339.219795146878,
+  "report_file"        : "loc/wearespindle__flindt.json"},
+"Python" :{
+  "nFiles": 84,
+  "blank": 888,
+  "comment": 922,
+  "code": 2782},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 229,
+  "comment": 191,
+  "code": 280},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 17,
+  "code": 166},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 0,
+  "code": 33},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 29},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 2,
+  "code": 28},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 28},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 1170,
+  "comment": 1139,
+  "code": 3371,
+  "nFiles": 107} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.59895801544189,
+  "n_files"            : 7,
+  "n_lines"            : 1684,
+  "files_per_second"   : 4.37785103323395,
+  "lines_per_second"   : 1053.185877138,
+  "report_file"        : "loc/flathub__org.gimp.GIMP.json"},
+"diff" :{
+  "nFiles": 6,
+  "blank": 96,
+  "comment": 325,
+  "code": 718},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 544},
+"SUM": {
+  "blank": 97,
+  "comment": 325,
+  "code": 1262,
+  "nFiles": 7} }

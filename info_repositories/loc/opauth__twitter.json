@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.845360994338989,
+  "n_files"            : 6,
+  "n_lines"            : 1443,
+  "files_per_second"   : 7.09755955169373,
+  "lines_per_second"   : 1706.96307218234,
+  "report_file"        : "loc/opauth__twitter.json"},
+"PHP" :{
+  "nFiles": 3,
+  "blank": 158,
+  "comment": 337,
+  "code": 679},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 61,
+  "comment": 0,
+  "code": 185},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 219,
+  "comment": 337,
+  "code": 887,
+  "nFiles": 6} }

@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 294.281926870346,
+  "n_files"            : 2747,
+  "n_lines"            : 1114932,
+  "files_per_second"   : 9.33458615421621,
+  "lines_per_second"   : 3788.65264291685,
+  "report_file"        : "loc/cloudnativelabs__kube-router.json"},
+"Go" :{
+  "nFiles": 2437,
+  "blank": 79097,
+  "comment": 130907,
+  "code": 858663},
+"YAML" :{
+  "nFiles": 68,
+  "blank": 454,
+  "comment": 59,
+  "code": 12513},
+"Markdown" :{
+  "nFiles": 110,
+  "blank": 2678,
+  "comment": 0,
+  "code": 7090},
+"Protocol Buffers" :{
+  "nFiles": 40,
+  "blank": 2390,
+  "comment": 7079,
+  "code": 4851},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3480},
+"Bourne Shell" :{
+  "nFiles": 27,
+  "blank": 183,
+  "comment": 329,
+  "code": 1039},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 142,
+  "comment": 132,
+  "code": 867},
+"make" :{
+  "nFiles": 14,
+  "blank": 149,
+  "comment": 145,
+  "code": 534},
+"Assembly" :{
+  "nFiles": 25,
+  "blank": 223,
+  "comment": 252,
+  "code": 428},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 50,
+  "code": 306},
+"TOML" :{
+  "nFiles": 7,
+  "blank": 133,
+  "comment": 132,
+  "code": 236},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 198},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 9,
+  "code": 56},
+"C" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 7,
+  "code": 29},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 18},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 85507,
+  "comment": 139107,
+  "code": 890318,
+  "nFiles": 2747} }

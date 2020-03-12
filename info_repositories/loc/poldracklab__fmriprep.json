@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.6412398815155,
+  "n_files"            : 129,
+  "n_lines"            : 172168,
+  "files_per_second"   : 4.84211698005482,
+  "lines_per_second"   : 6462.46198621767,
+  "report_file"        : "loc/poldracklab__fmriprep.json"},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 53049,
+  "comment": 366,
+  "code": 86248},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 8,
+  "comment": 0,
+  "code": 14529},
+"Python" :{
+  "nFiles": 49,
+  "blank": 1732,
+  "comment": 3382,
+  "code": 5851},
+"reStructuredText" :{
+  "nFiles": 20,
+  "blank": 838,
+  "comment": 676,
+  "code": 2389},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 77,
+  "comment": 28,
+  "code": 1138},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 2,
+  "comment": 0,
+  "code": 465},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 118,
+  "comment": 0,
+  "code": 330},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 309},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 188},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 20,
+  "code": 164},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 43},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 23,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 14,
+  "code": 21},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 13},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 55933,
+  "comment": 4519,
+  "code": 111716,
+  "nFiles": 129} }

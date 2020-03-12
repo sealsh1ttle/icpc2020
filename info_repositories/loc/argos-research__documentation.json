@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.973627090454102,
+  "n_files"            : 107,
+  "n_lines"            : 15904,
+  "files_per_second"   : 109.898338952437,
+  "lines_per_second"   : 16334.7960999959,
+  "report_file"        : "loc/argos-research__documentation.json"},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 378,
+  "comment": 115,
+  "code": 7122},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 1,
+  "code": 3031},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 375,
+  "comment": 0,
+  "code": 1234},
+"HTML" :{
+  "nFiles": 41,
+  "blank": 252,
+  "comment": 43,
+  "code": 1031},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 314,
+  "comment": 543,
+  "code": 900},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 67,
+  "comment": 87,
+  "code": 256},
+"XML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 52},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 44},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 1,
+  "code": 14},
+"SUM": {
+  "blank": 1411,
+  "comment": 790,
+  "code": 13703,
+  "nFiles": 107} }

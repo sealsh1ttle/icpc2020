@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.952798843383789,
+  "n_files"            : 7,
+  "n_lines"            : 931,
+  "files_per_second"   : 7.34677634068075,
+  "lines_per_second"   : 977.121253310539,
+  "report_file"        : "loc/cnpm__bug-versions.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 487},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 121,
+  "comment": 0,
+  "code": 251},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 33},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 128,
+  "comment": 0,
+  "code": 803,
+  "nFiles": 7} }

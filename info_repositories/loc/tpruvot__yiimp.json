@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.4195148944855,
+  "n_files"            : 2464,
+  "n_lines"            : 1009803,
+  "files_per_second"   : 83.7539303022928,
+  "lines_per_second"   : 34324.2573380869,
+  "report_file"        : "loc/tpruvot__yiimp.json"},
+"PHP" :{
+  "nFiles": 1901,
+  "blank": 17856,
+  "comment": 58810,
+  "code": 737222},
+"C" :{
+  "nFiles": 123,
+  "blank": 5095,
+  "comment": 4537,
+  "code": 77377},
+"JavaScript" :{
+  "nFiles": 111,
+  "blank": 7021,
+  "comment": 12867,
+  "code": 42489},
+"C/C++ Header" :{
+  "nFiles": 150,
+  "blank": 2510,
+  "comment": 7276,
+  "code": 8397},
+"C++" :{
+  "nFiles": 29,
+  "blank": 2021,
+  "comment": 620,
+  "code": 7083},
+"XML" :{
+  "nFiles": 20,
+  "blank": 697,
+  "comment": 112,
+  "code": 6783},
+"CSS" :{
+  "nFiles": 55,
+  "blank": 753,
+  "comment": 525,
+  "code": 6023},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 914},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 29,
+  "comment": 4,
+  "code": 858},
+"SQL" :{
+  "nFiles": 33,
+  "blank": 113,
+  "comment": 109,
+  "code": 385},
+"INI" :{
+  "nFiles": 5,
+  "blank": 21,
+  "comment": 1,
+  "code": 243},
+"make" :{
+  "nFiles": 8,
+  "blank": 92,
+  "comment": 22,
+  "code": 193},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 100,
+  "comment": 0,
+  "code": 166},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 30,
+  "code": 159},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 30,
+  "comment": 5,
+  "code": 73},
+"Go" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 16,
+  "code": 62},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 12},
+"Python" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 9},
+"SUM": {
+  "blank": 36402,
+  "comment": 84936,
+  "code": 888465,
+  "nFiles": 2464} }

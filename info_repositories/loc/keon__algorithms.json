@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.656613111496,
+  "n_files"            : 391,
+  "n_lines"            : 19973,
+  "files_per_second"   : 5.53380614752936,
+  "lines_per_second"   : 282.677008144767,
+  "report_file"        : "loc/keon__algorithms.json"},
+"Python" :{
+  "nFiles": 347,
+  "blank": 3254,
+  "comment": 5162,
+  "code": 10436},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 61,
+  "comment": 0,
+  "code": 443},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 15,
+  "code": 304},
+"INI" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 58},
+"reStructuredText" :{
+  "nFiles": 21,
+  "blank": 29,
+  "comment": 70,
+  "code": 50},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 26},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 3361,
+  "comment": 5258,
+  "code": 11354,
+  "nFiles": 391} }

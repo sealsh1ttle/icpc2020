@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.7394139766693,
+  "n_files"            : 92,
+  "n_lines"            : 32128,
+  "files_per_second"   : 4.04583865241172,
+  "lines_per_second"   : 1412.87721983352,
+  "report_file"        : "loc/scottallan__p11tool-new.json"},
+"Go" :{
+  "nFiles": 80,
+  "blank": 2796,
+  "comment": 4103,
+  "code": 21098},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 588,
+  "comment": 694,
+  "code": 2008},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 128,
+  "comment": 0,
+  "code": 553},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 159},
+"SUM": {
+  "blank": 3513,
+  "comment": 4797,
+  "code": 23818,
+  "nFiles": 92} }

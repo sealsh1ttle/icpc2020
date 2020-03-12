@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.7261068820953,
+  "n_files"            : 6408,
+  "n_lines"            : 1728592,
+  "files_per_second"   : 466.847595974846,
+  "lines_per_second"   : 125934.616045779,
+  "report_file"        : "loc/ubtue__KrimDok.json"},
+"HTML" :{
+  "nFiles": 3979,
+  "blank": 2333,
+  "comment": 175009,
+  "code": 979420},
+"PHP" :{
+  "nFiles": 1526,
+  "blank": 14648,
+  "comment": 94855,
+  "code": 112104},
+"JavaScript" :{
+  "nFiles": 131,
+  "blank": 24891,
+  "comment": 57437,
+  "code": 108009},
+"INI" :{
+  "nFiles": 197,
+  "blank": 1409,
+  "comment": 10436,
+  "code": 36994},
+"XML" :{
+  "nFiles": 65,
+  "blank": 3044,
+  "comment": 10535,
+  "code": 17032},
+"JSON" :{
+  "nFiles": 31,
+  "blank": 20,
+  "comment": 0,
+  "code": 16957},
+"CSS" :{
+  "nFiles": 67,
+  "blank": 1964,
+  "comment": 775,
+  "code": 12839},
+"Sass" :{
+  "nFiles": 116,
+  "blank": 1341,
+  "comment": 1600,
+  "code": 8699},
+"LESS" :{
+  "nFiles": 110,
+  "blank": 1258,
+  "comment": 1467,
+  "code": 8682},
+"XSLT" :{
+  "nFiles": 24,
+  "blank": 371,
+  "comment": 505,
+  "code": 5240},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 191,
+  "comment": 1150,
+  "code": 2400},
+"DOS Batch" :{
+  "nFiles": 37,
+  "blank": 420,
+  "comment": 264,
+  "code": 2356},
+"Bourne Again Shell" :{
+  "nFiles": 28,
+  "blank": 331,
+  "comment": 250,
+  "code": 2012},
+"Java" :{
+  "nFiles": 2,
+  "blank": 228,
+  "comment": 995,
+  "code": 1723},
+"Velocity Template Language" :{
+  "nFiles": 43,
+  "blank": 274,
+  "comment": 204,
+  "code": 1315},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 1241},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 211,
+  "comment": 364,
+  "code": 994},
+"Ant" :{
+  "nFiles": 2,
+  "blank": 99,
+  "comment": 103,
+  "code": 481},
+"SQL" :{
+  "nFiles": 8,
+  "blank": 114,
+  "comment": 138,
+  "code": 474},
+"XHTML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 227},
+"Python" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 23,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 53179,
+  "comment": 356110,
+  "code": 1319303,
+  "nFiles": 6408} }

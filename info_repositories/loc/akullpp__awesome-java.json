@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.744107007980347,
+  "n_files"            : 4,
+  "n_lines"            : 1230,
+  "files_per_second"   : 5.37557092877917,
+  "lines_per_second"   : 1652.98806059959,
+  "report_file"        : "loc/akullpp__awesome-java.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 266,
+  "comment": 0,
+  "code": 964},
+"SUM": {
+  "blank": 266,
+  "comment": 0,
+  "code": 964,
+  "nFiles": 4} }

@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1215.77277684212,
+  "n_files"            : 3359,
+  "n_lines"            : 265622,
+  "files_per_second"   : 2.76285179597849,
+  "lines_per_second"   : 218.479970155224,
+  "report_file"        : "loc/spinnaker__deck.json"},
+"TypeScript" :{
+  "nFiles": 1916,
+  "blank": 15902,
+  "comment": 2430,
+  "code": 123789},
+"JavaScript" :{
+  "nFiles": 597,
+  "blank": 7163,
+  "comment": 641,
+  "code": 47854},
+"HTML" :{
+  "nFiles": 573,
+  "blank": 625,
+  "comment": 94,
+  "code": 32664},
+"JSON" :{
+  "nFiles": 39,
+  "blank": 0,
+  "comment": 0,
+  "code": 21276},
+"LESS" :{
+  "nFiles": 170,
+  "blank": 857,
+  "comment": 31,
+  "code": 8576},
+"SVG" :{
+  "nFiles": 27,
+  "blank": 5,
+  "comment": 9,
+  "code": 1730},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 124,
+  "comment": 68,
+  "code": 528},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 21,
+  "comment": 7,
+  "code": 417},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 98,
+  "comment": 0,
+  "code": 349},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 17,
+  "code": 113},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 1,
+  "code": 45},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 37},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 24869,
+  "comment": 3300,
+  "code": 237453,
+  "nFiles": 3359} }

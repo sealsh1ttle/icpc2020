@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 52.6626379489899,
+  "n_files"            : 260,
+  "n_lines"            : 15728,
+  "files_per_second"   : 4.9370865214128,
+  "lines_per_second"   : 298.655756956848,
+  "report_file"        : "loc/camsys__transam_funding.json"},
+"Ruby" :{
+  "nFiles": 140,
+  "blank": 1376,
+  "comment": 956,
+  "code": 7059},
+"Haml" :{
+  "nFiles": 89,
+  "blank": 652,
+  "comment": 144,
+  "code": 4284},
+"Python" :{
+  "nFiles": 2,
+  "blank": 80,
+  "comment": 128,
+  "code": 428},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"ERB" :{
+  "nFiles": 13,
+  "blank": 39,
+  "comment": 0,
+  "code": 155},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 16,
+  "comment": 41,
+  "code": 82},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 6,
+  "code": 25},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 13,
+  "code": 0},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 2190,
+  "comment": 1306,
+  "code": 12232,
+  "nFiles": 260} }

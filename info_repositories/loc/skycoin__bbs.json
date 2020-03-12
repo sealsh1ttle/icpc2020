@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 526.509806871414,
+  "n_files"            : 1566,
+  "n_lines"            : 435769,
+  "files_per_second"   : 2.9743035733852,
+  "lines_per_second"   : 827.655998640164,
+  "report_file"        : "loc/skycoin__bbs.json"},
+"Go" :{
+  "nFiles": 1014,
+  "blank": 37063,
+  "comment": 28610,
+  "code": 276950},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 200,
+  "comment": 799,
+  "code": 47576},
+"TypeScript" :{
+  "nFiles": 193,
+  "blank": 747,
+  "comment": 398,
+  "code": 7631},
+"Assembly" :{
+  "nFiles": 45,
+  "blank": 861,
+  "comment": 934,
+  "code": 7422},
+"Markdown" :{
+  "nFiles": 53,
+  "blank": 1658,
+  "comment": 0,
+  "code": 5626},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 4,
+  "code": 5109},
+"Sass" :{
+  "nFiles": 42,
+  "blank": 142,
+  "comment": 24,
+  "code": 2844},
+"JSON" :{
+  "nFiles": 29,
+  "blank": 0,
+  "comment": 0,
+  "code": 2257},
+"Bourne Shell" :{
+  "nFiles": 42,
+  "blank": 480,
+  "comment": 520,
+  "code": 1922},
+"HTML" :{
+  "nFiles": 58,
+  "blank": 79,
+  "comment": 128,
+  "code": 1875},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 180,
+  "comment": 179,
+  "code": 1173},
+"C" :{
+  "nFiles": 4,
+  "blank": 65,
+  "comment": 40,
+  "code": 426},
+"Java" :{
+  "nFiles": 1,
+  "blank": 77,
+  "comment": 14,
+  "code": 384},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 49,
+  "comment": 12,
+  "code": 237},
+"Python" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 126,
+  "code": 166},
+"Mathematica" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 130},
+"CSS" :{
+  "nFiles": 15,
+  "blank": 13,
+  "comment": 10,
+  "code": 108},
+"make" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 12,
+  "code": 76},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 16,
+  "code": 69},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 60,
+  "code": 46},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 23},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 6,
+  "code": 10},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 41779,
+  "comment": 31892,
+  "code": 362098,
+  "nFiles": 1566} }

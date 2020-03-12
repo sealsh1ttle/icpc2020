@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.85343098640442,
+  "n_files"            : 21,
+  "n_lines"            : 1926,
+  "files_per_second"   : 4.32683601741239,
+  "lines_per_second"   : 396.832674739822,
+  "report_file"        : "loc/logstash-plugins__logstash-filter-elasticsearch.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 688},
+"Ruby" :{
+  "nFiles": 6,
+  "blank": 114,
+  "comment": 48,
+  "code": 446},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 78,
+  "comment": 4,
+  "code": 223},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 74,
+  "comment": 0,
+  "code": 183},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 13,
+  "code": 32},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 268,
+  "comment": 65,
+  "code": 1593,
+  "nFiles": 21} }

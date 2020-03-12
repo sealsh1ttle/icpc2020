@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.6730189323425,
+  "n_files"            : 246,
+  "n_lines"            : 46074,
+  "files_per_second"   : 4.58330842746325,
+  "lines_per_second"   : 858.420132060739,
+  "report_file"        : "loc/whiteleaf7__narou.json"},
+"Ruby" :{
+  "nFiles": 138,
+  "blank": 2679,
+  "comment": 2049,
+  "code": 16434},
+"YAML" :{
+  "nFiles": 27,
+  "blank": 191,
+  "comment": 159,
+  "code": 11447},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 568,
+  "comment": 964,
+  "code": 4074},
+"Haml" :{
+  "nFiles": 20,
+  "blank": 136,
+  "comment": 32,
+  "code": 1721},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 338,
+  "comment": 0,
+  "code": 1684},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 111,
+  "comment": 7,
+  "code": 1091},
+"CSS" :{
+  "nFiles": 17,
+  "blank": 78,
+  "comment": 124,
+  "code": 713},
+"ERB" :{
+  "nFiles": 9,
+  "blank": 59,
+  "comment": 10,
+  "code": 385},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"INI" :{
+  "nFiles": 15,
+  "blank": 158,
+  "comment": 286,
+  "code": 197},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 5,
+  "code": 64},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 4328,
+  "comment": 3637,
+  "code": 38109,
+  "nFiles": 246} }

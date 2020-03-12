@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.612445116043091,
+  "n_files"            : 92,
+  "n_lines"            : 11497,
+  "files_per_second"   : 150.217542094869,
+  "lines_per_second"   : 18772.2943637469,
+  "report_file"        : "loc/awsdocs__aws-net-developer-guide.json"},
+"reStructuredText" :{
+  "nFiles": 74,
+  "blank": 2781,
+  "comment": 3690,
+  "code": 3467},
+"C#" :{
+  "nFiles": 10,
+  "blank": 156,
+  "comment": 40,
+  "code": 709},
+"Python" :{
+  "nFiles": 2,
+  "blank": 133,
+  "comment": 289,
+  "code": 141},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 0,
+  "code": 40},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"Razor" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 3098,
+  "comment": 4019,
+  "code": 4380,
+  "nFiles": 92} }

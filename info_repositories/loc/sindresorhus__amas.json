@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.679312229156494,
+  "n_files"            : 3,
+  "n_lines"            : 225,
+  "files_per_second"   : 4.41623140470343,
+  "lines_per_second"   : 331.217355352757,
+  "report_file"        : "loc/sindresorhus__amas.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 0,
+  "code": 206},
+"SUM": {
+  "blank": 19,
+  "comment": 0,
+  "code": 206,
+  "nFiles": 3} }

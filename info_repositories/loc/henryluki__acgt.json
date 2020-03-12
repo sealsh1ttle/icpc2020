@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.08348393440247,
+  "n_files"            : 12,
+  "n_lines"            : 451,
+  "files_per_second"   : 5.75958364826151,
+  "lines_per_second"   : 216.464352113828,
+  "report_file"        : "loc/henryluki__acgt.json"},
+"Python" :{
+  "nFiles": 7,
+  "blank": 37,
+  "comment": 17,
+  "code": 199},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 58},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 62,
+  "comment": 19,
+  "code": 370,
+  "nFiles": 12} }

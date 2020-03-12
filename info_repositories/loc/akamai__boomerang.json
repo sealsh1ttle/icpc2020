@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 95.7494478225708,
+  "n_files"            : 1035,
+  "n_lines"            : 104408,
+  "files_per_second"   : 10.8094618145257,
+  "lines_per_second"   : 1090.42926486087,
+  "report_file"        : "loc/akamai__boomerang.json"},
+"JavaScript" :{
+  "nFiles": 546,
+  "blank": 9276,
+  "comment": 13276,
+  "code": 40468},
+"JSON" :{
+  "nFiles": 20,
+  "blank": 7,
+  "comment": 0,
+  "code": 14021},
+"HTML" :{
+  "nFiles": 442,
+  "blank": 1446,
+  "comment": 327,
+  "code": 13563},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 180,
+  "comment": 69,
+  "code": 8604},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 609,
+  "comment": 0,
+  "code": 1898},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 3,
+  "code": 303},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"JSON5" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 7,
+  "code": 26},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 11551,
+  "comment": 13682,
+  "code": 79175,
+  "nFiles": 1035} }

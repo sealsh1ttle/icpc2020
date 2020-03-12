@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.651468038559,
+  "n_files"            : 85,
+  "n_lines"            : 9279,
+  "files_per_second"   : 2.96668917228281,
+  "lines_per_second"   : 323.857750936615,
+  "report_file"        : "loc/projectestac__moodle-local_oauth.json"},
+"PHP" :{
+  "nFiles": 83,
+  "blank": 1392,
+  "comment": 2122,
+  "code": 5597},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 114},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 1418,
+  "comment": 2122,
+  "code": 5739,
+  "nFiles": 85} }

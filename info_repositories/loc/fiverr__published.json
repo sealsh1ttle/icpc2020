@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.6053779125214,
+  "n_files"            : 40,
+  "n_lines"            : 1705,
+  "files_per_second"   : 3.44667793685916,
+  "lines_per_second"   : 146.914647058622,
+  "report_file"        : "loc/fiverr__published.json"},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 162,
+  "comment": 102,
+  "code": 1195},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 105},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 54},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 185,
+  "comment": 102,
+  "code": 1418,
+  "nFiles": 40} }

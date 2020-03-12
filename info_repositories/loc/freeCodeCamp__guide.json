@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0169291496276855,
+  "n_files"            : 1,
+  "n_lines"            : 7,
+  "files_per_second"   : 59.0697124186688,
+  "lines_per_second"   : 413.487986930682,
+  "report_file"        : "loc/freeCodeCamp__guide.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 3,
+  "comment": 0,
+  "code": 4,
+  "nFiles": 1} }

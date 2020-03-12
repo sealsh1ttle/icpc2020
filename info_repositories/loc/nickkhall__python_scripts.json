@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.2971019744873,
+  "n_files"            : 15,
+  "n_lines"            : 536,
+  "files_per_second"   : 6.52996696123945,
+  "lines_per_second"   : 233.337486081623,
+  "report_file"        : "loc/nickkhall__python_scripts.json"},
+"Python" :{
+  "nFiles": 12,
+  "blank": 95,
+  "comment": 17,
+  "code": 381},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 112,
+  "comment": 17,
+  "code": 407,
+  "nFiles": 15} }

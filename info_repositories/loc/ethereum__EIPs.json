@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.18089318275452,
+  "n_files"            : 260,
+  "n_lines"            : 45644,
+  "files_per_second"   : 119.217209745052,
+  "lines_per_second"   : 20929.0396984737,
+  "report_file"        : "loc/ethereum__EIPs.json"},
+"Markdown" :{
+  "nFiles": 232,
+  "blank": 11449,
+  "comment": 0,
+  "code": 33213},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 214},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 26,
+  "comment": 0,
+  "code": 196},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 5,
+  "code": 129},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 105},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 20,
+  "code": 89},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 3,
+  "code": 88},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 24},
+"SUM": {
+  "blank": 11522,
+  "comment": 29,
+  "code": 34093,
+  "nFiles": 260} }

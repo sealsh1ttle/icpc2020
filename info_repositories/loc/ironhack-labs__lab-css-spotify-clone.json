@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.953608989715576,
+  "n_files"            : 3,
+  "n_lines"            : 112,
+  "files_per_second"   : 3.14594349712955,
+  "lines_per_second"   : 117.44855722617,
+  "report_file"        : "loc/ironhack-labs__lab-css-spotify-clone.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 35},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 0},
+"SUM": {
+  "blank": 35,
+  "comment": 6,
+  "code": 71,
+  "nFiles": 3} }

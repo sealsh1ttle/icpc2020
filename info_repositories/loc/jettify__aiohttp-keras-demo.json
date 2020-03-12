@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.211076021194458,
+  "n_files"            : 19,
+  "n_lines"            : 681,
+  "files_per_second"   : 90.0149618724141,
+  "lines_per_second"   : 3226.32573869021,
+  "report_file"        : "loc/jettify__aiohttp-keras-demo.json"},
+"Python" :{
+  "nFiles": 11,
+  "blank": 90,
+  "comment": 7,
+  "code": 246},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 102},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 5,
+  "code": 89},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 27},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 4,
+  "code": 26},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 147,
+  "comment": 17,
+  "code": 517,
+  "nFiles": 19} }

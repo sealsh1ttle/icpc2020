@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.6889591217041,
+  "n_files"            : 23,
+  "n_lines"            : 2500,
+  "files_per_second"   : 6.23482105417726,
+  "lines_per_second"   : 677.697940671442,
+  "report_file"        : "loc/kimjmin__lsbeat.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 218,
+  "comment": 0,
+  "code": 1121},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 151},
+"Go" :{
+  "nFiles": 5,
+  "blank": 33,
+  "comment": 7,
+  "code": 108},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 160,
+  "comment": 456,
+  "code": 71},
+"AsciiDoc" :{
+  "nFiles": 3,
+  "blank": 50,
+  "comment": 3,
+  "code": 58},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 27},
+"Python" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 4,
+  "code": 19},
+"SUM": {
+  "blank": 472,
+  "comment": 473,
+  "code": 1555,
+  "nFiles": 23} }

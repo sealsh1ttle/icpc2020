@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 55.6264297962189,
+  "n_files"            : 193,
+  "n_lines"            : 46041,
+  "files_per_second"   : 3.46957373872516,
+  "lines_per_second"   : 827.682095878991,
+  "report_file"        : "loc/xetorthio__jedis.json"},
+"Java" :{
+  "nFiles": 184,
+  "blank": 8073,
+  "comment": 5020,
+  "code": 31549},
+"make" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 3,
+  "code": 334},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 306},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 207},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 18,
+  "code": 188},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 0,
+  "code": 168},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"C" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 8216,
+  "comment": 5041,
+  "code": 32784,
+  "nFiles": 193} }

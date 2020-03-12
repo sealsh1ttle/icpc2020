@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 177.493525981903,
+  "n_files"            : 380,
+  "n_lines"            : 36485,
+  "files_per_second"   : 2.14092315704373,
+  "lines_per_second"   : 205.556793117739,
+  "report_file"        : "loc/quii__learn-go-with-tests.json"},
+"Go" :{
+  "nFiles": 327,
+  "blank": 3665,
+  "comment": 1134,
+  "code": 14279},
+"Markdown" :{
+  "nFiles": 35,
+  "blank": 4913,
+  "comment": 0,
+  "code": 12132},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 85},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 4,
+  "comment": 8,
+  "code": 65},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 1,
+  "code": 53},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 28,
+  "code": 38},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 25,
+  "code": 6},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 8618,
+  "comment": 1196,
+  "code": 26671,
+  "nFiles": 380} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.372811079025269,
+  "n_files"            : 3,
+  "n_lines"            : 93,
+  "files_per_second"   : 8.04697115719746,
+  "lines_per_second"   : 249.456105873121,
+  "report_file"        : "loc/prichodko__Tutorial.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 88},
+"SUM": {
+  "blank": 5,
+  "comment": 0,
+  "code": 88,
+  "nFiles": 3} }

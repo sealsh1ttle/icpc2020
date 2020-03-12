@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0611660480499268,
+  "n_files"            : 3,
+  "n_lines"            : 883,
+  "files_per_second"   : 49.0468175670145,
+  "lines_per_second"   : 14436.1133038913,
+  "report_file"        : "loc/elm-community__elm-list-extra.json"},
+"Elm" :{
+  "nFiles": 1,
+  "blank": 175,
+  "comment": 283,
+  "code": 400},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 179,
+  "comment": 283,
+  "code": 421,
+  "nFiles": 3} }

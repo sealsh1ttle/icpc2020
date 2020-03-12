@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.88574385643005,
+  "n_files"            : 22,
+  "n_lines"            : 4519,
+  "files_per_second"   : 5.66172161955421,
+  "lines_per_second"   : 1162.96909085298,
+  "report_file"        : "loc/invenia__DaskDistributedDispatcher.jl.json"},
+"Julia" :{
+  "nFiles": 11,
+  "blank": 730,
+  "comment": 84,
+  "code": 2789},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 101,
+  "comment": 0,
+  "code": 613},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 10,
+  "code": 94},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 13,
+  "code": 44},
+"SUM": {
+  "blank": 872,
+  "comment": 107,
+  "code": 3540,
+  "nFiles": 22} }

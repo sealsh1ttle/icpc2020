@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.1212170124054,
+  "n_files"            : 51,
+  "n_lines"            : 4327,
+  "files_per_second"   : 4.20749830217579,
+  "lines_per_second"   : 356.977355951267,
+  "report_file"        : "loc/openzipkin__openzipkin.github.io.json"},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 256,
+  "comment": 0,
+  "code": 993},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 91,
+  "comment": 166,
+  "code": 734},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 121,
+  "comment": 3,
+  "code": 548},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 52,
+  "comment": 0,
+  "code": 450},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 98,
+  "comment": 2,
+  "code": 419},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 46,
+  "comment": 20,
+  "code": 242},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 63},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 17},
+"SUM": {
+  "blank": 667,
+  "comment": 194,
+  "code": 3466,
+  "nFiles": 51} }

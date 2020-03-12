@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.7841138839722,
+  "n_files"            : 225,
+  "n_lines"            : 71706,
+  "files_per_second"   : 3.70162507311518,
+  "lines_per_second"   : 1179.68323330132,
+  "report_file"        : "loc/ropensci__stplanr.json"},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 5452,
+  "comment": 3538,
+  "code": 21971},
+"HTML" :{
+  "nFiles": 122,
+  "blank": 5484,
+  "comment": 1447,
+  "code": 18446},
+"R" :{
+  "nFiles": 49,
+  "blank": 427,
+  "comment": 3168,
+  "code": 3582},
+"TeX" :{
+  "nFiles": 5,
+  "blank": 226,
+  "comment": 3,
+  "code": 1975},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 1017},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 164,
+  "comment": 80,
+  "code": 961},
+"Rmd" :{
+  "nFiles": 7,
+  "blank": 441,
+  "comment": 1047,
+  "code": 612},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 2,
+  "code": 526},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 235,
+  "comment": 0,
+  "code": 520},
+"C++" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 38,
+  "code": 231},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 5,
+  "code": 52},
+"SUM": {
+  "blank": 12485,
+  "comment": 9328,
+  "code": 49893,
+  "nFiles": 225} }

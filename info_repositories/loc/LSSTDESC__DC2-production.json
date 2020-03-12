@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.6230878829956,
+  "n_files"            : 62,
+  "n_lines"            : 207654,
+  "files_per_second"   : 4.55109741143112,
+  "lines_per_second"   : 15242.7997076342,
+  "report_file"        : "loc/LSSTDESC__DC2-production.json"},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 769,
+  "comment": 808,
+  "code": 5690},
+"Python" :{
+  "nFiles": 18,
+  "blank": 479,
+  "comment": 723,
+  "code": 1454},
+"Jupyter Notebook" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 195555,
+  "code": 1031},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 185,
+  "comment": 0,
+  "code": 441},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 86,
+  "comment": 137,
+  "code": 208},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 2,
+  "comment": 12,
+  "code": 52},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 1521,
+  "comment": 197235,
+  "code": 8898,
+  "nFiles": 62} }

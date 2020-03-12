@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.40553903579712,
+  "n_files"            : 44,
+  "n_lines"            : 4475,
+  "files_per_second"   : 6.86905500912689,
+  "lines_per_second"   : 698.614117405518,
+  "report_file"        : "loc/Schibsted-Tech-Polska__HeroIn.json"},
+"JavaScript" :{
+  "nFiles": 40,
+  "blank": 419,
+  "comment": 28,
+  "code": 3720},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 0,
+  "code": 204},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 458,
+  "comment": 32,
+  "code": 3985,
+  "nFiles": 44} }

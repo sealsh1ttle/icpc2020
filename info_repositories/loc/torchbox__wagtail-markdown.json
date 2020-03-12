@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.4327609539032,
+  "n_files"            : 23,
+  "n_lines"            : 1033,
+  "files_per_second"   : 4.23357482413717,
+  "lines_per_second"   : 190.142730144943,
+  "report_file"        : "loc/torchbox__wagtail-markdown.json"},
+"Python" :{
+  "nFiles": 16,
+  "blank": 130,
+  "comment": 154,
+  "code": 490},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 0,
+  "code": 101},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 25,
+  "code": 33},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 18},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 1},
+"SUM": {
+  "blank": 184,
+  "comment": 186,
+  "code": 663,
+  "nFiles": 23} }

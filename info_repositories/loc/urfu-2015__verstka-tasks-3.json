@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.801017999649048,
+  "n_files"            : 4,
+  "n_lines"            : 133,
+  "files_per_second"   : 4.9936455881797,
+  "lines_per_second"   : 166.038715806975,
+  "report_file"        : "loc/urfu-2015__verstka-tasks-3.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 73},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 15},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 29,
+  "comment": 2,
+  "code": 102,
+  "nFiles": 4} }

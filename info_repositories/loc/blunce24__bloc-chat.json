@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.256627082824707,
+  "n_files"            : 20,
+  "n_lines"            : 724,
+  "files_per_second"   : 77.9340971337047,
+  "lines_per_second"   : 2821.21431624011,
+  "report_file"        : "loc/blunce24__bloc-chat.json"},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 48,
+  "comment": 0,
+  "code": 344},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 0,
+  "code": 177},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 70},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 79,
+  "comment": 0,
+  "code": 645,
+  "nFiles": 20} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.9253830909729,
+  "n_files"            : 39,
+  "n_lines"            : 2337,
+  "files_per_second"   : 3.56966887799328,
+  "lines_per_second"   : 213.905542765905,
+  "report_file"        : "loc/JakeLin__SwiftLanguageWeather.json"},
+"Swift" :{
+  "nFiles": 24,
+  "blank": 204,
+  "comment": 167,
+  "code": 1091},
+"XML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 3,
+  "code": 459},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 87,
+  "comment": 0,
+  "code": 173},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 146},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 292,
+  "comment": 170,
+  "code": 1875,
+  "nFiles": 39} }

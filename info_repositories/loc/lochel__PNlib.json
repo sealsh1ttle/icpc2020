@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.14360785484314,
+  "n_files"            : 5,
+  "n_lines"            : 821,
+  "files_per_second"   : 2.33251617766902,
+  "lines_per_second"   : 382.999156373253,
+  "report_file"        : "loc/lochel__PNlib.json"},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 37,
+  "code": 413},
+"make" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 31,
+  "code": 233},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 75,
+  "comment": 68,
+  "code": 678,
+  "nFiles": 5} }

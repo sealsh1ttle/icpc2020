@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.4982850551605,
+  "n_files"            : 2478,
+  "n_lines"            : 124595,
+  "files_per_second"   : 51.0945901938923,
+  "lines_per_second"   : 2569.05991332043,
+  "report_file"        : "loc/rubyroidlabs__bsuir-courses.json"},
+"Ruby" :{
+  "nFiles": 1736,
+  "blank": 7506,
+  "comment": 4220,
+  "code": 51623},
+"CSS" :{
+  "nFiles": 28,
+  "blank": 1171,
+  "comment": 181,
+  "code": 15052},
+"YAML" :{
+  "nFiles": 137,
+  "blank": 2326,
+  "comment": 2909,
+  "code": 10984},
+"Sass" :{
+  "nFiles": 132,
+  "blank": 1405,
+  "comment": 1636,
+  "code": 6896},
+"ERB" :{
+  "nFiles": 254,
+  "blank": 687,
+  "comment": 10,
+  "code": 4726},
+"XML" :{
+  "nFiles": 30,
+  "blank": 0,
+  "comment": 0,
+  "code": 4490},
+"JavaScript" :{
+  "nFiles": 55,
+  "blank": 1272,
+  "comment": 728,
+  "code": 3824},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 364,
+  "comment": 0,
+  "code": 778},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 59,
+  "comment": 9,
+  "code": 672},
+"Slim" :{
+  "nFiles": 40,
+  "blank": 39,
+  "comment": 0,
+  "code": 555},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 136},
+"Cucumber" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 4},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 3,
+  "code": 3},
+"R" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 18,
+  "code": 1},
+"SUM": {
+  "blank": 14835,
+  "comment": 9715,
+  "code": 100045,
+  "nFiles": 2478} }

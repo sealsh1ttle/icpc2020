@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.19091010093689,
+  "n_files"            : 41,
+  "n_lines"            : 1015,
+  "files_per_second"   : 214.7607685439,
+  "lines_per_second"   : 5316.6385383429,
+  "report_file"        : "loc/githubtraining__write-a-ll-course.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 29,
+  "code": 537},
+"Markdown" :{
+  "nFiles": 40,
+  "blank": 142,
+  "comment": 0,
+  "code": 289},
+"SUM": {
+  "blank": 160,
+  "comment": 29,
+  "code": 826,
+  "nFiles": 41} }

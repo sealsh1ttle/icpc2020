@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 105.300930976868,
+  "n_files"            : 393,
+  "n_lines"            : 84536,
+  "files_per_second"   : 3.73216073546713,
+  "lines_per_second"   : 802.803918405723,
+  "report_file"        : "loc/webonyx__graphql-php.json"},
+"PHP" :{
+  "nFiles": 341,
+  "blank": 8428,
+  "comment": 11607,
+  "code": 57413},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 863,
+  "comment": 0,
+  "code": 5066},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 707},
+"GraphQL" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 10,
+  "code": 146},
+"XML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 116},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 3,
+  "code": 104},
+"SUM": {
+  "blank": 9359,
+  "comment": 11625,
+  "code": 63552,
+  "nFiles": 393} }

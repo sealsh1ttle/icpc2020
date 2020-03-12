@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.73847007751465,
+  "n_files"            : 35,
+  "n_lines"            : 1539,
+  "files_per_second"   : 3.59399368909211,
+  "lines_per_second"   : 158.033036786079,
+  "report_file"        : "loc/vtex-apps__carousel.json"},
+"TypeScript" :{
+  "nFiles": 9,
+  "blank": 45,
+  "comment": 47,
+  "code": 485},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 212,
+  "comment": 0,
+  "code": 340},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 191},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 22,
+  "comment": 14,
+  "code": 135},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 285,
+  "comment": 61,
+  "code": 1193,
+  "nFiles": 35} }

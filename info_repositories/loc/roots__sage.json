@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.0095069408417,
+  "n_files"            : 68,
+  "n_lines"            : 20510,
+  "files_per_second"   : 5.22694674819095,
+  "lines_per_second"   : 1576.53937949112,
+  "report_file"        : "loc/roots__sage.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 17942},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 97,
+  "comment": 0,
+  "code": 683},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 46,
+  "comment": 112,
+  "code": 507},
+"PHP" :{
+  "nFiles": 11,
+  "blank": 81,
+  "comment": 243,
+  "code": 313},
+"Blade" :{
+  "nFiles": 18,
+  "blank": 19,
+  "comment": 3,
+  "code": 180},
+"Sass" :{
+  "nFiles": 8,
+  "blank": 23,
+  "comment": 1,
+  "code": 120},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 49},
+"XML" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 15,
+  "code": 41},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 11,
+  "code": 0},
+"SUM": {
+  "blank": 290,
+  "comment": 385,
+  "code": 19835,
+  "nFiles": 68} }

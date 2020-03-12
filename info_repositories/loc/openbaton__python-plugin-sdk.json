@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.148980140686035,
+  "n_files"            : 9,
+  "n_lines"            : 1342,
+  "files_per_second"   : 60.4107363475166,
+  "lines_per_second"   : 9007.91201981859,
+  "report_file"        : "loc/openbaton__python-plugin-sdk.json"},
+"Python" :{
+  "nFiles": 6,
+  "blank": 170,
+  "comment": 118,
+  "code": 812},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 17,
+  "code": 69},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 69},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 11},
+"SUM": {
+  "blank": 243,
+  "comment": 138,
+  "code": 961,
+  "nFiles": 9} }

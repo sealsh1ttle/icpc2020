@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.04547905921936,
+  "n_files"            : 18,
+  "n_lines"            : 4023,
+  "files_per_second"   : 8.79989453760018,
+  "lines_per_second"   : 1966.77642915364,
+  "report_file"        : "loc/Katello__katello-certs-tools.json"},
+"Python" :{
+  "nFiles": 11,
+  "blank": 642,
+  "comment": 731,
+  "code": 1913},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 61,
+  "comment": 69,
+  "code": 493},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 0,
+  "code": 63},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 23},
+"SUM": {
+  "blank": 730,
+  "comment": 801,
+  "code": 2492,
+  "nFiles": 18} }

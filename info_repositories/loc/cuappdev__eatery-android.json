@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.3146469593048,
+  "n_files"            : 126,
+  "n_lines"            : 12839,
+  "files_per_second"   : 4.97735560770626,
+  "lines_per_second"   : 507.176735296354,
+  "report_file"        : "loc/cuappdev__eatery-android.json"},
+"Java" :{
+  "nFiles": 51,
+  "blank": 731,
+  "comment": 290,
+  "code": 5040},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 3330},
+"XML" :{
+  "nFiles": 60,
+  "blank": 194,
+  "comment": 22,
+  "code": 2731},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"GraphQL" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 97},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 3,
+  "code": 68},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 20},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 1013,
+  "comment": 355,
+  "code": 11471,
+  "nFiles": 126} }

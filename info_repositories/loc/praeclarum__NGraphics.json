@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.50836682319641,
+  "n_files"            : 223,
+  "n_lines"            : 34547,
+  "files_per_second"   : 63.5623386145319,
+  "lines_per_second"   : 9847.03189289791,
+  "report_file"        : "loc/praeclarum__NGraphics.json"},
+"SVG" :{
+  "nFiles": 90,
+  "blank": 17,
+  "comment": 16,
+  "code": 19575},
+"C#" :{
+  "nFiles": 90,
+  "blank": 1324,
+  "comment": 369,
+  "code": 9042},
+"XML" :{
+  "nFiles": 15,
+  "blank": 17,
+  "comment": 46,
+  "code": 1902},
+"MSBuild script" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 30,
+  "code": 1600},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 111,
+  "comment": 0,
+  "code": 172},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 146},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 1,
+  "code": 88},
+"F# Script" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 33},
+"XAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 1504,
+  "comment": 464,
+  "code": 32579,
+  "nFiles": 223} }

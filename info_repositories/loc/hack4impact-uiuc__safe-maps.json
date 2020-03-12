@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.625643014907837,
+  "n_files"            : 113,
+  "n_lines"            : 22210,
+  "files_per_second"   : 180.614179823691,
+  "lines_per_second"   : 35499.4772910103,
+  "report_file"        : "loc/hack4impact-uiuc__safe-maps.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 12406},
+"JavaScript" :{
+  "nFiles": 40,
+  "blank": 355,
+  "comment": 8,
+  "code": 5614},
+"Python" :{
+  "nFiles": 45,
+  "blank": 388,
+  "comment": 440,
+  "code": 2050},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 295,
+  "comment": 0,
+  "code": 600},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1041,
+  "comment": 448,
+  "code": 20721,
+  "nFiles": 113} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.67797112464905,
+  "n_files"            : 207,
+  "n_lines"            : 19034,
+  "files_per_second"   : 123.363267078445,
+  "lines_per_second"   : 11343.4609930973,
+  "report_file"        : "loc/hmrc__agent-client-mandate-frontend.json"},
+"Scala" :{
+  "nFiles": 132,
+  "blank": 2336,
+  "comment": 1909,
+  "code": 10349},
+"HTML" :{
+  "nFiles": 49,
+  "blank": 502,
+  "comment": 0,
+  "code": 2432},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 93,
+  "comment": 16,
+  "code": 476},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 82,
+  "comment": 48,
+  "code": 397},
+"XML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 182},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 66,
+  "comment": 0,
+  "code": 117},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 3097,
+  "comment": 1973,
+  "code": 13964,
+  "nFiles": 207} }

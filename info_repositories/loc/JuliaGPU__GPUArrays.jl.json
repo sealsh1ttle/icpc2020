@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.89538407325745,
+  "n_files"            : 43,
+  "n_lines"            : 3296,
+  "files_per_second"   : 8.78378475652214,
+  "lines_per_second"   : 673.287315290627,
+  "report_file"        : "loc/JuliaGPU__GPUArrays.jl.json"},
+"Julia" :{
+  "nFiles": 33,
+  "blank": 427,
+  "comment": 277,
+  "code": 2247},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 66,
+  "comment": 0,
+  "code": 153},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 82},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 511,
+  "comment": 277,
+  "code": 2508,
+  "nFiles": 43} }

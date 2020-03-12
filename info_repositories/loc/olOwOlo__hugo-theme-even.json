@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.6034219264984,
+  "n_files"            : 107,
+  "n_lines"            : 8470,
+  "files_per_second"   : 4.95291904977125,
+  "lines_per_second"   : 392.067517304323,
+  "report_file"        : "loc/olOwOlo__hugo-theme-even.json"},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 850,
+  "comment": 0,
+  "code": 2225},
+"Sass" :{
+  "nFiles": 31,
+  "blank": 465,
+  "comment": 166,
+  "code": 2076},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 91,
+  "comment": 42,
+  "code": 859},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 57,
+  "comment": 51,
+  "code": 374},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 362},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 120,
+  "comment": 20,
+  "code": 268},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 40,
+  "code": 165},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 112},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 6,
+  "code": 4},
+"SUM": {
+  "blank": 1624,
+  "comment": 325,
+  "code": 6521,
+  "nFiles": 107} }

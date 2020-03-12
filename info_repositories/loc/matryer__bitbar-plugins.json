@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.8341269493103,
+  "n_files"            : 498,
+  "n_lines"            : 41452,
+  "files_per_second"   : 129.886153114879,
+  "lines_per_second"   : 10811.3269456184,
+  "report_file"        : "loc/matryer__bitbar-plugins.json"},
+"Bourne Shell" :{
+  "nFiles": 244,
+  "blank": 2076,
+  "comment": 3186,
+  "code": 8050},
+"Python" :{
+  "nFiles": 135,
+  "blank": 2009,
+  "comment": 2090,
+  "code": 7056},
+"JavaScript" :{
+  "nFiles": 35,
+  "blank": 728,
+  "comment": 671,
+  "code": 4449},
+"Ruby" :{
+  "nFiles": 56,
+  "blank": 981,
+  "comment": 1090,
+  "code": 3746},
+"PHP" :{
+  "nFiles": 11,
+  "blank": 532,
+  "comment": 757,
+  "code": 2548},
+"Perl" :{
+  "nFiles": 5,
+  "blank": 91,
+  "comment": 77,
+  "code": 394},
+"Swift" :{
+  "nFiles": 3,
+  "blank": 105,
+  "comment": 36,
+  "code": 341},
+"Go" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 33,
+  "code": 146},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 0,
+  "code": 56},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 27},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"Racket" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 20},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 23,
+  "code": 20},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 7,
+  "code": 7},
+"SUM": {
+  "blank": 6590,
+  "comment": 7976,
+  "code": 26886,
+  "nFiles": 498} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.76950097084045,
+  "n_files"            : 18,
+  "n_lines"            : 1758,
+  "files_per_second"   : 6.49936583865417,
+  "lines_per_second"   : 634.771396908557,
+  "report_file"        : "loc/Syfaro__mcapi.json"},
+"Go" :{
+  "nFiles": 10,
+  "blank": 256,
+  "comment": 25,
+  "code": 939},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 236},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 32,
+  "code": 77},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 74},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 29},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 340,
+  "comment": 57,
+  "code": 1361,
+  "nFiles": 18} }

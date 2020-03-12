@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.05396008491516,
+  "n_files"            : 38,
+  "n_lines"            : 2415,
+  "files_per_second"   : 4.71817585378563,
+  "lines_per_second"   : 299.852491760324,
+  "report_file"        : "loc/ConnectHolland__cookie-consent-bundle.json"},
+"PHP" :{
+  "nFiles": 24,
+  "blank": 302,
+  "comment": 347,
+  "code": 1015},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 2,
+  "code": 151},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 133},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 110},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 0,
+  "code": 92},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 2,
+  "code": 44},
+"Twig" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 38},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 26},
+"SUM": {
+  "blank": 409,
+  "comment": 352,
+  "code": 1654,
+  "nFiles": 38} }

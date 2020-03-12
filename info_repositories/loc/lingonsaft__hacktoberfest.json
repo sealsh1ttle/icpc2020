@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.31812500953674,
+  "n_files"            : 231,
+  "n_lines"            : 26797,
+  "files_per_second"   : 175.24893187573,
+  "lines_per_second"   : 20329.6347509694,
+  "report_file"        : "loc/lingonsaft__hacktoberfest.json"},
+"HTML" :{
+  "nFiles": 109,
+  "blank": 1062,
+  "comment": 233,
+  "code": 10919},
+"CSS" :{
+  "nFiles": 60,
+  "blank": 823,
+  "comment": 220,
+  "code": 8631},
+"JavaScript" :{
+  "nFiles": 43,
+  "blank": 479,
+  "comment": 298,
+  "code": 3158},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 84,
+  "comment": 0,
+  "code": 474},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 6,
+  "code": 320},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 72},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 2451,
+  "comment": 757,
+  "code": 23589,
+  "nFiles": 231} }

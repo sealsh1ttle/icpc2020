@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.185434103012085,
+  "n_files"            : 31,
+  "n_lines"            : 2588,
+  "files_per_second"   : 167.175290286165,
+  "lines_per_second"   : 13956.440363245,
+  "report_file"        : "loc/Azukee__Macaron.json"},
+"C#" :{
+  "nFiles": 26,
+  "blank": 339,
+  "comment": 322,
+  "code": 1844},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 0,
+  "code": 47},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 356,
+  "comment": 322,
+  "code": 1910,
+  "nFiles": 31} }

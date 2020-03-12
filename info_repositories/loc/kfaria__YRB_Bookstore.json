@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.142310857772827,
+  "n_files"            : 2,
+  "n_lines"            : 353,
+  "files_per_second"   : 14.0537414453128,
+  "lines_per_second"   : 2480.48536509771,
+  "report_file"        : "loc/kfaria__YRB_Bookstore.json"},
+"Java" :{
+  "nFiles": 2,
+  "blank": 63,
+  "comment": 18,
+  "code": 272},
+"SUM": {
+  "blank": 63,
+  "comment": 18,
+  "code": 272,
+  "nFiles": 2} }

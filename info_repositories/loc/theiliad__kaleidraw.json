@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.83940291404724,
+  "n_files"            : 13,
+  "n_lines"            : 8767,
+  "files_per_second"   : 4.57842736431865,
+  "lines_per_second"   : 3087.62097715243,
+  "report_file"        : "loc/theiliad__kaleidraw.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 261,
+  "comment": 804,
+  "code": 7617},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 57},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 262,
+  "comment": 804,
+  "code": 7701,
+  "nFiles": 13} }

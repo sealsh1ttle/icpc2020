@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.733304023742676,
+  "n_files"            : 4,
+  "n_lines"            : 2050,
+  "files_per_second"   : 5.45476346847872,
+  "lines_per_second"   : 2795.56627759534,
+  "report_file"        : "loc/oblique__create_ap.json"},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 245,
+  "comment": 113,
+  "code": 1510},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 0,
+  "code": 121},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 288,
+  "comment": 113,
+  "code": 1649,
+  "nFiles": 4} }

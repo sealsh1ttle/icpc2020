@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.5965559482574,
+  "n_files"            : 60,
+  "n_lines"            : 8059,
+  "files_per_second"   : 1.78589734294214,
+  "lines_per_second"   : 239.875778112845,
+  "report_file"        : "loc/ropensci__neotoma.json"},
+"R" :{
+  "nFiles": 52,
+  "blank": 1080,
+  "comment": 2891,
+  "code": 3389},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 111,
+  "comment": 0,
+  "code": 258},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 169},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 80},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 44},
+"SUM": {
+  "blank": 1228,
+  "comment": 2891,
+  "code": 3940,
+  "nFiles": 60} }

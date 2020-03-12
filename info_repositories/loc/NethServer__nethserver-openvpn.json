@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.8948581218719,
+  "n_files"            : 72,
+  "n_lines"            : 5787,
+  "files_per_second"   : 2.89216350009012,
+  "lines_per_second"   : 232.457641319743,
+  "report_file"        : "loc/NethServer__nethserver-openvpn.json"},
+"PHP" :{
+  "nFiles": 33,
+  "blank": 344,
+  "comment": 419,
+  "code": 1920},
+"Perl" :{
+  "nFiles": 22,
+  "blank": 263,
+  "comment": 411,
+  "code": 992},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 179,
+  "comment": 0,
+  "code": 439},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 67,
+  "comment": 55,
+  "code": 375},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 25,
+  "comment": 65,
+  "code": 75},
+"Python" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 60,
+  "code": 41},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 898,
+  "comment": 1010,
+  "code": 3879,
+  "nFiles": 72} }

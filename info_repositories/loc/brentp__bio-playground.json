@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.05850410461426,
+  "n_files"            : 111,
+  "n_lines"            : 28917,
+  "files_per_second"   : 53.9226517698881,
+  "lines_per_second"   : 14047.5794705392,
+  "report_file"        : "loc/brentp__bio-playground.json"},
+"C" :{
+  "nFiles": 16,
+  "blank": 836,
+  "comment": 1492,
+  "code": 8458},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 209,
+  "comment": 51,
+  "code": 5486},
+"Python" :{
+  "nFiles": 37,
+  "blank": 987,
+  "comment": 845,
+  "code": 3417},
+"C/C++ Header" :{
+  "nFiles": 17,
+  "blank": 466,
+  "comment": 787,
+  "code": 1721},
+"C++" :{
+  "nFiles": 2,
+  "blank": 185,
+  "comment": 347,
+  "code": 1311},
+"reStructuredText" :{
+  "nFiles": 17,
+  "blank": 344,
+  "comment": 25,
+  "code": 612},
+"Nim" :{
+  "nFiles": 4,
+  "blank": 121,
+  "comment": 270,
+  "code": 333},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 66,
+  "comment": 0,
+  "code": 259},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 4,
+  "code": 75},
+"Cython" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 10,
+  "code": 44},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 36},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 21},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 20},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 15},
+"SUM": {
+  "blank": 3274,
+  "comment": 3835,
+  "code": 21808,
+  "nFiles": 111} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.5368990898132,
+  "n_files"            : 78,
+  "n_lines"            : 33280,
+  "files_per_second"   : 3.62169129709547,
+  "lines_per_second"   : 1545.2549534274,
+  "report_file"        : "loc/ceph__cbt.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 3033,
+  "comment": 10673,
+  "code": 10047},
+"Python" :{
+  "nFiles": 51,
+  "blank": 1243,
+  "comment": 493,
+  "code": 5940},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 175,
+  "comment": 153,
+  "code": 455},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 9,
+  "comment": 35,
+  "code": 379},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 0,
+  "code": 209},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 132},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 10,
+  "code": 112},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 48},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 33},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 4553,
+  "comment": 11364,
+  "code": 17363,
+  "nFiles": 78} }

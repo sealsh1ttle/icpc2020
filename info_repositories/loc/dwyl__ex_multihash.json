@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.135555028915405,
+  "n_files"            : 9,
+  "n_lines"            : 518,
+  "files_per_second"   : 66.3937005658164,
+  "lines_per_second"   : 3821.32632145477,
+  "report_file"        : "loc/dwyl__ex_multihash.json"},
+"Elixir" :{
+  "nFiles": 6,
+  "blank": 69,
+  "comment": 131,
+  "code": 167},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 0,
+  "code": 96},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 111,
+  "comment": 131,
+  "code": 276,
+  "nFiles": 9} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.0988318920135,
+  "n_files"            : 46,
+  "n_lines"            : 12835,
+  "files_per_second"   : 3.04659329469927,
+  "lines_per_second"   : 850.065759510112,
+  "report_file"        : "loc/mjavascript__practical-modern-javascript.json"},
+"AsciiDoc" :{
+  "nFiles": 11,
+  "blank": 2402,
+  "comment": 706,
+  "code": 8221},
+"XSLT" :{
+  "nFiles": 3,
+  "blank": 89,
+  "comment": 166,
+  "code": 720},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 106},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 23,
+  "comment": 9,
+  "code": 96},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 0,
+  "code": 72},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 7,
+  "comment": 2,
+  "code": 65},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 42,
+  "code": 38},
+"SUM": {
+  "blank": 2592,
+  "comment": 925,
+  "code": 9318,
+  "nFiles": 46} }

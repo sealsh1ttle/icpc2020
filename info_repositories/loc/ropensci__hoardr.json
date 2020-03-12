@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.11360192298889,
+  "n_files"            : 42,
+  "n_lines"            : 4298,
+  "files_per_second"   : 5.90418193971037,
+  "lines_per_second"   : 604.194618497028,
+  "report_file"        : "loc/ropensci__hoardr.json"},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 455,
+  "comment": 154,
+  "code": 1724},
+"R" :{
+  "nFiles": 9,
+  "blank": 76,
+  "comment": 244,
+  "code": 344},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 71,
+  "comment": 31,
+  "code": 282},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 105,
+  "comment": 0,
+  "code": 218},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 17,
+  "code": 148},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 142},
+"Rmd" :{
+  "nFiles": 2,
+  "blank": 57,
+  "comment": 110,
+  "code": 34},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 29},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 809,
+  "comment": 557,
+  "code": 2932,
+  "nFiles": 42} }

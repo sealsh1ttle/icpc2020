@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.0156488418579,
+  "n_files"            : 82,
+  "n_lines"            : 10463,
+  "files_per_second"   : 4.55159848639365,
+  "lines_per_second"   : 580.772865404107,
+  "report_file"        : "loc/argus-authz__argus-documentation.json"},
+"reStructuredText" :{
+  "nFiles": 73,
+  "blank": 2434,
+  "comment": 682,
+  "code": 6234},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 2,
+  "code": 225},
+"XML" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 93,
+  "code": 156},
+"make" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 6,
+  "code": 148},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 53},
+"Python" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 176,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 2637,
+  "comment": 959,
+  "code": 6867,
+  "nFiles": 82} }

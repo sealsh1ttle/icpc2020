@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.162247180938721,
+  "n_files"            : 2,
+  "n_lines"            : 8,
+  "files_per_second"   : 12.3268705713622,
+  "lines_per_second"   : 49.3074822854489,
+  "report_file"        : "loc/babel__logo.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1,
+  "comment": 0,
+  "code": 7,
+  "nFiles": 2} }

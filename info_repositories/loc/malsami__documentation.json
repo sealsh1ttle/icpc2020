@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.553755044937134,
+  "n_files"            : 20,
+  "n_lines"            : 1065,
+  "files_per_second"   : 36.1170524455819,
+  "lines_per_second"   : 1923.23304272723,
+  "report_file"        : "loc/malsami__documentation.json"},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 455,
+  "comment": 0,
+  "code": 578},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 457,
+  "comment": 0,
+  "code": 608,
+  "nFiles": 20} }

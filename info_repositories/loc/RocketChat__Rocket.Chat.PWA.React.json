@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.8580119609833,
+  "n_files"            : 70,
+  "n_lines"            : 14468,
+  "files_per_second"   : 5.44407644139779,
+  "lines_per_second"   : 1125.21282791633,
+  "report_file"        : "loc/RocketChat__Rocket.Chat.PWA.React.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 9872},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 676,
+  "comment": 0,
+  "code": 1488},
+"JavaScript" :{
+  "nFiles": 33,
+  "blank": 133,
+  "comment": 421,
+  "code": 1088},
+"JSX" :{
+  "nFiles": 16,
+  "blank": 90,
+  "comment": 0,
+  "code": 434},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 8,
+  "comment": 0,
+  "code": 108},
+"Sass" :{
+  "nFiles": 8,
+  "blank": 6,
+  "comment": 0,
+  "code": 104},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"SUM": {
+  "blank": 916,
+  "comment": 441,
+  "code": 13111,
+  "nFiles": 70} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 71.1391670703888,
+  "n_files"            : 229,
+  "n_lines"            : 18224,
+  "files_per_second"   : 3.21904246887535,
+  "lines_per_second"   : 256.173929924822,
+  "report_file"        : "loc/bids-standard__bids-validator.json"},
+"JavaScript" :{
+  "nFiles": 119,
+  "blank": 894,
+  "comment": 1397,
+  "code": 9187},
+"JSON" :{
+  "nFiles": 42,
+  "blank": 21,
+  "comment": 0,
+  "code": 1241},
+"RobotFramework" :{
+  "nFiles": 41,
+  "blank": 1,
+  "comment": 0,
+  "code": 1127},
+"Python" :{
+  "nFiles": 5,
+  "blank": 429,
+  "comment": 1011,
+  "code": 1103},
+"JSX" :{
+  "nFiles": 13,
+  "blank": 91,
+  "comment": 56,
+  "code": 764},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 123,
+  "comment": 0,
+  "code": 414},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 3,
+  "code": 195},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 141},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1581,
+  "comment": 2467,
+  "code": 14176,
+  "nFiles": 229} }

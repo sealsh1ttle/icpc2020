@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.4811840057373,
+  "n_files"            : 40,
+  "n_lines"            : 2229,
+  "files_per_second"   : 5.34674724874085,
+  "lines_per_second"   : 297.947490436084,
+  "report_file"        : "loc/pingcap__tidb-ctl.json"},
+"Go" :{
+  "nFiles": 15,
+  "blank": 175,
+  "comment": 186,
+  "code": 1240},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 201,
+  "comment": 0,
+  "code": 355},
+"make" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 1,
+  "code": 29},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 394,
+  "comment": 190,
+  "code": 1645,
+  "nFiles": 40} }

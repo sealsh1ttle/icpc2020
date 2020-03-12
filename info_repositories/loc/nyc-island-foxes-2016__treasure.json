@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.1182279586792,
+  "n_files"            : 82,
+  "n_lines"            : 4723,
+  "files_per_second"   : 5.08740788442847,
+  "lines_per_second"   : 293.022285831167,
+  "report_file"        : "loc/nyc-island-foxes-2016__treasure.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 599,
+  "comment": 215,
+  "code": 1753},
+"Ruby" :{
+  "nFiles": 48,
+  "blank": 206,
+  "comment": 350,
+  "code": 694},
+"ERB" :{
+  "nFiles": 20,
+  "blank": 36,
+  "comment": 0,
+  "code": 362},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 0,
+  "code": 138},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 91,
+  "code": 23},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 902,
+  "comment": 659,
+  "code": 3162,
+  "nFiles": 82} }

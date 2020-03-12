@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.4108898639679,
+  "n_files"            : 125,
+  "n_lines"            : 8072,
+  "files_per_second"   : 4.91915083136255,
+  "lines_per_second"   : 317.659084086068,
+  "report_file"        : "loc/nornes__tiles-rapIoT.json"},
+"TypeScript" :{
+  "nFiles": 33,
+  "blank": 570,
+  "comment": 464,
+  "code": 2943},
+"JavaScript" :{
+  "nFiles": 40,
+  "blank": 340,
+  "comment": 212,
+  "code": 1591},
+"JSON" :{
+  "nFiles": 21,
+  "blank": 4,
+  "comment": 0,
+  "code": 568},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 138,
+  "comment": 0,
+  "code": 360},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 55,
+  "comment": 51,
+  "code": 346},
+"EJS" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 106},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 7,
+  "code": 83},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 44,
+  "comment": 50,
+  "code": 52},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 1164,
+  "comment": 786,
+  "code": 6122,
+  "nFiles": 125} }

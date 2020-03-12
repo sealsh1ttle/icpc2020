@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.8787231445312,
+  "n_files"            : 241,
+  "n_lines"            : 29657,
+  "files_per_second"   : 10.092666954648,
+  "lines_per_second"   : 1241.98433142737,
+  "report_file"        : "loc/kubermatic__kubeone.json"},
+"Go" :{
+  "nFiles": 123,
+  "blank": 2877,
+  "comment": 2815,
+  "code": 14857},
+"Markdown" :{
+  "nFiles": 38,
+  "blank": 1066,
+  "comment": 0,
+  "code": 3325},
+"HCL" :{
+  "nFiles": 29,
+  "blank": 572,
+  "comment": 447,
+  "code": 2236},
+"YAML" :{
+  "nFiles": 41,
+  "blank": 14,
+  "comment": 159,
+  "code": 527},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 89,
+  "code": 219},
+"Python" :{
+  "nFiles": 4,
+  "blank": 66,
+  "comment": 76,
+  "code": 186},
+"make" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 13,
+  "code": 52},
+"SUM": {
+  "blank": 4656,
+  "comment": 3599,
+  "code": 21402,
+  "nFiles": 241} }

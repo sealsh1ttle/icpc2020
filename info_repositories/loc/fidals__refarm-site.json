@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 71.5356509685516,
+  "n_files"            : 203,
+  "n_lines"            : 17870,
+  "files_per_second"   : 2.83774589664729,
+  "lines_per_second"   : 249.805513167916,
+  "report_file"        : "loc/fidals__refarm-site.json"},
+"Python" :{
+  "nFiles": 147,
+  "blank": 1893,
+  "comment": 868,
+  "code": 6518},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 668,
+  "comment": 98,
+  "code": 4227},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 166,
+  "comment": 148,
+  "code": 1362},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 773},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 103,
+  "comment": 1,
+  "code": 757},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 69,
+  "comment": 0,
+  "code": 147},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 1,
+  "code": 58},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2911,
+  "comment": 1116,
+  "code": 13843,
+  "nFiles": 203} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 123.02047586441,
+  "n_files"            : 357,
+  "n_lines"            : 15584,
+  "files_per_second"   : 2.90195593450212,
+  "lines_per_second"   : 126.67809883272,
+  "report_file"        : "loc/zulip__zulip-gci.json"},
+"Markdown" :{
+  "nFiles": 305,
+  "blank": 2146,
+  "comment": 0,
+  "code": 6564},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 10,
+  "comment": 10,
+  "code": 2853},
+"Python" :{
+  "nFiles": 42,
+  "blank": 570,
+  "comment": 902,
+  "code": 2529},
+"SUM": {
+  "blank": 2726,
+  "comment": 912,
+  "code": 11946,
+  "nFiles": 357} }

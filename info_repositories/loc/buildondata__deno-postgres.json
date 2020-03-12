@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.3711729049683,
+  "n_files"            : 30,
+  "n_lines"            : 2685,
+  "files_per_second"   : 1.83248935028325,
+  "lines_per_second"   : 164.007796850351,
+  "report_file"        : "loc/buildondata__deno-postgres.json"},
+"TypeScript" :{
+  "nFiles": 25,
+  "blank": 337,
+  "comment": 193,
+  "code": 1945},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 0,
+  "code": 121},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 385,
+  "comment": 193,
+  "code": 2107,
+  "nFiles": 30} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.0711939334869,
+  "n_files"            : 169,
+  "n_lines"            : 24762,
+  "files_per_second"   : 6.48225011985083,
+  "lines_per_second"   : 949.783890341694,
+  "report_file"        : "loc/theforeman__foreman_discovery.json"},
+"PO File" :{
+  "nFiles": 15,
+  "blank": 3675,
+  "comment": 111,
+  "code": 7606},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 6197},
+"Ruby" :{
+  "nFiles": 105,
+  "blank": 733,
+  "comment": 150,
+  "code": 5014},
+"ERB" :{
+  "nFiles": 26,
+  "blank": 39,
+  "comment": 43,
+  "code": 498},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 14,
+  "code": 424},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 0,
+  "code": 99},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 12,
+  "code": 54},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 4503,
+  "comment": 330,
+  "code": 19929,
+  "nFiles": 169} }

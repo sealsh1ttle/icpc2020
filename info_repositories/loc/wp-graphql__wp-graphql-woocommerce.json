@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.9917469024658,
+  "n_files"            : 186,
+  "n_lines"            : 28708,
+  "files_per_second"   : 5.8139994845253,
+  "lines_per_second"   : 897.35643656856,
+  "report_file"        : "loc/wp-graphql__wp-graphql-woocommerce.json"},
+"PHP" :{
+  "nFiles": 165,
+  "blank": 2436,
+  "comment": 5358,
+  "code": 19717},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 115,
+  "comment": 0,
+  "code": 306},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 19,
+  "comment": 18,
+  "code": 267},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 23,
+  "code": 227},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"XML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 12,
+  "code": 50},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 11,
+  "code": 24},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 2630,
+  "comment": 5422,
+  "code": 20656,
+  "nFiles": 186} }

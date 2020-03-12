@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.556205987930298,
+  "n_files"            : 59,
+  "n_lines"            : 8799,
+  "files_per_second"   : 106.075808747664,
+  "lines_per_second"   : 15819.6786639102,
+  "report_file"        : "loc/arneb__django-messages.json"},
+"PO File" :{
+  "nFiles": 21,
+  "blank": 1358,
+  "comment": 1751,
+  "code": 3883},
+"Python" :{
+  "nFiles": 22,
+  "blank": 223,
+  "comment": 293,
+  "code": 955},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 14,
+  "comment": 0,
+  "code": 168},
+"INI" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 59},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 54},
+"SUM": {
+  "blank": 1636,
+  "comment": 2044,
+  "code": 5119,
+  "nFiles": 59} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0431768894195557,
+  "n_files"            : 4,
+  "n_lines"            : 125,
+  "files_per_second"   : 92.6421531002722,
+  "lines_per_second"   : 2895.06728438351,
+  "report_file"        : "loc/aws-samples__aws-modern-application-workshop.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 50,
+  "comment": 0,
+  "code": 75},
+"SUM": {
+  "blank": 50,
+  "comment": 0,
+  "code": 75,
+  "nFiles": 4} }

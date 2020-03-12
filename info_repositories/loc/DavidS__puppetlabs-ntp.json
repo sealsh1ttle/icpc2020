@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.358492136001587,
+  "n_files"            : 63,
+  "n_lines"            : 5411,
+  "files_per_second"   : 175.736072491479,
+  "lines_per_second"   : 15093.7760039904,
+  "report_file"        : "loc/DavidS__puppetlabs-ntp.json"},
+"Ruby" :{
+  "nFiles": 18,
+  "blank": 243,
+  "comment": 13,
+  "code": 1599},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 866,
+  "comment": 0,
+  "code": 1534},
+"YAML" :{
+  "nFiles": 27,
+  "blank": 12,
+  "comment": 20,
+  "code": 507},
+"Puppet" :{
+  "nFiles": 7,
+  "blank": 23,
+  "comment": 240,
+  "code": 191},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 108},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 23},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1146,
+  "comment": 278,
+  "code": 3987,
+  "nFiles": 63} }

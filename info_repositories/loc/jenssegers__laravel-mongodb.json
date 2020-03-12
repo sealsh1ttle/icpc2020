@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.459650993347168,
+  "n_files"            : 76,
+  "n_lines"            : 11273,
+  "files_per_second"   : 165.342838588403,
+  "lines_per_second"   : 24525.1292027246,
+  "report_file"        : "loc/jenssegers__laravel-mongodb.json"},
+"PHP" :{
+  "nFiles": 69,
+  "blank": 1785,
+  "comment": 1778,
+  "code": 6447},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 342,
+  "comment": 0,
+  "code": 734},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 59},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 53},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 52},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 2139,
+  "comment": 1778,
+  "code": 7356,
+  "nFiles": 76} }

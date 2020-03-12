@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.59806394577026,
+  "n_files"            : 29,
+  "n_lines"            : 1515,
+  "files_per_second"   : 3.37285232849033,
+  "lines_per_second"   : 176.202457850443,
+  "report_file"        : "loc/zygmuntszpak__HistogramThresholding.jl.json"},
+"Julia" :{
+  "nFiles": 22,
+  "blank": 254,
+  "comment": 193,
+  "code": 923},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 2,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 43},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 1,
+  "code": 25},
+"SUM": {
+  "blank": 272,
+  "comment": 196,
+  "code": 1047,
+  "nFiles": 29} }

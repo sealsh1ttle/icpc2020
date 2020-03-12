@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.5692870616913,
+  "n_files"            : 38,
+  "n_lines"            : 32847,
+  "files_per_second"   : 3.28455848639345,
+  "lines_per_second"   : 2839.15506848857,
+  "report_file"        : "loc/okta__samples-js-react.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 31228},
+"JSX" :{
+  "nFiles": 9,
+  "blank": 56,
+  "comment": 111,
+  "code": 504},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 49,
+  "comment": 104,
+  "code": 251},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 96,
+  "comment": 0,
+  "code": 186},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 6,
+  "code": 112},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 22,
+  "code": 28},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 11},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 227,
+  "comment": 263,
+  "code": 32357,
+  "nFiles": 38} }

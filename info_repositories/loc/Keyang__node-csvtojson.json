@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.5567200183868,
+  "n_files"            : 106,
+  "n_lines"            : 19243,
+  "files_per_second"   : 3.71191088933707,
+  "lines_per_second"   : 673.85189852371,
+  "report_file"        : "loc/Keyang__node-csvtojson.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 0,
+  "code": 8265},
+"JavaScript" :{
+  "nFiles": 51,
+  "blank": 127,
+  "comment": 369,
+  "code": 3228},
+"TypeScript" :{
+  "nFiles": 43,
+  "blank": 259,
+  "comment": 1077,
+  "code": 3085},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 696,
+  "comment": 0,
+  "code": 2122},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1089,
+  "comment": 1446,
+  "code": 16708,
+  "nFiles": 106} }

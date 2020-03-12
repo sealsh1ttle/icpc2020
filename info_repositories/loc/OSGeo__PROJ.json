@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 135.342027187347,
+  "n_files"            : 708,
+  "n_lines"            : 282606,
+  "files_per_second"   : 5.23119104031115,
+  "lines_per_second"   : 2088.08753550589,
+  "report_file"        : "loc/OSGeo__PROJ.json"},
+"C++" :{
+  "nFiles": 230,
+  "blank": 18011,
+  "comment": 20784,
+  "code": 96820},
+"C/C++ Header" :{
+  "nFiles": 66,
+  "blank": 9188,
+  "comment": 16694,
+  "code": 38884},
+"SQL" :{
+  "nFiles": 32,
+  "blank": 485,
+  "comment": 284,
+  "code": 35470},
+"reStructuredText" :{
+  "nFiles": 230,
+  "blank": 5406,
+  "comment": 4999,
+  "code": 7097},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 49,
+  "comment": 0,
+  "code": 5579},
+"C" :{
+  "nFiles": 5,
+  "blank": 643,
+  "comment": 1169,
+  "code": 5285},
+"Python" :{
+  "nFiles": 13,
+  "blank": 1277,
+  "comment": 1553,
+  "code": 3431},
+"CMake" :{
+  "nFiles": 31,
+  "blank": 225,
+  "comment": 334,
+  "code": 1363},
+"yacc" :{
+  "nFiles": 2,
+  "blank": 509,
+  "comment": 148,
+  "code": 1250},
+"m4" :{
+  "nFiles": 6,
+  "blank": 211,
+  "comment": 95,
+  "code": 978},
+"Bourne Shell" :{
+  "nFiles": 40,
+  "blank": 246,
+  "comment": 127,
+  "code": 859},
+"make" :{
+  "nFiles": 27,
+  "blank": 153,
+  "comment": 17,
+  "code": 794},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 436},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 78,
+  "comment": 2,
+  "code": 338},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 143,
+  "comment": 0,
+  "code": 294},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 11,
+  "code": 232},
+"Java" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 321,
+  "code": 66},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 7,
+  "code": 57},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 14,
+  "code": 46},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 4,
+  "code": 42},
+"SUM": {
+  "blank": 36719,
+  "comment": 46566,
+  "code": 199321,
+  "nFiles": 708} }

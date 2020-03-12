@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.9017889499664,
+  "n_files"            : 69,
+  "n_lines"            : 2589,
+  "files_per_second"   : 3.01286507140313,
+  "lines_per_second"   : 113.047937244387,
+  "report_file"        : "loc/Submitty__Tutorial.json"},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 35,
+  "comment": 0,
+  "code": 1271},
+"Python" :{
+  "nFiles": 31,
+  "blank": 161,
+  "comment": 62,
+  "code": 567},
+"C" :{
+  "nFiles": 6,
+  "blank": 31,
+  "comment": 22,
+  "code": 177},
+"Java" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 40,
+  "code": 100},
+"C++" :{
+  "nFiles": 11,
+  "blank": 13,
+  "comment": 2,
+  "code": 69},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 264,
+  "comment": 126,
+  "code": 2199,
+  "nFiles": 69} }

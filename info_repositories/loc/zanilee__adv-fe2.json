@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.695347070694,
+  "n_files"            : 110,
+  "n_lines"            : 4369,
+  "files_per_second"   : 3.97178629750401,
+  "lines_per_second"   : 157.752130307227,
+  "report_file"        : "loc/zanilee__adv-fe2.json"},
+"JavaScript" :{
+  "nFiles": 41,
+  "blank": 325,
+  "comment": 385,
+  "code": 1742},
+"JSON" :{
+  "nFiles": 20,
+  "blank": 6,
+  "comment": 0,
+  "code": 1127},
+"LESS" :{
+  "nFiles": 10,
+  "blank": 60,
+  "comment": 21,
+  "code": 246},
+"CSS" :{
+  "nFiles": 17,
+  "blank": 11,
+  "comment": 0,
+  "code": 170},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 0,
+  "code": 133},
+"Handlebars" :{
+  "nFiles": 15,
+  "blank": 9,
+  "comment": 0,
+  "code": 74},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 428,
+  "comment": 407,
+  "code": 3534,
+  "nFiles": 110} }

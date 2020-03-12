@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.91353511810303,
+  "n_files"            : 25,
+  "n_lines"            : 2158,
+  "files_per_second"   : 5.08798642913776,
+  "lines_per_second"   : 439.194988563171,
+  "report_file"        : "loc/cncf__presentations.json"},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 136,
+  "comment": 0,
+  "code": 2022},
+"SUM": {
+  "blank": 136,
+  "comment": 0,
+  "code": 2022,
+  "nFiles": 25} }

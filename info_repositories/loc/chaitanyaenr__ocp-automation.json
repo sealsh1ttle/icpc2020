@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.137686014175415,
+  "n_files"            : 15,
+  "n_lines"            : 891,
+  "files_per_second"   : 108.943526979361,
+  "lines_per_second"   : 6471.24550257404,
+  "report_file"        : "loc/chaitanyaenr__ocp-automation.json"},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 97,
+  "comment": 37,
+  "code": 550},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 87},
+"Python" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 66},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 114,
+  "comment": 37,
+  "code": 740,
+  "nFiles": 15} }

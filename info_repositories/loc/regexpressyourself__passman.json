@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.166053056716919,
+  "n_files"            : 12,
+  "n_lines"            : 1516,
+  "files_per_second"   : 72.2660590371254,
+  "lines_per_second"   : 9129.61212502351,
+  "report_file"        : "loc/regexpressyourself__passman.json"},
+"Python" :{
+  "nFiles": 10,
+  "blank": 203,
+  "comment": 253,
+  "code": 825},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 0,
+  "code": 109},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 59},
+"SUM": {
+  "blank": 270,
+  "comment": 253,
+  "code": 993,
+  "nFiles": 12} }

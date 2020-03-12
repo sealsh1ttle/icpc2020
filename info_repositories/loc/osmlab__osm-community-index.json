@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.69089603424072,
+  "n_files"            : 737,
+  "n_lines"            : 39066,
+  "files_per_second"   : 129.505089456151,
+  "lines_per_second"   : 6864.64833744097,
+  "report_file"        : "loc/osmlab__osm-community-index.json"},
+"JSON" :{
+  "nFiles": 658,
+  "blank": 41,
+  "comment": 0,
+  "code": 19483},
+"YAML" :{
+  "nFiles": 47,
+  "blank": 9,
+  "comment": 0,
+  "code": 18145},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 194,
+  "comment": 0,
+  "code": 718},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 79,
+  "comment": 57,
+  "code": 310},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 323,
+  "comment": 57,
+  "code": 38686,
+  "nFiles": 737} }

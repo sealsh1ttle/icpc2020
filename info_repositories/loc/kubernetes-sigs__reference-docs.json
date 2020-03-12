@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.53924989700317,
+  "n_files"            : 100,
+  "n_lines"            : 164051,
+  "files_per_second"   : 15.2922738196361,
+  "lines_per_second"   : 25087.1281238513,
+  "report_file"        : "loc/kubernetes-sigs__reference-docs.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 113632},
+"YAML" :{
+  "nFiles": 45,
+  "blank": 4,
+  "comment": 134,
+  "code": 42208},
+"Go" :{
+  "nFiles": 22,
+  "blank": 620,
+  "comment": 508,
+  "code": 3338},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2671},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 19,
+  "code": 178},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 23,
+  "code": 158},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 84,
+  "comment": 0,
+  "code": 151},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 39,
+  "comment": 0,
+  "code": 111},
+"make" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 5,
+  "code": 78},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 3},
+"SUM": {
+  "blank": 827,
+  "comment": 690,
+  "code": 162534,
+  "nFiles": 100} }

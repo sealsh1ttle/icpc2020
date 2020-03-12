@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 763.488974809647,
+  "n_files"            : 1706,
+  "n_lines"            : 133325,
+  "files_per_second"   : 2.23447889398186,
+  "lines_per_second"   : 174.625966318951,
+  "report_file"        : "loc/redhat-cop__agnosticd.json"},
+"YAML" :{
+  "nFiles": 1367,
+  "blank": 9376,
+  "comment": 8854,
+  "code": 75379},
+"AsciiDoc" :{
+  "nFiles": 178,
+  "blank": 3602,
+  "comment": 18,
+  "code": 13285},
+"JSON" :{
+  "nFiles": 20,
+  "blank": 4,
+  "comment": 0,
+  "code": 6964},
+"Bourne Shell" :{
+  "nFiles": 44,
+  "blank": 846,
+  "comment": 311,
+  "code": 4206},
+"Python" :{
+  "nFiles": 22,
+  "blank": 468,
+  "comment": 722,
+  "code": 2632},
+"Groovy" :{
+  "nFiles": 13,
+  "blank": 254,
+  "comment": 461,
+  "code": 2430},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 456,
+  "comment": 0,
+  "code": 1029},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 83,
+  "comment": 32,
+  "code": 896},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 30,
+  "comment": 1,
+  "code": 617},
+"Windows Resource File" :{
+  "nFiles": 7,
+  "blank": 16,
+  "comment": 0,
+  "code": 163},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 76},
+"INI" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 34},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 33},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 15146,
+  "comment": 10399,
+  "code": 107780,
+  "nFiles": 1706} }

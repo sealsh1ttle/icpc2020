@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0547080039978027,
+  "n_files"            : 2,
+  "n_lines"            : 92,
+  "files_per_second"   : 36.557721975752,
+  "lines_per_second"   : 1681.65521088459,
+  "report_file"        : "loc/martong__vim-compiledb-path.json"},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 55},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 17,
+  "comment": 1,
+  "code": 74,
+  "nFiles": 2} }

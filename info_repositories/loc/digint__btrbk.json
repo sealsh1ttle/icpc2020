@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.33044791221619,
+  "n_files"            : 15,
+  "n_lines"            : 10170,
+  "files_per_second"   : 3.46384491952554,
+  "lines_per_second"   : 2348.48685543831,
+  "report_file"        : "loc/digint__btrbk.json"},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 699,
+  "comment": 588,
+  "code": 5700},
+"AsciiDoc" :{
+  "nFiles": 3,
+  "blank": 252,
+  "comment": 0,
+  "code": 920},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 357,
+  "comment": 0,
+  "code": 665},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 66,
+  "comment": 155,
+  "code": 367},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 11,
+  "code": 142},
+"make" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 11,
+  "code": 113},
+"Python" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 25,
+  "code": 28},
+"SUM": {
+  "blank": 1445,
+  "comment": 790,
+  "code": 7935,
+  "nFiles": 15} }

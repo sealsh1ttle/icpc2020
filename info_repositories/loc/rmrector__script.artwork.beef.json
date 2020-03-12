@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.267914056777954,
+  "n_files"            : 40,
+  "n_lines"            : 8626,
+  "files_per_second"   : 149.30160993065,
+  "lines_per_second"   : 32196.8921815446,
+  "report_file"        : "loc/rmrector__script.artwork.beef.json"},
+"Python" :{
+  "nFiles": 34,
+  "blank": 716,
+  "comment": 186,
+  "code": 5403},
+"PO File" :{
+  "nFiles": 3,
+  "blank": 498,
+  "comment": 96,
+  "code": 1413},
+"XML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 264},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 1228,
+  "comment": 283,
+  "code": 7115,
+  "nFiles": 40} }

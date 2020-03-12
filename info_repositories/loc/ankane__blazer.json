@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.2245337963104,
+  "n_files"            : 97,
+  "n_lines"            : 90143,
+  "files_per_second"   : 4.1766177461616,
+  "lines_per_second"   : 3881.36962363139,
+  "report_file"        : "loc/ankane__blazer.json"},
+"JavaScript" :{
+  "nFiles": 26,
+  "blank": 10745,
+  "comment": 7224,
+  "code": 58726},
+"ERB" :{
+  "nFiles": 22,
+  "blank": 130,
+  "comment": 1,
+  "code": 8001},
+"Ruby" :{
+  "nFiles": 39,
+  "blank": 381,
+  "comment": 63,
+  "code": 2224},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 70,
+  "comment": 27,
+  "code": 934},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 430,
+  "comment": 0,
+  "code": 880},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"R" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 11760,
+  "comment": 7315,
+  "code": 71068,
+  "nFiles": 97} }

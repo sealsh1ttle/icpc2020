@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 97.713222026825,
+  "n_files"            : 526,
+  "n_lines"            : 98061,
+  "files_per_second"   : 5.38309953442737,
+  "lines_per_second"   : 1003.55917004845,
+  "report_file"        : "loc/garyrussell__spring-amqp.json"},
+"Java" :{
+  "nFiles": 453,
+  "blank": 11559,
+  "comment": 19140,
+  "code": 52847},
+"AsciiDoc" :{
+  "nFiles": 16,
+  "blank": 2181,
+  "comment": 12,
+  "code": 6026},
+"XML" :{
+  "nFiles": 43,
+  "blank": 309,
+  "comment": 74,
+  "code": 1587},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 1569},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 284,
+  "comment": 106,
+  "code": 1064},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 102,
+  "comment": 12,
+  "code": 505},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 92,
+  "comment": 0,
+  "code": 151},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Kotlin" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 23,
+  "code": 73},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 14618,
+  "comment": 19391,
+  "code": 64052,
+  "nFiles": 526} }

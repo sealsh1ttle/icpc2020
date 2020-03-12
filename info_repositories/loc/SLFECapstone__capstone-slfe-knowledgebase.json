@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.0973570346832,
+  "n_files"            : 78,
+  "n_lines"            : 28852,
+  "files_per_second"   : 5.16646720487634,
+  "lines_per_second"   : 1911.06297173195,
+  "report_file"        : "loc/SLFECapstone__capstone-slfe-knowledgebase.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 20799},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 214,
+  "comment": 82,
+  "code": 2101},
+"JSX" :{
+  "nFiles": 27,
+  "blank": 200,
+  "comment": 31,
+  "code": 2073},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 785,
+  "comment": 0,
+  "code": 1778},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 48,
+  "comment": 0,
+  "code": 346},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 70,
+  "comment": 0,
+  "code": 256},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 23,
+  "code": 40},
+"SUM": {
+  "blank": 1323,
+  "comment": 136,
+  "code": 27393,
+  "nFiles": 78} }

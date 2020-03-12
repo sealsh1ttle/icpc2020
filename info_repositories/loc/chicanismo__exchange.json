@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.327894926071167,
+  "n_files"            : 19,
+  "n_lines"            : 25744,
+  "files_per_second"   : 57.9453919206917,
+  "lines_per_second"   : 78512.9562950677,
+  "report_file"        : "loc/chicanismo__exchange.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 3684,
+  "comment": 7631,
+  "code": 14218},
+"JSX" :{
+  "nFiles": 7,
+  "blank": 20,
+  "comment": 1,
+  "code": 84},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 29},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3710,
+  "comment": 7634,
+  "code": 14400,
+  "nFiles": 19} }

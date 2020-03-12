@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 358.52734208107,
+  "n_files"            : 1059,
+  "n_lines"            : 63460,
+  "files_per_second"   : 2.95374961879627,
+  "lines_per_second"   : 177.001842123523,
+  "report_file"        : "loc/DIYgod__RSSHub.json"},
+"JavaScript" :{
+  "nFiles": 978,
+  "blank": 6346,
+  "comment": 2056,
+  "code": 44462},
+"Markdown" :{
+  "nFiles": 66,
+  "blank": 4081,
+  "comment": 0,
+  "code": 5982},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 206},
+"Vuejs Component" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 6,
+  "code": 154},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 1,
+  "code": 42},
+"Stylus" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 35},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 10460,
+  "comment": 2063,
+  "code": 50937,
+  "nFiles": 1059} }

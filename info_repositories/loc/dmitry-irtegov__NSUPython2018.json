@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.29204702377319,
+  "n_files"            : 190,
+  "n_lines"            : 13330,
+  "files_per_second"   : 147.053471355198,
+  "lines_per_second"   : 10316.9619640252,
+  "report_file"        : "loc/dmitry-irtegov__NSUPython2018.json"},
+"Python" :{
+  "nFiles": 165,
+  "blank": 2496,
+  "comment": 1939,
+  "code": 8153},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 27,
+  "comment": 0,
+  "code": 319},
+"TeX" :{
+  "nFiles": 4,
+  "blank": 61,
+  "comment": 12,
+  "code": 205},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 2,
+  "code": 93},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 2599,
+  "comment": 1953,
+  "code": 8778,
+  "nFiles": 190} }

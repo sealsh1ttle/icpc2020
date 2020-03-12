@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.9420659542084,
+  "n_files"            : 119,
+  "n_lines"            : 26157,
+  "files_per_second"   : 4.97033130840085,
+  "lines_per_second"   : 1092.5122355785,
+  "report_file"        : "loc/dorukozturk__pynwb.json"},
+"Python" :{
+  "nFiles": 80,
+  "blank": 1812,
+  "comment": 1480,
+  "code": 9086},
+"Jupyter Notebook" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 7490,
+  "code": 2444},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 4,
+  "comment": 7,
+  "code": 2222},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 343,
+  "comment": 408,
+  "code": 305},
+"make" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 5,
+  "code": 181},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 43,
+  "code": 51},
+"Korn Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 12},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 8},
+"SUM": {
+  "blank": 2244,
+  "comment": 9438,
+  "code": 14475,
+  "nFiles": 119} }

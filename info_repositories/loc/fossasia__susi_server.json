@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 67.2363569736481,
+  "n_files"            : 415,
+  "n_lines"            : 63732,
+  "files_per_second"   : 6.1722558847537,
+  "lines_per_second"   : 947.880029029212,
+  "report_file"        : "loc/fossasia__susi_server.json"},
+"Java" :{
+  "nFiles": 243,
+  "blank": 5139,
+  "comment": 9971,
+  "code": 28570},
+"CSS" :{
+  "nFiles": 17,
+  "blank": 685,
+  "comment": 62,
+  "code": 4060},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 297,
+  "comment": 133,
+  "code": 3322},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 639,
+  "comment": 0,
+  "code": 3157},
+"JSON" :{
+  "nFiles": 30,
+  "blank": 3,
+  "comment": 0,
+  "code": 2176},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 207,
+  "comment": 979,
+  "code": 1613},
+"Bourne Shell" :{
+  "nFiles": 21,
+  "blank": 121,
+  "comment": 69,
+  "code": 590},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 510},
+"INI" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 436},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 114,
+  "comment": 29,
+  "code": 232},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 5,
+  "comment": 18,
+  "code": 229},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 4,
+  "code": 101},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 2,
+  "code": 62},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 15,
+  "code": 57},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 53},
+"Scala" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 7277,
+  "comment": 11282,
+  "code": 45173,
+  "nFiles": 415} }

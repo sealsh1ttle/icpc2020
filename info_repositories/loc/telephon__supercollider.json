@@ -1,0 +1,164 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 971.255271911621,
+  "n_files"            : 4835,
+  "n_lines"            : 1096487,
+  "files_per_second"   : 4.97809395719806,
+  "lines_per_second"   : 1128.93801630739,
+  "report_file"        : "loc/telephon__supercollider.json"},
+"C/C++ Header" :{
+  "nFiles": 3793,
+  "blank": 96660,
+  "comment": 118578,
+  "code": 512825},
+"C++" :{
+  "nFiles": 452,
+  "blank": 36196,
+  "comment": 18123,
+  "code": 170473},
+"Scheme" :{
+  "nFiles": 404,
+  "blank": 11637,
+  "comment": 15,
+  "code": 70615},
+"Qt Linguist" :{
+  "nFiles": 9,
+  "blank": 63,
+  "comment": 0,
+  "code": 23618},
+"C" :{
+  "nFiles": 17,
+  "blank": 1517,
+  "comment": 1525,
+  "code": 7796},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 1338,
+  "comment": 0,
+  "code": 6246},
+"CMake" :{
+  "nFiles": 40,
+  "blank": 665,
+  "comment": 411,
+  "code": 3333},
+"Python" :{
+  "nFiles": 25,
+  "blank": 778,
+  "comment": 1061,
+  "code": 2664},
+"Objective C++" :{
+  "nFiles": 8,
+  "blank": 317,
+  "comment": 271,
+  "code": 1285},
+"Qt" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 1223},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 155,
+  "comment": 53,
+  "code": 1176},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 83,
+  "comment": 2,
+  "code": 1009},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 221,
+  "comment": 548,
+  "code": 790},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 99,
+  "comment": 38,
+  "code": 715},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 78,
+  "comment": 57,
+  "code": 314},
+"Bourne Shell" :{
+  "nFiles": 18,
+  "blank": 69,
+  "comment": 63,
+  "code": 284},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 27,
+  "code": 179},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 16,
+  "code": 160},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 146},
+"make" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 24,
+  "code": 130},
+"lex" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 18,
+  "code": 130},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 3,
+  "code": 100},
+"diff" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 109,
+  "code": 85},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 21,
+  "code": 49},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 3,
+  "code": 26},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Objective C" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 15,
+  "code": 20},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 150072,
+  "comment": 140981,
+  "code": 805434,
+  "nFiles": 4835} }

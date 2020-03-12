@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.40648317337036,
+  "n_files"            : 5,
+  "n_lines"            : 249,
+  "files_per_second"   : 0.675084231336304,
+  "lines_per_second"   : 33.6191947205479,
+  "report_file"        : "loc/linuxgurugamer__OrbitalTug.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 54,
+  "comment": 0,
+  "code": 187},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 55,
+  "comment": 1,
+  "code": 193,
+  "nFiles": 5} }

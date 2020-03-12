@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.635560989379883,
+  "n_files"            : 4,
+  "n_lines"            : 497,
+  "files_per_second"   : 6.29365248471717,
+  "lines_per_second"   : 781.986321226108,
+  "report_file"        : "loc/dreisel__proj07.json"},
+"Java" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 20,
+  "code": 431},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 35,
+  "comment": 20,
+  "code": 442,
+  "nFiles": 4} }

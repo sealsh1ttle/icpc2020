@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.43101191520691,
+  "n_files"            : 195,
+  "n_lines"            : 16388,
+  "files_per_second"   : 136.267209187986,
+  "lines_per_second"   : 11452.0360213985,
+  "report_file"        : "loc/svennoreillie__ACE_Informatica_JavaSemester1.json"},
+"Java" :{
+  "nFiles": 147,
+  "blank": 2268,
+  "comment": 1238,
+  "code": 9287},
+"XMI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3166},
+"XML" :{
+  "nFiles": 19,
+  "blank": 5,
+  "comment": 0,
+  "code": 277},
+"INI" :{
+  "nFiles": 24,
+  "blank": 0,
+  "comment": 0,
+  "code": 105},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2273,
+  "comment": 1238,
+  "code": 12877,
+  "nFiles": 195} }

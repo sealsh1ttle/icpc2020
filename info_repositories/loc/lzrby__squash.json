@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.181044816970825,
+  "n_files"            : 19,
+  "n_lines"            : 15954,
+  "files_per_second"   : 104.946390169578,
+  "lines_per_second"   : 88121.8267771285,
+  "report_file"        : "loc/lzrby__squash.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 14997},
+"Python" :{
+  "nFiles": 4,
+  "blank": 96,
+  "comment": 1,
+  "code": 305},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 28,
+  "comment": 34,
+  "code": 204},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 157},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 170,
+  "comment": 55,
+  "code": 15729,
+  "nFiles": 19} }

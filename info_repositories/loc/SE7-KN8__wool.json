@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.79741907119751,
+  "n_files"            : 64,
+  "n_lines"            : 2011,
+  "files_per_second"   : 80.2589282243892,
+  "lines_per_second"   : 2521.88601030073,
+  "report_file"        : "loc/SE7-KN8__wool.json"},
+"Java" :{
+  "nFiles": 20,
+  "blank": 209,
+  "comment": 2,
+  "code": 1032},
+"JSON" :{
+  "nFiles": 39,
+  "blank": 5,
+  "comment": 0,
+  "code": 449},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 4,
+  "code": 42},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 267,
+  "comment": 30,
+  "code": 1714,
+  "nFiles": 64} }

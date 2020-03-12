@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 68.7570481300354,
+  "n_files"            : 348,
+  "n_lines"            : 66199,
+  "files_per_second"   : 5.06129930624497,
+  "lines_per_second"   : 962.795841304915,
+  "report_file"        : "loc/beeware__voc.json"},
+"Java" :{
+  "nFiles": 144,
+  "blank": 2636,
+  "comment": 1920,
+  "code": 20638},
+"Python" :{
+  "nFiles": 175,
+  "blank": 6747,
+  "comment": 15073,
+  "code": 16777},
+"reStructuredText" :{
+  "nFiles": 20,
+  "blank": 508,
+  "comment": 285,
+  "code": 851},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"XML" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 95,
+  "code": 157},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 5,
+  "code": 135},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 49},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 10011,
+  "comment": 17380,
+  "code": 38808,
+  "nFiles": 348} }

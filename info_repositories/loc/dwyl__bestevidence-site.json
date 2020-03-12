@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.401412010192871,
+  "n_files"            : 61,
+  "n_lines"            : 6828,
+  "files_per_second"   : 151.963564744091,
+  "lines_per_second"   : 17009.9544274205,
+  "report_file"        : "loc/dwyl__bestevidence-site.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 4424},
+"HTML" :{
+  "nFiles": 22,
+  "blank": 89,
+  "comment": 1,
+  "code": 921},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 25,
+  "comment": 31,
+  "code": 482},
+"LESS" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 3,
+  "code": 218},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 3,
+  "code": 195},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 42,
+  "comment": 89,
+  "code": 87},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 77},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 5,
+  "code": 21},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 9},
+"SUM": {
+  "blank": 250,
+  "comment": 135,
+  "code": 6443,
+  "nFiles": 61} }

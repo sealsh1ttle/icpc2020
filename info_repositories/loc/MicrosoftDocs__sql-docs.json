@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5697.09867715836,
+  "n_files"            : 23945,
+  "n_lines"            : 2154836,
+  "files_per_second"   : 4.20301654524676,
+  "lines_per_second"   : 378.233926092852,
+  "report_file"        : "loc/MicrosoftDocs__sql-docs.json"},
+"Markdown" :{
+  "nFiles": 23207,
+  "blank": 533473,
+  "comment": 0,
+  "code": 1494483},
+"YAML" :{
+  "nFiles": 175,
+  "blank": 131,
+  "comment": 48,
+  "code": 49937},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 0,
+  "code": 14398},
+"C#" :{
+  "nFiles": 51,
+  "blank": 2756,
+  "comment": 4302,
+  "code": 12472},
+"Visual Basic" :{
+  "nFiles": 103,
+  "blank": 3084,
+  "comment": 4324,
+  "code": 11425},
+"SQL" :{
+  "nFiles": 236,
+  "blank": 1551,
+  "comment": 2961,
+  "code": 10524},
+"SVG" :{
+  "nFiles": 106,
+  "blank": 11,
+  "comment": 1,
+  "code": 4357},
+"C++" :{
+  "nFiles": 3,
+  "blank": 491,
+  "comment": 492,
+  "code": 1532},
+"Java" :{
+  "nFiles": 26,
+  "blank": 129,
+  "comment": 94,
+  "code": 618},
+"XML" :{
+  "nFiles": 8,
+  "blank": 8,
+  "comment": 33,
+  "code": 614},
+"DOS Batch" :{
+  "nFiles": 16,
+  "blank": 56,
+  "comment": 107,
+  "code": 202},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 152},
+"INI" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 541719,
+  "comment": 12365,
+  "code": 1600752,
+  "nFiles": 23945} }

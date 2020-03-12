@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.743923902511597,
+  "n_files"            : 90,
+  "n_lines"            : 12443,
+  "files_per_second"   : 120.980115971737,
+  "lines_per_second"   : 16726.173144848,
+  "report_file"        : "loc/downshift-js__downshift.json"},
+"JavaScript" :{
+  "nFiles": 61,
+  "blank": 1055,
+  "comment": 532,
+  "code": 7160},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 661,
+  "comment": 0,
+  "code": 2237},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 2,
+  "code": 451},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 270},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 24},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1765,
+  "comment": 535,
+  "code": 10143,
+  "nFiles": 90} }

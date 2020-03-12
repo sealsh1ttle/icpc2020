@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.242221117019653,
+  "n_files"            : 9,
+  "n_lines"            : 1182,
+  "files_per_second"   : 37.1561328373767,
+  "lines_per_second"   : 4879.8387793088,
+  "report_file"        : "loc/gradle__android-relocation-test.json"},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 711},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 37,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 61},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 1,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 104,
+  "comment": 40,
+  "code": 1038,
+  "nFiles": 9} }

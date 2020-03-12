@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.9692499637604,
+  "n_files"            : 4199,
+  "n_lines"            : 640521,
+  "files_per_second"   : 105.055761711996,
+  "lines_per_second"   : 16025.3444981017,
+  "report_file"        : "loc/apache__groovy.json"},
+"Java" :{
+  "nFiles": 1631,
+  "blank": 35490,
+  "comment": 92803,
+  "code": 190857},
+"Groovy" :{
+  "nFiles": 2310,
+  "blank": 33799,
+  "comment": 57273,
+  "code": 176514},
+"AsciiDoc" :{
+  "nFiles": 76,
+  "blank": 6365,
+  "comment": 210,
+  "code": 19187},
+"ANTLR Grammar" :{
+  "nFiles": 4,
+  "blank": 981,
+  "comment": 1915,
+  "code": 5408},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 1357,
+  "comment": 19,
+  "code": 5176},
+"Gradle" :{
+  "nFiles": 52,
+  "blank": 372,
+  "comment": 1128,
+  "code": 3799},
+"HTML" :{
+  "nFiles": 75,
+  "blank": 437,
+  "comment": 1343,
+  "code": 2541},
+"XML" :{
+  "nFiles": 16,
+  "blank": 144,
+  "comment": 346,
+  "code": 529},
+"DOS Batch" :{
+  "nFiles": 9,
+  "blank": 114,
+  "comment": 19,
+  "code": 517},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 104,
+  "comment": 270,
+  "code": 445},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 70,
+  "comment": 451,
+  "code": 223},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 61,
+  "code": 100},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 17,
+  "code": 57},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 16,
+  "code": 18},
+"SUM": {
+  "blank": 79279,
+  "comment": 155871,
+  "code": 405371,
+  "nFiles": 4199} }

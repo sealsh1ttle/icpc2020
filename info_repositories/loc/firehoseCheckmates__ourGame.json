@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.7264971733093,
+  "n_files"            : 106,
+  "n_lines"            : 4153,
+  "files_per_second"   : 4.12026554901429,
+  "lines_per_second"   : 161.428894576003,
+  "report_file"        : "loc/firehoseCheckmates__ourGame.json"},
+"Ruby" :{
+  "nFiles": 69,
+  "blank": 343,
+  "comment": 647,
+  "code": 703},
+"ERB" :{
+  "nFiles": 19,
+  "blank": 72,
+  "comment": 4,
+  "code": 301},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 3,
+  "code": 167},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 19,
+  "comment": 110,
+  "code": 129},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 327,
+  "comment": 1192,
+  "code": 99},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 17,
+  "code": 1},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 777,
+  "comment": 1976,
+  "code": 1400,
+  "nFiles": 106} }

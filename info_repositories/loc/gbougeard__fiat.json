@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.475723028183,
+  "n_files"            : 109,
+  "n_lines"            : 7638,
+  "files_per_second"   : 2.8329552097087,
+  "lines_per_second"   : 198.514787997753,
+  "report_file"        : "loc/gbougeard__fiat.json"},
+"Java" :{
+  "nFiles": 64,
+  "blank": 671,
+  "comment": 1112,
+  "code": 3056},
+"Groovy" :{
+  "nFiles": 18,
+  "blank": 355,
+  "comment": 272,
+  "code": 1345},
+"Gradle" :{
+  "nFiles": 9,
+  "blank": 51,
+  "comment": 90,
+  "code": 192},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 2,
+  "code": 55},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 12,
+  "comment": 5,
+  "code": 51},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 37},
+"XML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 17,
+  "code": 11},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 5},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1169,
+  "comment": 1520,
+  "code": 4949,
+  "nFiles": 109} }

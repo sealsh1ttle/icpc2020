@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 627.065405130386,
+  "n_files"            : 2067,
+  "n_lines"            : 440158,
+  "files_per_second"   : 3.29630686542213,
+  "lines_per_second"   : 701.93315784735,
+  "report_file"        : "loc/tomplus__kubernetes_asyncio.json"},
+"Python" :{
+  "nFiles": 1375,
+  "blank": 59325,
+  "comment": 82545,
+  "code": 127484},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 96484},
+"Markdown" :{
+  "nFiles": 668,
+  "blank": 18855,
+  "comment": 0,
+  "code": 50054},
+"reStructuredText" :{
+  "nFiles": 13,
+  "blank": 1203,
+  "comment": 2364,
+  "code": 1229},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 78,
+  "comment": 82,
+  "code": 345},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 44},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 36},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 6},
+"SUM": {
+  "blank": 79476,
+  "comment": 85000,
+  "code": 275682,
+  "nFiles": 2067} }

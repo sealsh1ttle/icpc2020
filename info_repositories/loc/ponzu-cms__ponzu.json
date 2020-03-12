@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 128.16199016571,
+  "n_files"            : 348,
+  "n_lines"            : 116730,
+  "files_per_second"   : 2.71531363979323,
+  "lines_per_second"   : 910.800463140989,
+  "report_file"        : "loc/ponzu-cms__ponzu.json"},
+"Go" :{
+  "nFiles": 216,
+  "blank": 7205,
+  "comment": 7263,
+  "code": 48931},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 10844,
+  "comment": 0,
+  "code": 14558},
+"Sass" :{
+  "nFiles": 31,
+  "blank": 1556,
+  "comment": 294,
+  "code": 7717},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 1019,
+  "comment": 2085,
+  "code": 5180},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 1363,
+  "comment": 0,
+  "code": 4690},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 631,
+  "comment": 42,
+  "code": 1777},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1112},
+"XML" :{
+  "nFiles": 1,
+  "blank": 69,
+  "comment": 0,
+  "code": 113},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 20,
+  "code": 84},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 2,
+  "code": 83},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 11,
+  "code": 8},
+"Mustache" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 22740,
+  "comment": 9718,
+  "code": 84272,
+  "nFiles": 348} }

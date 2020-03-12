@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.7912950515747,
+  "n_files"            : 228,
+  "n_lines"            : 26206,
+  "files_per_second"   : 3.22073497643872,
+  "lines_per_second"   : 370.186757862075,
+  "report_file"        : "loc/cloudfoundry__docs-bosh.json"},
+"Markdown" :{
+  "nFiles": 215,
+  "blank": 6797,
+  "comment": 0,
+  "code": 18636},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 6,
+  "code": 375},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 36,
+  "comment": 52,
+  "code": 239},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 43},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 6849,
+  "comment": 61,
+  "code": 19296,
+  "nFiles": 228} }

@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2655.11694407463,
+  "n_files"            : 6173,
+  "n_lines"            : 870458,
+  "files_per_second"   : 2.32494467476325,
+  "lines_per_second"   : 327.841680172537,
+  "report_file"        : "loc/angular__angular.json"},
+"TypeScript" :{
+  "nFiles": 4354,
+  "blank": 75034,
+  "comment": 97283,
+  "code": 405645},
+"JavaScript" :{
+  "nFiles": 435,
+  "blank": 25726,
+  "comment": 28781,
+  "code": 120917},
+"Markdown" :{
+  "nFiles": 265,
+  "blank": 23945,
+  "comment": 0,
+  "code": 43564},
+"JSON" :{
+  "nFiles": 358,
+  "blank": 70,
+  "comment": 0,
+  "code": 16801},
+"HTML" :{
+  "nFiles": 465,
+  "blank": 1539,
+  "comment": 1296,
+  "code": 9766},
+"CSS" :{
+  "nFiles": 103,
+  "blank": 973,
+  "comment": 161,
+  "code": 5480},
+"Sass" :{
+  "nFiles": 48,
+  "blank": 714,
+  "comment": 76,
+  "code": 3717},
+"Starlark" :{
+  "nFiles": 20,
+  "blank": 390,
+  "comment": 670,
+  "code": 1857},
+"Bourne Shell" :{
+  "nFiles": 56,
+  "blank": 424,
+  "comment": 449,
+  "code": 1455},
+"SVG" :{
+  "nFiles": 43,
+  "blank": 3,
+  "comment": 11,
+  "code": 1394},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 73,
+  "comment": 282,
+  "code": 711},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 45,
+  "comment": 34,
+  "code": 291},
+"XML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 201},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 44,
+  "code": 154},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 130,
+  "code": 109},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 34},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 27,
+  "code": 15},
+"diff" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 13,
+  "code": 11},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 26,
+  "code": 9},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 129043,
+  "comment": 129284,
+  "code": 612131,
+  "nFiles": 6173} }

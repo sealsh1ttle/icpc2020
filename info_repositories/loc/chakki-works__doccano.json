@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.6867849826813,
+  "n_files"            : 168,
+  "n_lines"            : 21111,
+  "files_per_second"   : 3.84555650104717,
+  "lines_per_second"   : 483.23537674766,
+  "report_file"        : "loc/chakki-works__doccano.json"},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 9646},
+"Python" :{
+  "nFiles": 46,
+  "blank": 919,
+  "comment": 203,
+  "code": 3332},
+"Vuejs Component" :{
+  "nFiles": 16,
+  "blank": 203,
+  "comment": 28,
+  "code": 1394},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 165,
+  "comment": 7,
+  "code": 1071},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 254,
+  "comment": 22,
+  "code": 890},
+"HTML" :{
+  "nFiles": 20,
+  "blank": 36,
+  "comment": 13,
+  "code": 755},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 34,
+  "comment": 26,
+  "code": 658},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 336,
+  "comment": 0,
+  "code": 615},
+"Pug" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 0,
+  "code": 232},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 41,
+  "comment": 6,
+  "code": 134},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 40},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2037,
+  "comment": 305,
+  "code": 18769,
+  "nFiles": 168} }

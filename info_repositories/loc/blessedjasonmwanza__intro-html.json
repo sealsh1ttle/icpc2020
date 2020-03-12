@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0539109706878662,
+  "n_files"            : 3,
+  "n_lines"            : 147,
+  "files_per_second"   : 55.6473007575657,
+  "lines_per_second"   : 2726.71773712072,
+  "report_file"        : "loc/blessedjasonmwanza__intro-html.json"},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 1,
+  "code": 108},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 17,
+  "comment": 1,
+  "code": 129,
+  "nFiles": 3} }

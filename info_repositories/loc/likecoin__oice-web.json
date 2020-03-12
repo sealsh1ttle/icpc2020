@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 135.693500995636,
+  "n_files"            : 731,
+  "n_lines"            : 80829,
+  "files_per_second"   : 5.38714083310084,
+  "lines_per_second"   : 595.673332966768,
+  "report_file"        : "loc/likecoin__oice-web.json"},
+"JSX" :{
+  "nFiles": 248,
+  "blank": 3908,
+  "comment": 687,
+  "code": 27352},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 24136},
+"Sass" :{
+  "nFiles": 144,
+  "blank": 2698,
+  "comment": 64,
+  "code": 9980},
+"JavaScript" :{
+  "nFiles": 212,
+  "blank": 1127,
+  "comment": 232,
+  "code": 8841},
+"SVG" :{
+  "nFiles": 112,
+  "blank": 0,
+  "comment": 47,
+  "code": 1456},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 68,
+  "comment": 0,
+  "code": 97},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 79},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 7802,
+  "comment": 1031,
+  "code": 71996,
+  "nFiles": 731} }

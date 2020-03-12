@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.758007049560547,
+  "n_files"            : 4,
+  "n_lines"            : 700,
+  "files_per_second"   : 5.27699577770285,
+  "lines_per_second"   : 923.474261097999,
+  "report_file"        : "loc/terkelg__awesome-creative-coding.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 111,
+  "comment": 0,
+  "code": 539},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 113,
+  "comment": 0,
+  "code": 587,
+  "nFiles": 4} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.21558594703674,
+  "n_files"            : 18,
+  "n_lines"            : 808,
+  "files_per_second"   : 5.59773562158633,
+  "lines_per_second"   : 251.276132346764,
+  "report_file"        : "loc/conda-forge__pyproj-feedstock.json"},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 47,
+  "comment": 26,
+  "code": 368},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 0,
+  "code": 146},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 16,
+  "code": 73},
+"Python" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 8,
+  "code": 47},
+"SUM": {
+  "blank": 124,
+  "comment": 50,
+  "code": 634,
+  "nFiles": 18} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 40.2871789932251,
+  "n_files"            : 151,
+  "n_lines"            : 17034,
+  "files_per_second"   : 3.74809067731928,
+  "lines_per_second"   : 422.814414552692,
+  "report_file"        : "loc/sysco-middleware__sysco-middleware.github.io.json"},
+"Markdown" :{
+  "nFiles": 129,
+  "blank": 4255,
+  "comment": 0,
+  "code": 10243},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 80,
+  "comment": 1,
+  "code": 1465},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 65,
+  "comment": 3,
+  "code": 453},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 7,
+  "code": 258},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 6,
+  "code": 142},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 14},
+"SUM": {
+  "blank": 4441,
+  "comment": 18,
+  "code": 12575,
+  "nFiles": 151} }

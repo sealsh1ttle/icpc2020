@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.1474409103394,
+  "n_files"            : 60,
+  "n_lines"            : 7484,
+  "files_per_second"   : 5.38240125985772,
+  "lines_per_second"   : 671.364850479586,
+  "report_file"        : "loc/JuliaDiffEq__juliadiffeq.github.io.json"},
+"Markdown" :{
+  "nFiles": 35,
+  "blank": 1228,
+  "comment": 0,
+  "code": 4468},
+"Sass" :{
+  "nFiles": 8,
+  "blank": 165,
+  "comment": 2,
+  "code": 1179},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 3,
+  "comment": 4,
+  "code": 234},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 5,
+  "code": 75},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 15,
+  "code": 19},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 1416,
+  "comment": 26,
+  "code": 6042,
+  "nFiles": 60} }

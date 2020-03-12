@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.7688210010529,
+  "n_files"            : 99,
+  "n_lines"            : 15538,
+  "files_per_second"   : 3.84185213580222,
+  "lines_per_second"   : 602.976752384797,
+  "report_file"        : "loc/carpentries__workshop-template.json"},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 14,
+  "code": 7397},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 387,
+  "comment": 0,
+  "code": 1942},
+"Python" :{
+  "nFiles": 10,
+  "blank": 461,
+  "comment": 301,
+  "code": 1815},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 2,
+  "comment": 2,
+  "code": 1027},
+"HTML" :{
+  "nFiles": 38,
+  "blank": 81,
+  "comment": 215,
+  "code": 1015},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 24,
+  "code": 190},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 58,
+  "code": 151},
+"R" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 23,
+  "code": 73},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 19,
+  "code": 68},
+"make" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 28,
+  "code": 67},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 3,
+  "code": 21},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 1077,
+  "comment": 688,
+  "code": 13773,
+  "nFiles": 99} }

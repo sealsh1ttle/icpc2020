@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.3636720180511,
+  "n_files"            : 1320,
+  "n_lines"            : 175702,
+  "files_per_second"   : 85.9169603756902,
+  "lines_per_second"   : 11436.1983120678,
+  "report_file"        : "loc/meetzamers__meetzam.json"},
+"JavaScript" :{
+  "nFiles": 242,
+  "blank": 8615,
+  "comment": 4417,
+  "code": 35416},
+"JSON" :{
+  "nFiles": 287,
+  "blank": 39,
+  "comment": 0,
+  "code": 22338},
+"Swift" :{
+  "nFiles": 198,
+  "blank": 4662,
+  "comment": 5163,
+  "code": 16689},
+"Markdown" :{
+  "nFiles": 105,
+  "blank": 4480,
+  "comment": 2,
+  "code": 11445},
+"XML" :{
+  "nFiles": 87,
+  "blank": 319,
+  "comment": 75,
+  "code": 9962},
+"C/C++ Header" :{
+  "nFiles": 231,
+  "blank": 9217,
+  "comment": 18868,
+  "code": 8738},
+"Objective C" :{
+  "nFiles": 106,
+  "blank": 1632,
+  "comment": 950,
+  "code": 6759},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 242,
+  "comment": 0,
+  "code": 3330},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 93,
+  "comment": 85,
+  "code": 559},
+"YAML" :{
+  "nFiles": 25,
+  "blank": 90,
+  "comment": 20,
+  "code": 493},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 59,
+  "code": 430},
+"Ruby" :{
+  "nFiles": 8,
+  "blank": 38,
+  "comment": 69,
+  "code": 149},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 83},
+"make" :{
+  "nFiles": 6,
+  "blank": 24,
+  "comment": 28,
+  "code": 61},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 29507,
+  "comment": 29737,
+  "code": 116458,
+  "nFiles": 1320} }

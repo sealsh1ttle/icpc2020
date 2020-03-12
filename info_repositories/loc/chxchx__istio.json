@@ -1,0 +1,139 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 92.8806340694427,
+  "n_files"            : 6107,
+  "n_lines"            : 2202549,
+  "files_per_second"   : 65.7510584545974,
+  "lines_per_second"   : 23713.7593004937,
+  "report_file"        : "loc/chxchx__istio.json"},
+"Go" :{
+  "nFiles": 4687,
+  "blank": 149065,
+  "comment": 200817,
+  "code": 1726588},
+"YAML" :{
+  "nFiles": 582,
+  "blank": 585,
+  "comment": 1566,
+  "code": 19500},
+"HTML" :{
+  "nFiles": 74,
+  "blank": 2106,
+  "comment": 194,
+  "code": 16762},
+"JSON" :{
+  "nFiles": 38,
+  "blank": 41,
+  "comment": 0,
+  "code": 13227},
+"Python" :{
+  "nFiles": 53,
+  "blank": 1307,
+  "comment": 801,
+  "code": 13055},
+"Protocol Buffers" :{
+  "nFiles": 292,
+  "blank": 4492,
+  "comment": 13196,
+  "code": 10860},
+"Bourne Shell" :{
+  "nFiles": 114,
+  "blank": 1335,
+  "comment": 1741,
+  "code": 5641},
+"Markdown" :{
+  "nFiles": 76,
+  "blank": 1074,
+  "comment": 0,
+  "code": 3778},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 272,
+  "comment": 167,
+  "code": 2827},
+"Assembly" :{
+  "nFiles": 37,
+  "blank": 445,
+  "comment": 795,
+  "code": 1995},
+"make" :{
+  "nFiles": 76,
+  "blank": 568,
+  "comment": 1829,
+  "code": 1743},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 219,
+  "comment": 20,
+  "code": 1042},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 82,
+  "comment": 63,
+  "code": 260},
+"Dockerfile" :{
+  "nFiles": 16,
+  "blank": 58,
+  "comment": 142,
+  "code": 209},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 38,
+  "comment": 51,
+  "code": 200},
+"Java" :{
+  "nFiles": 6,
+  "blank": 30,
+  "comment": 77,
+  "code": 197},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 25,
+  "code": 103},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 0,
+  "code": 45},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 1,
+  "code": 33},
+"diff" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 1032,
+  "code": 32},
+"XML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 22,
+  "code": 30},
+"C" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 7,
+  "code": 29},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 161791,
+  "comment": 222546,
+  "code": 1818212,
+  "nFiles": 6107} }

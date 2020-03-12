@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.9153368473053,
+  "n_files"            : 54,
+  "n_lines"            : 6759,
+  "files_per_second"   : 3.01417720806753,
+  "lines_per_second"   : 377.274513876452,
+  "report_file"        : "loc/feuerbach__tasty.json"},
+"Haskell" :{
+  "nFiles": 39,
+  "blank": 504,
+  "comment": 1255,
+  "code": 3023},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 375,
+  "comment": 0,
+  "code": 1076},
+"RobotFramework" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 214},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 36,
+  "code": 138},
+"awk" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 16,
+  "code": 29},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"R" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 920,
+  "comment": 1307,
+  "code": 4532,
+  "nFiles": 54} }

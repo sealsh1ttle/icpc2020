@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 90.7203199863434,
+  "n_files"            : 318,
+  "n_lines"            : 29196,
+  "files_per_second"   : 3.50527864152012,
+  "lines_per_second"   : 321.824261691262,
+  "report_file"        : "loc/spinnaker__kork.json"},
+"Java" :{
+  "nFiles": 197,
+  "blank": 3250,
+  "comment": 3864,
+  "code": 15593},
+"Groovy" :{
+  "nFiles": 37,
+  "blank": 544,
+  "comment": 573,
+  "code": 2229},
+"Kotlin" :{
+  "nFiles": 29,
+  "blank": 193,
+  "comment": 492,
+  "code": 997},
+"Gradle" :{
+  "nFiles": 31,
+  "blank": 107,
+  "comment": 104,
+  "code": 607},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 52,
+  "code": 186},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 4,
+  "code": 104},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 2,
+  "code": 68},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 4172,
+  "comment": 5093,
+  "code": 19931,
+  "nFiles": 318} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.559012889862061,
+  "n_files"            : 100,
+  "n_lines"            : 1659,
+  "files_per_second"   : 178.886751653751,
+  "lines_per_second"   : 2967.73120993573,
+  "report_file"        : "loc/Halium__halium-devices.json"},
+"XML" :{
+  "nFiles": 98,
+  "blank": 312,
+  "comment": 8,
+  "code": 1091},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 47,
+  "code": 151},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 349,
+  "comment": 55,
+  "code": 1255,
+  "nFiles": 100} }

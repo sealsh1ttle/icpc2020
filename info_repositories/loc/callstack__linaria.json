@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.7910900115967,
+  "n_files"            : 146,
+  "n_lines"            : 15094,
+  "files_per_second"   : 5.07101328713825,
+  "lines_per_second"   : 524.259414767566,
+  "report_file"        : "loc/callstack__linaria.json"},
+"JavaScript" :{
+  "nFiles": 108,
+  "blank": 1793,
+  "comment": 1773,
+  "code": 8964},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 564,
+  "comment": 0,
+  "code": 1417},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 259},
+"TypeScript" :{
+  "nFiles": 7,
+  "blank": 40,
+  "comment": 21,
+  "code": 113},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 83},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 2409,
+  "comment": 1794,
+  "code": 10891,
+  "nFiles": 146} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.6718850135803,
+  "n_files"            : 1631,
+  "n_lines"            : 116781,
+  "files_per_second"   : 97.8293695446823,
+  "lines_per_second"   : 7004.66683310702,
+  "report_file"        : "loc/castleproject__Windsor.json"},
+"C#" :{
+  "nFiles": 1389,
+  "blank": 13305,
+  "comment": 24584,
+  "code": 65644},
+"Markdown" :{
+  "nFiles": 99,
+  "blank": 2822,
+  "comment": 0,
+  "code": 7556},
+"XML" :{
+  "nFiles": 118,
+  "blank": 258,
+  "comment": 65,
+  "code": 1728},
+"MSBuild script" :{
+  "nFiles": 17,
+  "blank": 108,
+  "comment": 2,
+  "code": 510},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 28,
+  "code": 52},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 30},
+"ASP.NET" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 16517,
+  "comment": 24679,
+  "code": 75585,
+  "nFiles": 1631} }

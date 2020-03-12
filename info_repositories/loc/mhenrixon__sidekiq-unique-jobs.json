@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.4973540306091,
+  "n_files"            : 342,
+  "n_lines"            : 19103,
+  "files_per_second"   : 5.47223166971997,
+  "lines_per_second"   : 305.660940311873,
+  "report_file"        : "loc/mhenrixon__sidekiq-unique-jobs.json"},
+"Ruby" :{
+  "nFiles": 291,
+  "blank": 2523,
+  "comment": 2915,
+  "code": 9831},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 635,
+  "comment": 0,
+  "code": 1242},
+"Lua" :{
+  "nFiles": 20,
+  "blank": 157,
+  "comment": 118,
+  "code": 583},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 68,
+  "comment": 32,
+  "code": 473},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"ERB" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 170},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 26,
+  "code": 43},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 11},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 6,
+  "code": 8},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 16,
+  "code": 0},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 3428,
+  "comment": 3132,
+  "code": 12543,
+  "nFiles": 342} }

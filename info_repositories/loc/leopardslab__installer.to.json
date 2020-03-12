@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.9157590866089,
+  "n_files"            : 67,
+  "n_lines"            : 67134,
+  "files_per_second"   : 3.73972432181671,
+  "lines_per_second"   : 3747.20377046034,
+  "report_file"        : "loc/leopardslab__installer.to.json"},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 2477,
+  "comment": 123,
+  "code": 23034},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 5616,
+  "comment": 4940,
+  "code": 20008},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 5095},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 1,
+  "comment": 14,
+  "code": 4551},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 92,
+  "comment": 51,
+  "code": 635},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 29,
+  "comment": 12,
+  "code": 265},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 51,
+  "comment": 0,
+  "code": 120},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 8266,
+  "comment": 5140,
+  "code": 53728,
+  "nFiles": 67} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 49.2769961357117,
+  "n_files"            : 231,
+  "n_lines"            : 17228,
+  "files_per_second"   : 4.68778574415966,
+  "lines_per_second"   : 349.615466668323,
+  "report_file"        : "loc/nWidart__laravel-modules.json"},
+"PHP" :{
+  "nFiles": 214,
+  "blank": 2531,
+  "comment": 4812,
+  "code": 8739},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 237,
+  "comment": 0,
+  "code": 369},
+"Blade" :{
+  "nFiles": 5,
+  "blank": 20,
+  "comment": 4,
+  "code": 306},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 149},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 2794,
+  "comment": 4816,
+  "code": 9618,
+  "nFiles": 231} }

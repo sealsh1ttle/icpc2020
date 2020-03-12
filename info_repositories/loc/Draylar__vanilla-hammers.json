@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.563021898269653,
+  "n_files"            : 60,
+  "n_lines"            : 1721,
+  "files_per_second"   : 106.567791029797,
+  "lines_per_second"   : 3056.71947270468,
+  "report_file"        : "loc/Draylar__vanilla-hammers.json"},
+"Java" :{
+  "nFiles": 14,
+  "blank": 100,
+  "comment": 22,
+  "code": 631},
+"JSON" :{
+  "nFiles": 41,
+  "blank": 11,
+  "comment": 0,
+  "code": 615},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 7,
+  "code": 44},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 175,
+  "comment": 53,
+  "code": 1493,
+  "nFiles": 60} }

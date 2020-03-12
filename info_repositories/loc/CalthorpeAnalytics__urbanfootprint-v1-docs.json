@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 91.8657989501953,
+  "n_files"            : 85,
+  "n_lines"            : 57558,
+  "files_per_second"   : 0.925262730758837,
+  "lines_per_second"   : 626.544379494319,
+  "report_file"        : "loc/CalthorpeAnalytics__urbanfootprint-v1-docs.json"},
+"SVG" :{
+  "nFiles": 42,
+  "blank": 42,
+  "comment": 41,
+  "code": 48763},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 959,
+  "comment": 30,
+  "code": 3737},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 729,
+  "comment": 0,
+  "code": 1704},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 529},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 65,
+  "comment": 94,
+  "code": 452},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 85,
+  "code": 202},
+"XML" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 38},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"Mustache" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1860,
+  "comment": 250,
+  "code": 55448,
+  "nFiles": 85} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.2513508796692,
+  "n_files"            : 102,
+  "n_lines"            : 10058,
+  "files_per_second"   : 5.29832948542428,
+  "lines_per_second"   : 522.45684278821,
+  "report_file"        : "loc/mulesoft__mule-sftp-connector.json"},
+"Java" :{
+  "nFiles": 66,
+  "blank": 1239,
+  "comment": 1280,
+  "code": 5182},
+"XML" :{
+  "nFiles": 33,
+  "blank": 239,
+  "comment": 12,
+  "code": 1824},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 1,
+  "code": 205},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 2,
+  "code": 26},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 1515,
+  "comment": 1295,
+  "code": 7248,
+  "nFiles": 102} }

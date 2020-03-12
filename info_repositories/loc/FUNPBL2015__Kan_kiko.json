@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.3793489933014,
+  "n_files"            : 78,
+  "n_lines"            : 11388,
+  "files_per_second"   : 2.40894281154746,
+  "lines_per_second"   : 351.70565048593,
+  "report_file"        : "loc/FUNPBL2015__Kan_kiko.json"},
+"XML" :{
+  "nFiles": 9,
+  "blank": 22,
+  "comment": 14,
+  "code": 2289},
+"Swift" :{
+  "nFiles": 25,
+  "blank": 538,
+  "comment": 537,
+  "code": 1534},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 503,
+  "comment": 0,
+  "code": 1358},
+"C/C++ Header" :{
+  "nFiles": 38,
+  "blank": 1045,
+  "comment": 2418,
+  "code": 935},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 123},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 33,
+  "code": 32},
+"SUM": {
+  "blank": 2115,
+  "comment": 3002,
+  "code": 6271,
+  "nFiles": 78} }

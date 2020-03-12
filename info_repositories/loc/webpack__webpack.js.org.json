@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 64.3026421070099,
+  "n_files"            : 253,
+  "n_lines"            : 30871,
+  "files_per_second"   : 3.93451951132844,
+  "lines_per_second"   : 480.089137684665,
+  "report_file"        : "loc/webpack__webpack.js.org.json"},
+"Markdown" :{
+  "nFiles": 124,
+  "blank": 6971,
+  "comment": 0,
+  "code": 17036},
+"Sass" :{
+  "nFiles": 34,
+  "blank": 326,
+  "comment": 9,
+  "code": 1811},
+"JSX" :{
+  "nFiles": 31,
+  "blank": 278,
+  "comment": 159,
+  "code": 1677},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 225,
+  "comment": 127,
+  "code": 1583},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 539},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 43},
+"SVG" :{
+  "nFiles": 26,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 5,
+  "code": 16},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 7817,
+  "comment": 301,
+  "code": 22753,
+  "nFiles": 253} }

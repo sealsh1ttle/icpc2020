@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.2036418914795,
+  "n_files"            : 41,
+  "n_lines"            : 6405,
+  "files_per_second"   : 3.35965282860569,
+  "lines_per_second"   : 524.843326029743,
+  "report_file"        : "loc/Metaswitch__astaire.json"},
+"C++" :{
+  "nFiles": 7,
+  "blank": 474,
+  "comment": 408,
+  "code": 2572},
+"C/C++ Header" :{
+  "nFiles": 7,
+  "blank": 204,
+  "comment": 290,
+  "code": 883},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 147,
+  "comment": 374,
+  "code": 566},
+"make" :{
+  "nFiles": 7,
+  "blank": 61,
+  "comment": 25,
+  "code": 145},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 0,
+  "code": 40},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 12,
+  "comment": 32,
+  "code": 18},
+"SUM": {
+  "blank": 929,
+  "comment": 1129,
+  "code": 4347,
+  "nFiles": 41} }

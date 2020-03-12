@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1276.10241603851,
+  "n_files"            : 3052,
+  "n_lines"            : 1504635,
+  "files_per_second"   : 2.39165756732482,
+  "lines_per_second"   : 1179.08639705498,
+  "report_file"        : "loc/kubernetes__cloud-provider-gcp.json"},
+"Go" :{
+  "nFiles": 2801,
+  "blank": 116979,
+  "comment": 310326,
+  "code": 906204},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 140374},
+"Protocol Buffers" :{
+  "nFiles": 64,
+  "blank": 3361,
+  "comment": 9952,
+  "code": 6161},
+"Markdown" :{
+  "nFiles": 70,
+  "blank": 1543,
+  "comment": 0,
+  "code": 4199},
+"Assembly" :{
+  "nFiles": 33,
+  "blank": 253,
+  "comment": 300,
+  "code": 1558},
+"Bourne Shell" :{
+  "nFiles": 22,
+  "blank": 168,
+  "comment": 430,
+  "code": 924},
+"YAML" :{
+  "nFiles": 38,
+  "blank": 71,
+  "comment": 8,
+  "code": 675},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 50,
+  "code": 306},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 22,
+  "code": 218},
+"make" :{
+  "nFiles": 10,
+  "blank": 43,
+  "comment": 99,
+  "code": 110},
+"Starlark" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 9,
+  "code": 76},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 9,
+  "code": 33},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 45,
+  "code": 11},
+"SUM": {
+  "blank": 122505,
+  "comment": 321257,
+  "code": 1060873,
+  "nFiles": 3052} }

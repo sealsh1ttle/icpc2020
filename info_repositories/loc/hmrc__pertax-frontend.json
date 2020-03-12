@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.46284699440002,
+  "n_files"            : 307,
+  "n_lines"            : 28099,
+  "files_per_second"   : 209.864737170215,
+  "lines_per_second"   : 19208.4340382602,
+  "report_file"        : "loc/hmrc__pertax-frontend.json"},
+"Scala" :{
+  "nFiles": 189,
+  "blank": 3776,
+  "comment": 2858,
+  "code": 15607},
+"HTML" :{
+  "nFiles": 80,
+  "blank": 573,
+  "comment": 2,
+  "code": 3496},
+"Sass" :{
+  "nFiles": 16,
+  "blank": 124,
+  "comment": 10,
+  "code": 822},
+"XML" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 4,
+  "code": 181},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 23,
+  "comment": 15,
+  "code": 155},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 61,
+  "comment": 0,
+  "code": 122},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 6,
+  "code": 102},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 49},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 1,
+  "code": 21},
+"SUM": {
+  "blank": 4605,
+  "comment": 2896,
+  "code": 20598,
+  "nFiles": 307} }

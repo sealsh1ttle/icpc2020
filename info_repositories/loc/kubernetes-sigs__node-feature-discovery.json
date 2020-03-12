@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.381011962890625,
+  "n_files"            : 62,
+  "n_lines"            : 6300,
+  "files_per_second"   : 162.724549459351,
+  "lines_per_second"   : 16534.913896676,
+  "report_file"        : "loc/kubernetes-sigs__node-feature-discovery.json"},
+"Go" :{
+  "nFiles": 44,
+  "blank": 722,
+  "comment": 850,
+  "code": 3302},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 170,
+  "comment": 0,
+  "code": 692},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 5,
+  "code": 241},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 31,
+  "code": 57},
+"make" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 19},
+"R" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 3,
+  "code": 15},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 13,
+  "code": 12},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 13,
+  "code": 9},
+"SUM": {
+  "blank": 979,
+  "comment": 918,
+  "code": 4403,
+  "nFiles": 62} }

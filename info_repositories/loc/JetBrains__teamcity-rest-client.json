@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.423978805541992,
+  "n_files"            : 32,
+  "n_lines"            : 4773,
+  "files_per_second"   : 75.4754709002326,
+  "lines_per_second"   : 11257.6382064628,
+  "report_file"        : "loc/JetBrains__teamcity-rest-client.json"},
+"Kotlin" :{
+  "nFiles": 23,
+  "blank": 790,
+  "comment": 126,
+  "code": 3203},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 47,
+  "comment": 0,
+  "code": 191},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 1,
+  "code": 116},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Java" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 902,
+  "comment": 154,
+  "code": 3717,
+  "nFiles": 32} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.8619229793549,
+  "n_files"            : 244,
+  "n_lines"            : 23485,
+  "files_per_second"   : 4.99366347294794,
+  "lines_per_second"   : 480.640109271239,
+  "report_file"        : "loc/sparcs-kaist__otlplus.json"},
+"JavaScript" :{
+  "nFiles": 70,
+  "blank": 579,
+  "comment": 73,
+  "code": 5069},
+"Python" :{
+  "nFiles": 69,
+  "blank": 846,
+  "comment": 397,
+  "code": 3872},
+"HTML" :{
+  "nFiles": 33,
+  "blank": 335,
+  "comment": 77,
+  "code": 3463},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 96,
+  "comment": 37,
+  "code": 2814},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 758,
+  "comment": 0,
+  "code": 1697},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 335,
+  "comment": 0,
+  "code": 1557},
+"SVG" :{
+  "nFiles": 51,
+  "blank": 7,
+  "comment": 0,
+  "code": 1137},
+"PO File" :{
+  "nFiles": 2,
+  "blank": 86,
+  "comment": 0,
+  "code": 150},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 68},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 16},
+"Pug" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 3043,
+  "comment": 584,
+  "code": 19858,
+  "nFiles": 244} }

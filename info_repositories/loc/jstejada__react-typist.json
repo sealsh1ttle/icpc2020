@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.88281798362732,
+  "n_files"            : 21,
+  "n_lines"            : 1813,
+  "files_per_second"   : 5.40844306597701,
+  "lines_per_second"   : 466.928918029348,
+  "report_file"        : "loc/jstejada__react-typist.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 104,
+  "comment": 7,
+  "code": 819},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 107,
+  "comment": 0,
+  "code": 285},
+"JSX" :{
+  "nFiles": 4,
+  "blank": 51,
+  "comment": 12,
+  "code": 253},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 78},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 58},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 271,
+  "comment": 25,
+  "code": 1517,
+  "nFiles": 21} }

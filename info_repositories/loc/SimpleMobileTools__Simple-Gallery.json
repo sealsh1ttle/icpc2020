@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.42046809196472,
+  "n_files"            : 243,
+  "n_lines"            : 35012,
+  "files_per_second"   : 71.0429080074887,
+  "lines_per_second"   : 10236.0259060008,
+  "report_file"        : "loc/SimpleMobileTools__Simple-Gallery.json"},
+"XML" :{
+  "nFiles": 146,
+  "blank": 1585,
+  "comment": 716,
+  "code": 14127},
+"Kotlin" :{
+  "nFiles": 89,
+  "blank": 2243,
+  "comment": 1163,
+  "code": 12972},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 526,
+  "comment": 0,
+  "code": 1305},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 3,
+  "code": 95},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 8},
+"SUM": {
+  "blank": 4415,
+  "comment": 1905,
+  "code": 28692,
+  "nFiles": 243} }

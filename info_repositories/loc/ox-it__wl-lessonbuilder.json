@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 63.2861111164093,
+  "n_files"            : 332,
+  "n_lines"            : 87101,
+  "files_per_second"   : 5.24601676644841,
+  "lines_per_second"   : 1376.305139682,
+  "report_file"        : "loc/ox-it__wl-lessonbuilder.json"},
+"Java" :{
+  "nFiles": 136,
+  "blank": 8555,
+  "comment": 7846,
+  "code": 30294},
+"JavaScript" :{
+  "nFiles": 35,
+  "blank": 3693,
+  "comment": 2932,
+  "code": 15808},
+"HTML" :{
+  "nFiles": 72,
+  "blank": 833,
+  "comment": 44,
+  "code": 5765},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 496,
+  "comment": 718,
+  "code": 4597},
+"SQL" :{
+  "nFiles": 37,
+  "blank": 185,
+  "comment": 37,
+  "code": 2184},
+"XML" :{
+  "nFiles": 24,
+  "blank": 225,
+  "comment": 71,
+  "code": 1319},
+"Maven" :{
+  "nFiles": 7,
+  "blank": 92,
+  "comment": 63,
+  "code": 892},
+"JSP" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 10,
+  "code": 147},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 78},
+"diff" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 56,
+  "code": 63},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 10,
+  "code": 22},
+"SUM": {
+  "blank": 14145,
+  "comment": 11787,
+  "code": 61169,
+  "nFiles": 332} }

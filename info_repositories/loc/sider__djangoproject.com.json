@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 163.851778030396,
+  "n_files"            : 572,
+  "n_lines"            : 112759,
+  "files_per_second"   : 3.49095998148943,
+  "lines_per_second"   : 688.176847120222,
+  "report_file"        : "loc/sider__djangoproject.com.json"},
+"JavaScript" :{
+  "nFiles": 188,
+  "blank": 9278,
+  "comment": 9265,
+  "code": 39737},
+"Python" :{
+  "nFiles": 134,
+  "blank": 1573,
+  "comment": 649,
+  "code": 24708},
+"HTML" :{
+  "nFiles": 127,
+  "blank": 761,
+  "comment": 20,
+  "code": 5377},
+"Sass" :{
+  "nFiles": 22,
+  "blank": 591,
+  "comment": 114,
+  "code": 4997},
+"SVG" :{
+  "nFiles": 22,
+  "blank": 1,
+  "comment": 17,
+  "code": 4300},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 1066,
+  "comment": 0,
+  "code": 2788},
+"XML" :{
+  "nFiles": 2,
+  "blank": 354,
+  "comment": 0,
+  "code": 2290},
+"JSON" :{
+  "nFiles": 32,
+  "blank": 1,
+  "comment": 0,
+  "code": 1719},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 180,
+  "comment": 42,
+  "code": 587},
+"Ruby" :{
+  "nFiles": 6,
+  "blank": 97,
+  "comment": 77,
+  "code": 469},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 224,
+  "comment": 198,
+  "code": 277},
+"PO File" :{
+  "nFiles": 2,
+  "blank": 72,
+  "comment": 84,
+  "code": 235},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 102,
+  "comment": 4,
+  "code": 183},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 2,
+  "comment": 0,
+  "code": 104},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 0,
+  "code": 75},
+"C#" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 60},
+"make" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 2,
+  "code": 39},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 14328,
+  "comment": 10472,
+  "code": 87959,
+  "nFiles": 572} }

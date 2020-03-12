@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.081151008606,
+  "n_files"            : 136,
+  "n_lines"            : 3196,
+  "files_per_second"   : 4.3756423294087,
+  "lines_per_second"   : 102.827594741104,
+  "report_file"        : "loc/annaroyer__rales_engine.json"},
+"Ruby" :{
+  "nFiles": 129,
+  "blank": 638,
+  "comment": 259,
+  "code": 2045},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 59},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 107,
+  "code": 31},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 682,
+  "comment": 366,
+  "code": 2148,
+  "nFiles": 136} }

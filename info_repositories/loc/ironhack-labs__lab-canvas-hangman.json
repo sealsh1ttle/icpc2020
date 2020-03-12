@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.05938291549683,
+  "n_files"            : 13,
+  "n_lines"            : 6674,
+  "files_per_second"   : 6.31257057741675,
+  "lines_per_second"   : 3240.77661797534,
+  "report_file"        : "loc/ironhack-labs__lab-canvas-hangman.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 1033,
+  "comment": 946,
+  "code": 4458},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 71},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 0,
+  "code": 58},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 40},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 1077,
+  "comment": 948,
+  "code": 4649,
+  "nFiles": 13} }

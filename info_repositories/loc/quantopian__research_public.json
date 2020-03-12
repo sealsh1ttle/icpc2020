@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 81.6603422164917,
+  "n_files"            : 317,
+  "n_lines"            : 1667576,
+  "files_per_second"   : 3.88193327869719,
+  "lines_per_second"   : 20420.8793979708,
+  "report_file"        : "loc/quantopian__research_public.json"},
+"HTML" :{
+  "nFiles": 91,
+  "blank": 15903,
+  "comment": 364,
+  "code": 1482376},
+"Jupyter Notebook" :{
+  "nFiles": 216,
+  "blank": 0,
+  "comment": 150139,
+  "code": 16785},
+"Python" :{
+  "nFiles": 8,
+  "blank": 427,
+  "comment": 496,
+  "code": 1077},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 16333,
+  "comment": 150999,
+  "code": 1500244,
+  "nFiles": 317} }

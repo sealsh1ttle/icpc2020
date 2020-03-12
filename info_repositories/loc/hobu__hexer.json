@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.79481291770935,
+  "n_files"            : 42,
+  "n_lines"            : 7761,
+  "files_per_second"   : 4.77554217389073,
+  "lines_per_second"   : 882.451971703952,
+  "report_file"        : "loc/hobu__hexer.json"},
+"C/C++ Header" :{
+  "nFiles": 21,
+  "blank": 672,
+  "comment": 1525,
+  "code": 2150},
+"C++" :{
+  "nFiles": 10,
+  "blank": 385,
+  "comment": 392,
+  "code": 1628},
+"CMake" :{
+  "nFiles": 8,
+  "blank": 132,
+  "comment": 259,
+  "code": 536},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 36},
+"Python" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 1209,
+  "comment": 2176,
+  "code": 4376,
+  "nFiles": 42} }

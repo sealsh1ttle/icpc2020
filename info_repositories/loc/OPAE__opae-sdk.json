@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 250.568362951279,
+  "n_files"            : 1186,
+  "n_lines"            : 408886,
+  "files_per_second"   : 4.73323920877677,
+  "lines_per_second"   : 1631.83410381104,
+  "report_file"        : "loc/OPAE__opae-sdk.json"},
+"Verilog-SystemVerilog" :{
+  "nFiles": 150,
+  "blank": 5703,
+  "comment": 9183,
+  "code": 134610},
+"C/C++ Header" :{
+  "nFiles": 217,
+  "blank": 7557,
+  "comment": 11625,
+  "code": 54787},
+"C++" :{
+  "nFiles": 199,
+  "blank": 9100,
+  "comment": 14651,
+  "code": 40607},
+"C" :{
+  "nFiles": 184,
+  "blank": 8378,
+  "comment": 12633,
+  "code": 36921},
+"Python" :{
+  "nFiles": 128,
+  "blank": 4764,
+  "comment": 4030,
+  "code": 17904},
+"Markdown" :{
+  "nFiles": 52,
+  "blank": 2591,
+  "comment": 0,
+  "code": 6551},
+"CMake" :{
+  "nFiles": 104,
+  "blank": 1292,
+  "comment": 3118,
+  "code": 5451},
+"JSON" :{
+  "nFiles": 67,
+  "blank": 25,
+  "comment": 0,
+  "code": 4525},
+"reStructuredText" :{
+  "nFiles": 35,
+  "blank": 2169,
+  "comment": 2408,
+  "code": 3679},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 78,
+  "comment": 0,
+  "code": 1154},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 188,
+  "comment": 239,
+  "code": 927},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 5,
+  "comment": 18,
+  "code": 464},
+"make" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 162,
+  "code": 417},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 42,
+  "code": 205},
+"XML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 177},
+"Tcl/Tk" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 132,
+  "code": 169},
+"INI" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 75},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 42005,
+  "comment": 58247,
+  "code": 308634,
+  "nFiles": 1186} }

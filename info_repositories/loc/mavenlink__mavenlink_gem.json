@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.1683449745178,
+  "n_files"            : 147,
+  "n_lines"            : 7103,
+  "files_per_second"   : 5.84067010162301,
+  "lines_per_second"   : 282.219590012437,
+  "report_file"        : "loc/mavenlink__mavenlink_gem.json"},
+"Ruby" :{
+  "nFiles": 144,
+  "blank": 761,
+  "comment": 218,
+  "code": 3693},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 70,
+  "comment": 31,
+  "code": 2089},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 0,
+  "code": 184},
+"SUM": {
+  "blank": 888,
+  "comment": 249,
+  "code": 5966,
+  "nFiles": 147} }

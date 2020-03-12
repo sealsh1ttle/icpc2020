@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0238790512084961,
+  "n_files"            : 1,
+  "n_lines"            : 5,
+  "files_per_second"   : 41.8777107711969,
+  "lines_per_second"   : 209.388553855985,
+  "report_file"        : "loc/Nboaram__Scala-Exercises.json"},
+"Scala" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2,
+  "comment": 0,
+  "code": 3,
+  "nFiles": 1} }

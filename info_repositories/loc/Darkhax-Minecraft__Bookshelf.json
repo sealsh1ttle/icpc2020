@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.846613883972168,
+  "n_files"            : 69,
+  "n_lines"            : 6845,
+  "files_per_second"   : 81.5011439173,
+  "lines_per_second"   : 8085.14971179592,
+  "report_file"        : "loc/Darkhax-Minecraft__Bookshelf.json"},
+"Java" :{
+  "nFiles": 51,
+  "blank": 1182,
+  "comment": 1762,
+  "code": 2482},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 92,
+  "comment": 0,
+  "code": 449},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 29,
+  "comment": 0,
+  "code": 310},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 59,
+  "comment": 0,
+  "code": 161},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 26},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 1420,
+  "comment": 1786,
+  "code": 3639,
+  "nFiles": 69} }

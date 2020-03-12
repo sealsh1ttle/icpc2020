@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.25121784210205,
+  "n_files"            : 16,
+  "n_lines"            : 2980,
+  "files_per_second"   : 7.1072642108505,
+  "lines_per_second"   : 1323.72795927091,
+  "report_file"        : "loc/stefankoegl__python-json-patch.json"},
+"Python" :{
+  "nFiles": 7,
+  "blank": 462,
+  "comment": 408,
+  "code": 1261},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 80,
+  "comment": 0,
+  "code": 318},
+"make" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 5,
+  "code": 139},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 63,
+  "comment": 90,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 639,
+  "comment": 503,
+  "code": 1838,
+  "nFiles": 16} }

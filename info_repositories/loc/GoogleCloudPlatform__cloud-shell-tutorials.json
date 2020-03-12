@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 78.0904138088226,
+  "n_files"            : 301,
+  "n_lines"            : 46258,
+  "files_per_second"   : 3.85450640250024,
+  "lines_per_second"   : 592.364641750353,
+  "report_file"        : "loc/GoogleCloudPlatform__cloud-shell-tutorials.json"},
+"Markdown" :{
+  "nFiles": 281,
+  "blank": 17044,
+  "comment": 0,
+  "code": 28848},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 195},
+"Python" :{
+  "nFiles": 3,
+  "blank": 35,
+  "comment": 53,
+  "code": 72},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 17079,
+  "comment": 53,
+  "code": 29126,
+  "nFiles": 301} }

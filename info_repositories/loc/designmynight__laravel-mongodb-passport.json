@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.141816139221191,
+  "n_files"            : 11,
+  "n_lines"            : 597,
+  "files_per_second"   : 77.5652197303386,
+  "lines_per_second"   : 4209.67601627383,
+  "report_file"        : "loc/designmynight__laravel-mongodb-passport.json"},
+"PHP" :{
+  "nFiles": 7,
+  "blank": 56,
+  "comment": 203,
+  "code": 209},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 0,
+  "code": 54},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 82,
+  "comment": 203,
+  "code": 312,
+  "nFiles": 11} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.286062002182,
+  "n_files"            : 541,
+  "n_lines"            : 42435,
+  "files_per_second"   : 37.869078260851,
+  "lines_per_second"   : 2970.37770055307,
+  "report_file"        : "loc/beeware__toga.json"},
+"Python" :{
+  "nFiles": 424,
+  "blank": 6170,
+  "comment": 4247,
+  "code": 25864},
+"reStructuredText" :{
+  "nFiles": 101,
+  "blank": 1567,
+  "comment": 1071,
+  "code": 2445},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 12,
+  "code": 199},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"make" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 5,
+  "code": 149},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 128},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 1,
+  "code": 99},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 72},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 61},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 0,
+  "code": 47},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 7859,
+  "comment": 5337,
+  "code": 29239,
+  "nFiles": 541} }

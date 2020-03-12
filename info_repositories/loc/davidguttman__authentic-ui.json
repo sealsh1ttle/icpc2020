@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.27760887145996,
+  "n_files"            : 21,
+  "n_lines"            : 6919,
+  "files_per_second"   : 2.8855631528034,
+  "lines_per_second"   : 950.72435496413,
+  "report_file"        : "loc/davidguttman__authentic-ui.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5726},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 154,
+  "comment": 2,
+  "code": 812},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 0,
+  "code": 176},
+"SUM": {
+  "blank": 203,
+  "comment": 2,
+  "code": 6714,
+  "nFiles": 21} }

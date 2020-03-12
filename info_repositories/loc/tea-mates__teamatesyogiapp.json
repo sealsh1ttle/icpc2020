@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.5954809188843,
+  "n_files"            : 42,
+  "n_lines"            : 2285,
+  "files_per_second"   : 3.62210073853851,
+  "lines_per_second"   : 197.05952827525,
+  "report_file"        : "loc/tea-mates__teamatesyogiapp.json"},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 183,
+  "comment": 53,
+  "code": 1646},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 1,
+  "code": 172},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 63},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 32},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 26,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 250,
+  "comment": 80,
+  "code": 1955,
+  "nFiles": 42} }

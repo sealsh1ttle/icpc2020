@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.48427605628967,
+  "n_files"            : 35,
+  "n_lines"            : 12940,
+  "files_per_second"   : 3.6903185643557,
+  "lines_per_second"   : 1364.36349207893,
+  "report_file"        : "loc/ServerlessDays__London.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6639},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 353,
+  "comment": 1,
+  "code": 4702},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 62,
+  "comment": 61,
+  "code": 813},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 217},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 419,
+  "comment": 64,
+  "code": 12457,
+  "nFiles": 35} }

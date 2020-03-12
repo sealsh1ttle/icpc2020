@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 81.2592220306396,
+  "n_files"            : 222,
+  "n_lines"            : 28792,
+  "files_per_second"   : 2.73199760534617,
+  "lines_per_second"   : 354.32286059967,
+  "report_file"        : "loc/RackHD__on-web-ui.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 15339},
+"TypeScript" :{
+  "nFiles": 134,
+  "blank": 1096,
+  "comment": 552,
+  "code": 6561},
+"HTML" :{
+  "nFiles": 31,
+  "blank": 151,
+  "comment": 10,
+  "code": 1841},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 227,
+  "comment": 730,
+  "code": 827},
+"Sass" :{
+  "nFiles": 25,
+  "blank": 56,
+  "comment": 5,
+  "code": 592},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 176,
+  "comment": 0,
+  "code": 576},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 21,
+  "code": 19},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1713,
+  "comment": 1318,
+  "code": 25761,
+  "nFiles": 222} }

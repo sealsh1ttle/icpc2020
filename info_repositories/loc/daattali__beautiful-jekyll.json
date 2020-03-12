@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.60057210922241,
+  "n_files"            : 60,
+  "n_lines"            : 13662,
+  "files_per_second"   : 9.0901211299801,
+  "lines_per_second"   : 2069.82058129647,
+  "report_file"        : "loc/daattali__beautiful-jekyll.json"},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 174,
+  "comment": 235,
+  "code": 8259},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 605,
+  "comment": 213,
+  "code": 1693},
+"HTML" :{
+  "nFiles": 27,
+  "blank": 90,
+  "comment": 29,
+  "code": 791},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 103,
+  "comment": 222,
+  "code": 627},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 197,
+  "comment": 0,
+  "code": 392},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1172,
+  "comment": 699,
+  "code": 11791,
+  "nFiles": 60} }

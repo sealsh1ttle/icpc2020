@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 40.3527390956879,
+  "n_files"            : 132,
+  "n_lines"            : 32193,
+  "files_per_second"   : 3.27115340762842,
+  "lines_per_second"   : 797.789709483195,
+  "report_file"        : "loc/OwnROM__android_vendor_ownrom.json"},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 1284,
+  "comment": 482,
+  "code": 8663},
+"XML" :{
+  "nFiles": 36,
+  "blank": 163,
+  "comment": 624,
+  "code": 4504},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 733,
+  "comment": 702,
+  "code": 3092},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 323,
+  "comment": 205,
+  "code": 2917},
+"Bourne Shell" :{
+  "nFiles": 17,
+  "blank": 267,
+  "comment": 402,
+  "code": 2131},
+"C#" :{
+  "nFiles": 9,
+  "blank": 156,
+  "comment": 3,
+  "code": 1333},
+"make" :{
+  "nFiles": 41,
+  "blank": 303,
+  "comment": 504,
+  "code": 1312},
+"Python" :{
+  "nFiles": 5,
+  "blank": 187,
+  "comment": 140,
+  "code": 930},
+"C++" :{
+  "nFiles": 1,
+  "blank": 66,
+  "comment": 42,
+  "code": 310},
+"Windows Resource File" :{
+  "nFiles": 9,
+  "blank": 20,
+  "comment": 0,
+  "code": 194},
+"C" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 20,
+  "code": 55},
+"Go" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 33},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 15,
+  "code": 8},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3536,
+  "comment": 3139,
+  "code": 25518,
+  "nFiles": 132} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.823127031326294,
+  "n_files"            : 59,
+  "n_lines"            : 7975,
+  "files_per_second"   : 71.6778793000323,
+  "lines_per_second"   : 9688.66249860606,
+  "report_file"        : "loc/theforeman__puppet-puppet.json"},
+"Ruby" :{
+  "nFiles": 14,
+  "blank": 338,
+  "comment": 48,
+  "code": 2050},
+"Puppet" :{
+  "nFiles": 21,
+  "blank": 145,
+  "comment": 1092,
+  "code": 1573},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 305,
+  "comment": 0,
+  "code": 1268},
+"ERB" :{
+  "nFiles": 13,
+  "blank": 64,
+  "comment": 0,
+  "code": 833},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 5,
+  "code": 131},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 112},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 860,
+  "comment": 1145,
+  "code": 5970,
+  "nFiles": 59} }

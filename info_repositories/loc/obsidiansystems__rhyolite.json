@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.6109130382538,
+  "n_files"            : 70,
+  "n_lines"            : 6197,
+  "files_per_second"   : 2.96473075338458,
+  "lines_per_second"   : 262.463378267489,
+  "report_file"        : "loc/obsidiansystems__rhyolite.json"},
+"Haskell" :{
+  "nFiles": 44,
+  "blank": 717,
+  "comment": 341,
+  "code": 4465},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 57,
+  "comment": 0,
+  "code": 152},
+"Nix" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 12,
+  "code": 122},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 90},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 168,
+  "code": 22},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 812,
+  "comment": 521,
+  "code": 4864,
+  "nFiles": 70} }

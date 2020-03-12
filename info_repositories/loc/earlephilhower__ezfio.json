@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.595010995864868,
+  "n_files"            : 4,
+  "n_lines"            : 3004,
+  "files_per_second"   : 6.72256483963942,
+  "lines_per_second"   : 5048.64619456921,
+  "report_file"        : "loc/earlephilhower__ezfio.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 161,
+  "comment": 220,
+  "code": 1275},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 140,
+  "comment": 1054,
+  "code": 145},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 5,
+  "code": 3},
+"SUM": {
+  "blank": 302,
+  "comment": 1279,
+  "code": 1423,
+  "nFiles": 4} }

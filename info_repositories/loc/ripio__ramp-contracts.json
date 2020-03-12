@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.29389500617981,
+  "n_files"            : 31,
+  "n_lines"            : 7448,
+  "files_per_second"   : 105.479846027168,
+  "lines_per_second"   : 25342.3836519468,
+  "report_file"        : "loc/ripio__ramp-contracts.json"},
+"Solidity" :{
+  "nFiles": 22,
+  "blank": 1049,
+  "comment": 1232,
+  "code": 4094},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 76,
+  "comment": 12,
+  "code": 691},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 76,
+  "code": 109},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 74},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 1146,
+  "comment": 1320,
+  "code": 4982,
+  "nFiles": 31} }

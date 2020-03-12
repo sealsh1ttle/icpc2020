@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.56412196159363,
+  "n_files"            : 13,
+  "n_lines"            : 1699,
+  "files_per_second"   : 5.06996164563107,
+  "lines_per_second"   : 662.604987379015,
+  "report_file"        : "loc/Docker-Buea__Docker-Study-Jams.json"},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 401,
+  "comment": 0,
+  "code": 1296},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 401,
+  "comment": 0,
+  "code": 1298,
+  "nFiles": 13} }

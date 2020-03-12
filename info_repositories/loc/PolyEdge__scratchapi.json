@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0704581737518311,
+  "n_files"            : 5,
+  "n_lines"            : 1689,
+  "files_per_second"   : 70.9640873975968,
+  "lines_per_second"   : 23971.6687229082,
+  "report_file"        : "loc/PolyEdge__scratchapi.json"},
+"Python" :{
+  "nFiles": 3,
+  "blank": 261,
+  "comment": 126,
+  "code": 1219},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 35},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 289,
+  "comment": 126,
+  "code": 1274,
+  "nFiles": 5} }

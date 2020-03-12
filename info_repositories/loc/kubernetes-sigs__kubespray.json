@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 221.660790920258,
+  "n_files"            : 644,
+  "n_lines"            : 33187,
+  "files_per_second"   : 2.90534017011461,
+  "lines_per_second"   : 149.719758114276,
+  "report_file"        : "loc/kubernetes-sigs__kubespray.json"},
+"YAML" :{
+  "nFiles": 472,
+  "blank": 2274,
+  "comment": 1575,
+  "code": 16048},
+"Markdown" :{
+  "nFiles": 68,
+  "blank": 1368,
+  "comment": 0,
+  "code": 4264},
+"HCL" :{
+  "nFiles": 29,
+  "blank": 456,
+  "comment": 86,
+  "code": 1751},
+"Bourne Again Shell" :{
+  "nFiles": 14,
+  "blank": 247,
+  "comment": 86,
+  "code": 1191},
+"Python" :{
+  "nFiles": 7,
+  "blank": 287,
+  "comment": 262,
+  "code": 1118},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 1,
+  "comment": 0,
+  "code": 667},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 490},
+"Bourne Shell" :{
+  "nFiles": 27,
+  "blank": 113,
+  "comment": 95,
+  "code": 479},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 87},
+"INI" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 0,
+  "code": 68},
+"make" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 1,
+  "code": 67},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 46},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 4785,
+  "comment": 2105,
+  "code": 26297,
+  "nFiles": 644} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.137953996658325,
+  "n_files"            : 20,
+  "n_lines"            : 3476,
+  "files_per_second"   : 144.975865030823,
+  "lines_per_second"   : 25196.8053423571,
+  "report_file"        : "loc/cbourjau__nittygriddy.json"},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 90,
+  "comment": 153,
+  "code": 909},
+"Python" :{
+  "nFiles": 12,
+  "blank": 164,
+  "comment": 284,
+  "code": 782},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 450},
+"C++" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 42,
+  "code": 248},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 94,
+  "comment": 44,
+  "code": 128},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 18},
+"SUM": {
+  "blank": 415,
+  "comment": 526,
+  "code": 2535,
+  "nFiles": 20} }

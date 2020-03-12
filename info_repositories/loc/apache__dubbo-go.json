@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 92.4061028957367,
+  "n_files"            : 331,
+  "n_lines"            : 34162,
+  "files_per_second"   : 3.58201449501093,
+  "lines_per_second"   : 369.694196914088,
+  "report_file"        : "loc/apache__dubbo-go.json"},
+"Go" :{
+  "nFiles": 221,
+  "blank": 3753,
+  "comment": 4087,
+  "code": 19330},
+"Java" :{
+  "nFiles": 26,
+  "blank": 328,
+  "comment": 415,
+  "code": 1200},
+"Bourne Shell" :{
+  "nFiles": 37,
+  "blank": 324,
+  "comment": 597,
+  "code": 1048},
+"YAML" :{
+  "nFiles": 21,
+  "blank": 108,
+  "comment": 83,
+  "code": 1025},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 82,
+  "comment": 66,
+  "code": 880},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 148,
+  "comment": 0,
+  "code": 298},
+"XML" :{
+  "nFiles": 9,
+  "blank": 52,
+  "comment": 133,
+  "code": 176},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 16,
+  "code": 5},
+"SUM": {
+  "blank": 4798,
+  "comment": 5397,
+  "code": 23967,
+  "nFiles": 331} }

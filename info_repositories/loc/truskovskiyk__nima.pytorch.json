@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.175855875015259,
+  "n_files"            : 21,
+  "n_lines"            : 1357,
+  "files_per_second"   : 119.41597059625,
+  "lines_per_second"   : 7716.54629043388,
+  "report_file"        : "loc/truskovskiyk__nima.pytorch.json"},
+"Python" :{
+  "nFiles": 16,
+  "blank": 237,
+  "comment": 7,
+  "code": 842},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 56},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 45},
+"make" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 5,
+  "code": 35},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 4,
+  "code": 17},
+"SUM": {
+  "blank": 311,
+  "comment": 16,
+  "code": 1030,
+  "nFiles": 21} }

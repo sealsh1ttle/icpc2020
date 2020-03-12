@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.4315459728241,
+  "n_files"            : 184,
+  "n_lines"            : 10195,
+  "files_per_second"   : 5.85399140592981,
+  "lines_per_second"   : 324.35566512747,
+  "report_file"        : "loc/turingschool__gear-up.json"},
+"Markdown" :{
+  "nFiles": 184,
+  "blank": 3261,
+  "comment": 0,
+  "code": 6934},
+"SUM": {
+  "blank": 3261,
+  "comment": 0,
+  "code": 6934,
+  "nFiles": 184} }

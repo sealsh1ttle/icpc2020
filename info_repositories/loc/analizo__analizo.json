@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 63.0346131324768,
+  "n_files"            : 264,
+  "n_lines"            : 12776,
+  "files_per_second"   : 4.1881751450614,
+  "lines_per_second"   : 202.682294141305,
+  "report_file"        : "loc/analizo__analizo.json"},
+"Perl" :{
+  "nFiles": 59,
+  "blank": 1124,
+  "comment": 951,
+  "code": 3268},
+"C++" :{
+  "nFiles": 23,
+  "blank": 263,
+  "comment": 237,
+  "code": 1472},
+"Cucumber" :{
+  "nFiles": 39,
+  "blank": 97,
+  "comment": 9,
+  "code": 875},
+"C/C++ Header" :{
+  "nFiles": 20,
+  "blank": 257,
+  "comment": 1072,
+  "code": 746},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 163,
+  "comment": 0,
+  "code": 412},
+"C#" :{
+  "nFiles": 39,
+  "blank": 84,
+  "comment": 5,
+  "code": 378},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 298},
+"Java" :{
+  "nFiles": 37,
+  "blank": 39,
+  "comment": 29,
+  "code": 265},
+"C" :{
+  "nFiles": 16,
+  "blank": 47,
+  "comment": 39,
+  "code": 195},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 3,
+  "code": 109},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 91},
+"make" :{
+  "nFiles": 16,
+  "blank": 31,
+  "comment": 0,
+  "code": 84},
+"INI" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 61},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 8,
+  "code": 10},
+"SUM": {
+  "blank": 2159,
+  "comment": 2353,
+  "code": 8264,
+  "nFiles": 264} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.356515884399414,
+  "n_files"            : 44,
+  "n_lines"            : 1846,
+  "files_per_second"   : 123.416660870868,
+  "lines_per_second"   : 5177.88990835505,
+  "report_file"        : "loc/PartyWifi__PartyWifi.Server.json"},
+"C#" :{
+  "nFiles": 17,
+  "blank": 130,
+  "comment": 188,
+  "code": 590},
+"Razor" :{
+  "nFiles": 10,
+  "blank": 44,
+  "comment": 6,
+  "code": 299},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 44,
+  "code": 169},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 0,
+  "code": 148},
+"LESS" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 3,
+  "code": 82},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 42},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 246,
+  "comment": 241,
+  "code": 1359,
+  "nFiles": 44} }

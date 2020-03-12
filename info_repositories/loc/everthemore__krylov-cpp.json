@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 92.5497040748596,
+  "n_files"            : 552,
+  "n_lines"            : 191811,
+  "files_per_second"   : 5.96436266888017,
+  "lines_per_second"   : 2072.51878239235,
+  "report_file"        : "loc/everthemore__krylov-cpp.json"},
+"C/C++ Header" :{
+  "nFiles": 427,
+  "blank": 20756,
+  "comment": 30126,
+  "code": 115753},
+"C++" :{
+  "nFiles": 101,
+  "blank": 2829,
+  "comment": 1787,
+  "code": 15099},
+"CUDA" :{
+  "nFiles": 11,
+  "blank": 636,
+  "comment": 133,
+  "code": 2495},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 453,
+  "comment": 0,
+  "code": 1321},
+"CMake" :{
+  "nFiles": 9,
+  "blank": 50,
+  "comment": 21,
+  "code": 315},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 24725,
+  "comment": 32067,
+  "code": 135019,
+  "nFiles": 552} }

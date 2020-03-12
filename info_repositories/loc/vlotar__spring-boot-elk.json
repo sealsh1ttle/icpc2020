@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.69340300559998,
+  "n_files"            : 27,
+  "n_lines"            : 1717,
+  "files_per_second"   : 3.50950027970027,
+  "lines_per_second"   : 223.178221490569,
+  "report_file"        : "loc/vlotar__spring-boot-elk.json"},
+"Java" :{
+  "nFiles": 20,
+  "blank": 156,
+  "comment": 180,
+  "code": 628},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 6,
+  "code": 167},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 65,
+  "code": 138},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 113},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 66},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 48},
+"XML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 2,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 264,
+  "comment": 253,
+  "code": 1200,
+  "nFiles": 27} }

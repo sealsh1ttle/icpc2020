@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.9276721477509,
+  "n_files"            : 166,
+  "n_lines"            : 34319,
+  "files_per_second"   : 4.26431869262419,
+  "lines_per_second"   : 881.609356699817,
+  "report_file"        : "loc/citybound__citybound.json"},
+"Rust" :{
+  "nFiles": 120,
+  "blank": 2803,
+  "comment": 290,
+  "code": 18762},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 8579},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 301,
+  "comment": 58,
+  "code": 2519},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 90,
+  "comment": 0,
+  "code": 470},
+"TOML" :{
+  "nFiles": 8,
+  "blank": 21,
+  "comment": 1,
+  "code": 154},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 2,
+  "code": 101},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 56},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 39},
+"INI" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 3260,
+  "comment": 351,
+  "code": 30708,
+  "nFiles": 166} }

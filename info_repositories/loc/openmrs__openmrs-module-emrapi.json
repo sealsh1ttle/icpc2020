@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.5414538383484,
+  "n_files"            : 345,
+  "n_lines"            : 42386,
+  "files_per_second"   : 8.30495729260005,
+  "lines_per_second"   : 1020.33020233086,
+  "report_file"        : "loc/openmrs__openmrs-module-emrapi.json"},
+"Java" :{
+  "nFiles": 284,
+  "blank": 6960,
+  "comment": 4277,
+  "code": 26752},
+"XML" :{
+  "nFiles": 42,
+  "blank": 345,
+  "comment": 40,
+  "code": 1954},
+"Maven" :{
+  "nFiles": 11,
+  "blank": 173,
+  "comment": 15,
+  "code": 1557},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 273},
+"JSP" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 23},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 7487,
+  "comment": 4332,
+  "code": 30567,
+  "nFiles": 345} }

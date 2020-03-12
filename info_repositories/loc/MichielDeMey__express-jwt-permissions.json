@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.31360006332397,
+  "n_files"            : 8,
+  "n_lines"            : 549,
+  "files_per_second"   : 1.26710591734697,
+  "lines_per_second"   : 86.9551435779357,
+  "report_file"        : "loc/MichielDeMey__express-jwt-permissions.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 0,
+  "code": 267},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 0,
+  "code": 107},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 107,
+  "comment": 0,
+  "code": 442,
+  "nFiles": 8} }

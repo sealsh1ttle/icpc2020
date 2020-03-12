@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.64172601699829,
+  "n_files"            : 34,
+  "n_lines"            : 2552,
+  "files_per_second"   : 20.7099111836975,
+  "lines_per_second"   : 1554.46156884694,
+  "report_file"        : "loc/soprasteria__godocktor-api.json"},
+"Go" :{
+  "nFiles": 32,
+  "blank": 356,
+  "comment": 305,
+  "code": 1861},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 365,
+  "comment": 305,
+  "code": 1882,
+  "nFiles": 34} }

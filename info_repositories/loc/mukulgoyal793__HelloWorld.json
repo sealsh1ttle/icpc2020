@@ -1,0 +1,169 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.868931055069,
+  "n_files"            : 63,
+  "n_lines"            : 1017,
+  "files_per_second"   : 3.52567256574245,
+  "lines_per_second"   : 56.914428561271,
+  "report_file"        : "loc/mukulgoyal793__HelloWorld.json"},
+"XML" :{
+  "nFiles": 12,
+  "blank": 7,
+  "comment": 2,
+  "code": 352},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 22,
+  "code": 135},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 3,
+  "code": 45},
+"Java" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 11,
+  "code": 41},
+"C++" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 0,
+  "code": 30},
+"C" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 6,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 22},
+"C#" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 19},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"JSP" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Blade" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Python" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"Go" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"F#" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 5},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 5},
+"PureScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"Kotlin" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Dart" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Rust" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Swift" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 2},
+"Julia" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"R" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Haskell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 112,
+  "comment": 69,
+  "code": 836,
+  "nFiles": 63} }

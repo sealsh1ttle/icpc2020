@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.07315707206726,
+  "n_files"            : 11,
+  "n_lines"            : 36052,
+  "files_per_second"   : 5.30591731239702,
+  "lines_per_second"   : 17389.9028133216,
+  "report_file"        : "loc/voronianski__react-swipe.json"},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 2952,
+  "comment": 5778,
+  "code": 18623},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 8464},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 95},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 0,
+  "code": 60},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 31},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 2991,
+  "comment": 5784,
+  "code": 27277,
+  "nFiles": 11} }

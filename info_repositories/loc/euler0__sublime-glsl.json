@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.01168489456177,
+  "n_files"            : 3,
+  "n_lines"            : 1546,
+  "files_per_second"   : 2.9653501956254,
+  "lines_per_second"   : 1528.14380081229,
+  "report_file"        : "loc/euler0__sublime-glsl.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 81,
+  "comment": 39,
+  "code": 1219},
+"GLSL" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 128,
+  "code": 55},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 93,
+  "comment": 167,
+  "code": 1286,
+  "nFiles": 3} }

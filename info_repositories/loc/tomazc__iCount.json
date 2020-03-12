@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.609471082687378,
+  "n_files"            : 81,
+  "n_lines"            : 14069,
+  "files_per_second"   : 132.902121693521,
+  "lines_per_second"   : 23083.9500013105,
+  "report_file"        : "loc/tomazc__iCount.json"},
+"Python" :{
+  "nFiles": 56,
+  "blank": 2143,
+  "comment": 3899,
+  "code": 6194},
+"reStructuredText" :{
+  "nFiles": 12,
+  "blank": 320,
+  "comment": 145,
+  "code": 491},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 84,
+  "comment": 39,
+  "code": 237},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 48,
+  "comment": 0,
+  "code": 124},
+"make" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 5,
+  "code": 79},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 13,
+  "code": 62},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 2,
+  "code": 45},
+"INI" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 2659,
+  "comment": 4103,
+  "code": 7307,
+  "nFiles": 81} }

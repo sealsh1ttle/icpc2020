@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.34104895591736,
+  "n_files"            : 27,
+  "n_lines"            : 1281,
+  "files_per_second"   : 5.05518676627868,
+  "lines_per_second"   : 239.840527689,
+  "report_file"        : "loc/flathub__com.valvesoftware.Steam.json"},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 65,
+  "comment": 14,
+  "code": 571},
+"Python" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 14,
+  "code": 285},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 104},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 87},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 1,
+  "code": 44},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 121,
+  "comment": 30,
+  "code": 1130,
+  "nFiles": 27} }

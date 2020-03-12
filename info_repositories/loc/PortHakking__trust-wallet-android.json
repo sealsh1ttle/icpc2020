@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.3303918838501,
+  "n_files"            : 281,
+  "n_lines"            : 16362,
+  "files_per_second"   : 84.3744549590813,
+  "lines_per_second"   : 4912.93534533982,
+  "report_file"        : "loc/PortHakking__trust-wallet-android.json"},
+"Java" :{
+  "nFiles": 185,
+  "blank": 2151,
+  "comment": 791,
+  "code": 10104},
+"XML" :{
+  "nFiles": 84,
+  "blank": 132,
+  "comment": 41,
+  "code": 2543},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 25,
+  "code": 130},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 71},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 6,
+  "code": 21},
+"C" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 14},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 6},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 21,
+  "code": 0},
+"SUM": {
+  "blank": 2379,
+  "comment": 909,
+  "code": 13074,
+  "nFiles": 281} }

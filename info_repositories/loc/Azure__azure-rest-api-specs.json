@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4146.96035814285,
+  "n_files"            : 21627,
+  "n_lines"            : 3883817,
+  "files_per_second"   : 5.2151451020104,
+  "lines_per_second"   : 936.545485025881,
+  "report_file"        : "loc/Azure__azure-rest-api-specs.json"},
+"JSON" :{
+  "nFiles": 20657,
+  "blank": 7,
+  "comment": 0,
+  "code": 3799305},
+"Markdown" :{
+  "nFiles": 934,
+  "blank": 16390,
+  "comment": 0,
+  "code": 63966},
+"C#" :{
+  "nFiles": 3,
+  "blank": 166,
+  "comment": 890,
+  "code": 1239},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 87,
+  "code": 581},
+"TypeScript" :{
+  "nFiles": 9,
+  "blank": 86,
+  "comment": 51,
+  "code": 483},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 6,
+  "comment": 1,
+  "code": 331},
+"XML" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 22,
+  "code": 132},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 1,
+  "code": 17},
+"SUM": {
+  "blank": 16687,
+  "comment": 1055,
+  "code": 3866075,
+  "nFiles": 21627} }

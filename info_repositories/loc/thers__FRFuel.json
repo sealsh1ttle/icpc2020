@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.266126155853271,
+  "n_files"            : 15,
+  "n_lines"            : 2951,
+  "files_per_second"   : 56.3642455658144,
+  "lines_per_second"   : 11088.7259109812,
+  "report_file"        : "loc/thers__FRFuel.json"},
+"C#" :{
+  "nFiles": 8,
+  "blank": 288,
+  "comment": 440,
+  "code": 1185},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 890},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 79},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 15},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 302,
+  "comment": 447,
+  "code": 2202,
+  "nFiles": 15} }

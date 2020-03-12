@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.5912098884583,
+  "n_files"            : 36,
+  "n_lines"            : 1274,
+  "files_per_second"   : 3.10580175377951,
+  "lines_per_second"   : 109.910873175419,
+  "report_file"        : "loc/takuyamakawa__SampleApp_Android.json"},
+"XML" :{
+  "nFiles": 19,
+  "blank": 45,
+  "comment": 2,
+  "code": 667},
+"Java" :{
+  "nFiles": 10,
+  "blank": 42,
+  "comment": 11,
+  "code": 172},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 3,
+  "code": 45},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 142,
+  "comment": 58,
+  "code": 1074,
+  "nFiles": 36} }

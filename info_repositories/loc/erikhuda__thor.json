@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.6544988155365,
+  "n_files"            : 85,
+  "n_lines"            : 12441,
+  "files_per_second"   : 3.31325903542982,
+  "lines_per_second"   : 484.944184232734,
+  "report_file"        : "loc/erikhuda__thor.json"},
+"Ruby" :{
+  "nFiles": 78,
+  "blank": 1844,
+  "comment": 1619,
+  "code": 8480},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 50,
+  "comment": 0,
+  "code": 240},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 7,
+  "code": 154},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1939,
+  "comment": 1626,
+  "code": 8876,
+  "nFiles": 85} }

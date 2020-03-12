@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.39703106880188,
+  "n_files"            : 24,
+  "n_lines"            : 997,
+  "files_per_second"   : 60.44866985454,
+  "lines_per_second"   : 2511.13849354068,
+  "report_file"        : "loc/modmuss50__Retro-Exchange.json"},
+"Java" :{
+  "nFiles": 9,
+  "blank": 95,
+  "comment": 1,
+  "code": 416},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 2,
+  "comment": 0,
+  "code": 186},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 4,
+  "code": 31},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 148,
+  "comment": 28,
+  "code": 821,
+  "nFiles": 24} }

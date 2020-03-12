@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.4468429088593,
+  "n_files"            : 102,
+  "n_lines"            : 3010,
+  "files_per_second"   : 6.20179815452951,
+  "lines_per_second"   : 183.013847501312,
+  "report_file"        : "loc/parvusui__parvus-ui.json"},
+"JavaScript" :{
+  "nFiles": 74,
+  "blank": 277,
+  "comment": 29,
+  "code": 2156},
+"Markdown" :{
+  "nFiles": 27,
+  "blank": 73,
+  "comment": 0,
+  "code": 356},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 119},
+"SUM": {
+  "blank": 350,
+  "comment": 29,
+  "code": 2631,
+  "nFiles": 102} }

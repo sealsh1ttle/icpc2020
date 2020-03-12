@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.6788778305054,
+  "n_files"            : 1571,
+  "n_lines"            : 304054,
+  "files_per_second"   : 75.9712404549569,
+  "lines_per_second"   : 14703.6025113249,
+  "report_file"        : "loc/facebook__jest.json"},
+"JavaScript" :{
+  "nFiles": 600,
+  "blank": 26549,
+  "comment": 28363,
+  "code": 124171},
+"TypeScript" :{
+  "nFiles": 560,
+  "blank": 8962,
+  "comment": 7402,
+  "code": 54750},
+"Markdown" :{
+  "nFiles": 163,
+  "blank": 12807,
+  "comment": 0,
+  "code": 32041},
+"JSON" :{
+  "nFiles": 204,
+  "blank": 3,
+  "comment": 0,
+  "code": 6823},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 127,
+  "comment": 39,
+  "code": 626},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 32,
+  "comment": 16,
+  "code": 238},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 2,
+  "code": 176},
+"XML" :{
+  "nFiles": 7,
+  "blank": 6,
+  "comment": 3,
+  "code": 162},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 21,
+  "code": 75},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 82,
+  "code": 71},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Java" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 4,
+  "code": 36},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 6,
+  "code": 35},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 23,
+  "code": 30},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 7,
+  "code": 4},
+"JSX" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 26,
+  "code": 4},
+"SUM": {
+  "blank": 48608,
+  "comment": 36017,
+  "code": 219429,
+  "nFiles": 1571} }

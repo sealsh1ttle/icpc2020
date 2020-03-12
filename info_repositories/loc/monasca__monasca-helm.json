@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.5290720462799,
+  "n_files"            : 140,
+  "n_lines"            : 8883,
+  "files_per_second"   : 4.58579283994515,
+  "lines_per_second"   : 290.96855569452,
+  "report_file"        : "loc/monasca__monasca-helm.json"},
+"YAML" :{
+  "nFiles": 124,
+  "blank": 151,
+  "comment": 215,
+  "code": 6877},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 216,
+  "comment": 0,
+  "code": 807},
+"Python" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 26,
+  "code": 209},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 175},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 69},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 11,
+  "code": 33},
+"SUM": {
+  "blank": 461,
+  "comment": 252,
+  "code": 8170,
+  "nFiles": 140} }

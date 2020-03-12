@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0326709747314453,
+  "n_files"            : 3,
+  "n_lines"            : 255,
+  "files_per_second"   : 91.8246249051316,
+  "lines_per_second"   : 7805.09311693619,
+  "report_file"        : "loc/GoogleCloudPlatform__awesome-google-cloud.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 65,
+  "comment": 0,
+  "code": 175},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 5,
+  "code": 10},
+"SUM": {
+  "blank": 65,
+  "comment": 5,
+  "code": 185,
+  "nFiles": 3} }

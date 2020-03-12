@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 210.945511102676,
+  "n_files"            : 156,
+  "n_lines"            : 15835,
+  "files_per_second"   : 0.73952746936657,
+  "lines_per_second"   : 75.0667787014079,
+  "report_file"        : "loc/carbon-design-system__carbon-charts.json"},
+"TypeScript" :{
+  "nFiles": 62,
+  "blank": 1035,
+  "comment": 1065,
+  "code": 5227},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 3001,
+  "comment": 0,
+  "code": 1617},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 125,
+  "comment": 42,
+  "code": 1402},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 828},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 128,
+  "comment": 14,
+  "code": 687},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 49,
+  "comment": 19,
+  "code": 259},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 49,
+  "comment": 40,
+  "code": 98},
+"Vuejs Component" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 0,
+  "code": 93},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 4402,
+  "comment": 1180,
+  "code": 10253,
+  "nFiles": 156} }

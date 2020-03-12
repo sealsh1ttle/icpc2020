@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.6047019958496,
+  "n_files"            : 53,
+  "n_lines"            : 12101,
+  "files_per_second"   : 2.8487422164474,
+  "lines_per_second"   : 650.426972853396,
+  "report_file"        : "loc/qiniu__pandora-docs-old.json"},
+"Markdown" :{
+  "nFiles": 50,
+  "blank": 3143,
+  "comment": 0,
+  "code": 7887},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 138,
+  "comment": 0,
+  "code": 871},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 44},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 14},
+"SUM": {
+  "blank": 3284,
+  "comment": 1,
+  "code": 8816,
+  "nFiles": 53} }

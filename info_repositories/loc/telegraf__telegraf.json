@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.3719320297241,
+  "n_files"            : 54,
+  "n_lines"            : 8934,
+  "files_per_second"   : 3.5128960950115,
+  "lines_per_second"   : 581.189142830235,
+  "report_file"        : "loc/telegraf__telegraf.json"},
+"JavaScript" :{
+  "nFiles": 40,
+  "blank": 572,
+  "comment": 30,
+  "code": 3808},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 653,
+  "comment": 0,
+  "code": 1563},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 381,
+  "comment": 981,
+  "code": 796},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 83},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 52},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 13},
+"SUM": {
+  "blank": 1607,
+  "comment": 1012,
+  "code": 6315,
+  "nFiles": 54} }

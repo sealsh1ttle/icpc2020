@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.632838010787964,
+  "n_files"            : 5,
+  "n_lines"            : 271,
+  "files_per_second"   : 7.90091605555482,
+  "lines_per_second"   : 428.229650211071,
+  "report_file"        : "loc/vgno__koa-normalize-path.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 3,
+  "code": 143},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 33},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 52,
+  "comment": 3,
+  "code": 216,
+  "nFiles": 5} }

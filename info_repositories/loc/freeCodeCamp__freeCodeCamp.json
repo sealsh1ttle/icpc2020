@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 80.4988081455231,
+  "n_files"            : 9516,
+  "n_lines"            : 849567,
+  "files_per_second"   : 118.212930342985,
+  "lines_per_second"   : 10553.7835847728,
+  "report_file"        : "loc/freeCodeCamp__freeCodeCamp.json"},
+"Markdown" :{
+  "nFiles": 8602,
+  "blank": 158217,
+  "comment": 0,
+  "code": 476231},
+"JSON" :{
+  "nFiles": 421,
+  "blank": 14,
+  "comment": 0,
+  "code": 172883},
+"JavaScript" :{
+  "nFiles": 413,
+  "blank": 4017,
+  "comment": 1116,
+  "code": 33339},
+"CSS" :{
+  "nFiles": 54,
+  "blank": 317,
+  "comment": 39,
+  "code": 2719},
+"Pug" :{
+  "nFiles": 5,
+  "blank": 6,
+  "comment": 0,
+  "code": 253},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 22,
+  "comment": 52,
+  "code": 226},
+"EJS" :{
+  "nFiles": 5,
+  "blank": 22,
+  "comment": 0,
+  "code": 32},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 5},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 162620,
+  "comment": 1215,
+  "code": 685732,
+  "nFiles": 9516} }

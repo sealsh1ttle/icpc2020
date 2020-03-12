@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.79001188278198,
+  "n_files"            : 360,
+  "n_lines"            : 57087,
+  "files_per_second"   : 129.031708510516,
+  "lines_per_second"   : 20461.203177055,
+  "report_file"        : "loc/donnemartin__interactive-coding-challenges.json"},
+"Jupyter Notebook" :{
+  "nFiles": 230,
+  "blank": 0,
+  "comment": 42591,
+  "code": 9374},
+"Python" :{
+  "nFiles": 126,
+  "blank": 1099,
+  "comment": 42,
+  "code": 3270},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 173,
+  "comment": 0,
+  "code": 502},
+"C++" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 27},
+"SUM": {
+  "blank": 1278,
+  "comment": 42636,
+  "code": 13173,
+  "nFiles": 360} }

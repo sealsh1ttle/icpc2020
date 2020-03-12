@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 163.23753786087,
+  "n_files"            : 327,
+  "n_lines"            : 35416,
+  "files_per_second"   : 2.00321570813391,
+  "lines_per_second"   : 216.959900670553,
+  "report_file"        : "loc/infinum__iOS-VIPER-Xcode-Templates.json"},
+"Swift" :{
+  "nFiles": 199,
+  "blank": 3367,
+  "comment": 5742,
+  "code": 12065},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 1259,
+  "comment": 0,
+  "code": 3224},
+"Objective C" :{
+  "nFiles": 33,
+  "blank": 678,
+  "comment": 486,
+  "code": 2590},
+"XML" :{
+  "nFiles": 23,
+  "blank": 84,
+  "comment": 10,
+  "code": 1727},
+"C/C++ Header" :{
+  "nFiles": 38,
+  "blank": 393,
+  "comment": 858,
+  "code": 1210},
+"C" :{
+  "nFiles": 1,
+  "blank": 103,
+  "comment": 45,
+  "code": 389},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 49,
+  "code": 333},
+"ERB" :{
+  "nFiles": 7,
+  "blank": 60,
+  "comment": 0,
+  "code": 306},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 0,
+  "code": 191},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 139},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 6044,
+  "comment": 7190,
+  "code": 22182,
+  "nFiles": 327} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.8115618228912,
+  "n_files"            : 283,
+  "n_lines"            : 13592,
+  "files_per_second"   : 4.30015626679086,
+  "lines_per_second"   : 206.529059993715,
+  "report_file"        : "loc/Stratio__egeo-web.json"},
+"TypeScript" :{
+  "nFiles": 173,
+  "blank": 976,
+  "comment": 1893,
+  "code": 4402},
+"HTML" :{
+  "nFiles": 55,
+  "blank": 433,
+  "comment": 479,
+  "code": 2533},
+"Sass" :{
+  "nFiles": 36,
+  "blank": 244,
+  "comment": 5,
+  "code": 1706},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 446},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 69,
+  "comment": 0,
+  "code": 159},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 3,
+  "code": 101},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 15,
+  "code": 38},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 12,
+  "code": 30},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 10,
+  "code": 6},
+"SUM": {
+  "blank": 1754,
+  "comment": 2417,
+  "code": 9421,
+  "nFiles": 283} }

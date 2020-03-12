@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 59.1128771305084,
+  "n_files"            : 284,
+  "n_lines"            : 18563,
+  "files_per_second"   : 4.80436774161727,
+  "lines_per_second"   : 314.02633235085,
+  "report_file"        : "loc/ReactTraining__react-router.json"},
+"JavaScript" :{
+  "nFiles": 191,
+  "blank": 1552,
+  "comment": 399,
+  "code": 10459},
+"Markdown" :{
+  "nFiles": 56,
+  "blank": 1039,
+  "comment": 0,
+  "code": 3360},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 413},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 4,
+  "code": 197},
+"XML" :{
+  "nFiles": 7,
+  "blank": 6,
+  "comment": 2,
+  "code": 182},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 24,
+  "code": 82},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 82,
+  "code": 71},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 20,
+  "comment": 36,
+  "code": 69},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Java" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 4,
+  "code": 42},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 36},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 23,
+  "code": 30},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 4,
+  "code": 18},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 8,
+  "code": 4},
+"SUM": {
+  "blank": 2779,
+  "comment": 609,
+  "code": 15175,
+  "nFiles": 284} }

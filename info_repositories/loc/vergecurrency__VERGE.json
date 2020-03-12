@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.1298048496246,
+  "n_files"            : 1463,
+  "n_lines"            : 545891,
+  "files_per_second"   : 96.6965545518121,
+  "lines_per_second"   : 36080.5050313351,
+  "report_file"        : "loc/vergecurrency__VERGE.json"},
+"Qt Linguist" :{
+  "nFiles": 86,
+  "blank": 4,
+  "comment": 0,
+  "code": 180046},
+"C++" :{
+  "nFiles": 373,
+  "blank": 18753,
+  "comment": 17053,
+  "code": 106690},
+"C" :{
+  "nFiles": 46,
+  "blank": 3245,
+  "comment": 3473,
+  "code": 69722},
+"C/C++ Header" :{
+  "nFiles": 369,
+  "blank": 8261,
+  "comment": 16217,
+  "code": 32802},
+"Python" :{
+  "nFiles": 141,
+  "blank": 5167,
+  "comment": 5731,
+  "code": 20995},
+"Markdown" :{
+  "nFiles": 155,
+  "blank": 3906,
+  "comment": 0,
+  "code": 15523},
+"Qt" :{
+  "nFiles": 21,
+  "blank": 2,
+  "comment": 0,
+  "code": 10994},
+"JSON" :{
+  "nFiles": 83,
+  "blank": 338,
+  "comment": 0,
+  "code": 5980},
+"m4" :{
+  "nFiles": 24,
+  "blank": 609,
+  "comment": 143,
+  "code": 5171},
+"Bourne Shell" :{
+  "nFiles": 46,
+  "blank": 455,
+  "comment": 809,
+  "code": 5009},
+"make" :{
+  "nFiles": 49,
+  "blank": 540,
+  "comment": 87,
+  "code": 2838},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 99,
+  "comment": 67,
+  "code": 1023},
+"SVG" :{
+  "nFiles": 22,
+  "blank": 2,
+  "comment": 17,
+  "code": 806},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 84,
+  "comment": 105,
+  "code": 730},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 460},
+"Java" :{
+  "nFiles": 4,
+  "blank": 143,
+  "comment": 187,
+  "code": 438},
+"Dockerfile" :{
+  "nFiles": 7,
+  "blank": 80,
+  "comment": 15,
+  "code": 188},
+"Objective C++" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 17,
+  "code": 157},
+"diff" :{
+  "nFiles": 10,
+  "blank": 34,
+  "comment": 137,
+  "code": 140},
+"Windows Resource File" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 0,
+  "code": 130},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 13,
+  "code": 45},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 6,
+  "code": 37},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 41824,
+  "comment": 44077,
+  "code": 459990,
+  "nFiles": 1463} }

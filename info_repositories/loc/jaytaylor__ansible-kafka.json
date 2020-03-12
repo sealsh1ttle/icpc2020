@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.39608693122864,
+  "n_files"            : 14,
+  "n_lines"            : 565,
+  "files_per_second"   : 4.12239152987025,
+  "lines_per_second"   : 166.36794388405,
+  "report_file"        : "loc/jaytaylor__ansible-kafka.json"},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 73,
+  "comment": 10,
+  "code": 396},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 56},
+"SUM": {
+  "blank": 103,
+  "comment": 10,
+  "code": 452,
+  "nFiles": 14} }

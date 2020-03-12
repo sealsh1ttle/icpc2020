@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.426118850708008,
+  "n_files"            : 19,
+  "n_lines"            : 4517,
+  "files_per_second"   : 44.5884991204473,
+  "lines_per_second"   : 10600.3289751084,
+  "report_file"        : "loc/servo__tendril.json"},
+"Rust" :{
+  "nFiles": 11,
+  "blank": 509,
+  "comment": 413,
+  "code": 3189},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 86},
+"C" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 7,
+  "code": 59},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 55,
+  "code": 59},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 594,
+  "comment": 475,
+  "code": 3448,
+  "nFiles": 19} }

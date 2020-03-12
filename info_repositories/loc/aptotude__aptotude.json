@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.6732079982758,
+  "n_files"            : 274,
+  "n_lines"            : 11530,
+  "files_per_second"   : 4.37188407536978,
+  "lines_per_second"   : 183.970158354064,
+  "report_file"        : "loc/aptotude__aptotude.json"},
+"TypeScript" :{
+  "nFiles": 162,
+  "blank": 759,
+  "comment": 8,
+  "code": 7373},
+"Sass" :{
+  "nFiles": 48,
+  "blank": 166,
+  "comment": 62,
+  "code": 2014},
+"SVG" :{
+  "nFiles": 49,
+  "blank": 3,
+  "comment": 0,
+  "code": 485},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 235},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 147},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 10,
+  "comment": 10,
+  "code": 136},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 8,
+  "code": 31},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 26},
+"SUM": {
+  "blank": 958,
+  "comment": 91,
+  "code": 10481,
+  "nFiles": 274} }

@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 282.79701089859,
+  "n_files"            : 985,
+  "n_lines"            : 389334,
+  "files_per_second"   : 3.48306368893417,
+  "lines_per_second"   : 1376.7260083934,
+  "report_file"        : "loc/duplicati__duplicati.json"},
+"PO File" :{
+  "nFiles": 60,
+  "blank": 45768,
+  "comment": 54169,
+  "code": 143655},
+"C#" :{
+  "nFiles": 531,
+  "blank": 13452,
+  "comment": 18474,
+  "code": 69641},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 7,
+  "code": 12143},
+"JavaScript" :{
+  "nFiles": 85,
+  "blank": 1462,
+  "comment": 576,
+  "code": 6596},
+"MSBuild script" :{
+  "nFiles": 61,
+  "blank": 0,
+  "comment": 203,
+  "code": 6379},
+"LESS" :{
+  "nFiles": 17,
+  "blank": 528,
+  "comment": 49,
+  "code": 4071},
+"HTML" :{
+  "nFiles": 61,
+  "blank": 458,
+  "comment": 59,
+  "code": 3139},
+"Bourne Shell" :{
+  "nFiles": 47,
+  "blank": 572,
+  "comment": 374,
+  "code": 2045},
+"Python" :{
+  "nFiles": 11,
+  "blank": 484,
+  "comment": 509,
+  "code": 1713},
+"SQL" :{
+  "nFiles": 18,
+  "blank": 99,
+  "comment": 211,
+  "code": 372},
+"JSON" :{
+  "nFiles": 34,
+  "blank": 0,
+  "comment": 0,
+  "code": 268},
+"DOS Batch" :{
+  "nFiles": 9,
+  "blank": 86,
+  "comment": 134,
+  "code": 245},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 68,
+  "comment": 0,
+  "code": 152},
+"make" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 22,
+  "code": 140},
+"WiX source" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 5,
+  "code": 139},
+"XML" :{
+  "nFiles": 8,
+  "blank": 16,
+  "comment": 14,
+  "code": 138},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 5,
+  "code": 134},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 10,
+  "code": 122},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 9,
+  "code": 116},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 6,
+  "code": 64},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 8,
+  "comment": 0,
+  "code": 39},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 17,
+  "code": 10},
+"WiX include" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 7},
+"SUM": {
+  "blank": 63148,
+  "comment": 74858,
+  "code": 251328,
+  "nFiles": 985} }

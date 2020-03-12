@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 307.489352941513,
+  "n_files"            : 1044,
+  "n_lines"            : 121099,
+  "files_per_second"   : 3.39523950996306,
+  "lines_per_second"   : 393.831522430092,
+  "report_file"        : "loc/sofastack__sofa-rpc.json"},
+"Java" :{
+  "nFiles": 969,
+  "blank": 12669,
+  "comment": 36736,
+  "code": 64208},
+"Maven" :{
+  "nFiles": 45,
+  "blank": 349,
+  "comment": 125,
+  "code": 5410},
+"XML" :{
+  "nFiles": 6,
+  "blank": 51,
+  "comment": 42,
+  "code": 641},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 27,
+  "comment": 0,
+  "code": 349},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 101,
+  "comment": 0,
+  "code": 205},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 20,
+  "comment": 24,
+  "code": 82},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 27},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 19},
+"SUM": {
+  "blank": 13229,
+  "comment": 36929,
+  "code": 70941,
+  "nFiles": 1044} }

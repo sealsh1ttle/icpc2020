@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.69300389289856,
+  "n_files"            : 49,
+  "n_lines"            : 13210,
+  "files_per_second"   : 5.6367166751218,
+  "lines_per_second"   : 1519.61280159916,
+  "report_file"        : "loc/flowcommerce__registry.json"},
+"Scala" :{
+  "nFiles": 34,
+  "blank": 1941,
+  "comment": 1212,
+  "code": 9213},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 9,
+  "comment": 0,
+  "code": 323},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 287},
+"XML" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 10,
+  "code": 65},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 59},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 2031,
+  "comment": 1222,
+  "code": 9957,
+  "nFiles": 49} }

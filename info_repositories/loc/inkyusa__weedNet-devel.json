@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 254.242262125015,
+  "n_files"            : 785,
+  "n_lines"            : 181508,
+  "files_per_second"   : 3.08760625963123,
+  "lines_per_second"   : 713.917499328846,
+  "report_file"        : "loc/inkyusa__weedNet-devel.json"},
+"C++" :{
+  "nFiles": 196,
+  "blank": 4988,
+  "comment": 5132,
+  "code": 43203},
+"CMake" :{
+  "nFiles": 234,
+  "blank": 4263,
+  "comment": 12994,
+  "code": 25964},
+"C/C++ Header" :{
+  "nFiles": 113,
+  "blank": 3451,
+  "comment": 7501,
+  "code": 18731},
+"Python" :{
+  "nFiles": 46,
+  "blank": 1588,
+  "comment": 3168,
+  "code": 5969},
+"CUDA" :{
+  "nFiles": 63,
+  "blank": 645,
+  "comment": 345,
+  "code": 4967},
+"make" :{
+  "nFiles": 9,
+  "blank": 2256,
+  "comment": 1007,
+  "code": 4387},
+"Markdown" :{
+  "nFiles": 35,
+  "blank": 1083,
+  "comment": 0,
+  "code": 2663},
+"Jupyter Notebook" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 21137,
+  "code": 951},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 149,
+  "comment": 578,
+  "code": 734},
+"C" :{
+  "nFiles": 4,
+  "blank": 169,
+  "comment": 96,
+  "code": 727},
+"MATLAB" :{
+  "nFiles": 23,
+  "blank": 108,
+  "comment": 209,
+  "code": 669},
+"Bourne Shell" :{
+  "nFiles": 44,
+  "blank": 149,
+  "comment": 149,
+  "code": 580},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 71,
+  "comment": 8,
+  "code": 359},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 8,
+  "code": 173},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 2,
+  "code": 72},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 20,
+  "code": 43},
+"SUM": {
+  "blank": 18962,
+  "comment": 52354,
+  "code": 110192,
+  "nFiles": 785} }

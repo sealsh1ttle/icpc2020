@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 106.966247797012,
+  "n_files"            : 329,
+  "n_lines"            : 202897,
+  "files_per_second"   : 3.07573656901882,
+  "lines_per_second"   : 1896.83198372101,
+  "report_file"        : "loc/Ripe-Apples__app.json"},
+"JavaScript" :{
+  "nFiles": 162,
+  "blank": 5745,
+  "comment": 3028,
+  "code": 66823},
+"CSS" :{
+  "nFiles": 93,
+  "blank": 10931,
+  "comment": 9076,
+  "code": 55957},
+"LESS" :{
+  "nFiles": 47,
+  "blank": 3225,
+  "comment": 3744,
+  "code": 19466},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 18755},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 15,
+  "code": 5897},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 42,
+  "comment": 0,
+  "code": 84},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 6,
+  "code": 29},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 20,
+  "code": 12},
+"SUM": {
+  "blank": 19965,
+  "comment": 15889,
+  "code": 167043,
+  "nFiles": 329} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.242646932601929,
+  "n_files"            : 36,
+  "n_lines"            : 4047,
+  "files_per_second"   : 148.363713540362,
+  "lines_per_second"   : 16678.5541304957,
+  "report_file"        : "loc/ULL-ESIT-DSI-1617__sessions-y-autenticacion-en-expressjs-alejandro-carlos-samuel-35l2-p5.json"},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 64,
+  "code": 838},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 685},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 115,
+  "comment": 99,
+  "code": 630},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 816,
+  "comment": 5,
+  "code": 577},
+"EJS" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 0,
+  "code": 116},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 16,
+  "comment": 0,
+  "code": 37},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 961,
+  "comment": 168,
+  "code": 2918,
+  "nFiles": 36} }

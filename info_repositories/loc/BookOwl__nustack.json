@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.285834074020386,
+  "n_files"            : 30,
+  "n_lines"            : 2621,
+  "files_per_second"   : 104.955996246481,
+  "lines_per_second"   : 9169.65553873423,
+  "report_file"        : "loc/BookOwl__nustack.json"},
+"Python" :{
+  "nFiles": 27,
+  "blank": 297,
+  "comment": 209,
+  "code": 1998},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 86},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 10},
+"SUM": {
+  "blank": 316,
+  "comment": 211,
+  "code": 2094,
+  "nFiles": 30} }

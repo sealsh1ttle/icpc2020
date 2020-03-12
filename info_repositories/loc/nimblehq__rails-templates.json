@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.1841990947723,
+  "n_files"            : 47,
+  "n_lines"            : 1706,
+  "files_per_second"   : 3.56487335045145,
+  "lines_per_second"   : 129.397317784472,
+  "report_file"        : "loc/nimblehq__rails-templates.json"},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 76,
+  "comment": 10,
+  "code": 638},
+"Ruby" :{
+  "nFiles": 24,
+  "blank": 117,
+  "comment": 86,
+  "code": 459},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 63,
+  "comment": 0,
+  "code": 101},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 18,
+  "code": 55},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 8,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 1,
+  "code": 9},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 293,
+  "comment": 124,
+  "code": 1289,
+  "nFiles": 47} }

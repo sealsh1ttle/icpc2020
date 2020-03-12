@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.441267013549805,
+  "n_files"            : 77,
+  "n_lines"            : 6004,
+  "files_per_second"   : 174.497521082684,
+  "lines_per_second"   : 13606.2742413043,
+  "report_file"        : "loc/deis__builder.json"},
+"Go" :{
+  "nFiles": 57,
+  "blank": 712,
+  "comment": 366,
+  "code": 4350},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 1,
+  "comment": 12,
+  "code": 308},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 43,
+  "comment": 0,
+  "code": 79},
+"make" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 8,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 43},
+"SUM": {
+  "blank": 781,
+  "comment": 388,
+  "code": 4835,
+  "nFiles": 77} }

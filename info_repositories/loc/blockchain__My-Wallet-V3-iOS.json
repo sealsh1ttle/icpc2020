@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.5600941181183,
+  "n_files"            : 2206,
+  "n_lines"            : 259962,
+  "files_per_second"   : 86.3064114633395,
+  "lines_per_second"   : 10170.6198263067,
+  "report_file"        : "loc/blockchain__My-Wallet-V3-iOS.json"},
+"Swift" :{
+  "nFiles": 1119,
+  "blank": 14626,
+  "comment": 13312,
+  "code": 68622},
+"Objective C" :{
+  "nFiles": 122,
+  "blank": 5123,
+  "comment": 1444,
+  "code": 20659},
+"Assembly" :{
+  "nFiles": 20,
+  "blank": 15503,
+  "comment": 43840,
+  "code": 19669},
+"C" :{
+  "nFiles": 213,
+  "blank": 2933,
+  "comment": 785,
+  "code": 15254},
+"XML" :{
+  "nFiles": 131,
+  "blank": 33,
+  "comment": 65,
+  "code": 13292},
+"JSON" :{
+  "nFiles": 248,
+  "blank": 1,
+  "comment": 0,
+  "code": 7156},
+"C/C++ Header" :{
+  "nFiles": 270,
+  "blank": 1599,
+  "comment": 2184,
+  "code": 5968},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 663,
+  "comment": 23,
+  "code": 2926},
+"C++" :{
+  "nFiles": 42,
+  "blank": 84,
+  "comment": 4,
+  "code": 1125},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 129,
+  "comment": 48,
+  "code": 919},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 145,
+  "comment": 0,
+  "code": 733},
+"Java" :{
+  "nFiles": 16,
+  "blank": 126,
+  "comment": 16,
+  "code": 586},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 78,
+  "comment": 0,
+  "code": 112},
+"make" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 1,
+  "code": 88},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 41075,
+  "comment": 61723,
+  "code": 157164,
+  "nFiles": 2206} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.265581130981445,
+  "n_files"            : 36,
+  "n_lines"            : 7230,
+  "files_per_second"   : 135.551798679986,
+  "lines_per_second"   : 27223.3195682306,
+  "report_file"        : "loc/marshallmcdonnell__mantid_total_scattering.json"},
+"Python" :{
+  "nFiles": 19,
+  "blank": 848,
+  "comment": 1441,
+  "code": 3059},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1131},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 232},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 38,
+  "comment": 13,
+  "code": 176},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 0,
+  "code": 149},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 7,
+  "code": 46},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 5,
+  "code": 10},
+"SUM": {
+  "blank": 961,
+  "comment": 1466,
+  "code": 4803,
+  "nFiles": 36} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.66298508644104,
+  "n_files"            : 3,
+  "n_lines"            : 88,
+  "files_per_second"   : 4.5249886631753,
+  "lines_per_second"   : 132.733000786475,
+  "report_file"        : "loc/flathub__net.sourceforge.projectM.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 61},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 88,
+  "nFiles": 3} }

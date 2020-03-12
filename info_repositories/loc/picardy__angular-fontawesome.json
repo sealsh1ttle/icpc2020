@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0731918811798096,
+  "n_files"            : 12,
+  "n_lines"            : 1700,
+  "files_per_second"   : 163.952610679861,
+  "lines_per_second"   : 23226.6198463137,
+  "report_file"        : "loc/picardy__angular-fontawesome.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 216,
+  "comment": 92,
+  "code": 671},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 0,
+  "code": 417},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 148},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 69},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 295,
+  "comment": 92,
+  "code": 1313,
+  "nFiles": 12} }

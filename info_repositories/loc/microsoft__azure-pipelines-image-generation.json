@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.852499961853,
+  "n_files"            : 249,
+  "n_lines"            : 46205,
+  "files_per_second"   : 3.72461763048626,
+  "lines_per_second"   : 691.148424163124,
+  "report_file"        : "loc/microsoft__azure-pipelines-image-generation.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 9,
+  "comment": 0,
+  "code": 33514},
+"PowerShell" :{
+  "nFiles": 133,
+  "blank": 1160,
+  "comment": 1067,
+  "code": 3518},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 687,
+  "comment": 0,
+  "code": 2267},
+"Bourne Shell" :{
+  "nFiles": 70,
+  "blank": 424,
+  "comment": 668,
+  "code": 2070},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 66,
+  "comment": 26,
+  "code": 381},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 27,
+  "comment": 6,
+  "code": 129},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 6,
+  "code": 58},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 36,
+  "code": 54},
+"SUM": {
+  "blank": 2405,
+  "comment": 1809,
+  "code": 41991,
+  "nFiles": 249} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.26392006874084,
+  "n_files"            : 17,
+  "n_lines"            : 723,
+  "files_per_second"   : 3.22953232153969,
+  "lines_per_second"   : 137.350109910188,
+  "report_file"        : "loc/yka8247__ModernBuzzWord.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 436},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 30,
+  "comment": 7,
+  "code": 125},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 12,
+  "code": 89},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 47,
+  "comment": 19,
+  "code": 657,
+  "nFiles": 17} }

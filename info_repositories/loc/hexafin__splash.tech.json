@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.962717056274414,
+  "n_files"            : 73,
+  "n_lines"            : 22500,
+  "files_per_second"   : 75.8270558563699,
+  "lines_per_second"   : 23371.3528324428,
+  "report_file"        : "loc/hexafin__splash.tech.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 15971},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 36,
+  "comment": 22,
+  "code": 1364},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 113,
+  "comment": 486,
+  "code": 1108},
+"SVG" :{
+  "nFiles": 32,
+  "blank": 0,
+  "comment": 9,
+  "code": 1051},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 246,
+  "comment": 21,
+  "code": 990},
+"JSX" :{
+  "nFiles": 10,
+  "blank": 32,
+  "comment": 46,
+  "code": 986},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 432,
+  "comment": 584,
+  "code": 21484,
+  "nFiles": 73} }

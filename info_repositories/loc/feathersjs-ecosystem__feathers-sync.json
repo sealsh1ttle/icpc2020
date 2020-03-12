@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.68757510185242,
+  "n_files"            : 21,
+  "n_lines"            : 4285,
+  "files_per_second"   : 5.69479927051543,
+  "lines_per_second"   : 1162.01023210279,
+  "report_file"        : "loc/feathersjs-ecosystem__feathers-sync.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3242},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 93,
+  "comment": 0,
+  "code": 492},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 140,
+  "comment": 0,
+  "code": 268},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 7,
+  "code": 43},
+"SUM": {
+  "blank": 233,
+  "comment": 7,
+  "code": 4045,
+  "nFiles": 21} }

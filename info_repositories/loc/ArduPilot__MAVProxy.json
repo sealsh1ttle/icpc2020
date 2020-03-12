@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.3945829868317,
+  "n_files"            : 185,
+  "n_lines"            : 44194,
+  "files_per_second"   : 12.8520569278902,
+  "lines_per_second"   : 3070.18272362799,
+  "report_file"        : "loc/ArduPilot__MAVProxy.json"},
+"Python" :{
+  "nFiles": 156,
+  "blank": 5384,
+  "comment": 5274,
+  "code": 27818},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 433,
+  "comment": 540,
+  "code": 2045},
+"XML" :{
+  "nFiles": 5,
+  "blank": 234,
+  "comment": 11,
+  "code": 1233},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 51,
+  "comment": 150,
+  "code": 407},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 59,
+  "comment": 0,
+  "code": 283},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 0,
+  "code": 135},
+"DOS Batch" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 19,
+  "code": 50},
+"SUM": {
+  "blank": 6229,
+  "comment": 5994,
+  "code": 31971,
+  "nFiles": 185} }

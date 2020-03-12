@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 934.766103029251,
+  "n_files"            : 2285,
+  "n_lines"            : 338015,
+  "files_per_second"   : 2.44446176706142,
+  "lines_per_second"   : 361.603826780423,
+  "report_file"        : "loc/apache__apex-malhar.json"},
+"Java" :{
+  "nFiles": 2021,
+  "blank": 38780,
+  "comment": 84017,
+  "code": 184060},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 81,
+  "comment": 164,
+  "code": 9007},
+"Maven" :{
+  "nFiles": 50,
+  "blank": 491,
+  "comment": 901,
+  "code": 4933},
+"Markdown" :{
+  "nFiles": 53,
+  "blank": 1508,
+  "comment": 0,
+  "code": 4889},
+"XML" :{
+  "nFiles": 68,
+  "blank": 499,
+  "comment": 1367,
+  "code": 3224},
+"JSON" :{
+  "nFiles": 43,
+  "blank": 6,
+  "comment": 0,
+  "code": 803},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 78,
+  "comment": 338,
+  "code": 694},
+"PHP" :{
+  "nFiles": 14,
+  "blank": 114,
+  "comment": 296,
+  "code": 633},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 17,
+  "code": 166},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 18,
+  "code": 98},
+"R" :{
+  "nFiles": 8,
+  "blank": 53,
+  "comment": 217,
+  "code": 72},
+"C" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 19,
+  "code": 44},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 46,
+  "code": 38},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 15,
+  "code": 38},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 21},
+"Python" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 18,
+  "code": 20},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 24,
+  "code": 16},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 18,
+  "code": 15},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Velocity Template Language" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 41762,
+  "comment": 87475,
+  "code": 208778,
+  "nFiles": 2285} }

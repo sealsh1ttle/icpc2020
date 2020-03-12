@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 106.971336126328,
+  "n_files"            : 484,
+  "n_lines"            : 64124,
+  "files_per_second"   : 4.52457655972831,
+  "lines_per_second"   : 599.450304371939,
+  "report_file"        : "loc/Netflix__security_monkey.json"},
+"Python" :{
+  "nFiles": 296,
+  "blank": 7106,
+  "comment": 10641,
+  "code": 22946},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 141,
+  "comment": 44,
+  "code": 6767},
+"Dart" :{
+  "nFiles": 58,
+  "blank": 590,
+  "comment": 178,
+  "code": 3624},
+"Markdown" :{
+  "nFiles": 47,
+  "blank": 1342,
+  "comment": 0,
+  "code": 3560},
+"HTML" :{
+  "nFiles": 47,
+  "blank": 122,
+  "comment": 105,
+  "code": 2573},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 554,
+  "comment": 216,
+  "code": 1687},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 145,
+  "comment": 165,
+  "code": 576},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 320},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 233},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 29,
+  "comment": 77,
+  "code": 215},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 26,
+  "code": 55},
+"INI" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 34},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 10067,
+  "comment": 11452,
+  "code": 42605,
+  "nFiles": 484} }

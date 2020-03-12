@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.3228900432587,
+  "n_files"            : 83,
+  "n_lines"            : 16849,
+  "files_per_second"   : 3.89253050743189,
+  "lines_per_second"   : 790.183693008673,
+  "report_file"        : "loc/rpm-software-management__yum-utils.json"},
+"Python" :{
+  "nFiles": 62,
+  "blank": 2213,
+  "comment": 2630,
+  "code": 10704},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 77,
+  "comment": 61,
+  "code": 414},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 58,
+  "code": 207},
+"make" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 4,
+  "code": 188},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 8,
+  "comment": 2,
+  "code": 72},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 51},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 10,
+  "code": 34},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 2410,
+  "comment": 2765,
+  "code": 11674,
+  "nFiles": 83} }

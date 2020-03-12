@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.213580131530762,
+  "n_files"            : 6,
+  "n_lines"            : 9802,
+  "files_per_second"   : 28.0925007255922,
+  "lines_per_second"   : 45893.7820187091,
+  "report_file"        : "loc/answer261__Training.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 1695,
+  "comment": 1293,
+  "code": 6644},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 94},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 59},
+"SUM": {
+  "blank": 1711,
+  "comment": 1294,
+  "code": 6797,
+  "nFiles": 6} }

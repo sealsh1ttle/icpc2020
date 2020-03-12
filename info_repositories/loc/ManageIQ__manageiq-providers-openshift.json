@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.6366651058197,
+  "n_files"            : 78,
+  "n_lines"            : 36735,
+  "files_per_second"   : 3.97216123917514,
+  "lines_per_second"   : 1870.73516821921,
+  "report_file"        : "loc/ManageIQ__manageiq-providers-openshift.json"},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 76,
+  "comment": 4,
+  "code": 33182},
+"Ruby" :{
+  "nFiles": 58,
+  "blank": 376,
+  "comment": 103,
+  "code": 2487},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 286},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 9,
+  "code": 109},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 55},
+"SUM": {
+  "blank": 500,
+  "comment": 116,
+  "code": 36119,
+  "nFiles": 78} }

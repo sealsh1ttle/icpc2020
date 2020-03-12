@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.84658098220825,
+  "n_files"            : 34,
+  "n_lines"            : 24597,
+  "files_per_second"   : 3.45297520646349,
+  "lines_per_second"   : 2498.02444568772,
+  "report_file"        : "loc/unindented__custom-jquery-matchers.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 22473},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 185,
+  "comment": 2,
+  "code": 882},
+"TypeScript" :{
+  "nFiles": 4,
+  "blank": 124,
+  "comment": 6,
+  "code": 572},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 88,
+  "comment": 0,
+  "code": 262},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 397,
+  "comment": 8,
+  "code": 24192,
+  "nFiles": 34} }

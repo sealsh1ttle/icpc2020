@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 80.7602729797363,
+  "n_files"            : 172,
+  "n_lines"            : 18584,
+  "files_per_second"   : 2.12976001261359,
+  "lines_per_second"   : 230.113139967505,
+  "report_file"        : "loc/microsoft__binskim.json"},
+"C#" :{
+  "nFiles": 118,
+  "blank": 2092,
+  "comment": 2338,
+  "code": 11021},
+"XML" :{
+  "nFiles": 8,
+  "blank": 66,
+  "comment": 198,
+  "code": 913},
+"MSBuild script" :{
+  "nFiles": 12,
+  "blank": 47,
+  "comment": 3,
+  "code": 484},
+"DOS Batch" :{
+  "nFiles": 10,
+  "blank": 68,
+  "comment": 14,
+  "code": 316},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 93,
+  "comment": 0,
+  "code": 233},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 53,
+  "code": 227},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 33,
+  "comment": 26,
+  "code": 100},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"C" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 19,
+  "code": 33},
+"WiX source" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 4,
+  "code": 31},
+"C++" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 29},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Haskell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 0},
+"SUM": {
+  "blank": 2489,
+  "comment": 2655,
+  "code": 13440,
+  "nFiles": 172} }

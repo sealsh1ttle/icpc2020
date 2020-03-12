@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.56474494934082,
+  "n_files"            : 67,
+  "n_lines"            : 27969,
+  "files_per_second"   : 118.637625848985,
+  "lines_per_second"   : 49525.0113040336,
+  "report_file"        : "loc/Soluto__oidc-server-mock.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 1772,
+  "comment": 1658,
+  "code": 14586},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 12,
+  "code": 6869},
+"C#" :{
+  "nFiles": 28,
+  "blank": 203,
+  "comment": 185,
+  "code": 1126},
+"Razor" :{
+  "nFiles": 13,
+  "blank": 40,
+  "comment": 2,
+  "code": 477},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 0,
+  "code": 190},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 3,
+  "code": 142},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 92},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 68},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 4,
+  "code": 32},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 2,
+  "code": 23},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 13},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 2141,
+  "comment": 1867,
+  "code": 23961,
+  "nFiles": 67} }

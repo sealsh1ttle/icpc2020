@@ -1,0 +1,174 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.02850818634033,
+  "n_files"            : 694,
+  "n_lines"            : 116077,
+  "files_per_second"   : 86.4419620547649,
+  "lines_per_second"   : 14458.1032124365,
+  "report_file"        : "loc/GoogleCloudPlatform__community.json"},
+"Markdown" :{
+  "nFiles": 239,
+  "blank": 19774,
+  "comment": 8,
+  "code": 48644},
+"JSON" :{
+  "nFiles": 53,
+  "blank": 75,
+  "comment": 0,
+  "code": 11285},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 0,
+  "code": 9674},
+"JavaScript" :{
+  "nFiles": 46,
+  "blank": 484,
+  "comment": 601,
+  "code": 3406},
+"Java" :{
+  "nFiles": 63,
+  "blank": 722,
+  "comment": 1385,
+  "code": 3177},
+"Python" :{
+  "nFiles": 50,
+  "blank": 872,
+  "comment": 984,
+  "code": 3120},
+"Bourne Shell" :{
+  "nFiles": 45,
+  "blank": 264,
+  "comment": 347,
+  "code": 1056},
+"Go" :{
+  "nFiles": 11,
+  "blank": 157,
+  "comment": 94,
+  "code": 982},
+"YAML" :{
+  "nFiles": 43,
+  "blank": 50,
+  "comment": 130,
+  "code": 963},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 123,
+  "comment": 20,
+  "code": 906},
+"XML" :{
+  "nFiles": 21,
+  "blank": 44,
+  "comment": 122,
+  "code": 865},
+"TypeScript" :{
+  "nFiles": 17,
+  "blank": 143,
+  "comment": 206,
+  "code": 735},
+"Maven" :{
+  "nFiles": 7,
+  "blank": 54,
+  "comment": 86,
+  "code": 672},
+"HCL" :{
+  "nFiles": 9,
+  "blank": 120,
+  "comment": 102,
+  "code": 472},
+"LESS" :{
+  "nFiles": 4,
+  "blank": 69,
+  "comment": 16,
+  "code": 328},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 63,
+  "comment": 27,
+  "code": 318},
+"Dockerfile" :{
+  "nFiles": 15,
+  "blank": 89,
+  "comment": 171,
+  "code": 225},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 0,
+  "code": 205},
+"C#" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 86,
+  "code": 165},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 113},
+"JSP" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 28,
+  "code": 108},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 316,
+  "code": 108},
+"Swift" :{
+  "nFiles": 6,
+  "blank": 17,
+  "comment": 12,
+  "code": 81},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 27,
+  "comment": 73,
+  "code": 81},
+"Grails" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 80},
+"INI" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 47},
+"diff" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 12,
+  "code": 34},
+"Pug" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 6,
+  "code": 28},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 25},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 18},
+"Kotlin" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 23283,
+  "comment": 4832,
+  "code": 87962,
+  "nFiles": 694} }

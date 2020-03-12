@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.405081987380981,
+  "n_files"            : 2,
+  "n_lines"            : 86,
+  "files_per_second"   : 4.93727211355609,
+  "lines_per_second"   : 212.302700882912,
+  "report_file"        : "loc/Darryl-is-not-cool__greenTea.json"},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 47},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 34},
+"SUM": {
+  "blank": 3,
+  "comment": 2,
+  "code": 81,
+  "nFiles": 2} }

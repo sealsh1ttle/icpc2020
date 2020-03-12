@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.316179037094116,
+  "n_files"            : 11,
+  "n_lines"            : 3115,
+  "files_per_second"   : 34.7904152694527,
+  "lines_per_second"   : 9852.01305130411,
+  "report_file"        : "loc/yoavram__python.yoavram.com.json"},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 103,
+  "comment": 396,
+  "code": 1176},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 34,
+  "code": 1021},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 1,
+  "code": 234},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 5,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 181,
+  "comment": 436,
+  "code": 2498,
+  "nFiles": 11} }

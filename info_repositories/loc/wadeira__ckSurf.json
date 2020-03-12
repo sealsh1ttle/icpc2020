@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.9602429866791,
+  "n_files"            : 39,
+  "n_lines"            : 39000,
+  "files_per_second"   : 1.05518786805747,
+  "lines_per_second"   : 1055.18786805747,
+  "report_file"        : "loc/wadeira__ckSurf.json"},
+"SparForte" :{
+  "nFiles": 12,
+  "blank": 3061,
+  "comment": 0,
+  "code": 19988},
+"Pascal" :{
+  "nFiles": 15,
+  "blank": 1507,
+  "comment": 3529,
+  "code": 5716},
+"SQL" :{
+  "nFiles": 7,
+  "blank": 7,
+  "comment": 0,
+  "code": 4853},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 33,
+  "code": 175},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 58},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 4639,
+  "comment": 3562,
+  "code": 30799,
+  "nFiles": 39} }

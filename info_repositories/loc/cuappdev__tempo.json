@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.902023792266846,
+  "n_files"            : 125,
+  "n_lines"            : 12402,
+  "files_per_second"   : 138.577275978349,
+  "lines_per_second"   : 13749.0830134679,
+  "report_file"        : "loc/cuappdev__tempo.json"},
+"Swift" :{
+  "nFiles": 68,
+  "blank": 1728,
+  "comment": 705,
+  "code": 6826},
+"XML" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 1,
+  "code": 2010},
+"JSON" :{
+  "nFiles": 39,
+  "blank": 0,
+  "comment": 0,
+  "code": 1009},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 2,
+  "code": 85},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 1},
+"SUM": {
+  "blank": 1760,
+  "comment": 711,
+  "code": 9931,
+  "nFiles": 125} }

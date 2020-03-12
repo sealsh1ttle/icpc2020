@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.79477000236511,
+  "n_files"            : 78,
+  "n_lines"            : 33265,
+  "files_per_second"   : 13.4604134362821,
+  "lines_per_second"   : 5740.52119176827,
+  "report_file"        : "loc/laravel__docs.json"},
+"Markdown" :{
+  "nFiles": 78,
+  "blank": 10374,
+  "comment": 0,
+  "code": 22891},
+"SUM": {
+  "blank": 10374,
+  "comment": 0,
+  "code": 22891,
+  "nFiles": 78} }

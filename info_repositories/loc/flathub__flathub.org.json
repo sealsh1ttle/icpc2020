@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.72222113609314,
+  "n_files"            : 34,
+  "n_lines"            : 8158,
+  "files_per_second"   : 5.05785205688135,
+  "lines_per_second"   : 1213.5869729423,
+  "report_file"        : "loc/flathub__flathub.org.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2340},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 600,
+  "comment": 259,
+  "code": 1634},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 182,
+  "comment": 1,
+  "code": 1009},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 2,
+  "code": 951},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 47,
+  "code": 492},
+"Haml" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 4,
+  "code": 222},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 9,
+  "code": 121},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 76},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 30,
+  "code": 41},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 20},
+"Python" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 18},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 868,
+  "comment": 352,
+  "code": 6938,
+  "nFiles": 34} }

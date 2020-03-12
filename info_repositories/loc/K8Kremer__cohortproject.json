@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.4048058986664,
+  "n_files"            : 56,
+  "n_lines"            : 20804,
+  "files_per_second"   : 3.63522918551333,
+  "lines_per_second"   : 1350.4876424182,
+  "report_file"        : "loc/K8Kremer__cohortproject.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 0,
+  "code": 16737},
+"JavaScript" :{
+  "nFiles": 41,
+  "blank": 402,
+  "comment": 181,
+  "code": 2706},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 25,
+  "code": 413},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 45,
+  "comment": 11,
+  "code": 137},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 61},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 20,
+  "code": 24},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 23},
+"SUM": {
+  "blank": 465,
+  "comment": 238,
+  "code": 20101,
+  "nFiles": 56} }

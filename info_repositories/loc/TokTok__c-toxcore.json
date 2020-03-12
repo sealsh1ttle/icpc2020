@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.10295009613037,
+  "n_files"            : 240,
+  "n_lines"            : 70609,
+  "files_per_second"   : 114.125390061145,
+  "lines_per_second"   : 33576.1652784473,
+  "report_file"        : "loc/TokTok__c-toxcore.json"},
+"C" :{
+  "nFiles": 102,
+  "blank": 9440,
+  "comment": 4980,
+  "code": 32635},
+"C/C++ Header" :{
+  "nFiles": 58,
+  "blank": 2443,
+  "comment": 8735,
+  "code": 4169},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 520,
+  "comment": 0,
+  "code": 1896},
+"Bourne Shell" :{
+  "nFiles": 33,
+  "blank": 342,
+  "comment": 301,
+  "code": 1226},
+"m4" :{
+  "nFiles": 4,
+  "blank": 120,
+  "comment": 0,
+  "code": 1063},
+"C++" :{
+  "nFiles": 7,
+  "blank": 189,
+  "comment": 55,
+  "code": 736},
+"CMake" :{
+  "nFiles": 7,
+  "blank": 130,
+  "comment": 198,
+  "code": 627},
+"Python" :{
+  "nFiles": 4,
+  "blank": 85,
+  "comment": 87,
+  "code": 201},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 13,
+  "code": 188},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 9,
+  "code": 72},
+"make" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 0,
+  "code": 67},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 3,
+  "code": 25},
+"SUM": {
+  "blank": 13323,
+  "comment": 14381,
+  "code": 42905,
+  "nFiles": 240} }

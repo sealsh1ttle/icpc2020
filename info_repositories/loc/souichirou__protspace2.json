@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.2352728843689,
+  "n_files"            : 120,
+  "n_lines"            : 12804,
+  "files_per_second"   : 5.16456168159436,
+  "lines_per_second"   : 551.058731426118,
+  "report_file"        : "loc/souichirou__protspace2.json"},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 14,
+  "code": 7384},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 611,
+  "comment": 249,
+  "code": 1725},
+"Ruby" :{
+  "nFiles": 65,
+  "blank": 215,
+  "comment": 441,
+  "code": 570},
+"Haml" :{
+  "nFiles": 34,
+  "blank": 14,
+  "comment": 0,
+  "code": 548},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 93,
+  "comment": 1,
+  "code": 505},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 12,
+  "comment": 72,
+  "code": 86},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 34},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 968,
+  "comment": 782,
+  "code": 11054,
+  "nFiles": 120} }

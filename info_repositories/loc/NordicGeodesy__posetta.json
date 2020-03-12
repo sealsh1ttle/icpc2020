@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.88100004196167,
+  "n_files"            : 40,
+  "n_lines"            : 2848,
+  "files_per_second"   : 4.50399727632077,
+  "lines_per_second"   : 320.684606074039,
+  "report_file"        : "loc/NordicGeodesy__posetta.json"},
+"Python" :{
+  "nFiles": 24,
+  "blank": 528,
+  "comment": 777,
+  "code": 866},
+"TeX" :{
+  "nFiles": 8,
+  "blank": 65,
+  "comment": 22,
+  "code": 256},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 107,
+  "comment": 0,
+  "code": 153},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 26},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 8,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 712,
+  "comment": 808,
+  "code": 1328,
+  "nFiles": 40} }

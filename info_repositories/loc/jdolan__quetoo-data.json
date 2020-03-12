@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 124.204589128494,
+  "n_files"            : 54,
+  "n_lines"            : 5179,
+  "files_per_second"   : 0.434766544287144,
+  "lines_per_second"   : 41.6973320900577,
+  "report_file"        : "loc/jdolan__quetoo-data.json"},
+"Unity-Prefab" :{
+  "nFiles": 45,
+  "blank": 10,
+  "comment": 0,
+  "code": 3611},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 229,
+  "comment": 0,
+  "code": 757},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 231},
+"XML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 8,
+  "code": 103},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 90,
+  "comment": 0,
+  "code": 97},
+"HLSL" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 345,
+  "comment": 11,
+  "code": 4823,
+  "nFiles": 54} }

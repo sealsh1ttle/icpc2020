@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.7480080127716,
+  "n_files"            : 2147,
+  "n_lines"            : 516309,
+  "files_per_second"   : 63.6185697000987,
+  "lines_per_second"   : 15298.9474165292,
+  "report_file"        : "loc/aws__aws-cdk.json"},
+"JSON" :{
+  "nFiles": 533,
+  "blank": 9,
+  "comment": 0,
+  "code": 303031},
+"TypeScript" :{
+  "nFiles": 1286,
+  "blank": 23121,
+  "comment": 45035,
+  "code": 118336},
+"Markdown" :{
+  "nFiles": 170,
+  "blank": 4785,
+  "comment": 12,
+  "code": 14954},
+"JavaScript" :{
+  "nFiles": 26,
+  "blank": 355,
+  "comment": 421,
+  "code": 1593},
+"Python" :{
+  "nFiles": 25,
+  "blank": 388,
+  "comment": 142,
+  "code": 1206},
+"Bourne Shell" :{
+  "nFiles": 54,
+  "blank": 278,
+  "comment": 225,
+  "code": 1009},
+"Bourne Again Shell" :{
+  "nFiles": 15,
+  "blank": 105,
+  "comment": 86,
+  "code": 395},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 40,
+  "comment": 43,
+  "code": 159},
+"Java" :{
+  "nFiles": 5,
+  "blank": 35,
+  "comment": 10,
+  "code": 112},
+"C#" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 8,
+  "code": 101},
+"XML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 3,
+  "code": 88},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 8,
+  "code": 80},
+"F#" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 36},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 0,
+  "code": 34},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 13},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 29165,
+  "comment": 45993,
+  "code": 441151,
+  "nFiles": 2147} }

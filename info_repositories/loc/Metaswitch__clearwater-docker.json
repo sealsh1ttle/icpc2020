@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.2444169521332,
+  "n_files"            : 31,
+  "n_lines"            : 852,
+  "files_per_second"   : 2.17629125180568,
+  "lines_per_second"   : 59.812907952853,
+  "report_file"        : "loc/Metaswitch__clearwater-docker.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 110,
+  "comment": 0,
+  "code": 198},
+"Dockerfile" :{
+  "nFiles": 11,
+  "blank": 45,
+  "comment": 13,
+  "code": 120},
+"Python" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 25,
+  "code": 104},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 5,
+  "code": 98},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 11,
+  "comment": 6,
+  "code": 50},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 10,
+  "code": 15},
+"SUM": {
+  "blank": 208,
+  "comment": 59,
+  "code": 585,
+  "nFiles": 31} }

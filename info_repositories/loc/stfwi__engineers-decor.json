@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.15597891807556,
+  "n_files"            : 950,
+  "n_lines"            : 46353,
+  "files_per_second"   : 103.757338073871,
+  "lines_per_second"   : 5062.59357025067,
+  "report_file"        : "loc/stfwi__engineers-decor.json"},
+"JSON" :{
+  "nFiles": 848,
+  "blank": 0,
+  "comment": 0,
+  "code": 22425},
+"Java" :{
+  "nFiles": 76,
+  "blank": 2400,
+  "comment": 1765,
+  "code": 16441},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 71,
+  "comment": 120,
+  "code": 1402},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 160,
+  "comment": 0,
+  "code": 596},
+"make" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 33,
+  "code": 168},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 9,
+  "code": 165},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 125},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 4,
+  "code": 123},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 25},
+"SUM": {
+  "blank": 2779,
+  "comment": 1975,
+  "code": 41599,
+  "nFiles": 950} }

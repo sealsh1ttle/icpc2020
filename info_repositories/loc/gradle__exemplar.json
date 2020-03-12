@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.753406047821045,
+  "n_files"            : 77,
+  "n_lines"            : 4335,
+  "files_per_second"   : 102.202524419196,
+  "lines_per_second"   : 5753.86939424952,
+  "report_file"        : "loc/gradle__exemplar.json"},
+"Java" :{
+  "nFiles": 40,
+  "blank": 258,
+  "comment": 710,
+  "code": 1398},
+"Groovy" :{
+  "nFiles": 11,
+  "blank": 160,
+  "comment": 106,
+  "code": 684},
+"AsciiDoc" :{
+  "nFiles": 2,
+  "blank": 114,
+  "comment": 5,
+  "code": 306},
+"Gradle" :{
+  "nFiles": 16,
+  "blank": 43,
+  "comment": 20,
+  "code": 213},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 22,
+  "code": 133},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Kotlin" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 27},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 629,
+  "comment": 865,
+  "code": 2841,
+  "nFiles": 77} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.8979640007019,
+  "n_files"            : 151,
+  "n_lines"            : 23319,
+  "files_per_second"   : 4.20636668968322,
+  "lines_per_second"   : 649.591157859093,
+  "report_file"        : "loc/baidu__bfs.json"},
+"C++" :{
+  "nFiles": 50,
+  "blank": 1293,
+  "comment": 692,
+  "code": 14113},
+"C/C++ Header" :{
+  "nFiles": 32,
+  "blank": 347,
+  "comment": 328,
+  "code": 2096},
+"Bourne Shell" :{
+  "nFiles": 22,
+  "blank": 173,
+  "comment": 105,
+  "code": 869},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 354,
+  "comment": 0,
+  "code": 786},
+"Protocol Buffers" :{
+  "nFiles": 9,
+  "blank": 94,
+  "comment": 3,
+  "code": 621},
+"Python" :{
+  "nFiles": 8,
+  "blank": 198,
+  "comment": 145,
+  "code": 620},
+"make" :{
+  "nFiles": 2,
+  "blank": 61,
+  "comment": 8,
+  "code": 220},
+"INI" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 112},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 66},
+"SUM": {
+  "blank": 2535,
+  "comment": 1281,
+  "code": 19503,
+  "nFiles": 151} }

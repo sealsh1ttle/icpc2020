@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 314.429241895676,
+  "n_files"            : 1369,
+  "n_lines"            : 752026,
+  "files_per_second"   : 4.35392074778535,
+  "lines_per_second"   : 2391.71775330462,
+  "report_file"        : "loc/kubernetes-csi__cluster-driver-registrar.json"},
+"Go" :{
+  "nFiles": 1321,
+  "blank": 51182,
+  "comment": 80596,
+  "code": 617686},
+"Assembly" :{
+  "nFiles": 33,
+  "blank": 253,
+  "comment": 300,
+  "code": 1558},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 66,
+  "comment": 0,
+  "code": 183},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 8,
+  "code": 45},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 22,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 23,
+  "code": 15},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 13,
+  "code": 3},
+"SUM": {
+  "blank": 51522,
+  "comment": 80969,
+  "code": 619535,
+  "nFiles": 1369} }

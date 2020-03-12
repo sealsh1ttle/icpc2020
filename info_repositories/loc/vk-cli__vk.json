@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.89653611183167,
+  "n_files"            : 14,
+  "n_lines"            : 5524,
+  "files_per_second"   : 2.85916404581829,
+  "lines_per_second"   : 1128.14444207859,
+  "report_file"        : "loc/vk-cli__vk.json"},
+"D" :{
+  "nFiles": 9,
+  "blank": 827,
+  "comment": 194,
+  "code": 4326},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 64},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 1,
+  "code": 37},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 873,
+  "comment": 195,
+  "code": 4456,
+  "nFiles": 14} }

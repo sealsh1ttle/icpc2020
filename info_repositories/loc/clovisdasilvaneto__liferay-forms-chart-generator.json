@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.34173488616943,
+  "n_files"            : 11,
+  "n_lines"            : 13369,
+  "files_per_second"   : 4.69737204880335,
+  "lines_per_second"   : 5709.01517458655,
+  "report_file"        : "loc/clovisdasilvaneto__liferay-forms-chart-generator.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 13221},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 0,
+  "code": 52},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 3,
+  "code": 50},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 14},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 28,
+  "comment": 3,
+  "code": 13338,
+  "nFiles": 11} }

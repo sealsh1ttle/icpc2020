@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.0403869152069,
+  "n_files"            : 77,
+  "n_lines"            : 20908,
+  "files_per_second"   : 3.84224118654972,
+  "lines_per_second"   : 1043.29323023872,
+  "report_file"        : "loc/ox-it__wl-syllabus.json"},
+"Java" :{
+  "nFiles": 34,
+  "blank": 1243,
+  "comment": 1642,
+  "code": 6526},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 904,
+  "comment": 2071,
+  "code": 4388},
+"JSP" :{
+  "nFiles": 16,
+  "blank": 124,
+  "comment": 56,
+  "code": 1891},
+"XML" :{
+  "nFiles": 8,
+  "blank": 107,
+  "comment": 57,
+  "code": 674},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 11,
+  "code": 353},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 61,
+  "comment": 407,
+  "code": 205},
+"SQL" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 139},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 10},
+"SUM": {
+  "blank": 2455,
+  "comment": 4249,
+  "code": 14204,
+  "nFiles": 77} }

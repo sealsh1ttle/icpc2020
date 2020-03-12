@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.0657160282135,
+  "n_files"            : 33,
+  "n_lines"            : 5871,
+  "files_per_second"   : 4.09139125213032,
+  "lines_per_second"   : 727.895698219912,
+  "report_file"        : "loc/ropensci__clifro.json"},
+"R" :{
+  "nFiles": 20,
+  "blank": 418,
+  "comment": 1611,
+  "code": 1898},
+"Rmd" :{
+  "nFiles": 5,
+  "blank": 234,
+  "comment": 742,
+  "code": 344},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 83,
+  "comment": 0,
+  "code": 261},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 261},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 738,
+  "comment": 2353,
+  "code": 2780,
+  "nFiles": 33} }

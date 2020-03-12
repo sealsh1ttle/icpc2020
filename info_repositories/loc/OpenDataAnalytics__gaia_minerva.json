@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.573704957962,
+  "n_files"            : 32,
+  "n_lines"            : 2115,
+  "files_per_second"   : 3.02637534593812,
+  "lines_per_second"   : 200.024495520598,
+  "report_file"        : "loc/OpenDataAnalytics__gaia_minerva.json"},
+"Python" :{
+  "nFiles": 8,
+  "blank": 151,
+  "comment": 343,
+  "code": 441},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 105,
+  "comment": 17,
+  "code": 205},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 6,
+  "code": 163},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 1,
+  "comment": 0,
+  "code": 107},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 14,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 75},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 7,
+  "code": 50},
+"Pug" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 47},
+"Stylus" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 40},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 368,
+  "comment": 393,
+  "code": 1354,
+  "nFiles": 32} }

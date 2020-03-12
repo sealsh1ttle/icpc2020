@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.22443318367,
+  "n_files"            : 62,
+  "n_lines"            : 11996,
+  "files_per_second"   : 3.59953789706011,
+  "lines_per_second"   : 696.452526018275,
+  "report_file"        : "loc/Bajdzis__vscode-database.json"},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 4,
+  "comment": 0,
+  "code": 8784},
+"TypeScript" :{
+  "nFiles": 37,
+  "blank": 359,
+  "comment": 186,
+  "code": 1920},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 155},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 60,
+  "comment": 0,
+  "code": 150},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 81},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 58,
+  "comment": 126,
+  "code": 65},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 516,
+  "comment": 312,
+  "code": 11168,
+  "nFiles": 62} }

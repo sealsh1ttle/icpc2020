@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0622999668121338,
+  "n_files"            : 1,
+  "n_lines"            : 118,
+  "files_per_second"   : 16.0513729167065,
+  "lines_per_second"   : 1894.06200417137,
+  "report_file"        : "loc/rstudio-education__rstats-ed.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 0,
+  "code": 58},
+"SUM": {
+  "blank": 60,
+  "comment": 0,
+  "code": 58,
+  "nFiles": 1} }

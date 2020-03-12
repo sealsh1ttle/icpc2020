@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.360725879669189,
+  "n_files"            : 68,
+  "n_lines"            : 6182,
+  "files_per_second"   : 188.508792500169,
+  "lines_per_second"   : 17137.6669887653,
+  "report_file"        : "loc/knative__website.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2912},
+"HTML" :{
+  "nFiles": 33,
+  "blank": 44,
+  "comment": 14,
+  "code": 739},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 129,
+  "comment": 39,
+  "code": 551},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 326},
+"TOML" :{
+  "nFiles": 10,
+  "blank": 88,
+  "comment": 163,
+  "code": 309},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 227,
+  "code": 185},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 34,
+  "code": 167},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 35,
+  "comment": 0,
+  "code": 127},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 367,
+  "comment": 478,
+  "code": 5337,
+  "nFiles": 68} }

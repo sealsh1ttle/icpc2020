@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.454662084579468,
+  "n_files"            : 46,
+  "n_lines"            : 2821,
+  "files_per_second"   : 101.174040150163,
+  "lines_per_second"   : 6204.60798399153,
+  "report_file"        : "loc/Smile-SA__magento2-module-retailer.json"},
+"PHP" :{
+  "nFiles": 29,
+  "blank": 192,
+  "comment": 993,
+  "code": 759},
+"XML" :{
+  "nFiles": 13,
+  "blank": 24,
+  "comment": 203,
+  "code": 534},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 234,
+  "comment": 1196,
+  "code": 1391,
+  "nFiles": 46} }

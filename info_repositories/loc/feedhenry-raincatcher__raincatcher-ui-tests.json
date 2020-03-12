@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.6504261493683,
+  "n_files"            : 52,
+  "n_lines"            : 3434,
+  "files_per_second"   : 3.80940488091696,
+  "lines_per_second"   : 251.567237712862,
+  "report_file"        : "loc/feedhenry-raincatcher__raincatcher-ui-tests.json"},
+"JavaScript" :{
+  "nFiles": 50,
+  "blank": 289,
+  "comment": 412,
+  "code": 2593},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 73},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 319,
+  "comment": 412,
+  "code": 2703,
+  "nFiles": 52} }

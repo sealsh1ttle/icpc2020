@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.544365167617798,
+  "n_files"            : 3,
+  "n_lines"            : 70,
+  "files_per_second"   : 5.51100654203929,
+  "lines_per_second"   : 128.590152647583,
+  "report_file"        : "loc/learn-co-curriculum__node-repl-lab.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 22,
+  "comment": 0,
+  "code": 48,
+  "nFiles": 3} }

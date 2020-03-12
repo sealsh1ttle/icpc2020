@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.5244641304016,
+  "n_files"            : 115,
+  "n_lines"            : 45765,
+  "files_per_second"   : 5.3427578639494,
+  "lines_per_second"   : 2126.18533603169,
+  "report_file"        : "loc/Kozea__WeasyPrint.json"},
+"Python" :{
+  "nFiles": 89,
+  "blank": 5167,
+  "comment": 11572,
+  "code": 24048},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 1096,
+  "comment": 599,
+  "code": 2179},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 75,
+  "comment": 34,
+  "code": 708},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 1,
+  "code": 199},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 5,
+  "code": 44},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 6371,
+  "comment": 12212,
+  "code": 27182,
+  "nFiles": 115} }

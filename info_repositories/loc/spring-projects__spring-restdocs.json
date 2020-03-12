@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 148.629306793213,
+  "n_files"            : 492,
+  "n_lines"            : 61814,
+  "files_per_second"   : 3.31024890457517,
+  "lines_per_second"   : 415.893751600426,
+  "report_file"        : "loc/spring-projects__spring-restdocs.json"},
+"Java" :{
+  "nFiles": 381,
+  "blank": 5351,
+  "comment": 12374,
+  "code": 20960},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 2562,
+  "comment": 2922,
+  "code": 8454},
+"AsciiDoc" :{
+  "nFiles": 22,
+  "blank": 988,
+  "comment": 0,
+  "code": 2753},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 238,
+  "comment": 59,
+  "code": 1047},
+"Gradle" :{
+  "nFiles": 19,
+  "blank": 151,
+  "comment": 0,
+  "code": 795},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 110,
+  "comment": 130,
+  "code": 541},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 179,
+  "comment": 0,
+  "code": 443},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 267},
+"Groovy" :{
+  "nFiles": 5,
+  "blank": 55,
+  "comment": 75,
+  "code": 247},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 1,
+  "comment": 0,
+  "code": 211},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 95,
+  "comment": 12,
+  "code": 195},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 2,
+  "code": 172},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 22,
+  "code": 166},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 128},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 9820,
+  "comment": 15596,
+  "code": 36398,
+  "nFiles": 492} }

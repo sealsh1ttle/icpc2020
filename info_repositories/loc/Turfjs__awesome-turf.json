@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.038909912109375,
+  "n_files"            : 3,
+  "n_lines"            : 153,
+  "files_per_second"   : 77.1011764705882,
+  "lines_per_second"   : 3932.16,
+  "report_file"        : "loc/Turfjs__awesome-turf.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 48,
+  "comment": 0,
+  "code": 105},
+"SUM": {
+  "blank": 48,
+  "comment": 0,
+  "code": 105,
+  "nFiles": 3} }

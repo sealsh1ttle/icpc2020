@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 272.08517408371,
+  "n_files"            : 511,
+  "n_lines"            : 319368,
+  "files_per_second"   : 1.8780883659717,
+  "lines_per_second"   : 1173.77950149442,
+  "report_file"        : "loc/OPAE__opae.github.io.json"},
+"HTML" :{
+  "nFiles": 458,
+  "blank": 59707,
+  "comment": 527,
+  "code": 236962},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 2301,
+  "comment": 2443,
+  "code": 9650},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3356},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 522,
+  "comment": 106,
+  "code": 2272},
+"reStructuredText" :{
+  "nFiles": 15,
+  "blank": 442,
+  "comment": 446,
+  "code": 634},
+"SUM": {
+  "blank": 62972,
+  "comment": 3522,
+  "code": 252874,
+  "nFiles": 511} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.488792181015015,
+  "n_files"            : 73,
+  "n_lines"            : 6429,
+  "files_per_second"   : 149.347724524582,
+  "lines_per_second"   : 13152.8290543635,
+  "report_file"        : "loc/kevana__ui-for-docker.json"},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 379,
+  "comment": 367,
+  "code": 3250},
+"HTML" :{
+  "nFiles": 21,
+  "blank": 86,
+  "comment": 8,
+  "code": 1736},
+"Go" :{
+  "nFiles": 6,
+  "blank": 28,
+  "comment": 13,
+  "code": 203},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 98},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 83},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 0,
+  "code": 77},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 21},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 563,
+  "comment": 388,
+  "code": 5478,
+  "nFiles": 73} }

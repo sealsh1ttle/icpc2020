@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.7218940258026,
+  "n_files"            : 280,
+  "n_lines"            : 749917,
+  "files_per_second"   : 5.9929077328365,
+  "lines_per_second"   : 16050.6549581627,
+  "report_file"        : "loc/node-webrtc__node-webrtc.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 727959},
+"C++" :{
+  "nFiles": 83,
+  "blank": 1023,
+  "comment": 278,
+  "code": 5145},
+"JavaScript" :{
+  "nFiles": 60,
+  "blank": 779,
+  "comment": 241,
+  "code": 4328},
+"C/C++ Header" :{
+  "nFiles": 110,
+  "blank": 1044,
+  "comment": 841,
+  "code": 2971},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 606,
+  "comment": 0,
+  "code": 2213},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 111,
+  "comment": 157,
+  "code": 897},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 195,
+  "comment": 22,
+  "code": 847},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 50,
+  "comment": 0,
+  "code": 136},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 0,
+  "code": 40},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 9,
+  "code": 1},
+"SUM": {
+  "blank": 3832,
+  "comment": 1548,
+  "code": 744537,
+  "nFiles": 280} }

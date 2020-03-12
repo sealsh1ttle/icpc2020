@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.112846851348877,
+  "n_files"            : 3,
+  "n_lines"            : 509,
+  "files_per_second"   : 26.5847027554647,
+  "lines_per_second"   : 4510.53790084384,
+  "report_file"        : "loc/lerna__website.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 0,
+  "code": 278},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 11,
+  "code": 154},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 65,
+  "comment": 11,
+  "code": 433,
+  "nFiles": 3} }

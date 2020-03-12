@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.6889760494232,
+  "n_files"            : 68,
+  "n_lines"            : 4278,
+  "files_per_second"   : 3.6385085956648,
+  "lines_per_second"   : 228.904996650794,
+  "report_file"        : "loc/ceit93__graduation-web.json"},
+"Vuejs Component" :{
+  "nFiles": 37,
+  "blank": 171,
+  "comment": 191,
+  "code": 3137},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 11,
+  "comment": 21,
+  "code": 252},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 24,
+  "code": 111},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 7,
+  "code": 97},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 63},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 30,
+  "comment": 0,
+  "code": 59},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 10},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 247,
+  "comment": 243,
+  "code": 3788,
+  "nFiles": 68} }

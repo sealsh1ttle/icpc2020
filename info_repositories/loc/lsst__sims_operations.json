@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 125.414521217346,
+  "n_files"            : 230,
+  "n_lines"            : 49055,
+  "files_per_second"   : 1.83391841524798,
+  "lines_per_second"   : 391.142903739086,
+  "report_file"        : "loc/lsst__sims_operations.json"},
+"Python" :{
+  "nFiles": 104,
+  "blank": 5350,
+  "comment": 7650,
+  "code": 17639},
+"C" :{
+  "nFiles": 27,
+  "blank": 1283,
+  "comment": 1216,
+  "code": 8004},
+"C/C++ Header" :{
+  "nFiles": 7,
+  "blank": 392,
+  "comment": 150,
+  "code": 1442},
+"SQL" :{
+  "nFiles": 41,
+  "blank": 280,
+  "comment": 96,
+  "code": 1083},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 170,
+  "comment": 247,
+  "code": 1051},
+"reStructuredText" :{
+  "nFiles": 19,
+  "blank": 313,
+  "comment": 139,
+  "code": 924},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 38,
+  "code": 608},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 2,
+  "code": 332},
+"make" :{
+  "nFiles": 4,
+  "blank": 53,
+  "comment": 10,
+  "code": 303},
+"C++" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 43,
+  "code": 86},
+"MATLAB" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 3,
+  "code": 20},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"C Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 7926,
+  "comment": 9594,
+  "code": 31535,
+  "nFiles": 230} }

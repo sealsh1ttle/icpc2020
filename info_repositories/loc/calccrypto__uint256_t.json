@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.333478927612305,
+  "n_files"            : 36,
+  "n_lines"            : 2880,
+  "files_per_second"   : 107.952848048776,
+  "lines_per_second"   : 8636.2278439021,
+  "report_file"        : "loc/calccrypto__uint256_t.json"},
+"C++" :{
+  "nFiles": 29,
+  "blank": 430,
+  "comment": 62,
+  "code": 2005},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 223},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 48},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 36},
+"NAnt script" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 13},
+"SUM": {
+  "blank": 470,
+  "comment": 65,
+  "code": 2345,
+  "nFiles": 36} }

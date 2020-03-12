@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.418260097503662,
+  "n_files"            : 5,
+  "n_lines"            : 112,
+  "files_per_second"   : 11.9542840204981,
+  "lines_per_second"   : 267.775962059157,
+  "report_file"        : "loc/mistertaftcreates__GDQuest-Learning-Nodes.json"},
+"GDScript" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 2,
+  "code": 79},
+"SUM": {
+  "blank": 31,
+  "comment": 2,
+  "code": 79,
+  "nFiles": 5} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.201043844223022,
+  "n_files"            : 1,
+  "n_lines"            : 1,
+  "files_per_second"   : 4.97403938859564,
+  "lines_per_second"   : 4.97403938859564,
+  "report_file"        : "loc/feedhenry__mobile-security-ios-template.json"},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 1,
+  "nFiles": 1} }

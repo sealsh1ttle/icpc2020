@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.315985918045044,
+  "n_files"            : 26,
+  "n_lines"            : 10865,
+  "files_per_second"   : 82.2821477642358,
+  "lines_per_second"   : 34384.4436714778,
+  "report_file"        : "loc/shower__cli.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 9885},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 129,
+  "comment": 23,
+  "code": 570},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 59,
+  "comment": 0,
+  "code": 148},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 27},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 199,
+  "comment": 25,
+  "code": 10641,
+  "nFiles": 26} }

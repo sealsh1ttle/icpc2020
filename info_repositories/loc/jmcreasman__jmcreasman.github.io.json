@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.42560887336731,
+  "n_files"            : 36,
+  "n_lines"            : 1963,
+  "files_per_second"   : 5.60258190460547,
+  "lines_per_second"   : 305.496341076126,
+  "report_file"        : "loc/jmcreasman__jmcreasman.github.io.json"},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 139,
+  "comment": 174,
+  "code": 472},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 26,
+  "code": 238},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 71,
+  "code": 220},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 40,
+  "comment": 0,
+  "code": 189},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 28,
+  "comment": 51,
+  "code": 174},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 9,
+  "code": 16},
+"SUM": {
+  "blank": 278,
+  "comment": 331,
+  "code": 1354,
+  "nFiles": 36} }

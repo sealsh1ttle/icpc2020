@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.0171520709991,
+  "n_files"            : 58,
+  "n_lines"            : 23530,
+  "files_per_second"   : 3.04987833001815,
+  "lines_per_second"   : 1237.30408802288,
+  "report_file"        : "loc/nichia__my-favetools.json"},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 1262,
+  "comment": 45,
+  "code": 10006},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 1837,
+  "comment": 1725,
+  "code": 6857},
+"Ruby" :{
+  "nFiles": 21,
+  "blank": 106,
+  "comment": 115,
+  "code": 756},
+"ERB" :{
+  "nFiles": 20,
+  "blank": 155,
+  "comment": 0,
+  "code": 505},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 0,
+  "code": 125},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 3386,
+  "comment": 1885,
+  "code": 18259,
+  "nFiles": 58} }

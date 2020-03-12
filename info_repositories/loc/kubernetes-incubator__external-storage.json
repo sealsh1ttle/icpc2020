@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 51.3521401882172,
+  "n_files"            : 3502,
+  "n_lines"            : 1283407,
+  "files_per_second"   : 68.1957945114728,
+  "lines_per_second"   : 24992.2787111895,
+  "report_file"        : "loc/kubernetes-incubator__external-storage.json"},
+"Go" :{
+  "nFiles": 2922,
+  "blank": 106249,
+  "comment": 221786,
+  "code": 865754},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 42569},
+"Markdown" :{
+  "nFiles": 135,
+  "blank": 3313,
+  "comment": 0,
+  "code": 9609},
+"YAML" :{
+  "nFiles": 244,
+  "blank": 306,
+  "comment": 275,
+  "code": 7080},
+"Protocol Buffers" :{
+  "nFiles": 50,
+  "blank": 2899,
+  "comment": 8632,
+  "code": 4971},
+"Bourne Shell" :{
+  "nFiles": 36,
+  "blank": 323,
+  "comment": 750,
+  "code": 1474},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 186,
+  "comment": 169,
+  "code": 1171},
+"make" :{
+  "nFiles": 25,
+  "blank": 235,
+  "comment": 262,
+  "code": 825},
+"Python" :{
+  "nFiles": 10,
+  "blank": 147,
+  "comment": 249,
+  "code": 708},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 110,
+  "code": 511},
+"Assembly" :{
+  "nFiles": 28,
+  "blank": 232,
+  "comment": 264,
+  "code": 440},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 66,
+  "code": 323},
+"TOML" :{
+  "nFiles": 9,
+  "blank": 139,
+  "comment": 155,
+  "code": 259},
+"Starlark" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 50,
+  "code": 240},
+"Dockerfile" :{
+  "nFiles": 17,
+  "blank": 57,
+  "comment": 226,
+  "code": 143},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 66},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 114229,
+  "comment": 233001,
+  "code": 936177,
+  "nFiles": 3502} }

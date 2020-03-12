@@ -1,0 +1,179 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1478.8425090313,
+  "n_files"            : 5438,
+  "n_lines"            : 1137531,
+  "files_per_second"   : 3.67720022030075,
+  "lines_per_second"   : 769.203612320511,
+  "report_file"        : "loc/pytorch__pytorch.json"},
+"C++" :{
+  "nFiles": 1642,
+  "blank": 43393,
+  "comment": 23456,
+  "code": 310039},
+"Python" :{
+  "nFiles": 1104,
+  "blank": 48249,
+  "comment": 48079,
+  "code": 220320},
+"C/C++ Header" :{
+  "nFiles": 1571,
+  "blank": 29797,
+  "comment": 30478,
+  "code": 168737},
+"CUDA" :{
+  "nFiles": 451,
+  "blank": 10961,
+  "comment": 6323,
+  "code": 75890},
+"C" :{
+  "nFiles": 124,
+  "blank": 4421,
+  "comment": 2098,
+  "code": 35104},
+"YAML" :{
+  "nFiles": 38,
+  "blank": 2129,
+  "comment": 993,
+  "code": 13298},
+"CMake" :{
+  "nFiles": 157,
+  "blank": 1975,
+  "comment": 3321,
+  "code": 12385},
+"Markdown" :{
+  "nFiles": 77,
+  "blank": 1911,
+  "comment": 0,
+  "code": 6957},
+"Objective C++" :{
+  "nFiles": 6,
+  "blank": 697,
+  "comment": 287,
+  "code": 6225},
+"reStructuredText" :{
+  "nFiles": 55,
+  "blank": 2674,
+  "comment": 2863,
+  "code": 5177},
+"Bourne Shell" :{
+  "nFiles": 111,
+  "blank": 1062,
+  "comment": 1136,
+  "code": 4171},
+"Assembly" :{
+  "nFiles": 7,
+  "blank": 883,
+  "comment": 1137,
+  "code": 2640},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 284,
+  "comment": 82,
+  "code": 1355},
+"Java" :{
+  "nFiles": 11,
+  "blank": 249,
+  "comment": 345,
+  "code": 1231},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 746},
+"Dockerfile" :{
+  "nFiles": 15,
+  "blank": 109,
+  "comment": 110,
+  "code": 612},
+"Gradle" :{
+  "nFiles": 11,
+  "blank": 95,
+  "comment": 8,
+  "code": 447},
+"DOS Batch" :{
+  "nFiles": 14,
+  "blank": 112,
+  "comment": 1,
+  "code": 390},
+"Protocol Buffers" :{
+  "nFiles": 7,
+  "blank": 118,
+  "comment": 328,
+  "code": 355},
+"XML" :{
+  "nFiles": 8,
+  "blank": 5,
+  "comment": 9,
+  "code": 285},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 33,
+  "code": 235},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 224},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 2,
+  "code": 93},
+"make" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 17,
+  "code": 68},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 60},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 35},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 28},
+"Objective C" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 8,
+  "code": 25},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 10},
+"diff" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 12,
+  "code": 9},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 149230,
+  "comment": 121130,
+  "code": 867171,
+  "nFiles": 5438} }

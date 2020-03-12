@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.55066204071045,
+  "n_files"            : 36,
+  "n_lines"            : 7482,
+  "files_per_second"   : 5.49562773598615,
+  "lines_per_second"   : 1142.17463112912,
+  "report_file"        : "loc/PainterQubits__Unitful.jl.json"},
+"Julia" :{
+  "nFiles": 17,
+  "blank": 654,
+  "comment": 261,
+  "code": 4269},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 339,
+  "comment": 0,
+  "code": 1828},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 18,
+  "code": 81},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 1011,
+  "comment": 279,
+  "code": 6192,
+  "nFiles": 36} }

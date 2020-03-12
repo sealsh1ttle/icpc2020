@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.99046492576599,
+  "n_files"            : 12,
+  "n_lines"            : 231,
+  "files_per_second"   : 6.02874225245744,
+  "lines_per_second"   : 116.053288359806,
+  "report_file"        : "loc/turingschool__scrabble.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 0,
+  "code": 100},
+"Ruby" :{
+  "nFiles": 11,
+  "blank": 18,
+  "comment": 0,
+  "code": 74},
+"SUM": {
+  "blank": 57,
+  "comment": 0,
+  "code": 174,
+  "nFiles": 12} }

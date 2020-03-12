@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.53616309165955,
+  "n_files"            : 428,
+  "n_lines"            : 57787,
+  "files_per_second"   : 121.035141453031,
+  "lines_per_second"   : 16341.7236428652,
+  "report_file"        : "loc/ONSdigital__dp-hierarchy-builder.json"},
+"Go" :{
+  "nFiles": 378,
+  "blank": 7828,
+  "comment": 7224,
+  "code": 36969},
+"Markdown" :{
+  "nFiles": 34,
+  "blank": 886,
+  "comment": 0,
+  "code": 2915},
+"Assembly" :{
+  "nFiles": 2,
+  "blank": 166,
+  "comment": 469,
+  "code": 585},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 390},
+"make" :{
+  "nFiles": 4,
+  "blank": 36,
+  "comment": 3,
+  "code": 113},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 57},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 6,
+  "code": 53},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 2,
+  "code": 17},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 3},
+"SUM": {
+  "blank": 8960,
+  "comment": 7725,
+  "code": 41102,
+  "nFiles": 428} }

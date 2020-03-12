@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.423680067062378,
+  "n_files"            : 3,
+  "n_lines"            : 293,
+  "files_per_second"   : 7.08081458917989,
+  "lines_per_second"   : 691.559558209903,
+  "report_file"        : "loc/openrtc-io__awesome-webrtc.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 73,
+  "comment": 0,
+  "code": 213},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 73,
+  "comment": 0,
+  "code": 220,
+  "nFiles": 3} }

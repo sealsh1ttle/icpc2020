@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.977204084396362,
+  "n_files"            : 121,
+  "n_lines"            : 15897,
+  "files_per_second"   : 123.822650695063,
+  "lines_per_second"   : 16267.8403148713,
+  "report_file"        : "loc/prolic__fpp.json"},
+"PHP" :{
+  "nFiles": 108,
+  "blank": 2790,
+  "comment": 1741,
+  "code": 10294},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 243,
+  "comment": 0,
+  "code": 725},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 34},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 20},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 3041,
+  "comment": 1741,
+  "code": 11115,
+  "nFiles": 121} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.6475310325623,
+  "n_files"            : 90,
+  "n_lines"            : 9338,
+  "files_per_second"   : 5.0998635352411,
+  "lines_per_second"   : 529.13917435646,
+  "report_file"        : "loc/koajs__koa.json"},
+"JavaScript" :{
+  "nFiles": 72,
+  "blank": 1090,
+  "comment": 971,
+  "code": 4273},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 778,
+  "comment": 0,
+  "code": 2098},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 67},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1875,
+  "comment": 971,
+  "code": 6492,
+  "nFiles": 90} }

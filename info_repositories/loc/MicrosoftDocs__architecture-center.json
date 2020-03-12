@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.9966127872467,
+  "n_files"            : 716,
+  "n_lines"            : 107010,
+  "files_per_second"   : 47.7441146315983,
+  "lines_per_second"   : 7135.61132224488,
+  "report_file"        : "loc/MicrosoftDocs__architecture-center.json"},
+"Markdown" :{
+  "nFiles": 596,
+  "blank": 25456,
+  "comment": 0,
+  "code": 54648},
+"SVG" :{
+  "nFiles": 97,
+  "blank": 808,
+  "comment": 66,
+  "code": 22525},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 3,
+  "comment": 0,
+  "code": 2390},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 757},
+"liquid" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 7,
+  "code": 92},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 54},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 1,
+  "code": 34},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 31},
+"Python" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 16,
+  "code": 30},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 12},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 26339,
+  "comment": 97,
+  "code": 80574,
+  "nFiles": 716} }

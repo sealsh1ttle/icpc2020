@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 59.1231110095978,
+  "n_files"            : 3775,
+  "n_lines"            : 1363048,
+  "files_per_second"   : 63.8498200709902,
+  "lines_per_second"   : 23054.4025293041,
+  "report_file"        : "loc/containers__buildah.json"},
+"Go" :{
+  "nFiles": 3268,
+  "blank": 103901,
+  "comment": 139804,
+  "code": 1058885},
+"Markdown" :{
+  "nFiles": 202,
+  "blank": 6392,
+  "comment": 0,
+  "code": 17747},
+"YAML" :{
+  "nFiles": 80,
+  "blank": 591,
+  "comment": 171,
+  "code": 11593},
+"Assembly" :{
+  "nFiles": 45,
+  "blank": 531,
+  "comment": 882,
+  "code": 3636},
+"Bourne Shell" :{
+  "nFiles": 44,
+  "blank": 522,
+  "comment": 1123,
+  "code": 3314},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 2886},
+"Protocol Buffers" :{
+  "nFiles": 14,
+  "blank": 1081,
+  "comment": 4416,
+  "code": 1605},
+"make" :{
+  "nFiles": 24,
+  "blank": 218,
+  "comment": 80,
+  "code": 662},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 87,
+  "comment": 137,
+  "code": 604},
+"C" :{
+  "nFiles": 4,
+  "blank": 44,
+  "comment": 11,
+  "code": 361},
+"Dockerfile" :{
+  "nFiles": 63,
+  "blank": 59,
+  "comment": 88,
+  "code": 337},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 0,
+  "code": 232},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 22,
+  "code": 218},
+"TOML" :{
+  "nFiles": 9,
+  "blank": 127,
+  "comment": 177,
+  "code": 207},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 37,
+  "comment": 6,
+  "code": 190},
+"awk" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 12},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 8,
+  "code": 1},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 113626,
+  "comment": 146929,
+  "code": 1102493,
+  "nFiles": 3775} }

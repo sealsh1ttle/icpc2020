@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 87.823853969574,
+  "n_files"            : 339,
+  "n_lines"            : 232987,
+  "files_per_second"   : 3.85999913095871,
+  "lines_per_second"   : 2652.88972721144,
+  "report_file"        : "loc/SimpleMachines__SMF2.1.json"},
+"PHP" :{
+  "nFiles": 277,
+  "blank": 24074,
+  "comment": 31027,
+  "code": 138383},
+"SQL" :{
+  "nFiles": 8,
+  "blank": 2378,
+  "comment": 2774,
+  "code": 15431},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 421,
+  "comment": 528,
+  "code": 7495},
+"JavaScript" :{
+  "nFiles": 32,
+  "blank": 1458,
+  "comment": 1106,
+  "code": 7229},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 385},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 206},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 0,
+  "code": 54},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 10},
+"SUM": {
+  "blank": 28358,
+  "comment": 35436,
+  "code": 169193,
+  "nFiles": 339} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.5919971466064,
+  "n_files"            : 115,
+  "n_lines"            : 13321,
+  "files_per_second"   : 5.32604738779684,
+  "lines_per_second"   : 616.941541329058,
+  "report_file"        : "loc/vuejs__vue-ssr-docs.json"},
+"Markdown" :{
+  "nFiles": 113,
+  "blank": 3504,
+  "comment": 0,
+  "code": 9633},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 155},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 3504,
+  "comment": 0,
+  "code": 9817,
+  "nFiles": 115} }

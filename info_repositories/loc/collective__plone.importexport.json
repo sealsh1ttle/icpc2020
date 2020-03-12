@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.54481101036072,
+  "n_files"            : 28,
+  "n_lines"            : 3074,
+  "files_per_second"   : 3.27684251483732,
+  "lines_per_second"   : 359.750496093211,
+  "report_file"        : "loc/collective__plone.importexport.json"},
+"Python" :{
+  "nFiles": 12,
+  "blank": 464,
+  "comment": 287,
+  "code": 1504},
+"XML" :{
+  "nFiles": 6,
+  "blank": 57,
+  "comment": 23,
+  "code": 216},
+"INI" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 144},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 2,
+  "code": 100},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 1,
+  "code": 88},
+"RobotFramework" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 29,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 634,
+  "comment": 342,
+  "code": 2098,
+  "nFiles": 28} }

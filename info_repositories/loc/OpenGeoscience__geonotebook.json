@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.6541519165039,
+  "n_files"            : 128,
+  "n_lines"            : 22349,
+  "files_per_second"   : 2.38564948709267,
+  "lines_per_second"   : 416.538128023705,
+  "report_file"        : "loc/OpenGeoscience__geonotebook.json"},
+"Python" :{
+  "nFiles": 41,
+  "blank": 1729,
+  "comment": 941,
+  "code": 9644},
+"JavaScript" :{
+  "nFiles": 26,
+  "blank": 290,
+  "comment": 286,
+  "code": 1705},
+"Jupyter Notebook" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 4499,
+  "code": 986},
+"YAML" :{
+  "nFiles": 19,
+  "blank": 117,
+  "comment": 34,
+  "code": 699},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 44,
+  "comment": 36,
+  "code": 359},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 104,
+  "comment": 0,
+  "code": 233},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 96,
+  "comment": 73,
+  "code": 110},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 87},
+"INI" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 83},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 3,
+  "code": 53},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 40},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 4,
+  "code": 22},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 2431,
+  "comment": 5882,
+  "code": 14036,
+  "nFiles": 128} }

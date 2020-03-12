@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.3181929588318,
+  "n_files"            : 265,
+  "n_lines"            : 111800,
+  "files_per_second"   : 6.91577497625502,
+  "lines_per_second"   : 2917.67412205778,
+  "report_file"        : "loc/paradisekelechi__HelloBooks.json"},
+"JavaScript" :{
+  "nFiles": 165,
+  "blank": 9248,
+  "comment": 13934,
+  "code": 46880},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 19007},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 1450,
+  "comment": 463,
+  "code": 7733},
+"Sass" :{
+  "nFiles": 47,
+  "blank": 980,
+  "comment": 291,
+  "code": 5819},
+"JSX" :{
+  "nFiles": 30,
+  "blank": 236,
+  "comment": 885,
+  "code": 2698},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 148,
+  "comment": 25,
+  "code": 1048},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 222,
+  "comment": 0,
+  "code": 695},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 12286,
+  "comment": 15598,
+  "code": 83916,
+  "nFiles": 265} }

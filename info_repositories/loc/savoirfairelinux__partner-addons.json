@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.5523180961609,
+  "n_files"            : 95,
+  "n_lines"            : 5482,
+  "files_per_second"   : 6.10841415489379,
+  "lines_per_second"   : 352.487646285555,
+  "report_file"        : "loc/savoirfairelinux__partner-addons.json"},
+"Python" :{
+  "nFiles": 51,
+  "blank": 457,
+  "comment": 332,
+  "code": 2033},
+"XML" :{
+  "nFiles": 28,
+  "blank": 145,
+  "comment": 1,
+  "code": 903},
+"PO File" :{
+  "nFiles": 6,
+  "blank": 164,
+  "comment": 436,
+  "code": 479},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 14,
+  "code": 261},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 55,
+  "comment": 0,
+  "code": 166},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 846,
+  "comment": 783,
+  "code": 3853,
+  "nFiles": 95} }

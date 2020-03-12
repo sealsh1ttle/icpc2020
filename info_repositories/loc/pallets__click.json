@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.7133731842041,
+  "n_files"            : 91,
+  "n_lines"            : 18737,
+  "files_per_second"   : 2.96287872563608,
+  "lines_per_second"   : 610.059985519156,
+  "report_file"        : "loc/pallets__click.json"},
+"Python" :{
+  "nFiles": 57,
+  "blank": 2375,
+  "comment": 2299,
+  "code": 8178},
+"reStructuredText" :{
+  "nFiles": 27,
+  "blank": 1487,
+  "comment": 1404,
+  "code": 2692},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 73},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 57},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 53},
+"INI" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 30},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 3906,
+  "comment": 3711,
+  "code": 11120,
+  "nFiles": 91} }

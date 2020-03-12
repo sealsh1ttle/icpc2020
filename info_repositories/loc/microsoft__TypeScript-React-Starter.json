@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.06457495689392,
+  "n_files"            : 20,
+  "n_lines"            : 2427,
+  "files_per_second"   : 6.52619050971782,
+  "lines_per_second"   : 791.953218354257,
+  "report_file"        : "loc/microsoft__TypeScript-React-Starter.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 641,
+  "comment": 0,
+  "code": 1450},
+"TypeScript" :{
+  "nFiles": 10,
+  "blank": 34,
+  "comment": 1,
+  "code": 153},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 67},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 37},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 16,
+  "code": 12},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 684,
+  "comment": 17,
+  "code": 1726,
+  "nFiles": 20} }

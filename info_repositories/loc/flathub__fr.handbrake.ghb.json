@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.458340883255005,
+  "n_files"            : 3,
+  "n_lines"            : 266,
+  "files_per_second"   : 6.5453467268616,
+  "lines_per_second"   : 580.354076448395,
+  "report_file"        : "loc/flathub__fr.handbrake.ghb.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 202},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 44},
+"SUM": {
+  "blank": 20,
+  "comment": 0,
+  "code": 246,
+  "nFiles": 3} }

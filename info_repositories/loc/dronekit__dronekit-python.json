@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.59661912918091,
+  "n_files"            : 108,
+  "n_lines"            : 14399,
+  "files_per_second"   : 14.2168507020629,
+  "lines_per_second"   : 1895.44845610189,
+  "report_file"        : "loc/dronekit__dronekit-python.json"},
+"Python" :{
+  "nFiles": 46,
+  "blank": 1840,
+  "comment": 2193,
+  "code": 3701},
+"reStructuredText" :{
+  "nFiles": 40,
+  "blank": 1859,
+  "comment": 1529,
+  "code": 2301},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 6,
+  "comment": 0,
+  "code": 212},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 100,
+  "comment": 0,
+  "code": 197},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 20,
+  "code": 120},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 67},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 3,
+  "code": 30},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 7},
+"SUM": {
+  "blank": 3885,
+  "comment": 3755,
+  "code": 6759,
+  "nFiles": 108} }

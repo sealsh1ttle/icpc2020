@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 256.896486997604,
+  "n_files"            : 599,
+  "n_lines"            : 189355,
+  "files_per_second"   : 2.33167843982851,
+  "lines_per_second"   : 737.086762894371,
+  "report_file"        : "loc/losol__EventManagement.json"},
+"JavaScript" :{
+  "nFiles": 55,
+  "blank": 10259,
+  "comment": 8858,
+  "code": 56578},
+"C#" :{
+  "nFiles": 319,
+  "blank": 18159,
+  "comment": 433,
+  "code": 43464},
+"CSS" :{
+  "nFiles": 28,
+  "blank": 2979,
+  "comment": 256,
+  "code": 20478},
+"Razor" :{
+  "nFiles": 104,
+  "blank": 651,
+  "comment": 150,
+  "code": 7053},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 2,
+  "comment": 0,
+  "code": 6537},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 983,
+  "comment": 103,
+  "code": 3744},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 884,
+  "comment": 0,
+  "code": 3302},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 1,
+  "code": 2989},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 149,
+  "comment": 40,
+  "code": 636},
+"MSBuild script" :{
+  "nFiles": 6,
+  "blank": 15,
+  "comment": 6,
+  "code": 145},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 9,
+  "code": 56},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 14,
+  "code": 54},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 16,
+  "code": 41},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 38},
+"Python" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 87,
+  "code": 32},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 34191,
+  "comment": 9980,
+  "code": 145184,
+  "nFiles": 599} }

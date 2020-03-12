@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.281148195266724,
+  "n_files"            : 11,
+  "n_lines"            : 444,
+  "files_per_second"   : 39.1252733796294,
+  "lines_per_second"   : 1579.23830732322,
+  "report_file"        : "loc/UnRealDinnerbone__ReloadAnnouncer-Fabric.json"},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 58},
+"Java" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 58},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 73,
+  "comment": 23,
+  "code": 348,
+  "nFiles": 11} }

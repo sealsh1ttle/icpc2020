@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.266867160797119,
+  "n_files"            : 43,
+  "n_lines"            : 5771,
+  "files_per_second"   : 161.128854788881,
+  "lines_per_second"   : 21624.9911857356,
+  "report_file"        : "loc/yjhjstz__deep-into-node.json"},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 1387,
+  "comment": 0,
+  "code": 4364},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 10},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1388,
+  "comment": 1,
+  "code": 4382,
+  "nFiles": 43} }

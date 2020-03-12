@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.557941913604736,
+  "n_files"            : 89,
+  "n_lines"            : 12854,
+  "files_per_second"   : 159.514812975765,
+  "lines_per_second"   : 23038.240516747,
+  "report_file"        : "loc/evbeda__mercury.json"},
+"Python" :{
+  "nFiles": 48,
+  "blank": 692,
+  "comment": 113,
+  "code": 5037},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 75,
+  "comment": 47,
+  "code": 3835},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 20,
+  "comment": 1,
+  "code": 1463},
+"PO File" :{
+  "nFiles": 2,
+  "blank": 224,
+  "comment": 213,
+  "code": 502},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 363},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 5,
+  "code": 69},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 62},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 9,
+  "code": 23},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 9,
+  "code": 23},
+"SUM": {
+  "blank": 1080,
+  "comment": 397,
+  "code": 11377,
+  "nFiles": 89} }

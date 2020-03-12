@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 54.9138131141663,
+  "n_files"            : 310,
+  "n_lines"            : 55631,
+  "files_per_second"   : 5.64520987379819,
+  "lines_per_second"   : 1013.06022738473,
+  "report_file"        : "loc/test-kitchen__test-kitchen.json"},
+"Ruby" :{
+  "nFiles": 132,
+  "blank": 4959,
+  "comment": 6439,
+  "code": 21605},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 3,
+  "comment": 20,
+  "code": 5017},
+"Sass" :{
+  "nFiles": 44,
+  "blank": 456,
+  "comment": 116,
+  "code": 4256},
+"Markdown" :{
+  "nFiles": 49,
+  "blank": 1048,
+  "comment": 0,
+  "code": 3802},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 1025,
+  "comment": 10,
+  "code": 3642},
+"Cucumber" :{
+  "nFiles": 11,
+  "blank": 125,
+  "comment": 0,
+  "code": 814},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 194,
+  "comment": 204,
+  "code": 552},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 19,
+  "comment": 5,
+  "code": 289},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 51,
+  "code": 263},
+"HTML" :{
+  "nFiles": 21,
+  "blank": 18,
+  "comment": 0,
+  "code": 227},
+"ERB" :{
+  "nFiles": 16,
+  "blank": 61,
+  "comment": 0,
+  "code": 203},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 0,
+  "code": 96},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 7983,
+  "comment": 6845,
+  "code": 40803,
+  "nFiles": 310} }

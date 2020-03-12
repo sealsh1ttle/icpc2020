@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.0152640342712,
+  "n_files"            : 55,
+  "n_lines"            : 1764,
+  "files_per_second"   : 3.43422374319305,
+  "lines_per_second"   : 110.144921508955,
+  "report_file"        : "loc/jakemmarsh__react-rocket-boilerplate.json"},
+"JavaScript" :{
+  "nFiles": 45,
+  "blank": 379,
+  "comment": 19,
+  "code": 1018},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 0,
+  "code": 104},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 69},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 11,
+  "comment": 3,
+  "code": 67},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 455,
+  "comment": 22,
+  "code": 1287,
+  "nFiles": 55} }

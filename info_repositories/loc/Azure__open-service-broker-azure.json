@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4496.44145298004,
+  "n_files"            : 12879,
+  "n_lines"            : 9645568,
+  "files_per_second"   : 2.86426502706143,
+  "lines_per_second"   : 2145.15591960112,
+  "report_file"        : "loc/Azure__open-service-broker-azure.json"},
+"Go" :{
+  "nFiles": 11713,
+  "blank": 816609,
+  "comment": 1960491,
+  "code": 5972177},
+"JSON" :{
+  "nFiles": 345,
+  "blank": 6,
+  "comment": 0,
+  "code": 790241},
+"YAML" :{
+  "nFiles": 224,
+  "blank": 219,
+  "comment": 138,
+  "code": 31680},
+"Markdown" :{
+  "nFiles": 251,
+  "blank": 7493,
+  "comment": 0,
+  "code": 21335},
+"Assembly" :{
+  "nFiles": 73,
+  "blank": 1301,
+  "comment": 1590,
+  "code": 11066},
+"Protocol Buffers" :{
+  "nFiles": 111,
+  "blank": 1723,
+  "comment": 4434,
+  "code": 5955},
+"XML" :{
+  "nFiles": 6,
+  "blank": 228,
+  "comment": 20,
+  "code": 5802},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 470,
+  "comment": 24,
+  "code": 2551},
+"Bourne Shell" :{
+  "nFiles": 71,
+  "blank": 471,
+  "comment": 818,
+  "code": 2251},
+"m4" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 1658},
+"make" :{
+  "nFiles": 22,
+  "blank": 237,
+  "comment": 181,
+  "code": 1082},
+"C" :{
+  "nFiles": 10,
+  "blank": 136,
+  "comment": 106,
+  "code": 631},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 66,
+  "comment": 8,
+  "code": 542},
+"Python" :{
+  "nFiles": 3,
+  "blank": 90,
+  "comment": 126,
+  "code": 187},
+"TOML" :{
+  "nFiles": 6,
+  "blank": 53,
+  "comment": 87,
+  "code": 139},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 6,
+  "code": 137},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 33,
+  "comment": 28,
+  "code": 126},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 11,
+  "code": 107},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 10,
+  "code": 88},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 3,
+  "code": 64},
+"awk" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 37,
+  "code": 64},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 16,
+  "code": 56},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 16,
+  "code": 52},
+"SUM": {
+  "blank": 829366,
+  "comment": 1968152,
+  "code": 6848050,
+  "nFiles": 12879} }

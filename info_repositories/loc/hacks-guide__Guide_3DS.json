@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 178.235641956329,
+  "n_files"            : 176,
+  "n_lines"            : 30645,
+  "files_per_second"   : 0.987456818783321,
+  "lines_per_second"   : 171.935308020539,
+  "report_file"        : "loc/hacks-guide__Guide_3DS.json"},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 8216},
+"Sass" :{
+  "nFiles": 82,
+  "blank": 1282,
+  "comment": 1737,
+  "code": 7530},
+"YAML" :{
+  "nFiles": 31,
+  "blank": 42,
+  "comment": 110,
+  "code": 4947},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2721},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 432,
+  "comment": 227,
+  "code": 1651},
+"HTML" :{
+  "nFiles": 43,
+  "blank": 176,
+  "comment": 71,
+  "code": 1274},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 2,
+  "code": 87},
+"Python" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 2,
+  "code": 57},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"SUM": {
+  "blank": 1958,
+  "comment": 2149,
+  "code": 26538,
+  "nFiles": 176} }

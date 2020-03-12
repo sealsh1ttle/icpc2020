@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.69486689567566,
+  "n_files"            : 474,
+  "n_lines"            : 48221,
+  "files_per_second"   : 100.961328730446,
+  "lines_per_second"   : 10271.0047103604,
+  "report_file"        : "loc/gogradle__gogradle.json"},
+"Groovy" :{
+  "nFiles": 213,
+  "blank": 3229,
+  "comment": 4421,
+  "code": 15606},
+"Java" :{
+  "nFiles": 216,
+  "blank": 2843,
+  "comment": 4245,
+  "code": 13250},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 800,
+  "comment": 0,
+  "code": 1815},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 60,
+  "code": 378},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 46,
+  "comment": 19,
+  "code": 263},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 0,
+  "code": 236},
+"Kotlin" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 16,
+  "code": 160},
+"XML" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 93,
+  "code": 131},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Go" :{
+  "nFiles": 8,
+  "blank": 23,
+  "comment": 0,
+  "code": 111},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 66},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"SUM": {
+  "blank": 7139,
+  "comment": 8878,
+  "code": 32204,
+  "nFiles": 474} }

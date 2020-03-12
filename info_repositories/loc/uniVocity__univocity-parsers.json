@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 136.923939943314,
+  "n_files"            : 433,
+  "n_lines"            : 63052,
+  "files_per_second"   : 3.16233961847184,
+  "lines_per_second"   : 460.489232387729,
+  "report_file"        : "loc/uniVocity__univocity-parsers.json"},
+"Java" :{
+  "nFiles": 424,
+  "blank": 8585,
+  "comment": 21728,
+  "code": 32151},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 231},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 211},
+"RobotFramework" :{
+  "nFiles": 6,
+  "blank": 16,
+  "comment": 6,
+  "code": 50},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 8660,
+  "comment": 21735,
+  "code": 32657,
+  "nFiles": 433} }

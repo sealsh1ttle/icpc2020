@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.1722149848938,
+  "n_files"            : 42,
+  "n_lines"            : 8875,
+  "files_per_second"   : 5.13936553035331,
+  "lines_per_second"   : 1085.99688290204,
+  "report_file"        : "loc/laspy__laspy.json"},
+"Python" :{
+  "nFiles": 25,
+  "blank": 1007,
+  "comment": 1001,
+  "code": 4767},
+"reStructuredText" :{
+  "nFiles": 13,
+  "blank": 503,
+  "comment": 88,
+  "code": 1307},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 6,
+  "code": 28},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1545,
+  "comment": 1100,
+  "code": 6230,
+  "nFiles": 42} }

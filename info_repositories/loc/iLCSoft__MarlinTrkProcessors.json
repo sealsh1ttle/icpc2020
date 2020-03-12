@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.2534317970276,
+  "n_files"            : 57,
+  "n_lines"            : 38957,
+  "files_per_second"   : 3.73686398959135,
+  "lines_per_second"   : 2553.98263934228,
+  "report_file"        : "loc/iLCSoft__MarlinTrkProcessors.json"},
+"C++" :{
+  "nFiles": 22,
+  "blank": 9509,
+  "comment": 2915,
+  "code": 19670},
+"C/C++ Header" :{
+  "nFiles": 27,
+  "blank": 1478,
+  "comment": 1736,
+  "code": 2802},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 197,
+  "comment": 0,
+  "code": 350},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 37,
+  "code": 113},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 53},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 11257,
+  "comment": 4692,
+  "code": 23008,
+  "nFiles": 57} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.0558559894562,
+  "n_files"            : 151,
+  "n_lines"            : 15779,
+  "files_per_second"   : 5.19688699086322,
+  "lines_per_second"   : 543.057482310138,
+  "report_file"        : "loc/mulesoft__mule-transport-amqp.json"},
+"Java" :{
+  "nFiles": 94,
+  "blank": 1447,
+  "comment": 849,
+  "code": 6542},
+"XML" :{
+  "nFiles": 32,
+  "blank": 299,
+  "comment": 99,
+  "code": 2035},
+"Maven" :{
+  "nFiles": 7,
+  "blank": 53,
+  "comment": 37,
+  "code": 1196},
+"XSD" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 0,
+  "code": 1161},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 262,
+  "comment": 0,
+  "code": 1103},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 23,
+  "comment": 0,
+  "code": 432},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 90},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 6,
+  "code": 44},
+"SUM": {
+  "blank": 2185,
+  "comment": 991,
+  "code": 12603,
+  "nFiles": 151} }

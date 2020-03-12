@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 139.844598054886,
+  "n_files"            : 329,
+  "n_lines"            : 48398,
+  "files_per_second"   : 2.35261143137524,
+  "lines_per_second"   : 346.084158224009,
+  "report_file"        : "loc/ms-iot__content.json"},
+"XML" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 3108,
+  "code": 39330},
+"Markdown" :{
+  "nFiles": 217,
+  "blank": 215,
+  "comment": 0,
+  "code": 2568},
+"HTML" :{
+  "nFiles": 100,
+  "blank": 129,
+  "comment": 251,
+  "code": 1858},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 585},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 1,
+  "comment": 7,
+  "code": 271},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 38},
+"SUM": {
+  "blank": 380,
+  "comment": 3368,
+  "code": 44650,
+  "nFiles": 329} }

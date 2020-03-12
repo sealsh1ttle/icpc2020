@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.7722718715668,
+  "n_files"            : 166,
+  "n_lines"            : 13072,
+  "files_per_second"   : 3.97392798051263,
+  "lines_per_second"   : 312.934858802778,
+  "report_file"        : "loc/Quick__Quick.json"},
+"Markdown" :{
+  "nFiles": 67,
+  "blank": 2096,
+  "comment": 0,
+  "code": 5680},
+"Swift" :{
+  "nFiles": 55,
+  "blank": 490,
+  "comment": 655,
+  "code": 2073},
+"Objective C" :{
+  "nFiles": 20,
+  "blank": 272,
+  "comment": 91,
+  "code": 702},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 230},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 1,
+  "code": 163},
+"C/C++ Header" :{
+  "nFiles": 8,
+  "blank": 67,
+  "comment": 182,
+  "code": 125},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 2,
+  "code": 103},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 78},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 3},
+"SUM": {
+  "blank": 2983,
+  "comment": 932,
+  "code": 9157,
+  "nFiles": 166} }

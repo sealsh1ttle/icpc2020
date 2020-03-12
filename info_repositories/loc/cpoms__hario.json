@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.54245400428772,
+  "n_files"            : 16,
+  "n_lines"            : 606,
+  "files_per_second"   : 10.3730807891342,
+  "lines_per_second"   : 392.880434888456,
+  "report_file"        : "loc/cpoms__hario.json"},
+"Ruby" :{
+  "nFiles": 14,
+  "blank": 97,
+  "comment": 5,
+  "code": 385},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 0,
+  "code": 79},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 134,
+  "comment": 5,
+  "code": 467,
+  "nFiles": 16} }

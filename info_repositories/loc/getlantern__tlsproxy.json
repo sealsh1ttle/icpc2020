@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.811953067779541,
+  "n_files"            : 3,
+  "n_lines"            : 329,
+  "files_per_second"   : 3.69479483365232,
+  "lines_per_second"   : 405.195833423871,
+  "report_file"        : "loc/getlantern__tlsproxy.json"},
+"Go" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 4,
+  "code": 281},
+"SUM": {
+  "blank": 44,
+  "comment": 4,
+  "code": 281,
+  "nFiles": 3} }

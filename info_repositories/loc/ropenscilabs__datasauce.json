@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.4264130592346,
+  "n_files"            : 112,
+  "n_lines"            : 16711,
+  "files_per_second"   : 3.80610439249075,
+  "lines_per_second"   : 567.891165204579,
+  "report_file"        : "loc/ropenscilabs__datasauce.json"},
+"R" :{
+  "nFiles": 94,
+  "blank": 166,
+  "comment": 4739,
+  "code": 8240},
+"RobotFramework" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 6,
+  "code": 2704},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 48,
+  "comment": 43,
+  "code": 218},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 36,
+  "comment": 0,
+  "code": 119},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 108},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 4,
+  "code": 47},
+"Rmd" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 101,
+  "code": 42},
+"SUM": {
+  "blank": 340,
+  "comment": 4893,
+  "code": 11478,
+  "nFiles": 112} }

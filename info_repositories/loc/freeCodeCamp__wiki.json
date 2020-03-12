@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 124.58171415329,
+  "n_files"            : 843,
+  "n_lines"            : 48740,
+  "files_per_second"   : 6.7666431284028,
+  "lines_per_second"   : 391.229164980252,
+  "report_file"        : "loc/freeCodeCamp__wiki.json"},
+"Markdown" :{
+  "nFiles": 835,
+  "blank": 11051,
+  "comment": 0,
+  "code": 26176},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11330},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 30,
+  "code": 79},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 12,
+  "code": 23},
+"SUM": {
+  "blank": 11067,
+  "comment": 42,
+  "code": 37631,
+  "nFiles": 843} }

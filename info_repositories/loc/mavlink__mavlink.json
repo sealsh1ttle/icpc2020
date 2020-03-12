@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.82214999198914,
+  "n_files"            : 37,
+  "n_lines"            : 13047,
+  "files_per_second"   : 13.1105717644445,
+  "lines_per_second"   : 4623.07107596506,
+  "report_file"        : "loc/mavlink__mavlink.json"},
+"XML" :{
+  "nFiles": 14,
+  "blank": 1,
+  "comment": 212,
+  "code": 9439},
+"CMake" :{
+  "nFiles": 6,
+  "blank": 235,
+  "comment": 366,
+  "code": 1278},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 72,
+  "comment": 0,
+  "code": 311},
+"Python" :{
+  "nFiles": 3,
+  "blank": 99,
+  "comment": 121,
+  "code": 210},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 61,
+  "code": 151},
+"C" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 39,
+  "code": 133},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 65},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 20,
+  "code": 44},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 0,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 537,
+  "comment": 819,
+  "code": 11691,
+  "nFiles": 37} }

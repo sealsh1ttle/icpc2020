@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.627379179000854,
+  "n_files"            : 4,
+  "n_lines"            : 126,
+  "files_per_second"   : 6.3757295968449,
+  "lines_per_second"   : 200.835482300614,
+  "report_file"        : "loc/ironhack-labs__lab-canvas-race-car.json"},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 28},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 23},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 36,
+  "comment": 0,
+  "code": 90,
+  "nFiles": 4} }

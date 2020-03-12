@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.350322961807251,
+  "n_files"            : 61,
+  "n_lines"            : 4719,
+  "files_per_second"   : 174.125040749006,
+  "lines_per_second"   : 13470.4273326977,
+  "report_file"        : "loc/puppetlabs__puppetlabs-reboot.json"},
+"Ruby" :{
+  "nFiles": 24,
+  "blank": 411,
+  "comment": 58,
+  "code": 1949},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 8,
+  "comment": 22,
+  "code": 993},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 256,
+  "comment": 0,
+  "code": 593},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 1,
+  "comment": 0,
+  "code": 180},
+"Puppet" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 27,
+  "code": 91},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 9,
+  "code": 34},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 28},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 709,
+  "comment": 118,
+  "code": 3892,
+  "nFiles": 61} }

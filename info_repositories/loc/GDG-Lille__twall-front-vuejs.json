@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.994077920913696,
+  "n_files"            : 7,
+  "n_lines"            : 348,
+  "files_per_second"   : 7.04170151326369,
+  "lines_per_second"   : 350.073160945109,
+  "report_file"        : "loc/GDG-Lille__twall-front-vuejs.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 76},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 12,
+  "code": 74},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 60},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 36},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 42,
+  "comment": 15,
+  "code": 291,
+  "nFiles": 7} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.3609139919281,
+  "n_files"            : 21,
+  "n_lines"            : 3043,
+  "files_per_second"   : 2.24337068133606,
+  "lines_per_second"   : 325.075094443125,
+  "report_file"        : "loc/mjavascript__mastering-modular-javascript.json"},
+"AsciiDoc" :{
+  "nFiles": 7,
+  "blank": 837,
+  "comment": 40,
+  "code": 1864},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 46,
+  "comment": 0,
+  "code": 62},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 60},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 13,
+  "code": 56},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 39,
+  "code": 1},
+"SUM": {
+  "blank": 908,
+  "comment": 92,
+  "code": 2043,
+  "nFiles": 21} }

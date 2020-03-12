@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 260.653835058212,
+  "n_files"            : 1300,
+  "n_lines"            : 348245,
+  "files_per_second"   : 4.98745778940743,
+  "lines_per_second"   : 1336.04402913245,
+  "report_file"        : "loc/kubernetes-client__ruby.json"},
+"Ruby" :{
+  "nFiles": 657,
+  "blank": 25630,
+  "comment": 51518,
+  "code": 117683},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 89546},
+"Markdown" :{
+  "nFiles": 637,
+  "blank": 18548,
+  "comment": 0,
+  "code": 45223},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 11,
+  "code": 31},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 17,
+  "code": 4},
+"SUM": {
+  "blank": 44197,
+  "comment": 51546,
+  "code": 252502,
+  "nFiles": 1300} }

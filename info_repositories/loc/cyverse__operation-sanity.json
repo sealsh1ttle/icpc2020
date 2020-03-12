@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0717248916625977,
+  "n_files"            : 9,
+  "n_lines"            : 1337,
+  "files_per_second"   : 125.479450597668,
+  "lines_per_second"   : 18640.6694943424,
+  "report_file"        : "loc/cyverse__operation-sanity.json"},
+"Python" :{
+  "nFiles": 3,
+  "blank": 124,
+  "comment": 100,
+  "code": 563},
+"Cucumber" :{
+  "nFiles": 4,
+  "blank": 46,
+  "comment": 19,
+  "code": 296},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 96},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 5,
+  "code": 50},
+"SUM": {
+  "blank": 208,
+  "comment": 124,
+  "code": 1005,
+  "nFiles": 9} }

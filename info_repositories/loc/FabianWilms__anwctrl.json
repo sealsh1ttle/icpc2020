@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.204056024551392,
+  "n_files"            : 25,
+  "n_lines"            : 16192,
+  "files_per_second"   : 122.515373192051,
+  "lines_per_second"   : 79350.7569090274,
+  "report_file"        : "loc/FabianWilms__anwctrl.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 1069,
+  "comment": 816,
+  "code": 12171},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 276,
+  "comment": 15,
+  "code": 1685},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 113},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 20},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1353,
+  "comment": 831,
+  "code": 14008,
+  "nFiles": 25} }

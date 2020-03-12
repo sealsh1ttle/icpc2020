@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.657447099685669,
+  "n_files"            : 87,
+  "n_lines"            : 6513,
+  "files_per_second"   : 132.330038480047,
+  "lines_per_second"   : 9906.50046690284,
+  "report_file"        : "loc/indirectlylit__health-inspector.json"},
+"Python" :{
+  "nFiles": 40,
+  "blank": 589,
+  "comment": 534,
+  "code": 2195},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 102,
+  "comment": 59,
+  "code": 794},
+"YAML" :{
+  "nFiles": 22,
+  "blank": 29,
+  "comment": 113,
+  "code": 660},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 163,
+  "comment": 0,
+  "code": 422},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 82,
+  "comment": 11,
+  "code": 358},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 40,
+  "code": 187},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 68},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 1,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1030,
+  "comment": 758,
+  "code": 4725,
+  "nFiles": 87} }

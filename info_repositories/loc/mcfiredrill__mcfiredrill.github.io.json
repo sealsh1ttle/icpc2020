@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.9292690753937,
+  "n_files"            : 87,
+  "n_lines"            : 18244,
+  "files_per_second"   : 6.24584100781621,
+  "lines_per_second"   : 1309.76003846665,
+  "report_file"        : "loc/mcfiredrill__mcfiredrill.github.io.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 1226,
+  "comment": 3282,
+  "code": 7806},
+"Markdown" :{
+  "nFiles": 57,
+  "blank": 1050,
+  "comment": 0,
+  "code": 3021},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 147,
+  "comment": 22,
+  "code": 877},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 15,
+  "comment": 10,
+  "code": 368},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 328},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 5,
+  "code": 43},
+"XML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 2458,
+  "comment": 3319,
+  "code": 12467,
+  "nFiles": 87} }

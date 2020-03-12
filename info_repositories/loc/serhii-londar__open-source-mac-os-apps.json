@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.11416101455688,
+  "n_files"            : 11,
+  "n_lines"            : 8636,
+  "files_per_second"   : 2.67369214794447,
+  "lines_per_second"   : 2099.09139905895,
+  "report_file"        : "loc/serhii-londar__open-source-mac-os-apps.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7472},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 79,
+  "comment": 0,
+  "code": 668},
+"Swift" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 18,
+  "code": 258},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 28},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 140,
+  "comment": 19,
+  "code": 8477,
+  "nFiles": 11} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.303009986877441,
+  "n_files"            : 1,
+  "n_lines"            : 7,
+  "files_per_second"   : 3.30022125773851,
+  "lines_per_second"   : 23.1015488041696,
+  "report_file"        : "loc/Katello__katello-installer.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 2,
+  "comment": 0,
+  "code": 5,
+  "nFiles": 1} }

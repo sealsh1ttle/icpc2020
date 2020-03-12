@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.422831058502197,
+  "n_files"            : 3,
+  "n_lines"            : 46,
+  "files_per_second"   : 7.09503225857381,
+  "lines_per_second"   : 108.790494631465,
+  "report_file"        : "loc/kubernetes-retired__architecture-tracking.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 18,
+  "comment": 0,
+  "code": 28,
+  "nFiles": 3} }

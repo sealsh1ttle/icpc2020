@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.172434091567993,
+  "n_files"            : 25,
+  "n_lines"            : 1481,
+  "files_per_second"   : 144.98293100087,
+  "lines_per_second"   : 8588.78883249152,
+  "report_file"        : "loc/puppetlabs__gettext-setup-gem.json"},
+"Ruby" :{
+  "nFiles": 14,
+  "blank": 119,
+  "comment": 77,
+  "code": 920},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 10,
+  "comment": 72,
+  "code": 99},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 0,
+  "code": 76},
+"PO File" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 12,
+  "code": 30},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 172,
+  "comment": 161,
+  "code": 1148,
+  "nFiles": 25} }

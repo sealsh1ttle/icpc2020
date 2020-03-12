@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.1089010238647,
+  "n_files"            : 77,
+  "n_lines"            : 19373,
+  "files_per_second"   : 3.82915008177813,
+  "lines_per_second"   : 963.404214731009,
+  "report_file"        : "loc/Esri__terraformer.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 7006},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 599,
+  "comment": 321,
+  "code": 6485},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 563,
+  "comment": 0,
+  "code": 1443},
+"Sass" :{
+  "nFiles": 16,
+  "blank": 113,
+  "comment": 64,
+  "code": 1101},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 566},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 25,
+  "comment": 4,
+  "code": 279},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 176,
+  "code": 223},
+"ERB" :{
+  "nFiles": 8,
+  "blank": 19,
+  "comment": 0,
+  "code": 137},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 2,
+  "code": 117},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 10,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 1414,
+  "comment": 577,
+  "code": 17382,
+  "nFiles": 77} }

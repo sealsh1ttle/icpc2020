@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.9730670452118,
+  "n_files"            : 406,
+  "n_lines"            : 805182,
+  "files_per_second"   : 22.5893554493896,
+  "lines_per_second"   : 44799.3655158878,
+  "report_file"        : "loc/The3mpire__Ricochet.json"},
+"Unity-Prefab" :{
+  "nFiles": 173,
+  "blank": 1,
+  "comment": 0,
+  "code": 707971},
+"XML" :{
+  "nFiles": 17,
+  "blank": 39,
+  "comment": 0,
+  "code": 35757},
+"C#" :{
+  "nFiles": 167,
+  "blank": 4679,
+  "comment": 1584,
+  "code": 21271},
+"HTML" :{
+  "nFiles": 34,
+  "blank": 1022,
+  "comment": 538,
+  "code": 15862},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 15582},
+"HLSL" :{
+  "nFiles": 7,
+  "blank": 85,
+  "comment": 9,
+  "code": 462},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 56,
+  "comment": 25,
+  "code": 239},
+"SUM": {
+  "blank": 5882,
+  "comment": 2156,
+  "code": 797144,
+  "nFiles": 406} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 233.951725959778,
+  "n_files"            : 537,
+  "n_lines"            : 47161,
+  "files_per_second"   : 2.29534532304465,
+  "lines_per_second"   : 201.584321750668,
+  "report_file"        : "loc/rails-girls-summer-of-code__summer-of-code.json"},
+"Markdown" :{
+  "nFiles": 360,
+  "blank": 7668,
+  "comment": 0,
+  "code": 16383},
+"Sass" :{
+  "nFiles": 92,
+  "blank": 1337,
+  "comment": 1543,
+  "code": 6971},
+"JavaScript" :{
+  "nFiles": 29,
+  "blank": 1338,
+  "comment": 447,
+  "code": 4106},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 4,
+  "code": 2382},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 58,
+  "comment": 404,
+  "code": 1992},
+"HTML" :{
+  "nFiles": 35,
+  "blank": 271,
+  "comment": 61,
+  "code": 1619},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 15,
+  "code": 447},
+"XML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 8,
+  "code": 36},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 10722,
+  "comment": 2482,
+  "code": 33957,
+  "nFiles": 537} }

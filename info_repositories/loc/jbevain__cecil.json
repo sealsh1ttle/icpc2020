@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.26936292648315,
+  "n_files"            : 254,
+  "n_lines"            : 52871,
+  "files_per_second"   : 34.9411636987676,
+  "lines_per_second"   : 7273.12703117142,
+  "report_file"        : "loc/jbevain__cecil.json"},
+"C#" :{
+  "nFiles": 233,
+  "blank": 10058,
+  "comment": 3120,
+  "code": 38939},
+"SKILL" :{
+  "nFiles": 8,
+  "blank": 79,
+  "comment": 0,
+  "code": 378},
+"MSBuild script" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 160},
+"XML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 82},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 33},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 10149,
+  "comment": 3120,
+  "code": 39602,
+  "nFiles": 254} }

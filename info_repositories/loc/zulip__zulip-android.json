@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 159.171128034592,
+  "n_files"            : 230,
+  "n_lines"            : 23640,
+  "files_per_second"   : 1.44498567573144,
+  "lines_per_second"   : 148.519397279527,
+  "report_file"        : "loc/zulip__zulip-android.json"},
+"Java" :{
+  "nFiles": 137,
+  "blank": 2809,
+  "comment": 2159,
+  "code": 14794},
+"XML" :{
+  "nFiles": 78,
+  "blank": 316,
+  "comment": 24,
+  "code": 2509},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 83,
+  "comment": 19,
+  "code": 197},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 7,
+  "code": 177},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 37,
+  "comment": 0,
+  "code": 129},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 15,
+  "code": 26},
+"SUM": {
+  "blank": 3321,
+  "comment": 2246,
+  "code": 18073,
+  "nFiles": 230} }

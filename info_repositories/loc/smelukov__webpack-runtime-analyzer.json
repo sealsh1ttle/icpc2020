@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.11868286132812,
+  "n_files"            : 124,
+  "n_lines"            : 8510,
+  "files_per_second"   : 110.844640859863,
+  "lines_per_second"   : 7607.16043320512,
+  "report_file"        : "loc/smelukov__webpack-runtime-analyzer.json"},
+"JavaScript" :{
+  "nFiles": 74,
+  "blank": 496,
+  "comment": 176,
+  "code": 6120},
+"CSS" :{
+  "nFiles": 41,
+  "blank": 89,
+  "comment": 0,
+  "code": 883},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 180,
+  "comment": 0,
+  "code": 307},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 221},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 767,
+  "comment": 176,
+  "code": 7567,
+  "nFiles": 124} }

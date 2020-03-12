@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.4477560520172,
+  "n_files"            : 971,
+  "n_lines"            : 154368,
+  "files_per_second"   : 84.8201163256706,
+  "lines_per_second"   : 13484.5640751402,
+  "report_file"        : "loc/FoalTS__foal.json"},
+"JSON" :{
+  "nFiles": 103,
+  "blank": 37,
+  "comment": 0,
+  "code": 75184},
+"TypeScript" :{
+  "nFiles": 456,
+  "blank": 6683,
+  "comment": 5792,
+  "code": 27569},
+"Markdown" :{
+  "nFiles": 356,
+  "blank": 13374,
+  "comment": 0,
+  "code": 22287},
+"YAML" :{
+  "nFiles": 19,
+  "blank": 22,
+  "comment": 7,
+  "code": 1625},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 60,
+  "comment": 9,
+  "code": 791},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 19,
+  "comment": 33,
+  "code": 199},
+"Vuejs Component" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 2,
+  "code": 183},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 0,
+  "code": 175},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 25,
+  "code": 157},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"GraphQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 20297,
+  "comment": 5868,
+  "code": 128203,
+  "nFiles": 971} }

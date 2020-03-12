@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 68.4159979820251,
+  "n_files"            : 314,
+  "n_lines"            : 50338,
+  "files_per_second"   : 4.58956982667266,
+  "lines_per_second"   : 735.763585780408,
+  "report_file"        : "loc/kulshekhar__ts-jest.json"},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 0,
+  "code": 28535},
+"TypeScript" :{
+  "nFiles": 121,
+  "blank": 729,
+  "comment": 717,
+  "code": 5745},
+"Sass" :{
+  "nFiles": 89,
+  "blank": 1171,
+  "comment": 1040,
+  "code": 4848},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4073},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 710,
+  "comment": 0,
+  "code": 1649},
+"JavaScript" :{
+  "nFiles": 39,
+  "blank": 74,
+  "comment": 37,
+  "code": 574},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 30,
+  "comment": 32,
+  "code": 166},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 63,
+  "code": 100},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 2734,
+  "comment": 1889,
+  "code": 45715,
+  "nFiles": 314} }

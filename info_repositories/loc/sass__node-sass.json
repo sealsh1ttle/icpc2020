@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 99.3562090396881,
+  "n_files"            : 319,
+  "n_lines"            : 56225,
+  "files_per_second"   : 3.21067000324635,
+  "lines_per_second"   : 565.893169067479,
+  "report_file"        : "loc/sass__node-sass.json"},
+"C++" :{
+  "nFiles": 67,
+  "blank": 3710,
+  "comment": 3451,
+  "code": 22025},
+"C/C++ Header" :{
+  "nFiles": 80,
+  "blank": 1610,
+  "comment": 1507,
+  "code": 9130},
+"JavaScript" :{
+  "nFiles": 40,
+  "blank": 950,
+  "comment": 474,
+  "code": 5311},
+"Markdown" :{
+  "nFiles": 45,
+  "blank": 1158,
+  "comment": 0,
+  "code": 3163},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 663},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 69,
+  "comment": 157,
+  "code": 436},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 21,
+  "code": 383},
+"make" :{
+  "nFiles": 3,
+  "blank": 96,
+  "comment": 9,
+  "code": 374},
+"m4" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 2,
+  "code": 260},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 55,
+  "comment": 19,
+  "code": 218},
+"Python" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 203},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 133},
+"Sass" :{
+  "nFiles": 40,
+  "blank": 16,
+  "comment": 0,
+  "code": 118},
+"C" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 27,
+  "code": 111},
+"CSS" :{
+  "nFiles": 15,
+  "blank": 23,
+  "comment": 6,
+  "code": 81},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 30,
+  "code": 57},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 33},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 4},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 7814,
+  "comment": 5707,
+  "code": 42704,
+  "nFiles": 319} }

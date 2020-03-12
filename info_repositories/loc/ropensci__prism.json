@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.29365515708923,
+  "n_files"            : 27,
+  "n_lines"            : 1878,
+  "files_per_second"   : 4.29003485670595,
+  "lines_per_second"   : 298.395757810881,
+  "report_file"        : "loc/ropensci__prism.json"},
+"R" :{
+  "nFiles": 19,
+  "blank": 168,
+  "comment": 427,
+  "code": 704},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 69,
+  "comment": 0,
+  "code": 250},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 0,
+  "code": 56},
+"Rmd" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 82,
+  "code": 49},
+"SUM": {
+  "blank": 310,
+  "comment": 509,
+  "code": 1059,
+  "nFiles": 27} }

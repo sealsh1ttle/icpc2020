@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.0448470115662,
+  "n_files"            : 93,
+  "n_lines"            : 33565,
+  "files_per_second"   : 4.8832106628906,
+  "lines_per_second"   : 1762.41898817121,
+  "report_file"        : "loc/likecoin__likecoin-button.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 26202},
+"Vuejs Component" :{
+  "nFiles": 19,
+  "blank": 593,
+  "comment": 61,
+  "code": 3489},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 105,
+  "comment": 85,
+  "code": 1371},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 263,
+  "comment": 5,
+  "code": 941},
+"SVG" :{
+  "nFiles": 21,
+  "blank": 0,
+  "comment": 1,
+  "code": 215},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 113},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 35,
+  "comment": 0,
+  "code": 86},
+"SUM": {
+  "blank": 996,
+  "comment": 152,
+  "code": 32417,
+  "nFiles": 93} }

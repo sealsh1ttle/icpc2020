@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 549.821629047394,
+  "n_files"            : 2006,
+  "n_lines"            : 589401,
+  "files_per_second"   : 3.64845596102784,
+  "lines_per_second"   : 1071.9858384276,
+  "report_file"        : "loc/RedHatInsights__insights-ocp-controller.json"},
+"Go" :{
+  "nFiles": 1845,
+  "blank": 51392,
+  "comment": 64386,
+  "code": 454207},
+"Markdown" :{
+  "nFiles": 52,
+  "blank": 1277,
+  "comment": 0,
+  "code": 3632},
+"Protocol Buffers" :{
+  "nFiles": 27,
+  "blank": 1828,
+  "comment": 4284,
+  "code": 2775},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 20,
+  "comment": 0,
+  "code": 1344},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 153,
+  "comment": 139,
+  "code": 907},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 91,
+  "comment": 322,
+  "code": 644},
+"Assembly" :{
+  "nFiles": 24,
+  "blank": 225,
+  "comment": 314,
+  "code": 341},
+"YAML" :{
+  "nFiles": 20,
+  "blank": 54,
+  "comment": 60,
+  "code": 265},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 12,
+  "code": 192},
+"make" :{
+  "nFiles": 5,
+  "blank": 47,
+  "comment": 67,
+  "code": 138},
+"Python" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 13,
+  "code": 99},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 9,
+  "code": 59},
+"C" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 7,
+  "code": 24},
+"SUM": {
+  "blank": 55161,
+  "comment": 69613,
+  "code": 464627,
+  "nFiles": 2006} }

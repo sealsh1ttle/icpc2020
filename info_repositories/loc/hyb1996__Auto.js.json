@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 363.764366149902,
+  "n_files"            : 1055,
+  "n_lines"            : 116368,
+  "files_per_second"   : 2.90022909930999,
+  "lines_per_second"   : 319.899393202374,
+  "report_file"        : "loc/hyb1996__Auto.js.json"},
+"Java" :{
+  "nFiles": 552,
+  "blank": 11470,
+  "comment": 3145,
+  "code": 51900},
+"HTML" :{
+  "nFiles": 30,
+  "blank": 359,
+  "comment": 67,
+  "code": 17585},
+"JavaScript" :{
+  "nFiles": 154,
+  "blank": 1506,
+  "comment": 1306,
+  "code": 8551},
+"XML" :{
+  "nFiles": 194,
+  "blank": 1050,
+  "comment": 81,
+  "code": 7296},
+"Kotlin" :{
+  "nFiles": 95,
+  "blank": 1403,
+  "comment": 262,
+  "code": 5397},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 3005},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 102,
+  "comment": 8,
+  "code": 486},
+"Gradle" :{
+  "nFiles": 7,
+  "blank": 57,
+  "comment": 48,
+  "code": 384},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 98,
+  "comment": 0,
+  "code": 332},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"ProGuard" :{
+  "nFiles": 4,
+  "blank": 36,
+  "comment": 89,
+  "code": 95},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"SUM": {
+  "blank": 16124,
+  "comment": 5028,
+  "code": 95216,
+  "nFiles": 1055} }

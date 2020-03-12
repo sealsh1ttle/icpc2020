@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.58158707618713,
+  "n_files"            : 342,
+  "n_lines"            : 186222,
+  "files_per_second"   : 74.6466222976641,
+  "lines_per_second"   : 40645.7406360105,
+  "report_file"        : "loc/ekeeke__Genesis-Plus-GX.json"},
+"C" :{
+  "nFiles": 138,
+  "blank": 13553,
+  "comment": 16629,
+  "code": 73705},
+"C/C++ Header" :{
+  "nFiles": 188,
+  "blank": 10183,
+  "comment": 14068,
+  "code": 50594},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4466},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 2477},
+"make" :{
+  "nFiles": 5,
+  "blank": 88,
+  "comment": 83,
+  "code": 259},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 61},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 0,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 23853,
+  "comment": 30780,
+  "code": 131589,
+  "nFiles": 342} }

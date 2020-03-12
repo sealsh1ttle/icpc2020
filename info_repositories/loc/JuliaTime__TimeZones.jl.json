@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.8558812141418,
+  "n_files"            : 84,
+  "n_lines"            : 9166,
+  "files_per_second"   : 4.98342382298739,
+  "lines_per_second"   : 543.786461446457,
+  "report_file"        : "loc/JuliaTime__TimeZones.jl.json"},
+"Julia" :{
+  "nFiles": 66,
+  "blank": 1172,
+  "comment": 704,
+  "code": 4749},
+"XML" :{
+  "nFiles": 2,
+  "blank": 269,
+  "comment": 277,
+  "code": 1017},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 187,
+  "comment": 0,
+  "code": 520},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 0,
+  "code": 127},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 3,
+  "code": 94},
+"SUM": {
+  "blank": 1675,
+  "comment": 984,
+  "code": 6507,
+  "nFiles": 84} }

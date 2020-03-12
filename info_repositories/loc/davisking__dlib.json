@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 384.379778146744,
+  "n_files"            : 1801,
+  "n_lines"            : 672795,
+  "files_per_second"   : 4.68547021043453,
+  "lines_per_second"   : 1750.33921722893,
+  "report_file"        : "loc/davisking__dlib.json"},
+"C/C++ Header" :{
+  "nFiles": 1011,
+  "blank": 53178,
+  "comment": 92316,
+  "code": 215904},
+"C++" :{
+  "nFiles": 369,
+  "blank": 25502,
+  "comment": 15704,
+  "code": 102360},
+"C" :{
+  "nFiles": 239,
+  "blank": 12025,
+  "comment": 17587,
+  "code": 61195},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 2,
+  "code": 31105},
+"XML" :{
+  "nFiles": 45,
+  "blank": 4368,
+  "comment": 1029,
+  "code": 25855},
+"CMake" :{
+  "nFiles": 41,
+  "blank": 546,
+  "comment": 852,
+  "code": 2434},
+"Python" :{
+  "nFiles": 37,
+  "blank": 624,
+  "comment": 1452,
+  "code": 1881},
+"CUDA" :{
+  "nFiles": 3,
+  "blank": 272,
+  "comment": 94,
+  "code": 1555},
+"XSLT" :{
+  "nFiles": 4,
+  "blank": 250,
+  "comment": 84,
+  "code": 1554},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 22,
+  "code": 318},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 17,
+  "code": 309},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 92,
+  "comment": 37,
+  "code": 258},
+"Java" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 3,
+  "code": 229},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 69,
+  "comment": 0,
+  "code": 200},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 33,
+  "code": 189},
+"Fortran 77" :{
+  "nFiles": 20,
+  "blank": 0,
+  "comment": 140,
+  "code": 160},
+"make" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 16,
+  "code": 153},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 45,
+  "comment": 32,
+  "code": 148},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 27,
+  "comment": 24,
+  "code": 144},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 11,
+  "code": 73},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 27},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 19},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 16,
+  "code": 12},
+"MATLAB" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 8},
+"SUM": {
+  "blank": 97231,
+  "comment": 129474,
+  "code": 446090,
+  "nFiles": 1801} }

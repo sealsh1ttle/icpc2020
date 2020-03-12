@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 562.945966005325,
+  "n_files"            : 1902,
+  "n_lines"            : 63208,
+  "files_per_second"   : 3.37865463979896,
+  "lines_per_second"   : 112.280758397693,
+  "report_file"        : "loc/kakshay21__major_project.json"},
+"CSS" :{
+  "nFiles": 37,
+  "blank": 2996,
+  "comment": 266,
+  "code": 21998},
+"SVG" :{
+  "nFiles": 1350,
+  "blank": 0,
+  "comment": 5350,
+  "code": 11130},
+"Sass" :{
+  "nFiles": 190,
+  "blank": 2372,
+  "comment": 1545,
+  "code": 8842},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 37,
+  "comment": 200,
+  "code": 3394},
+"JavaScript" :{
+  "nFiles": 290,
+  "blank": 605,
+  "comment": 542,
+  "code": 2284},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 897},
+"Python" :{
+  "nFiles": 21,
+  "blank": 128,
+  "comment": 59,
+  "code": 548},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 6140,
+  "comment": 7962,
+  "code": 49106,
+  "nFiles": 1902} }

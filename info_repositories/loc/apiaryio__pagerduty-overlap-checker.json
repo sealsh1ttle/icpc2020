@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.39556288719177,
+  "n_files"            : 47,
+  "n_lines"            : 12043,
+  "files_per_second"   : 5.59819521710724,
+  "lines_per_second"   : 1434.44819148133,
+  "report_file"        : "loc/apiaryio__pagerduty-overlap-checker.json"},
+"JSON" :{
+  "nFiles": 30,
+  "blank": 8,
+  "comment": 0,
+  "code": 10525},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 172,
+  "comment": 16,
+  "code": 1164},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 57},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 27,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 9,
+  "code": 14},
+"SUM": {
+  "blank": 205,
+  "comment": 52,
+  "code": 11786,
+  "nFiles": 47} }

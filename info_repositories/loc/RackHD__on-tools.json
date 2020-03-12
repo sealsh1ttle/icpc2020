@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.642787933349609,
+  "n_files"            : 79,
+  "n_lines"            : 10671,
+  "files_per_second"   : 122.902120437025,
+  "lines_per_second"   : 16601.1205972594,
+  "report_file"        : "loc/RackHD__on-tools.json"},
+"Python" :{
+  "nFiles": 39,
+  "blank": 1119,
+  "comment": 1962,
+  "code": 4720},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 91,
+  "comment": 1,
+  "code": 719},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 88,
+  "comment": 134,
+  "code": 556},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 336},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 16,
+  "comment": 13,
+  "code": 254},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 104,
+  "comment": 0,
+  "code": 212},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 0,
+  "code": 144},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 9,
+  "code": 95},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 11,
+  "code": 38},
+"SUM": {
+  "blank": 1467,
+  "comment": 2130,
+  "code": 7074,
+  "nFiles": 79} }

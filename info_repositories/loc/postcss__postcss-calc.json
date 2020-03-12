@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.6322660446167,
+  "n_files"            : 12,
+  "n_lines"            : 2323,
+  "files_per_second"   : 4.55880970866962,
+  "lines_per_second"   : 882.509579436628,
+  "report_file"        : "loc/postcss__postcss-calc.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 269,
+  "comment": 58,
+  "code": 1600},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 99,
+  "comment": 0,
+  "code": 229},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 61},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 368,
+  "comment": 58,
+  "code": 1897,
+  "nFiles": 12} }

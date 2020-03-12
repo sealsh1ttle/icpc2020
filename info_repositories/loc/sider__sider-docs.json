@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.8748459815979,
+  "n_files"            : 82,
+  "n_lines"            : 7485,
+  "files_per_second"   : 1.86895242969953,
+  "lines_per_second"   : 170.598889467085,
+  "report_file"        : "loc/sider__sider-docs.json"},
+"Markdown" :{
+  "nFiles": 61,
+  "blank": 1978,
+  "comment": 0,
+  "code": 4562},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 57,
+  "comment": 75,
+  "code": 291},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 173},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 7,
+  "code": 138},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 3,
+  "code": 69},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 1,
+  "code": 50},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 24},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 2085,
+  "comment": 86,
+  "code": 5314,
+  "nFiles": 82} }

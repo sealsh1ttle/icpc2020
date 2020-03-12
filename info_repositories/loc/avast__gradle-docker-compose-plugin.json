@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.4563281536102,
+  "n_files"            : 33,
+  "n_lines"            : 3391,
+  "files_per_second"   : 2.45237776778997,
+  "lines_per_second"   : 252.000394259873,
+  "report_file"        : "loc/avast__gradle-docker-compose-plugin.json"},
+"Groovy" :{
+  "nFiles": 26,
+  "blank": 383,
+  "comment": 69,
+  "code": 2358},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 0,
+  "code": 163},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 1,
+  "code": 88},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 479,
+  "comment": 94,
+  "code": 2818,
+  "nFiles": 33} }

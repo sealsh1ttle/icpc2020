@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.342570066452,
+  "n_files"            : 55,
+  "n_lines"            : 19142,
+  "files_per_second"   : 5.3178271596537,
+  "lines_per_second"   : 1850.79722709257,
+  "report_file"        : "loc/Filipo0on__chessgame.json"},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 17223},
+"TypeScript" :{
+  "nFiles": 29,
+  "blank": 135,
+  "comment": 58,
+  "code": 1356},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 20,
+  "comment": 0,
+  "code": 220},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 21},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 18},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 179,
+  "comment": 78,
+  "code": 18885,
+  "nFiles": 55} }

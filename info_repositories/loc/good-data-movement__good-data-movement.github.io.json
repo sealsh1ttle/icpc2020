@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.300302028656006,
+  "n_files"            : 37,
+  "n_lines"            : 1990,
+  "files_per_second"   : 123.209290878229,
+  "lines_per_second"   : 6626.66186074798,
+  "report_file"        : "loc/good-data-movement__good-data-movement.github.io.json"},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 202,
+  "comment": 99,
+  "code": 1396},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 83},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 0,
+  "code": 62},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 251,
+  "comment": 99,
+  "code": 1640,
+  "nFiles": 37} }

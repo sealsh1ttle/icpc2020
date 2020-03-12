@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.983735084533691,
+  "n_files"            : 150,
+  "n_lines"            : 5797,
+  "files_per_second"   : 152.480075538937,
+  "lines_per_second"   : 5892.84665266146,
+  "report_file"        : "loc/jxnblk__mdx-deck.json"},
+"JavaScript" :{
+  "nFiles": 83,
+  "blank": 270,
+  "comment": 109,
+  "code": 2483},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 862,
+  "comment": 0,
+  "code": 1630},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 399},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 13,
+  "code": 21},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1139,
+  "comment": 122,
+  "code": 4536,
+  "nFiles": 150} }

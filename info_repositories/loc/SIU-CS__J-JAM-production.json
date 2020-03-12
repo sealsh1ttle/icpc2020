@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.26154613494873,
+  "n_files"            : 48,
+  "n_lines"            : 1945,
+  "files_per_second"   : 183.5240272597,
+  "lines_per_second"   : 7436.54652125243,
+  "report_file"        : "loc/SIU-CS__J-JAM-production.json"},
+"Python" :{
+  "nFiles": 20,
+  "blank": 281,
+  "comment": 167,
+  "code": 931},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 75,
+  "comment": 2,
+  "code": 385},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 41},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 380,
+  "comment": 169,
+  "code": 1396,
+  "nFiles": 48} }

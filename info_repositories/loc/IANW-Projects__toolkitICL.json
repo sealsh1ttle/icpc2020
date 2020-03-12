@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.48164701461792,
+  "n_files"            : 40,
+  "n_lines"            : 5634,
+  "files_per_second"   : 8.9252901599637,
+  "lines_per_second"   : 1257.12711903089,
+  "report_file"        : "loc/IANW-Projects__toolkitICL.json"},
+"C++" :{
+  "nFiles": 18,
+  "blank": 656,
+  "comment": 164,
+  "code": 2606},
+"C/C++ Header" :{
+  "nFiles": 7,
+  "blank": 128,
+  "comment": 78,
+  "code": 479},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 71,
+  "comment": 35,
+  "code": 228},
+"Jupyter Notebook" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 279,
+  "code": 207},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 0,
+  "code": 189},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 97,
+  "code": 133},
+"Julia" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 11,
+  "code": 62},
+"MATLAB" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 15,
+  "code": 53},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 9},
+"SUM": {
+  "blank": 965,
+  "comment": 680,
+  "code": 3989,
+  "nFiles": 40} }

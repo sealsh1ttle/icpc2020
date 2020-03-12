@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2162.09199905396,
+  "n_files"            : 7032,
+  "n_lines"            : 640180,
+  "files_per_second"   : 3.25240554198291,
+  "lines_per_second"   : 296.092858342807,
+  "report_file"        : "loc/home-assistant__home-assistant.json"},
+"Python" :{
+  "nFiles": 3808,
+  "blank": 102076,
+  "comment": 53398,
+  "code": 394503},
+"JSON" :{
+  "nFiles": 3030,
+  "blank": 13,
+  "comment": 0,
+  "code": 81762},
+"YAML" :{
+  "nFiles": 151,
+  "blank": 530,
+  "comment": 140,
+  "code": 5608},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 114,
+  "comment": 0,
+  "code": 354},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 2,
+  "code": 243},
+"XML" :{
+  "nFiles": 6,
+  "blank": 16,
+  "comment": 0,
+  "code": 239},
+"make" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 5,
+  "code": 194},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 162,
+  "comment": 270,
+  "code": 155},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 32,
+  "comment": 14,
+  "code": 105},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 25,
+  "comment": 18,
+  "code": 69},
+"INI" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 39},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 103040,
+  "comment": 53847,
+  "code": 483293,
+  "nFiles": 7032} }

@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 260.180350065231,
+  "n_files"            : 910,
+  "n_lines"            : 342727,
+  "files_per_second"   : 3.49757389353903,
+  "lines_per_second"   : 1317.2670415505,
+  "report_file"        : "loc/torchbox__verdant-rca.json"},
+"JavaScript" :{
+  "nFiles": 164,
+  "blank": 31957,
+  "comment": 91566,
+  "code": 135455},
+"Python" :{
+  "nFiles": 337,
+  "blank": 5822,
+  "comment": 2307,
+  "code": 29340},
+"HTML" :{
+  "nFiles": 238,
+  "blank": 2172,
+  "comment": 624,
+  "code": 14326},
+"LESS" :{
+  "nFiles": 62,
+  "blank": 1902,
+  "comment": 1327,
+  "code": 11608},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 9,
+  "code": 7735},
+"CSS" :{
+  "nFiles": 47,
+  "blank": 579,
+  "comment": 877,
+  "code": 1969},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 269,
+  "comment": 0,
+  "code": 1061},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 164,
+  "comment": 186,
+  "code": 395},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 286},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 55,
+  "comment": 35,
+  "code": 187},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 61,
+  "comment": 32,
+  "code": 156},
+"PHP" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 12,
+  "code": 118},
+"SQL" :{
+  "nFiles": 7,
+  "blank": 14,
+  "comment": 18,
+  "code": 46},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 31},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 43012,
+  "comment": 96993,
+  "code": 202722,
+  "nFiles": 910} }

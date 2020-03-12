@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.79919099807739,
+  "n_files"            : 476,
+  "n_lines"            : 161194,
+  "files_per_second"   : 70.0083289518707,
+  "lines_per_second"   : 23707.8205400585,
+  "report_file"        : "loc/aikar__fastutil-lite.json"},
+"Java" :{
+  "nFiles": 419,
+  "blank": 5600,
+  "comment": 57484,
+  "code": 94455},
+"Maven" :{
+  "nFiles": 36,
+  "blank": 122,
+  "comment": 0,
+  "code": 2868},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 0,
+  "code": 240},
+"XML" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 239},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 18,
+  "comment": 0,
+  "code": 97},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 5798,
+  "comment": 57484,
+  "code": 97912,
+  "nFiles": 476} }

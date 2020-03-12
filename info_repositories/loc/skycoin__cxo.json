@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.3151528835297,
+  "n_files"            : 129,
+  "n_lines"            : 33851,
+  "files_per_second"   : 3.65282292350384,
+  "lines_per_second"   : 958.540378166888,
+  "report_file"        : "loc/skycoin__cxo.json"},
+"Go" :{
+  "nFiles": 107,
+  "blank": 7771,
+  "comment": 4279,
+  "code": 20724},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 315,
+  "comment": 0,
+  "code": 668},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 20,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 3,
+  "code": 14},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 8104,
+  "comment": 4304,
+  "code": 21443,
+  "nFiles": 129} }

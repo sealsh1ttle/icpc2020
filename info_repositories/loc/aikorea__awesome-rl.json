@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.281970977783203,
+  "n_files"            : 1,
+  "n_lines"            : 243,
+  "files_per_second"   : 3.54646427750044,
+  "lines_per_second"   : 861.790819432607,
+  "report_file"        : "loc/aikorea__awesome-rl.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 211},
+"SUM": {
+  "blank": 32,
+  "comment": 0,
+  "code": 211,
+  "nFiles": 1} }

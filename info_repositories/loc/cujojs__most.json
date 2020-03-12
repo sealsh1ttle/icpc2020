@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.985199928283691,
+  "n_files"            : 149,
+  "n_lines"            : 23015,
+  "files_per_second"   : 151.238338252391,
+  "lines_per_second"   : 23360.7406367703,
+  "report_file"        : "loc/cujojs__most.json"},
+"JavaScript" :{
+  "nFiles": 136,
+  "blank": 2403,
+  "comment": 2121,
+  "code": 9388},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 6478},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 614,
+  "comment": 0,
+  "code": 1574},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 3,
+  "code": 365},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 3075,
+  "comment": 2124,
+  "code": 17816,
+  "nFiles": 149} }

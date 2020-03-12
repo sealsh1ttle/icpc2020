@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.4539530277252,
+  "n_files"            : 208,
+  "n_lines"            : 12956,
+  "files_per_second"   : 6.82998360871698,
+  "lines_per_second"   : 425.42917131989,
+  "report_file"        : "loc/jes708__CodeGenius.json"},
+"JavaScript" :{
+  "nFiles": 189,
+  "blank": 1397,
+  "comment": 494,
+  "code": 10046},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 12,
+  "code": 258},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 242},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 27,
+  "comment": 0,
+  "code": 176},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 130},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 0,
+  "code": 64},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1507,
+  "comment": 506,
+  "code": 10943,
+  "nFiles": 208} }

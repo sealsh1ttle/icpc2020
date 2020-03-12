@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.6562249660492,
+  "n_files"            : 73,
+  "n_lines"            : 9891,
+  "files_per_second"   : 4.66268210621027,
+  "lines_per_second"   : 631.761489212681,
+  "report_file"        : "loc/khipu__opencart-khipu.json"},
+"PHP" :{
+  "nFiles": 57,
+  "blank": 1421,
+  "comment": 3161,
+  "code": 4630},
+"Twig" :{
+  "nFiles": 10,
+  "blank": 11,
+  "comment": 0,
+  "code": 484},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 94},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 0,
+  "code": 57},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1461,
+  "comment": 3161,
+  "code": 5269,
+  "nFiles": 73} }

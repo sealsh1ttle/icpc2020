@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.46146678924561,
+  "n_files"            : 180,
+  "n_lines"            : 8161,
+  "files_per_second"   : 123.163934565297,
+  "lines_per_second"   : 5584.11594437437,
+  "report_file"        : "loc/ametiste-oss__ametiste-metrics.json"},
+"Java" :{
+  "nFiles": 121,
+  "blank": 1115,
+  "comment": 1159,
+  "code": 3216},
+"Groovy" :{
+  "nFiles": 35,
+  "blank": 323,
+  "comment": 135,
+  "code": 1495},
+"Gradle" :{
+  "nFiles": 18,
+  "blank": 94,
+  "comment": 2,
+  "code": 252},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 70},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1610,
+  "comment": 1319,
+  "code": 5232,
+  "nFiles": 180} }

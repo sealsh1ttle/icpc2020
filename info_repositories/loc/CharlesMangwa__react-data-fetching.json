@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.223278999328613,
+  "n_files"            : 21,
+  "n_lines"            : 2488,
+  "files_per_second"   : 94.0527325146823,
+  "lines_per_second"   : 11143.0094522157,
+  "report_file"        : "loc/CharlesMangwa__react-data-fetching.json"},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 158,
+  "comment": 14,
+  "code": 1271},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 219,
+  "comment": 0,
+  "code": 598},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 159},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 31},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 386,
+  "comment": 14,
+  "code": 2088,
+  "nFiles": 21} }

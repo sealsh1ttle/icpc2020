@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.27337503433228,
+  "n_files"            : 378,
+  "n_lines"            : 75925,
+  "files_per_second"   : 166.272609794461,
+  "lines_per_second"   : 33397.4812133451,
+  "report_file"        : "loc/elastos__Elastos.ELA.json"},
+"Go" :{
+  "nFiles": 340,
+  "blank": 9971,
+  "comment": 6292,
+  "code": 52835},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 1145,
+  "comment": 0,
+  "code": 4637},
+"Lua" :{
+  "nFiles": 19,
+  "blank": 215,
+  "comment": 138,
+  "code": 581},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 13},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 6,
+  "code": 12},
+"SUM": {
+  "blank": 11350,
+  "comment": 6436,
+  "code": 58139,
+  "nFiles": 378} }

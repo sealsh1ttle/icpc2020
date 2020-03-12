@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.6991188526154,
+  "n_files"            : 56,
+  "n_lines"            : 3473,
+  "files_per_second"   : 5.23407588712888,
+  "lines_per_second"   : 324.606170642832,
+  "report_file"        : "loc/tylermarshal__bike-share.json"},
+"Ruby" :{
+  "nFiles": 33,
+  "blank": 364,
+  "comment": 66,
+  "code": 1548},
+"ERB" :{
+  "nFiles": 16,
+  "blank": 1,
+  "comment": 0,
+  "code": 835},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 7,
+  "code": 266},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 106,
+  "comment": 0,
+  "code": 228},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 9},
+"SUM": {
+  "blank": 513,
+  "comment": 74,
+  "code": 2886,
+  "nFiles": 56} }

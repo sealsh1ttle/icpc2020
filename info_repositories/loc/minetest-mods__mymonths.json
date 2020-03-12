@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.35627508163452,
+  "n_files"            : 11,
+  "n_lines"            : 2594,
+  "files_per_second"   : 2.52509306548949,
+  "lines_per_second"   : 595.462855625431,
+  "report_file"        : "loc/minetest-mods__mymonths.json"},
+"Lua" :{
+  "nFiles": 10,
+  "blank": 558,
+  "comment": 166,
+  "code": 1847},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 558,
+  "comment": 166,
+  "code": 1870,
+  "nFiles": 11} }

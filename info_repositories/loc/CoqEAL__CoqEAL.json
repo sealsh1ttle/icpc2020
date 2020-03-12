@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.4073400497437,
+  "n_files"            : 59,
+  "n_lines"            : 23458,
+  "files_per_second"   : 4.7552496960232,
+  "lines_per_second"   : 1890.65504015783,
+  "report_file"        : "loc/CoqEAL__CoqEAL.json"},
+"Coq" :{
+  "nFiles": 45,
+  "blank": 3484,
+  "comment": 1376,
+  "code": 17312},
+"OCaml" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 19,
+  "code": 389},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 0,
+  "code": 289},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 15,
+  "code": 159},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 35,
+  "comment": 0,
+  "code": 94},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 12,
+  "code": 56},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 39},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 23},
+"make" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 5},
+"SUM": {
+  "blank": 3668,
+  "comment": 1424,
+  "code": 18366,
+  "nFiles": 59} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.375016927719116,
+  "n_files"            : 10,
+  "n_lines"            : 1093,
+  "files_per_second"   : 26.6654629720872,
+  "lines_per_second"   : 2914.53510284913,
+  "report_file"        : "loc/logicmonitor__docker_lm_collector.json"},
+"Python" :{
+  "nFiles": 7,
+  "blank": 123,
+  "comment": 47,
+  "code": 536},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 194},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 20,
+  "code": 105},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 17},
+"SUM": {
+  "blank": 173,
+  "comment": 68,
+  "code": 852,
+  "nFiles": 10} }

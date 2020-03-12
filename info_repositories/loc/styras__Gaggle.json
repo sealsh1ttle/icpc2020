@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.478707075119,
+  "n_files"            : 65,
+  "n_lines"            : 4316,
+  "files_per_second"   : 4.82242099614929,
+  "lines_per_second"   : 320.208754144313,
+  "report_file"        : "loc/styras__Gaggle.json"},
+"JavaScript" :{
+  "nFiles": 41,
+  "blank": 275,
+  "comment": 44,
+  "code": 2856},
+"XML" :{
+  "nFiles": 7,
+  "blank": 6,
+  "comment": 3,
+  "code": 241},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 105},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 82,
+  "code": 80},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 25,
+  "code": 75},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 56},
+"Java" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 4,
+  "code": 48},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 23,
+  "code": 30},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 8,
+  "code": 4},
+"SUM": {
+  "blank": 422,
+  "comment": 212,
+  "code": 3682,
+  "nFiles": 65} }

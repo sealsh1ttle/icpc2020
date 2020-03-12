@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.590909957885742,
+  "n_files"            : 3,
+  "n_lines"            : 142,
+  "files_per_second"   : 5.07691562811686,
+  "lines_per_second"   : 240.307339730865,
+  "report_file"        : "loc/IBM-Swift__CCurl.json"},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 17,
+  "code": 60},
+"Swift" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 27,
+  "comment": 35,
+  "code": 80,
+  "nFiles": 3} }

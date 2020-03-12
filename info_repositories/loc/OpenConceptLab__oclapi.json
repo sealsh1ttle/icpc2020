@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.11586403846741,
+  "n_files"            : 234,
+  "n_lines"            : 54135,
+  "files_per_second"   : 110.593117395905,
+  "lines_per_second"   : 25585.2923513988,
+  "report_file"        : "loc/OpenConceptLab__oclapi.json"},
+"JSON" :{
+  "nFiles": 31,
+  "blank": 1,
+  "comment": 0,
+  "code": 20447},
+"Python" :{
+  "nFiles": 112,
+  "blank": 4086,
+  "comment": 655,
+  "code": 19671},
+"TypeScript" :{
+  "nFiles": 7,
+  "blank": 450,
+  "comment": 5,
+  "code": 1437},
+"XML" :{
+  "nFiles": 10,
+  "blank": 443,
+  "comment": 1268,
+  "code": 858},
+"Velocity Template Language" :{
+  "nFiles": 32,
+  "blank": 183,
+  "comment": 194,
+  "code": 839},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 99,
+  "comment": 94,
+  "code": 777},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 215,
+  "comment": 0,
+  "code": 562},
+"XSLT" :{
+  "nFiles": 5,
+  "blank": 55,
+  "comment": 102,
+  "code": 515},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 65,
+  "comment": 16,
+  "code": 401},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 9,
+  "code": 218},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 206},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 64,
+  "code": 58},
+"diff" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 14,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 5671,
+  "comment": 2422,
+  "code": 46042,
+  "nFiles": 234} }

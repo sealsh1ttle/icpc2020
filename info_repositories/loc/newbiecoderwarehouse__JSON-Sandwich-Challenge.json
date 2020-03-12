@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0817179679870605,
+  "n_files"            : 7,
+  "n_lines"            : 116,
+  "files_per_second"   : 85.6604755652808,
+  "lines_per_second"   : 1419.51645222465,
+  "report_file"        : "loc/newbiecoderwarehouse__JSON-Sandwich-Challenge.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 0,
+  "code": 92},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 9,
+  "comment": 0,
+  "code": 107,
+  "nFiles": 7} }

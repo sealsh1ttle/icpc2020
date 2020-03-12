@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.940207958221436,
+  "n_files"            : 6,
+  "n_lines"            : 3009,
+  "files_per_second"   : 6.38156691563218,
+  "lines_per_second"   : 3200.35580818954,
+  "report_file"        : "loc/evandhq__react-persian.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2722},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 35,
+  "comment": 1,
+  "code": 158},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 80},
+"SUM": {
+  "blank": 48,
+  "comment": 1,
+  "code": 2960,
+  "nFiles": 6} }

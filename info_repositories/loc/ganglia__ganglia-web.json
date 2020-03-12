@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.65357708930969,
+  "n_files"            : 304,
+  "n_lines"            : 55786,
+  "files_per_second"   : 114.562339728025,
+  "lines_per_second"   : 21022.943039696,
+  "report_file"        : "loc/ganglia__ganglia-web.json"},
+"PHP" :{
+  "nFiles": 193,
+  "blank": 3691,
+  "comment": 7570,
+  "code": 18881},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 2765,
+  "comment": 2434,
+  "code": 13215},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 288,
+  "comment": 130,
+  "code": 2553},
+"Smarty" :{
+  "nFiles": 18,
+  "blank": 210,
+  "comment": 1,
+  "code": 2177},
+"PO File" :{
+  "nFiles": 15,
+  "blank": 64,
+  "comment": 286,
+  "code": 472},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 70,
+  "comment": 125,
+  "code": 347},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 0,
+  "code": 147},
+"make" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 20,
+  "code": 89},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 78},
+"XML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 42},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 12},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 7144,
+  "comment": 10571,
+  "code": 38071,
+  "nFiles": 304} }

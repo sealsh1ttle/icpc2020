@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.104388952255249,
+  "n_files"            : 9,
+  "n_lines"            : 472,
+  "files_per_second"   : 86.2160200438974,
+  "lines_per_second"   : 4521.55127341329,
+  "report_file"        : "loc/designmynight__laravel-horizon-rabbitmq.json"},
+"PHP" :{
+  "nFiles": 5,
+  "blank": 50,
+  "comment": 107,
+  "code": 209},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 45},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 69,
+  "comment": 107,
+  "code": 296,
+  "nFiles": 9} }

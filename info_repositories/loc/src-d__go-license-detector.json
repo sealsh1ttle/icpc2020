@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7297990322113,
+  "n_files"            : 33,
+  "n_lines"            : 3462,
+  "files_per_second"   : 3.07554688591395,
+  "lines_per_second"   : 322.652827849518,
+  "report_file"        : "loc/src-d__go-license-detector.json"},
+"Go" :{
+  "nFiles": 24,
+  "blank": 227,
+  "comment": 192,
+  "code": 2297},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 115,
+  "comment": 0,
+  "code": 510},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 0,
+  "code": 81},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 362,
+  "comment": 192,
+  "code": 2908,
+  "nFiles": 33} }

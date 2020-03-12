@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.500241041183472,
+  "n_files"            : 86,
+  "n_lines"            : 6162,
+  "files_per_second"   : 171.917121787011,
+  "lines_per_second"   : 12318.0616796693,
+  "report_file"        : "loc/doakey3__VSE_Transform_Tools.json"},
+"Python" :{
+  "nFiles": 85,
+  "blank": 1305,
+  "comment": 525,
+  "code": 3766},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 543,
+  "code": 0},
+"SUM": {
+  "blank": 1328,
+  "comment": 1068,
+  "code": 3766,
+  "nFiles": 86} }

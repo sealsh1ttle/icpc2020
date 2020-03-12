@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0158030986785889,
+  "n_files"            : 1,
+  "n_lines"            : 4,
+  "files_per_second"   : 63.2787290858893,
+  "lines_per_second"   : 253.114916343557,
+  "report_file"        : "loc/movableink__ics-generator.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1,
+  "comment": 0,
+  "code": 3,
+  "nFiles": 1} }

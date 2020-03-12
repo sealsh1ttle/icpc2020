@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 50.514083147049,
+  "n_files"            : 229,
+  "n_lines"            : 34602,
+  "files_per_second"   : 4.53338922005908,
+  "lines_per_second"   : 684.997090796875,
+  "report_file"        : "loc/tpolecat__doobie.json"},
+"Scala" :{
+  "nFiles": 196,
+  "blank": 3473,
+  "comment": 2734,
+  "code": 18637},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 15,
+  "code": 5344},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 1037,
+  "comment": 0,
+  "code": 2655},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 76,
+  "comment": 48,
+  "code": 422},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 75},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 24},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"Java" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 4},
+"SUM": {
+  "blank": 4613,
+  "comment": 2808,
+  "code": 27181,
+  "nFiles": 229} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 90.266725063324,
+  "n_files"            : 413,
+  "n_lines"            : 46115,
+  "files_per_second"   : 4.57532938865647,
+  "lines_per_second"   : 510.874854135335,
+  "report_file"        : "loc/hmrc__cgt-calculator-non-resident-frontend.json"},
+"Scala" :{
+  "nFiles": 330,
+  "blank": 7638,
+  "comment": 5085,
+  "code": 28533},
+"HTML" :{
+  "nFiles": 72,
+  "blank": 675,
+  "comment": 0,
+  "code": 3274},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 78,
+  "comment": 5,
+  "code": 433},
+"XML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 0,
+  "code": 174},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 3,
+  "code": 69},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 0,
+  "code": 62},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 8466,
+  "comment": 5093,
+  "code": 32556,
+  "nFiles": 413} }

@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.9746890068054,
+  "n_files"            : 73,
+  "n_lines"            : 5795,
+  "files_per_second"   : 3.48038533378562,
+  "lines_per_second"   : 276.285383688872,
+  "report_file"        : "loc/kmagiera__react-native-screens.json"},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 118,
+  "comment": 53,
+  "code": 1248},
+"Java" :{
+  "nFiles": 17,
+  "blank": 262,
+  "comment": 61,
+  "code": 1226},
+"Objective C" :{
+  "nFiles": 8,
+  "blank": 218,
+  "comment": 81,
+  "code": 1056},
+"XML" :{
+  "nFiles": 10,
+  "blank": 7,
+  "comment": 4,
+  "code": 222},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 43,
+  "comment": 109,
+  "code": 201},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 107,
+  "comment": 0,
+  "code": 174},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 154},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 38,
+  "comment": 6,
+  "code": 89},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 18},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 16},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 849,
+  "comment": 355,
+  "code": 4591,
+  "nFiles": 73} }

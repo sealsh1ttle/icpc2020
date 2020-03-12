@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.68710398674011,
+  "n_files"            : 67,
+  "n_lines"            : 450,
+  "files_per_second"   : 10.0192849001383,
+  "lines_per_second"   : 67.2937045531679,
+  "report_file"        : "loc/kubernetes-sigs__contributor-playground.json"},
+"Markdown" :{
+  "nFiles": 62,
+  "blank": 112,
+  "comment": 0,
+  "code": 289},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 11,
+  "code": 13},
+"Go" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 122,
+  "comment": 11,
+  "code": 317,
+  "nFiles": 67} }

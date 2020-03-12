@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.1879370212555,
+  "n_files"            : 1649,
+  "n_lines"            : 246563,
+  "files_per_second"   : 34.9453717219555,
+  "lines_per_second"   : 5225.12776705914,
+  "report_file"        : "loc/cockpit-project__cockpit-project.github.io.json"},
+"HTML" :{
+  "nFiles": 1447,
+  "blank": 687,
+  "comment": 15,
+  "code": 199890},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 5789,
+  "comment": 3898,
+  "code": 18384},
+"Markdown" :{
+  "nFiles": 133,
+  "blank": 2892,
+  "comment": 0,
+  "code": 6793},
+"Sass" :{
+  "nFiles": 21,
+  "blank": 1109,
+  "comment": 100,
+  "code": 3936},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 224,
+  "comment": 60,
+  "code": 1278},
+"CoffeeScript" :{
+  "nFiles": 4,
+  "blank": 163,
+  "comment": 150,
+  "code": 489},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 0,
+  "code": 274},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 40,
+  "comment": 32,
+  "code": 153},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 13,
+  "code": 74},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 37},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 25},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 10952,
+  "comment": 4268,
+  "code": 231343,
+  "nFiles": 1649} }

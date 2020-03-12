@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.70095205307007,
+  "n_files"            : 24,
+  "n_lines"            : 1391,
+  "files_per_second"   : 6.48481786736231,
+  "lines_per_second"   : 375.849235562541,
+  "report_file"        : "loc/gophergala__gomp.json"},
+"Go" :{
+  "nFiles": 21,
+  "blank": 156,
+  "comment": 85,
+  "code": 987},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 96},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 33},
+"SUM": {
+  "blank": 189,
+  "comment": 86,
+  "code": 1116,
+  "nFiles": 24} }

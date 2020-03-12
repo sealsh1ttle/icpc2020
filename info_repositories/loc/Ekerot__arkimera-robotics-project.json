@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 52.299870967865,
+  "n_files"            : 157,
+  "n_lines"            : 13845,
+  "files_per_second"   : 3.00191945208558,
+  "lines_per_second"   : 264.723406459394,
+  "report_file"        : "loc/Ekerot__arkimera-robotics-project.json"},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 295,
+  "comment": 67,
+  "code": 5370},
+"TypeScript" :{
+  "nFiles": 63,
+  "blank": 328,
+  "comment": 161,
+  "code": 1872},
+"XML" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 1857},
+"JavaScript" :{
+  "nFiles": 35,
+  "blank": 319,
+  "comment": 164,
+  "code": 1667},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 1,
+  "comment": 0,
+  "code": 1036},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 80,
+  "comment": 12,
+  "code": 347},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 0,
+  "code": 146},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 11,
+  "code": 37},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 11,
+  "code": 7},
+"SUM": {
+  "blank": 1080,
+  "comment": 426,
+  "code": 12339,
+  "nFiles": 157} }

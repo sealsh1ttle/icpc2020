@@ -1,0 +1,159 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 216.487946033478,
+  "n_files"            : 14430,
+  "n_lines"            : 3229353,
+  "files_per_second"   : 66.6549813252353,
+  "lines_per_second"   : 14917.0106658068,
+  "report_file"        : "loc/dart-lang__sdk.json"},
+"Dart" :{
+  "nFiles": 12354,
+  "blank": 285468,
+  "comment": 349638,
+  "code": 1790307},
+"C++" :{
+  "nFiles": 617,
+  "blank": 46245,
+  "comment": 36294,
+  "code": 341504},
+"C/C++ Header" :{
+  "nFiles": 384,
+  "blank": 18549,
+  "comment": 17982,
+  "code": 75309},
+"JSON" :{
+  "nFiles": 26,
+  "blank": 16,
+  "comment": 0,
+  "code": 72954},
+"Markdown" :{
+  "nFiles": 195,
+  "blank": 9992,
+  "comment": 0,
+  "code": 32623},
+"HTML" :{
+  "nFiles": 38,
+  "blank": 1747,
+  "comment": 162,
+  "code": 27410},
+"Python" :{
+  "nFiles": 140,
+  "blank": 5204,
+  "comment": 5243,
+  "code": 23923},
+"TeX" :{
+  "nFiles": 8,
+  "blank": 3684,
+  "comment": 1335,
+  "code": 17683},
+"Java" :{
+  "nFiles": 131,
+  "blank": 2259,
+  "comment": 5896,
+  "code": 10886},
+"YAML" :{
+  "nFiles": 375,
+  "blank": 1600,
+  "comment": 1551,
+  "code": 10355},
+"JavaScript" :{
+  "nFiles": 19,
+  "blank": 762,
+  "comment": 10493,
+  "code": 5348},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 522,
+  "comment": 136,
+  "code": 3430},
+"Bourne Shell" :{
+  "nFiles": 40,
+  "blank": 317,
+  "comment": 490,
+  "code": 1584},
+"diff" :{
+  "nFiles": 9,
+  "blank": 110,
+  "comment": 731,
+  "code": 1385},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 341,
+  "comment": 82,
+  "code": 1326},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 8,
+  "comment": 0,
+  "code": 1324},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 135,
+  "comment": 0,
+  "code": 1033},
+"Bourne Again Shell" :{
+  "nFiles": 30,
+  "blank": 269,
+  "comment": 285,
+  "code": 910},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 88,
+  "comment": 0,
+  "code": 513},
+"DOS Batch" :{
+  "nFiles": 19,
+  "blank": 173,
+  "comment": 217,
+  "code": 440},
+"Assembly" :{
+  "nFiles": 8,
+  "blank": 103,
+  "comment": 76,
+  "code": 229},
+"make" :{
+  "nFiles": 5,
+  "blank": 73,
+  "comment": 20,
+  "code": 219},
+"C" :{
+  "nFiles": 2,
+  "blank": 45,
+  "comment": 11,
+  "code": 149},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 43},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 30},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 10,
+  "code": 18},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"Rust" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 377734,
+  "comment": 430658,
+  "code": 2420961,
+  "nFiles": 14430} }

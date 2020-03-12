@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.068004846572876,
+  "n_files"            : 6,
+  "n_lines"            : 1154,
+  "files_per_second"   : 88.2290057602031,
+  "lines_per_second"   : 16969.3787745457,
+  "report_file"        : "loc/jendrikseipp__vulture-analysis.json"},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 55,
+  "comment": 0,
+  "code": 1099},
+"SUM": {
+  "blank": 55,
+  "comment": 0,
+  "code": 1099,
+  "nFiles": 6} }

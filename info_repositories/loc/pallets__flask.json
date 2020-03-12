@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.78206205368042,
+  "n_files"            : 189,
+  "n_lines"            : 33591,
+  "files_per_second"   : 106.056912894625,
+  "lines_per_second"   : 18849.5119631922,
+  "report_file"        : "loc/pallets__flask.json"},
+"Python" :{
+  "nFiles": 70,
+  "blank": 3728,
+  "comment": 3613,
+  "code": 9622},
+"reStructuredText" :{
+  "nFiles": 85,
+  "blank": 3957,
+  "comment": 2433,
+  "code": 9002},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 451},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 23,
+  "comment": 0,
+  "code": 233},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 1,
+  "code": 109},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 2,
+  "code": 98},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 0,
+  "code": 91},
+"INI" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 59},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 22},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 7,
+  "code": 9},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 7804,
+  "comment": 6061,
+  "code": 19726,
+  "nFiles": 189} }

@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.161031961441,
+  "n_files"            : 1061,
+  "n_lines"            : 257909,
+  "files_per_second"   : 74.9239181783495,
+  "lines_per_second"   : 18212.5851210744,
+  "report_file"        : "loc/ONSdigital__dp-api-tests.json"},
+"Go" :{
+  "nFiles": 895,
+  "blank": 29244,
+  "comment": 44901,
+  "code": 168684},
+"Markdown" :{
+  "nFiles": 80,
+  "blank": 2049,
+  "comment": 0,
+  "code": 6429},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 58,
+  "comment": 9,
+  "code": 2582},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1142},
+"Assembly" :{
+  "nFiles": 6,
+  "blank": 214,
+  "comment": 508,
+  "code": 801},
+"C" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 11,
+  "code": 245},
+"make" :{
+  "nFiles": 17,
+  "blank": 94,
+  "comment": 18,
+  "code": 240},
+"Dockerfile" :{
+  "nFiles": 30,
+  "blank": 84,
+  "comment": 9,
+  "code": 170},
+"HCL" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 0,
+  "code": 105},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 54,
+  "comment": 4,
+  "code": 75},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 8,
+  "code": 55},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 3},
+"SUM": {
+  "blank": 31880,
+  "comment": 45488,
+  "code": 180541,
+  "nFiles": 1061} }

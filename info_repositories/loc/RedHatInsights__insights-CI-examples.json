@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.78372406959534,
+  "n_files"            : 14,
+  "n_lines"            : 718,
+  "files_per_second"   : 1.79862490946803,
+  "lines_per_second"   : 92.2437632141459,
+  "report_file"        : "loc/RedHatInsights__insights-CI-examples.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 85,
+  "comment": 69,
+  "code": 269},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 0,
+  "code": 127},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 64},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 16,
+  "code": 39},
+"SUM": {
+  "blank": 134,
+  "comment": 85,
+  "code": 499,
+  "nFiles": 14} }

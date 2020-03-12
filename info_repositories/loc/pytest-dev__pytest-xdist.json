@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.410274028778076,
+  "n_files"            : 39,
+  "n_lines"            : 7011,
+  "files_per_second"   : 95.0584177023199,
+  "lines_per_second"   : 17088.5786284863,
+  "report_file"        : "loc/pytest-dev__pytest-xdist.json"},
+"Python" :{
+  "nFiles": 27,
+  "blank": 884,
+  "comment": 1252,
+  "code": 3561},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 372,
+  "comment": 58,
+  "code": 588},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 2,
+  "code": 98},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 73},
+"INI" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 53},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 1296,
+  "comment": 1312,
+  "code": 4403,
+  "nFiles": 39} }

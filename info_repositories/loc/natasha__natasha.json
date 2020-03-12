@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.58779907226562,
+  "n_files"            : 37,
+  "n_lines"            : 70853,
+  "files_per_second"   : 4.30843801638208,
+  "lines_per_second"   : 8250.42591283026,
+  "report_file"        : "loc/natasha__natasha.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 62542},
+"Python" :{
+  "nFiles": 28,
+  "blank": 724,
+  "comment": 351,
+  "code": 3712},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1747,
+  "code": 198},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 324,
+  "comment": 1072,
+  "code": 57},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 0,
+  "code": 46},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 12,
+  "code": 31},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 1077,
+  "comment": 3183,
+  "code": 66593,
+  "nFiles": 37} }

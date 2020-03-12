@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.4691710472107,
+  "n_files"            : 93,
+  "n_lines"            : 19848,
+  "files_per_second"   : 4.77678272867832,
+  "lines_per_second"   : 1019.45788815922,
+  "report_file"        : "loc/brianlovin__security-checklist.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 13631},
+"JavaScript" :{
+  "nFiles": 81,
+  "blank": 642,
+  "comment": 222,
+  "code": 5286},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 27},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 21},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 655,
+  "comment": 222,
+  "code": 18971,
+  "nFiles": 93} }

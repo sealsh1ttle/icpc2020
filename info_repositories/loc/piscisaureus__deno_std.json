@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.7835080623627,
+  "n_files"            : 84,
+  "n_lines"            : 15764,
+  "files_per_second"   : 2.91833781407064,
+  "lines_per_second"   : 547.674729773923,
+  "report_file"        : "loc/piscisaureus__deno_std.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7688},
+"TypeScript" :{
+  "nFiles": 73,
+  "blank": 805,
+  "comment": 767,
+  "code": 6042},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 124,
+  "comment": 0,
+  "code": 310},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 933,
+  "comment": 767,
+  "code": 14064,
+  "nFiles": 84} }

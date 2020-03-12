@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 102.849992036819,
+  "n_files"            : 253,
+  "n_lines"            : 44338,
+  "files_per_second"   : 2.45989323858604,
+  "lines_per_second"   : 431.093859337659,
+  "report_file"        : "loc/OpenUpSA__django-template.json"},
+"JavaScript" :{
+  "nFiles": 99,
+  "blank": 4207,
+  "comment": 3415,
+  "code": 16032},
+"Sass" :{
+  "nFiles": 108,
+  "blank": 1990,
+  "comment": 2414,
+  "code": 10016},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 12,
+  "code": 1831},
+"LESS" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 33,
+  "code": 1343},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 853},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 104,
+  "comment": 56,
+  "code": 680},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 228,
+  "comment": 0,
+  "code": 477},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 328},
+"Python" :{
+  "nFiles": 7,
+  "blank": 62,
+  "comment": 41,
+  "code": 169},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 6623,
+  "comment": 5974,
+  "code": 31741,
+  "nFiles": 253} }

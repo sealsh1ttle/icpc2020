@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 259.324187040329,
+  "n_files"            : 863,
+  "n_lines"            : 441390,
+  "files_per_second"   : 3.32788086545043,
+  "lines_per_second"   : 1702.07802456682,
+  "report_file"        : "loc/florian-grond__sc3-pluginsHOA.json"},
+"C++" :{
+  "nFiles": 230,
+  "blank": 44501,
+  "comment": 39775,
+  "code": 225083},
+"C/C++ Header" :{
+  "nFiles": 207,
+  "blank": 7682,
+  "comment": 8384,
+  "code": 87261},
+"HTML" :{
+  "nFiles": 139,
+  "blank": 136,
+  "comment": 44,
+  "code": 11377},
+"Scheme" :{
+  "nFiles": 246,
+  "blank": 2058,
+  "comment": 0,
+  "code": 10051},
+"C" :{
+  "nFiles": 10,
+  "blank": 374,
+  "comment": 214,
+  "code": 1738},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 241,
+  "comment": 0,
+  "code": 808},
+"CMake" :{
+  "nFiles": 11,
+  "blank": 118,
+  "comment": 67,
+  "code": 577},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 3,
+  "code": 125},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 5,
+  "code": 88},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 76},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 4,
+  "code": 76},
+"MATLAB" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 68,
+  "code": 53},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 13,
+  "code": 52},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 21,
+  "code": 49},
+"make" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 2,
+  "code": 36},
+"Haskell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 12,
+  "code": 21},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 17},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 9},
+"SUM": {
+  "blank": 55277,
+  "comment": 48616,
+  "code": 337497,
+  "nFiles": 863} }

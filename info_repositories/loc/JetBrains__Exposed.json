@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.2364242076874,
+  "n_files"            : 131,
+  "n_lines"            : 17168,
+  "files_per_second"   : 3.94145890007327,
+  "lines_per_second"   : 516.541728217235,
+  "report_file"        : "loc/JetBrains__Exposed.json"},
+"Kotlin" :{
+  "nFiles": 107,
+  "blank": 2647,
+  "comment": 431,
+  "code": 12665},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 133,
+  "comment": 0,
+  "code": 550},
+"Gradle" :{
+  "nFiles": 10,
+  "blank": 60,
+  "comment": 0,
+  "code": 353},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 0,
+  "code": 53},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 2889,
+  "comment": 455,
+  "code": 13824,
+  "nFiles": 131} }

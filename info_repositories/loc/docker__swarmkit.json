@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.9408581256866,
+  "n_files"            : 1825,
+  "n_lines"            : 708373,
+  "files_per_second"   : 46.8659420424064,
+  "lines_per_second"   : 18190.9961437839,
+  "report_file"        : "loc/docker__swarmkit.json"},
+"Go" :{
+  "nFiles": 1624,
+  "blank": 59060,
+  "comment": 78806,
+  "code": 543008},
+"Markdown" :{
+  "nFiles": 81,
+  "blank": 2563,
+  "comment": 0,
+  "code": 7842},
+"Assembly" :{
+  "nFiles": 52,
+  "blank": 533,
+  "comment": 728,
+  "code": 5756},
+"Protocol Buffers" :{
+  "nFiles": 39,
+  "blank": 1035,
+  "comment": 3543,
+  "code": 2701},
+"C" :{
+  "nFiles": 15,
+  "blank": 333,
+  "comment": 475,
+  "code": 1408},
+"make" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 32,
+  "code": 169},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 30,
+  "code": 90},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 11,
+  "code": 42},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 6,
+  "code": 29},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 12,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 13},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 8,
+  "code": 12},
+"SUM": {
+  "blank": 63629,
+  "comment": 83655,
+  "code": 561089,
+  "nFiles": 1825} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.6356258392334,
+  "n_files"            : 32,
+  "n_lines"            : 3148,
+  "files_per_second"   : 4.82245394410257,
+  "lines_per_second"   : 474.40890675109,
+  "report_file"        : "loc/magento__magento2devbox-web.json"},
+"PHP" :{
+  "nFiles": 25,
+  "blank": 257,
+  "comment": 727,
+  "code": 1857},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 8,
+  "code": 105},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 3,
+  "code": 66},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 33},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 322,
+  "comment": 738,
+  "code": 2088,
+  "nFiles": 32} }

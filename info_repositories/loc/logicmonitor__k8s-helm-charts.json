@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.838080883026123,
+  "n_files"            : 32,
+  "n_lines"            : 1064,
+  "files_per_second"   : 38.1824721791233,
+  "lines_per_second"   : 1269.56719995585,
+  "report_file"        : "loc/logicmonitor__k8s-helm-charts.json"},
+"YAML" :{
+  "nFiles": 27,
+  "blank": 19,
+  "comment": 47,
+  "code": 828},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 0,
+  "code": 137},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 39,
+  "comment": 47,
+  "code": 978,
+  "nFiles": 32} }

@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 850.244996070862,
+  "n_files"            : 5456,
+  "n_lines"            : 3563527,
+  "files_per_second"   : 6.41697396069742,
+  "lines_per_second"   : 4191.17668021301,
+  "report_file"        : "loc/upmc-enterprises__registry-creds.json"},
+"Go" :{
+  "nFiles": 4425,
+  "blank": 242181,
+  "comment": 463558,
+  "code": 2320850},
+"JSON" :{
+  "nFiles": 403,
+  "blank": 191,
+  "comment": 0,
+  "code": 455595},
+"Markdown" :{
+  "nFiles": 119,
+  "blank": 5036,
+  "comment": 0,
+  "code": 14196},
+"Protocol Buffers" :{
+  "nFiles": 181,
+  "blank": 3883,
+  "comment": 9144,
+  "code": 13250},
+"YAML" :{
+  "nFiles": 58,
+  "blank": 110,
+  "comment": 56,
+  "code": 7461},
+"Assembly" :{
+  "nFiles": 46,
+  "blank": 855,
+  "comment": 939,
+  "code": 7438},
+"XML" :{
+  "nFiles": 2,
+  "blank": 228,
+  "comment": 13,
+  "code": 4791},
+"HTML" :{
+  "nFiles": 29,
+  "blank": 509,
+  "comment": 85,
+  "code": 3209},
+"Bourne Shell" :{
+  "nFiles": 27,
+  "blank": 236,
+  "comment": 509,
+  "code": 1327},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 178,
+  "comment": 178,
+  "code": 1162},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 116,
+  "comment": 7,
+  "code": 977},
+"Cucumber" :{
+  "nFiles": 58,
+  "blank": 128,
+  "comment": 58,
+  "code": 769},
+"make" :{
+  "nFiles": 61,
+  "blank": 234,
+  "comment": 1454,
+  "code": 716},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 85,
+  "comment": 110,
+  "code": 673},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 2,
+  "code": 193},
+"C" :{
+  "nFiles": 3,
+  "blank": 51,
+  "comment": 22,
+  "code": 189},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 28,
+  "code": 117},
+"Python" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 13,
+  "code": 99},
+"Dockerfile" :{
+  "nFiles": 9,
+  "blank": 32,
+  "comment": 9,
+  "code": 98},
+"ERB" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 69},
+"INI" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 0,
+  "code": 24},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 254133,
+  "comment": 476190,
+  "code": 2833204,
+  "nFiles": 5456} }

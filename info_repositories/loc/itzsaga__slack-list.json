@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.64117097854614,
+  "n_files"            : 27,
+  "n_lines"            : 1395,
+  "files_per_second"   : 3.53348983759256,
+  "lines_per_second"   : 182.563641608949,
+  "report_file"        : "loc/itzsaga__slack-list.json"},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 41,
+  "comment": 55,
+  "code": 959},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 87,
+  "comment": 0,
+  "code": 156},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 57},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 31},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 133,
+  "comment": 55,
+  "code": 1207,
+  "nFiles": 27} }

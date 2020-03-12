@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 374.750480175018,
+  "n_files"            : 1308,
+  "n_lines"            : 220537,
+  "files_per_second"   : 3.49032241236657,
+  "lines_per_second"   : 588.490239951136,
+  "report_file"        : "loc/dotnet__wcf.json"},
+"C#" :{
+  "nFiles": 1085,
+  "blank": 26626,
+  "comment": 10761,
+  "code": 162703},
+"XML" :{
+  "nFiles": 35,
+  "blank": 196,
+  "comment": 323,
+  "code": 4275},
+"PowerShell" :{
+  "nFiles": 33,
+  "blank": 615,
+  "comment": 376,
+  "code": 2744},
+"YAML" :{
+  "nFiles": 34,
+  "blank": 325,
+  "comment": 177,
+  "code": 2702},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 442,
+  "comment": 142,
+  "code": 2279},
+"Markdown" :{
+  "nFiles": 39,
+  "blank": 677,
+  "comment": 0,
+  "code": 1902},
+"MSBuild script" :{
+  "nFiles": 33,
+  "blank": 101,
+  "comment": 112,
+  "code": 1018},
+"DOS Batch" :{
+  "nFiles": 19,
+  "blank": 220,
+  "comment": 63,
+  "code": 859},
+"ASP" :{
+  "nFiles": 1,
+  "blank": 76,
+  "comment": 0,
+  "code": 361},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 10,
+  "code": 184},
+"diff" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 83,
+  "code": 95},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 48},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 29315,
+  "comment": 12047,
+  "code": 179175,
+  "nFiles": 1308} }

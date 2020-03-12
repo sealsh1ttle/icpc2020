@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.76599502563477,
+  "n_files"            : 25,
+  "n_lines"            : 7004,
+  "files_per_second"   : 6.63835183791466,
+  "lines_per_second"   : 1859.80065091017,
+  "report_file"        : "loc/JuliaImages__Images.jl.json"},
+"Julia" :{
+  "nFiles": 18,
+  "blank": 1032,
+  "comment": 498,
+  "code": 5122},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 0,
+  "code": 188},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 51},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 3,
+  "code": 43},
+"SUM": {
+  "blank": 1099,
+  "comment": 501,
+  "code": 5404,
+  "nFiles": 25} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.56829595565796,
+  "n_files"            : 39,
+  "n_lines"            : 1853,
+  "files_per_second"   : 4.55166350483574,
+  "lines_per_second"   : 216.262371140016,
+  "report_file"        : "loc/hbalenda__hcbviolet.github.io.json"},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 107,
+  "comment": 21,
+  "code": 962},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 36,
+  "comment": 11,
+  "code": 344},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 64,
+  "comment": 0,
+  "code": 188},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 12,
+  "code": 52},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 15},
+"SUM": {
+  "blank": 223,
+  "comment": 47,
+  "code": 1583,
+  "nFiles": 39} }

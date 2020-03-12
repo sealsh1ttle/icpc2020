@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5332.79154896736,
+  "n_files"            : 5681,
+  "n_lines"            : 3051019,
+  "files_per_second"   : 1.06529571760593,
+  "lines_per_second"   : 572.124181488173,
+  "report_file"        : "loc/Stratoscale__kubernetes-contrib.json"},
+"Go" :{
+  "nFiles": 4853,
+  "blank": 192516,
+  "comment": 249478,
+  "code": 2463649},
+"JSON" :{
+  "nFiles": 65,
+  "blank": 6,
+  "comment": 0,
+  "code": 46803},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 4375,
+  "comment": 8989,
+  "code": 19938},
+"Markdown" :{
+  "nFiles": 190,
+  "blank": 4299,
+  "comment": 0,
+  "code": 13034},
+"Protocol Buffers" :{
+  "nFiles": 53,
+  "blank": 4925,
+  "comment": 13551,
+  "code": 7732},
+"YAML" :{
+  "nFiles": 230,
+  "blank": 379,
+  "comment": 346,
+  "code": 5766},
+"Bourne Shell" :{
+  "nFiles": 93,
+  "blank": 730,
+  "comment": 1761,
+  "code": 3196},
+"HTML" :{
+  "nFiles": 31,
+  "blank": 678,
+  "comment": 48,
+  "code": 1964},
+"Perl" :{
+  "nFiles": 11,
+  "blank": 172,
+  "comment": 172,
+  "code": 986},
+"make" :{
+  "nFiles": 54,
+  "blank": 332,
+  "comment": 369,
+  "code": 869},
+"Lua" :{
+  "nFiles": 4,
+  "blank": 192,
+  "comment": 68,
+  "code": 765},
+"Python" :{
+  "nFiles": 5,
+  "blank": 96,
+  "comment": 118,
+  "code": 577},
+"Dockerfile" :{
+  "nFiles": 44,
+  "blank": 150,
+  "comment": 443,
+  "code": 410},
+"Assembly" :{
+  "nFiles": 21,
+  "blank": 178,
+  "comment": 206,
+  "code": 196},
+"C" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 24,
+  "code": 186},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 25,
+  "comment": 78,
+  "code": 88},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 4,
+  "code": 87},
+"INI" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 209099,
+  "comment": 275655,
+  "code": 2566265,
+  "nFiles": 5681} }

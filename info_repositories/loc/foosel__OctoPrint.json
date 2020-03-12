@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.68891596794128,
+  "n_files"            : 527,
+  "n_lines"            : 217204,
+  "files_per_second"   : 78.7870564566533,
+  "lines_per_second"   : 32472.2273446128,
+  "report_file"        : "loc/foosel__OctoPrint.json"},
+"JavaScript" :{
+  "nFiles": 133,
+  "blank": 23064,
+  "comment": 15770,
+  "code": 64380},
+"Python" :{
+  "nFiles": 197,
+  "blank": 12767,
+  "comment": 10019,
+  "code": 39166},
+"CSS" :{
+  "nFiles": 29,
+  "blank": 1099,
+  "comment": 207,
+  "code": 10687},
+"LESS" :{
+  "nFiles": 53,
+  "blank": 1144,
+  "comment": 1022,
+  "code": 5989},
+"reStructuredText" :{
+  "nFiles": 89,
+  "blank": 4871,
+  "comment": 10510,
+  "code": 3194},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 2,
+  "code": 3164},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 1295,
+  "comment": 2122,
+  "code": 2814},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 367,
+  "comment": 0,
+  "code": 1923},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 162,
+  "comment": 0,
+  "code": 831},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 38,
+  "code": 103},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 1,
+  "code": 49},
+"SUM": {
+  "blank": 44851,
+  "comment": 39698,
+  "code": 132655,
+  "nFiles": 527} }

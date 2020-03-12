@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.177455902099609,
+  "n_files"            : 20,
+  "n_lines"            : 977,
+  "files_per_second"   : 112.704056407059,
+  "lines_per_second"   : 5505.59315548486,
+  "report_file"        : "loc/itslukej__ezzybot.json"},
+"Python" :{
+  "nFiles": 17,
+  "blank": 101,
+  "comment": 76,
+  "code": 732},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 105,
+  "comment": 76,
+  "code": 796,
+  "nFiles": 20} }

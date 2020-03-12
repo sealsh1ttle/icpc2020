@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.68766808509827,
+  "n_files"            : 663,
+  "n_lines"            : 52480,
+  "files_per_second"   : 99.1376951672173,
+  "lines_per_second"   : 7847.2794002648,
+  "report_file"        : "loc/Tuxemon__Tuxemon.json"},
+"Python" :{
+  "nFiles": 184,
+  "blank": 5430,
+  "comment": 9293,
+  "code": 13306},
+"JSON" :{
+  "nFiles": 326,
+  "blank": 210,
+  "comment": 0,
+  "code": 10956},
+"PO File" :{
+  "nFiles": 8,
+  "blank": 3269,
+  "comment": 255,
+  "code": 6841},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 236,
+  "comment": 0,
+  "code": 753},
+"reStructuredText" :{
+  "nFiles": 133,
+  "blank": 252,
+  "comment": 690,
+  "code": 326},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 45,
+  "code": 61},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 35},
+"Go" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 33},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 9487,
+  "comment": 10293,
+  "code": 32700,
+  "nFiles": 663} }

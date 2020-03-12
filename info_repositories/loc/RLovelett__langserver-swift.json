@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.1686129570007,
+  "n_files"            : 98,
+  "n_lines"            : 9153,
+  "files_per_second"   : 4.22986046604865,
+  "lines_per_second"   : 395.060335160646,
+  "report_file"        : "loc/RLovelett__langserver-swift.json"},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 4260},
+"Swift" :{
+  "nFiles": 80,
+  "blank": 723,
+  "comment": 1228,
+  "code": 2652},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 86},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 72},
+"make" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 12,
+  "code": 59},
+"SUM": {
+  "blank": 784,
+  "comment": 1240,
+  "code": 7129,
+  "nFiles": 98} }

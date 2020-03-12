@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.496989965438843,
+  "n_files"            : 30,
+  "n_lines"            : 19564,
+  "files_per_second"   : 60.3633917910394,
+  "lines_per_second"   : 39364.9798999965,
+  "report_file"        : "loc/ULL-ESIT-DSI-1617__proyecto-final-alejandro-carlos-samuel.json"},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 1404,
+  "comment": 449,
+  "code": 7318},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 1574,
+  "comment": 1347,
+  "code": 6235},
+"EJS" :{
+  "nFiles": 12,
+  "blank": 127,
+  "comment": 26,
+  "code": 977},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 53},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"SUM": {
+  "blank": 3116,
+  "comment": 1822,
+  "code": 14626,
+  "nFiles": 30} }

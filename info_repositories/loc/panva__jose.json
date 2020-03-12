@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.9727680683136,
+  "n_files"            : 183,
+  "n_lines"            : 16983,
+  "files_per_second"   : 3.73677060166842,
+  "lines_per_second"   : 346.78456354172,
+  "report_file"        : "loc/panva__jose.json"},
+"JavaScript" :{
+  "nFiles": 165,
+  "blank": 2054,
+  "comment": 112,
+  "code": 11748},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 690,
+  "comment": 0,
+  "code": 1781},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 9,
+  "code": 319},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 113},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 79},
+"SUM": {
+  "blank": 2822,
+  "comment": 121,
+  "code": 14040,
+  "nFiles": 183} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.592847108840942,
+  "n_files"            : 125,
+  "n_lines"            : 2861,
+  "files_per_second"   : 210.846942046127,
+  "lines_per_second"   : 4825.86480955175,
+  "report_file"        : "loc/blunce24__blocipedia.json"},
+"Ruby" :{
+  "nFiles": 81,
+  "blank": 337,
+  "comment": 699,
+  "code": 989},
+"ERB" :{
+  "nFiles": 25,
+  "blank": 69,
+  "comment": 0,
+  "code": 363},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 40,
+  "code": 92},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 9,
+  "code": 8},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 26,
+  "code": 4},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 441,
+  "comment": 780,
+  "code": 1640,
+  "nFiles": 125} }

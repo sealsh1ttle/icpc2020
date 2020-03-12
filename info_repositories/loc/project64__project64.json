@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.5315680503845,
+  "n_files"            : 1440,
+  "n_lines"            : 534035,
+  "files_per_second"   : 77.705243079531,
+  "lines_per_second"   : 28817.582977762,
+  "report_file"        : "loc/project64__project64.json"},
+"C++" :{
+  "nFiles": 264,
+  "blank": 16852,
+  "comment": 11789,
+  "code": 147632},
+"C" :{
+  "nFiles": 108,
+  "blank": 22069,
+  "comment": 26404,
+  "code": 121612},
+"C/C++ Header" :{
+  "nFiles": 421,
+  "blank": 17072,
+  "comment": 15310,
+  "code": 102524},
+"XML" :{
+  "nFiles": 489,
+  "blank": 2223,
+  "comment": 4891,
+  "code": 17776},
+"Java" :{
+  "nFiles": 81,
+  "blank": 1631,
+  "comment": 3487,
+  "code": 11252},
+"Windows Resource File" :{
+  "nFiles": 7,
+  "blank": 424,
+  "comment": 254,
+  "code": 3510},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 88,
+  "comment": 41,
+  "code": 1224},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 76,
+  "comment": 10,
+  "code": 880},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 62,
+  "comment": 38,
+  "code": 688},
+"Windows Module Definition" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 107,
+  "code": 612},
+"DOS Batch" :{
+  "nFiles": 15,
+  "blank": 117,
+  "comment": 24,
+  "code": 590},
+"make" :{
+  "nFiles": 15,
+  "blank": 88,
+  "comment": 61,
+  "code": 502},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 0,
+  "code": 299},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 50,
+  "code": 298},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 0,
+  "code": 196},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 150},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 0,
+  "code": 139},
+"Ant" :{
+  "nFiles": 7,
+  "blank": 119,
+  "comment": 413,
+  "code": 112},
+"INI" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 52},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 21},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 14,
+  "code": 16},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 61054,
+  "comment": 62893,
+  "code": 410088,
+  "nFiles": 1440} }

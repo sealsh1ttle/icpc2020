@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 81.242654800415,
+  "n_files"            : 8236,
+  "n_lines"            : 782228,
+  "files_per_second"   : 101.375318423961,
+  "lines_per_second"   : 9628.29195970592,
+  "report_file"        : "loc/ckeditor__ckeditor4.json"},
+"JavaScript" :{
+  "nFiles": 4977,
+  "blank": 41762,
+  "comment": 66241,
+  "code": 227431},
+"HTML" :{
+  "nFiles": 2215,
+  "blank": 13531,
+  "comment": 165977,
+  "code": 155388},
+"PHP" :{
+  "nFiles": 232,
+  "blank": 2127,
+  "comment": 13208,
+  "code": 53091},
+"CSS" :{
+  "nFiles": 137,
+  "blank": 2633,
+  "comment": 2712,
+  "code": 14789},
+"Markdown" :{
+  "nFiles": 634,
+  "blank": 4590,
+  "comment": 0,
+  "code": 11426},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 16,
+  "comment": 5,
+  "code": 5541},
+"LESS" :{
+  "nFiles": 4,
+  "blank": 137,
+  "comment": 48,
+  "code": 568},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 4,
+  "comment": 0,
+  "code": 471},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 75,
+  "comment": 49,
+  "code": 191},
+"Python" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 27,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 2,
+  "code": 34},
+"INI" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 60,
+  "code": 13},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 64914,
+  "comment": 248329,
+  "code": 468985,
+  "nFiles": 8236} }

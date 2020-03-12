@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.4227499961853,
+  "n_files"            : 67,
+  "n_lines"            : 8111,
+  "files_per_second"   : 3.84554677158713,
+  "lines_per_second"   : 465.540744243928,
+  "report_file"        : "loc/mulesoft__mule-wsdl-parser.json"},
+"XSD" :{
+  "nFiles": 18,
+  "blank": 6,
+  "comment": 65,
+  "code": 3569},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 2253},
+"Kotlin" :{
+  "nFiles": 33,
+  "blank": 276,
+  "comment": 84,
+  "code": 1304},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 5,
+  "code": 500},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 3,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 311,
+  "comment": 157,
+  "code": 7643,
+  "nFiles": 67} }

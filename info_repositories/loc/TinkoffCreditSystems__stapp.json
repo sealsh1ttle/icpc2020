@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 133.546447992325,
+  "n_files"            : 253,
+  "n_lines"            : 79335,
+  "files_per_second"   : 1.89447195191998,
+  "lines_per_second"   : 594.062973539809,
+  "report_file"        : "loc/TinkoffCreditSystems__stapp.json"},
+"JSON" :{
+  "nFiles": 38,
+  "blank": 2,
+  "comment": 0,
+  "code": 65450},
+"TypeScript" :{
+  "nFiles": 139,
+  "blank": 1270,
+  "comment": 598,
+  "code": 7106},
+"Markdown" :{
+  "nFiles": 36,
+  "blank": 796,
+  "comment": 0,
+  "code": 2577},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 193,
+  "comment": 12,
+  "code": 1259},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 20,
+  "code": 29},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 2268,
+  "comment": 630,
+  "code": 76437,
+  "nFiles": 253} }

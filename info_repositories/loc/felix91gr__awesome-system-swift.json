@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.84299206733704,
+  "n_files"            : 4,
+  "n_lines"            : 193,
+  "files_per_second"   : 1.04085564838851,
+  "lines_per_second"   : 50.2212850347457,
+  "report_file"        : "loc/felix91gr__awesome-system-swift.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 0,
+  "code": 117},
+"Swift" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 25},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 34,
+  "comment": 0,
+  "code": 159,
+  "nFiles": 4} }

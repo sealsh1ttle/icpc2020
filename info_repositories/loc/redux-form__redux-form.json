@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.471626996994019,
+  "n_files"            : 286,
+  "n_lines"            : 63199,
+  "files_per_second"   : 606.411426451118,
+  "lines_per_second"   : 134002.083007987,
+  "report_file"        : "loc/redux-form__redux-form.json"},
+"JavaScript" :{
+  "nFiles": 232,
+  "blank": 4018,
+  "comment": 1064,
+  "code": 37125},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 16529},
+"Markdown" :{
+  "nFiles": 44,
+  "blank": 1268,
+  "comment": 0,
+  "code": 3046},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 42,
+  "code": 82},
+"SUM": {
+  "blank": 5311,
+  "comment": 1106,
+  "code": 56782,
+  "nFiles": 286} }

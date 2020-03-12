@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.2198920249939,
+  "n_files"            : 30,
+  "n_lines"            : 1373,
+  "files_per_second"   : 4.15518679450409,
+  "lines_per_second"   : 190.169048961804,
+  "report_file"        : "loc/TanksForWaiting__tanks-for-waiting.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 58,
+  "comment": 29,
+  "code": 375},
+"Python" :{
+  "nFiles": 12,
+  "blank": 115,
+  "comment": 96,
+  "code": 348},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 23,
+  "code": 129},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 80},
+"zsh" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 2,
+  "code": 33},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 18},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 9,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 214,
+  "comment": 159,
+  "code": 1000,
+  "nFiles": 30} }

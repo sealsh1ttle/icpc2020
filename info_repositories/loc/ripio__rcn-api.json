@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.65400981903076,
+  "n_files"            : 245,
+  "n_lines"            : 22940,
+  "files_per_second"   : 148.124876394971,
+  "lines_per_second"   : 13869.3251612271,
+  "report_file"        : "loc/ripio__rcn-api.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 5336},
+"Solidity" :{
+  "nFiles": 56,
+  "blank": 1315,
+  "comment": 1120,
+  "code": 5124},
+"Python" :{
+  "nFiles": 158,
+  "blank": 1498,
+  "comment": 150,
+  "code": 4758},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 320,
+  "comment": 155,
+  "code": 1304},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 53,
+  "comment": 13,
+  "code": 1134},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 101,
+  "comment": 0,
+  "code": 518},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 3,
+  "code": 14},
+"SUM": {
+  "blank": 3292,
+  "comment": 1441,
+  "code": 18207,
+  "nFiles": 245} }

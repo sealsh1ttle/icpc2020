@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 368.517782211304,
+  "n_files"            : 865,
+  "n_lines"            : 266144,
+  "files_per_second"   : 2.34724087073774,
+  "lines_per_second"   : 722.201241967196,
+  "report_file"        : "loc/solettaproject__soletta.json"},
+"C" :{
+  "nFiles": 379,
+  "blank": 30827,
+  "comment": 10757,
+  "code": 139015},
+"JSON" :{
+  "nFiles": 99,
+  "blank": 13,
+  "comment": 0,
+  "code": 24595},
+"C/C++ Header" :{
+  "nFiles": 166,
+  "blank": 3504,
+  "comment": 23527,
+  "code": 12727},
+"Markdown" :{
+  "nFiles": 26,
+  "blank": 1023,
+  "comment": 0,
+  "code": 3704},
+"Python" :{
+  "nFiles": 15,
+  "blank": 953,
+  "comment": 1552,
+  "code": 3419},
+"make" :{
+  "nFiles": 144,
+  "blank": 414,
+  "comment": 66,
+  "code": 1761},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 271,
+  "comment": 81,
+  "code": 1568},
+"C++" :{
+  "nFiles": 1,
+  "blank": 209,
+  "comment": 57,
+  "code": 1532},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 124,
+  "comment": 248,
+  "code": 766},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 104,
+  "comment": 25,
+  "code": 604},
+"Glade" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 0,
+  "code": 603},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 107,
+  "comment": 123,
+  "code": 417},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 59,
+  "comment": 97,
+  "code": 333},
+"lex" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 12,
+  "code": 311},
+"XML" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 0,
+  "code": 160},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 22,
+  "code": 119},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 40,
+  "code": 96},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 21},
+"SUM": {
+  "blank": 37785,
+  "comment": 36608,
+  "code": 191751,
+  "nFiles": 865} }

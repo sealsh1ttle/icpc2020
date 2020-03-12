@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.624612092971802,
+  "n_files"            : 43,
+  "n_lines"            : 1573,
+  "files_per_second"   : 68.8427273244312,
+  "lines_per_second"   : 2518.36302514721,
+  "report_file"        : "loc/uuflyer__My-Springboot.json"},
+"Java" :{
+  "nFiles": 22,
+  "blank": 216,
+  "comment": 2,
+  "code": 854},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 211},
+"XML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 14,
+  "code": 95},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 50},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 44,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 1},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 259,
+  "comment": 61,
+  "code": 1253,
+  "nFiles": 43} }

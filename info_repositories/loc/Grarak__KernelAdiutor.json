@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.74437284469604,
+  "n_files"            : 405,
+  "n_lines"            : 82244,
+  "files_per_second"   : 108.162305624475,
+  "lines_per_second"   : 21964.6929969861,
+  "report_file"        : "loc/Grarak__KernelAdiutor.json"},
+"Java" :{
+  "nFiles": 201,
+  "blank": 6055,
+  "comment": 4572,
+  "code": 29219},
+"XML" :{
+  "nFiles": 160,
+  "blank": 923,
+  "comment": 1671,
+  "code": 28007},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 32,
+  "code": 6857},
+"JSON" :{
+  "nFiles": 29,
+  "blank": 1,
+  "comment": 0,
+  "code": 3336},
+"C++" :{
+  "nFiles": 2,
+  "blank": 101,
+  "comment": 0,
+  "code": 426},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 423},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 3,
+  "code": 97},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 0,
+  "code": 96},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 48},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 15,
+  "code": 10},
+"SUM": {
+  "blank": 7225,
+  "comment": 6315,
+  "code": 68704,
+  "nFiles": 405} }

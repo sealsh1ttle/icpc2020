@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.6154298782349,
+  "n_files"            : 2309,
+  "n_lines"            : 666761,
+  "files_per_second"   : 77.9661146062561,
+  "lines_per_second"   : 22513.9733828419,
+  "report_file"        : "loc/openshift__console.json"},
+"Go" :{
+  "nFiles": 523,
+  "blank": 28283,
+  "comment": 38316,
+  "code": 260298},
+"TypeScript" :{
+  "nFiles": 1249,
+  "blank": 11165,
+  "comment": 4216,
+  "code": 116420},
+"JavaScript" :{
+  "nFiles": 51,
+  "blank": 22646,
+  "comment": 24406,
+  "code": 103500},
+"JSON" :{
+  "nFiles": 18,
+  "blank": 3,
+  "comment": 0,
+  "code": 16746},
+"JSX" :{
+  "nFiles": 67,
+  "blank": 1400,
+  "comment": 368,
+  "code": 14271},
+"Sass" :{
+  "nFiles": 158,
+  "blank": 1006,
+  "comment": 141,
+  "code": 6320},
+"SVG" :{
+  "nFiles": 105,
+  "blank": 69,
+  "comment": 78,
+  "code": 5155},
+"YAML" :{
+  "nFiles": 36,
+  "blank": 66,
+  "comment": 13,
+  "code": 4216},
+"Assembly" :{
+  "nFiles": 30,
+  "blank": 244,
+  "comment": 284,
+  "code": 1546},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 517,
+  "comment": 0,
+  "code": 1439},
+"Bourne Shell" :{
+  "nFiles": 29,
+  "blank": 198,
+  "comment": 430,
+  "code": 991},
+"Protocol Buffers" :{
+  "nFiles": 9,
+  "blank": 239,
+  "comment": 389,
+  "code": 771},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 22,
+  "code": 218},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 97},
+"make" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 48},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 10,
+  "code": 47},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 9,
+  "code": 36},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 12},
+"SUM": {
+  "blank": 65916,
+  "comment": 68690,
+  "code": 532155,
+  "nFiles": 2309} }

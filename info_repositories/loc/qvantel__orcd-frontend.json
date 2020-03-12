@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.07988595962524,
+  "n_files"            : 132,
+  "n_lines"            : 16235,
+  "files_per_second"   : 122.235129388855,
+  "lines_per_second"   : 15033.9948911217,
+  "report_file"        : "loc/qvantel__orcd-frontend.json"},
+"JSON" :{
+  "nFiles": 27,
+  "blank": 19,
+  "comment": 0,
+  "code": 6850},
+"JavaScript" :{
+  "nFiles": 58,
+  "blank": 839,
+  "comment": 913,
+  "code": 4662},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 3,
+  "code": 807},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 35,
+  "comment": 20,
+  "code": 574},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 103,
+  "comment": 10,
+  "code": 507},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 128,
+  "comment": 0,
+  "code": 273},
+"INI" :{
+  "nFiles": 1,
+  "blank": 83,
+  "comment": 145,
+  "code": 156},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 11,
+  "code": 58},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1224,
+  "comment": 1102,
+  "code": 13909,
+  "nFiles": 132} }

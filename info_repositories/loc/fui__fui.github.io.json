@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.394822120666504,
+  "n_files"            : 61,
+  "n_lines"            : 3470,
+  "files_per_second"   : 154.499955314118,
+  "lines_per_second"   : 8788.76794983587,
+  "report_file"        : "loc/fui__fui.github.io.json"},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 576,
+  "comment": 2,
+  "code": 1342},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 36,
+  "comment": 15,
+  "code": 436},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 98,
+  "comment": 2,
+  "code": 419},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 21,
+  "comment": 9,
+  "code": 315},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 68},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 6,
+  "code": 67},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 14,
+  "code": 10},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 8},
+"SUM": {
+  "blank": 755,
+  "comment": 50,
+  "code": 2665,
+  "nFiles": 61} }

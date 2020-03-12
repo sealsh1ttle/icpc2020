@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.884624004364,
+  "n_files"            : 91,
+  "n_lines"            : 4325,
+  "files_per_second"   : 2.68558387982349,
+  "lines_per_second"   : 127.639014068534,
+  "report_file"        : "loc/markokajzer__discord-soundbot.json"},
+"TypeScript" :{
+  "nFiles": 70,
+  "blank": 497,
+  "comment": 21,
+  "code": 2045},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 71,
+  "comment": 0,
+  "code": 901},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 134,
+  "comment": 0,
+  "code": 227},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 7,
+  "code": 101},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 63,
+  "comment": 130,
+  "code": 96},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 10},
+"SUM": {
+  "blank": 784,
+  "comment": 161,
+  "code": 3380,
+  "nFiles": 91} }

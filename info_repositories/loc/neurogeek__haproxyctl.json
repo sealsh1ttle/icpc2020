@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.48942995071411,
+  "n_files"            : 10,
+  "n_lines"            : 673,
+  "files_per_second"   : 2.86579760626904,
+  "lines_per_second"   : 192.868178901907,
+  "report_file"        : "loc/neurogeek__haproxyctl.json"},
+"Python" :{
+  "nFiles": 8,
+  "blank": 114,
+  "comment": 95,
+  "code": 381},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 56},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 133,
+  "comment": 96,
+  "code": 444,
+  "nFiles": 10} }

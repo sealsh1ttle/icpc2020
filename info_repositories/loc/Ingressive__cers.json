@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.69828987121582,
+  "n_files"            : 69,
+  "n_lines"            : 14929,
+  "files_per_second"   : 98.8128323841521,
+  "lines_per_second"   : 21379.3735458407,
+  "report_file"        : "loc/Ingressive__cers.json"},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 915,
+  "comment": 80,
+  "code": 5667},
+"Sass" :{
+  "nFiles": 35,
+  "blank": 950,
+  "comment": 55,
+  "code": 4988},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 132,
+  "comment": 64,
+  "code": 870},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 47,
+  "comment": 59,
+  "code": 742},
+"Python" :{
+  "nFiles": 12,
+  "blank": 72,
+  "comment": 51,
+  "code": 207},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 2123,
+  "comment": 309,
+  "code": 12497,
+  "nFiles": 69} }

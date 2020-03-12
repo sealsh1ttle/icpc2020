@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.22720384597778,
+  "n_files"            : 35,
+  "n_lines"            : 29759,
+  "files_per_second"   : 3.79313176388281,
+  "lines_per_second"   : 3225.13737603968,
+  "report_file"        : "loc/lgolding__sarif-web.json"},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 2723,
+  "comment": 5104,
+  "code": 14139},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 1017,
+  "comment": 46,
+  "code": 5797},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 251},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 228},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 131},
+"Razor" :{
+  "nFiles": 6,
+  "blank": 8,
+  "comment": 0,
+  "code": 128},
+"C#" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 19,
+  "code": 116},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"ASP.NET" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3786,
+  "comment": 5175,
+  "code": 20798,
+  "nFiles": 35} }

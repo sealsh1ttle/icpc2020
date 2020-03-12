@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.00625896453857,
+  "n_files"            : 3,
+  "n_lines"            : 453,
+  "files_per_second"   : 2.98133989929289,
+  "lines_per_second"   : 450.182324793226,
+  "report_file"        : "loc/ga-wdi-lessons__git-teams.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 171,
+  "comment": 0,
+  "code": 276},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 171,
+  "comment": 0,
+  "code": 282,
+  "nFiles": 3} }

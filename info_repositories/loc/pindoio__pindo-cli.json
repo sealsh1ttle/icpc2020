@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0473248958587646,
+  "n_files"            : 6,
+  "n_lines"            : 518,
+  "files_per_second"   : 126.783163303862,
+  "lines_per_second"   : 10945.6130985667,
+  "report_file"        : "loc/pindoio__pindo-cli.json"},
+"Python" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 45,
+  "code": 201},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 66,
+  "comment": 0,
+  "code": 137},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 121,
+  "comment": 45,
+  "code": 352,
+  "nFiles": 6} }

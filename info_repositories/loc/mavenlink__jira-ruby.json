@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.0690670013428,
+  "n_files"            : 127,
+  "n_lines"            : 8212,
+  "files_per_second"   : 4.87167415671065,
+  "lines_per_second"   : 315.009355707936,
+  "report_file"        : "loc/mavenlink__jira-ruby.json"},
+"Ruby" :{
+  "nFiles": 82,
+  "blank": 1008,
+  "comment": 538,
+  "code": 4085},
+"JSON" :{
+  "nFiles": 44,
+  "blank": 1,
+  "comment": 0,
+  "code": 2574},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1009,
+  "comment": 538,
+  "code": 6665,
+  "nFiles": 127} }

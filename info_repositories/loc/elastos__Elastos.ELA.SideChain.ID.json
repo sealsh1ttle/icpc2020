@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.10716700553894,
+  "n_files"            : 19,
+  "n_lines"            : 2232,
+  "files_per_second"   : 177.293374060882,
+  "lines_per_second"   : 20827.3058370468,
+  "report_file"        : "loc/elastos__Elastos.ELA.SideChain.ID.json"},
+"Go" :{
+  "nFiles": 13,
+  "blank": 229,
+  "comment": 48,
+  "code": 1499},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 78,
+  "comment": 0,
+  "code": 319},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 311,
+  "comment": 48,
+  "code": 1873,
+  "nFiles": 19} }

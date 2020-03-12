@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.2428410053253,
+  "n_files"            : 29,
+  "n_lines"            : 1329,
+  "files_per_second"   : 2.36873124362113,
+  "lines_per_second"   : 108.553235268017,
+  "report_file"        : "loc/edcable__beyonic-integration.json"},
+"Java" :{
+  "nFiles": 25,
+  "blank": 309,
+  "comment": 159,
+  "code": 555},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 6,
+  "code": 30},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 365,
+  "comment": 189,
+  "code": 775,
+  "nFiles": 29} }

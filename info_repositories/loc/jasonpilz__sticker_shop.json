@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.2275869846344,
+  "n_files"            : 132,
+  "n_lines"            : 25029,
+  "files_per_second"   : 3.74706334718798,
+  "lines_per_second"   : 710.494306945212,
+  "report_file"        : "loc/jasonpilz__sticker_shop.json"},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 1874,
+  "comment": 533,
+  "code": 6704},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 1447,
+  "comment": 1254,
+  "code": 5481},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 1094,
+  "comment": 3,
+  "code": 2416},
+"Ruby" :{
+  "nFiles": 96,
+  "blank": 420,
+  "comment": 130,
+  "code": 1825},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 769},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 439},
+"ERB" :{
+  "nFiles": 18,
+  "blank": 32,
+  "comment": 0,
+  "code": 406},
+"Python" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 12,
+  "code": 98},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 30,
+  "code": 23},
+"SUM": {
+  "blank": 4906,
+  "comment": 1962,
+  "code": 18161,
+  "nFiles": 132} }

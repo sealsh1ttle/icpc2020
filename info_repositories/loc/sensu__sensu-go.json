@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 470.970421075821,
+  "n_files"            : 1261,
+  "n_lines"            : 182371,
+  "files_per_second"   : 2.67745052251804,
+  "lines_per_second"   : 387.22389313413,
+  "report_file"        : "loc/sensu__sensu-go.json"},
+"Go" :{
+  "nFiles": 1179,
+  "blank": 18213,
+  "comment": 18295,
+  "code": 137426},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 452,
+  "comment": 0,
+  "code": 2008},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1783},
+"GraphQL" :{
+  "nFiles": 29,
+  "blank": 398,
+  "comment": 78,
+  "code": 1670},
+"Protocol Buffers" :{
+  "nFiles": 27,
+  "blank": 319,
+  "comment": 322,
+  "code": 738},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 15,
+  "comment": 9,
+  "code": 241},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 1,
+  "code": 226},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 1,
+  "code": 68},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 19476,
+  "comment": 18706,
+  "code": 144189,
+  "nFiles": 1261} }

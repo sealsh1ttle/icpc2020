@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.83811116218567,
+  "n_files"            : 36,
+  "n_lines"            : 6459,
+  "files_per_second"   : 4.59294328124346,
+  "lines_per_second"   : 824.050573709763,
+  "report_file"        : "loc/dmstr-forks__immobilienscout24-restapi-php-sdk.json"},
+"PHP" :{
+  "nFiles": 33,
+  "blank": 657,
+  "comment": 1831,
+  "code": 3927},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 0},
+"SUM": {
+  "blank": 657,
+  "comment": 1838,
+  "code": 3964,
+  "nFiles": 36} }

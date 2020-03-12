@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 42.9394948482513,
+  "n_files"            : 86,
+  "n_lines"            : 4090,
+  "files_per_second"   : 2.00281815852573,
+  "lines_per_second"   : 95.2503054461657,
+  "report_file"        : "loc/gtagency__buzzmobile.json"},
+"Python" :{
+  "nFiles": 22,
+  "blank": 312,
+  "comment": 332,
+  "code": 892},
+"XML" :{
+  "nFiles": 26,
+  "blank": 76,
+  "comment": 13,
+  "code": 623},
+"C++" :{
+  "nFiles": 5,
+  "blank": 117,
+  "comment": 59,
+  "code": 415},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 84,
+  "comment": 0,
+  "code": 383},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 127},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 11,
+  "code": 109},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 54,
+  "comment": 78,
+  "code": 103},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 37,
+  "code": 67},
+"CMake" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 0,
+  "code": 51},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 8,
+  "code": 15},
+"Gencat NLS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 746,
+  "comment": 544,
+  "code": 2800,
+  "nFiles": 86} }

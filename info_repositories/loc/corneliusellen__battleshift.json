@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.1325719356537,
+  "n_files"            : 130,
+  "n_lines"            : 3241,
+  "files_per_second"   : 4.46235918638205,
+  "lines_per_second"   : 111.250047100494,
+  "report_file"        : "loc/corneliusellen__battleshift.json"},
+"Ruby" :{
+  "nFiles": 106,
+  "blank": 451,
+  "comment": 452,
+  "code": 1785},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"ERB" :{
+  "nFiles": 11,
+  "blank": 7,
+  "comment": 0,
+  "code": 87},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 38},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 107,
+  "code": 31},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 23,
+  "code": 4},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 509,
+  "comment": 600,
+  "code": 2132,
+  "nFiles": 130} }

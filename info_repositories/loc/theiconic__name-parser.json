@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.358530044555664,
+  "n_files"            : 42,
+  "n_lines"            : 3395,
+  "files_per_second"   : 117.144994227894,
+  "lines_per_second"   : 9469.2203667548,
+  "report_file"        : "loc/theiconic__name-parser.json"},
+"PHP" :{
+  "nFiles": 37,
+  "blank": 357,
+  "comment": 497,
+  "code": 2318},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 113},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 28},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 385,
+  "comment": 497,
+  "code": 2513,
+  "nFiles": 42} }

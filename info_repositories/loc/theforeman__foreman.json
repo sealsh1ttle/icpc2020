@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1247.71079611778,
+  "n_files"            : 3802,
+  "n_lines"            : 410432,
+  "files_per_second"   : 3.04718049393322,
+  "lines_per_second"   : 328.94802327354,
+  "report_file"        : "loc/theforeman__foreman.json"},
+"PO File" :{
+  "nFiles": 18,
+  "blank": 63631,
+  "comment": 7320,
+  "code": 130589},
+"Ruby" :{
+  "nFiles": 2405,
+  "blank": 20481,
+  "comment": 4590,
+  "code": 117112},
+"JavaScript" :{
+  "nFiles": 657,
+  "blank": 3555,
+  "comment": 776,
+  "code": 30332},
+"ERB" :{
+  "nFiles": 542,
+  "blank": 1024,
+  "comment": 1181,
+  "code": 12172},
+"YAML" :{
+  "nFiles": 54,
+  "blank": 381,
+  "comment": 335,
+  "code": 3743},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 2,
+  "comment": 0,
+  "code": 3050},
+"Sass" :{
+  "nFiles": 54,
+  "blank": 608,
+  "comment": 19,
+  "code": 2862},
+"AsciiDoc" :{
+  "nFiles": 6,
+  "blank": 552,
+  "comment": 0,
+  "code": 2160},
+"Python" :{
+  "nFiles": 4,
+  "blank": 244,
+  "comment": 264,
+  "code": 1004},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 212,
+  "comment": 0,
+  "code": 620},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 54,
+  "comment": 24,
+  "code": 418},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 272},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 3,
+  "code": 188},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 36,
+  "comment": 26,
+  "code": 160},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 0,
+  "code": 124},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 121},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 7,
+  "code": 72},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 14,
+  "code": 35},
+"SUM": {
+  "blank": 90839,
+  "comment": 14559,
+  "code": 305034,
+  "nFiles": 3802} }

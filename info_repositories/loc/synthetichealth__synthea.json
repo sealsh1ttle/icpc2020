@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 127.281419992447,
+  "n_files"            : 605,
+  "n_lines"            : 433748,
+  "files_per_second"   : 4.7532467820983,
+  "lines_per_second"   : 3407.78724833318,
+  "report_file"        : "loc/synthetichealth__synthea.json"},
+"JSON" :{
+  "nFiles": 444,
+  "blank": 118,
+  "comment": 0,
+  "code": 395041},
+"Java" :{
+  "nFiles": 122,
+  "blank": 4513,
+  "comment": 6594,
+  "code": 25554},
+"Freemarker Template" :{
+  "nFiles": 25,
+  "blank": 9,
+  "comment": 0,
+  "code": 864},
+"XML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 19,
+  "code": 216},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 37,
+  "comment": 35,
+  "code": 160},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 48,
+  "code": 120},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 0,
+  "code": 96},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 25,
+  "code": 95},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 2,
+  "code": 79},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 4785,
+  "comment": 6738,
+  "code": 422225,
+  "nFiles": 605} }

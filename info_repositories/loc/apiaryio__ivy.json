@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.73246788978577,
+  "n_files"            : 32,
+  "n_lines"            : 2234,
+  "files_per_second"   : 4.75308616748832,
+  "lines_per_second"   : 331.824828067778,
+  "report_file"        : "loc/apiaryio__ivy.json"},
+"CoffeeScript" :{
+  "nFiles": 25,
+  "blank": 479,
+  "comment": 154,
+  "code": 1260},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 0,
+  "code": 152},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 1,
+  "code": 50},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 2,
+  "code": 13},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 542,
+  "comment": 157,
+  "code": 1535,
+  "nFiles": 32} }

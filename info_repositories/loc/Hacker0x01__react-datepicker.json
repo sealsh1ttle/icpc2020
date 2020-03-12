@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.943331956863403,
+  "n_files"            : 153,
+  "n_lines"            : 13816,
+  "files_per_second"   : 162.191049382794,
+  "lines_per_second"   : 14645.9577664881,
+  "report_file"        : "loc/Hacker0x01__react-datepicker.json"},
+"JavaScript" :{
+  "nFiles": 95,
+  "blank": 837,
+  "comment": 54,
+  "code": 7109},
+"JSX" :{
+  "nFiles": 18,
+  "blank": 304,
+  "comment": 18,
+  "code": 3016},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 174,
+  "comment": 1,
+  "code": 1121},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 134,
+  "comment": 0,
+  "code": 505},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 209},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 42,
+  "code": 185},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 30},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 29},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 13},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1483,
+  "comment": 115,
+  "code": 12218,
+  "nFiles": 153} }

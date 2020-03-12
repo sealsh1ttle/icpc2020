@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.4594011306763,
+  "n_files"            : 74,
+  "n_lines"            : 5747,
+  "files_per_second"   : 4.23840425259384,
+  "lines_per_second"   : 329.163638373741,
+  "report_file"        : "loc/OpenSourceHelpCommunity__OpenSourceHelpCommunity.github.io.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 652,
+  "comment": 346,
+  "code": 1932},
+"HTML" :{
+  "nFiles": 32,
+  "blank": 26,
+  "comment": 2,
+  "code": 939},
+"Python" :{
+  "nFiles": 23,
+  "blank": 250,
+  "comment": 182,
+  "code": 625},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 91,
+  "comment": 15,
+  "code": 379},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 70,
+  "comment": 0,
+  "code": 111},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 42},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 7,
+  "code": 7},
+"SUM": {
+  "blank": 1116,
+  "comment": 559,
+  "code": 4072,
+  "nFiles": 74} }

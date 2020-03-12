@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.248944044113159,
+  "n_files"            : 22,
+  "n_lines"            : 6315,
+  "files_per_second"   : 88.3732731119277,
+  "lines_per_second"   : 25367.1463500829,
+  "report_file"        : "loc/evanw__node-source-map-support.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4412},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 156,
+  "comment": 130,
+  "code": 1242},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 71,
+  "comment": 0,
+  "code": 234},
+"CoffeeScript" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 31},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 233,
+  "comment": 130,
+  "code": 5952,
+  "nFiles": 22} }

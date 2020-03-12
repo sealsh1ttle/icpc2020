@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.36355185508728,
+  "n_files"            : 7,
+  "n_lines"            : 2115,
+  "files_per_second"   : 5.13365148078797,
+  "lines_per_second"   : 1551.09612598094,
+  "report_file"        : "loc/App2Sales__react-native-switch-selector.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1670},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 1,
+  "code": 256},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 90},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 46},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 42,
+  "comment": 1,
+  "code": 2072,
+  "nFiles": 7} }

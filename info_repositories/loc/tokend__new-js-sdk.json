@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.5614960193634,
+  "n_files"            : 305,
+  "n_lines"            : 46999,
+  "files_per_second"   : 195.325505936508,
+  "lines_per_second"   : 30098.6998475736,
+  "report_file"        : "loc/tokend__new-js-sdk.json"},
+"JavaScript" :{
+  "nFiles": 295,
+  "blank": 3759,
+  "comment": 17224,
+  "code": 24966},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 224,
+  "comment": 0,
+  "code": 642},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 148},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 18},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 12},
+"SUM": {
+  "blank": 3987,
+  "comment": 17226,
+  "code": 25786,
+  "nFiles": 305} }

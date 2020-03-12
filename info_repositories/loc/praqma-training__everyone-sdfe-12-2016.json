@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.85766696929932,
+  "n_files"            : 19,
+  "n_lines"            : 257,
+  "files_per_second"   : 2.77062156635194,
+  "lines_per_second"   : 37.4763022396025,
+  "report_file"        : "loc/praqma-training__everyone-sdfe-12-2016.json"},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 89,
+  "comment": 0,
+  "code": 168},
+"SUM": {
+  "blank": 89,
+  "comment": 0,
+  "code": 168,
+  "nFiles": 19} }

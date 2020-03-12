@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 343.538763046265,
+  "n_files"            : 1052,
+  "n_lines"            : 1351,
+  "files_per_second"   : 3.06224540913983,
+  "lines_per_second"   : 3.93259842941817,
+  "report_file"        : "loc/fedebrasburg__tp0-taller.json"},
+"JSON" :{
+  "nFiles": 1042,
+  "blank": 0,
+  "comment": 0,
+  "code": 1131},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 1,
+  "code": 104},
+"EJS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 26},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 7},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 3},
+"SUM": {
+  "blank": 23,
+  "comment": 3,
+  "code": 1325,
+  "nFiles": 1052} }

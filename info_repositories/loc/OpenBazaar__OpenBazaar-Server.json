@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.6331069469452,
+  "n_files"            : 86,
+  "n_lines"            : 17700,
+  "files_per_second"   : 4.38035611135818,
+  "lines_per_second"   : 901.538408965578,
+  "report_file"        : "loc/OpenBazaar__OpenBazaar-Server.json"},
+"Python" :{
+  "nFiles": 73,
+  "blank": 1863,
+  "comment": 1390,
+  "code": 13498},
+"Protocol Buffers" :{
+  "nFiles": 5,
+  "blank": 47,
+  "comment": 47,
+  "code": 521},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 67},
+"C" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 2,
+  "code": 65},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 63},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 6,
+  "code": 29},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 26},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1977,
+  "comment": 1445,
+  "code": 14278,
+  "nFiles": 86} }

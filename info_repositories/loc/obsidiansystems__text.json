@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.3632659912109,
+  "n_files"            : 101,
+  "n_lines"            : 16232,
+  "files_per_second"   : 5.21606221005508,
+  "lines_per_second"   : 838.288334590237,
+  "report_file"        : "loc/obsidiansystems__text.json"},
+"Haskell" :{
+  "nFiles": 82,
+  "blank": 1429,
+  "comment": 3961,
+  "code": 9850},
+"C" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 71,
+  "code": 233},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 95,
+  "comment": 0,
+  "code": 174},
+"Python" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 0,
+  "code": 92},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 22,
+  "comment": 7,
+  "code": 88},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 2,
+  "code": 72},
+"make" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 29},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 5},
+"SUM": {
+  "blank": 1645,
+  "comment": 4044,
+  "code": 10543,
+  "nFiles": 101} }

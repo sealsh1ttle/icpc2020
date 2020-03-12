@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.3039500713348,
+  "n_files"            : 74,
+  "n_lines"            : 4759,
+  "files_per_second"   : 3.64461101115853,
+  "lines_per_second"   : 234.387889217614,
+  "report_file"        : "loc/iLCSoft__iLCUtil.json"},
+"CMake" :{
+  "nFiles": 51,
+  "blank": 698,
+  "comment": 811,
+  "code": 1584},
+"C/C++ Header" :{
+  "nFiles": 10,
+  "blank": 203,
+  "comment": 187,
+  "code": 396},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 78,
+  "comment": 0,
+  "code": 362},
+"C++" :{
+  "nFiles": 5,
+  "blank": 99,
+  "comment": 17,
+  "code": 155},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 0,
+  "code": 53},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 49},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 1122,
+  "comment": 1018,
+  "code": 2619,
+  "nFiles": 74} }

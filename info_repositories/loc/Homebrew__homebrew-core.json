@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.7382979393005,
+  "n_files"            : 4853,
+  "n_lines"            : 232056,
+  "files_per_second"   : 103.833477340203,
+  "lines_per_second"   : 4965.00750415373,
+  "report_file"        : "loc/Homebrew__homebrew-core.json"},
+"Ruby" :{
+  "nFiles": 4843,
+  "blank": 32316,
+  "comment": 7310,
+  "code": 192008},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 232},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 0,
+  "code": 76},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 18,
+  "code": 55},
+"SUM": {
+  "blank": 32357,
+  "comment": 7328,
+  "code": 192371,
+  "nFiles": 4853} }

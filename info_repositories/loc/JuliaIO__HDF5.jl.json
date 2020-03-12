@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.55720496177673,
+  "n_files"            : 21,
+  "n_lines"            : 4600,
+  "files_per_second"   : 5.90351138763481,
+  "lines_per_second"   : 1293.15011348191,
+  "report_file"        : "loc/JuliaIO__HDF5.jl.json"},
+"Julia" :{
+  "nFiles": 16,
+  "blank": 365,
+  "comment": 383,
+  "code": 3276},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 127,
+  "comment": 0,
+  "code": 369},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 7,
+  "code": 42},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 504,
+  "comment": 390,
+  "code": 3706,
+  "nFiles": 21} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.67584609985352,
+  "n_files"            : 424,
+  "n_lines"            : 116979,
+  "files_per_second"   : 115.347593039028,
+  "lines_per_second"   : 31823.6935993217,
+  "report_file"        : "loc/grpc__grpc-go.json"},
+"Go" :{
+  "nFiles": 344,
+  "blank": 10984,
+  "comment": 15154,
+  "code": 85380},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 659,
+  "comment": 0,
+  "code": 1908},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 601},
+"Protocol Buffers" :{
+  "nFiles": 19,
+  "blank": 236,
+  "comment": 618,
+  "code": 573},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 81,
+  "comment": 122,
+  "code": 411},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 20,
+  "comment": 35,
+  "code": 80},
+"make" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 46},
+"diff" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 32,
+  "code": 21},
+"SUM": {
+  "blank": 11998,
+  "comment": 15961,
+  "code": 89020,
+  "nFiles": 424} }

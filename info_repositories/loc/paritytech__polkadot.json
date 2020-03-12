@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.8585090637207,
+  "n_files"            : 115,
+  "n_lines"            : 27805,
+  "files_per_second"   : 4.62618251582251,
+  "lines_per_second"   : 1118.53047697778,
+  "report_file"        : "loc/paritytech__polkadot.json"},
+"Rust" :{
+  "nFiles": 56,
+  "blank": 3130,
+  "comment": 3191,
+  "code": 15939},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3470},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 76,
+  "comment": 44,
+  "code": 540},
+"TOML" :{
+  "nFiles": 16,
+  "blank": 41,
+  "comment": 2,
+  "code": 446},
+"AsciiDoc" :{
+  "nFiles": 21,
+  "blank": 206,
+  "comment": 10,
+  "code": 325},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 0,
+  "code": 107},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 42,
+  "comment": 14,
+  "code": 93},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 8,
+  "code": 59},
+"SUM": {
+  "blank": 3557,
+  "comment": 3269,
+  "code": 20979,
+  "nFiles": 115} }

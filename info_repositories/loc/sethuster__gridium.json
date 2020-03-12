@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.60467505455017,
+  "n_files"            : 40,
+  "n_lines"            : 4838,
+  "files_per_second"   : 4.6486357412007,
+  "lines_per_second"   : 562.252492898225,
+  "report_file"        : "loc/sethuster__gridium.json"},
+"Ruby" :{
+  "nFiles": 30,
+  "blank": 691,
+  "comment": 256,
+  "code": 3446},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 0,
+  "code": 208},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 80},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 8,
+  "code": 48},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 4,
+  "code": 5},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 4},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 774,
+  "comment": 269,
+  "code": 3795,
+  "nFiles": 40} }

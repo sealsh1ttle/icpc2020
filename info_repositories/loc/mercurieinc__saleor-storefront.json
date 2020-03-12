@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.15996789932251,
+  "n_files"            : 663,
+  "n_lines"            : 66523,
+  "files_per_second"   : 107.630431008077,
+  "lines_per_second"   : 10799.2445881603,
+  "report_file"        : "loc/mercurieinc__saleor-storefront.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 30861},
+"TypeScript" :{
+  "nFiles": 504,
+  "blank": 3156,
+  "comment": 5007,
+  "code": 21668},
+"Sass" :{
+  "nFiles": 60,
+  "blank": 615,
+  "comment": 14,
+  "code": 3236},
+"JavaScript" :{
+  "nFiles": 35,
+  "blank": 100,
+  "comment": 60,
+  "code": 998},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 115,
+  "comment": 0,
+  "code": 254},
+"SVG" :{
+  "nFiles": 34,
+  "blank": 0,
+  "comment": 0,
+  "code": 198},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 3,
+  "code": 107},
+"Handlebars" :{
+  "nFiles": 6,
+  "blank": 8,
+  "comment": 0,
+  "code": 44},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 6,
+  "code": 26},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 22},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 4003,
+  "comment": 5090,
+  "code": 57430,
+  "nFiles": 663} }

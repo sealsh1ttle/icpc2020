@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.89913392066956,
+  "n_files"            : 267,
+  "n_lines"            : 73188,
+  "files_per_second"   : 92.096469947941,
+  "lines_per_second"   : 25244.7806837075,
+  "report_file"        : "loc/InfraSIM__idic.json"},
+"Python" :{
+  "nFiles": 110,
+  "blank": 4667,
+  "comment": 8458,
+  "code": 18737},
+"HTML" :{
+  "nFiles": 22,
+  "blank": 2224,
+  "comment": 0,
+  "code": 11415},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 2015,
+  "comment": 2230,
+  "code": 8791},
+"C" :{
+  "nFiles": 14,
+  "blank": 623,
+  "comment": 469,
+  "code": 5539},
+"make" :{
+  "nFiles": 66,
+  "blank": 442,
+  "comment": 65,
+  "code": 1563},
+"Bourne Shell" :{
+  "nFiles": 31,
+  "blank": 234,
+  "comment": 181,
+  "code": 1187},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 270,
+  "comment": 36,
+  "code": 953},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 94,
+  "comment": 19,
+  "code": 577},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 117,
+  "comment": 98,
+  "code": 503},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 131,
+  "comment": 0,
+  "code": 315},
+"lex" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 12,
+  "code": 314},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 266,
+  "comment": 281,
+  "code": 311},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 11126,
+  "comment": 11849,
+  "code": 50213,
+  "nFiles": 267} }

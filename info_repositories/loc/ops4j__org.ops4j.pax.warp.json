@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 54.1833200454712,
+  "n_files"            : 131,
+  "n_lines"            : 11347,
+  "files_per_second"   : 2.41771821826465,
+  "lines_per_second"   : 209.418691775947,
+  "report_file"        : "loc/ops4j__org.ops4j.pax.warp.json"},
+"Java" :{
+  "nFiles": 85,
+  "blank": 943,
+  "comment": 2875,
+  "code": 4252},
+"Maven" :{
+  "nFiles": 13,
+  "blank": 162,
+  "comment": 17,
+  "code": 1307},
+"XML" :{
+  "nFiles": 14,
+  "blank": 23,
+  "comment": 45,
+  "code": 410},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 122,
+  "comment": 2,
+  "code": 340},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 0,
+  "code": 191},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 0,
+  "code": 147},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 65,
+  "code": 138},
+"SQL" :{
+  "nFiles": 10,
+  "blank": 5,
+  "comment": 3,
+  "code": 48},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 32},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 22,
+  "code": 31},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 13},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1408,
+  "comment": 3029,
+  "code": 6910,
+  "nFiles": 131} }

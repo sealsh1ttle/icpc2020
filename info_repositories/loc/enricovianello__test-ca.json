@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.5436799526215,
+  "n_files"            : 9,
+  "n_lines"            : 230,
+  "files_per_second"   : 0.285318644290012,
+  "lines_per_second"   : 7.29147646518921,
+  "report_file"        : "loc/enricovianello__test-ca.json"},
+"make" :{
+  "nFiles": 6,
+  "blank": 24,
+  "comment": 0,
+  "code": 79},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 50},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 65,
+  "comment": 0,
+  "code": 165,
+  "nFiles": 9} }

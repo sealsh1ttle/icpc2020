@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.7359750270844,
+  "n_files"            : 109,
+  "n_lines"            : 6280,
+  "files_per_second"   : 3.6655936084396,
+  "lines_per_second"   : 211.191998724777,
+  "report_file"        : "loc/kaydenmaier7__mathio-party.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 329,
+  "comment": 172,
+  "code": 2091},
+"ERB" :{
+  "nFiles": 25,
+  "blank": 207,
+  "comment": 0,
+  "code": 829},
+"Ruby" :{
+  "nFiles": 58,
+  "blank": 243,
+  "comment": 450,
+  "code": 721},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 76,
+  "comment": 16,
+  "code": 367},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 58,
+  "comment": 15,
+  "code": 169},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 127},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 92,
+  "code": 90},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 950,
+  "comment": 753,
+  "code": 4577,
+  "nFiles": 109} }

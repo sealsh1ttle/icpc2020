@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.278701066970825,
+  "n_files"            : 21,
+  "n_lines"            : 5116,
+  "files_per_second"   : 75.3495500689931,
+  "lines_per_second"   : 18356.5856263318,
+  "report_file"        : "loc/OpnTec__open-event-scraper.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 3490},
+"Python" :{
+  "nFiles": 6,
+  "blank": 139,
+  "comment": 56,
+  "code": 522},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 2,
+  "code": 251},
+"Smarty" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 247},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 6,
+  "code": 212},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 3,
+  "code": 37},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 253,
+  "comment": 67,
+  "code": 4796,
+  "nFiles": 21} }

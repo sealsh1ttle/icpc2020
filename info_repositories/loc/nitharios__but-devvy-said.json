@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.2372169494629,
+  "n_files"            : 105,
+  "n_lines"            : 24855,
+  "files_per_second"   : 2.42846342591216,
+  "lines_per_second"   : 574.851985248064,
+  "report_file"        : "loc/nitharios__but-devvy-said.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 14594},
+"JavaScript" :{
+  "nFiles": 94,
+  "blank": 1091,
+  "comment": 772,
+  "code": 7389},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 134,
+  "comment": 11,
+  "code": 748},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 11,
+  "code": 53},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 35},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1241,
+  "comment": 794,
+  "code": 22820,
+  "nFiles": 105} }

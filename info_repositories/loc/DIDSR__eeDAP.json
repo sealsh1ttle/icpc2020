@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.2977149486542,
+  "n_files"            : 99,
+  "n_lines"            : 33961,
+  "files_per_second"   : 4.87739631039425,
+  "lines_per_second"   : 1673.14400098282,
+  "report_file"        : "loc/DIDSR__eeDAP.json"},
+"MATLAB" :{
+  "nFiles": 90,
+  "blank": 3146,
+  "comment": 4848,
+  "code": 21768},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4008},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 73,
+  "comment": 0,
+  "code": 118},
+"SUM": {
+  "blank": 3219,
+  "comment": 4848,
+  "code": 25894,
+  "nFiles": 99} }

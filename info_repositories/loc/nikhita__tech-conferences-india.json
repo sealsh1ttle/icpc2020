@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.714116811752319,
+  "n_files"            : 6,
+  "n_lines"            : 240,
+  "files_per_second"   : 8.40198676358989,
+  "lines_per_second"   : 336.079470543596,
+  "report_file"        : "loc/nikhita__tech-conferences-india.json"},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 0,
+  "code": 203},
+"SUM": {
+  "blank": 37,
+  "comment": 0,
+  "code": 203,
+  "nFiles": 6} }

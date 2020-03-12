@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.5428750514984,
+  "n_files"            : 322,
+  "n_lines"            : 37439,
+  "files_per_second"   : 4.91281469949247,
+  "lines_per_second"   : 571.2138805413,
+  "report_file"        : "loc/kiegroup__jbpm-work-items.json"},
+"Java" :{
+  "nFiles": 247,
+  "blank": 3800,
+  "comment": 4055,
+  "code": 18315},
+"Maven" :{
+  "nFiles": 42,
+  "blank": 329,
+  "comment": 33,
+  "code": 9300},
+"Smalltalk" :{
+  "nFiles": 6,
+  "blank": 7,
+  "comment": 2,
+  "code": 537},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 0,
+  "code": 319},
+"XML" :{
+  "nFiles": 11,
+  "blank": 31,
+  "comment": 8,
+  "code": 285},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 78,
+  "comment": 0,
+  "code": 254},
+"Solidity" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 6,
+  "code": 27},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 4291,
+  "comment": 4104,
+  "code": 29044,
+  "nFiles": 322} }

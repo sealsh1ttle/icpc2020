@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.287922143936157,
+  "n_files"            : 28,
+  "n_lines"            : 6404,
+  "files_per_second"   : 97.2485117581252,
+  "lines_per_second"   : 22242.1239035369,
+  "report_file"        : "loc/stefanopog__node-red-contrib-dominodb.json"},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 214,
+  "comment": 3,
+  "code": 2803},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 117,
+  "comment": 1045,
+  "code": 1742},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 94,
+  "comment": 0,
+  "code": 317},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 52},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 425,
+  "comment": 1048,
+  "code": 4931,
+  "nFiles": 28} }

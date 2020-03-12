@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.38124680519104,
+  "n_files"            : 176,
+  "n_lines"            : 41139,
+  "files_per_second"   : 127.421109202607,
+  "lines_per_second"   : 29783.9602925344,
+  "report_file"        : "loc/onosproject__onos-gui.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 11514},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 2476,
+  "comment": 6240,
+  "code": 8843},
+"TypeScript" :{
+  "nFiles": 87,
+  "blank": 1017,
+  "comment": 1442,
+  "code": 5580},
+"CSS" :{
+  "nFiles": 31,
+  "blank": 300,
+  "comment": 609,
+  "code": 1129},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 32,
+  "comment": 291,
+  "code": 797},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 80,
+  "comment": 0,
+  "code": 271},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 7,
+  "code": 172},
+"Python" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 31,
+  "code": 147},
+"make" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 40},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 6,
+  "code": 34},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 3972,
+  "comment": 8626,
+  "code": 28541,
+  "nFiles": 176} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.107967853546143,
+  "n_files"            : 14,
+  "n_lines"            : 1064,
+  "files_per_second"   : 129.668225681793,
+  "lines_per_second"   : 9854.78515181628,
+  "report_file"        : "loc/StaymanHou__bible_plus_dart.json"},
+"Dart" :{
+  "nFiles": 11,
+  "blank": 141,
+  "comment": 50,
+  "code": 782},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 60},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 162,
+  "comment": 50,
+  "code": 852,
+  "nFiles": 14} }

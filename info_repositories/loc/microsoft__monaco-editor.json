@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 45.9501900672913,
+  "n_files"            : 149,
+  "n_lines"            : 212470,
+  "files_per_second"   : 3.24264164700513,
+  "lines_per_second"   : 4623.91993784684,
+  "report_file"        : "loc/microsoft__monaco-editor.json"},
+"JavaScript" :{
+  "nFiles": 47,
+  "blank": 487,
+  "comment": 930,
+  "code": 180829},
+"HTML" :{
+  "nFiles": 47,
+  "blank": 1227,
+  "comment": 121,
+  "code": 7183},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 1391,
+  "comment": 107,
+  "code": 7114},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4879},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 340,
+  "comment": 3540,
+  "code": 2201},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 284,
+  "comment": 0,
+  "code": 961},
+"Handlebars" :{
+  "nFiles": 26,
+  "blank": 56,
+  "comment": 53,
+  "code": 732},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 3791,
+  "comment": 4752,
+  "code": 203927,
+  "nFiles": 149} }

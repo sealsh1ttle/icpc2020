@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.57578802108765,
+  "n_files"            : 122,
+  "n_lines"            : 18597,
+  "files_per_second"   : 47.3641460404356,
+  "lines_per_second"   : 7219.92642552444,
+  "report_file"        : "loc/google__gsocguides.json"},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 1465,
+  "comment": 58,
+  "code": 7777},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2959},
+"Markdown" :{
+  "nFiles": 58,
+  "blank": 1394,
+  "comment": 0,
+  "code": 1747},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 313,
+  "comment": 541,
+  "code": 904},
+"HTML" :{
+  "nFiles": 26,
+  "blank": 119,
+  "comment": 53,
+  "code": 584},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 51,
+  "comment": 31,
+  "code": 391},
+"XML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 52},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 50},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 5,
+  "code": 36},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 22},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 7},
+"SUM": {
+  "blank": 3377,
+  "comment": 691,
+  "code": 14529,
+  "nFiles": 122} }

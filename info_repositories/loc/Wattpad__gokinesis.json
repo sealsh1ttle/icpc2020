@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.32289719581604,
+  "n_files"            : 4,
+  "n_lines"            : 363,
+  "files_per_second"   : 12.3878437218726,
+  "lines_per_second"   : 1124.19681775994,
+  "report_file"        : "loc/Wattpad__gokinesis.json"},
+"Go" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 58,
+  "code": 148},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 0,
+  "code": 81},
+"SUM": {
+  "blank": 76,
+  "comment": 58,
+  "code": 229,
+  "nFiles": 4} }

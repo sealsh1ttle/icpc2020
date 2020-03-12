@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.987568855285645,
+  "n_files"            : 5,
+  "n_lines"            : 392,
+  "files_per_second"   : 5.06293811640486,
+  "lines_per_second"   : 396.934348326141,
+  "report_file"        : "loc/chainreactionmfg__mutablerecords.json"},
+"Python" :{
+  "nFiles": 4,
+  "blank": 65,
+  "comment": 46,
+  "code": 216},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 51},
+"SUM": {
+  "blank": 79,
+  "comment": 46,
+  "code": 267,
+  "nFiles": 5} }

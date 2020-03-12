@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.6335461139679,
+  "n_files"            : 14,
+  "n_lines"            : 8791,
+  "files_per_second"   : 8.57031208381005,
+  "lines_per_second"   : 5381.54382348387,
+  "report_file"        : "loc/ocaml__tuareg.json"},
+"Lisp" :{
+  "nFiles": 7,
+  "blank": 604,
+  "comment": 771,
+  "code": 4242},
+"OCaml" :{
+  "nFiles": 3,
+  "blank": 405,
+  "comment": 102,
+  "code": 2135},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 93,
+  "comment": 0,
+  "code": 296},
+"make" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 1,
+  "code": 97},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 19},
+"SUM": {
+  "blank": 1127,
+  "comment": 875,
+  "code": 6789,
+  "nFiles": 14} }

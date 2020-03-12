@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0747699737548828,
+  "n_files"            : 2,
+  "n_lines"            : 489,
+  "files_per_second"   : 26.7487053901686,
+  "lines_per_second"   : 6540.05846789623,
+  "report_file"        : "loc/SaltieRL__SharedAssets.json"},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 485},
+"SUM": {
+  "blank": 2,
+  "comment": 2,
+  "code": 485,
+  "nFiles": 2} }

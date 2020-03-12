@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.10570216178894,
+  "n_files"            : 22,
+  "n_lines"            : 1008,
+  "files_per_second"   : 3.60318918562417,
+  "lines_per_second"   : 165.091577232234,
+  "report_file"        : "loc/hedefalk__ensime-vscode.json"},
+"TypeScript" :{
+  "nFiles": 16,
+  "blank": 144,
+  "comment": 166,
+  "code": 529},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 0,
+  "code": 159},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 152,
+  "comment": 166,
+  "code": 690,
+  "nFiles": 22} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.96632194519043,
+  "n_files"            : 267,
+  "n_lines"            : 48962,
+  "files_per_second"   : 135.786512810415,
+  "lines_per_second"   : 24900.2967798634,
+  "report_file"        : "loc/worldofnick__LocalBeats.json"},
+"CSS" :{
+  "nFiles": 29,
+  "blank": 300,
+  "comment": 179,
+  "code": 12677},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 13,
+  "comment": 0,
+  "code": 11761},
+"TypeScript" :{
+  "nFiles": 121,
+  "blank": 1006,
+  "comment": 732,
+  "code": 8913},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3458},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 457,
+  "comment": 425,
+  "code": 2409},
+"HTML" :{
+  "nFiles": 37,
+  "blank": 205,
+  "comment": 161,
+  "code": 2259},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 42,
+  "comment": 34,
+  "code": 1917},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 44,
+  "code": 1758},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 75,
+  "comment": 0,
+  "code": 103},
+"SUM": {
+  "blank": 2132,
+  "comment": 1575,
+  "code": 45255,
+  "nFiles": 267} }

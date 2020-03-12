@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.21957993507385,
+  "n_files"            : 9,
+  "n_lines"            : 7008,
+  "files_per_second"   : 2.79539572909953,
+  "lines_per_second"   : 2176.68147439217,
+  "report_file"        : "loc/systemd__mkosi.json"},
+"Python" :{
+  "nFiles": 4,
+  "blank": 1199,
+  "comment": 1606,
+  "code": 2982},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 268,
+  "comment": 0,
+  "code": 910},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 4,
+  "code": 29},
+"SUM": {
+  "blank": 1477,
+  "comment": 1610,
+  "code": 3921,
+  "nFiles": 9} }

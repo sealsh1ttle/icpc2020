@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.284656047821045,
+  "n_files"            : 33,
+  "n_lines"            : 3401,
+  "files_per_second"   : 115.929383031223,
+  "lines_per_second"   : 11947.75247543,
+  "report_file"        : "loc/twintproject__twint.json"},
+"Python" :{
+  "nFiles": 22,
+  "blank": 306,
+  "comment": 215,
+  "code": 2420},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 210},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 64,
+  "comment": 0,
+  "code": 160},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 25},
+"SUM": {
+  "blank": 370,
+  "comment": 216,
+  "code": 2815,
+  "nFiles": 33} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.98055791854858,
+  "n_files"            : 9,
+  "n_lines"            : 1202,
+  "files_per_second"   : 2.26098958592258,
+  "lines_per_second"   : 301.967720253215,
+  "report_file"        : "loc/Kotare-Monopoly__Front-End.json"},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 143,
+  "comment": 222,
+  "code": 444},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 58,
+  "comment": 9,
+  "code": 181},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 85},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 215,
+  "comment": 234,
+  "code": 753,
+  "nFiles": 9} }

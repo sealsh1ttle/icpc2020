@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 72.3136510848999,
+  "n_files"            : 47,
+  "n_lines"            : 47724,
+  "files_per_second"   : 0.649946438810282,
+  "lines_per_second"   : 659.958379697488,
+  "report_file"        : "loc/pb866__TUV_DSMACC.json"},
+"Fortran 77" :{
+  "nFiles": 44,
+  "blank": 10904,
+  "comment": 12629,
+  "code": 23440},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 124,
+  "comment": 0,
+  "code": 566},
+"make" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 22,
+  "code": 28},
+"SUM": {
+  "blank": 11039,
+  "comment": 12651,
+  "code": 24034,
+  "nFiles": 47} }

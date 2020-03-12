@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.67578482627869,
+  "n_files"            : 29,
+  "n_lines"            : 930,
+  "files_per_second"   : 5.10942554864501,
+  "lines_per_second"   : 163.853991732409,
+  "report_file"        : "loc/nomlab__perican.json"},
+"Ruby" :{
+  "nFiles": 27,
+  "blank": 143,
+  "comment": 23,
+  "code": 719},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 38},
+"SUM": {
+  "blank": 150,
+  "comment": 23,
+  "code": 757,
+  "nFiles": 29} }

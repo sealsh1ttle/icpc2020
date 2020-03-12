@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.320915937423706,
+  "n_files"            : 37,
+  "n_lines"            : 4748,
+  "files_per_second"   : 115.294990635348,
+  "lines_per_second"   : 14795.1517712603,
+  "report_file"        : "loc/containers__conmon.json"},
+"C" :{
+  "nFiles": 4,
+  "blank": 365,
+  "comment": 342,
+  "code": 1671},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 151,
+  "comment": 80,
+  "code": 743},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 53,
+  "comment": 84,
+  "code": 394},
+"make" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 10,
+  "code": 212},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 43,
+  "comment": 26,
+  "code": 182},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 58,
+  "comment": 0,
+  "code": 164},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 44},
+"Go" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 5,
+  "code": 33},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 5,
+  "code": 17},
+"SUM": {
+  "blank": 736,
+  "comment": 552,
+  "code": 3460,
+  "nFiles": 37} }

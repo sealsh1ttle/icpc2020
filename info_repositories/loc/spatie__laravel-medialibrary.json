@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.201966047287,
+  "n_files"            : 198,
+  "n_lines"            : 14316,
+  "files_per_second"   : 5.32229935773621,
+  "lines_per_second"   : 384.8183717442,
+  "report_file"        : "loc/spatie__laravel-medialibrary.json"},
+"PHP" :{
+  "nFiles": 135,
+  "blank": 2367,
+  "comment": 1104,
+  "code": 7032},
+"Markdown" :{
+  "nFiles": 51,
+  "blank": 990,
+  "comment": 0,
+  "code": 2561},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 78},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 77},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 0,
+  "code": 58},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Blade" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 3374,
+  "comment": 1104,
+  "code": 9838,
+  "nFiles": 198} }

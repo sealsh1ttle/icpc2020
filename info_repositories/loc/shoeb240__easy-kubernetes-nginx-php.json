@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.116286039352417,
+  "n_files"            : 5,
+  "n_lines"            : 327,
+  "files_per_second"   : 42.9974228019494,
+  "lines_per_second"   : 2812.03145124749,
+  "report_file"        : "loc/shoeb240__easy-kubernetes-nginx-php.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 182},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 3,
+  "code": 92},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 48,
+  "comment": 3,
+  "code": 276,
+  "nFiles": 5} }

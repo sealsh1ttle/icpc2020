@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.7408590316772,
+  "n_files"            : 111,
+  "n_lines"            : 66736,
+  "files_per_second"   : 2.65926486840536,
+  "lines_per_second"   : 1598.81711944054,
+  "report_file"        : "loc/CanonicalLtd__maas-docs.json"},
+"Markdown" :{
+  "nFiles": 100,
+  "blank": 10445,
+  "comment": 0,
+  "code": 47559},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 6033},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 775,
+  "comment": 8,
+  "code": 959},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 70,
+  "comment": 58,
+  "code": 399},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 107,
+  "comment": 0,
+  "code": 232},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 42},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 13},
+"SUM": {
+  "blank": 11413,
+  "comment": 72,
+  "code": 55251,
+  "nFiles": 111} }

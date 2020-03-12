@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.0671610832214,
+  "n_files"            : 79,
+  "n_lines"            : 7771,
+  "files_per_second"   : 5.6159163553069,
+  "lines_per_second"   : 552.421341735316,
+  "report_file"        : "loc/mulesoft__mule-java-module.json"},
+"Java" :{
+  "nFiles": 58,
+  "blank": 809,
+  "comment": 805,
+  "code": 3302},
+"XML" :{
+  "nFiles": 20,
+  "blank": 158,
+  "comment": 9,
+  "code": 2543},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 2,
+  "code": 132},
+"SUM": {
+  "blank": 978,
+  "comment": 816,
+  "code": 5977,
+  "nFiles": 79} }

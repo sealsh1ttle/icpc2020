@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.8030631542206,
+  "n_files"            : 74,
+  "n_lines"            : 7687,
+  "files_per_second"   : 4.68263647862703,
+  "lines_per_second"   : 486.424683935216,
+  "report_file"        : "loc/google__codeu_project_2017.json"},
+"Java" :{
+  "nFiles": 64,
+  "blank": 1553,
+  "comment": 1383,
+  "code": 4392},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 45,
+  "comment": 0,
+  "code": 104},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 28,
+  "comment": 91,
+  "code": 76},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 1631,
+  "comment": 1474,
+  "code": 4582,
+  "nFiles": 74} }

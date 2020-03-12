@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.709451913833618,
+  "n_files"            : 108,
+  "n_lines"            : 11677,
+  "files_per_second"   : 152.230190509188,
+  "lines_per_second"   : 16459.1845794055,
+  "report_file"        : "loc/evbeda__games.json"},
+"Python" :{
+  "nFiles": 105,
+  "blank": 1387,
+  "comment": 393,
+  "code": 9807},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 46},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1396,
+  "comment": 393,
+  "code": 9888,
+  "nFiles": 108} }

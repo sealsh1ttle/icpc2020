@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.01536202430725,
+  "n_files"            : 28,
+  "n_lines"            : 1657,
+  "files_per_second"   : 3.49329199543173,
+  "lines_per_second"   : 206.728029872514,
+  "report_file"        : "loc/willowtreeapps__react-formable.json"},
+"TypeScript" :{
+  "nFiles": 18,
+  "blank": 180,
+  "comment": 96,
+  "code": 1038},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 114},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 111},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 0,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 13},
+"SUM": {
+  "blank": 224,
+  "comment": 98,
+  "code": 1335,
+  "nFiles": 28} }

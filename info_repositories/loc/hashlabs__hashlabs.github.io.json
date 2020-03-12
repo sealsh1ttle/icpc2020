@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.836965084075928,
+  "n_files"            : 172,
+  "n_lines"            : 7272,
+  "files_per_second"   : 205.504391129889,
+  "lines_per_second"   : 8688.53449009624,
+  "report_file"        : "loc/hashlabs__hashlabs.github.io.json"},
+"Sass" :{
+  "nFiles": 35,
+  "blank": 538,
+  "comment": 39,
+  "code": 2490},
+"SVG" :{
+  "nFiles": 44,
+  "blank": 0,
+  "comment": 33,
+  "code": 995},
+"HTML" :{
+  "nFiles": 45,
+  "blank": 126,
+  "comment": 3,
+  "code": 929},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 91,
+  "comment": 86,
+  "code": 719},
+"YAML" :{
+  "nFiles": 26,
+  "blank": 36,
+  "comment": 57,
+  "code": 647},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 104,
+  "comment": 0,
+  "code": 242},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 67},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 10,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 897,
+  "comment": 228,
+  "code": 6147,
+  "nFiles": 172} }

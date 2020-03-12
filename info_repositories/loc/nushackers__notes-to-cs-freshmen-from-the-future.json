@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.468972206115723,
+  "n_files"            : 1,
+  "n_lines"            : 499,
+  "files_per_second"   : 2.13232252777309,
+  "lines_per_second"   : 1064.02894135877,
+  "report_file"        : "loc/nushackers__notes-to-cs-freshmen-from-the-future.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 239,
+  "comment": 0,
+  "code": 260},
+"SUM": {
+  "blank": 239,
+  "comment": 0,
+  "code": 260,
+  "nFiles": 1} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.4935920238495,
+  "n_files"            : 208,
+  "n_lines"            : 30921,
+  "files_per_second"   : 3.17588322112882,
+  "lines_per_second"   : 472.122524425598,
+  "report_file"        : "loc/TypeScriptToLua__TypeScriptToLua.json"},
+"TypeScript" :{
+  "nFiles": 191,
+  "blank": 3037,
+  "comment": 602,
+  "code": 20847},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 0,
+  "code": 5684},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 126,
+  "comment": 0,
+  "code": 353},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 39,
+  "code": 85},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 67},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 3,
+  "code": 37},
+"SUM": {
+  "blank": 3204,
+  "comment": 644,
+  "code": 27073,
+  "nFiles": 208} }

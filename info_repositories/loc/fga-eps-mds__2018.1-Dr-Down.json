@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.14570093154907,
+  "n_files"            : 436,
+  "n_lines"            : 40866,
+  "files_per_second"   : 138.601859962986,
+  "lines_per_second"   : 12991.0633239619,
+  "report_file"        : "loc/fga-eps-mds__2018.1-Dr-Down.json"},
+"Python" :{
+  "nFiles": 189,
+  "blank": 2682,
+  "comment": 1560,
+  "code": 10509},
+"HTML" :{
+  "nFiles": 86,
+  "blank": 1042,
+  "comment": 99,
+  "code": 7179},
+"Markdown" :{
+  "nFiles": 64,
+  "blank": 1918,
+  "comment": 0,
+  "code": 3369},
+"PO File" :{
+  "nFiles": 8,
+  "blank": 979,
+  "comment": 1999,
+  "code": 2790},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 2726},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 211,
+  "comment": 41,
+  "code": 1133},
+"XML" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 349},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 75,
+  "comment": 44,
+  "code": 315},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 17,
+  "comment": 2,
+  "code": 278},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 75,
+  "comment": 20,
+  "code": 258},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 170,
+  "comment": 62,
+  "code": 207},
+"make" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 46,
+  "code": 187},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 16,
+  "code": 81},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 10,
+  "code": 65},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 10,
+  "code": 16},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 7326,
+  "comment": 3910,
+  "code": 29630,
+  "nFiles": 436} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.685867071151733,
+  "n_files"            : 135,
+  "n_lines"            : 9087,
+  "files_per_second"   : 196.831143640273,
+  "lines_per_second"   : 13248.9229796975,
+  "report_file"        : "loc/suchanlee__bezzist.json"},
+"JavaScript" :{
+  "nFiles": 45,
+  "blank": 460,
+  "comment": 380,
+  "code": 2309},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 63,
+  "code": 1650},
+"LESS" :{
+  "nFiles": 10,
+  "blank": 238,
+  "comment": 126,
+  "code": 1547},
+"Python" :{
+  "nFiles": 61,
+  "blank": 418,
+  "comment": 151,
+  "code": 1316},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 29,
+  "comment": 22,
+  "code": 179},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 118},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"SUM": {
+  "blank": 1180,
+  "comment": 742,
+  "code": 7165,
+  "nFiles": 135} }

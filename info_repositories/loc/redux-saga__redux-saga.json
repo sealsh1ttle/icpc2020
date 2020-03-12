@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 102.277102947235,
+  "n_files"            : 310,
+  "n_lines"            : 28371,
+  "files_per_second"   : 3.03098143247105,
+  "lines_per_second"   : 277.393465227859,
+  "report_file"        : "loc/redux-saga__redux-saga.json"},
+"JavaScript" :{
+  "nFiles": 199,
+  "blank": 1675,
+  "comment": 522,
+  "code": 11380},
+"Markdown" :{
+  "nFiles": 55,
+  "blank": 2018,
+  "comment": 0,
+  "code": 5452},
+"TypeScript" :{
+  "nFiles": 21,
+  "blank": 675,
+  "comment": 3047,
+  "code": 2433},
+"JSON" :{
+  "nFiles": 27,
+  "blank": 2,
+  "comment": 0,
+  "code": 990},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 23,
+  "comment": 0,
+  "code": 140},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 4395,
+  "comment": 3569,
+  "code": 20407,
+  "nFiles": 310} }

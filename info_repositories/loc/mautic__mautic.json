@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.9271509647369,
+  "n_files"            : 3773,
+  "n_lines"            : 707247,
+  "files_per_second"   : 99.4801851451478,
+  "lines_per_second"   : 18647.5119277366,
+  "report_file"        : "loc/mautic__mautic.json"},
+"PHP" :{
+  "nFiles": 3096,
+  "blank": 57360,
+  "comment": 115641,
+  "code": 288576},
+"JavaScript" :{
+  "nFiles": 228,
+  "blank": 20101,
+  "comment": 20484,
+  "code": 115940},
+"CSS" :{
+  "nFiles": 48,
+  "blank": 1221,
+  "comment": 880,
+  "code": 39437},
+"LESS" :{
+  "nFiles": 169,
+  "blank": 2362,
+  "comment": 2542,
+  "code": 19155},
+"JSON" :{
+  "nFiles": 53,
+  "blank": 12,
+  "comment": 0,
+  "code": 7399},
+"Twig" :{
+  "nFiles": 57,
+  "blank": 299,
+  "comment": 0,
+  "code": 6932},
+"INI" :{
+  "nFiles": 79,
+  "blank": 75,
+  "comment": 0,
+  "code": 4473},
+"SVG" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 19,
+  "code": 3219},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 132,
+  "comment": 13,
+  "code": 253},
+"Stylus" :{
+  "nFiles": 2,
+  "blank": 69,
+  "comment": 52,
+  "code": 224},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 95},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 10,
+  "code": 81},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 77},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 42},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 32},
+"SUM": {
+  "blank": 81669,
+  "comment": 139643,
+  "code": 485935,
+  "nFiles": 3773} }

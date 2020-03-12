@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.61534810066223,
+  "n_files"            : 26,
+  "n_lines"            : 852,
+  "files_per_second"   : 3.93025425183556,
+  "lines_per_second"   : 128.79140856015,
+  "report_file"        : "loc/DillGromble__wicTN.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 32,
+  "comment": 7,
+  "code": 239},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 161},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 6,
+  "code": 117},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 81},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 72},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 18},
+"SUM": {
+  "blank": 98,
+  "comment": 34,
+  "code": 720,
+  "nFiles": 26} }

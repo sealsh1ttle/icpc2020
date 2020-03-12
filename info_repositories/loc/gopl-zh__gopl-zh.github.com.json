@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.5784080028534,
+  "n_files"            : 365,
+  "n_lines"            : 31686,
+  "files_per_second"   : 11.5585307519942,
+  "lines_per_second"   : 1003.40713810325,
+  "report_file"        : "loc/gopl-zh__gopl-zh.github.com.json"},
+"Go" :{
+  "nFiles": 181,
+  "blank": 1873,
+  "comment": 2619,
+  "code": 12135},
+"Markdown" :{
+  "nFiles": 179,
+  "blank": 3578,
+  "comment": 0,
+  "code": 11357},
+"C" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 27,
+  "code": 25},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 10,
+  "code": 23},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 7},
+"SUM": {
+  "blank": 5467,
+  "comment": 2658,
+  "code": 23561,
+  "nFiles": 365} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.6512930393219,
+  "n_files"            : 156,
+  "n_lines"            : 7435,
+  "files_per_second"   : 3.57377729588611,
+  "lines_per_second"   : 170.327142275085,
+  "report_file"        : "loc/good-move__oop_course_2.json"},
+"Java" :{
+  "nFiles": 133,
+  "blank": 1531,
+  "comment": 26,
+  "code": 4922},
+"Ant" :{
+  "nFiles": 3,
+  "blank": 98,
+  "comment": 23,
+  "code": 354},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 144},
+"XML" :{
+  "nFiles": 7,
+  "blank": 11,
+  "comment": 6,
+  "code": 116},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 0,
+  "code": 65},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"C++" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"Python" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1671,
+  "comment": 55,
+  "code": 5709,
+  "nFiles": 156} }

@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 132.047368049622,
+  "n_files"            : 523,
+  "n_lines"            : 259853,
+  "files_per_second"   : 3.96069991946726,
+  "lines_per_second"   : 1967.87716285531,
+  "report_file"        : "loc/bazelbuild__bazel-gazelle.json"},
+"Go" :{
+  "nFiles": 415,
+  "blank": 22049,
+  "comment": 18886,
+  "code": 207851},
+"Assembly" :{
+  "nFiles": 34,
+  "blank": 246,
+  "comment": 290,
+  "code": 1544},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 348,
+  "comment": 304,
+  "code": 1501},
+"Starlark" :{
+  "nFiles": 13,
+  "blank": 134,
+  "comment": 303,
+  "code": 1182},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 78,
+  "comment": 142,
+  "code": 997},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 135,
+  "comment": 159,
+  "code": 844},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 94,
+  "comment": 313,
+  "code": 608},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 259,
+  "comment": 0,
+  "code": 566},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 5,
+  "code": 221},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 108,
+  "comment": 62,
+  "code": 170},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 164},
+"Protocol Buffers" :{
+  "nFiles": 22,
+  "blank": 37,
+  "comment": 0,
+  "code": 67},
+"C" :{
+  "nFiles": 4,
+  "blank": 25,
+  "comment": 42,
+  "code": 36},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 15,
+  "code": 9},
+"diff" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 12,
+  "code": 8},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 12,
+  "code": 1},
+"SUM": {
+  "blank": 23539,
+  "comment": 20545,
+  "code": 215769,
+  "nFiles": 523} }

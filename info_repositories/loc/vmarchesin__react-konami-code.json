@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.01704597473145,
+  "n_files"            : 11,
+  "n_lines"            : 13261,
+  "files_per_second"   : 10.8156369262506,
+  "lines_per_second"   : 13038.7419344554,
+  "report_file"        : "loc/vmarchesin__react-konami-code.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 12755},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 0,
+  "code": 223},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 0,
+  "code": 122},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 1,
+  "code": 30},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 19},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 108,
+  "comment": 1,
+  "code": 13152,
+  "nFiles": 11} }

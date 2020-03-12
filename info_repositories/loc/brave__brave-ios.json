@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 281.915842056274,
+  "n_files"            : 1000,
+  "n_lines"            : 363189,
+  "files_per_second"   : 3.54715787770588,
+  "lines_per_second"   : 1288.28872244612,
+  "report_file"        : "loc/brave__brave-ios.json"},
+"C" :{
+  "nFiles": 1,
+  "blank": 14607,
+  "comment": 65464,
+  "code": 127666},
+"Swift" :{
+  "nFiles": 474,
+  "blank": 12178,
+  "comment": 6539,
+  "code": 49653},
+"C++" :{
+  "nFiles": 67,
+  "blank": 3045,
+  "comment": 3601,
+  "code": 25616},
+"C/C++ Header" :{
+  "nFiles": 95,
+  "blank": 4007,
+  "comment": 16228,
+  "code": 12517},
+"JSON" :{
+  "nFiles": 115,
+  "blank": 5,
+  "comment": 0,
+  "code": 9822},
+"XML" :{
+  "nFiles": 168,
+  "blank": 154,
+  "comment": 555,
+  "code": 2926},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 439,
+  "comment": 456,
+  "code": 2126},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 159,
+  "comment": 22,
+  "code": 1069},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 157,
+  "comment": 28,
+  "code": 788},
+"Python" :{
+  "nFiles": 7,
+  "blank": 231,
+  "comment": 251,
+  "code": 595},
+"Objective C" :{
+  "nFiles": 8,
+  "blank": 141,
+  "comment": 90,
+  "code": 581},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 186,
+  "comment": 0,
+  "code": 462},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 77,
+  "comment": 94,
+  "code": 299},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 4,
+  "code": 99},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 11,
+  "code": 90},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 8,
+  "code": 61},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 42},
+"SUM": {
+  "blank": 35425,
+  "comment": 93352,
+  "code": 234412,
+  "nFiles": 1000} }

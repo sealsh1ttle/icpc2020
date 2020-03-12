@@ -1,0 +1,149 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 401.433510065079,
+  "n_files"            : 7498,
+  "n_lines"            : 2103852,
+  "files_per_second"   : 18.6780620252267,
+  "lines_per_second"   : 5240.84797918074,
+  "report_file"        : "loc/hashicorp__vault.json"},
+"Go" :{
+  "nFiles": 4954,
+  "blank": 195895,
+  "comment": 341634,
+  "code": 1302527},
+"Markdown" :{
+  "nFiles": 668,
+  "blank": 23052,
+  "comment": 0,
+  "code": 72341},
+"JSON" :{
+  "nFiles": 24,
+  "blank": 7,
+  "comment": 0,
+  "code": 61074},
+"JavaScript" :{
+  "nFiles": 929,
+  "blank": 4093,
+  "comment": 2673,
+  "code": 34795},
+"Handlebars" :{
+  "nFiles": 359,
+  "blank": 128,
+  "comment": 9,
+  "code": 13824},
+"Assembly" :{
+  "nFiles": 60,
+  "blank": 1359,
+  "comment": 1969,
+  "code": 11126},
+"ERB" :{
+  "nFiles": 35,
+  "blank": 1682,
+  "comment": 0,
+  "code": 7336},
+"Sass" :{
+  "nFiles": 77,
+  "blank": 554,
+  "comment": 36,
+  "code": 3970},
+"Protocol Buffers" :{
+  "nFiles": 45,
+  "blank": 1246,
+  "comment": 2840,
+  "code": 3509},
+"YAML" :{
+  "nFiles": 112,
+  "blank": 557,
+  "comment": 2171,
+  "code": 2524},
+"SVG" :{
+  "nFiles": 81,
+  "blank": 0,
+  "comment": 0,
+  "code": 2315},
+"Bourne Shell" :{
+  "nFiles": 40,
+  "blank": 315,
+  "comment": 477,
+  "code": 1774},
+"make" :{
+  "nFiles": 42,
+  "blank": 385,
+  "comment": 267,
+  "code": 1391},
+"HCL" :{
+  "nFiles": 25,
+  "blank": 115,
+  "comment": 28,
+  "code": 600},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 104,
+  "comment": 26,
+  "code": 501},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 79,
+  "comment": 105,
+  "code": 478},
+"C" :{
+  "nFiles": 5,
+  "blank": 51,
+  "comment": 41,
+  "code": 285},
+"Python" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 19,
+  "code": 191},
+"TOML" :{
+  "nFiles": 8,
+  "blank": 64,
+  "comment": 133,
+  "code": 171},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 43,
+  "code": 164},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 26,
+  "code": 146},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 1,
+  "code": 107},
+"diff" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 27,
+  "code": 100},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 22,
+  "code": 83},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 9,
+  "code": 66},
+"builder" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 31},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 229857,
+  "comment": 352556,
+  "code": 1521439,
+  "nFiles": 7498} }

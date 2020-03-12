@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.79426789283752,
+  "n_files"            : 11,
+  "n_lines"            : 124,
+  "files_per_second"   : 2.29440662179801,
+  "lines_per_second"   : 25.8642201002685,
+  "report_file"        : "loc/microsoft__wcf-docker.json"},
+"Dockerfile" :{
+  "nFiles": 10,
+  "blank": 30,
+  "comment": 20,
+  "code": 70},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 31,
+  "comment": 20,
+  "code": 73,
+  "nFiles": 11} }

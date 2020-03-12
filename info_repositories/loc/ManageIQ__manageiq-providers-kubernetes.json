@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.5882620811462,
+  "n_files"            : 145,
+  "n_lines"            : 57490,
+  "files_per_second"   : 5.07201170845661,
+  "lines_per_second"   : 2010.96519392532,
+  "report_file"        : "loc/ManageIQ__manageiq-providers-kubernetes.json"},
+"XML" :{
+  "nFiles": 2,
+  "blank": 253,
+  "comment": 258,
+  "code": 32357},
+"YAML" :{
+  "nFiles": 42,
+  "blank": 75,
+  "comment": 7,
+  "code": 13311},
+"Ruby" :{
+  "nFiles": 96,
+  "blank": 1332,
+  "comment": 528,
+  "code": 8925},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 286},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 0,
+  "code": 127},
+"SUM": {
+  "blank": 1691,
+  "comment": 793,
+  "code": 55006,
+  "nFiles": 145} }

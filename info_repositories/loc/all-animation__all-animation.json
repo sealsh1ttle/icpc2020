@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.6660079956055,
+  "n_files"            : 56,
+  "n_lines"            : 8024,
+  "files_per_second"   : 4.42128253980492,
+  "lines_per_second"   : 633.506626774905,
+  "report_file"        : "loc/all-animation__all-animation.json"},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 13,
+  "code": 5248},
+"Stylus" :{
+  "nFiles": 46,
+  "blank": 206,
+  "comment": 52,
+  "code": 2140},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 81,
+  "comment": 0,
+  "code": 217},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 14},
+"SUM": {
+  "blank": 290,
+  "comment": 66,
+  "code": 7668,
+  "nFiles": 56} }

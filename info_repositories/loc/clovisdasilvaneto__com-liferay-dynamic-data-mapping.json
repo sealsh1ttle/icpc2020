@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 68.4845230579376,
+  "n_files"            : 1746,
+  "n_lines"            : 548528,
+  "files_per_second"   : 25.4948114119579,
+  "lines_per_second"   : 8009.51770571502,
+  "report_file"        : "loc/clovisdasilvaneto__com-liferay-dynamic-data-mapping.json"},
+"Java" :{
+  "nFiles": 1193,
+  "blank": 60113,
+  "comment": 82421,
+  "code": 192112},
+"JSON" :{
+  "nFiles": 117,
+  "blank": 11,
+  "comment": 0,
+  "code": 167228},
+"JavaScript" :{
+  "nFiles": 149,
+  "blank": 7076,
+  "comment": 132,
+  "code": 21207},
+"JSP" :{
+  "nFiles": 90,
+  "blank": 1553,
+  "comment": 1357,
+  "code": 5610},
+"XML" :{
+  "nFiles": 21,
+  "blank": 176,
+  "comment": 78,
+  "code": 2438},
+"Sass" :{
+  "nFiles": 20,
+  "blank": 498,
+  "comment": 0,
+  "code": 2175},
+"Freemarker Template" :{
+  "nFiles": 38,
+  "blank": 247,
+  "comment": 18,
+  "code": 1096},
+"Gradle" :{
+  "nFiles": 42,
+  "blank": 103,
+  "comment": 0,
+  "code": 853},
+"XSD" :{
+  "nFiles": 62,
+  "blank": 62,
+  "comment": 0,
+  "code": 693},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 52,
+  "comment": 0,
+  "code": 481},
+"ANTLR Grammar" :{
+  "nFiles": 2,
+  "blank": 80,
+  "comment": 26,
+  "code": 300},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Velocity Template Language" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 7,
+  "code": 35},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 19},
+"SUM": {
+  "blank": 70026,
+  "comment": 84067,
+  "code": 394435,
+  "nFiles": 1746} }

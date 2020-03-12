@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.4608061313629,
+  "n_files"            : 48,
+  "n_lines"            : 3915,
+  "files_per_second"   : 2.9160175763534,
+  "lines_per_second"   : 237.837683571324,
+  "report_file"        : "loc/suissa__Curso-JavaScript-Super-Sayajin.json"},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 1175,
+  "comment": 0,
+  "code": 1933},
+"JavaScript" :{
+  "nFiles": 39,
+  "blank": 250,
+  "comment": 125,
+  "code": 432},
+"SUM": {
+  "blank": 1425,
+  "comment": 125,
+  "code": 2365,
+  "nFiles": 48} }

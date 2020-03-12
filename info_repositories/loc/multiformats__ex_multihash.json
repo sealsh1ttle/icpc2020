@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.148221969604492,
+  "n_files"            : 10,
+  "n_lines"            : 539,
+  "files_per_second"   : 67.4663818507032,
+  "lines_per_second"   : 3636.43798175291,
+  "report_file"        : "loc/multiformats__ex_multihash.json"},
+"Elixir" :{
+  "nFiles": 7,
+  "blank": 76,
+  "comment": 140,
+  "code": 172},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 0,
+  "code": 96},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 118,
+  "comment": 140,
+  "code": 281,
+  "nFiles": 10} }

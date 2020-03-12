@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.935909986495972,
+  "n_files"            : 7,
+  "n_lines"            : 184,
+  "files_per_second"   : 7.47935175497791,
+  "lines_per_second"   : 196.600103273705,
+  "report_file"        : "loc/learn-co-curriculum__for-each-lab.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 0,
+  "code": 50},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 4,
+  "code": 40},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 18},
+"SUM": {
+  "blank": 34,
+  "comment": 7,
+  "code": 143,
+  "nFiles": 7} }

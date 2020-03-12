@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.02026891708374,
+  "n_files"            : 141,
+  "n_lines"            : 13154,
+  "files_per_second"   : 69.7926888879395,
+  "lines_per_second"   : 6511.01439455288,
+  "report_file"        : "loc/Lemoncode__react-by-sample.json"},
+"Markdown" :{
+  "nFiles": 48,
+  "blank": 2314,
+  "comment": 0,
+  "code": 7811},
+"TypeScript" :{
+  "nFiles": 71,
+  "blank": 330,
+  "comment": 35,
+  "code": 1781},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 12,
+  "comment": 7,
+  "code": 382},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 366},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 52},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 4,
+  "code": 52},
+"SUM": {
+  "blank": 2664,
+  "comment": 46,
+  "code": 10444,
+  "nFiles": 141} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.3889470100403,
+  "n_files"            : 41,
+  "n_lines"            : 3212,
+  "files_per_second"   : 2.50168604333655,
+  "lines_per_second"   : 195.985745638951,
+  "report_file"        : "loc/apiaryio__spf-tools.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 1086},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 179,
+  "comment": 394,
+  "code": 868},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 111,
+  "comment": 0,
+  "code": 249},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 29,
+  "comment": 2,
+  "code": 208},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 1,
+  "code": 57},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 328,
+  "comment": 397,
+  "code": 2487,
+  "nFiles": 41} }

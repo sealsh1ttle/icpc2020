@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.84662389755249,
+  "n_files"            : 266,
+  "n_lines"            : 21545,
+  "files_per_second"   : 144.046657444732,
+  "lines_per_second"   : 11667.2377242359,
+  "report_file"        : "loc/xdoo__vaadin-demo.json"},
+"Java" :{
+  "nFiles": 230,
+  "blank": 3180,
+  "comment": 4170,
+  "code": 11073},
+"Maven" :{
+  "nFiles": 10,
+  "blank": 67,
+  "comment": 24,
+  "code": 1007},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 137,
+  "comment": 219,
+  "code": 973},
+"SQL" :{
+  "nFiles": 5,
+  "blank": 87,
+  "comment": 30,
+  "code": 327},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 130},
+"Freemarker Template" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 38},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 10,
+  "code": 21},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 6},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3508,
+  "comment": 4456,
+  "code": 13581,
+  "nFiles": 266} }

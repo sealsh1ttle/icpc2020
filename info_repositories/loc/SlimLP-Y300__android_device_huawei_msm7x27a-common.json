@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.95010209083557,
+  "n_files"            : 101,
+  "n_lines"            : 47464,
+  "files_per_second"   : 25.5689594034354,
+  "lines_per_second"   : 12015.8919715313,
+  "report_file"        : "loc/SlimLP-Y300__android_device_huawei_msm7x27a-common.json"},
+"C++" :{
+  "nFiles": 17,
+  "blank": 2880,
+  "comment": 1947,
+  "code": 20837},
+"C" :{
+  "nFiles": 17,
+  "blank": 887,
+  "comment": 762,
+  "code": 7764},
+"C/C++ Header" :{
+  "nFiles": 23,
+  "blank": 838,
+  "comment": 1562,
+  "code": 5049},
+"diff" :{
+  "nFiles": 17,
+  "blank": 138,
+  "comment": 487,
+  "code": 1535},
+"make" :{
+  "nFiles": 9,
+  "blank": 181,
+  "comment": 151,
+  "code": 694},
+"Windows Resource File" :{
+  "nFiles": 4,
+  "blank": 117,
+  "comment": 0,
+  "code": 597},
+"XML" :{
+  "nFiles": 9,
+  "blank": 87,
+  "comment": 312,
+  "code": 449},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 33,
+  "code": 91},
+"Java" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 15,
+  "code": 26},
+"SUM": {
+  "blank": 5153,
+  "comment": 5269,
+  "code": 37042,
+  "nFiles": 101} }

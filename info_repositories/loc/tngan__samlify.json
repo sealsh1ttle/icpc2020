@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.6611409187317,
+  "n_files"            : 85,
+  "n_lines"            : 7099,
+  "files_per_second"   : 2.86570230838021,
+  "lines_per_second"   : 239.336713966954,
+  "report_file"        : "loc/tngan__samlify.json"},
+"TypeScript" :{
+  "nFiles": 24,
+  "blank": 381,
+  "comment": 1712,
+  "code": 2735},
+"Markdown" :{
+  "nFiles": 27,
+  "blank": 372,
+  "comment": 0,
+  "code": 1329},
+"XML" :{
+  "nFiles": 26,
+  "blank": 1,
+  "comment": 0,
+  "code": 336},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 130},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 22},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 769,
+  "comment": 1712,
+  "code": 4618,
+  "nFiles": 85} }

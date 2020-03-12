@@ -1,0 +1,169 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4331.78543019295,
+  "n_files"            : 13428,
+  "n_lines"            : 3180916,
+  "files_per_second"   : 3.09987653275843,
+  "lines_per_second"   : 734.319843690484,
+  "report_file"        : "loc/runtimejs__runtime.json"},
+"C++" :{
+  "nFiles": 5572,
+  "blank": 175198,
+  "comment": 150478,
+  "code": 1398404},
+"JavaScript" :{
+  "nFiles": 3957,
+  "blank": 53413,
+  "comment": 94507,
+  "code": 481769},
+"C/C++ Header" :{
+  "nFiles": 1340,
+  "blank": 60265,
+  "comment": 54123,
+  "code": 243853},
+"C" :{
+  "nFiles": 1758,
+  "blank": 45868,
+  "comment": 85778,
+  "code": 181324},
+"Bourne Shell" :{
+  "nFiles": 69,
+  "blank": 4965,
+  "comment": 5694,
+  "code": 29813},
+"Python" :{
+  "nFiles": 169,
+  "blank": 4703,
+  "comment": 6851,
+  "code": 26418},
+"MSBuild script" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 20278},
+"m4" :{
+  "nFiles": 14,
+  "blank": 1109,
+  "comment": 116,
+  "code": 10474},
+"Assembly" :{
+  "nFiles": 250,
+  "blank": 462,
+  "comment": 568,
+  "code": 9872},
+"HTML" :{
+  "nFiles": 21,
+  "blank": 571,
+  "comment": 150,
+  "code": 6679},
+"XML" :{
+  "nFiles": 40,
+  "blank": 110,
+  "comment": 13,
+  "code": 5815},
+"Bourne Again Shell" :{
+  "nFiles": 13,
+  "blank": 942,
+  "comment": 858,
+  "code": 3730},
+"yacc" :{
+  "nFiles": 3,
+  "blank": 514,
+  "comment": 666,
+  "code": 3184},
+"make" :{
+  "nFiles": 95,
+  "blank": 473,
+  "comment": 458,
+  "code": 2675},
+"Expect" :{
+  "nFiles": 51,
+  "blank": 14,
+  "comment": 24,
+  "code": 1304},
+"lex" :{
+  "nFiles": 4,
+  "blank": 357,
+  "comment": 766,
+  "code": 928},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 638},
+"CMake" :{
+  "nFiles": 11,
+  "blank": 100,
+  "comment": 85,
+  "code": 585},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 106,
+  "comment": 35,
+  "code": 537},
+"Windows Module Definition" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 531},
+"Lua" :{
+  "nFiles": 2,
+  "blank": 78,
+  "comment": 90,
+  "code": 346},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 109,
+  "comment": 0,
+  "code": 231},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 51,
+  "code": 222},
+"DOS Batch" :{
+  "nFiles": 9,
+  "blank": 25,
+  "comment": 7,
+  "code": 171},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 2,
+  "code": 87},
+"R" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 22,
+  "code": 79},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 24,
+  "code": 75},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 19},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 11,
+  "code": 9},
+"sed" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 9},
+"SUM": {
+  "blank": 349463,
+  "comment": 401383,
+  "code": 2430070,
+  "nFiles": 13428} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 186.872269868851,
+  "n_files"            : 1045,
+  "n_lines"            : 587458,
+  "files_per_second"   : 5.59205494070037,
+  "lines_per_second"   : 3143.63388646312,
+  "report_file"        : "loc/Wattpad__kube-sqs-autoscaler.json"},
+"Go" :{
+  "nFiles": 967,
+  "blank": 33181,
+  "comment": 44154,
+  "code": 496537},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 932,
+  "comment": 0,
+  "code": 2774},
+"Protocol Buffers" :{
+  "nFiles": 23,
+  "blank": 1415,
+  "comment": 3134,
+  "code": 2479},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 2111},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 42,
+  "comment": 48,
+  "code": 245},
+"Python" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 12,
+  "code": 95},
+"make" :{
+  "nFiles": 6,
+  "blank": 31,
+  "comment": 65,
+  "code": 72},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 9,
+  "code": 37},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 6,
+  "code": 29},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 35641,
+  "comment": 47428,
+  "code": 504389,
+  "nFiles": 1045} }

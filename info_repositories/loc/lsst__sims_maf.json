@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 40.7173578739166,
+  "n_files"            : 221,
+  "n_lines"            : 42008,
+  "files_per_second"   : 5.42766062288073,
+  "lines_per_second"   : 1031.69759025328,
+  "report_file"        : "loc/lsst__sims_maf.json"},
+"Python" :{
+  "nFiles": 184,
+  "blank": 4319,
+  "comment": 9056,
+  "code": 25131},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 165,
+  "comment": 0,
+  "code": 901},
+"reStructuredText" :{
+  "nFiles": 20,
+  "blank": 394,
+  "comment": 492,
+  "code": 645},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 50,
+  "comment": 107,
+  "code": 339},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 42,
+  "code": 120},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 8},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 5003,
+  "comment": 9703,
+  "code": 27302,
+  "nFiles": 221} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.50090098381042,
+  "n_files"            : 232,
+  "n_lines"            : 25763,
+  "files_per_second"   : 92.7665675298028,
+  "lines_per_second"   : 10301.4874106479,
+  "report_file"        : "loc/qunitjs__qunit.json"},
+"JavaScript" :{
+  "nFiles": 119,
+  "blank": 2358,
+  "comment": 1102,
+  "code": 11497},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 4955},
+"Markdown" :{
+  "nFiles": 52,
+  "blank": 850,
+  "comment": 0,
+  "code": 3194},
+"HTML" :{
+  "nFiles": 44,
+  "blank": 41,
+  "comment": 12,
+  "code": 830},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 148,
+  "comment": 42,
+  "code": 628},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 23,
+  "code": 47},
+"XHTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 3405,
+  "comment": 1179,
+  "code": 21179,
+  "nFiles": 232} }

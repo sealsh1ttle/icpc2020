@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 419.413264989853,
+  "n_files"            : 659,
+  "n_lines"            : 132305,
+  "files_per_second"   : 1.57124262632929,
+  "lines_per_second"   : 315.452588279965,
+  "report_file"        : "loc/Holocracy__Mixed-Reality-Hangout.json"},
+"C#" :{
+  "nFiles": 460,
+  "blank": 11531,
+  "comment": 16773,
+  "code": 50594},
+"Unity-Prefab" :{
+  "nFiles": 132,
+  "blank": 6,
+  "comment": 0,
+  "code": 30935},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14589},
+"HLSL" :{
+  "nFiles": 35,
+  "blank": 585,
+  "comment": 248,
+  "code": 2634},
+"XML" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 0,
+  "code": 2053},
+"Markdown" :{
+  "nFiles": 27,
+  "blank": 727,
+  "comment": 0,
+  "code": 1578},
+"SUM": {
+  "blank": 12901,
+  "comment": 17021,
+  "code": 102383,
+  "nFiles": 659} }

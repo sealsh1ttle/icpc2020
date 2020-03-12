@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 84.1652979850769,
+  "n_files"            : 192,
+  "n_lines"            : 3334636,
+  "files_per_second"   : 2.28122521510044,
+  "lines_per_second"   : 39620.0819082379,
+  "report_file"        : "loc/OpenUpSA__censusreporter.json"},
+"SQL" :{
+  "nFiles": 41,
+  "blank": 3325,
+  "comment": 3114,
+  "code": 3280932},
+"JavaScript" :{
+  "nFiles": 28,
+  "blank": 1617,
+  "comment": 15894,
+  "code": 8601},
+"Python" :{
+  "nFiles": 51,
+  "blank": 1392,
+  "comment": 914,
+  "code": 6460},
+"HTML" :{
+  "nFiles": 56,
+  "blank": 482,
+  "comment": 49,
+  "code": 5158},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 366,
+  "comment": 297,
+  "code": 4697},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 512},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 252},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 127,
+  "comment": 0,
+  "code": 233},
+"INI" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 168},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 10},
+"SUM": {
+  "blank": 7343,
+  "comment": 20270,
+  "code": 3307023,
+  "nFiles": 192} }

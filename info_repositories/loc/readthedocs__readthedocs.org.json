@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.396518945694,
+  "n_files"            : 1280,
+  "n_lines"            : 308444,
+  "files_per_second"   : 95.5472093301842,
+  "lines_per_second"   : 23024.190183312,
+  "report_file"        : "loc/readthedocs__readthedocs.org.json"},
+"PO File" :{
+  "nFiles": 535,
+  "blank": 36193,
+  "comment": 42794,
+  "code": 122852},
+"Python" :{
+  "nFiles": 394,
+  "blank": 10282,
+  "comment": 7028,
+  "code": 47016},
+"JavaScript" :{
+  "nFiles": 42,
+  "blank": 2121,
+  "comment": 1916,
+  "code": 9758},
+"reStructuredText" :{
+  "nFiles": 100,
+  "blank": 3670,
+  "comment": 2137,
+  "code": 8029},
+"HTML" :{
+  "nFiles": 122,
+  "blank": 1007,
+  "comment": 90,
+  "code": 5159},
+"SVG" :{
+  "nFiles": 20,
+  "blank": 2,
+  "comment": 1,
+  "code": 2861},
+"JSON" :{
+  "nFiles": 30,
+  "blank": 0,
+  "comment": 0,
+  "code": 2315},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 300,
+  "comment": 112,
+  "code": 1637},
+"make" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 11,
+  "code": 255},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 54,
+  "comment": 97,
+  "code": 195},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 1,
+  "code": 148},
+"LESS" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 0,
+  "code": 130},
+"INI" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 80},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 26},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 11},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 8},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 53752,
+  "comment": 54187,
+  "code": 200505,
+  "nFiles": 1280} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.499368906021118,
+  "n_files"            : 4,
+  "n_lines"            : 65,
+  "files_per_second"   : 8.01011026471648,
+  "lines_per_second"   : 130.164291801643,
+  "report_file"        : "loc/rolandcrosby__gif.json"},
+"Python" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 44},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 10,
+  "comment": 0,
+  "code": 55,
+  "nFiles": 4} }

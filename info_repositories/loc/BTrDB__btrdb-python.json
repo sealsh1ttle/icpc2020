@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.501240015029907,
+  "n_files"            : 56,
+  "n_lines"            : 13610,
+  "files_per_second"   : 111.722923790629,
+  "lines_per_second"   : 27152.6605855439,
+  "report_file"        : "loc/BTrDB__btrdb-python.json"},
+"Python" :{
+  "nFiles": 29,
+  "blank": 1516,
+  "comment": 2492,
+  "code": 6533},
+"reStructuredText" :{
+  "nFiles": 21,
+  "blank": 494,
+  "comment": 589,
+  "code": 1216},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 311},
+"make" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 15,
+  "code": 235},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 0,
+  "code": 82},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 2112,
+  "comment": 3097,
+  "code": 8401,
+  "nFiles": 56} }

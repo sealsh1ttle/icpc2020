@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.280773878097534,
+  "n_files"            : 39,
+  "n_lines"            : 9713,
+  "files_per_second"   : 138.901810468466,
+  "lines_per_second"   : 34593.6739764158,
+  "report_file"        : "loc/poooi__plugin-prophet.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 4,
+  "comment": 0,
+  "code": 8442},
+"SVG" :{
+  "nFiles": 24,
+  "blank": 4,
+  "comment": 22,
+  "code": 902},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 27,
+  "code": 220},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 51},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 28,
+  "comment": 49,
+  "code": 9636,
+  "nFiles": 39} }

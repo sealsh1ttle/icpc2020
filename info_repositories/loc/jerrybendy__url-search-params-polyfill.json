@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.629011869430542,
+  "n_files"            : 6,
+  "n_lines"            : 1030,
+  "files_per_second"   : 9.53877071577668,
+  "lines_per_second"   : 1637.488972875,
+  "report_file"        : "loc/jerrybendy__url-search-params-polyfill.json"},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 144,
+  "comment": 169,
+  "code": 511},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 61,
+  "comment": 0,
+  "code": 119},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 205,
+  "comment": 169,
+  "code": 656,
+  "nFiles": 6} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.4704968929291,
+  "n_files"            : 24,
+  "n_lines"            : 2217,
+  "files_per_second"   : 2.29215482755242,
+  "lines_per_second"   : 211.737802195155,
+  "report_file"        : "loc/atom__status-bar.json"},
+"CoffeeScript" :{
+  "nFiles": 11,
+  "blank": 314,
+  "comment": 12,
+  "code": 1263},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 293},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 51,
+  "comment": 0,
+  "code": 100},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 10,
+  "code": 89},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 4,
+  "code": 37},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 397,
+  "comment": 26,
+  "code": 1794,
+  "nFiles": 24} }

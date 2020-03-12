@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.11402010917664,
+  "n_files"            : 242,
+  "n_lines"            : 41870,
+  "files_per_second"   : 77.7130498569536,
+  "lines_per_second"   : 13445.6421384737,
+  "report_file"        : "loc/progressonderwijs__ProgressOnderwijsUtils.json"},
+"C#" :{
+  "nFiles": 224,
+  "blank": 3019,
+  "comment": 1686,
+  "code": 35520},
+"XSD" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 869},
+"MSBuild script" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 21,
+  "code": 407},
+"XML" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 49,
+  "code": 141},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 6,
+  "code": 90},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3058,
+  "comment": 1762,
+  "code": 37050,
+  "nFiles": 242} }

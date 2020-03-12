@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.40488886833191,
+  "n_files"            : 15,
+  "n_lines"            : 10467,
+  "files_per_second"   : 6.23729445361206,
+  "lines_per_second"   : 4352.38406973049,
+  "report_file"        : "loc/enkidevs__eslint-configs.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 10310},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 149},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2,
+  "comment": 0,
+  "code": 10465,
+  "nFiles": 15} }

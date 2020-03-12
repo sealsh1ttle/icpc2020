@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.42903995513916,
+  "n_files"            : 414,
+  "n_lines"            : 46569,
+  "files_per_second"   : 76.2565763783163,
+  "lines_per_second"   : 8577.75967478698,
+  "report_file"        : "loc/mautic__documentation.json"},
+"JavaScript" :{
+  "nFiles": 74,
+  "blank": 3974,
+  "comment": 10310,
+  "code": 17360},
+"Markdown" :{
+  "nFiles": 261,
+  "blank": 4256,
+  "comment": 0,
+  "code": 7073},
+"LESS" :{
+  "nFiles": 24,
+  "blank": 322,
+  "comment": 256,
+  "code": 1401},
+"JSON" :{
+  "nFiles": 32,
+  "blank": 0,
+  "comment": 0,
+  "code": 560},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 514},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 32,
+  "comment": 2,
+  "code": 332},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 13,
+  "comment": 9,
+  "code": 116},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 10,
+  "code": 24},
+"SUM": {
+  "blank": 8602,
+  "comment": 10587,
+  "code": 27380,
+  "nFiles": 414} }

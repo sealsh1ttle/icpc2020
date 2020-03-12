@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.05002808570862,
+  "n_files"            : 177,
+  "n_lines"            : 11151,
+  "files_per_second"   : 168.566919693915,
+  "lines_per_second"   : 10619.7159407166,
+  "report_file"        : "loc/simian-ci__simian-ci.github.io.json"},
+"Sass" :{
+  "nFiles": 112,
+  "blank": 1345,
+  "comment": 1287,
+  "code": 5330},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 12,
+  "code": 1658},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 95,
+  "comment": 19,
+  "code": 775},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 38,
+  "code": 276},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 13,
+  "comment": 4,
+  "code": 90},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 0,
+  "code": 48},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 7,
+  "code": 12},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 13,
+  "code": 1},
+"SUM": {
+  "blank": 1540,
+  "comment": 1380,
+  "code": 8231,
+  "nFiles": 177} }

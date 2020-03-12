@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.2049880027771,
+  "n_files"            : 1765,
+  "n_lines"            : 275549,
+  "files_per_second"   : 102.586528959806,
+  "lines_per_second"   : 16015.6461577028,
+  "report_file"        : "loc/antlr__antlr4.json"},
+"Java" :{
+  "nFiles": 696,
+  "blank": 11735,
+  "comment": 21522,
+  "code": 60488},
+"Python" :{
+  "nFiles": 122,
+  "blank": 5409,
+  "comment": 8242,
+  "code": 21320},
+"C#" :{
+  "nFiles": 195,
+  "blank": 2919,
+  "comment": 11009,
+  "code": 20555},
+"Swift" :{
+  "nFiles": 161,
+  "blank": 3468,
+  "comment": 9312,
+  "code": 12681},
+"C++" :{
+  "nFiles": 151,
+  "blank": 2862,
+  "comment": 1401,
+  "code": 11556},
+"ANTLR Grammar" :{
+  "nFiles": 36,
+  "blank": 1188,
+  "comment": 1534,
+  "code": 9608},
+"Go" :{
+  "nFiles": 50,
+  "blank": 2317,
+  "comment": 3069,
+  "code": 8955},
+"JavaScript" :{
+  "nFiles": 50,
+  "blank": 1185,
+  "comment": 3607,
+  "code": 8703},
+"XML" :{
+  "nFiles": 20,
+  "blank": 30,
+  "comment": 67,
+  "code": 5019},
+"Markdown" :{
+  "nFiles": 55,
+  "blank": 1680,
+  "comment": 0,
+  "code": 4852},
+"C/C++ Header" :{
+  "nFiles": 158,
+  "blank": 2210,
+  "comment": 7084,
+  "code": 4642},
+"Maven" :{
+  "nFiles": 12,
+  "blank": 44,
+  "comment": 78,
+  "code": 1046},
+"C" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 775},
+"CMake" :{
+  "nFiles": 7,
+  "blank": 130,
+  "comment": 58,
+  "code": 674},
+"MSBuild script" :{
+  "nFiles": 6,
+  "blank": 2,
+  "comment": 0,
+  "code": 646},
+"Objective C++" :{
+  "nFiles": 3,
+  "blank": 89,
+  "comment": 119,
+  "code": 409},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 231},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 86,
+  "comment": 77,
+  "code": 187},
+"PowerShell" :{
+  "nFiles": 5,
+  "blank": 34,
+  "comment": 10,
+  "code": 173},
+"Velocity Template Language" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 0,
+  "code": 122},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 92},
+"Smalltalk" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 53},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 6,
+  "code": 53},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 5,
+  "code": 52},
+"SUM": {
+  "blank": 35457,
+  "comment": 67200,
+  "code": 172892,
+  "nFiles": 1765} }

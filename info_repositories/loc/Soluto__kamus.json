@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.1261510848999,
+  "n_files"            : 195,
+  "n_lines"            : 8115,
+  "files_per_second"   : 173.156162272252,
+  "lines_per_second"   : 7205.96029148371,
+  "report_file"        : "loc/Soluto__kamus.json"},
+"C#" :{
+  "nFiles": 54,
+  "blank": 507,
+  "comment": 26,
+  "code": 2687},
+"Markdown" :{
+  "nFiles": 44,
+  "blank": 370,
+  "comment": 0,
+  "code": 1402},
+"YAML" :{
+  "nFiles": 21,
+  "blank": 36,
+  "comment": 16,
+  "code": 777},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 91,
+  "comment": 19,
+  "code": 536},
+"JSON" :{
+  "nFiles": 28,
+  "blank": 0,
+  "comment": 0,
+  "code": 518},
+"MSBuild script" :{
+  "nFiles": 9,
+  "blank": 20,
+  "comment": 0,
+  "code": 241},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 88,
+  "comment": 4,
+  "code": 228},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 10,
+  "code": 189},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 2,
+  "comment": 2,
+  "code": 72},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 71},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 8,
+  "code": 57},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 34},
+"EJS" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1166,
+  "comment": 93,
+  "code": 6856,
+  "nFiles": 195} }

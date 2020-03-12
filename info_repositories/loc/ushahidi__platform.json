@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.28736305236816,
+  "n_files"            : 1099,
+  "n_lines"            : 82908,
+  "files_per_second"   : 118.332835036504,
+  "lines_per_second"   : 8926.96877816782,
+  "report_file"        : "loc/ushahidi__platform.json"},
+"PHP" :{
+  "nFiles": 930,
+  "blank": 8529,
+  "comment": 14823,
+  "code": 36491},
+"Markdown" :{
+  "nFiles": 87,
+  "blank": 2535,
+  "comment": 0,
+  "code": 7608},
+"Cucumber" :{
+  "nFiles": 52,
+  "blank": 500,
+  "comment": 119,
+  "code": 7122},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 22,
+  "comment": 25,
+  "code": 2599},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 116,
+  "code": 1416},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 454},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 8,
+  "code": 213},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 13,
+  "code": 152},
+"XML" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 2,
+  "code": 68},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 11664,
+  "comment": 15106,
+  "code": 56138,
+  "nFiles": 1099} }

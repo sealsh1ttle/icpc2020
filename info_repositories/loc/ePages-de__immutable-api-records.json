@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.1576380729675,
+  "n_files"            : 47,
+  "n_lines"            : 8055,
+  "files_per_second"   : 3.57206967841454,
+  "lines_per_second"   : 612.191941694236,
+  "report_file"        : "loc/ePages-de__immutable-api-records.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5723},
+"JavaScript" :{
+  "nFiles": 44,
+  "blank": 368,
+  "comment": 7,
+  "code": 1953},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 369,
+  "comment": 7,
+  "code": 7679,
+  "nFiles": 47} }

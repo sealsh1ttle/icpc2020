@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.5929169654846,
+  "n_files"            : 79,
+  "n_lines"            : 2196,
+  "files_per_second"   : 3.49667110805962,
+  "lines_per_second"   : 97.1986044721382,
+  "report_file"        : "loc/lappis-tools__chef-lappis.json"},
+"Ruby" :{
+  "nFiles": 47,
+  "blank": 239,
+  "comment": 83,
+  "code": 976},
+"ERB" :{
+  "nFiles": 19,
+  "blank": 95,
+  "comment": 0,
+  "code": 428},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 37,
+  "comment": 31,
+  "code": 148},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 27,
+  "comment": 3,
+  "code": 119},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 5},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 400,
+  "comment": 118,
+  "code": 1678,
+  "nFiles": 79} }

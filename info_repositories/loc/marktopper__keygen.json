@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.80778002738953,
+  "n_files"            : 25,
+  "n_lines"            : 14978,
+  "files_per_second"   : 5.19990512410657,
+  "lines_per_second"   : 3115.36715795473,
+  "report_file"        : "loc/marktopper__keygen.json"},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 12,
+  "comment": 32,
+  "code": 8689},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 4547},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 174,
+  "comment": 74,
+  "code": 1099},
+"PHP" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 0,
+  "code": 292},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 243,
+  "comment": 106,
+  "code": 14629,
+  "nFiles": 25} }

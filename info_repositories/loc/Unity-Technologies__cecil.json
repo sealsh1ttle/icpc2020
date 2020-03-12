@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.26437592506409,
+  "n_files"            : 261,
+  "n_lines"            : 53630,
+  "files_per_second"   : 35.9287573622778,
+  "lines_per_second"   : 7382.60251854007,
+  "report_file"        : "loc/Unity-Technologies__cecil.json"},
+"C#" :{
+  "nFiles": 237,
+  "blank": 10123,
+  "comment": 3260,
+  "code": 39319},
+"SKILL" :{
+  "nFiles": 8,
+  "blank": 79,
+  "comment": 0,
+  "code": 378},
+"MSBuild script" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 218},
+"XML" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 28,
+  "code": 135},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 35},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 10222,
+  "comment": 3288,
+  "code": 40120,
+  "nFiles": 261} }

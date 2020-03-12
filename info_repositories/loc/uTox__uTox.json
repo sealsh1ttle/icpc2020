@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 90.539036989212,
+  "n_files"            : 318,
+  "n_lines"            : 61684,
+  "files_per_second"   : 3.51229713253843,
+  "lines_per_second"   : 681.297284036165,
+  "report_file"        : "loc/uTox__uTox.json"},
+"C" :{
+  "nFiles": 95,
+  "blank": 5765,
+  "comment": 1665,
+  "code": 25532},
+"C/C++ Header" :{
+  "nFiles": 131,
+  "blank": 5319,
+  "comment": 1895,
+  "code": 12477},
+"Objective C" :{
+  "nFiles": 5,
+  "blank": 589,
+  "comment": 86,
+  "code": 2314},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 318,
+  "comment": 0,
+  "code": 1562},
+"Bourne Shell" :{
+  "nFiles": 38,
+  "blank": 193,
+  "comment": 68,
+  "code": 1077},
+"CMake" :{
+  "nFiles": 21,
+  "blank": 230,
+  "comment": 242,
+  "code": 869},
+"XML" :{
+  "nFiles": 9,
+  "blank": 4,
+  "comment": 5,
+  "code": 670},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 37,
+  "comment": 29,
+  "code": 309},
+"INI" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 137},
+"Python" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 55,
+  "code": 120},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 29},
+"sed" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 11,
+  "code": 10},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 12518,
+  "comment": 4056,
+  "code": 45110,
+  "nFiles": 318} }

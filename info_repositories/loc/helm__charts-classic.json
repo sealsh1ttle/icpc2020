@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.567086935043335,
+  "n_files"            : 120,
+  "n_lines"            : 2079,
+  "files_per_second"   : 211.6077669658,
+  "lines_per_second"   : 3666.10456268249,
+  "report_file"        : "loc/helm__charts-classic.json"},
+"YAML" :{
+  "nFiles": 89,
+  "blank": 14,
+  "comment": 20,
+  "code": 1507},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 3,
+  "code": 190},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 78,
+  "comment": 0,
+  "code": 169},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 1,
+  "code": 30},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 153,
+  "comment": 24,
+  "code": 1902,
+  "nFiles": 120} }

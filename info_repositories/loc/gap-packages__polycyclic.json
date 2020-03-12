@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.605046987533569,
+  "n_files"            : 41,
+  "n_lines"            : 5210,
+  "files_per_second"   : 67.7633321787677,
+  "lines_per_second"   : 8610.90147930195,
+  "report_file"        : "loc/gap-packages__polycyclic.json"},
+"XML" :{
+  "nFiles": 11,
+  "blank": 452,
+  "comment": 41,
+  "code": 2958},
+"ANTLR Grammar" :{
+  "nFiles": 5,
+  "blank": 40,
+  "comment": 1,
+  "code": 306},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 79,
+  "comment": 0,
+  "code": 285},
+"GDScript" :{
+  "nFiles": 16,
+  "blank": 86,
+  "comment": 312,
+  "code": 229},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 53,
+  "code": 154},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 4,
+  "code": 118},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 41},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 2},
+"SUM": {
+  "blank": 704,
+  "comment": 413,
+  "code": 4093,
+  "nFiles": 41} }

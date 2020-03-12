@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.70136713981628,
+  "n_files"            : 39,
+  "n_lines"            : 9553,
+  "files_per_second"   : 4.48205429943776,
+  "lines_per_second"   : 1097.87345442382,
+  "report_file"        : "loc/lefcha__imapfilter.json"},
+"C" :{
+  "nFiles": 20,
+  "blank": 1260,
+  "comment": 558,
+  "code": 4172},
+"Lua" :{
+  "nFiles": 10,
+  "blank": 606,
+  "comment": 120,
+  "code": 2368},
+"C/C++ Header" :{
+  "nFiles": 7,
+  "blank": 85,
+  "comment": 42,
+  "code": 247},
+"make" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 79},
+"SUM": {
+  "blank": 1967,
+  "comment": 720,
+  "code": 6866,
+  "nFiles": 39} }

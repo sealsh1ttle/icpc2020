@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.2506508827209,
+  "n_files"            : 182,
+  "n_lines"            : 100748,
+  "files_per_second"   : 9.97224708146223,
+  "lines_per_second"   : 5520.24147781954,
+  "report_file"        : "loc/JuliaDiffEq__OrdinaryDiffEq.jl.json"},
+"Julia" :{
+  "nFiles": 173,
+  "blank": 7024,
+  "comment": 4784,
+  "code": 88630},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 21,
+  "code": 100},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 76},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 68},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 7056,
+  "comment": 4805,
+  "code": 88887,
+  "nFiles": 182} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.610721111297607,
+  "n_files"            : 94,
+  "n_lines"            : 3327,
+  "files_per_second"   : 153.916408424587,
+  "lines_per_second"   : 5447.65841307021,
+  "report_file"        : "loc/symonk__sylenium.json"},
+"Java" :{
+  "nFiles": 83,
+  "blank": 563,
+  "comment": 103,
+  "code": 1653},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 17,
+  "code": 196},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 60,
+  "code": 195},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 76,
+  "comment": 0,
+  "code": 171},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 129},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 55},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 720,
+  "comment": 180,
+  "code": 2427,
+  "nFiles": 94} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.8281779289246,
+  "n_files"            : 160,
+  "n_lines"            : 9233,
+  "files_per_second"   : 5.74956795262173,
+  "lines_per_second"   : 331.786005665978,
+  "report_file"        : "loc/codez__dry_crud.json"},
+"Ruby" :{
+  "nFiles": 77,
+  "blank": 1262,
+  "comment": 718,
+  "code": 5810},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 89,
+  "comment": 44,
+  "code": 597},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 71,
+  "comment": 0,
+  "code": 295},
+"ERB" :{
+  "nFiles": 33,
+  "blank": 30,
+  "comment": 0,
+  "code": 160},
+"Haml" :{
+  "nFiles": 35,
+  "blank": 28,
+  "comment": 0,
+  "code": 129},
+"SUM": {
+  "blank": 1480,
+  "comment": 762,
+  "code": 6991,
+  "nFiles": 160} }

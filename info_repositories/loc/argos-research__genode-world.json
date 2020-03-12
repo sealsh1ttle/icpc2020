@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.13032698631287,
+  "n_files"            : 264,
+  "n_lines"            : 21581,
+  "files_per_second"   : 123.924637718141,
+  "lines_per_second"   : 10130.3697219515,
+  "report_file"        : "loc/argos-research__genode-world.json"},
+"C++" :{
+  "nFiles": 48,
+  "blank": 1994,
+  "comment": 1287,
+  "code": 6365},
+"C/C++ Header" :{
+  "nFiles": 57,
+  "blank": 1847,
+  "comment": 2204,
+  "code": 4018},
+"make" :{
+  "nFiles": 132,
+  "blank": 379,
+  "comment": 85,
+  "code": 1901},
+"diff" :{
+  "nFiles": 20,
+  "blank": 58,
+  "comment": 331,
+  "code": 324},
+"C" :{
+  "nFiles": 2,
+  "blank": 101,
+  "comment": 82,
+  "code": 265},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 51,
+  "comment": 4,
+  "code": 213},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 12,
+  "code": 57},
+"SWIG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 4432,
+  "comment": 4005,
+  "code": 13144,
+  "nFiles": 264} }

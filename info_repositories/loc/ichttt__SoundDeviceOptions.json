@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.133963108062744,
+  "n_files"            : 17,
+  "n_lines"            : 941,
+  "files_per_second"   : 126.900609024671,
+  "lines_per_second"   : 7024.32194660089,
+  "report_file"        : "loc/ichttt__SoundDeviceOptions.json"},
+"Java" :{
+  "nFiles": 7,
+  "blank": 56,
+  "comment": 121,
+  "code": 307},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 31,
+  "code": 57},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 41},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 16},
+"SUM": {
+  "blank": 119,
+  "comment": 183,
+  "code": 639,
+  "nFiles": 17} }

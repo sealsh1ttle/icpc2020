@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.5459840297699,
+  "n_files"            : 22,
+  "n_lines"            : 5397,
+  "files_per_second"   : 6.20420165891937,
+  "lines_per_second"   : 1522.00347059945,
+  "report_file"        : "loc/ska-sa__katportalclient.json"},
+"Python" :{
+  "nFiles": 16,
+  "blank": 674,
+  "comment": 2013,
+  "code": 2447},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 36},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 11,
+  "code": 29},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 722,
+  "comment": 2029,
+  "code": 2646,
+  "nFiles": 22} }

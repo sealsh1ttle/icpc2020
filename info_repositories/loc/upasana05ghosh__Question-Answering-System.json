@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.117602109909058,
+  "n_files"            : 6,
+  "n_lines"            : 416,
+  "files_per_second"   : 51.019492801956,
+  "lines_per_second"   : 3537.35150093561,
+  "report_file"        : "loc/upasana05ghosh__Question-Answering-System.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 22,
+  "code": 161},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 99},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 0,
+  "code": 60},
+"SUM": {
+  "blank": 74,
+  "comment": 22,
+  "code": 320,
+  "nFiles": 6} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.09755611419678,
+  "n_files"            : 368,
+  "n_lines"            : 47650,
+  "files_per_second"   : 89.8096303611298,
+  "lines_per_second"   : 11628.8828443148,
+  "report_file"        : "loc/Dart-Code__Dart-Code.json"},
+"TypeScript" :{
+  "nFiles": 222,
+  "blank": 4498,
+  "comment": 6935,
+  "code": 23598},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 9989},
+"Dart" :{
+  "nFiles": 49,
+  "blank": 175,
+  "comment": 234,
+  "code": 787},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 91,
+  "comment": 47,
+  "code": 539},
+"SVG" :{
+  "nFiles": 61,
+  "blank": 4,
+  "comment": 1,
+  "code": 387},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 59,
+  "comment": 0,
+  "code": 154},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 26,
+  "code": 94},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 4849,
+  "comment": 7243,
+  "code": 35558,
+  "nFiles": 368} }

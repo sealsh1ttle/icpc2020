@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.211410045623779,
+  "n_files"            : 34,
+  "n_lines"            : 4907,
+  "files_per_second"   : 160.82490261842,
+  "lines_per_second"   : 23210.8175631937,
+  "report_file"        : "loc/darktrojan__openwith.json"},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 2273},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 88,
+  "comment": 10,
+  "code": 1141},
+"Python" :{
+  "nFiles": 4,
+  "blank": 85,
+  "comment": 18,
+  "code": 421},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 380},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 228},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 7,
+  "code": 132},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 38},
+"SUM": {
+  "blank": 208,
+  "comment": 36,
+  "code": 4663,
+  "nFiles": 34} }

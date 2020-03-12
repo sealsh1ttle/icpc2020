@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 209.950690031052,
+  "n_files"            : 885,
+  "n_lines"            : 114786,
+  "files_per_second"   : 4.21527550049542,
+  "lines_per_second"   : 546.728376949003,
+  "report_file"        : "loc/fossasia__open-event-server.json"},
+"Python" :{
+  "nFiles": 768,
+  "blank": 8833,
+  "comment": 9630,
+  "code": 31578},
+"PO File" :{
+  "nFiles": 14,
+  "blank": 12352,
+  "comment": 21653,
+  "code": 24615},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 778,
+  "comment": 0,
+  "code": 1903},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 75,
+  "comment": 2,
+  "code": 979},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 16,
+  "code": 756},
+"YAML" :{
+  "nFiles": 41,
+  "blank": 32,
+  "comment": 28,
+  "code": 753},
+"Bourne Shell" :{
+  "nFiles": 18,
+  "blank": 79,
+  "comment": 65,
+  "code": 440},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 18,
+  "code": 55},
+"INI" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 45},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 22195,
+  "comment": 31412,
+  "code": 61179,
+  "nFiles": 885} }

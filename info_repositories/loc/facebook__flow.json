@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3151.49264717102,
+  "n_files"            : 9047,
+  "n_lines"            : 762538,
+  "files_per_second"   : 2.87070319142936,
+  "lines_per_second"   : 241.960900871688,
+  "report_file"        : "loc/facebook__flow.json"},
+"JSON" :{
+  "nFiles": 2283,
+  "blank": 0,
+  "comment": 0,
+  "code": 302383},
+"OCaml" :{
+  "nFiles": 783,
+  "blank": 18245,
+  "comment": 23347,
+  "code": 143461},
+"Expect" :{
+  "nFiles": 532,
+  "blank": 29330,
+  "comment": 0,
+  "code": 91838},
+"JavaScript" :{
+  "nFiles": 4915,
+  "blank": 12387,
+  "comment": 9624,
+  "code": 87555},
+"Markdown" :{
+  "nFiles": 136,
+  "blank": 4095,
+  "comment": 0,
+  "code": 12555},
+"C" :{
+  "nFiles": 26,
+  "blank": 1525,
+  "comment": 2175,
+  "code": 7472},
+"Bourne Shell" :{
+  "nFiles": 186,
+  "blank": 1117,
+  "comment": 561,
+  "code": 4624},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 267,
+  "comment": 98,
+  "code": 1283},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 101,
+  "comment": 95,
+  "code": 1260},
+"HTML" :{
+  "nFiles": 29,
+  "blank": 119,
+  "comment": 1,
+  "code": 989},
+"C/C++ Header" :{
+  "nFiles": 9,
+  "blank": 334,
+  "comment": 1183,
+  "code": 754},
+"make" :{
+  "nFiles": 6,
+  "blank": 115,
+  "comment": 77,
+  "code": 612},
+"Ruby" :{
+  "nFiles": 6,
+  "blank": 90,
+  "comment": 66,
+  "code": 555},
+"liquid" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 0,
+  "code": 399},
+"diff" :{
+  "nFiles": 92,
+  "blank": 0,
+  "comment": 1250,
+  "code": 184},
+"C++" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 6,
+  "code": 92},
+"SVG" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 63},
+"XML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 27,
+  "code": 54},
+"Python" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 35},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 35},
+"JSX" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 3},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 67807,
+  "comment": 38518,
+  "code": 656213,
+  "nFiles": 9047} }

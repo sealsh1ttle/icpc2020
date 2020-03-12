@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.824137926101685,
+  "n_files"            : 1,
+  "n_lines"            : 51,
+  "files_per_second"   : 1.21338912860154,
+  "lines_per_second"   : 61.8828455586783,
+  "report_file"        : "loc/andersfischernielsen__rEFInd-minimal-black.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 16,
+  "comment": 0,
+  "code": 35,
+  "nFiles": 1} }

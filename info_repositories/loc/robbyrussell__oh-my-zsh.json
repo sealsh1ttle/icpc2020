@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 131.263971090317,
+  "n_files"            : 530,
+  "n_lines"            : 32552,
+  "files_per_second"   : 4.03766544313467,
+  "lines_per_second"   : 247.98884057532,
+  "report_file"        : "loc/robbyrussell__oh-my-zsh.json"},
+"zsh" :{
+  "nFiles": 265,
+  "blank": 2171,
+  "comment": 2816,
+  "code": 12973},
+"Markdown" :{
+  "nFiles": 242,
+  "blank": 2156,
+  "comment": 0,
+  "code": 5989},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 307,
+  "comment": 365,
+  "code": 2956},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 273,
+  "comment": 434,
+  "code": 1794},
+"Python" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 9,
+  "code": 68},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 36,
+  "code": 62},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 24,
+  "code": 27},
+"diff" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 25,
+  "code": 26},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 4945,
+  "comment": 3709,
+  "code": 23898,
+  "nFiles": 530} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 59.9109070301056,
+  "n_files"            : 236,
+  "n_lines"            : 24793,
+  "files_per_second"   : 3.93918255788397,
+  "lines_per_second"   : 413.831157447531,
+  "report_file"        : "loc/turingschool__portfolios.json"},
+"Markdown" :{
+  "nFiles": 236,
+  "blank": 8943,
+  "comment": 0,
+  "code": 15850},
+"SUM": {
+  "blank": 8943,
+  "comment": 0,
+  "code": 15850,
+  "nFiles": 236} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.19817781448364,
+  "n_files"            : 6,
+  "n_lines"            : 119,
+  "files_per_second"   : 5.00760398621278,
+  "lines_per_second"   : 99.3174790598867,
+  "report_file"        : "loc/tiaanduplessis__awesome-react-native-talks.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 29,
+  "comment": 0,
+  "code": 74},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 29,
+  "comment": 0,
+  "code": 90,
+  "nFiles": 6} }

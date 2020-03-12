@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.26746201515198,
+  "n_files"            : 446,
+  "n_lines"            : 282896,
+  "files_per_second"   : 84.6707577040082,
+  "lines_per_second"   : 53706.3198911056,
+  "report_file"        : "loc/snes9xgit__snes9x.json"},
+"C++" :{
+  "nFiles": 162,
+  "blank": 18782,
+  "comment": 7015,
+  "code": 115968},
+"XML" :{
+  "nFiles": 29,
+  "blank": 0,
+  "comment": 0,
+  "code": 53387},
+"C/C++ Header" :{
+  "nFiles": 191,
+  "blank": 3905,
+  "comment": 5368,
+  "code": 20585},
+"Qt" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 19,
+  "code": 9323},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 1174,
+  "comment": 1105,
+  "code": 9220},
+"C" :{
+  "nFiles": 11,
+  "blank": 945,
+  "comment": 391,
+  "code": 7281},
+"Objective C++" :{
+  "nFiles": 6,
+  "blank": 1503,
+  "comment": 108,
+  "code": 6469},
+"PO File" :{
+  "nFiles": 6,
+  "blank": 2907,
+  "comment": 4550,
+  "code": 6278},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 0,
+  "comment": 7,
+  "code": 2372},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 114,
+  "comment": 61,
+  "code": 1054},
+"m4" :{
+  "nFiles": 2,
+  "blank": 135,
+  "comment": 113,
+  "code": 589},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 586},
+"make" :{
+  "nFiles": 3,
+  "blank": 91,
+  "comment": 44,
+  "code": 563},
+"NAnt script" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 0,
+  "code": 409},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 2,
+  "code": 110},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 100},
+"Windows Module Definition" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 81},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 52},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 29681,
+  "comment": 18784,
+  "code": 234431,
+  "nFiles": 446} }

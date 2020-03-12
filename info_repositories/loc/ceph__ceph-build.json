@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.00034189224243,
+  "n_files"            : 326,
+  "n_lines"            : 31438,
+  "files_per_second"   : 81.4930345409196,
+  "lines_per_second"   : 7858.82828189395,
+  "report_file"        : "loc/ceph__ceph-build.json"},
+"YAML" :{
+  "nFiles": 177,
+  "blank": 1193,
+  "comment": 355,
+  "code": 10803},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 506,
+  "comment": 2521,
+  "code": 7620},
+"Bourne Again Shell" :{
+  "nFiles": 134,
+  "blank": 1494,
+  "comment": 1329,
+  "code": 4789},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 109,
+  "comment": 14,
+  "code": 242},
+"Python" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 90,
+  "code": 168},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 70},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 60},
+"SUM": {
+  "blank": 3377,
+  "comment": 4309,
+  "code": 23752,
+  "nFiles": 326} }

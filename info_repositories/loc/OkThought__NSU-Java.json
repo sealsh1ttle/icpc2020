@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.910781145095825,
+  "n_files"            : 127,
+  "n_lines"            : 8177,
+  "files_per_second"   : 139.44074345834,
+  "lines_per_second"   : 8978.00755321925,
+  "report_file"        : "loc/OkThought__NSU-Java.json"},
+"Java" :{
+  "nFiles": 120,
+  "blank": 1231,
+  "comment": 17,
+  "code": 6263},
+"Ant" :{
+  "nFiles": 3,
+  "blank": 79,
+  "comment": 26,
+  "code": 447},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 52},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 42},
+"SUM": {
+  "blank": 1328,
+  "comment": 45,
+  "code": 6804,
+  "nFiles": 127} }

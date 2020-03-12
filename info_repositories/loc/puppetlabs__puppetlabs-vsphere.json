@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.399250030517578,
+  "n_files"            : 58,
+  "n_lines"            : 5412,
+  "files_per_second"   : 145.272374619008,
+  "lines_per_second"   : 13555.4153696219,
+  "report_file"        : "loc/puppetlabs__puppetlabs-vsphere.json"},
+"Ruby" :{
+  "nFiles": 34,
+  "blank": 533,
+  "comment": 261,
+  "code": 3378},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 275,
+  "comment": 0,
+  "code": 598},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 5,
+  "comment": 17,
+  "code": 227},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 69},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Puppet" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 816,
+  "comment": 278,
+  "code": 4318,
+  "nFiles": 58} }

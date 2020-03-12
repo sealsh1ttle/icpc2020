@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0788271427154541,
+  "n_files"            : 13,
+  "n_lines"            : 365,
+  "files_per_second"   : 164.917813232514,
+  "lines_per_second"   : 4630.38475614367,
+  "report_file"        : "loc/wizelineacademy__react-series-challenge.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 28,
+  "code": 117},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 52},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 51},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 28},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 36,
+  "comment": 48,
+  "code": 281,
+  "nFiles": 13} }

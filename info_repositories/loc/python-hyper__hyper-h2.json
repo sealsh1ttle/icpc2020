@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.677135944366455,
+  "n_files"            : 83,
+  "n_lines"            : 22106,
+  "files_per_second"   : 122.575090999868,
+  "lines_per_second"   : 32646.3248390734,
+  "report_file"        : "loc/python-hyper__hyper-h2.json"},
+"Python" :{
+  "nFiles": 52,
+  "blank": 2980,
+  "comment": 5025,
+  "code": 10671},
+"reStructuredText" :{
+  "nFiles": 23,
+  "blank": 713,
+  "comment": 475,
+  "code": 1643},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"make" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 6,
+  "code": 150},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 45},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 14,
+  "code": 42},
+"INI" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 3779,
+  "comment": 5523,
+  "code": 12804,
+  "nFiles": 83} }

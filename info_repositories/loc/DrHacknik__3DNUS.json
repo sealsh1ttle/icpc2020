@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 51.864354133606,
+  "n_files"            : 38,
+  "n_lines"            : 6625,
+  "files_per_second"   : 0.732680482284799,
+  "lines_per_second"   : 127.737057766758,
+  "report_file"        : "loc/DrHacknik__3DNUS.json"},
+"C#" :{
+  "nFiles": 28,
+  "blank": 333,
+  "comment": 551,
+  "code": 3021},
+"XML" :{
+  "nFiles": 7,
+  "blank": 77,
+  "comment": 336,
+  "code": 1938},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 14,
+  "code": 316},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 422,
+  "comment": 901,
+  "code": 5302,
+  "nFiles": 38} }

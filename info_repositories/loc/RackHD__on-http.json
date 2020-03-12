@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.11117506027222,
+  "n_files"            : 705,
+  "n_lines"            : 140063,
+  "files_per_second"   : 137.933056818925,
+  "lines_per_second"   : 27403.2875705377,
+  "report_file"        : "loc/RackHD__on-http.json"},
+"JSON" :{
+  "nFiles": 365,
+  "blank": 57,
+  "comment": 0,
+  "code": 63341},
+"JavaScript" :{
+  "nFiles": 164,
+  "blank": 3905,
+  "comment": 2103,
+  "code": 30097},
+"XML" :{
+  "nFiles": 133,
+  "blank": 2375,
+  "comment": 1422,
+  "code": 19140},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 63,
+  "comment": 76,
+  "code": 15637},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 773},
+"Bourne Shell" :{
+  "nFiles": 17,
+  "blank": 86,
+  "comment": 61,
+  "code": 404},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 18,
+  "code": 144},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 1,
+  "code": 118},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 0,
+  "code": 81},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 20},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 7},
+"SUM": {
+  "blank": 6613,
+  "comment": 3688,
+  "code": 129762,
+  "nFiles": 705} }

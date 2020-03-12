@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 225.106652975082,
+  "n_files"            : 1030,
+  "n_lines"            : 311105,
+  "files_per_second"   : 4.5756088786679,
+  "lines_per_second"   : 1382.03378659998,
+  "report_file"        : "loc/BZFlag-Dev__bzflag.json"},
+"C++" :{
+  "nFiles": 405,
+  "blank": 25715,
+  "comment": 19137,
+  "code": 137747},
+"C/C++ Header" :{
+  "nFiles": 370,
+  "blank": 7509,
+  "comment": 10757,
+  "code": 26301},
+"XML" :{
+  "nFiles": 105,
+  "blank": 5,
+  "comment": 0,
+  "code": 18979},
+"PO File" :{
+  "nFiles": 16,
+  "blank": 10886,
+  "comment": 5721,
+  "code": 16598},
+"Oracle Forms" :{
+  "nFiles": 16,
+  "blank": 1536,
+  "comment": 0,
+  "code": 12224},
+"m4" :{
+  "nFiles": 10,
+  "blank": 875,
+  "comment": 132,
+  "code": 7278},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 361,
+  "comment": 684,
+  "code": 2432},
+"make" :{
+  "nFiles": 78,
+  "blank": 315,
+  "comment": 37,
+  "code": 2388},
+"C" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 20,
+  "code": 579},
+"Perl" :{
+  "nFiles": 7,
+  "blank": 174,
+  "comment": 350,
+  "code": 502},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 90,
+  "comment": 28,
+  "code": 396},
+"Python" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 65,
+  "code": 255},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 80,
+  "comment": 61,
+  "code": 240},
+"PHP" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 87,
+  "code": 212},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 33,
+  "code": 62},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 10,
+  "code": 53},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 32},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 47700,
+  "comment": 37123,
+  "code": 226282,
+  "nFiles": 1030} }

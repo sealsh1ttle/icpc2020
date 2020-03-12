@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 172.36474108696,
+  "n_files"            : 791,
+  "n_lines"            : 524884,
+  "files_per_second"   : 4.58910560832701,
+  "lines_per_second"   : 3045.19356273213,
+  "report_file"        : "loc/openframeworks__ofSite.json"},
+"Markdown" :{
+  "nFiles": 652,
+  "blank": 208207,
+  "comment": 0,
+  "code": 246684},
+"Python" :{
+  "nFiles": 40,
+  "blank": 1471,
+  "comment": 2756,
+  "code": 45655},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 2303,
+  "comment": 2091,
+  "code": 8745},
+"Mako" :{
+  "nFiles": 46,
+  "blank": 978,
+  "comment": 109,
+  "code": 2031},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 107,
+  "comment": 71,
+  "code": 1753},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 90,
+  "comment": 9,
+  "code": 808},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 615},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 56,
+  "comment": 57,
+  "code": 256},
+"PHP" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 7,
+  "code": 20},
+"SUM": {
+  "blank": 213216,
+  "comment": 5101,
+  "code": 306567,
+  "nFiles": 791} }

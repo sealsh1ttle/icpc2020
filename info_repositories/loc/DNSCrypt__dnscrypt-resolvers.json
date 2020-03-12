@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0603320598602295,
+  "n_files"            : 6,
+  "n_lines"            : 1763,
+  "files_per_second"   : 99.449612923877,
+  "lines_per_second"   : 29221.6112641325,
+  "report_file"        : "loc/DNSCrypt__dnscrypt-resolvers.json"},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 754,
+  "comment": 0,
+  "code": 991},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 757,
+  "comment": 0,
+  "code": 1006,
+  "nFiles": 6} }

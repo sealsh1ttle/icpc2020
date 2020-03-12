@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.25745606422424,
+  "n_files"            : 12,
+  "n_lines"            : 1164,
+  "files_per_second"   : 1.29625243876386,
+  "lines_per_second"   : 125.736486560095,
+  "report_file"        : "loc/CounterpartyXCP__federatednode.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 95,
+  "comment": 39,
+  "code": 438},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 51,
+  "comment": 6,
+  "code": 360},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 66},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 7,
+  "code": 33},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 11,
+  "code": 20},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 9},
+"SUM": {
+  "blank": 173,
+  "comment": 65,
+  "code": 926,
+  "nFiles": 12} }

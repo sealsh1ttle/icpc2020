@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 69.5989530086517,
+  "n_files"            : 392,
+  "n_lines"            : 96603,
+  "files_per_second"   : 5.63226863414556,
+  "lines_per_second"   : 1387.99501751113,
+  "report_file"        : "loc/ethereum__remix.json"},
+"JSON" :{
+  "nFiles": 47,
+  "blank": 6,
+  "comment": 0,
+  "code": 64967},
+"JavaScript" :{
+  "nFiles": 201,
+  "blank": 2325,
+  "comment": 2100,
+  "code": 17855},
+"TypeScript" :{
+  "nFiles": 25,
+  "blank": 215,
+  "comment": 182,
+  "code": 2020},
+"Solidity" :{
+  "nFiles": 76,
+  "blank": 474,
+  "comment": 299,
+  "code": 1789},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 402,
+  "comment": 0,
+  "code": 946},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 640},
+"reStructuredText" :{
+  "nFiles": 17,
+  "blank": 337,
+  "comment": 353,
+  "code": 426},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 6,
+  "code": 181},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 4,
+  "code": 76},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 2,
+  "code": 71},
+"Python" :{
+  "nFiles": 2,
+  "blank": 153,
+  "comment": 365,
+  "code": 70},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 1},
+"SUM": {
+  "blank": 3999,
+  "comment": 3316,
+  "code": 89288,
+  "nFiles": 392} }

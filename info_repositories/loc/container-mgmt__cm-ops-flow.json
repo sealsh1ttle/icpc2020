@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.642642021179199,
+  "n_files"            : 6,
+  "n_lines"            : 435,
+  "files_per_second"   : 9.33645762689227,
+  "lines_per_second"   : 676.89317794969,
+  "report_file"        : "loc/container-mgmt__cm-ops-flow.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 0,
+  "code": 187},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 20,
+  "code": 116},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 76,
+  "comment": 20,
+  "code": 339,
+  "nFiles": 6} }

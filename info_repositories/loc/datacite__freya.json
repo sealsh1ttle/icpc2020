@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.507951021194458,
+  "n_files"            : 2,
+  "n_lines"            : 25,
+  "files_per_second"   : 3.93738749711922,
+  "lines_per_second"   : 49.2173437139903,
+  "report_file"        : "loc/datacite__freya.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 12},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 3,
+  "comment": 6,
+  "code": 16,
+  "nFiles": 2} }

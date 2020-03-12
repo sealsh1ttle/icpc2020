@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.93580293655396,
+  "n_files"            : 34,
+  "n_lines"            : 787,
+  "files_per_second"   : 4.28438058150221,
+  "lines_per_second"   : 99.1708093424189,
+  "report_file"        : "loc/CodeCoreYVR__lms.json"},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Ruby" :{
+  "nFiles": 25,
+  "blank": 85,
+  "comment": 204,
+  "code": 123},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 91,
+  "code": 23},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 16,
+  "code": 0},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 118,
+  "comment": 329,
+  "code": 340,
+  "nFiles": 34} }

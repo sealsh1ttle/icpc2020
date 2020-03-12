@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.1629939079285,
+  "n_files"            : 147,
+  "n_lines"            : 27650,
+  "files_per_second"   : 4.71713341902622,
+  "lines_per_second"   : 887.270333578742,
+  "report_file"        : "loc/howtographql__howtographql-core.json"},
+"TypeScript" :{
+  "nFiles": 79,
+  "blank": 1049,
+  "comment": 340,
+  "code": 23237},
+"SVG" :{
+  "nFiles": 39,
+  "blank": 6,
+  "comment": 15,
+  "code": 1772},
+"GraphQL" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 2,
+  "code": 373},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 283},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 24,
+  "comment": 41,
+  "code": 276},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 18,
+  "code": 92},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 28},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 7,
+  "code": 12},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1130,
+  "comment": 423,
+  "code": 26097,
+  "nFiles": 147} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.181286096572876,
+  "n_files"            : 16,
+  "n_lines"            : 5208,
+  "files_per_second"   : 88.258285122092,
+  "lines_per_second"   : 28728.071807241,
+  "report_file"        : "loc/JakeBecker__vscode-elixir-ls.json"},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 2,
+  "comment": 0,
+  "code": 4960},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 37,
+  "code": 96},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 64},
+"SUM": {
+  "blank": 51,
+  "comment": 37,
+  "code": 5120,
+  "nFiles": 16} }

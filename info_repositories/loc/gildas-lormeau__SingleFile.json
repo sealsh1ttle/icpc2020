@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.607650995254517,
+  "n_files"            : 89,
+  "n_lines"            : 19536,
+  "files_per_second"   : 146.465653302719,
+  "lines_per_second"   : 32150.0337406956,
+  "report_file"        : "loc/gildas-lormeau__SingleFile.json"},
+"JavaScript" :{
+  "nFiles": 63,
+  "blank": 986,
+  "comment": 1855,
+  "code": 10583},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 4338},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 835},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 141,
+  "comment": 0,
+  "code": 679},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 26,
+  "comment": 0,
+  "code": 73},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1162,
+  "comment": 1855,
+  "code": 16519,
+  "nFiles": 89} }

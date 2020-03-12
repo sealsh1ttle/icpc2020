@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.08013200759888,
+  "n_files"            : 11,
+  "n_lines"            : 701,
+  "files_per_second"   : 3.57127550795301,
+  "lines_per_second"   : 227.587648279551,
+  "report_file"        : "loc/scanlong__c8.json"},
+"C" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 0,
+  "code": 276},
+"make" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 50,
+  "code": 131},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 0,
+  "code": 125},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 95,
+  "comment": 50,
+  "code": 556,
+  "nFiles": 11} }

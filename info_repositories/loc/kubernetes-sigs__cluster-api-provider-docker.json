@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.22789907455444,
+  "n_files"            : 95,
+  "n_lines"            : 5572,
+  "files_per_second"   : 11.5460823156906,
+  "lines_per_second"   : 677.208112242399,
+  "report_file"        : "loc/kubernetes-sigs__cluster-api-provider-docker.json"},
+"Go" :{
+  "nFiles": 27,
+  "blank": 489,
+  "comment": 600,
+  "code": 2259},
+"YAML" :{
+  "nFiles": 32,
+  "blank": 23,
+  "comment": 103,
+  "code": 765},
+"Bourne Shell" :{
+  "nFiles": 23,
+  "blank": 129,
+  "comment": 383,
+  "code": 469},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 70,
+  "comment": 0,
+  "code": 140},
+"make" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 8,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 21,
+  "code": 23},
+"SUM": {
+  "blank": 746,
+  "comment": 1115,
+  "code": 3711,
+  "nFiles": 95} }

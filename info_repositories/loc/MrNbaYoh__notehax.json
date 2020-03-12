@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.58443689346313,
+  "n_files"            : 30,
+  "n_lines"            : 2097,
+  "files_per_second"   : 6.54387893151642,
+  "lines_per_second"   : 457.417137312998,
+  "report_file"        : "loc/MrNbaYoh__notehax.json"},
+"Python" :{
+  "nFiles": 15,
+  "blank": 241,
+  "comment": 74,
+  "code": 847},
+"Assembly" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 66,
+  "code": 297},
+"C" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 15,
+  "code": 224},
+"make" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 4,
+  "code": 88},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 46},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 41},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 394,
+  "comment": 159,
+  "code": 1544,
+  "nFiles": 30} }

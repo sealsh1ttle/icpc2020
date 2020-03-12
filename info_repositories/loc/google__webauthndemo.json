@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.9928767681122,
+  "n_files"            : 103,
+  "n_lines"            : 10125,
+  "files_per_second"   : 4.29294081720507,
+  "lines_per_second"   : 422.000250234964,
+  "report_file"        : "loc/google__webauthndemo.json"},
+"Java" :{
+  "nFiles": 87,
+  "blank": 1030,
+  "comment": 1895,
+  "code": 4747},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 144,
+  "comment": 66,
+  "code": 1069},
+"JSP" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 340},
+"XML" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 1,
+  "code": 251},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 15,
+  "code": 250},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 15,
+  "code": 170},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 1238,
+  "comment": 1994,
+  "code": 6893,
+  "nFiles": 103} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.56262493133545,
+  "n_files"            : 8,
+  "n_lines"            : 449,
+  "files_per_second"   : 1.21902441228986,
+  "lines_per_second"   : 68.4177451397686,
+  "report_file"        : "loc/rse__graphql-query-compress.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 54,
+  "code": 127},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 51},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 25,
+  "code": 31},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 23,
+  "code": 11},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 23,
+  "code": 4},
+"SUM": {
+  "blank": 50,
+  "comment": 125,
+  "code": 274,
+  "nFiles": 8} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.476985931396484,
+  "n_files"            : 65,
+  "n_lines"            : 9500,
+  "files_per_second"   : 136.272363022737,
+  "lines_per_second"   : 19916.7299802462,
+  "report_file"        : "loc/arduino-libraries__ArduinoBLE.json"},
+"C++" :{
+  "nFiles": 24,
+  "blank": 1396,
+  "comment": 460,
+  "code": 4530},
+"C/C++ Header" :{
+  "nFiles": 29,
+  "blank": 541,
+  "comment": 437,
+  "code": 1110},
+"Arduino Sketch" :{
+  "nFiles": 9,
+  "blank": 215,
+  "comment": 246,
+  "code": 499},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 30},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 2166,
+  "comment": 1143,
+  "code": 6191,
+  "nFiles": 65} }

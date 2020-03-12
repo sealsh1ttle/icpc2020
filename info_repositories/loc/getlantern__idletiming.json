@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.3584508895874,
+  "n_files"            : 8,
+  "n_lines"            : 943,
+  "files_per_second"   : 5.88906088642617,
+  "lines_per_second"   : 694.173051987484,
+  "report_file"        : "loc/getlantern__idletiming.json"},
+"Go" :{
+  "nFiles": 6,
+  "blank": 123,
+  "comment": 70,
+  "code": 730},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 11},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 128,
+  "comment": 70,
+  "code": 745,
+  "nFiles": 8} }

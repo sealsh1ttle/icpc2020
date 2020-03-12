@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.88833212852478,
+  "n_files"            : 4,
+  "n_lines"            : 75,
+  "files_per_second"   : 4.50282036589473,
+  "lines_per_second"   : 84.4278818605263,
+  "report_file"        : "loc/stayradiated__streams.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 35},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 21,
+  "comment": 5,
+  "code": 49,
+  "nFiles": 4} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 154.742850065231,
+  "n_files"            : 510,
+  "n_lines"            : 41159,
+  "files_per_second"   : 3.29579040185063,
+  "lines_per_second"   : 265.983210097588,
+  "report_file"        : "loc/maca88__AsyncGenerator.json"},
+"C#" :{
+  "nFiles": 491,
+  "blank": 3928,
+  "comment": 1826,
+  "code": 33493},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 576},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 493},
+"MSBuild script" :{
+  "nFiles": 9,
+  "blank": 35,
+  "comment": 1,
+  "code": 250},
+"XML" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 12,
+  "code": 202},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 45,
+  "code": 118},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 15,
+  "code": 72},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 4054,
+  "comment": 1899,
+  "code": 35206,
+  "nFiles": 510} }

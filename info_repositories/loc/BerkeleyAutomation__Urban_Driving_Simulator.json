@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.38724207878113,
+  "n_files"            : 51,
+  "n_lines"            : 3458,
+  "files_per_second"   : 6.90379433300158,
+  "lines_per_second"   : 468.104329480774,
+  "report_file"        : "loc/BerkeleyAutomation__Urban_Driving_Simulator.json"},
+"Python" :{
+  "nFiles": 39,
+  "blank": 451,
+  "comment": 444,
+  "code": 2002},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 0,
+  "code": 262},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 20,
+  "code": 79},
+"make" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 6,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 28},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 16},
+"SUM": {
+  "blank": 559,
+  "comment": 472,
+  "code": 2427,
+  "nFiles": 51} }

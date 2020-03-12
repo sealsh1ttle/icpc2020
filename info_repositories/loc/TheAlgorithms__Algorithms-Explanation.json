@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.55446696281433,
+  "n_files"            : 15,
+  "n_lines"            : 1046,
+  "files_per_second"   : 5.87206654787739,
+  "lines_per_second"   : 409.47877393865,
+  "report_file"        : "loc/TheAlgorithms__Algorithms-Explanation.json"},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 344,
+  "comment": 0,
+  "code": 702},
+"SUM": {
+  "blank": 344,
+  "comment": 0,
+  "code": 702,
+  "nFiles": 15} }

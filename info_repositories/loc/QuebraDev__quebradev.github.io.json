@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.3288969993591,
+  "n_files"            : 75,
+  "n_lines"            : 9582,
+  "files_per_second"   : 5.23417817877778,
+  "lines_per_second"   : 668.718604120649,
+  "report_file"        : "loc/QuebraDev__quebradev.github.io.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6215},
+"Markdown" :{
+  "nFiles": 36,
+  "blank": 78,
+  "comment": 0,
+  "code": 1600},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 107,
+  "comment": 1,
+  "code": 567},
+"EJS" :{
+  "nFiles": 19,
+  "blank": 48,
+  "comment": 18,
+  "code": 478},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 294},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 23,
+  "code": 91},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 25},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 253,
+  "comment": 42,
+  "code": 9287,
+  "nFiles": 75} }

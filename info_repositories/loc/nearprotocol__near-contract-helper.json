@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.094987154006958,
+  "n_files"            : 12,
+  "n_lines"            : 441,
+  "files_per_second"   : 126.33287232841,
+  "lines_per_second"   : 4642.73305806905,
+  "report_file"        : "loc/nearprotocol__near-contract-helper.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 24,
+  "comment": 6,
+  "code": 229},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 39},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 15},
+"SUM": {
+  "blank": 52,
+  "comment": 7,
+  "code": 382,
+  "nFiles": 12} }

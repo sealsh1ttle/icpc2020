@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 382.13765001297,
+  "n_files"            : 1361,
+  "n_lines"            : 519877,
+  "files_per_second"   : 3.56154385717766,
+  "lines_per_second"   : 1360.44433198968,
+  "report_file"        : "loc/ESMCI__cime.json"},
+"Fortran 90" :{
+  "nFiles": 383,
+  "blank": 41612,
+  "comment": 57988,
+  "code": 142138},
+"C" :{
+  "nFiles": 128,
+  "blank": 11934,
+  "comment": 20604,
+  "code": 48563},
+"XML" :{
+  "nFiles": 93,
+  "blank": 3470,
+  "comment": 2360,
+  "code": 45264},
+"Python" :{
+  "nFiles": 238,
+  "blank": 8754,
+  "comment": 11767,
+  "code": 33008},
+"Perl" :{
+  "nFiles": 90,
+  "blank": 7793,
+  "comment": 13367,
+  "code": 14675},
+"Bourne Shell" :{
+  "nFiles": 46,
+  "blank": 1696,
+  "comment": 1876,
+  "code": 12183},
+"reStructuredText" :{
+  "nFiles": 73,
+  "blank": 2655,
+  "comment": 1097,
+  "code": 5578},
+"C/C++ Header" :{
+  "nFiles": 28,
+  "blank": 980,
+  "comment": 1285,
+  "code": 4249},
+"CMake" :{
+  "nFiles": 106,
+  "blank": 875,
+  "comment": 1308,
+  "code": 3963},
+"make" :{
+  "nFiles": 51,
+  "blank": 841,
+  "comment": 638,
+  "code": 2438},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 396,
+  "comment": 76,
+  "code": 1896},
+"XSD" :{
+  "nFiles": 23,
+  "blank": 221,
+  "comment": 174,
+  "code": 1799},
+"m4" :{
+  "nFiles": 7,
+  "blank": 178,
+  "comment": 41,
+  "code": 1792},
+"Pascal" :{
+  "nFiles": 3,
+  "blank": 671,
+  "comment": 0,
+  "code": 1334},
+"C Shell" :{
+  "nFiles": 40,
+  "blank": 180,
+  "comment": 338,
+  "code": 1131},
+"Fortran 77" :{
+  "nFiles": 2,
+  "blank": 258,
+  "comment": 666,
+  "code": 1067},
+"TeX" :{
+  "nFiles": 3,
+  "blank": 77,
+  "comment": 110,
+  "code": 757},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 307,
+  "comment": 0,
+  "code": 681},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 111},
+"Bourne Again Shell" :{
+  "nFiles": 16,
+  "blank": 41,
+  "comment": 65,
+  "code": 109},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 2,
+  "code": 68},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 62},
+"awk" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 63,
+  "code": 54},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 35},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 25},
+"C++" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 4,
+  "code": 21},
+"SUM": {
+  "blank": 83046,
+  "comment": 113830,
+  "code": 323001,
+  "nFiles": 1361} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.161743879318237,
+  "n_files"            : 17,
+  "n_lines"            : 2201,
+  "files_per_second"   : 105.104440870692,
+  "lines_per_second"   : 13607.9337856702,
+  "report_file"        : "loc/puppetlabs__puppet_litmus.json"},
+"Ruby" :{
+  "nFiles": 12,
+  "blank": 188,
+  "comment": 259,
+  "code": 1275},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 12,
+  "code": 177},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 117,
+  "comment": 0,
+  "code": 163},
+"SUM": {
+  "blank": 315,
+  "comment": 271,
+  "code": 1615,
+  "nFiles": 17} }

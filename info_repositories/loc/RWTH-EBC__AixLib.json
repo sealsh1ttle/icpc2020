@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.8971738815308,
+  "n_files"            : 165,
+  "n_lines"            : 66141,
+  "files_per_second"   : 6.90458214088329,
+  "lines_per_second"   : 2767.73313563735,
+  "report_file"        : "loc/RWTH-EBC__AixLib.json"},
+"SVG" :{
+  "nFiles": 16,
+  "blank": 15,
+  "comment": 10,
+  "code": 18633},
+"CSS" :{
+  "nFiles": 46,
+  "blank": 1269,
+  "comment": 447,
+  "code": 14869},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 3320,
+  "comment": 2750,
+  "code": 11719},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 801,
+  "comment": 261,
+  "code": 5504},
+"Python" :{
+  "nFiles": 22,
+  "blank": 607,
+  "comment": 1172,
+  "code": 1600},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 148,
+  "comment": 183,
+  "code": 689},
+"C" :{
+  "nFiles": 3,
+  "blank": 57,
+  "comment": 63,
+  "code": 355},
+"Java" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 74,
+  "code": 293},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 2,
+  "code": 243},
+"TeX" :{
+  "nFiles": 3,
+  "blank": 33,
+  "comment": 45,
+  "code": 141},
+"make" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 20,
+  "code": 137},
+"C++" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 17,
+  "code": 102},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 57,
+  "comment": 0,
+  "code": 97},
+"reStructuredText" :{
+  "nFiles": 9,
+  "blank": 40,
+  "comment": 69,
+  "code": 48},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 11,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 5,
+  "code": 19},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 16},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 6506,
+  "comment": 5133,
+  "code": 54502,
+  "nFiles": 165} }

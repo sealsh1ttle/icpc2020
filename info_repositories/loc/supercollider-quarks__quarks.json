@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.257138967514038,
+  "n_files"            : 1,
+  "n_lines"            : 142,
+  "files_per_second"   : 3.88894771441208,
+  "lines_per_second"   : 552.230575446515,
+  "report_file"        : "loc/supercollider-quarks__quarks.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 61,
+  "comment": 0,
+  "code": 81},
+"SUM": {
+  "blank": 61,
+  "comment": 0,
+  "code": 81,
+  "nFiles": 1} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.861726045608521,
+  "n_files"            : 94,
+  "n_lines"            : 11457,
+  "files_per_second"   : 109.083391965506,
+  "lines_per_second"   : 13295.4087420086,
+  "report_file"        : "loc/openmrs__openmrs-module-openconceptlab.json"},
+"Java" :{
+  "nFiles": 49,
+  "blank": 1473,
+  "comment": 640,
+  "code": 5821},
+"XML" :{
+  "nFiles": 8,
+  "blank": 42,
+  "comment": 11,
+  "code": 631},
+"Maven" :{
+  "nFiles": 4,
+  "blank": 77,
+  "comment": 27,
+  "code": 627},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 7,
+  "comment": 0,
+  "code": 559},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 94,
+  "comment": 30,
+  "code": 502},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 59,
+  "comment": 11,
+  "code": 384},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 0,
+  "code": 212},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 0,
+  "code": 126},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 28},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 10},
+"SUM": {
+  "blank": 1820,
+  "comment": 722,
+  "code": 8915,
+  "nFiles": 94} }

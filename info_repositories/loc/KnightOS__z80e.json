@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.9339809417725,
+  "n_files"            : 90,
+  "n_lines"            : 11765,
+  "files_per_second"   : 5.01840613593878,
+  "lines_per_second"   : 656.017202103552,
+  "report_file"        : "loc/KnightOS__z80e.json"},
+"C" :{
+  "nFiles": 57,
+  "blank": 1003,
+  "comment": 57,
+  "code": 9412},
+"C/C++ Header" :{
+  "nFiles": 22,
+  "blank": 172,
+  "comment": 14,
+  "code": 713},
+"CMake" :{
+  "nFiles": 8,
+  "blank": 46,
+  "comment": 6,
+  "code": 180},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 111},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 1246,
+  "comment": 77,
+  "code": 10442,
+  "nFiles": 90} }

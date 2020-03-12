@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.281623840332,
+  "n_files"            : 76,
+  "n_lines"            : 5623,
+  "files_per_second"   : 6.18810679988595,
+  "lines_per_second"   : 457.838480733667,
+  "report_file"        : "loc/pmrukot__rsvp-to2.json"},
+"Java" :{
+  "nFiles": 56,
+  "blank": 793,
+  "comment": 12,
+  "code": 4047},
+"FXML" :{
+  "nFiles": 17,
+  "blank": 77,
+  "comment": 0,
+  "code": 621},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 45},
+"XML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 877,
+  "comment": 14,
+  "code": 4732,
+  "nFiles": 76} }

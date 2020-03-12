@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 91.8074941635132,
+  "n_files"            : 238,
+  "n_lines"            : 26813,
+  "files_per_second"   : 2.59238096158154,
+  "lines_per_second"   : 292.056767743218,
+  "report_file"        : "loc/AutoRally__autorally.json"},
+"C++" :{
+  "nFiles": 36,
+  "blank": 1101,
+  "comment": 1839,
+  "code": 6755},
+"C/C++ Header" :{
+  "nFiles": 42,
+  "blank": 757,
+  "comment": 2417,
+  "code": 2465},
+"XML" :{
+  "nFiles": 57,
+  "blank": 487,
+  "comment": 527,
+  "code": 2000},
+"CUDA" :{
+  "nFiles": 17,
+  "blank": 413,
+  "comment": 769,
+  "code": 1994},
+"Python" :{
+  "nFiles": 14,
+  "blank": 266,
+  "comment": 353,
+  "code": 1099},
+"Qt" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1060},
+"Arduino Sketch" :{
+  "nFiles": 5,
+  "blank": 117,
+  "comment": 206,
+  "code": 528},
+"CMake" :{
+  "nFiles": 26,
+  "blank": 108,
+  "comment": 26,
+  "code": 452},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 114,
+  "comment": 0,
+  "code": 282},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 22,
+  "comment": 59,
+  "code": 145},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 24,
+  "code": 125},
+"reStructuredText" :{
+  "nFiles": 7,
+  "blank": 42,
+  "comment": 0,
+  "code": 122},
+"Gencat NLS" :{
+  "nFiles": 15,
+  "blank": 13,
+  "comment": 0,
+  "code": 77},
+"zsh" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 4,
+  "code": 15},
+"SUM": {
+  "blank": 3470,
+  "comment": 6224,
+  "code": 17119,
+  "nFiles": 238} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 49.9996330738068,
+  "n_files"            : 224,
+  "n_lines"            : 49937,
+  "files_per_second"   : 4.48003287682818,
+  "lines_per_second"   : 998.747329331111,
+  "report_file"        : "loc/cannatag__ldap3.json"},
+"Python" :{
+  "nFiles": 153,
+  "blank": 4343,
+  "comment": 12632,
+  "code": 24517},
+"reStructuredText" :{
+  "nFiles": 61,
+  "blank": 2060,
+  "comment": 706,
+  "code": 5514},
+"DOS Batch" :{
+  "nFiles": 6,
+  "blank": 8,
+  "comment": 1,
+  "code": 44},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 11,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 11,
+  "code": 24},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 6424,
+  "comment": 13367,
+  "code": 30146,
+  "nFiles": 224} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 76.9317917823792,
+  "n_files"            : 346,
+  "n_lines"            : 67935,
+  "files_per_second"   : 4.49749046504399,
+  "lines_per_second"   : 883.054955903941,
+  "report_file"        : "loc/npgsql__npgsql.json"},
+"C#" :{
+  "nFiles": 315,
+  "blank": 8435,
+  "comment": 9083,
+  "code": 48345},
+"XML" :{
+  "nFiles": 10,
+  "blank": 65,
+  "comment": 169,
+  "code": 1000},
+"MSBuild script" :{
+  "nFiles": 13,
+  "blank": 9,
+  "comment": 13,
+  "code": 374},
+"WiX source" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 15,
+  "code": 196},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 70},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 14,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 19},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"WiX string localization" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 8567,
+  "comment": 9297,
+  "code": 50071,
+  "nFiles": 346} }

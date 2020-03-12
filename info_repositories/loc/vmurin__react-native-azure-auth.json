@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.3316798210144,
+  "n_files"            : 88,
+  "n_lines"            : 26287,
+  "files_per_second"   : 3.34198200031926,
+  "lines_per_second"   : 998.303191390822,
+  "report_file"        : "loc/vmurin__react-native-azure-auth.json"},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 14647},
+"HTML" :{
+  "nFiles": 25,
+  "blank": 4101,
+  "comment": 75,
+  "code": 3442},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 239,
+  "comment": 302,
+  "code": 1548},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 156,
+  "comment": 70,
+  "code": 709},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 61,
+  "comment": 0,
+  "code": 176},
+"Java" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 1,
+  "code": 125},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 112},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 110},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 33},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 6,
+  "code": 24},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 4672,
+  "comment": 476,
+  "code": 21139,
+  "nFiles": 88} }

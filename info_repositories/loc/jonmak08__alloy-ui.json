@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 314.569576025009,
+  "n_files"            : 939,
+  "n_lines"            : 164021,
+  "files_per_second"   : 2.9850312031617,
+  "lines_per_second"   : 521.414060674958,
+  "report_file"        : "loc/jonmak08__alloy-ui.json"},
+"JavaScript" :{
+  "nFiles": 341,
+  "blank": 16430,
+  "comment": 31683,
+  "code": 58544},
+"JSON" :{
+  "nFiles": 191,
+  "blank": 355,
+  "comment": 0,
+  "code": 32600},
+"HTML" :{
+  "nFiles": 187,
+  "blank": 1086,
+  "comment": 4,
+  "code": 10635},
+"CSS" :{
+  "nFiles": 91,
+  "blank": 613,
+  "comment": 41,
+  "code": 9240},
+"Markdown" :{
+  "nFiles": 126,
+  "blank": 864,
+  "comment": 0,
+  "code": 1667},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 229},
+"Mustache" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 19357,
+  "comment": 31728,
+  "code": 112936,
+  "nFiles": 939} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 78.6712169647217,
+  "n_files"            : 300,
+  "n_lines"            : 58999,
+  "files_per_second"   : 3.81333874795058,
+  "lines_per_second"   : 749.94390930112,
+  "report_file"        : "loc/Sotera__genie-ui.json"},
+"JSON" :{
+  "nFiles": 32,
+  "blank": 2,
+  "comment": 0,
+  "code": 27243},
+"JavaScript" :{
+  "nFiles": 200,
+  "blank": 1611,
+  "comment": 10703,
+  "code": 10621},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 75,
+  "comment": 256,
+  "code": 3946},
+"PO File" :{
+  "nFiles": 5,
+  "blank": 809,
+  "comment": 1060,
+  "code": 1686},
+"Pug" :{
+  "nFiles": 38,
+  "blank": 40,
+  "comment": 27,
+  "code": 426},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 14,
+  "code": 381},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 4,
+  "code": 12},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 5},
+"SUM": {
+  "blank": 2588,
+  "comment": 12065,
+  "code": 44346,
+  "nFiles": 300} }

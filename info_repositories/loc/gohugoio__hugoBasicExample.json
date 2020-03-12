@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.06899785995483,
+  "n_files"            : 13,
+  "n_lines"            : 448,
+  "files_per_second"   : 6.28323511184482,
+  "lines_per_second"   : 216.529948469729,
+  "report_file"        : "loc/gohugoio__hugoBasicExample.json"},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 91,
+  "comment": 0,
+  "code": 280},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 59},
+"SUM": {
+  "blank": 109,
+  "comment": 0,
+  "code": 339,
+  "nFiles": 13} }

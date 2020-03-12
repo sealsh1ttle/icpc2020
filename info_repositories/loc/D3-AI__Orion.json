@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.30478310585022,
+  "n_files"            : 51,
+  "n_lines"            : 6727,
+  "files_per_second"   : 167.332109362594,
+  "lines_per_second"   : 22071.4333271014,
+  "report_file"        : "loc/D3-AI__Orion.json"},
+"Python" :{
+  "nFiles": 15,
+  "blank": 419,
+  "comment": 278,
+  "code": 1156},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 284,
+  "comment": 0,
+  "code": 687},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 454},
+"make" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 6,
+  "code": 173},
+"Jupyter Notebook" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 2661,
+  "code": 152},
+"reStructuredText" :{
+  "nFiles": 7,
+  "blank": 72,
+  "comment": 27,
+  "code": 145},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 9,
+  "code": 45},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 20},
+"SUM": {
+  "blank": 861,
+  "comment": 2986,
+  "code": 2880,
+  "nFiles": 51} }

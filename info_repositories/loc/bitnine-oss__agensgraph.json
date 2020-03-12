@@ -1,0 +1,139 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1114.08291196823,
+  "n_files"            : 3444,
+  "n_lines"            : 2120455,
+  "files_per_second"   : 3.09133185959701,
+  "lines_per_second"   : 1903.31884388553,
+  "report_file"        : "loc/bitnine-oss__agensgraph.json"},
+"C" :{
+  "nFiles": 1269,
+  "blank": 152578,
+  "comment": 285370,
+  "code": 756947},
+"PO File" :{
+  "nFiles": 279,
+  "blank": 105179,
+  "comment": 131675,
+  "code": 321108},
+"SQL" :{
+  "nFiles": 589,
+  "blank": 18742,
+  "comment": 12562,
+  "code": 72485},
+"C/C++ Header" :{
+  "nFiles": 807,
+  "blank": 14214,
+  "comment": 39650,
+  "code": 69725},
+"XML" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 18,
+  "code": 30999},
+"Perl" :{
+  "nFiles": 133,
+  "blank": 3642,
+  "comment": 2805,
+  "code": 22993},
+"yacc" :{
+  "nFiles": 9,
+  "blank": 2133,
+  "comment": 2827,
+  "code": 20062},
+"Bourne Shell" :{
+  "nFiles": 40,
+  "blank": 2898,
+  "comment": 2589,
+  "code": 18732},
+"make" :{
+  "nFiles": 259,
+  "blank": 1780,
+  "comment": 1812,
+  "code": 5153},
+"lex" :{
+  "nFiles": 12,
+  "blank": 932,
+  "comment": 1953,
+  "code": 4917},
+"diff" :{
+  "nFiles": 1,
+  "blank": 959,
+  "comment": 3741,
+  "code": 4845},
+"m4" :{
+  "nFiles": 14,
+  "blank": 291,
+  "comment": 134,
+  "code": 2304},
+"XSLT" :{
+  "nFiles": 5,
+  "blank": 94,
+  "comment": 67,
+  "code": 685},
+"DOS Batch" :{
+  "nFiles": 7,
+  "blank": 21,
+  "comment": 30,
+  "code": 126},
+"Python" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 57,
+  "code": 114},
+"Assembly" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 38,
+  "code": 69},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 66},
+"D" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 14,
+  "code": 66},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 62},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 17},
+"sed" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 7,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 6,
+  "code": 10},
+"Windows Message File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 303577,
+  "comment": 485357,
+  "code": 1331521,
+  "nFiles": 3444} }

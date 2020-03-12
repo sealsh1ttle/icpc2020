@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.998117923736572,
+  "n_files"            : 7,
+  "n_lines"            : 359,
+  "files_per_second"   : 7.0131993760764,
+  "lines_per_second"   : 359.676939430204,
+  "report_file"        : "loc/learn-co-curriculum__javascript-inheritance-patterns-lab.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 158},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 0,
+  "code": 102},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 19},
+"SUM": {
+  "blank": 42,
+  "comment": 1,
+  "code": 316,
+  "nFiles": 7} }

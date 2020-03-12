@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.8197689056396,
+  "n_files"            : 79,
+  "n_lines"            : 4453,
+  "files_per_second"   : 3.98591933014521,
+  "lines_per_second"   : 224.67466806502,
+  "report_file"        : "loc/benjycui__bisheng.json"},
+"JavaScript" :{
+  "nFiles": 43,
+  "blank": 195,
+  "comment": 39,
+  "code": 1859},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 263,
+  "comment": 0,
+  "code": 577},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 74,
+  "comment": 19,
+  "code": 562},
+"JSX" :{
+  "nFiles": 9,
+  "blank": 34,
+  "comment": 22,
+  "code": 399},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 363},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 19},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 8,
+  "code": 14},
+"SUM": {
+  "blank": 569,
+  "comment": 91,
+  "code": 3793,
+  "nFiles": 79} }

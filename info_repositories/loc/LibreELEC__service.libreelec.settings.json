@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.746735095977783,
+  "n_files"            : 46,
+  "n_lines"            : 37819,
+  "files_per_second"   : 61.6014973017534,
+  "lines_per_second"   : 50645.8049229351,
+  "report_file"        : "loc/LibreELEC__service.libreelec.settings.json"},
+"PO File" :{
+  "nFiles": 28,
+  "blank": 6466,
+  "comment": 112,
+  "code": 22456},
+"Python" :{
+  "nFiles": 13,
+  "blank": 560,
+  "comment": 126,
+  "code": 6211},
+"XML" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 93,
+  "code": 1725},
+"make" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 4,
+  "code": 44},
+"SUM": {
+  "blank": 7048,
+  "comment": 335,
+  "code": 30436,
+  "nFiles": 46} }

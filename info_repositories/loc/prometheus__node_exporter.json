@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 169.439799070358,
+  "n_files"            : 911,
+  "n_lines"            : 339328,
+  "files_per_second"   : 5.37654084222394,
+  "lines_per_second"   : 2002.64637860611,
+  "report_file"        : "loc/prometheus__node_exporter.json"},
+"Go" :{
+  "nFiles": 771,
+  "blank": 29716,
+  "comment": 28602,
+  "code": 266197},
+"Markdown" :{
+  "nFiles": 40,
+  "blank": 776,
+  "comment": 0,
+  "code": 2387},
+"Assembly" :{
+  "nFiles": 39,
+  "blank": 282,
+  "comment": 337,
+  "code": 1611},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 411,
+  "comment": 3455,
+  "code": 1319},
+"YAML" :{
+  "nFiles": 24,
+  "blank": 40,
+  "comment": 11,
+  "code": 798},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 84,
+  "comment": 108,
+  "code": 763},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 97,
+  "comment": 308,
+  "code": 702},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 54,
+  "code": 382},
+"make" :{
+  "nFiles": 8,
+  "blank": 72,
+  "comment": 34,
+  "code": 245},
+"C" :{
+  "nFiles": 4,
+  "blank": 46,
+  "comment": 34,
+  "code": 240},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 120},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 25,
+  "code": 6},
+"Korn Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 5},
+"SUM": {
+  "blank": 31536,
+  "comment": 32969,
+  "code": 274823,
+  "nFiles": 911} }

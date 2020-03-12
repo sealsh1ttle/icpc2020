@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0532569885253906,
+  "n_files"            : 1,
+  "n_lines"            : 254,
+  "files_per_second"   : 18.7768784471026,
+  "lines_per_second"   : 4769.32712556407,
+  "report_file"        : "loc/dwyl__learn-ipfs.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 87,
+  "comment": 0,
+  "code": 167},
+"SUM": {
+  "blank": 87,
+  "comment": 0,
+  "code": 167,
+  "nFiles": 1} }

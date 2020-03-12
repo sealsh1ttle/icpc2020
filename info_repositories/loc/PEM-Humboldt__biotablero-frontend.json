@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.428486824035645,
+  "n_files"            : 68,
+  "n_lines"            : 10776,
+  "files_per_second"   : 158.697995330525,
+  "lines_per_second"   : 25148.9646717902,
+  "report_file"        : "loc/PEM-Humboldt__biotablero-frontend.json"},
+"JSX" :{
+  "nFiles": 54,
+  "blank": 428,
+  "comment": 383,
+  "code": 6496},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 337,
+  "comment": 36,
+  "code": 2110},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 65,
+  "comment": 262,
+  "code": 320},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 217},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 0,
+  "code": 47},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 5,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 12},
+"SUM": {
+  "blank": 869,
+  "comment": 688,
+  "code": 9219,
+  "nFiles": 68} }

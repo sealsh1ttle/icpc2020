@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.254809141159058,
+  "n_files"            : 23,
+  "n_lines"            : 2299,
+  "files_per_second"   : 90.2636376991,
+  "lines_per_second"   : 9022.43926392308,
+  "report_file"        : "loc/eisensheng__pytest-catchlog.json"},
+"Python" :{
+  "nFiles": 17,
+  "blank": 406,
+  "comment": 344,
+  "code": 1156},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 23,
+  "code": 171},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 46},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 27},
+"INI" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 506,
+  "comment": 367,
+  "code": 1426,
+  "nFiles": 23} }

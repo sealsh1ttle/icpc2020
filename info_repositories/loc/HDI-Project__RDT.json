@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.244809150695801,
+  "n_files"            : 36,
+  "n_lines"            : 4130,
+  "files_per_second"   : 147.053326632931,
+  "lines_per_second"   : 16870.2844165001,
+  "report_file"        : "loc/HDI-Project__RDT.json"},
+"Python" :{
+  "nFiles": 18,
+  "blank": 591,
+  "comment": 739,
+  "code": 1445},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 174,
+  "comment": 0,
+  "code": 393},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 246},
+"make" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 12,
+  "code": 151},
+"reStructuredText" :{
+  "nFiles": 7,
+  "blank": 69,
+  "comment": 17,
+  "code": 145},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 19},
+"SUM": {
+  "blank": 908,
+  "comment": 772,
+  "code": 2450,
+  "nFiles": 36} }

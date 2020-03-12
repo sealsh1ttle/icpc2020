@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.32854890823364,
+  "n_files"            : 399,
+  "n_lines"            : 92124,
+  "files_per_second"   : 119.872055661558,
+  "lines_per_second"   : 27676.9254530459,
+  "report_file"        : "loc/pytest-dev__pytest.json"},
+"Python" :{
+  "nFiles": 189,
+  "blank": 9672,
+  "comment": 16556,
+  "code": 36324},
+"reStructuredText" :{
+  "nFiles": 184,
+  "blank": 9439,
+  "comment": 6388,
+  "code": 12486},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 27,
+  "comment": 29,
+  "code": 252},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 1,
+  "code": 166},
+"INI" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 1,
+  "code": 164},
+"make" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 4,
+  "code": 124},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 19,
+  "code": 113},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 5,
+  "comment": 0,
+  "code": 108},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 0,
+  "code": 83},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 13},
+"SUM": {
+  "blank": 19273,
+  "comment": 23002,
+  "code": 49849,
+  "nFiles": 399} }

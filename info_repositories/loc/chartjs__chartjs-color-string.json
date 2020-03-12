@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.882419109344482,
+  "n_files"            : 6,
+  "n_lines"            : 440,
+  "files_per_second"   : 6.79949010222272,
+  "lines_per_second"   : 498.629274163,
+  "report_file"        : "loc/chartjs__chartjs-color-string.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 13,
+  "code": 295},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 41},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 56,
+  "comment": 13,
+  "code": 371,
+  "nFiles": 6} }

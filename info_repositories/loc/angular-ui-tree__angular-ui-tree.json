@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.326834201812744,
+  "n_files"            : 58,
+  "n_lines"            : 7036,
+  "files_per_second"   : 177.460007790832,
+  "lines_per_second"   : 21527.734738212,
+  "report_file"        : "loc/angular-ui-tree__angular-ui-tree.json"},
+"JavaScript" :{
+  "nFiles": 39,
+  "blank": 791,
+  "comment": 672,
+  "code": 3929},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 233,
+  "comment": 0,
+  "code": 562},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 52,
+  "comment": 14,
+  "code": 512},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 1,
+  "code": 113},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 104},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 22},
+"SUM": {
+  "blank": 1104,
+  "comment": 690,
+  "code": 5242,
+  "nFiles": 58} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 85.7081060409546,
+  "n_files"            : 421,
+  "n_lines"            : 191920,
+  "files_per_second"   : 4.9120208046463,
+  "lines_per_second"   : 2239.22810647914,
+  "report_file"        : "loc/AzureAD__microsoft-authentication-library-for-js.json"},
+"JSON" :{
+  "nFiles": 46,
+  "blank": 3,
+  "comment": 0,
+  "code": 62168},
+"JavaScript" :{
+  "nFiles": 90,
+  "blank": 7587,
+  "comment": 42250,
+  "code": 43262},
+"HTML" :{
+  "nFiles": 91,
+  "blank": 197,
+  "comment": 23,
+  "code": 18868},
+"TypeScript" :{
+  "nFiles": 162,
+  "blank": 2067,
+  "comment": 2185,
+  "code": 10170},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 599,
+  "comment": 0,
+  "code": 1390},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 166,
+  "comment": 60,
+  "code": 697},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 110},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 6,
+  "code": 62},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 10663,
+  "comment": 44524,
+  "code": 136733,
+  "nFiles": 421} }

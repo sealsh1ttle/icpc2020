@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.192890882492065,
+  "n_files"            : 19,
+  "n_lines"            : 3314,
+  "files_per_second"   : 98.5012860873897,
+  "lines_per_second"   : 17180.6980049268,
+  "report_file"        : "loc/openbaton__openstack4j-plugin.json"},
+"Java" :{
+  "nFiles": 3,
+  "blank": 187,
+  "comment": 89,
+  "code": 2050},
+"Gradle" :{
+  "nFiles": 10,
+  "blank": 59,
+  "comment": 177,
+  "code": 259},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 0,
+  "code": 99},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 27,
+  "code": 30},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 348,
+  "comment": 316,
+  "code": 2650,
+  "nFiles": 19} }

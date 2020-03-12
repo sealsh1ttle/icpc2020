@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.22423601150513,
+  "n_files"            : 1090,
+  "n_lines"            : 140170,
+  "files_per_second"   : 118.16696782698,
+  "lines_per_second"   : 15195.8384223008,
+  "report_file"        : "loc/hmrc__pension-administrator-frontend.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 59268},
+"Scala" :{
+  "nFiles": 890,
+  "blank": 12617,
+  "comment": 13442,
+  "code": 46799},
+"HTML" :{
+  "nFiles": 104,
+  "blank": 783,
+  "comment": 0,
+  "code": 4302},
+"Bourne Shell" :{
+  "nFiles": 53,
+  "blank": 361,
+  "comment": 0,
+  "code": 1170},
+"Sass" :{
+  "nFiles": 13,
+  "blank": 69,
+  "comment": 13,
+  "code": 649},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 48,
+  "comment": 63,
+  "code": 218},
+"XML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 188},
+"Java" :{
+  "nFiles": 11,
+  "blank": 33,
+  "comment": 0,
+  "code": 121},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 5},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 13931,
+  "comment": 13518,
+  "code": 112721,
+  "nFiles": 1090} }

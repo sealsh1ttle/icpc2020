@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.17553615570068,
+  "n_files"            : 12,
+  "n_lines"            : 293,
+  "files_per_second"   : 3.77888942579279,
+  "lines_per_second"   : 92.267883479774,
+  "report_file"        : "loc/ironhack-labs__lab-express-cinema.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 0,
+  "code": 112},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 4,
+  "code": 46},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"Handlebars" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 20},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 64,
+  "comment": 4,
+  "code": 225,
+  "nFiles": 12} }

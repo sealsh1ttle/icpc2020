@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.28846907615662,
+  "n_files"            : 21,
+  "n_lines"            : 1837,
+  "files_per_second"   : 4.8968523795024,
+  "lines_per_second"   : 428.357991483139,
+  "report_file"        : "loc/amalc__rubyzoho.json"},
+"Ruby" :{
+  "nFiles": 14,
+  "blank": 236,
+  "comment": 24,
+  "code": 1556},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"XML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 236,
+  "comment": 24,
+  "code": 1577,
+  "nFiles": 21} }

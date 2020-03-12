@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.329004049301147,
+  "n_files"            : 48,
+  "n_lines"            : 3859,
+  "files_per_second"   : 145.894860874688,
+  "lines_per_second"   : 11729.3389190713,
+  "report_file"        : "loc/Frederikam__Lavalink.json"},
+"Java" :{
+  "nFiles": 30,
+  "blank": 392,
+  "comment": 325,
+  "code": 1442},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 116,
+  "comment": 0,
+  "code": 509},
+"Kotlin" :{
+  "nFiles": 4,
+  "blank": 88,
+  "comment": 61,
+  "code": 401},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 13,
+  "code": 174},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 1,
+  "code": 34},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 683,
+  "comment": 424,
+  "code": 2752,
+  "nFiles": 48} }

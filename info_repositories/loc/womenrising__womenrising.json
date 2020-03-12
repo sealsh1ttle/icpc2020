@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.9699819087982,
+  "n_files"            : 181,
+  "n_lines"            : 27118,
+  "files_per_second"   : 6.03937635167088,
+  "lines_per_second"   : 904.838717705032,
+  "report_file"        : "loc/womenrising__womenrising.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 2133,
+  "comment": 1708,
+  "code": 7789},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 35,
+  "comment": 26,
+  "code": 7638},
+"Ruby" :{
+  "nFiles": 115,
+  "blank": 517,
+  "comment": 835,
+  "code": 2218},
+"ERB" :{
+  "nFiles": 26,
+  "blank": 143,
+  "comment": 0,
+  "code": 1191},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 245,
+  "comment": 13,
+  "code": 1061},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 61,
+  "comment": 29,
+  "code": 588},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 99,
+  "comment": 0,
+  "code": 208},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 22,
+  "comment": 31,
+  "code": 135},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 83},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 10},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 3262,
+  "comment": 2647,
+  "code": 21209,
+  "nFiles": 181} }

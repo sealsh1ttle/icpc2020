@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.7732489109039,
+  "n_files"            : 97,
+  "n_lines"            : 33430,
+  "files_per_second"   : 4.66946698689411,
+  "lines_per_second"   : 1609.28125125639,
+  "report_file"        : "loc/hakimel__reveal.js.json"},
+"JavaScript" :{
+  "nFiles": 29,
+  "blank": 2815,
+  "comment": 2601,
+  "code": 8443},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 5978},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 921,
+  "comment": 536,
+  "code": 4226},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 833,
+  "comment": 45,
+  "code": 2803},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 481,
+  "comment": 116,
+  "code": 2097},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 444,
+  "comment": 0,
+  "code": 1086},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 5494,
+  "comment": 3298,
+  "code": 24638,
+  "nFiles": 97} }

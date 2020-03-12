@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.324783086776733,
+  "n_files"            : 35,
+  "n_lines"            : 2690,
+  "files_per_second"   : 107.764232267612,
+  "lines_per_second"   : 8282.45099428221,
+  "report_file"        : "loc/apiaryio__apiblueprint.org.json"},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 135,
+  "comment": 153,
+  "code": 763},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 432},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 10,
+  "code": 320},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 113,
+  "comment": 0,
+  "code": 282},
+"ERB" :{
+  "nFiles": 10,
+  "blank": 40,
+  "comment": 0,
+  "code": 268},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 4,
+  "code": 88},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 19,
+  "code": 26},
+"SUM": {
+  "blank": 325,
+  "comment": 186,
+  "code": 2179,
+  "nFiles": 35} }

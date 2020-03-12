@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.90628385543823,
+  "n_files"            : 195,
+  "n_lines"            : 85767,
+  "files_per_second"   : 67.0959925800491,
+  "lines_per_second"   : 29510.882028785,
+  "report_file"        : "loc/Lemoncode__async-javascript-fundamentals.json"},
+"JSON" :{
+  "nFiles": 25,
+  "blank": 0,
+  "comment": 0,
+  "code": 78158},
+"Markdown" :{
+  "nFiles": 36,
+  "blank": 714,
+  "comment": 0,
+  "code": 3075},
+"JavaScript" :{
+  "nFiles": 102,
+  "blank": 370,
+  "comment": 179,
+  "code": 2344},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 82,
+  "comment": 7,
+  "code": 606},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 0,
+  "code": 166},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1206,
+  "comment": 186,
+  "code": 84375,
+  "nFiles": 195} }

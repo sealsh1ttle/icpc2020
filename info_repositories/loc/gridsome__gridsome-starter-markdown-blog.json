@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.194159030914307,
+  "n_files"            : 12,
+  "n_lines"            : 358,
+  "files_per_second"   : 61.8050056363141,
+  "lines_per_second"   : 1843.8493348167,
+  "report_file"        : "loc/gridsome__gridsome-starter-markdown-blog.json"},
+"Vuejs Component" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 3,
+  "code": 188},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 34,
+  "comment": 0,
+  "code": 57},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 22},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 71,
+  "comment": 3,
+  "code": 284,
+  "nFiles": 12} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 88.3096599578857,
+  "n_files"            : 399,
+  "n_lines"            : 14351,
+  "files_per_second"   : 4.51819200968818,
+  "lines_per_second"   : 162.507703085301,
+  "report_file"        : "loc/theforeman__foreman-infra.json"},
+"YAML" :{
+  "nFiles": 162,
+  "blank": 68,
+  "comment": 42,
+  "code": 3507},
+"Groovy" :{
+  "nFiles": 79,
+  "blank": 376,
+  "comment": 18,
+  "code": 3043},
+"Puppet" :{
+  "nFiles": 64,
+  "blank": 271,
+  "comment": 412,
+  "code": 2505},
+"ERB" :{
+  "nFiles": 26,
+  "blank": 290,
+  "comment": 0,
+  "code": 1466},
+"Bourne Shell" :{
+  "nFiles": 40,
+  "blank": 267,
+  "comment": 221,
+  "code": 934},
+"Ruby" :{
+  "nFiles": 16,
+  "blank": 89,
+  "comment": 24,
+  "code": 408},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 0,
+  "code": 117},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 0,
+  "code": 83},
+"Python" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 65},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 28},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1469,
+  "comment": 717,
+  "code": 12165,
+  "nFiles": 399} }

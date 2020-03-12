@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 61.1161820888519,
+  "n_files"            : 434,
+  "n_lines"            : 51204,
+  "files_per_second"   : 7.10122892442859,
+  "lines_per_second"   : 837.814114853552,
+  "report_file"        : "loc/projectatomic__atomic-site.json"},
+"Markdown" :{
+  "nFiles": 347,
+  "blank": 8391,
+  "comment": 0,
+  "code": 25348},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 1182,
+  "comment": 702,
+  "code": 7574},
+"Haml" :{
+  "nFiles": 33,
+  "blank": 706,
+  "comment": 100,
+  "code": 2185},
+"Sass" :{
+  "nFiles": 20,
+  "blank": 573,
+  "comment": 483,
+  "code": 1470},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 406},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 131,
+  "comment": 143,
+  "code": 390},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 168,
+  "comment": 261,
+  "code": 387},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 66,
+  "comment": 73,
+  "code": 185},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 74,
+  "code": 42},
+"builder" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 37},
+"Python" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 13,
+  "code": 23},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 7,
+  "code": 14},
+"SUM": {
+  "blank": 11266,
+  "comment": 1861,
+  "code": 38077,
+  "nFiles": 434} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 56.8775489330292,
+  "n_files"            : 155,
+  "n_lines"            : 81508,
+  "files_per_second"   : 2.72515259373265,
+  "lines_per_second"   : 1433.04346845136,
+  "report_file"        : "loc/lappis-unb__salic-ml.json"},
+"Jupyter Notebook" :{
+  "nFiles": 47,
+  "blank": 0,
+  "comment": 67814,
+  "code": 7222},
+"Python" :{
+  "nFiles": 71,
+  "blank": 936,
+  "comment": 534,
+  "code": 3660},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 203,
+  "comment": 0,
+  "code": 528},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 24,
+  "comment": 0,
+  "code": 231},
+"SQL" :{
+  "nFiles": 13,
+  "blank": 6,
+  "comment": 14,
+  "code": 201},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 6,
+  "code": 80},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 13},
+"INI" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1194,
+  "comment": 68368,
+  "code": 11946,
+  "nFiles": 155} }

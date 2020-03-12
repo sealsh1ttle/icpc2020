@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.36083388328552,
+  "n_files"            : 24,
+  "n_lines"            : 5369,
+  "files_per_second"   : 3.77309020175251,
+  "lines_per_second"   : 844.071720550385,
+  "report_file"        : "loc/funtoo__merge-scripts.json"},
+"Python" :{
+  "nFiles": 24,
+  "blank": 848,
+  "comment": 777,
+  "code": 3744},
+"SUM": {
+  "blank": 848,
+  "comment": 777,
+  "code": 3744,
+  "nFiles": 24} }

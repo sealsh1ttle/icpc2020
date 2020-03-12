@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.1465780735016,
+  "n_files"            : 42,
+  "n_lines"            : 12932,
+  "files_per_second"   : 4.13932654888702,
+  "lines_per_second"   : 1274.51835548112,
+  "report_file"        : "loc/RyanFitzgerald__devportfolio.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4785},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 195,
+  "comment": 43,
+  "code": 2487},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 35,
+  "code": 2192},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 44,
+  "code": 1646},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 685},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 96,
+  "comment": 0,
+  "code": 264},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 21,
+  "code": 240},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 33,
+  "code": 88},
+"SUM": {
+  "blank": 369,
+  "comment": 176,
+  "code": 12387,
+  "nFiles": 42} }

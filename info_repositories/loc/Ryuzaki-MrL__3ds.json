@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 84.3461580276489,
+  "n_files"            : 14,
+  "n_lines"            : 7713,
+  "files_per_second"   : 0.165982663909964,
+  "lines_per_second"   : 91.4445919098254,
+  "report_file"        : "loc/Ryuzaki-MrL__3ds.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5618},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 20,
+  "code": 1166},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 351},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 304},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 201},
+"SUM": {
+  "blank": 53,
+  "comment": 20,
+  "code": 7640,
+  "nFiles": 14} }

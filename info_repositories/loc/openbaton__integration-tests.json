@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.030543088913,
+  "n_files"            : 96,
+  "n_lines"            : 10275,
+  "files_per_second"   : 5.98856816438087,
+  "lines_per_second"   : 640.96393634389,
+  "report_file"        : "loc/openbaton__integration-tests.json"},
+"Java" :{
+  "nFiles": 37,
+  "blank": 519,
+  "comment": 868,
+  "code": 3335},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 17,
+  "comment": 0,
+  "code": 2955},
+"INI" :{
+  "nFiles": 17,
+  "blank": 292,
+  "comment": 279,
+  "code": 901},
+"Bourne Shell" :{
+  "nFiles": 18,
+  "blank": 54,
+  "comment": 22,
+  "code": 331},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 61,
+  "comment": 0,
+  "code": 173},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 47,
+  "code": 73},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"XML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 18,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 19},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1012,
+  "comment": 1258,
+  "code": 8005,
+  "nFiles": 96} }

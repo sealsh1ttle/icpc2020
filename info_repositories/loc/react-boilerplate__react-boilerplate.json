@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 59.6309080123901,
+  "n_files"            : 276,
+  "n_lines"            : 29795,
+  "files_per_second"   : 4.62847220006532,
+  "lines_per_second"   : 499.656989858501,
+  "report_file"        : "loc/react-boilerplate__react-boilerplate.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 17411},
+"JavaScript" :{
+  "nFiles": 203,
+  "blank": 1069,
+  "comment": 840,
+  "code": 5772},
+"Markdown" :{
+  "nFiles": 40,
+  "blank": 1172,
+  "comment": 0,
+  "code": 2925},
+"Handlebars" :{
+  "nFiles": 22,
+  "blank": 53,
+  "comment": 0,
+  "code": 378},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 26,
+  "comment": 31,
+  "code": 56},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 13,
+  "code": 33},
+"SUM": {
+  "blank": 2336,
+  "comment": 884,
+  "code": 26575,
+  "nFiles": 276} }

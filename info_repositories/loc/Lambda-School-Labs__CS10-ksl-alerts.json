@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.2004520893097,
+  "n_files"            : 49,
+  "n_lines"            : 4981,
+  "files_per_second"   : 4.37482340974149,
+  "lines_per_second"   : 444.714191916783,
+  "report_file"        : "loc/Lambda-School-Labs__CS10-ksl-alerts.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 792,
+  "comment": 0,
+  "code": 1776},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 163,
+  "comment": 99,
+  "code": 1624},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 59,
+  "comment": 70,
+  "code": 278},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 73},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 24},
+"SUM": {
+  "blank": 1017,
+  "comment": 189,
+  "code": 3775,
+  "nFiles": 49} }

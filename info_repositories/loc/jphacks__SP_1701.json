@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.9680209159851,
+  "n_files"            : 52,
+  "n_lines"            : 2536,
+  "files_per_second"   : 3.72278938532307,
+  "lines_per_second"   : 181.557574638064,
+  "report_file"        : "loc/jphacks__SP_1701.json"},
+"XML" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 6,
+  "code": 670},
+"Swift" :{
+  "nFiles": 15,
+  "blank": 256,
+  "comment": 261,
+  "code": 590},
+"Python" :{
+  "nFiles": 16,
+  "blank": 106,
+  "comment": 37,
+  "code": 291},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 217},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 76},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 387,
+  "comment": 304,
+  "code": 1845,
+  "nFiles": 52} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 161.875169038773,
+  "n_files"            : 12968,
+  "n_lines"            : 604785,
+  "files_per_second"   : 80.1111132547691,
+  "lines_per_second"   : 3736.11965066205,
+  "report_file"        : "loc/babel__babel.json"},
+"JSON" :{
+  "nFiles": 4030,
+  "blank": 0,
+  "comment": 0,
+  "code": 436202},
+"JavaScript" :{
+  "nFiles": 8403,
+  "blank": 20907,
+  "comment": 6929,
+  "code": 121763},
+"Markdown" :{
+  "nFiles": 176,
+  "blank": 4295,
+  "comment": 0,
+  "code": 12703},
+"TypeScript" :{
+  "nFiles": 341,
+  "blank": 60,
+  "comment": 86,
+  "code": 1115},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 41,
+  "comment": 18,
+  "code": 215},
+"make" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 8,
+  "code": 176},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 0,
+  "code": 112},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 0,
+  "code": 49},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 4},
+"SUM": {
+  "blank": 25399,
+  "comment": 7047,
+  "code": 572339,
+  "nFiles": 12968} }

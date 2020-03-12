@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.03256893157959,
+  "n_files"            : 120,
+  "n_lines"            : 5625,
+  "files_per_second"   : 116.215001565492,
+  "lines_per_second"   : 5447.57819838242,
+  "report_file"        : "loc/SE7-KN8__gates.json"},
+"JSON" :{
+  "nFiles": 105,
+  "blank": 91,
+  "comment": 0,
+  "code": 4599},
+"Java" :{
+  "nFiles": 10,
+  "blank": 92,
+  "comment": 3,
+  "code": 380},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 37,
+  "code": 86},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 27,
+  "code": 25},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 253,
+  "comment": 91,
+  "code": 5281,
+  "nFiles": 120} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.4773597717285,
+  "n_files"            : 56,
+  "n_lines"            : 2570,
+  "files_per_second"   : 3.86810861116798,
+  "lines_per_second"   : 177.518555905388,
+  "report_file"        : "loc/studieresan__overlord.json"},
+"TypeScript" :{
+  "nFiles": 49,
+  "blank": 220,
+  "comment": 117,
+  "code": 1877},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 206},
+"Python" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 2,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 41},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 260,
+  "comment": 119,
+  "code": 2191,
+  "nFiles": 56} }

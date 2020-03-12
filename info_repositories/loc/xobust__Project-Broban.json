@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7975640296936,
+  "n_files"            : 32,
+  "n_lines"            : 2610,
+  "files_per_second"   : 2.96363141834576,
+  "lines_per_second"   : 241.721187558826,
+  "report_file"        : "loc/xobust__Project-Broban.json"},
+"C#" :{
+  "nFiles": 19,
+  "blank": 211,
+  "comment": 335,
+  "code": 1453},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 14,
+  "code": 178},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 3,
+  "code": 133},
+"PHP" :{
+  "nFiles": 7,
+  "blank": 15,
+  "comment": 13,
+  "code": 133},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 0,
+  "code": 46},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 24},
+"SUM": {
+  "blank": 277,
+  "comment": 366,
+  "code": 1967,
+  "nFiles": 32} }

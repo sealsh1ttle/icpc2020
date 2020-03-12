@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.3545398712158,
+  "n_files"            : 312,
+  "n_lines"            : 28781,
+  "files_per_second"   : 9.64315985459495,
+  "lines_per_second"   : 889.550589022747,
+  "report_file"        : "loc/ProofGeneral__proofgeneral.github.io.json"},
+"HTML" :{
+  "nFiles": 272,
+  "blank": 1356,
+  "comment": 8,
+  "code": 14788},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 201,
+  "comment": 305,
+  "code": 7928},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 598,
+  "comment": 213,
+  "code": 1644},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 272,
+  "comment": 0,
+  "code": 889},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 20,
+  "code": 135},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 39,
+  "code": 115},
+"make" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 14,
+  "code": 54},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"SUM": {
+  "blank": 2475,
+  "comment": 599,
+  "code": 25707,
+  "nFiles": 312} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.97721004486084,
+  "n_files"            : 125,
+  "n_lines"            : 25681,
+  "files_per_second"   : 127.915181242126,
+  "lines_per_second"   : 26279.9181558322,
+  "report_file"        : "loc/miya0001__Front-End-Checklist.json"},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 2,
+  "comment": 0,
+  "code": 18701},
+"Sass" :{
+  "nFiles": 36,
+  "blank": 422,
+  "comment": 103,
+  "code": 2020},
+"JavaScript" :{
+  "nFiles": 21,
+  "blank": 317,
+  "comment": 381,
+  "code": 1349},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 519,
+  "comment": 0,
+  "code": 1087},
+"Pug" :{
+  "nFiles": 38,
+  "blank": 154,
+  "comment": 54,
+  "code": 475},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 16,
+  "code": 39},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 19},
+"SUM": {
+  "blank": 1415,
+  "comment": 555,
+  "code": 23711,
+  "nFiles": 125} }

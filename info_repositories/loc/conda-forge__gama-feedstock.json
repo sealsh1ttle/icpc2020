@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.73122000694275,
+  "n_files"            : 25,
+  "n_lines"            : 911,
+  "files_per_second"   : 6.70022136284702,
+  "lines_per_second"   : 244.156066462145,
+  "report_file"        : "loc/conda-forge__gama-feedstock.json"},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 77,
+  "comment": 50,
+  "code": 342},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 56,
+  "comment": 38,
+  "code": 138},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 46,
+  "comment": 0,
+  "code": 135},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 13},
+"diff" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 4},
+"SUM": {
+  "blank": 185,
+  "comment": 94,
+  "code": 632,
+  "nFiles": 25} }

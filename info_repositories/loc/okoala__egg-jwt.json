@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.3491370677948,
+  "n_files"            : 29,
+  "n_lines"            : 623,
+  "files_per_second"   : 3.94604151922585,
+  "lines_per_second"   : 84.7718574647484,
+  "report_file"        : "loc/okoala__egg-jwt.json"},
+"JavaScript" :{
+  "nFiles": 19,
+  "blank": 48,
+  "comment": 6,
+  "code": 260},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 0,
+  "code": 139},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 24},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 18,
+  "code": 23},
+"SUM": {
+  "blank": 95,
+  "comment": 24,
+  "code": 504,
+  "nFiles": 29} }

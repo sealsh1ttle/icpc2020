@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.7381248474121,
+  "n_files"            : 61,
+  "n_lines"            : 10337,
+  "files_per_second"   : 3.64437477651096,
+  "lines_per_second"   : 617.572164996619,
+  "report_file"        : "loc/mildrenben__surface.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5573},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 78,
+  "comment": 0,
+  "code": 2535},
+"Sass" :{
+  "nFiles": 28,
+  "blank": 225,
+  "comment": 44,
+  "code": 1653},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 3,
+  "code": 137},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 334,
+  "comment": 47,
+  "code": 9956,
+  "nFiles": 61} }

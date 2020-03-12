@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.74878001213074,
+  "n_files"            : 3,
+  "n_lines"            : 213,
+  "files_per_second"   : 1.71548163816486,
+  "lines_per_second"   : 121.799196309705,
+  "report_file"        : "loc/ironhack-labs__lab-css-flexbox-slack.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 98},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 0,
+  "code": 54},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 0},
+"SUM": {
+  "blank": 54,
+  "comment": 7,
+  "code": 152,
+  "nFiles": 3} }

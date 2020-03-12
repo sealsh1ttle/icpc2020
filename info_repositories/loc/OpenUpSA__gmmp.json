@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.4661338329315,
+  "n_files"            : 77,
+  "n_lines"            : 28175,
+  "files_per_second"   : 3.95558772280382,
+  "lines_per_second"   : 1447.38550766231,
+  "report_file"        : "loc/OpenUpSA__gmmp.json"},
+"Python" :{
+  "nFiles": 54,
+  "blank": 1525,
+  "comment": 1102,
+  "code": 8943},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 22,
+  "code": 6618},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3673},
+"PO File" :{
+  "nFiles": 3,
+  "blank": 699,
+  "comment": 723,
+  "code": 1907},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 584,
+  "comment": 197,
+  "code": 1589},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 20,
+  "comment": 27,
+  "code": 193},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 33},
+"SUM": {
+  "blank": 2860,
+  "comment": 2071,
+  "code": 23244,
+  "nFiles": 77} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.28922414779663,
+  "n_files"            : 4,
+  "n_lines"            : 2176,
+  "files_per_second"   : 0.7562545825679,
+  "lines_per_second"   : 411.402492916938,
+  "report_file"        : "loc/flathub__org.kde.skrooge.json"},
+"diff" :{
+  "nFiles": 2,
+  "blank": 143,
+  "comment": 638,
+  "code": 1267},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 118},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 150,
+  "comment": 638,
+  "code": 1388,
+  "nFiles": 4} }

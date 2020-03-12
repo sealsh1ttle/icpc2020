@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.347146987915039,
+  "n_files"            : 25,
+  "n_lines"            : 9506,
+  "files_per_second"   : 72.015603966924,
+  "lines_per_second"   : 27383.2132523832,
+  "report_file"        : "loc/madler__pigz.json"},
+"C" :{
+  "nFiles": 12,
+  "blank": 873,
+  "comment": 1538,
+  "code": 5539},
+"C/C++ Header" :{
+  "nFiles": 12,
+  "blank": 234,
+  "comment": 882,
+  "code": 336},
+"make" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 74},
+"SUM": {
+  "blank": 1136,
+  "comment": 2421,
+  "code": 5949,
+  "nFiles": 25} }

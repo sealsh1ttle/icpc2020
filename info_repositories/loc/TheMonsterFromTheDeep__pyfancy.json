@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0351941585540771,
+  "n_files"            : 4,
+  "n_lines"            : 163,
+  "files_per_second"   : 113.655224740033,
+  "lines_per_second"   : 4631.45040815635,
+  "report_file"        : "loc/TheMonsterFromTheDeep__pyfancy.json"},
+"Python" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 34,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 26,
+  "comment": 34,
+  "code": 103,
+  "nFiles": 4} }

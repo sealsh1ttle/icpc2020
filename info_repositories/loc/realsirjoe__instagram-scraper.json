@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.67430996894836,
+  "n_files"            : 49,
+  "n_lines"            : 3308,
+  "files_per_second"   : 6.38493886724185,
+  "lines_per_second"   : 431.048525976246,
+  "report_file"        : "loc/realsirjoe__instagram-scraper.json"},
+"Python" :{
+  "nFiles": 47,
+  "blank": 664,
+  "comment": 568,
+  "code": 1968},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 0,
+  "code": 83},
+"SUM": {
+  "blank": 689,
+  "comment": 568,
+  "code": 2051,
+  "nFiles": 49} }

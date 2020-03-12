@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.65367698669434,
+  "n_files"            : 9,
+  "n_lines"            : 699,
+  "files_per_second"   : 3.39152053740016,
+  "lines_per_second"   : 263.408095071412,
+  "report_file"        : "loc/SeTeM__pync.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 132,
+  "comment": 0,
+  "code": 247},
+"Python" :{
+  "nFiles": 3,
+  "blank": 61,
+  "comment": 63,
+  "code": 128},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 63},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 193,
+  "comment": 63,
+  "code": 443,
+  "nFiles": 9} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.3810451030731,
+  "n_files"            : 87,
+  "n_lines"            : 17627,
+  "files_per_second"   : 4.0690246702438,
+  "lines_per_second"   : 824.421814510202,
+  "report_file"        : "loc/ealush__emoji-picker-react.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 13457},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 209,
+  "comment": 13,
+  "code": 1778},
+"JavaScript" :{
+  "nFiles": 52,
+  "blank": 340,
+  "comment": 27,
+  "code": 1511},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 56,
+  "comment": 0,
+  "code": 144},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 57},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SVG" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 612,
+  "comment": 40,
+  "code": 16975,
+  "nFiles": 87} }

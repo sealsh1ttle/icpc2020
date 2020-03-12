@@ -1,0 +1,169 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.5912330150604,
+  "n_files"            : 6123,
+  "n_lines"            : 1649543,
+  "files_per_second"   : 91.9490407786143,
+  "lines_per_second"   : 24771.1737013029,
+  "report_file"        : "loc/rhcs-dashboard__ceph.json"},
+"C++" :{
+  "nFiles": 1399,
+  "blank": 112158,
+  "comment": 46275,
+  "code": 672201},
+"C/C++ Header" :{
+  "nFiles": 1387,
+  "blank": 40637,
+  "comment": 43471,
+  "code": 191986},
+"Python" :{
+  "nFiles": 501,
+  "blank": 19421,
+  "comment": 18482,
+  "code": 87014},
+"reStructuredText" :{
+  "nFiles": 414,
+  "blank": 26168,
+  "comment": 8393,
+  "code": 72168},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 54,
+  "code": 52665},
+"XML" :{
+  "nFiles": 13,
+  "blank": 23,
+  "comment": 0,
+  "code": 48554},
+"TypeScript" :{
+  "nFiles": 545,
+  "blank": 5834,
+  "comment": 1342,
+  "code": 39575},
+"Bourne Shell" :{
+  "nFiles": 400,
+  "blank": 7212,
+  "comment": 5391,
+  "code": 38765},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 1,
+  "comment": 0,
+  "code": 25858},
+"YAML" :{
+  "nFiles": 910,
+  "blank": 450,
+  "comment": 552,
+  "code": 13930},
+"CMake" :{
+  "nFiles": 182,
+  "blank": 1488,
+  "comment": 1588,
+  "code": 10809},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 2081,
+  "comment": 1879,
+  "code": 9113},
+"HTML" :{
+  "nFiles": 129,
+  "blank": 475,
+  "comment": 187,
+  "code": 8305},
+"C" :{
+  "nFiles": 59,
+  "blank": 1304,
+  "comment": 1212,
+  "code": 7335},
+"Cython" :{
+  "nFiles": 5,
+  "blank": 1815,
+  "comment": 2705,
+  "code": 6666},
+"Bourne Again Shell" :{
+  "nFiles": 16,
+  "blank": 496,
+  "comment": 526,
+  "code": 2720},
+"Sass" :{
+  "nFiles": 53,
+  "blank": 221,
+  "comment": 1,
+  "code": 1863},
+"Assembly" :{
+  "nFiles": 4,
+  "blank": 231,
+  "comment": 344,
+  "code": 1603},
+"Java" :{
+  "nFiles": 16,
+  "blank": 399,
+  "comment": 1005,
+  "code": 1590},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 126,
+  "comment": 121,
+  "code": 851},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 236,
+  "comment": 0,
+  "code": 535},
+"INI" :{
+  "nFiles": 14,
+  "blank": 62,
+  "comment": 0,
+  "code": 333},
+"make" :{
+  "nFiles": 11,
+  "blank": 64,
+  "comment": 18,
+  "code": 191},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 136},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 82},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 65},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 5,
+  "code": 38},
+"SWIG" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 11,
+  "code": 26},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 8,
+  "code": 21},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 4},
+"D" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 220962,
+  "comment": 133578,
+  "code": 1295003,
+  "nFiles": 6123} }

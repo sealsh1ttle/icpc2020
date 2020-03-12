@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.126534938812256,
+  "n_files"            : 15,
+  "n_lines"            : 1563,
+  "files_per_second"   : 118.54433361094,
+  "lines_per_second"   : 12352.31956226,
+  "report_file"        : "loc/haumea-lang__haumea-rs.json"},
+"Rust" :{
+  "nFiles": 9,
+  "blank": 83,
+  "comment": 191,
+  "code": 1100},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 96},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 44},
+"Python" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 103,
+  "comment": 191,
+  "code": 1269,
+  "nFiles": 15} }

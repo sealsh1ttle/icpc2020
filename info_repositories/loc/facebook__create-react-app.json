@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 112.767230033875,
+  "n_files"            : 409,
+  "n_lines"            : 112512,
+  "files_per_second"   : 3.62694020130794,
+  "lines_per_second"   : 997.736664864448,
+  "report_file"        : "loc/facebook__create-react-app.json"},
+"JavaScript" :{
+  "nFiles": 256,
+  "blank": 12636,
+  "comment": 26395,
+  "code": 59464},
+"Markdown" :{
+  "nFiles": 66,
+  "blank": 2920,
+  "comment": 0,
+  "code": 7280},
+"JSON" :{
+  "nFiles": 34,
+  "blank": 0,
+  "comment": 0,
+  "code": 1665},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 248,
+  "comment": 347,
+  "code": 700},
+"TypeScript" :{
+  "nFiles": 10,
+  "blank": 49,
+  "comment": 40,
+  "code": 258},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 37,
+  "comment": 72,
+  "code": 141},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 19,
+  "comment": 5,
+  "code": 112},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 20,
+  "code": 41},
+"Sass" :{
+  "nFiles": 8,
+  "blank": 3,
+  "comment": 0,
+  "code": 33},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 15916,
+  "comment": 26879,
+  "code": 69717,
+  "nFiles": 409} }

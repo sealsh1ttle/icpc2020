@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.672119855880737,
+  "n_files"            : 59,
+  "n_lines"            : 32444,
+  "files_per_second"   : 87.7819625231681,
+  "lines_per_second"   : 48271.1524085028,
+  "report_file"        : "loc/feathers-plus__feathers-vuex.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 23418},
+"JavaScript" :{
+  "nFiles": 35,
+  "blank": 805,
+  "comment": 123,
+  "code": 5286},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 664,
+  "comment": 0,
+  "code": 2104},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 1469,
+  "comment": 123,
+  "code": 30852,
+  "nFiles": 59} }

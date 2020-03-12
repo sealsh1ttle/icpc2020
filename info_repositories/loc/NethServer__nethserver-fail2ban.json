@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.4819881916046,
+  "n_files"            : 47,
+  "n_lines"            : 16193,
+  "files_per_second"   : 0.878800538073075,
+  "lines_per_second"   : 302.774832191858,
+  "report_file"        : "loc/NethServer__nethserver-fail2ban.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 11855},
+"Vuejs Component" :{
+  "nFiles": 8,
+  "blank": 110,
+  "comment": 56,
+  "code": 2243},
+"PHP" :{
+  "nFiles": 11,
+  "blank": 90,
+  "comment": 59,
+  "code": 578},
+"Perl" :{
+  "nFiles": 6,
+  "blank": 60,
+  "comment": 104,
+  "code": 350},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 0,
+  "code": 205},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 38,
+  "code": 88},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 0,
+  "code": 69},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 49},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 62,
+  "code": 43},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 5,
+  "code": 21},
+"SUM": {
+  "blank": 368,
+  "comment": 324,
+  "code": 15501,
+  "nFiles": 47} }

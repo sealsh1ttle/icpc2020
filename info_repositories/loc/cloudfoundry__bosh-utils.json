@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 213.408174037933,
+  "n_files"            : 904,
+  "n_lines"            : 508929,
+  "files_per_second"   : 4.23601393936914,
+  "lines_per_second"   : 2384.76807317389,
+  "report_file"        : "loc/cloudfoundry__bosh-utils.json"},
+"Go" :{
+  "nFiles": 828,
+  "blank": 34819,
+  "comment": 30808,
+  "code": 435434},
+"Assembly" :{
+  "nFiles": 52,
+  "blank": 691,
+  "comment": 884,
+  "code": 5686},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 33,
+  "comment": 0,
+  "code": 242},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 0,
+  "code": 44},
+"C" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 30,
+  "code": 40},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 1,
+  "code": 38},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 20,
+  "comment": 0,
+  "code": 37},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 23},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 4,
+  "code": 19},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 35625,
+  "comment": 31732,
+  "code": 441572,
+  "nFiles": 904} }

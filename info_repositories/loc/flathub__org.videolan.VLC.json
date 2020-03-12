@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.42061901092529,
+  "n_files"            : 13,
+  "n_lines"            : 1624,
+  "files_per_second"   : 9.15094047033251,
+  "lines_per_second"   : 1143.16364029385,
+  "report_file"        : "loc/flathub__org.videolan.VLC.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 885},
+"diff" :{
+  "nFiles": 9,
+  "blank": 76,
+  "comment": 295,
+  "code": 298},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 43},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 90,
+  "comment": 296,
+  "code": 1238,
+  "nFiles": 13} }

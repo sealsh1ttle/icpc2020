@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0999970436096191,
+  "n_files"            : 20,
+  "n_lines"            : 570,
+  "files_per_second"   : 200.005912955572,
+  "lines_per_second"   : 5700.1685192338,
+  "report_file"        : "loc/IMFIL__Silver.json"},
+"Python" :{
+  "nFiles": 20,
+  "blank": 141,
+  "comment": 54,
+  "code": 375},
+"SUM": {
+  "blank": 141,
+  "comment": 54,
+  "code": 375,
+  "nFiles": 20} }

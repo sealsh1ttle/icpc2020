@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.8707818984985,
+  "n_files"            : 39,
+  "n_lines"            : 2141,
+  "files_per_second"   : 3.03011893974752,
+  "lines_per_second"   : 166.345760256396,
+  "report_file"        : "loc/andriylesch__generator-yogo.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 24,
+  "code": 687},
+"Go" :{
+  "nFiles": 22,
+  "blank": 196,
+  "comment": 71,
+  "code": 620},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 0,
+  "code": 160},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 89},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 85},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 2,
+  "code": 22},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 40,
+  "code": 12},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 8},
+"SUM": {
+  "blank": 317,
+  "comment": 141,
+  "code": 1683,
+  "nFiles": 39} }

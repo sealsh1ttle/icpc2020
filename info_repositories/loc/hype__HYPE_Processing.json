@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.73048782348633,
+  "n_files"            : 349,
+  "n_lines"            : 64657,
+  "files_per_second"   : 127.815988409863,
+  "lines_per_second"   : 23679.6514688152,
+  "report_file"        : "loc/hype__HYPE_Processing.json"},
+"HTML" :{
+  "nFiles": 91,
+  "blank": 124,
+  "comment": 5447,
+  "code": 38744},
+"Arduino Sketch" :{
+  "nFiles": 174,
+  "blank": 1705,
+  "comment": 252,
+  "code": 7158},
+"Java" :{
+  "nFiles": 60,
+  "blank": 1659,
+  "comment": 1488,
+  "code": 6674},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 75,
+  "comment": 0,
+  "code": 364},
+"SVG" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 16,
+  "code": 321},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 31,
+  "code": 228},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 9,
+  "code": 202},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 5,
+  "code": 35},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 29},
+"GLSL" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 3,
+  "code": 21},
+"SUM": {
+  "blank": 3630,
+  "comment": 7251,
+  "code": 53776,
+  "nFiles": 349} }

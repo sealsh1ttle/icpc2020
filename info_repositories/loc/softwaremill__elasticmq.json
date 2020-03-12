@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.0573761463165,
+  "n_files"            : 117,
+  "n_lines"            : 9357,
+  "files_per_second"   : 4.02651634513915,
+  "lines_per_second"   : 322.018063602282,
+  "report_file"        : "loc/softwaremill__elasticmq.json"},
+"Scala" :{
+  "nFiles": 93,
+  "blank": 1290,
+  "comment": 633,
+  "code": 6191},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 9,
+  "comment": 0,
+  "code": 696},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 116,
+  "comment": 0,
+  "code": 306},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"XML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 33},
+"Java" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 6},
+"SUM": {
+  "blank": 1423,
+  "comment": 636,
+  "code": 7298,
+  "nFiles": 117} }

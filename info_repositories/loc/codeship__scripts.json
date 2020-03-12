@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.7442228794098,
+  "n_files"            : 87,
+  "n_lines"            : 2901,
+  "files_per_second"   : 6.32993227506043,
+  "lines_per_second"   : 211.070500344256,
+  "report_file"        : "loc/codeship__scripts.json"},
+"Bourne Shell" :{
+  "nFiles": 81,
+  "blank": 384,
+  "comment": 838,
+  "code": 1497},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 45,
+  "comment": 0,
+  "code": 115},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 430,
+  "comment": 838,
+  "code": 1633,
+  "nFiles": 87} }

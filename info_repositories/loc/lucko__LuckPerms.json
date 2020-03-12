@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.1834268569946,
+  "n_files"            : 713,
+  "n_lines"            : 90196,
+  "files_per_second"   : 58.5221225825031,
+  "lines_per_second"   : 7403.17162475659,
+  "report_file"        : "loc/lucko__LuckPerms.json"},
+"Java" :{
+  "nFiles": 683,
+  "blank": 12370,
+  "comment": 27141,
+  "code": 47050},
+"Gradle" :{
+  "nFiles": 13,
+  "blank": 86,
+  "comment": 90,
+  "code": 411},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 328,
+  "comment": 1764,
+  "code": 343},
+"SQL" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 5,
+  "code": 246},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 0,
+  "code": 51},
+"SUM": {
+  "blank": 12883,
+  "comment": 29024,
+  "code": 48289,
+  "nFiles": 713} }

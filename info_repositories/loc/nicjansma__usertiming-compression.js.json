@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.31233882904053,
+  "n_files"            : 50,
+  "n_lines"            : 6488,
+  "files_per_second"   : 15.0950740792672,
+  "lines_per_second"   : 1958.73681252571,
+  "report_file"        : "loc/nicjansma__usertiming-compression.js.json"},
+"JavaScript" :{
+  "nFiles": 24,
+  "blank": 789,
+  "comment": 1308,
+  "code": 3218},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 866},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 90,
+  "comment": 0,
+  "code": 181},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 879,
+  "comment": 1308,
+  "code": 4301,
+  "nFiles": 50} }

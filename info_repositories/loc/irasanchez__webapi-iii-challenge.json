@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.55779099464417,
+  "n_files"            : 13,
+  "n_lines"            : 625,
+  "files_per_second"   : 5.08251066143445,
+  "lines_per_second"   : 244.351474107426,
+  "report_file"        : "loc/irasanchez__webapi-iii-challenge.json"},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 38,
+  "comment": 33,
+  "code": 447},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 50},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"SUM": {
+  "blank": 62,
+  "comment": 33,
+  "code": 530,
+  "nFiles": 13} }

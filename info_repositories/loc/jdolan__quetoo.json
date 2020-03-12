@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 207.890868902206,
+  "n_files"            : 794,
+  "n_lines"            : 248497,
+  "files_per_second"   : 3.81931156569221,
+  "lines_per_second"   : 1195.32426465972,
+  "report_file"        : "loc/jdolan__quetoo.json"},
+"C/C++ Header" :{
+  "nFiles": 396,
+  "blank": 8379,
+  "comment": 24533,
+  "code": 100617},
+"C" :{
+  "nFiles": 219,
+  "blank": 21366,
+  "comment": 16754,
+  "code": 65814},
+"XML" :{
+  "nFiles": 58,
+  "blank": 29,
+  "comment": 0,
+  "code": 3973},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 2237},
+"make" :{
+  "nFiles": 37,
+  "blank": 238,
+  "comment": 5,
+  "code": 1382},
+"GLSL" :{
+  "nFiles": 23,
+  "blank": 347,
+  "comment": 224,
+  "code": 871},
+"m4" :{
+  "nFiles": 1,
+  "blank": 119,
+  "comment": 78,
+  "code": 370},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 59,
+  "comment": 0,
+  "code": 220},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 39,
+  "comment": 19,
+  "code": 181},
+"Python" :{
+  "nFiles": 2,
+  "blank": 68,
+  "comment": 31,
+  "code": 132},
+"DOS Batch" :{
+  "nFiles": 10,
+  "blank": 51,
+  "comment": 0,
+  "code": 125},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 53},
+"PowerShell" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 0,
+  "code": 53},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 38},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"Windows Module Definition" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Windows Resource File" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 30761,
+  "comment": 41644,
+  "code": 176092,
+  "nFiles": 794} }

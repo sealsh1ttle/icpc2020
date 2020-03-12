@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.4207758903503,
+  "n_files"            : 144,
+  "n_lines"            : 13800,
+  "files_per_second"   : 9.98559308423603,
+  "lines_per_second"   : 956.952670572619,
+  "report_file"        : "loc/uiuuiu__meeting_manager.json"},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 41,
+  "code": 6910},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 582,
+  "comment": 217,
+  "code": 1590},
+"ERB" :{
+  "nFiles": 47,
+  "blank": 146,
+  "comment": 0,
+  "code": 1584},
+"Ruby" :{
+  "nFiles": 78,
+  "blank": 267,
+  "comment": 675,
+  "code": 945},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 31,
+  "code": 309},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 229},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 9,
+  "code": 0},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 1072,
+  "comment": 979,
+  "code": 11749,
+  "nFiles": 144} }

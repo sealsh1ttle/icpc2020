@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.6949660778046,
+  "n_files"            : 58,
+  "n_lines"            : 9351,
+  "files_per_second"   : 4.95939873738292,
+  "lines_per_second"   : 799.574786090822,
+  "report_file"        : "loc/kharidiron__StarryPy3k.json"},
+"Python" :{
+  "nFiles": 45,
+  "blank": 1132,
+  "comment": 1597,
+  "code": 5665},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 159,
+  "comment": 0,
+  "code": 561},
+"Cython" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 76},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 71},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1312,
+  "comment": 1603,
+  "code": 6436,
+  "nFiles": 58} }

@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 207.280376911163,
+  "n_files"            : 1086,
+  "n_lines"            : 211603,
+  "files_per_second"   : 5.23928032254322,
+  "lines_per_second"   : 1020.85399087579,
+  "report_file"        : "loc/zcash__zcash.json"},
+"C++" :{
+  "nFiles": 289,
+  "blank": 14558,
+  "comment": 9494,
+  "code": 81584},
+"C/C++ Header" :{
+  "nFiles": 254,
+  "blank": 5968,
+  "comment": 7727,
+  "code": 26920},
+"Python" :{
+  "nFiles": 122,
+  "blank": 3491,
+  "comment": 3026,
+  "code": 14244},
+"Markdown" :{
+  "nFiles": 170,
+  "blank": 2681,
+  "comment": 0,
+  "code": 11227},
+"C" :{
+  "nFiles": 14,
+  "blank": 698,
+  "comment": 512,
+  "code": 6163},
+"Bourne Shell" :{
+  "nFiles": 32,
+  "blank": 424,
+  "comment": 639,
+  "code": 5230},
+"m4" :{
+  "nFiles": 22,
+  "blank": 509,
+  "comment": 65,
+  "code": 3949},
+"JSON" :{
+  "nFiles": 71,
+  "blank": 228,
+  "comment": 0,
+  "code": 3817},
+"make" :{
+  "nFiles": 69,
+  "blank": 429,
+  "comment": 88,
+  "code": 2461},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 85,
+  "comment": 0,
+  "code": 1136},
+"YAML" :{
+  "nFiles": 22,
+  "blank": 104,
+  "comment": 45,
+  "code": 997},
+"diff" :{
+  "nFiles": 6,
+  "blank": 64,
+  "comment": 275,
+  "code": 772},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 84,
+  "comment": 105,
+  "code": 730},
+"Java" :{
+  "nFiles": 4,
+  "blank": 143,
+  "comment": 187,
+  "code": 438},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 96},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 1,
+  "code": 78},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 18,
+  "code": 49},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 29498,
+  "comment": 22182,
+  "code": 159923,
+  "nFiles": 1086} }

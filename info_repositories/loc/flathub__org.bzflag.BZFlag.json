@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.474307060241699,
+  "n_files"            : 2,
+  "n_lines"            : 131,
+  "files_per_second"   : 4.21667769183287,
+  "lines_per_second"   : 276.192388815053,
+  "report_file"        : "loc/flathub__org.bzflag.BZFlag.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 79},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 51},
+"SUM": {
+  "blank": 1,
+  "comment": 0,
+  "code": 130,
+  "nFiles": 2} }

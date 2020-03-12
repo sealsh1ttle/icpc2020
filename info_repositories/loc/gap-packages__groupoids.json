@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.294532060623169,
+  "n_files"            : 29,
+  "n_lines"            : 7110,
+  "files_per_second"   : 98.4612674716701,
+  "lines_per_second"   : 24139.9866111577,
+  "report_file"        : "loc/gap-packages__groupoids.json"},
+"XML" :{
+  "nFiles": 10,
+  "blank": 250,
+  "comment": 75,
+  "code": 4160},
+"GDScript" :{
+  "nFiles": 8,
+  "blank": 169,
+  "comment": 926,
+  "code": 576},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 94,
+  "comment": 0,
+  "code": 508},
+"ANTLR Grammar" :{
+  "nFiles": 6,
+  "blank": 23,
+  "comment": 0,
+  "code": 279},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 39},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 2},
+"SUM": {
+  "blank": 543,
+  "comment": 1003,
+  "code": 5564,
+  "nFiles": 29} }

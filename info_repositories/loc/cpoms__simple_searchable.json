@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.735435962677002,
+  "n_files"            : 5,
+  "n_lines"            : 133,
+  "files_per_second"   : 6.79868847016931,
+  "lines_per_second"   : 180.845113306504,
+  "report_file"        : "loc/cpoms__simple_searchable.json"},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 1,
+  "code": 51},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 50},
+"SUM": {
+  "blank": 31,
+  "comment": 1,
+  "code": 101,
+  "nFiles": 5} }

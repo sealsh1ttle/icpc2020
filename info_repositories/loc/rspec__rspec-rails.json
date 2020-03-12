@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.6976749897003,
+  "n_files"            : 236,
+  "n_lines"            : 18745,
+  "files_per_second"   : 6.61107481280201,
+  "lines_per_second"   : 525.104226127007,
+  "report_file"        : "loc/rspec__rspec-rails.json"},
+"Ruby" :{
+  "nFiles": 157,
+  "blank": 1549,
+  "comment": 1123,
+  "code": 8245},
+"Cucumber" :{
+  "nFiles": 32,
+  "blank": 652,
+  "comment": 21,
+  "code": 3093},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 769,
+  "comment": 0,
+  "code": 2097},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 126,
+  "comment": 86,
+  "code": 422},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 57,
+  "comment": 37,
+  "code": 331},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 13,
+  "code": 67},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3179,
+  "comment": 1280,
+  "code": 14286,
+  "nFiles": 236} }

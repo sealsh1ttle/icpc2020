@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.298521041870117,
+  "n_files"            : 4,
+  "n_lines"            : 72,
+  "files_per_second"   : 13.3993904581787,
+  "lines_per_second"   : 241.189028247216,
+  "report_file"        : "loc/kubernetes__kubernetes-template-project.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 24,
+  "comment": 0,
+  "code": 48,
+  "nFiles": 4} }

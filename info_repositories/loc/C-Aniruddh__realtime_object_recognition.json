@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.13611912727356,
+  "n_files"            : 3,
+  "n_lines"            : 272,
+  "files_per_second"   : 22.0395183255244,
+  "lines_per_second"   : 1998.24966151421,
+  "report_file"        : "loc/C-Aniruddh__realtime_object_recognition.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 52,
+  "code": 137},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 57,
+  "comment": 52,
+  "code": 163,
+  "nFiles": 3} }

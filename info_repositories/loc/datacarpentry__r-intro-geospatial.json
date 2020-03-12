@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.33707904815674,
+  "n_files"            : 119,
+  "n_lines"            : 19377,
+  "files_per_second"   : 88.9999736096757,
+  "lines_per_second"   : 14492.0377196192,
+  "report_file"        : "loc/datacarpentry__r-intro-geospatial.json"},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 14,
+  "code": 7397},
+"SVG" :{
+  "nFiles": 11,
+  "blank": 4,
+  "comment": 5,
+  "code": 1890},
+"Python" :{
+  "nFiles": 11,
+  "blank": 693,
+  "comment": 690,
+  "code": 1875},
+"HTML" :{
+  "nFiles": 35,
+  "blank": 76,
+  "comment": 72,
+  "code": 930},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 217,
+  "comment": 0,
+  "code": 859},
+"R" :{
+  "nFiles": 8,
+  "blank": 147,
+  "comment": 49,
+  "code": 809},
+"Rmd" :{
+  "nFiles": 8,
+  "blank": 438,
+  "comment": 1889,
+  "code": 265},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 24,
+  "code": 190},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 62,
+  "code": 167},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 7,
+  "code": 148},
+"make" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 28,
+  "code": 67},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 23,
+  "code": 55},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 18,
+  "code": 54},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 5,
+  "code": 15},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 7},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1761,
+  "comment": 2887,
+  "code": 14729,
+  "nFiles": 119} }

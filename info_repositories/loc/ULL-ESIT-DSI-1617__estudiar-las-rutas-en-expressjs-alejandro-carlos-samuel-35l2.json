@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.839567899703979,
+  "n_files"            : 24,
+  "n_lines"            : 739,
+  "files_per_second"   : 28.5861334246606,
+  "lines_per_second"   : 880.214691701007,
+  "report_file"        : "loc/ULL-ESIT-DSI-1617__estudiar-las-rutas-en-expressjs-alejandro-carlos-samuel-35l2.json"},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 204,
+  "comment": 0,
+  "code": 378},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 4,
+  "code": 72},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 226,
+  "comment": 4,
+  "code": 509,
+  "nFiles": 24} }

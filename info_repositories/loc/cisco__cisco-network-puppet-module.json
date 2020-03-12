@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.22043013572693,
+  "n_files"            : 432,
+  "n_lines"            : 72007,
+  "files_per_second"   : 134.143571446392,
+  "lines_per_second"   : 22359.4355304175,
+  "report_file"        : "loc/cisco__cisco-network-puppet-module.json"},
+"Ruby" :{
+  "nFiles": 331,
+  "blank": 6387,
+  "comment": 9877,
+  "code": 39542},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 2746,
+  "comment": 0,
+  "code": 7561},
+"Puppet" :{
+  "nFiles": 66,
+  "blank": 452,
+  "comment": 1207,
+  "code": 2765},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 51,
+  "comment": 146,
+  "code": 594},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 47,
+  "comment": 50,
+  "code": 232},
+"Python" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 63,
+  "code": 128},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 24,
+  "code": 26},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 9729,
+  "comment": 11367,
+  "code": 50911,
+  "nFiles": 432} }

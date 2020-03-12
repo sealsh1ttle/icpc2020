@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.1696047782898,
+  "n_files"            : 3511,
+  "n_lines"            : 316710,
+  "files_per_second"   : 74.433525922099,
+  "lines_per_second"   : 6714.28139982569,
+  "report_file"        : "loc/ppy__osu-web.json"},
+"PHP" :{
+  "nFiles": 2359,
+  "blank": 26938,
+  "comment": 45885,
+  "code": 143915},
+"LESS" :{
+  "nFiles": 388,
+  "blank": 4733,
+  "comment": 6896,
+  "code": 20978},
+"CoffeeScript" :{
+  "nFiles": 255,
+  "blank": 4912,
+  "comment": 4665,
+  "code": 14726},
+"Blade" :{
+  "nFiles": 256,
+  "blank": 2056,
+  "comment": 3240,
+  "code": 9633},
+"TypeScript" :{
+  "nFiles": 130,
+  "blank": 1295,
+  "comment": 2266,
+  "code": 6474},
+"JavaScript" :{
+  "nFiles": 19,
+  "blank": 1540,
+  "comment": 2690,
+  "code": 4579},
+"SVG" :{
+  "nFiles": 33,
+  "blank": 23,
+  "comment": 11,
+  "code": 4513},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 204,
+  "comment": 346,
+  "code": 1087},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 4,
+  "comment": 0,
+  "code": 703},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 187,
+  "comment": 0,
+  "code": 630},
+"Stylus" :{
+  "nFiles": 5,
+  "blank": 58,
+  "comment": 113,
+  "code": 501},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 80,
+  "comment": 19,
+  "code": 319},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 3,
+  "code": 239},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 2,
+  "comment": 0,
+  "code": 102},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 59},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 53},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 3},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 42059,
+  "comment": 66136,
+  "code": 208515,
+  "nFiles": 3511} }

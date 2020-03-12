@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.12226414680481,
+  "n_files"            : 21,
+  "n_lines"            : 1087,
+  "files_per_second"   : 2.58548597046811,
+  "lines_per_second"   : 133.829678566611,
+  "report_file"        : "loc/seges__docker-nginx-consul.json"},
+"Java" :{
+  "nFiles": 4,
+  "blank": 37,
+  "comment": 18,
+  "code": 186},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 36,
+  "comment": 51,
+  "code": 162},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 70,
+  "comment": 0,
+  "code": 137},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 112},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 15,
+  "code": 86},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 7,
+  "code": 81},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 3,
+  "code": 18},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 202,
+  "comment": 94,
+  "code": 791,
+  "nFiles": 21} }

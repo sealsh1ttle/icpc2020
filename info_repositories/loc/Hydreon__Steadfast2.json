@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.64743995666504,
+  "n_files"            : 1072,
+  "n_lines"            : 321106,
+  "files_per_second"   : 123.967325054828,
+  "lines_per_second"   : 37133.070782701,
+  "report_file"        : "loc/Hydreon__Steadfast2.json"},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 0,
+  "code": 222604},
+"PHP" :{
+  "nFiles": 1025,
+  "blank": 14647,
+  "comment": 23971,
+  "code": 57743},
+"INI" :{
+  "nFiles": 24,
+  "blank": 142,
+  "comment": 0,
+  "code": 711},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 154,
+  "comment": 0,
+  "code": 573},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 31,
+  "code": 369},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 48,
+  "code": 57},
+"SUM": {
+  "blank": 14999,
+  "comment": 24050,
+  "code": 282057,
+  "nFiles": 1072} }

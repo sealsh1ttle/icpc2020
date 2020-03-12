@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.637093067169189,
+  "n_files"            : 2,
+  "n_lines"            : 27592,
+  "files_per_second"   : 3.1392587724846,
+  "lines_per_second"   : 43309.2140251976,
+  "report_file"        : "loc/frc604__workshop.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 27511,
+  "comment": 0,
+  "code": 81},
+"SUM": {
+  "blank": 27511,
+  "comment": 0,
+  "code": 81,
+  "nFiles": 2} }

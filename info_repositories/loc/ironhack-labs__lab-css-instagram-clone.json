@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.900063991546631,
+  "n_files"            : 3,
+  "n_lines"            : 96,
+  "files_per_second"   : 3.33309634445539,
+  "lines_per_second"   : 106.659083022572,
+  "report_file"        : "loc/ironhack-labs__lab-css-instagram-clone.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 36},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 24},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 5,
+  "code": 4},
+"SUM": {
+  "blank": 27,
+  "comment": 5,
+  "code": 64,
+  "nFiles": 3} }

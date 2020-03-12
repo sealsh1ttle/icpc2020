@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.155884981155396,
+  "n_files"            : 8,
+  "n_lines"            : 1012,
+  "files_per_second"   : 51.3198894512174,
+  "lines_per_second"   : 6491.966015579,
+  "report_file"        : "loc/argos-research__genode-Synchronization.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 121,
+  "comment": 0,
+  "code": 553},
+"C++" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 69,
+  "code": 132},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 20,
+  "comment": 0,
+  "code": 55},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 200,
+  "comment": 69,
+  "code": 743,
+  "nFiles": 8} }

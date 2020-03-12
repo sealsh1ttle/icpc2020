@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.535827875137329,
+  "n_files"            : 78,
+  "n_lines"            : 8647,
+  "files_per_second"   : 145.569134453875,
+  "lines_per_second"   : 16137.6449438802,
+  "report_file"        : "loc/react-component__select.json"},
+"TypeScript" :{
+  "nFiles": 65,
+  "blank": 1007,
+  "comment": 325,
+  "code": 6376},
+"LESS" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 22,
+  "code": 272},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 135,
+  "comment": 0,
+  "code": 254},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 74},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 61},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 1201,
+  "comment": 347,
+  "code": 7099,
+  "nFiles": 78} }

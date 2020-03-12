@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.3306109905243,
+  "n_files"            : 1784,
+  "n_lines"            : 1670089,
+  "files_per_second"   : 79.8903353229796,
+  "lines_per_second"   : 74789.2209805043,
+  "report_file"        : "loc/barbudreadmon__fbalpha2018.json"},
+"C++" :{
+  "nFiles": 901,
+  "blank": 228560,
+  "comment": 41051,
+  "code": 889708},
+"C" :{
+  "nFiles": 272,
+  "blank": 38913,
+  "comment": 25441,
+  "code": 195721},
+"C/C++ Header" :{
+  "nFiles": 554,
+  "blank": 16560,
+  "comment": 24098,
+  "code": 112783},
+"Assembly" :{
+  "nFiles": 12,
+  "blank": 4910,
+  "comment": 677,
+  "code": 80245},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 177,
+  "comment": 21,
+  "code": 4298},
+"Windows Resource File" :{
+  "nFiles": 5,
+  "blank": 150,
+  "comment": 74,
+  "code": 2009},
+"Qt" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 1842},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 249,
+  "comment": 65,
+  "code": 849},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 5,
+  "code": 436},
+"make" :{
+  "nFiles": 9,
+  "blank": 133,
+  "comment": 38,
+  "code": 349},
+"Python" :{
+  "nFiles": 3,
+  "blank": 88,
+  "comment": 52,
+  "code": 271},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 0,
+  "code": 74},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 56},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 43},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 5,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 289842,
+  "comment": 91527,
+  "code": 1288720,
+  "nFiles": 1784} }

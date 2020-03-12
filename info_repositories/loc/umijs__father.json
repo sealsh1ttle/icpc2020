@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 180.951236009598,
+  "n_files"            : 333,
+  "n_lines"            : 138281,
+  "files_per_second"   : 1.8402748018938,
+  "lines_per_second"   : 764.189308950979,
+  "report_file"        : "loc/umijs__father.json"},
+"JavaScript" :{
+  "nFiles": 200,
+  "blank": 18851,
+  "comment": 21118,
+  "code": 94307},
+"TypeScript" :{
+  "nFiles": 37,
+  "blank": 214,
+  "comment": 102,
+  "code": 2043},
+"JSON" :{
+  "nFiles": 59,
+  "blank": 0,
+  "comment": 0,
+  "code": 677},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 272,
+  "comment": 0,
+  "code": 532},
+"JSX" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 0,
+  "code": 44},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 12,
+  "comment": 0,
+  "code": 33},
+"LESS" :{
+  "nFiles": 7,
+  "blank": 8,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 15},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 19375,
+  "comment": 21220,
+  "code": 97686,
+  "nFiles": 333} }

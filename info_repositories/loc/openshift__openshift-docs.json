@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.8683390617371,
+  "n_files"            : 1932,
+  "n_lines"            : 117286,
+  "files_per_second"   : 129.940539557099,
+  "lines_per_second"   : 7888.3054464254,
+  "report_file"        : "loc/openshift__openshift-docs.json"},
+"AsciiDoc" :{
+  "nFiles": 1868,
+  "blank": 21211,
+  "comment": 7101,
+  "code": 80753},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 497,
+  "comment": 191,
+  "code": 1822},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 74,
+  "code": 1601},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 77,
+  "comment": 73,
+  "code": 1028},
+"Python" :{
+  "nFiles": 4,
+  "blank": 250,
+  "comment": 255,
+  "code": 793},
+"ERB" :{
+  "nFiles": 13,
+  "blank": 50,
+  "comment": 8,
+  "code": 451},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 3,
+  "code": 221},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 50,
+  "comment": 60,
+  "code": 209},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 36,
+  "comment": 22,
+  "code": 105},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 10,
+  "code": 93},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 22,
+  "code": 69},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 6,
+  "code": 65},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 6},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 22241,
+  "comment": 7825,
+  "code": 87220,
+  "nFiles": 1932} }

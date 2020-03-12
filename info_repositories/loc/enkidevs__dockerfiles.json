@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.53762793540955,
+  "n_files"            : 7,
+  "n_lines"            : 113,
+  "files_per_second"   : 4.55246671759742,
+  "lines_per_second"   : 73.489819869787,
+  "report_file"        : "loc/enkidevs__dockerfiles.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 0,
+  "code": 56},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 33,
+  "comment": 0,
+  "code": 80,
+  "nFiles": 7} }

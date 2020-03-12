@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.20142889022827,
+  "n_files"            : 439,
+  "n_lines"            : 97332,
+  "files_per_second"   : 60.9601242602959,
+  "lines_per_second"   : 13515.6510580937,
+  "report_file"        : "loc/c4cs__c4cs.github.io.json"},
+"TeX" :{
+  "nFiles": 178,
+  "blank": 8224,
+  "comment": 797,
+  "code": 32693},
+"Markdown" :{
+  "nFiles": 190,
+  "blank": 5877,
+  "comment": 0,
+  "code": 13349},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 3401,
+  "comment": 1864,
+  "code": 9212},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 295,
+  "comment": 181,
+  "code": 8297},
+"HTML" :{
+  "nFiles": 30,
+  "blank": 567,
+  "comment": 229,
+  "code": 7382},
+"Python" :{
+  "nFiles": 10,
+  "blank": 517,
+  "comment": 574,
+  "code": 2277},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 2,
+  "code": 1246},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 9,
+  "code": 175},
+"C" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 0,
+  "code": 56},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 0,
+  "code": 31},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 24},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 18922,
+  "comment": 3659,
+  "code": 74751,
+  "nFiles": 439} }

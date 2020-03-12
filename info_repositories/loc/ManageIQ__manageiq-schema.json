@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 206.033494949341,
+  "n_files"            : 1117,
+  "n_lines"            : 36349,
+  "files_per_second"   : 5.42144858667105,
+  "lines_per_second"   : 176.422770525431,
+  "report_file"        : "loc/ManageIQ__manageiq-schema.json"},
+"Ruby" :{
+  "nFiles": 1082,
+  "blank": 4490,
+  "comment": 589,
+  "code": 27972},
+"YAML" :{
+  "nFiles": 22,
+  "blank": 14,
+  "comment": 70,
+  "code": 2689},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 0,
+  "code": 204},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"ERB" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 25},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 22,
+  "code": 4},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 4567,
+  "comment": 699,
+  "code": 31083,
+  "nFiles": 1117} }

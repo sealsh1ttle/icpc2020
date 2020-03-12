@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.72192597389221,
+  "n_files"            : 902,
+  "n_lines"            : 73046,
+  "files_per_second"   : 134.187731835094,
+  "lines_per_second"   : 10866.8260084548,
+  "report_file"        : "loc/cyverse__troposphere.json"},
+"JSX" :{
+  "nFiles": 408,
+  "blank": 4277,
+  "comment": 1727,
+  "code": 33159},
+"JavaScript" :{
+  "nFiles": 377,
+  "blank": 2948,
+  "comment": 6035,
+  "code": 16169},
+"Sass" :{
+  "nFiles": 31,
+  "blank": 500,
+  "comment": 113,
+  "code": 2493},
+"Python" :{
+  "nFiles": 48,
+  "blank": 669,
+  "comment": 438,
+  "code": 2381},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 167,
+  "comment": 0,
+  "code": 645},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 79,
+  "comment": 30,
+  "code": 378},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 49,
+  "comment": 39,
+  "code": 168},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 121},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 87},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 9,
+  "code": 65},
+"make" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 53},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 2,
+  "code": 51},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 14,
+  "code": 43},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Cucumber" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 13},
+"SUM": {
+  "blank": 8773,
+  "comment": 8412,
+  "code": 55861,
+  "nFiles": 902} }

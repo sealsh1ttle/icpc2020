@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.285558223724365,
+  "n_files"            : 46,
+  "n_lines"            : 2898,
+  "files_per_second"   : 161.087988992401,
+  "lines_per_second"   : 10148.5433065212,
+  "report_file"        : "loc/FabianWilms__VerteilteSystemePraktikum.json"},
+"Java" :{
+  "nFiles": 32,
+  "blank": 413,
+  "comment": 306,
+  "code": 1488},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 23,
+  "comment": 0,
+  "code": 299},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 91,
+  "comment": 0,
+  "code": 253},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 527,
+  "comment": 306,
+  "code": 2065,
+  "nFiles": 46} }

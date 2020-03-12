@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.471096038818359,
+  "n_files"            : 84,
+  "n_lines"            : 3862,
+  "files_per_second"   : 178.307591400462,
+  "lines_per_second"   : 8197.90378557836,
+  "report_file"        : "loc/FAC7__amazon2.0.json"},
+"JSX" :{
+  "nFiles": 43,
+  "blank": 224,
+  "comment": 7,
+  "code": 1666},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 112,
+  "comment": 28,
+  "code": 1147},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 64,
+  "comment": 11,
+  "code": 305},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 124},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 66},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 36},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 13},
+"SUM": {
+  "blank": 437,
+  "comment": 53,
+  "code": 3372,
+  "nFiles": 84} }

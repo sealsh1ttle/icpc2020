@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.446449041366577,
+  "n_files"            : 3,
+  "n_lines"            : 50,
+  "files_per_second"   : 6.71969188424511,
+  "lines_per_second"   : 111.994864737419,
+  "report_file"        : "loc/flathub__flathub.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 23},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 13,
+  "comment": 0,
+  "code": 37,
+  "nFiles": 3} }

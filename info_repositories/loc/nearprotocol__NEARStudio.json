@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.35834407806396,
+  "n_files"            : 294,
+  "n_lines"            : 34737,
+  "files_per_second"   : 124.663742977383,
+  "lines_per_second"   : 14729.4028564808,
+  "report_file"        : "loc/nearprotocol__NEARStudio.json"},
+"TypeScript" :{
+  "nFiles": 161,
+  "blank": 2036,
+  "comment": 5992,
+  "code": 19578},
+"JavaScript" :{
+  "nFiles": 34,
+  "blank": 246,
+  "comment": 204,
+  "code": 1645},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 215,
+  "comment": 32,
+  "code": 1545},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 1,
+  "comment": 0,
+  "code": 797},
+"Rust" :{
+  "nFiles": 12,
+  "blank": 80,
+  "comment": 37,
+  "code": 488},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 4,
+  "code": 428},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 4,
+  "comment": 0,
+  "code": 309},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 28,
+  "comment": 33,
+  "code": 261},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 215},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 118,
+  "comment": 0,
+  "code": 191},
+"WebAssembly" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 87},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 7,
+  "code": 50},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 26},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 24},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 2772,
+  "comment": 6314,
+  "code": 25651,
+  "nFiles": 294} }

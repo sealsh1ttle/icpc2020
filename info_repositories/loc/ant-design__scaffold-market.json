@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 51.446713924408,
+  "n_files"            : 160,
+  "n_lines"            : 22188,
+  "files_per_second"   : 3.11001398913626,
+  "lines_per_second"   : 431.281189943471,
+  "report_file"        : "loc/ant-design__scaffold-market.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 12692},
+"YAML" :{
+  "nFiles": 120,
+  "blank": 2819,
+  "comment": 377,
+  "code": 3980},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 87,
+  "comment": 34,
+  "code": 1354},
+"LESS" :{
+  "nFiles": 9,
+  "blank": 54,
+  "comment": 0,
+  "code": 662},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 13,
+  "code": 64},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 2980,
+  "comment": 424,
+  "code": 18784,
+  "nFiles": 160} }

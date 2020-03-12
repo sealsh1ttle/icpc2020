@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.1186079978943,
+  "n_files"            : 1303,
+  "n_lines"            : 554632,
+  "files_per_second"   : 92.2895515049596,
+  "lines_per_second"   : 39283.7594246345,
+  "report_file"        : "loc/docker__machine.json"},
+"Go" :{
+  "nFiles": 1143,
+  "blank": 68491,
+  "comment": 88938,
+  "code": 352755},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 29481},
+"Markdown" :{
+  "nFiles": 56,
+  "blank": 1854,
+  "comment": 0,
+  "code": 5398},
+"Assembly" :{
+  "nFiles": 32,
+  "blank": 257,
+  "comment": 303,
+  "code": 2203},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 142,
+  "comment": 132,
+  "code": 867},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 160,
+  "comment": 285,
+  "code": 863},
+"Protocol Buffers" :{
+  "nFiles": 7,
+  "blank": 227,
+  "comment": 1,
+  "code": 748},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 85,
+  "comment": 83,
+  "code": 490},
+"YAML" :{
+  "nFiles": 23,
+  "blank": 57,
+  "comment": 5,
+  "code": 321},
+"make" :{
+  "nFiles": 11,
+  "blank": 75,
+  "comment": 56,
+  "code": 223},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 37},
+"C" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 7,
+  "code": 29},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 71377,
+  "comment": 89815,
+  "code": 393440,
+  "nFiles": 1303} }

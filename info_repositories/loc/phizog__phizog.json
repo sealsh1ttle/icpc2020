@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.4864609241486,
+  "n_files"            : 57,
+  "n_lines"            : 2707,
+  "files_per_second"   : 4.22646091666177,
+  "lines_per_second"   : 200.719819322867,
+  "report_file"        : "loc/phizog__phizog.json"},
+"TypeScript" :{
+  "nFiles": 33,
+  "blank": 139,
+  "comment": 172,
+  "code": 1519},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 20,
+  "comment": 51,
+  "code": 342},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 303},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 0,
+  "code": 81},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 187,
+  "comment": 223,
+  "code": 2297,
+  "nFiles": 57} }

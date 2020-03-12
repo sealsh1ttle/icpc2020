@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.3025438785553,
+  "n_files"            : 88,
+  "n_lines"            : 12961,
+  "files_per_second"   : 2.81127311382149,
+  "lines_per_second"   : 414.055804866368,
+  "report_file"        : "loc/nitharios__consume-more-stuff.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 7914},
+"JavaScript" :{
+  "nFiles": 75,
+  "blank": 435,
+  "comment": 483,
+  "code": 3509},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 20,
+  "code": 351},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 0,
+  "code": 147},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 516,
+  "comment": 503,
+  "code": 11942,
+  "nFiles": 88} }

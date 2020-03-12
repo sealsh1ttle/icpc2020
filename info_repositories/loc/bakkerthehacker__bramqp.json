@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.438720941543579,
+  "n_files"            : 54,
+  "n_lines"            : 13144,
+  "files_per_second"   : 123.085075013763,
+  "lines_per_second"   : 29959.8189996462,
+  "report_file"        : "loc/bakkerthehacker__bramqp.json"},
+"XML" :{
+  "nFiles": 14,
+  "blank": 245,
+  "comment": 408,
+  "code": 7957},
+"JavaScript" :{
+  "nFiles": 25,
+  "blank": 3,
+  "comment": 31,
+  "code": 3991},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 104,
+  "comment": 0,
+  "code": 307},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 50},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"SUM": {
+  "blank": 357,
+  "comment": 439,
+  "code": 12348,
+  "nFiles": 54} }

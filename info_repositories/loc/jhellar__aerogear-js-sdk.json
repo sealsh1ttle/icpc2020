@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.8324699401855,
+  "n_files"            : 170,
+  "n_lines"            : 6911,
+  "files_per_second"   : 4.26787493357255,
+  "lines_per_second"   : 173.501668623058,
+  "report_file"        : "loc/jhellar__aerogear-js-sdk.json"},
+"TypeScript" :{
+  "nFiles": 98,
+  "blank": 488,
+  "comment": 829,
+  "code": 2446},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 302,
+  "comment": 25,
+  "code": 1182},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 1,
+  "comment": 0,
+  "code": 704},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 124,
+  "comment": 0,
+  "code": 258},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 8,
+  "code": 157},
+"AsciiDoc" :{
+  "nFiles": 3,
+  "blank": 72,
+  "comment": 0,
+  "code": 136},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 24,
+  "comment": 9,
+  "code": 89},
+"XML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 40},
+"SUM": {
+  "blank": 1028,
+  "comment": 871,
+  "code": 5012,
+  "nFiles": 170} }

@@ -1,0 +1,234 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2231.44770312309,
+  "n_files"            : 6773,
+  "n_lines"            : 3333041,
+  "files_per_second"   : 3.03524926464583,
+  "lines_per_second"   : 1493.6675393894,
+  "report_file"        : "loc/opentoonz__opentoonz.json"},
+"Assembly" :{
+  "nFiles": 864,
+  "blank": 174181,
+  "comment": 180328,
+  "code": 800716},
+"C++" :{
+  "nFiles": 1004,
+  "blank": 104090,
+  "comment": 72777,
+  "code": 431313},
+"C" :{
+  "nFiles": 1306,
+  "blank": 75765,
+  "comment": 99048,
+  "code": 390051},
+"Qt Linguist" :{
+  "nFiles": 61,
+  "blank": 199,
+  "comment": 0,
+  "code": 178390},
+"C/C++ Header" :{
+  "nFiles": 1286,
+  "blank": 42734,
+  "comment": 39477,
+  "code": 152955},
+"Bourne Shell" :{
+  "nFiles": 192,
+  "blank": 19579,
+  "comment": 23591,
+  "code": 138488},
+"HTML" :{
+  "nFiles": 466,
+  "blank": 8197,
+  "comment": 2531,
+  "code": 121914},
+"Fortran 77" :{
+  "nFiles": 280,
+  "blank": 179,
+  "comment": 35895,
+  "code": 64634},
+"m4" :{
+  "nFiles": 22,
+  "blank": 5021,
+  "comment": 947,
+  "code": 43465},
+"SVG" :{
+  "nFiles": 528,
+  "blank": 75,
+  "comment": 365,
+  "code": 35071},
+"XML" :{
+  "nFiles": 229,
+  "blank": 228,
+  "comment": 54,
+  "code": 16783},
+"make" :{
+  "nFiles": 98,
+  "blank": 5076,
+  "comment": 1314,
+  "code": 12965},
+"MSBuild script" :{
+  "nFiles": 14,
+  "blank": 2,
+  "comment": 0,
+  "code": 7934},
+"TeX" :{
+  "nFiles": 88,
+  "blank": 918,
+  "comment": 0,
+  "code": 6774},
+"Perl" :{
+  "nFiles": 23,
+  "blank": 489,
+  "comment": 356,
+  "code": 4259},
+"CMake" :{
+  "nFiles": 39,
+  "blank": 458,
+  "comment": 200,
+  "code": 4143},
+"xBase Header" :{
+  "nFiles": 20,
+  "blank": 810,
+  "comment": 1943,
+  "code": 2527},
+"LESS" :{
+  "nFiles": 27,
+  "blank": 519,
+  "comment": 472,
+  "code": 2323},
+"DOS Batch" :{
+  "nFiles": 62,
+  "blank": 415,
+  "comment": 22,
+  "code": 2038},
+"Ada" :{
+  "nFiles": 10,
+  "blank": 599,
+  "comment": 560,
+  "code": 1681},
+"INI" :{
+  "nFiles": 20,
+  "blank": 4,
+  "comment": 0,
+  "code": 1482},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 537,
+  "comment": 0,
+  "code": 1452},
+"Pascal" :{
+  "nFiles": 5,
+  "blank": 219,
+  "comment": 476,
+  "code": 1199},
+"Windows Module Definition" :{
+  "nFiles": 12,
+  "blank": 32,
+  "comment": 99,
+  "code": 990},
+"C#" :{
+  "nFiles": 9,
+  "blank": 230,
+  "comment": 506,
+  "code": 879},
+"awk" :{
+  "nFiles": 3,
+  "blank": 93,
+  "comment": 396,
+  "code": 785},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 46,
+  "comment": 7,
+  "code": 715},
+"MATLAB" :{
+  "nFiles": 22,
+  "blank": 141,
+  "comment": 346,
+  "code": 714},
+"Python" :{
+  "nFiles": 6,
+  "blank": 135,
+  "comment": 66,
+  "code": 615},
+"GLSL" :{
+  "nFiles": 14,
+  "blank": 270,
+  "comment": 73,
+  "code": 556},
+"Windows Resource File" :{
+  "nFiles": 9,
+  "blank": 56,
+  "comment": 65,
+  "code": 467},
+"WebAssembly" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 0,
+  "code": 246},
+"SAS" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 111,
+  "code": 207},
+"Smalltalk" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 0,
+  "code": 203},
+"C Shell" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 36,
+  "code": 146},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 28,
+  "comment": 1,
+  "code": 103},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 9,
+  "code": 63},
+"Qt Project" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 62},
+"SparForte" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 56},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 51},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 26},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 17},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 8},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 0},
+"SUM": {
+  "blank": 441502,
+  "comment": 462073,
+  "code": 2429466,
+  "nFiles": 6773} }

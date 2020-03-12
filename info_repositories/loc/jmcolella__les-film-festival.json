@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.9262118339539,
+  "n_files"            : 114,
+  "n_lines"            : 10850,
+  "files_per_second"   : 4.57349880356517,
+  "lines_per_second"   : 435.284754549843,
+  "report_file"        : "loc/jmcolella__les-film-festival.json"},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 9,
+  "code": 6954},
+"Ruby" :{
+  "nFiles": 60,
+  "blank": 261,
+  "comment": 1321,
+  "code": 868},
+"ERB" :{
+  "nFiles": 35,
+  "blank": 94,
+  "comment": 0,
+  "code": 664},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 44,
+  "code": 191},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 41},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 27},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 91,
+  "code": 23},
+"SUM": {
+  "blank": 432,
+  "comment": 1468,
+  "code": 8950,
+  "nFiles": 114} }

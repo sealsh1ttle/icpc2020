@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.1749517917633,
+  "n_files"            : 101,
+  "n_lines"            : 18013,
+  "files_per_second"   : 4.35815361807556,
+  "lines_per_second"   : 777.261595271239,
+  "report_file"        : "loc/nikita-fuchs__fire-editor.json"},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 11439},
+"TypeScript" :{
+  "nFiles": 45,
+  "blank": 491,
+  "comment": 440,
+  "code": 2113},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 200,
+  "comment": 345,
+  "code": 1615},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 575},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 67,
+  "comment": 71,
+  "code": 267},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 40,
+  "comment": 24,
+  "code": 152},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 0,
+  "code": 120},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 849,
+  "comment": 880,
+  "code": 16284,
+  "nFiles": 101} }

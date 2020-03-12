@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.243570804595947,
+  "n_files"            : 3,
+  "n_lines"            : 154,
+  "files_per_second"   : 12.3167470952712,
+  "lines_per_second"   : 632.259684223921,
+  "report_file"        : "loc/vbatts__copr-build-bazel.json"},
+"make" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 56},
+"diff" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 39,
+  "code": 29},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 24,
+  "comment": 40,
+  "code": 90,
+  "nFiles": 3} }

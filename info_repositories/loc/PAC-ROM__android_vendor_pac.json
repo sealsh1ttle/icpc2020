@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.4618589878082,
+  "n_files"            : 130,
+  "n_lines"            : 75756,
+  "files_per_second"   : 4.41248463152974,
+  "lines_per_second"   : 2571.32450573974,
+  "report_file"        : "loc/PAC-ROM__android_vendor_pac.json"},
+"diff" :{
+  "nFiles": 12,
+  "blank": 70,
+  "comment": 306,
+  "code": 44735},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 1283,
+  "comment": 482,
+  "code": 8665},
+"XML" :{
+  "nFiles": 39,
+  "blank": 162,
+  "comment": 556,
+  "code": 4294},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 372,
+  "comment": 324,
+  "code": 3206},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 733,
+  "comment": 702,
+  "code": 3092},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 248,
+  "comment": 501,
+  "code": 1554},
+"C#" :{
+  "nFiles": 9,
+  "blank": 156,
+  "comment": 3,
+  "code": 1332},
+"make" :{
+  "nFiles": 30,
+  "blank": 150,
+  "comment": 261,
+  "code": 698},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 162,
+  "comment": 0,
+  "code": 573},
+"Python" :{
+  "nFiles": 3,
+  "blank": 86,
+  "comment": 66,
+  "code": 338},
+"C++" :{
+  "nFiles": 1,
+  "blank": 68,
+  "comment": 36,
+  "code": 315},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 184},
+"C" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 3520,
+  "comment": 3237,
+  "code": 68999,
+  "nFiles": 130} }

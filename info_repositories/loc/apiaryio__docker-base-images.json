@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.18062400817871,
+  "n_files"            : 53,
+  "n_lines"            : 1208,
+  "files_per_second"   : 44.8915146844764,
+  "lines_per_second"   : 1023.18773092165,
+  "report_file"        : "loc/apiaryio__docker-base-images.json"},
+"Dockerfile" :{
+  "nFiles": 41,
+  "blank": 179,
+  "comment": 39,
+  "code": 589},
+"Python" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 2,
+  "code": 116},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 23,
+  "comment": 2,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 0,
+  "code": 57},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 49},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 249,
+  "comment": 43,
+  "code": 916,
+  "nFiles": 53} }

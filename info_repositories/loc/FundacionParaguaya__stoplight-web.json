@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.892021894455,
+  "n_files"            : 102,
+  "n_lines"            : 34498,
+  "files_per_second"   : 2.69185952346677,
+  "lines_per_second"   : 910.429116083889,
+  "report_file"        : "loc/FundacionParaguaya__stoplight-web.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 19641},
+"JavaScript" :{
+  "nFiles": 93,
+  "blank": 836,
+  "comment": 389,
+  "code": 13517},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 21,
+  "code": 31},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 858,
+  "comment": 410,
+  "code": 33230,
+  "nFiles": 102} }

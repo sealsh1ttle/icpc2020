@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.05819487571716,
+  "n_files"            : 504,
+  "n_lines"            : 23710,
+  "files_per_second"   : 99.6402891512838,
+  "lines_per_second"   : 4687.44296781139,
+  "report_file"        : "loc/hmrc__hmrc-email-renderer.json"},
+"HTML" :{
+  "nFiles": 400,
+  "blank": 1795,
+  "comment": 0,
+  "code": 11076},
+"Scala" :{
+  "nFiles": 97,
+  "blank": 751,
+  "comment": 1436,
+  "code": 8205},
+"XML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 0,
+  "code": 173},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 71,
+  "comment": 0,
+  "code": 150},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 2634,
+  "comment": 1436,
+  "code": 19640,
+  "nFiles": 504} }

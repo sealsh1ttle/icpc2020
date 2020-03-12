@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.237587928772,
+  "n_files"            : 169,
+  "n_lines"            : 7932,
+  "files_per_second"   : 5.41014883688697,
+  "lines_per_second"   : 253.924855468565,
+  "report_file"        : "loc/composite-primary-keys__composite_primary_keys.json"},
+"Ruby" :{
+  "nFiles": 121,
+  "blank": 835,
+  "comment": 633,
+  "code": 4191},
+"SQL" :{
+  "nFiles": 8,
+  "blank": 189,
+  "comment": 0,
+  "code": 1097},
+"YAML" :{
+  "nFiles": 33,
+  "blank": 72,
+  "comment": 3,
+  "code": 378},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 38,
+  "code": 254},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 114},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 56},
+"Ruby HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 1119,
+  "comment": 674,
+  "code": 6139,
+  "nFiles": 169} }

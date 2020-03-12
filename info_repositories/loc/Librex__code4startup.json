@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.1892771720886,
+  "n_files"            : 209,
+  "n_lines"            : 6424,
+  "files_per_second"   : 4.428972269226,
+  "lines_per_second"   : 136.132621327789,
+  "report_file"        : "loc/Librex__code4startup.json"},
+"Ruby" :{
+  "nFiles": 135,
+  "blank": 421,
+  "comment": 1301,
+  "code": 1822},
+"ERB" :{
+  "nFiles": 38,
+  "blank": 153,
+  "comment": 0,
+  "code": 820},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 194,
+  "comment": 57,
+  "code": 751},
+"YAML" :{
+  "nFiles": 19,
+  "blank": 40,
+  "comment": 240,
+  "code": 191},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Sass" :{
+  "nFiles": 8,
+  "blank": 21,
+  "comment": 15,
+  "code": 96},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 67},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 4,
+  "code": 0},
+"SUM": {
+  "blank": 875,
+  "comment": 1620,
+  "code": 3929,
+  "nFiles": 209} }

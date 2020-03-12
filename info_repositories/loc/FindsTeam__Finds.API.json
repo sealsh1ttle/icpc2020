@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.39213109016418,
+  "n_files"            : 36,
+  "n_lines"            : 6855,
+  "files_per_second"   : 4.87004350449099,
+  "lines_per_second"   : 927.337450646826,
+  "report_file"        : "loc/FindsTeam__Finds.API.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4996},
+"JavaScript" :{
+  "nFiles": 33,
+  "blank": 287,
+  "comment": 2,
+  "code": 1459},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 75},
+"SUM": {
+  "blank": 323,
+  "comment": 2,
+  "code": 6530,
+  "nFiles": 36} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 42.3357648849487,
+  "n_files"            : 109,
+  "n_lines"            : 15801,
+  "files_per_second"   : 2.57465526597234,
+  "lines_per_second"   : 373.230530803935,
+  "report_file"        : "loc/rust-lang__rustc-guide.json"},
+"Markdown" :{
+  "nFiles": 100,
+  "blank": 3218,
+  "comment": 1,
+  "code": 12054},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 66,
+  "code": 339},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 0,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 3235,
+  "comment": 67,
+  "code": 12499,
+  "nFiles": 109} }

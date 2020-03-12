@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.71276092529297,
+  "n_files"            : 62,
+  "n_lines"            : 80484,
+  "files_per_second"   : 7.11599922591876,
+  "lines_per_second"   : 9237.48518869106,
+  "report_file"        : "loc/pikselpalette__sequoia-js-client-sdk.json"},
+"JSON" :{
+  "nFiles": 29,
+  "blank": 0,
+  "comment": 0,
+  "code": 71361},
+"JavaScript" :{
+  "nFiles": 25,
+  "blank": 970,
+  "comment": 1953,
+  "code": 5651},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 146,
+  "comment": 0,
+  "code": 339},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 62},
+"SUM": {
+  "blank": 1117,
+  "comment": 1954,
+  "code": 77413,
+  "nFiles": 62} }

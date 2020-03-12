@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 182.758566141129,
+  "n_files"            : 445,
+  "n_lines"            : 91939,
+  "files_per_second"   : 2.43490638713134,
+  "lines_per_second"   : 503.062602980828,
+  "report_file"        : "loc/apollographql__apollo-server.json"},
+"JSON" :{
+  "nFiles": 75,
+  "blank": 0,
+  "comment": 0,
+  "code": 35837},
+"TypeScript" :{
+  "nFiles": 257,
+  "blank": 4882,
+  "comment": 5657,
+  "code": 31898},
+"Markdown" :{
+  "nFiles": 95,
+  "blank": 3272,
+  "comment": 0,
+  "code": 9302},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 159,
+  "code": 257},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 14,
+  "comment": 33,
+  "code": 182},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 128},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 33,
+  "code": 100},
+"JSON5" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 17,
+  "code": 48},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 8,
+  "code": 14},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 8258,
+  "comment": 5909,
+  "code": 77772,
+  "nFiles": 445} }

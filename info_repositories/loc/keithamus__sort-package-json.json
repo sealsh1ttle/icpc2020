@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.05052709579468,
+  "n_files"            : 7,
+  "n_lines"            : 7390,
+  "files_per_second"   : 6.66332170585739,
+  "lines_per_second"   : 7034.56391518373,
+  "report_file"        : "loc/keithamus__sort-package-json.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6895},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 11,
+  "code": 309},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 105},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 16},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 47,
+  "comment": 13,
+  "code": 7330,
+  "nFiles": 7} }

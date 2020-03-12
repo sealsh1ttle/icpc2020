@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0734920501708984,
+  "n_files"            : 3,
+  "n_lines"            : 91,
+  "files_per_second"   : 40.8207417404168,
+  "lines_per_second"   : 1238.22916612598,
+  "report_file"        : "loc/OlenaTaras__jsTasks.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 33},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 3,
+  "code": 31},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 23,
+  "comment": 3,
+  "code": 65,
+  "nFiles": 3} }

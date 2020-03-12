@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0525579452514648,
+  "n_files"            : 5,
+  "n_lines"            : 96,
+  "files_per_second"   : 95.1330950264013,
+  "lines_per_second"   : 1826.5554245069,
+  "report_file"        : "loc/wso2-incubator__cicd-artefacts.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 50},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 22,
+  "comment": 0,
+  "code": 74,
+  "nFiles": 5} }

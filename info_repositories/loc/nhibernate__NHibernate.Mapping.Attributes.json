@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 107.725373029709,
+  "n_files"            : 273,
+  "n_lines"            : 84066,
+  "files_per_second"   : 2.53422190447845,
+  "lines_per_second"   : 780.37325502522,
+  "report_file"        : "loc/nhibernate__NHibernate.Mapping.Attributes.json"},
+"XML" :{
+  "nFiles": 20,
+  "blank": 60,
+  "comment": 30,
+  "code": 32944},
+"C#" :{
+  "nFiles": 242,
+  "blank": 4318,
+  "comment": 9485,
+  "code": 31765},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4242},
+"MSBuild script" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 0,
+  "code": 573},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 95,
+  "comment": 0,
+  "code": 446},
+"NAnt script" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 8,
+  "code": 81},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 4490,
+  "comment": 9523,
+  "code": 70053,
+  "nFiles": 273} }

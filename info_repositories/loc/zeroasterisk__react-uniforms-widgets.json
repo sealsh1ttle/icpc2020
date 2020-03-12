@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.10307502746582,
+  "n_files"            : 18,
+  "n_lines"            : 430,
+  "files_per_second"   : 174.630077163635,
+  "lines_per_second"   : 4171.71851002017,
+  "report_file"        : "loc/zeroasterisk__react-uniforms-widgets.json"},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 46,
+  "comment": 0,
+  "code": 117},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 22,
+  "comment": 17,
+  "code": 99},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 65},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 21,
+  "code": 29},
+"SUM": {
+  "blank": 82,
+  "comment": 38,
+  "code": 310,
+  "nFiles": 18} }

@@ -1,0 +1,154 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6735.86146903038,
+  "n_files"            : 16409,
+  "n_lines"            : 1912794,
+  "files_per_second"   : 2.43606553897286,
+  "lines_per_second"   : 283.971695201051,
+  "report_file"        : "loc/vespa-engine__vespa.json"},
+"Java" :{
+  "nFiles": 7807,
+  "blank": 123006,
+  "comment": 105693,
+  "code": 618743},
+"C++" :{
+  "nFiles": 3220,
+  "blank": 71316,
+  "comment": 17090,
+  "code": 474127},
+"C/C++ Header" :{
+  "nFiles": 2984,
+  "blank": 39483,
+  "comment": 53190,
+  "code": 149655},
+"XML" :{
+  "nFiles": 348,
+  "blank": 618,
+  "comment": 491,
+  "code": 138882},
+"JSON" :{
+  "nFiles": 220,
+  "blank": 8,
+  "comment": 0,
+  "code": 44490},
+"Maven" :{
+  "nFiles": 164,
+  "blank": 249,
+  "comment": 442,
+  "code": 16566},
+"CMake" :{
+  "nFiles": 1046,
+  "blank": 393,
+  "comment": 1165,
+  "code": 13253},
+"Bourne Shell" :{
+  "nFiles": 178,
+  "blank": 1145,
+  "comment": 542,
+  "code": 6375},
+"Perl" :{
+  "nFiles": 51,
+  "blank": 906,
+  "comment": 655,
+  "code": 6322},
+"Windows Module Definition" :{
+  "nFiles": 232,
+  "blank": 1113,
+  "comment": 0,
+  "code": 4494},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 981,
+  "comment": 52,
+  "code": 4054},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 312,
+  "comment": 67,
+  "code": 3792},
+"Lisp" :{
+  "nFiles": 4,
+  "blank": 231,
+  "comment": 403,
+  "code": 2118},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 595,
+  "comment": 432,
+  "code": 1996},
+"Markdown" :{
+  "nFiles": 59,
+  "blank": 323,
+  "comment": 0,
+  "code": 839},
+"C" :{
+  "nFiles": 6,
+  "blank": 152,
+  "comment": 110,
+  "code": 721},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 707},
+"ANTLR Grammar" :{
+  "nFiles": 2,
+  "blank": 190,
+  "comment": 416,
+  "code": 656},
+"Python" :{
+  "nFiles": 10,
+  "blank": 160,
+  "comment": 91,
+  "code": 588},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 101,
+  "comment": 32,
+  "code": 587},
+"Protocol Buffers" :{
+  "nFiles": 7,
+  "blank": 158,
+  "comment": 280,
+  "code": 544},
+"Ruby" :{
+  "nFiles": 9,
+  "blank": 39,
+  "comment": 9,
+  "code": 294},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 57},
+"Pig Latin" :{
+  "nFiles": 9,
+  "blank": 39,
+  "comment": 52,
+  "code": 54},
+"make" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 7,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 19},
+"DTD" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 6,
+  "code": 10},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 10},
+"SUM": {
+  "blank": 241571,
+  "comment": 181228,
+  "code": 1489995,
+  "nFiles": 16409} }

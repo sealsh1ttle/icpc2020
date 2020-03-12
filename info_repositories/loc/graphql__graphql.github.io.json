@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.6130769252777,
+  "n_files"            : 104,
+  "n_lines"            : 14513,
+  "files_per_second"   : 3.18890487512976,
+  "lines_per_second"   : 445.005542814983,
+  "report_file"        : "loc/graphql__graphql.github.io.json"},
+"JavaScript" :{
+  "nFiles": 48,
+  "blank": 805,
+  "comment": 604,
+  "code": 4809},
+"Markdown" :{
+  "nFiles": 39,
+  "blank": 1266,
+  "comment": 0,
+  "code": 4477},
+"LESS" :{
+  "nFiles": 9,
+  "blank": 411,
+  "comment": 138,
+  "code": 1918},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 2488,
+  "comment": 748,
+  "code": 11277,
+  "nFiles": 104} }

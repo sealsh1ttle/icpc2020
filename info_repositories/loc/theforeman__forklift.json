@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.3577098846436,
+  "n_files"            : 287,
+  "n_lines"            : 8098,
+  "files_per_second"   : 4.75498491491009,
+  "lines_per_second"   : 134.166786902237,
+  "report_file"        : "loc/theforeman__forklift.json"},
+"YAML" :{
+  "nFiles": 255,
+  "blank": 517,
+  "comment": 110,
+  "code": 5059},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 294,
+  "comment": 0,
+  "code": 820},
+"Ruby" :{
+  "nFiles": 9,
+  "blank": 117,
+  "comment": 10,
+  "code": 465},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 6,
+  "code": 250},
+"Python" :{
+  "nFiles": 7,
+  "blank": 72,
+  "comment": 61,
+  "code": 218},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 46},
+"SUM": {
+  "blank": 1053,
+  "comment": 187,
+  "code": 6858,
+  "nFiles": 287} }

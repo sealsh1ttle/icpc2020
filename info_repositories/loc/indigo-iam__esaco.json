@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.5604431629181,
+  "n_files"            : 47,
+  "n_lines"            : 3968,
+  "files_per_second"   : 4.06558808668856,
+  "lines_per_second"   : 343.239436765536,
+  "report_file"        : "loc/indigo-iam__esaco.json"},
+"Java" :{
+  "nFiles": 34,
+  "blank": 643,
+  "comment": 69,
+  "code": 2472},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 0,
+  "code": 278},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 142},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 0,
+  "code": 109},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 60},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 41},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 791,
+  "comment": 69,
+  "code": 3108,
+  "nFiles": 47} }

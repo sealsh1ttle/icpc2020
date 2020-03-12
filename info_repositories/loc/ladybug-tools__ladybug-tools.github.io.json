@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.3475370407104,
+  "n_files"            : 45,
+  "n_lines"            : 21599,
+  "files_per_second"   : 1.64548638998135,
+  "lines_per_second"   : 789.796900826828,
+  "report_file"        : "loc/ladybug-tools__ladybug-tools.github.io.json"},
+"HTML" :{
+  "nFiles": 27,
+  "blank": 678,
+  "comment": 1429,
+  "code": 17480},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 150,
+  "comment": 4,
+  "code": 694},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 238,
+  "comment": 0,
+  "code": 381},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 4,
+  "code": 234},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 11,
+  "code": 217},
+"Python" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 26},
+"SUM": {
+  "blank": 1114,
+  "comment": 1453,
+  "code": 19032,
+  "nFiles": 45} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.0772972106934,
+  "n_files"            : 107,
+  "n_lines"            : 287851,
+  "files_per_second"   : 5.07655222253613,
+  "lines_per_second"   : 13656.9218113014,
+  "report_file"        : "loc/ritz078__transform.json"},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 6658,
+  "comment": 33988,
+  "code": 240804},
+"TypeScript" :{
+  "nFiles": 84,
+  "blank": 469,
+  "comment": 43,
+  "code": 5439},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 202},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 66},
+"diff" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 51,
+  "code": 51},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 46},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 7157,
+  "comment": 34085,
+  "code": 246609,
+  "nFiles": 107} }

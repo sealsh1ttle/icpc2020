@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.918776988983154,
+  "n_files"            : 5,
+  "n_lines"            : 57007,
+  "files_per_second"   : 5.44201700734113,
+  "lines_per_second"   : 62046.6127074992,
+  "report_file"        : "loc/fastlane__issue-bot.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1945,
+  "comment": 0,
+  "code": 54217},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 106,
+  "comment": 65,
+  "code": 436},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 55,
+  "code": 97},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 2110,
+  "comment": 120,
+  "code": 54777,
+  "nFiles": 5} }

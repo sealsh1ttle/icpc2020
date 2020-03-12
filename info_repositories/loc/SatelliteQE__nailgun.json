@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.84882712364197,
+  "n_files"            : 40,
+  "n_lines"            : 18037,
+  "files_per_second"   : 5.09630284498347,
+  "lines_per_second"   : 2298.05036037417,
+  "report_file"        : "loc/SatelliteQE__nailgun.json"},
+"Python" :{
+  "nFiles": 19,
+  "blank": 2559,
+  "comment": 4397,
+  "code": 10006},
+"reStructuredText" :{
+  "nFiles": 16,
+  "blank": 171,
+  "comment": 70,
+  "code": 489},
+"make" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 5,
+  "code": 184},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 16,
+  "code": 48},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 29},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 2785,
+  "comment": 4488,
+  "code": 10764,
+  "nFiles": 40} }

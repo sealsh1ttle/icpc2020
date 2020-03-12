@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.2213659286499,
+  "n_files"            : 964,
+  "n_lines"            : 122005,
+  "files_per_second"   : 78.8782535133938,
+  "lines_per_second"   : 9982.92668039586,
+  "report_file"        : "loc/apache__incubator-taverna-workbench.json"},
+"Java" :{
+  "nFiles": 799,
+  "blank": 13647,
+  "comment": 28907,
+  "code": 68788},
+"Maven" :{
+  "nFiles": 61,
+  "blank": 271,
+  "comment": 1032,
+  "code": 3643},
+"XML" :{
+  "nFiles": 90,
+  "blank": 693,
+  "comment": 1282,
+  "code": 2152},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 12,
+  "comment": 90,
+  "code": 821},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 62,
+  "comment": 18,
+  "code": 318},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 0,
+  "code": 79},
+"Haskell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 71},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 44,
+  "code": 23},
+"SUM": {
+  "blank": 14736,
+  "comment": 31374,
+  "code": 75895,
+  "nFiles": 964} }

@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1850.00315713882,
+  "n_files"            : 4678,
+  "n_lines"            : 1035580,
+  "files_per_second"   : 2.52864433336151,
+  "lines_per_second"   : 559.772017687584,
+  "report_file"        : "loc/apache__drill.json"},
+"Java" :{
+  "nFiles": 3735,
+  "blank": 94602,
+  "comment": 164732,
+  "code": 508767},
+"JSON" :{
+  "nFiles": 495,
+  "blank": 84,
+  "comment": 0,
+  "code": 135514},
+"C++" :{
+  "nFiles": 34,
+  "blank": 5008,
+  "comment": 4137,
+  "code": 38093},
+"C/C++ Header" :{
+  "nFiles": 34,
+  "blank": 3389,
+  "comment": 4560,
+  "code": 28727},
+"Maven" :{
+  "nFiles": 39,
+  "blank": 501,
+  "comment": 860,
+  "code": 8876},
+"Markdown" :{
+  "nFiles": 48,
+  "blank": 1680,
+  "comment": 0,
+  "code": 5268},
+"Freemarker Template" :{
+  "nFiles": 36,
+  "blank": 437,
+  "comment": 589,
+  "code": 4102},
+"RobotFramework" :{
+  "nFiles": 97,
+  "blank": 10,
+  "comment": 0,
+  "code": 2609},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 243,
+  "comment": 9603,
+  "code": 2101},
+"XML" :{
+  "nFiles": 18,
+  "blank": 136,
+  "comment": 351,
+  "code": 1614},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 293,
+  "comment": 959,
+  "code": 1121},
+"SQL" :{
+  "nFiles": 56,
+  "blank": 45,
+  "comment": 23,
+  "code": 1012},
+"Protocol Buffers" :{
+  "nFiles": 9,
+  "blank": 164,
+  "comment": 326,
+  "code": 939},
+"C" :{
+  "nFiles": 1,
+  "blank": 178,
+  "comment": 114,
+  "code": 538},
+"ANTLR Grammar" :{
+  "nFiles": 4,
+  "blank": 97,
+  "comment": 80,
+  "code": 484},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 43,
+  "code": 406},
+"CMake" :{
+  "nFiles": 9,
+  "blank": 96,
+  "comment": 217,
+  "code": 347},
+"Bourne Again Shell" :{
+  "nFiles": 11,
+  "blank": 76,
+  "comment": 259,
+  "code": 279},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 39,
+  "code": 249},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 26,
+  "code": 191},
+"Python" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 20,
+  "code": 92},
+"diff" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 71,
+  "code": 78},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 22,
+  "code": 7},
+"SUM": {
+  "blank": 107135,
+  "comment": 187031,
+  "code": 741414,
+  "nFiles": 4678} }

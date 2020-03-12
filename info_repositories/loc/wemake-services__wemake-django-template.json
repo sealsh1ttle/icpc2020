@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.385239839553833,
+  "n_files"            : 65,
+  "n_lines"            : 3584,
+  "files_per_second"   : 168.726059265521,
+  "lines_per_second"   : 9303.29532934814,
+  "report_file"        : "loc/wemake-services__wemake-django-template.json"},
+"reStructuredText" :{
+  "nFiles": 15,
+  "blank": 460,
+  "comment": 111,
+  "code": 908},
+"Python" :{
+  "nFiles": 26,
+  "blank": 304,
+  "comment": 323,
+  "code": 567},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 44,
+  "code": 171},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 60,
+  "comment": 0,
+  "code": 83},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 45,
+  "code": 81},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 0,
+  "code": 80},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 9,
+  "code": 53},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 17,
+  "code": 41},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 25},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 8,
+  "code": 4},
+"SUM": {
+  "blank": 963,
+  "comment": 564,
+  "code": 2057,
+  "nFiles": 65} }

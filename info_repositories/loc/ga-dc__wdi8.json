@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.95246195793152,
+  "n_files"            : 15,
+  "n_lines"            : 801,
+  "files_per_second"   : 3.02879661215308,
+  "lines_per_second"   : 161.737739088975,
+  "report_file"        : "loc/ga-dc__wdi8.json"},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 177,
+  "comment": 0,
+  "code": 566},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 55},
+"SUM": {
+  "blank": 180,
+  "comment": 0,
+  "code": 621,
+  "nFiles": 15} }

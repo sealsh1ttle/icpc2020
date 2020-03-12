@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.15518403053284,
+  "n_files"            : 147,
+  "n_lines"            : 9030,
+  "files_per_second"   : 127.252451656725,
+  "lines_per_second"   : 7816.93631605593,
+  "report_file"        : "loc/KimSvenSand__ToKi.json"},
+"JavaScript" :{
+  "nFiles": 139,
+  "blank": 1243,
+  "comment": 130,
+  "code": 6065},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 230,
+  "comment": 0,
+  "code": 1294},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 23},
+"Go" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1480,
+  "comment": 130,
+  "code": 7420,
+  "nFiles": 147} }

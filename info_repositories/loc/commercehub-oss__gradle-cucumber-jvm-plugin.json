@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.1572480201721,
+  "n_files"            : 31,
+  "n_lines"            : 2220,
+  "files_per_second"   : 3.05200778187503,
+  "lines_per_second"   : 218.563137927824,
+  "report_file"        : "loc/commercehub-oss__gradle-cucumber-jvm-plugin.json"},
+"Groovy" :{
+  "nFiles": 18,
+  "blank": 251,
+  "comment": 113,
+  "code": 1196},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 56,
+  "comment": 0,
+  "code": 185},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 9,
+  "code": 100},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Cucumber" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 377,
+  "comment": 145,
+  "code": 1698,
+  "nFiles": 31} }

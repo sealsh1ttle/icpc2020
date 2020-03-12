@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 90.9530448913574,
+  "n_files"            : 546,
+  "n_lines"            : 52289,
+  "files_per_second"   : 6.00309753952924,
+  "lines_per_second"   : 574.901038909239,
+  "report_file"        : "loc/rootstrap__arbor-2.0.json"},
+"JSON" :{
+  "nFiles": 21,
+  "blank": 0,
+  "comment": 0,
+  "code": 26878},
+"Ruby" :{
+  "nFiles": 287,
+  "blank": 1807,
+  "comment": 84,
+  "code": 9330},
+"YAML" :{
+  "nFiles": 29,
+  "blank": 82,
+  "comment": 39,
+  "code": 4145},
+"Sass" :{
+  "nFiles": 27,
+  "blank": 937,
+  "comment": 1190,
+  "code": 2878},
+"JavaScript" :{
+  "nFiles": 42,
+  "blank": 280,
+  "comment": 103,
+  "code": 1576},
+"Haml" :{
+  "nFiles": 90,
+  "blank": 28,
+  "comment": 7,
+  "code": 1519},
+"SVG" :{
+  "nFiles": 18,
+  "blank": 2,
+  "comment": 16,
+  "code": 480},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 64,
+  "comment": 43,
+  "code": 194},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 0,
+  "code": 169},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 3,
+  "code": 155},
+"ERB" :{
+  "nFiles": 21,
+  "blank": 17,
+  "comment": 0,
+  "code": 133},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 32},
+"CoffeeScript" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 3288,
+  "comment": 1485,
+  "code": 47516,
+  "nFiles": 546} }

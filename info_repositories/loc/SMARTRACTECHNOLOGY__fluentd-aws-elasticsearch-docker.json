@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.370555877685547,
+  "n_files"            : 2,
+  "n_lines"            : 21,
+  "files_per_second"   : 5.39729665736728,
+  "lines_per_second"   : 56.6716149023564,
+  "report_file"        : "loc/SMARTRACTECHNOLOGY__fluentd-aws-elasticsearch-docker.json"},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 13},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 4,
+  "comment": 0,
+  "code": 17,
+  "nFiles": 2} }

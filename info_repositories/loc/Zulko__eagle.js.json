@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.9823100566864,
+  "n_files"            : 44,
+  "n_lines"            : 21549,
+  "files_per_second"   : 5.51218878840008,
+  "lines_per_second"   : 2699.59445911894,
+  "report_file"        : "loc/Zulko__eagle.js.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 15202},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 409,
+  "comment": 196,
+  "code": 3227},
+"Vuejs Component" :{
+  "nFiles": 14,
+  "blank": 47,
+  "comment": 8,
+  "code": 801},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 17,
+  "code": 594},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 47,
+  "comment": 0,
+  "code": 561},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 108,
+  "comment": 0,
+  "code": 308},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 618,
+  "comment": 221,
+  "code": 20710,
+  "nFiles": 44} }

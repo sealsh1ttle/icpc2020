@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.944892168045044,
+  "n_files"            : 158,
+  "n_lines"            : 34009,
+  "files_per_second"   : 167.214847729025,
+  "lines_per_second"   : 35992.466812762,
+  "report_file"        : "loc/hack4impact-uiuc__kiva-portfolio-tool.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 20025},
+"JavaScript" :{
+  "nFiles": 82,
+  "blank": 684,
+  "comment": 684,
+  "code": 7116},
+"Python" :{
+  "nFiles": 27,
+  "blank": 753,
+  "comment": 267,
+  "code": 2241},
+"Sass" :{
+  "nFiles": 13,
+  "blank": 195,
+  "comment": 3,
+  "code": 910},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 262,
+  "comment": 0,
+  "code": 570},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 3,
+  "code": 136},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 20,
+  "code": 29},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 15,
+  "code": 29},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 5,
+  "code": 23},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1924,
+  "comment": 997,
+  "code": 31088,
+  "nFiles": 158} }

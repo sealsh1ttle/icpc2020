@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 50.2234890460968,
+  "n_files"            : 228,
+  "n_lines"            : 25086,
+  "files_per_second"   : 4.53970849756643,
+  "lines_per_second"   : 499.487400745401,
+  "report_file"        : "loc/OneDrive__onedrive-api-docs.json"},
+"Markdown" :{
+  "nFiles": 200,
+  "blank": 4555,
+  "comment": 0,
+  "code": 15345},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 216,
+  "comment": 0,
+  "code": 3873},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 102,
+  "comment": 181,
+  "code": 576},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 12,
+  "code": 83},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 7,
+  "code": 64},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 43},
+"SUM": {
+  "blank": 4902,
+  "comment": 200,
+  "code": 19984,
+  "nFiles": 228} }

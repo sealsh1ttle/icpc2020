@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.2627689838409,
+  "n_files"            : 105,
+  "n_lines"            : 5187,
+  "files_per_second"   : 10.2311569290243,
+  "lines_per_second"   : 505.419152293801,
+  "report_file"        : "loc/spatie__laravel-server-monitor.json"},
+"PHP" :{
+  "nFiles": 69,
+  "blank": 893,
+  "comment": 268,
+  "code": 2721},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 334,
+  "comment": 0,
+  "code": 719},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 90},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 60},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 0,
+  "code": 42},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 8},
+"SUM": {
+  "blank": 1255,
+  "comment": 270,
+  "code": 3662,
+  "nFiles": 105} }

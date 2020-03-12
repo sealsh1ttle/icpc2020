@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.44418811798096,
+  "n_files"            : 32,
+  "n_lines"            : 5314,
+  "files_per_second"   : 3.78958871509027,
+  "lines_per_second"   : 629.308575999678,
+  "report_file"        : "loc/jenkinsci__plugin-installation-manager-tool.json"},
+"Java" :{
+  "nFiles": 21,
+  "blank": 855,
+  "comment": 436,
+  "code": 3566},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 2,
+  "code": 226},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 79},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 1,
+  "code": 78},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 899,
+  "comment": 439,
+  "code": 3976,
+  "nFiles": 32} }

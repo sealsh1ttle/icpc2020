@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.12496399879456,
+  "n_files"            : 180,
+  "n_lines"            : 9496,
+  "files_per_second"   : 160.005120335297,
+  "lines_per_second"   : 8441.15901502212,
+  "report_file"        : "loc/helm__helm-classic.json"},
+"Go" :{
+  "nFiles": 103,
+  "blank": 1147,
+  "comment": 630,
+  "code": 5171},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 450,
+  "comment": 0,
+  "code": 1099},
+"YAML" :{
+  "nFiles": 48,
+  "blank": 9,
+  "comment": 10,
+  "code": 805},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 75},
+"make" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 9,
+  "code": 66},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1625,
+  "comment": 649,
+  "code": 7222,
+  "nFiles": 180} }

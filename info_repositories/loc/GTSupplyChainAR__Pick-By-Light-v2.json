@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.13969397544861,
+  "n_files"            : 10,
+  "n_lines"            : 953,
+  "files_per_second"   : 2.41563749864296,
+  "lines_per_second"   : 230.210253620674,
+  "report_file"        : "loc/GTSupplyChainAR__Pick-By-Light-v2.json"},
+"Python" :{
+  "nFiles": 8,
+  "blank": 221,
+  "comment": 164,
+  "code": 543},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 227,
+  "comment": 164,
+  "code": 562,
+  "nFiles": 10} }

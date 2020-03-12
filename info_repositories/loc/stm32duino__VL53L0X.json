@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.216110944747925,
+  "n_files"            : 15,
+  "n_lines"            : 8392,
+  "files_per_second"   : 69.4087937910606,
+  "lines_per_second"   : 38831.9064996387,
+  "report_file"        : "loc/stm32duino__VL53L0X.json"},
+"C++" :{
+  "nFiles": 1,
+  "blank": 1067,
+  "comment": 569,
+  "code": 3714},
+"C/C++ Header" :{
+  "nFiles": 10,
+  "blank": 407,
+  "comment": 865,
+  "code": 1261},
+"Arduino Sketch" :{
+  "nFiles": 3,
+  "blank": 78,
+  "comment": 165,
+  "code": 216},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 1567,
+  "comment": 1599,
+  "code": 5226,
+  "nFiles": 15} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.387680053710938,
+  "n_files"            : 1,
+  "n_lines"            : 3,
+  "files_per_second"   : 2.57944660920219,
+  "lines_per_second"   : 7.73833982760657,
+  "report_file"        : "loc/sn-srdjan__dmsg-http.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1,
+  "comment": 0,
+  "code": 2,
+  "nFiles": 1} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.467032909393311,
+  "n_files"            : 42,
+  "n_lines"            : 4768,
+  "files_per_second"   : 89.9294228634963,
+  "lines_per_second"   : 10209.1306717417,
+  "report_file"        : "loc/openbaton__generic-vnfm.json"},
+"Java" :{
+  "nFiles": 18,
+  "blank": 335,
+  "comment": 318,
+  "code": 2125},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 174,
+  "comment": 188,
+  "code": 610},
+"Gradle" :{
+  "nFiles": 10,
+  "blank": 56,
+  "comment": 183,
+  "code": 267},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 3,
+  "code": 94},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 0,
+  "code": 93},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 669,
+  "comment": 715,
+  "code": 3384,
+  "nFiles": 42} }

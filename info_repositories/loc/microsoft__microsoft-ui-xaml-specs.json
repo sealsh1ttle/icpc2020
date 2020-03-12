@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.844505071640015,
+  "n_files"            : 14,
+  "n_lines"            : 2514,
+  "files_per_second"   : 16.577757162325,
+  "lines_per_second"   : 2976.89153614892,
+  "report_file"        : "loc/microsoft__microsoft-ui-xaml-specs.json"},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 617,
+  "comment": 0,
+  "code": 1897},
+"SUM": {
+  "blank": 617,
+  "comment": 0,
+  "code": 1897,
+  "nFiles": 14} }

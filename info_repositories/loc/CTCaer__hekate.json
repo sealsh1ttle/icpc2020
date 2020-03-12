@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 79.4647369384766,
+  "n_files"            : 391,
+  "n_lines"            : 132750,
+  "files_per_second"   : 4.92042149844051,
+  "lines_per_second"   : 1670.55231181069,
+  "report_file"        : "loc/CTCaer__hekate.json"},
+"C" :{
+  "nFiles": 178,
+  "blank": 12972,
+  "comment": 13566,
+  "code": 65065},
+"C/C++ Header" :{
+  "nFiles": 182,
+  "blank": 3952,
+  "comment": 10182,
+  "code": 22270},
+"C++" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 122,
+  "code": 2275},
+"Windows Module Definition" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1089},
+"make" :{
+  "nFiles": 13,
+  "blank": 90,
+  "comment": 25,
+  "code": 332},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 106,
+  "comment": 0,
+  "code": 221},
+"INI" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 0,
+  "code": 176},
+"Assembly" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 38,
+  "code": 96},
+"Python" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 24,
+  "code": 37},
+"SUM": {
+  "blank": 17232,
+  "comment": 23957,
+  "code": 91561,
+  "nFiles": 391} }

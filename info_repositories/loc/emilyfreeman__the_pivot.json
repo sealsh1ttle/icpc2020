@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 58.3498890399933,
+  "n_files"            : 220,
+  "n_lines"            : 35993,
+  "files_per_second"   : 3.77035849801207,
+  "lines_per_second"   : 616.847788267947,
+  "report_file"        : "loc/emilyfreeman__the_pivot.json"},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 3083,
+  "comment": 2992,
+  "code": 11258},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 1699,
+  "comment": 2558,
+  "code": 8566},
+"Ruby" :{
+  "nFiles": 153,
+  "blank": 649,
+  "comment": 216,
+  "code": 2798},
+"ERB" :{
+  "nFiles": 40,
+  "blank": 55,
+  "comment": 2,
+  "code": 817},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 769},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 28,
+  "comment": 24,
+  "code": 129},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 92,
+  "code": 36},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 5547,
+  "comment": 5890,
+  "code": 24556,
+  "nFiles": 220} }

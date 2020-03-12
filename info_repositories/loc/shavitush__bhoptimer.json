@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.00767588615417,
+  "n_files"            : 20,
+  "n_lines"            : 23038,
+  "files_per_second"   : 2.85401327414645,
+  "lines_per_second"   : 3287.5378904893,
+  "report_file"        : "loc/shavitush__bhoptimer.json"},
+"SparForte" :{
+  "nFiles": 11,
+  "blank": 4186,
+  "comment": 0,
+  "code": 15946},
+"Pascal" :{
+  "nFiles": 4,
+  "blank": 289,
+  "comment": 828,
+  "code": 1633},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 0,
+  "code": 91},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 23},
+"SUM": {
+  "blank": 4515,
+  "comment": 830,
+  "code": 17693,
+  "nFiles": 20} }

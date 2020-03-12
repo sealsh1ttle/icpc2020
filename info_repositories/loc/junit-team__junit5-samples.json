@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.802787065506,
+  "n_files"            : 92,
+  "n_lines"            : 4744,
+  "files_per_second"   : 2.37096371053676,
+  "lines_per_second"   : 122.259259160722,
+  "report_file"        : "loc/junit-team__junit5-samples.json"},
+"Java" :{
+  "nFiles": 43,
+  "blank": 232,
+  "comment": 455,
+  "code": 729},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 211,
+  "comment": 0,
+  "code": 514},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 88,
+  "comment": 162,
+  "code": 498},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 114,
+  "comment": 4,
+  "code": 407},
+"Gradle" :{
+  "nFiles": 8,
+  "blank": 48,
+  "comment": 19,
+  "code": 220},
+"Python" :{
+  "nFiles": 1,
+  "blank": 67,
+  "comment": 47,
+  "code": 196},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 6,
+  "code": 160},
+"XML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 8,
+  "code": 101},
+"Kotlin" :{
+  "nFiles": 6,
+  "blank": 26,
+  "comment": 54,
+  "code": 88},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 3,
+  "code": 84},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 2,
+  "code": 53},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"Groovy" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 18,
+  "code": 31},
+"SUM": {
+  "blank": 850,
+  "comment": 778,
+  "code": 3116,
+  "nFiles": 92} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.35668897628784,
+  "n_files"            : 267,
+  "n_lines"            : 33404,
+  "files_per_second"   : 113.29454276167,
+  "lines_per_second"   : 14174.1232449844,
+  "report_file"        : "loc/microsoft__Xaml-Controls-Gallery.json"},
+"C#" :{
+  "nFiles": 147,
+  "blank": 2095,
+  "comment": 2619,
+  "code": 14737},
+"XAML" :{
+  "nFiles": 109,
+  "blank": 598,
+  "comment": 668,
+  "code": 9019},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 2173},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 14,
+  "code": 1243},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 54,
+  "comment": 0,
+  "code": 130},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"XML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 17,
+  "code": 5},
+"SUM": {
+  "blank": 2761,
+  "comment": 3318,
+  "code": 27325,
+  "nFiles": 267} }

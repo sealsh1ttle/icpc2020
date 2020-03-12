@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.692478179931641,
+  "n_files"            : 6,
+  "n_lines"            : 86,
+  "files_per_second"   : 8.6645329396405,
+  "lines_per_second"   : 124.191638801514,
+  "report_file"        : "loc/ironstar-io__homebrew-tap.json"},
+"Ruby" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 0,
+  "code": 73},
+"SUM": {
+  "blank": 13,
+  "comment": 0,
+  "code": 73,
+  "nFiles": 6} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 524.934001922607,
+  "n_files"            : 1946,
+  "n_lines"            : 413319,
+  "files_per_second"   : 3.70713269262924,
+  "lines_per_second"   : 787.373266898677,
+  "report_file"        : "loc/dbca-wa__ledger.json"},
+"JSON" :{
+  "nFiles": 53,
+  "blank": 22,
+  "comment": 0,
+  "code": 136017},
+"Python" :{
+  "nFiles": 997,
+  "blank": 17521,
+  "comment": 13533,
+  "code": 86870},
+"Vuejs Component" :{
+  "nFiles": 300,
+  "blank": 4200,
+  "comment": 5537,
+  "code": 86384},
+"JavaScript" :{
+  "nFiles": 194,
+  "blank": 3857,
+  "comment": 9337,
+  "code": 21568},
+"HTML" :{
+  "nFiles": 340,
+  "blank": 1670,
+  "comment": 151,
+  "code": 16722},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 253,
+  "comment": 188,
+  "code": 4878},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 4,
+  "comment": 6,
+  "code": 3375},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 177,
+  "comment": 0,
+  "code": 561},
+"Handlebars" :{
+  "nFiles": 14,
+  "blank": 1,
+  "comment": 0,
+  "code": 152},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 23,
+  "code": 108},
+"LESS" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 54},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 13,
+  "code": 29},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 27759,
+  "comment": 28788,
+  "code": 356772,
+  "nFiles": 1946} }

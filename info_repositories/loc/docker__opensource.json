@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.1683349609375,
+  "n_files"            : 12,
+  "n_lines"            : 772,
+  "files_per_second"   : 71.286439448876,
+  "lines_per_second"   : 4586.09427121102,
+  "report_file"        : "loc/docker__opensource.json"},
+"Go" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 28,
+  "code": 230},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 80,
+  "comment": 1,
+  "code": 207},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 41,
+  "comment": 0,
+  "code": 102},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 28},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 172,
+  "comment": 29,
+  "code": 571,
+  "nFiles": 12} }

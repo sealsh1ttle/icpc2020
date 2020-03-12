@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.3382489681244,
+  "n_files"            : 3684,
+  "n_lines"            : 699228,
+  "files_per_second"   : 55.533573124159,
+  "lines_per_second"   : 10540.3445354124,
+  "report_file"        : "loc/django__django.json"},
+"Python" :{
+  "nFiles": 2029,
+  "blank": 53651,
+  "comment": 49902,
+  "code": 240229},
+"PO File" :{
+  "nFiles": 1164,
+  "blank": 74386,
+  "comment": 11286,
+  "code": 228346},
+"JavaScript" :{
+  "nFiles": 105,
+  "blank": 4440,
+  "comment": 4037,
+  "code": 18885},
+"HTML" :{
+  "nFiles": 245,
+  "blank": 527,
+  "comment": 20,
+  "code": 4528},
+"CSS" :{
+  "nFiles": 37,
+  "blank": 1003,
+  "comment": 150,
+  "code": 4279},
+"JSON" :{
+  "nFiles": 47,
+  "blank": 3,
+  "comment": 0,
+  "code": 1625},
+"SVG" :{
+  "nFiles": 30,
+  "blank": 0,
+  "comment": 4,
+  "code": 1131},
+"XML" :{
+  "nFiles": 16,
+  "blank": 1,
+  "comment": 2,
+  "code": 220},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 165},
+"make" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 7,
+  "code": 134},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 0,
+  "code": 63},
+"INI" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 7,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 134109,
+  "comment": 65416,
+  "code": 499703,
+  "nFiles": 3684} }

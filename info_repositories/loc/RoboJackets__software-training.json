@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.6913239955902,
+  "n_files"            : 77,
+  "n_lines"            : 2689,
+  "files_per_second"   : 4.61317508547214,
+  "lines_per_second"   : 161.101659803046,
+  "report_file"        : "loc/RoboJackets__software-training.json"},
+"C++" :{
+  "nFiles": 38,
+  "blank": 380,
+  "comment": 358,
+  "code": 1109},
+"C/C++ Header" :{
+  "nFiles": 14,
+  "blank": 58,
+  "comment": 95,
+  "code": 136},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 74,
+  "comment": 0,
+  "code": 86},
+"CMake" :{
+  "nFiles": 17,
+  "blank": 19,
+  "comment": 0,
+  "code": 85},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 25,
+  "code": 80},
+"Java" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 23,
+  "code": 41},
+"Python" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 20,
+  "code": 34},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 24},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 568,
+  "comment": 522,
+  "code": 1599,
+  "nFiles": 77} }

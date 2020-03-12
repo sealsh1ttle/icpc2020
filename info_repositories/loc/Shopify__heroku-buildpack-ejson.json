@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 50.5341429710388,
+  "n_files"            : 67,
+  "n_lines"            : 6574,
+  "files_per_second"   : 1.32583627743322,
+  "lines_per_second"   : 130.090263997701,
+  "report_file"        : "loc/Shopify__heroku-buildpack-ejson.json"},
+"Bourne Shell" :{
+  "nFiles": 33,
+  "blank": 634,
+  "comment": 742,
+  "code": 2509},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 113,
+  "comment": 7,
+  "code": 1001},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 64,
+  "comment": 11,
+  "code": 252},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 89,
+  "comment": 0,
+  "code": 212},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 77,
+  "comment": 57,
+  "code": 191},
+"XML" :{
+  "nFiles": 4,
+  "blank": 50,
+  "comment": 37,
+  "code": 148},
+"XSLT" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 30,
+  "code": 79},
+"make" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 1,
+  "code": 67},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 27,
+  "code": 41},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 29},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 8},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1104,
+  "comment": 916,
+  "code": 4554,
+  "nFiles": 67} }

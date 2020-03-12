@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.175071001052856,
+  "n_files"            : 22,
+  "n_lines"            : 1009,
+  "files_per_second"   : 125.663301561621,
+  "lines_per_second"   : 5763.37596707617,
+  "report_file"        : "loc/GirafiStudios__Waddles.json"},
+"Java" :{
+  "nFiles": 8,
+  "blank": 67,
+  "comment": 13,
+  "code": 452},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 10,
+  "comment": 0,
+  "code": 134},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 50},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 132,
+  "comment": 37,
+  "code": 840,
+  "nFiles": 22} }

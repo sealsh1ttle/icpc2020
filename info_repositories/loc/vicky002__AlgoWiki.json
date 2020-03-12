@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.7344629764557,
+  "n_files"            : 78,
+  "n_lines"            : 30539,
+  "files_per_second"   : 3.58877052009498,
+  "lines_per_second"   : 1405.09567837411,
+  "report_file"        : "loc/vicky002__AlgoWiki.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 2132,
+  "comment": 1678,
+  "code": 8552},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 337,
+  "comment": 583,
+  "code": 8199},
+"Markdown" :{
+  "nFiles": 52,
+  "blank": 1458,
+  "comment": 0,
+  "code": 6283},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 1168},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 131},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 3938,
+  "comment": 2261,
+  "code": 24340,
+  "nFiles": 78} }

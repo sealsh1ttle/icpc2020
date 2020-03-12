@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.68933796882629,
+  "n_files"            : 32,
+  "n_lines"            : 3933,
+  "files_per_second"   : 4.78373198500758,
+  "lines_per_second"   : 587.950559282338,
+  "report_file"        : "loc/pulp__nectar.json"},
+"Python" :{
+  "nFiles": 20,
+  "blank": 714,
+  "comment": 839,
+  "code": 1814},
+"reStructuredText" :{
+  "nFiles": 8,
+  "blank": 115,
+  "comment": 23,
+  "code": 243},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 6,
+  "code": 12},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 862,
+  "comment": 873,
+  "code": 2198,
+  "nFiles": 32} }

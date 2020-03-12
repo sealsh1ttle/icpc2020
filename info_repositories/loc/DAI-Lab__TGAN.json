@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.312767028808594,
+  "n_files"            : 31,
+  "n_lines"            : 4588,
+  "files_per_second"   : 99.115306744725,
+  "lines_per_second"   : 14669.0653982193,
+  "report_file"        : "loc/DAI-Lab__TGAN.json"},
+"Python" :{
+  "nFiles": 15,
+  "blank": 678,
+  "comment": 761,
+  "code": 1700},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 124,
+  "comment": 0,
+  "code": 356},
+"make" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 12,
+  "code": 151},
+"reStructuredText" :{
+  "nFiles": 7,
+  "blank": 71,
+  "comment": 24,
+  "code": 147},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 370,
+  "code": 37},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 19},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 947,
+  "comment": 1171,
+  "code": 2470,
+  "nFiles": 31} }

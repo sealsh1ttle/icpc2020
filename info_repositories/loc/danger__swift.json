@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.5762820243835,
+  "n_files"            : 209,
+  "n_lines"            : 23434,
+  "files_per_second"   : 5.87470044949481,
+  "lines_per_second"   : 658.697274322781,
+  "report_file"        : "loc/danger__swift.json"},
+"Swift" :{
+  "nFiles": 97,
+  "blank": 1059,
+  "comment": 563,
+  "code": 13085},
+"Markdown" :{
+  "nFiles": 99,
+  "blank": 2022,
+  "comment": 0,
+  "code": 4255},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 2143},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 4,
+  "code": 143},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 5,
+  "code": 49},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 9,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 11},
+"SUM": {
+  "blank": 3121,
+  "comment": 585,
+  "code": 19728,
+  "nFiles": 209} }

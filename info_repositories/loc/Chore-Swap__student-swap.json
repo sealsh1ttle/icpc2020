@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.33710789680481,
+  "n_files"            : 48,
+  "n_lines"            : 2702,
+  "files_per_second"   : 8.9936349288978,
+  "lines_per_second"   : 506.266699539205,
+  "report_file"        : "loc/Chore-Swap__student-swap.json"},
+"JavaScript" :{
+  "nFiles": 25,
+  "blank": 268,
+  "comment": 456,
+  "code": 975},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 50,
+  "comment": 40,
+  "code": 322},
+"Handlebars" :{
+  "nFiles": 11,
+  "blank": 17,
+  "comment": 11,
+  "code": 237},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 138},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 61},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 57},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 366,
+  "comment": 509,
+  "code": 1827,
+  "nFiles": 48} }

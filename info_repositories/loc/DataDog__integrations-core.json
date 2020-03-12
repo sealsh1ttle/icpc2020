@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1003.96955704689,
+  "n_files"            : 2231,
+  "n_lines"            : 266517,
+  "files_per_second"   : 2.22217893395327,
+  "lines_per_second"   : 265.463228570338,
+  "report_file"        : "loc/DataDog__integrations-core.json"},
+"Python" :{
+  "nFiles": 1305,
+  "blank": 25322,
+  "comment": 24838,
+  "code": 113989},
+"JSON" :{
+  "nFiles": 323,
+  "blank": 27,
+  "comment": 0,
+  "code": 51518},
+"Markdown" :{
+  "nFiles": 291,
+  "blank": 7776,
+  "comment": 0,
+  "code": 19070},
+"XML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 9003},
+"YAML" :{
+  "nFiles": 142,
+  "blank": 378,
+  "comment": 481,
+  "code": 5592},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 559,
+  "comment": 837,
+  "code": 3016},
+"INI" :{
+  "nFiles": 92,
+  "blank": 100,
+  "comment": 9,
+  "code": 1980},
+"Bourne Shell" :{
+  "nFiles": 26,
+  "blank": 82,
+  "comment": 34,
+  "code": 489},
+"HCL" :{
+  "nFiles": 4,
+  "blank": 77,
+  "comment": 0,
+  "code": 346},
+"reStructuredText" :{
+  "nFiles": 13,
+  "blank": 129,
+  "comment": 194,
+  "code": 147},
+"Dockerfile" :{
+  "nFiles": 12,
+  "blank": 37,
+  "comment": 20,
+  "code": 113},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 10,
+  "code": 99},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 48},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 1,
+  "code": 41},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 9,
+  "code": 34},
+"Go" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 18,
+  "code": 22},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 9},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 34542,
+  "comment": 26457,
+  "code": 205518,
+  "nFiles": 2231} }

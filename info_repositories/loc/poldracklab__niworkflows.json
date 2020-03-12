@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.9140079021454,
+  "n_files"            : 131,
+  "n_lines"            : 33668,
+  "files_per_second"   : 6.57828402216748,
+  "lines_per_second"   : 1690.66920960561,
+  "report_file"        : "loc/poldracklab__niworkflows.json"},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 3,
+  "comment": 108,
+  "code": 11215},
+"Python" :{
+  "nFiles": 71,
+  "blank": 3171,
+  "comment": 4509,
+  "code": 10083},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 42,
+  "code": 1663},
+"JSON" :{
+  "nFiles": 20,
+  "blank": 2,
+  "comment": 0,
+  "code": 832},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 41,
+  "comment": 9,
+  "code": 673},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 218,
+  "comment": 22,
+  "code": 421},
+"RobotFramework" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 255},
+"make" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 6,
+  "code": 174},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 17,
+  "code": 141},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3496,
+  "comment": 4713,
+  "code": 25459,
+  "nFiles": 131} }

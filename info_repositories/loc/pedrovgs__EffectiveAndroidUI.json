@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.133024930954,
+  "n_files"            : 86,
+  "n_lines"            : 5731,
+  "files_per_second"   : 3.42179265075577,
+  "lines_per_second"   : 228.026670714899,
+  "report_file"        : "loc/pedrovgs__EffectiveAndroidUI.json"},
+"Java" :{
+  "nFiles": 54,
+  "blank": 542,
+  "comment": 1510,
+  "code": 2225},
+"XML" :{
+  "nFiles": 25,
+  "blank": 138,
+  "comment": 82,
+  "code": 739},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 2,
+  "code": 118},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 68},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 765,
+  "comment": 1618,
+  "code": 3348,
+  "nFiles": 86} }

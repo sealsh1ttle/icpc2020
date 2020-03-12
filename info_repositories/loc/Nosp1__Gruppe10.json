@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.273561954498291,
+  "n_files"            : 35,
+  "n_lines"            : 11725,
+  "files_per_second"   : 127.941767575793,
+  "lines_per_second"   : 42860.4921378906,
+  "report_file"        : "loc/Nosp1__Gruppe10.json"},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 10,
+  "code": 6854},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 582,
+  "comment": 198,
+  "code": 1597},
+"Java" :{
+  "nFiles": 23,
+  "blank": 215,
+  "comment": 315,
+  "code": 1032},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 37,
+  "comment": 31,
+  "code": 404},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 68},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 885,
+  "comment": 557,
+  "code": 10283,
+  "nFiles": 35} }

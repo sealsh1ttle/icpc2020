@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 117.598819971085,
+  "n_files"            : 571,
+  "n_lines"            : 80573,
+  "files_per_second"   : 4.85549089812635,
+  "lines_per_second"   : 685.151432810392,
+  "report_file"        : "loc/iLCSoft__LCIO.json"},
+"C++" :{
+  "nFiles": 154,
+  "blank": 8535,
+  "comment": 4876,
+  "code": 20163},
+"Java" :{
+  "nFiles": 111,
+  "blank": 2425,
+  "comment": 1842,
+  "code": 12348},
+"C/C++ Header" :{
+  "nFiles": 193,
+  "blank": 4044,
+  "comment": 5760,
+  "code": 8606},
+"Fortran 77" :{
+  "nFiles": 7,
+  "blank": 465,
+  "comment": 571,
+  "code": 1619},
+"CMake" :{
+  "nFiles": 32,
+  "blank": 721,
+  "comment": 809,
+  "code": 1512},
+"Python" :{
+  "nFiles": 21,
+  "blank": 300,
+  "comment": 255,
+  "code": 941},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 442,
+  "comment": 0,
+  "code": 815},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 186,
+  "comment": 8,
+  "code": 676},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 113,
+  "comment": 114,
+  "code": 581},
+"Bourne Shell" :{
+  "nFiles": 21,
+  "blank": 138,
+  "comment": 71,
+  "code": 566},
+"Pascal" :{
+  "nFiles": 2,
+  "blank": 121,
+  "comment": 0,
+  "code": 494},
+"XML" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 19,
+  "code": 135},
+"Go" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 12,
+  "code": 69},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 4,
+  "code": 55},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 14,
+  "code": 34},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 0,
+  "code": 31},
+"DOS Batch" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"C Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 17557,
+  "comment": 14355,
+  "code": 48661,
+  "nFiles": 571} }

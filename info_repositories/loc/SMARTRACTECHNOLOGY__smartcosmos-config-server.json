@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.68269896507263,
+  "n_files"            : 11,
+  "n_lines"            : 369,
+  "files_per_second"   : 6.53711699378456,
+  "lines_per_second"   : 219.290560973319,
+  "report_file"        : "loc/SMARTRACTECHNOLOGY__smartcosmos-config-server.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 70},
+"Java" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 3,
+  "code": 68},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 16,
+  "code": 65},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 53},
+"AsciiDoc" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 29},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 12},
+"SUM": {
+  "blank": 51,
+  "comment": 21,
+  "code": 297,
+  "nFiles": 11} }

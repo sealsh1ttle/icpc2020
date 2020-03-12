@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 40.5138349533081,
+  "n_files"            : 2493,
+  "n_lines"            : 2689676,
+  "files_per_second"   : 61.5345351254248,
+  "lines_per_second"   : 66389.0743273213,
+  "report_file"        : "loc/aws__aws-sdk-go.json"},
+"Go" :{
+  "nFiles": 1745,
+  "blank": 264459,
+  "comment": 792355,
+  "code": 937659},
+"JSON" :{
+  "nFiles": 695,
+  "blank": 177,
+  "comment": 0,
+  "code": 685441},
+"Markdown" :{
+  "nFiles": 42,
+  "blank": 1787,
+  "comment": 0,
+  "code": 7325},
+"make" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 26,
+  "code": 198},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 6,
+  "code": 78},
+"INI" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 0,
+  "code": 42},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 22,
+  "code": 18},
+"SUM": {
+  "blank": 266506,
+  "comment": 792409,
+  "code": 1630761,
+  "nFiles": 2493} }

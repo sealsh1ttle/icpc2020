@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.145824909210205,
+  "n_files"            : 5,
+  "n_lines"            : 182,
+  "files_per_second"   : 34.2876949286665,
+  "lines_per_second"   : 1248.07209540346,
+  "report_file"        : "loc/BastiaanOlij__shader_tutorial.json"},
+"HLSL" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 8,
+  "code": 131},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 38,
+  "comment": 8,
+  "code": 136,
+  "nFiles": 5} }

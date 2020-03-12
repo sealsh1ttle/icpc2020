@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.36752510070801,
+  "n_files"            : 21,
+  "n_lines"            : 2812,
+  "files_per_second"   : 8.87002211453638,
+  "lines_per_second"   : 1187.73819933697,
+  "report_file"        : "loc/fossasia__loklak_scraper_js.json"},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 214,
+  "comment": 210,
+  "code": 2162},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 0,
+  "code": 104},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 61},
+"Java" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 23},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 243,
+  "comment": 210,
+  "code": 2359,
+  "nFiles": 21} }

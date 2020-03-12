@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.5497410297394,
+  "n_files"            : 63,
+  "n_lines"            : 4624,
+  "files_per_second"   : 4.05151441940483,
+  "lines_per_second"   : 297.368296433777,
+  "report_file"        : "loc/labslibrarypt3__LabsLibraryPT3_FE.json"},
+"JavaScript" :{
+  "nFiles": 48,
+  "blank": 262,
+  "comment": 144,
+  "code": 2982},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 124,
+  "comment": 59,
+  "code": 820},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 81},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 23,
+  "code": 45},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 37},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 423,
+  "comment": 226,
+  "code": 3975,
+  "nFiles": 63} }

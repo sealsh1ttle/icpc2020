@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 251.048887014389,
+  "n_files"            : 932,
+  "n_lines"            : 107804,
+  "files_per_second"   : 3.71242434524946,
+  "lines_per_second"   : 429.414371368319,
+  "report_file"        : "loc/appnexus__lucid.json"},
+"JSX" :{
+  "nFiles": 606,
+  "blank": 4810,
+  "comment": 455,
+  "code": 45814},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 24469},
+"TypeScript" :{
+  "nFiles": 131,
+  "blank": 1782,
+  "comment": 1076,
+  "code": 12386},
+"JavaScript" :{
+  "nFiles": 81,
+  "blank": 639,
+  "comment": 76,
+  "code": 6779},
+"LESS" :{
+  "nFiles": 96,
+  "blank": 1612,
+  "comment": 426,
+  "code": 6342},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 177,
+  "comment": 0,
+  "code": 822},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 12,
+  "code": 45},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 9037,
+  "comment": 2045,
+  "code": 96722,
+  "nFiles": 932} }

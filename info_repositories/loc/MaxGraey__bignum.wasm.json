@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.252847909927368,
+  "n_files"            : 32,
+  "n_lines"            : 13104,
+  "files_per_second"   : 126.558293517997,
+  "lines_per_second"   : 51825.6211956199,
+  "report_file"        : "loc/MaxGraey__bignum.wasm.json"},
+"WebAssembly" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8577},
+"TypeScript" :{
+  "nFiles": 23,
+  "blank": 693,
+  "comment": 322,
+  "code": 3296},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 0,
+  "code": 53},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 50,
+  "code": 30},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 716,
+  "comment": 372,
+  "code": 12016,
+  "nFiles": 32} }

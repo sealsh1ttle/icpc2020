@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.28092980384827,
+  "n_files"            : 539,
+  "n_lines"            : 163028,
+  "files_per_second"   : 125.907226863537,
+  "lines_per_second"   : 38082.381041018,
+  "report_file"        : "loc/ConnectivityFoundry__AwaLWM2M.json"},
+"C" :{
+  "nFiles": 192,
+  "blank": 10556,
+  "comment": 12035,
+  "code": 62875},
+"C++" :{
+  "nFiles": 80,
+  "blank": 6836,
+  "comment": 3630,
+  "code": 26603},
+"C/C++ Header" :{
+  "nFiles": 147,
+  "blank": 3189,
+  "comment": 8239,
+  "code": 7872},
+"Python" :{
+  "nFiles": 32,
+  "blank": 1537,
+  "comment": 3269,
+  "code": 5347},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 1481,
+  "comment": 0,
+  "code": 4234},
+"XML" :{
+  "nFiles": 8,
+  "blank": 6,
+  "comment": 7,
+  "code": 1239},
+"CMake" :{
+  "nFiles": 30,
+  "blank": 262,
+  "comment": 168,
+  "code": 1124},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 181,
+  "comment": 23,
+  "code": 831},
+"diff" :{
+  "nFiles": 7,
+  "blank": 13,
+  "comment": 59,
+  "code": 598},
+"make" :{
+  "nFiles": 9,
+  "blank": 75,
+  "comment": 60,
+  "code": 225},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 49,
+  "comment": 102,
+  "code": 162},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 11,
+  "code": 44},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 6,
+  "code": 31},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 20},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 24203,
+  "comment": 27610,
+  "code": 111215,
+  "nFiles": 539} }

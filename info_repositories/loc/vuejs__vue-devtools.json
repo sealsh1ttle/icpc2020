@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.6930599212646,
+  "n_files"            : 167,
+  "n_lines"            : 15623,
+  "files_per_second"   : 4.81364285476703,
+  "lines_per_second"   : 450.320612694762,
+  "report_file"        : "loc/vuejs__vue-devtools.json"},
+"JavaScript" :{
+  "nFiles": 81,
+  "blank": 859,
+  "comment": 646,
+  "code": 6184},
+"Vuejs Component" :{
+  "nFiles": 58,
+  "blank": 636,
+  "comment": 29,
+  "code": 6101},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 18,
+  "comment": 0,
+  "code": 288},
+"Stylus" :{
+  "nFiles": 5,
+  "blank": 36,
+  "comment": 47,
+  "code": 235},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 101,
+  "comment": 0,
+  "code": 214},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 191},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 24},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1657,
+  "comment": 726,
+  "code": 13240,
+  "nFiles": 167} }

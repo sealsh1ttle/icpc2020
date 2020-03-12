@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.456658840179443,
+  "n_files"            : 1,
+  "n_lines"            : 2,
+  "files_per_second"   : 2.18981855165018,
+  "lines_per_second"   : 4.37963710330036,
+  "report_file"        : "loc/emaicus__ALAC_Tutorial_Repo.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 2,
+  "nFiles": 1} }

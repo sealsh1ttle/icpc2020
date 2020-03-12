@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.20325493812561,
+  "n_files"            : 30,
+  "n_lines"            : 2377,
+  "files_per_second"   : 3.2597162853461,
+  "lines_per_second"   : 258.278187008923,
+  "report_file"        : "loc/runtimejs__runtime-cli.json"},
+"JavaScript" :{
+  "nFiles": 25,
+  "blank": 286,
+  "comment": 349,
+  "code": 1557},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 97},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 317,
+  "comment": 349,
+  "code": 1711,
+  "nFiles": 30} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.21917605400085,
+  "n_files"            : 6,
+  "n_lines"            : 5555,
+  "files_per_second"   : 1.4220786056819,
+  "lines_per_second"   : 1316.60777576049,
+  "report_file"        : "loc/sarif-standard__sarif-spec-v1.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 130,
+  "comment": 0,
+  "code": 5218},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 46,
+  "comment": 0,
+  "code": 155},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 176,
+  "comment": 0,
+  "code": 5379,
+  "nFiles": 6} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 49.6684529781342,
+  "n_files"            : 237,
+  "n_lines"            : 48230,
+  "files_per_second"   : 4.77164046370311,
+  "lines_per_second"   : 971.038901115615,
+  "report_file"        : "loc/witmicko__fh-forms.json"},
+"JavaScript" :{
+  "nFiles": 212,
+  "blank": 5681,
+  "comment": 3445,
+  "code": 36709},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 38,
+  "comment": 0,
+  "code": 1575},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 71,
+  "comment": 0,
+  "code": 266},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 36,
+  "comment": 46,
+  "code": 240},
+"Handlebars" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 1,
+  "code": 107},
+"SUM": {
+  "blank": 5841,
+  "comment": 3492,
+  "code": 38897,
+  "nFiles": 237} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.89845395088196,
+  "n_files"            : 190,
+  "n_lines"            : 19909,
+  "files_per_second"   : 100.081437272541,
+  "lines_per_second"   : 10486.9543929422,
+  "report_file"        : "loc/RackHD__on-build-config.json"},
+"Python" :{
+  "nFiles": 42,
+  "blank": 1225,
+  "comment": 2282,
+  "code": 5131},
+"Bourne Shell" :{
+  "nFiles": 50,
+  "blank": 667,
+  "comment": 837,
+  "code": 4441},
+"Groovy" :{
+  "nFiles": 45,
+  "blank": 249,
+  "comment": 397,
+  "code": 2682},
+"YAML" :{
+  "nFiles": 31,
+  "blank": 129,
+  "comment": 12,
+  "code": 883},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 422},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 13,
+  "code": 131},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 0,
+  "code": 111},
+"Expect" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 5,
+  "code": 95},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 3,
+  "code": 64},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 2364,
+  "comment": 3549,
+  "code": 13996,
+  "nFiles": 190} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.25039315223694,
+  "n_files"            : 21,
+  "n_lines"            : 1570,
+  "files_per_second"   : 9.33170276452608,
+  "lines_per_second"   : 697.655873347902,
+  "report_file"        : "loc/robforman__tcr.json"},
+"Ruby" :{
+  "nFiles": 11,
+  "blank": 147,
+  "comment": 17,
+  "code": 839},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 440},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 84},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 179,
+  "comment": 17,
+  "code": 1374,
+  "nFiles": 21} }

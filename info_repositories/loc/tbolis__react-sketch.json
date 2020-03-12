@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.28709006309509,
+  "n_files"            : 33,
+  "n_lines"            : 3964,
+  "files_per_second"   : 5.24885116466016,
+  "lines_per_second"   : 630.498364142814,
+  "report_file"        : "loc/tbolis__react-sketch.json"},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 151,
+  "comment": 105,
+  "code": 1761},
+"JSX" :{
+  "nFiles": 3,
+  "blank": 93,
+  "comment": 256,
+  "code": 1026},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 139},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 130},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 109,
+  "code": 54},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 8,
+  "code": 29},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 302,
+  "comment": 478,
+  "code": 3184,
+  "nFiles": 33} }

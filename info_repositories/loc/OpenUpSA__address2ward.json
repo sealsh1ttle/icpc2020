@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.74013495445251,
+  "n_files"            : 7,
+  "n_lines"            : 689,
+  "files_per_second"   : 4.02267650683585,
+  "lines_per_second"   : 395.946301887129,
+  "report_file"        : "loc/OpenUpSA__address2ward.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 126,
+  "comment": 50,
+  "code": 437},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 9,
+  "code": 29},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 141,
+  "comment": 59,
+  "code": 489,
+  "nFiles": 7} }

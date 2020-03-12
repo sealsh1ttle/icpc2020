@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.510683059692383,
+  "n_files"            : 29,
+  "n_lines"            : 14526,
+  "files_per_second"   : 56.7866888270556,
+  "lines_per_second"   : 28444.2566173038,
+  "report_file"        : "loc/Zarroc2762__E7-Gear-Optimizer.json"},
+"C#" :{
+  "nFiles": 23,
+  "blank": 376,
+  "comment": 2016,
+  "code": 10648},
+"XML" :{
+  "nFiles": 4,
+  "blank": 44,
+  "comment": 192,
+  "code": 874},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 328},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 441,
+  "comment": 2208,
+  "code": 11877,
+  "nFiles": 29} }

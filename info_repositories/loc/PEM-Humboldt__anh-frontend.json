@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.560542106628418,
+  "n_files"            : 69,
+  "n_lines"            : 10900,
+  "files_per_second"   : 123.0951237812,
+  "lines_per_second"   : 19445.4615828273,
+  "report_file"        : "loc/PEM-Humboldt__anh-frontend.json"},
+"JSX" :{
+  "nFiles": 54,
+  "blank": 428,
+  "comment": 383,
+  "code": 6496},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 337,
+  "comment": 36,
+  "code": 2110},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 65,
+  "comment": 262,
+  "code": 320},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 217},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 66,
+  "code": 58},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 0,
+  "code": 47},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 5,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 12},
+"SUM": {
+  "blank": 869,
+  "comment": 754,
+  "code": 9277,
+  "nFiles": 69} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.53424096107483,
+  "n_files"            : 31,
+  "n_lines"            : 7166,
+  "files_per_second"   : 3.63242614561656,
+  "lines_per_second"   : 839.676314822202,
+  "report_file"        : "loc/iLCSoft__ConformalTracking.json"},
+"C++" :{
+  "nFiles": 9,
+  "blank": 777,
+  "comment": 1011,
+  "code": 3251},
+"C/C++ Header" :{
+  "nFiles": 11,
+  "blank": 244,
+  "comment": 238,
+  "code": 971},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 75,
+  "comment": 0,
+  "code": 216},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 4,
+  "code": 148},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 25,
+  "code": 86},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 42},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 1145,
+  "comment": 1278,
+  "code": 4743,
+  "nFiles": 31} }

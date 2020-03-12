@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 121.22182393074,
+  "n_files"            : 709,
+  "n_lines"            : 197105,
+  "files_per_second"   : 5.84878182005482,
+  "lines_per_second"   : 1625.98609399422,
+  "report_file"        : "loc/RustPython__RustPython.json"},
+"Python" :{
+  "nFiles": 531,
+  "blank": 18767,
+  "comment": 34294,
+  "code": 98131},
+"Rust" :{
+  "nFiles": 137,
+  "blank": 4787,
+  "comment": 2057,
+  "code": 37065},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 182,
+  "comment": 0,
+  "code": 450},
+"TOML" :{
+  "nFiles": 9,
+  "blank": 33,
+  "comment": 5,
+  "code": 242},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 13,
+  "code": 229},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 26,
+  "comment": 13,
+  "code": 203},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 0,
+  "code": 165},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 42,
+  "comment": 16,
+  "code": 123},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 73},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 4,
+  "code": 32},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 23920,
+  "comment": 36402,
+  "code": 136783,
+  "nFiles": 709} }

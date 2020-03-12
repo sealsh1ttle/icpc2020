@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.258620977401733,
+  "n_files"            : 31,
+  "n_lines"            : 5297,
+  "files_per_second"   : 119.86653330076,
+  "lines_per_second"   : 20481.7105449718,
+  "report_file"        : "loc/indralab__protmapper.json"},
+"Python" :{
+  "nFiles": 19,
+  "blank": 801,
+  "comment": 1251,
+  "code": 3033},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 58},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"reStructuredText" :{
+  "nFiles": 7,
+  "blank": 13,
+  "comment": 30,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 17},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 841,
+  "comment": 1290,
+  "code": 3166,
+  "nFiles": 31} }

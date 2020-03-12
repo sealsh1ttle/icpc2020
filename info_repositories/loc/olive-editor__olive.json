@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 239.538923978806,
+  "n_files"            : 557,
+  "n_lines"            : 451628,
+  "files_per_second"   : 2.32530058475709,
+  "lines_per_second"   : 1885.40548023819,
+  "report_file"        : "loc/olive-editor__olive.json"},
+"SVG" :{
+  "nFiles": 109,
+  "blank": 93,
+  "comment": 95,
+  "code": 408467},
+"C++" :{
+  "nFiles": 165,
+  "blank": 5547,
+  "comment": 3854,
+  "code": 15602},
+"C/C++ Header" :{
+  "nFiles": 169,
+  "blank": 3454,
+  "comment": 5707,
+  "code": 5192},
+"CMake" :{
+  "nFiles": 92,
+  "blank": 190,
+  "comment": 1395,
+  "code": 1280},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 3,
+  "code": 181},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 80,
+  "comment": 88,
+  "code": 137},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 0,
+  "code": 71},
+"INI" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 34},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 29},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 34,
+  "code": 19},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 5},
+"SUM": {
+  "blank": 9425,
+  "comment": 11179,
+  "code": 431024,
+  "nFiles": 557} }

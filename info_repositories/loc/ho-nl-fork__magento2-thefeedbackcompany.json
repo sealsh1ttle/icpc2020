@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.462040185928345,
+  "n_files"            : 43,
+  "n_lines"            : 2779,
+  "files_per_second"   : 93.065498001225,
+  "lines_per_second"   : 6014.62834756754,
+  "report_file"        : "loc/ho-nl-fork__magento2-thefeedbackcompany.json"},
+"PHP" :{
+  "nFiles": 28,
+  "blank": 258,
+  "comment": 685,
+  "code": 1306},
+"XML" :{
+  "nFiles": 11,
+  "blank": 3,
+  "comment": 68,
+  "code": 247},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 0,
+  "code": 159},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 287,
+  "comment": 753,
+  "code": 1739,
+  "nFiles": 43} }

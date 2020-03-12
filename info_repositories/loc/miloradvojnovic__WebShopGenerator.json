@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.8632719516754,
+  "n_files"            : 164,
+  "n_lines"            : 6242,
+  "files_per_second"   : 4.44887258556402,
+  "lines_per_second"   : 169.328430970065,
+  "report_file"        : "loc/miloradvojnovic__WebShopGenerator.json"},
+"Scala" :{
+  "nFiles": 62,
+  "blank": 446,
+  "comment": 0,
+  "code": 1903},
+"Python" :{
+  "nFiles": 34,
+  "blank": 341,
+  "comment": 82,
+  "code": 1411},
+"TypeScript" :{
+  "nFiles": 45,
+  "blank": 169,
+  "comment": 4,
+  "code": 1205},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 7,
+  "comment": 0,
+  "code": 400},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 31,
+  "comment": 0,
+  "code": 163},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 53},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 1000,
+  "comment": 86,
+  "code": 5156,
+  "nFiles": 164} }

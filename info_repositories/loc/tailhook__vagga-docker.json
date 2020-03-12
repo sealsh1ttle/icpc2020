@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0853571891784668,
+  "n_files"            : 17,
+  "n_lines"            : 888,
+  "files_per_second"   : 199.16307183518,
+  "lines_per_second"   : 10403.3416346847,
+  "report_file"        : "loc/tailhook__vagga-docker.json"},
+"Python" :{
+  "nFiles": 12,
+  "blank": 65,
+  "comment": 16,
+  "code": 315},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 310},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 21,
+  "code": 71},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 41},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 112,
+  "comment": 37,
+  "code": 739,
+  "nFiles": 17} }

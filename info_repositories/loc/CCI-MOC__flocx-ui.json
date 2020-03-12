@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.080897808075,
+  "n_files"            : 64,
+  "n_lines"            : 4134,
+  "files_per_second"   : 4.54516472403471,
+  "lines_per_second"   : 293.589233893117,
+  "report_file"        : "loc/CCI-MOC__flocx-ui.json"},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 281,
+  "comment": 306,
+  "code": 1287},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 3,
+  "comment": 3,
+  "code": 596},
+"Python" :{
+  "nFiles": 21,
+  "blank": 211,
+  "comment": 261,
+  "code": 538},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 216},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 124,
+  "comment": 0,
+  "code": 216},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 28},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 10},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 625,
+  "comment": 573,
+  "code": 2936,
+  "nFiles": 64} }

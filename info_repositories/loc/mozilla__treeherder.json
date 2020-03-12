@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 184.032428979874,
+  "n_files"            : 630,
+  "n_lines"            : 199324,
+  "files_per_second"   : 3.4233097041223,
+  "lines_per_second"   : 1083.09171978488,
+  "report_file"        : "loc/mozilla__treeherder.json"},
+"JSON" :{
+  "nFiles": 97,
+  "blank": 26,
+  "comment": 0,
+  "code": 130716},
+"JSX" :{
+  "nFiles": 157,
+  "blank": 2471,
+  "comment": 531,
+  "code": 22708},
+"Python" :{
+  "nFiles": 262,
+  "blank": 5609,
+  "comment": 3716,
+  "code": 20734},
+"JavaScript" :{
+  "nFiles": 60,
+  "blank": 702,
+  "comment": 522,
+  "code": 4768},
+"CSS" :{
+  "nFiles": 19,
+  "blank": 566,
+  "comment": 200,
+  "code": 2892},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 537,
+  "comment": 0,
+  "code": 1356},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 88,
+  "comment": 47,
+  "code": 940},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 35,
+  "code": 41},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 7,
+  "code": 34},
+"INI" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 26},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 10034,
+  "comment": 5058,
+  "code": 184232,
+  "nFiles": 630} }

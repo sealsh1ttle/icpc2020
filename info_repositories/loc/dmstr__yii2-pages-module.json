@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.0471370220184,
+  "n_files"            : 73,
+  "n_lines"            : 4618,
+  "files_per_second"   : 3.83259698901794,
+  "lines_per_second"   : 242.451135551847,
+  "report_file"        : "loc/dmstr__yii2-pages-module.json"},
+"PHP" :{
+  "nFiles": 59,
+  "blank": 482,
+  "comment": 1034,
+  "code": 2428},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 16,
+  "comment": 12,
+  "code": 190},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 85,
+  "comment": 0,
+  "code": 165},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 85},
+"make" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 12,
+  "code": 56},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 22},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 606,
+  "comment": 1060,
+  "code": 2952,
+  "nFiles": 73} }

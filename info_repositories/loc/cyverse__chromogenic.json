@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.381115198135376,
+  "n_files"            : 22,
+  "n_lines"            : 4763,
+  "files_per_second"   : 57.7253284771535,
+  "lines_per_second"   : 12497.5336153037,
+  "report_file"        : "loc/cyverse__chromogenic.json"},
+"Python" :{
+  "nFiles": 15,
+  "blank": 539,
+  "comment": 831,
+  "code": 2822},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 122,
+  "comment": 0,
+  "code": 422},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 666,
+  "comment": 832,
+  "code": 3265,
+  "nFiles": 22} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 107.944216012955,
+  "n_files"            : 535,
+  "n_lines"            : 175668,
+  "files_per_second"   : 4.95626370509554,
+  "lines_per_second"   : 1627.39613560135,
+  "report_file"        : "loc/vuejs__vue.json"},
+"JavaScript" :{
+  "nFiles": 431,
+  "blank": 15746,
+  "comment": 17339,
+  "code": 135723},
+"TypeScript" :{
+  "nFiles": 18,
+  "blank": 221,
+  "comment": 91,
+  "code": 1522},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 83,
+  "comment": 39,
+  "code": 1280},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 309,
+  "comment": 0,
+  "code": 1137},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 130,
+  "comment": 8,
+  "code": 717},
+"Vuejs Component" :{
+  "nFiles": 27,
+  "blank": 50,
+  "comment": 12,
+  "code": 644},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 339},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 2,
+  "code": 128},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 17,
+  "code": 85},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 16},
+"SUM": {
+  "blank": 16568,
+  "comment": 17509,
+  "code": 141591,
+  "nFiles": 535} }

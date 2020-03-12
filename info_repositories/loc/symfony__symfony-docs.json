@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 204.902990102768,
+  "n_files"            : 578,
+  "n_lines"            : 123853,
+  "files_per_second"   : 2.82084707358398,
+  "lines_per_second"   : 604.447011426638,
+  "report_file"        : "loc/symfony__symfony-docs.json"},
+"reStructuredText" :{
+  "nFiles": 521,
+  "blank": 30663,
+  "comment": 35166,
+  "code": 52720},
+"SVG" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 2681},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 99,
+  "comment": 0,
+  "code": 446},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 52,
+  "comment": 5,
+  "code": 392},
+"Pascal" :{
+  "nFiles": 12,
+  "blank": 87,
+  "comment": 43,
+  "code": 233},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"Python" :{
+  "nFiles": 4,
+  "blank": 104,
+  "comment": 170,
+  "code": 218},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 20,
+  "comment": 18,
+  "code": 143},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"PHP" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 7,
+  "code": 100},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 9},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 5,
+  "code": 2},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 5,
+  "code": 2},
+"SUM": {
+  "blank": 31130,
+  "comment": 35426,
+  "code": 57297,
+  "nFiles": 578} }

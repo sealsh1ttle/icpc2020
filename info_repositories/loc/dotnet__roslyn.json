@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4445.96083807945,
+  "n_files"            : 13728,
+  "n_lines"            : 5913937,
+  "files_per_second"   : 3.087746496195,
+  "lines_per_second"   : 1330.18198211451,
+  "report_file"        : "loc/dotnet__roslyn.json"},
+"C#" :{
+  "nFiles": 9087,
+  "blank": 402964,
+  "comment": 310460,
+  "code": 2677567},
+"Visual Basic" :{
+  "nFiles": 3350,
+  "blank": 271201,
+  "comment": 116844,
+  "code": 1559581},
+"XML" :{
+  "nFiles": 706,
+  "blank": 6952,
+  "comment": 5337,
+  "code": 511128},
+"MSBuild script" :{
+  "nFiles": 236,
+  "blank": 350,
+  "comment": 877,
+  "code": 13561},
+"Markdown" :{
+  "nFiles": 116,
+  "blank": 2139,
+  "comment": 2,
+  "code": 7669},
+"SKILL" :{
+  "nFiles": 36,
+  "blank": 899,
+  "comment": 0,
+  "code": 5042},
+"PowerShell" :{
+  "nFiles": 53,
+  "blank": 1043,
+  "comment": 637,
+  "code": 4741},
+"XAML" :{
+  "nFiles": 29,
+  "blank": 105,
+  "comment": 17,
+  "code": 3400},
+"YAML" :{
+  "nFiles": 33,
+  "blank": 333,
+  "comment": 167,
+  "code": 2621},
+"ANTLR Grammar" :{
+  "nFiles": 2,
+  "blank": 676,
+  "comment": 2,
+  "code": 2595},
+"Bourne Shell" :{
+  "nFiles": 25,
+  "blank": 453,
+  "comment": 164,
+  "code": 2334},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 451},
+"XSD" :{
+  "nFiles": 3,
+  "blank": 74,
+  "comment": 217,
+  "code": 401},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 10,
+  "code": 184},
+"DOS Batch" :{
+  "nFiles": 27,
+  "blank": 55,
+  "comment": 7,
+  "code": 173},
+"C++" :{
+  "nFiles": 4,
+  "blank": 28,
+  "comment": 22,
+  "code": 135},
+"diff" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 83,
+  "code": 95},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 17,
+  "code": 43},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 10},
+"F#" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 1,
+  "code": 10},
+"SUM": {
+  "blank": 687331,
+  "comment": 434865,
+  "code": 4791741,
+  "nFiles": 13728} }

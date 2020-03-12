@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 59.016998052597,
+  "n_files"            : 70,
+  "n_lines"            : 6386,
+  "files_per_second"   : 1.18609895978807,
+  "lines_per_second"   : 108.20611367438,
+  "report_file"        : "loc/bmuschko__gradle-tomcat-plugin.json"},
+"Groovy" :{
+  "nFiles": 54,
+  "blank": 627,
+  "comment": 1021,
+  "code": 3298},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 196,
+  "comment": 0,
+  "code": 576},
+"Gradle" :{
+  "nFiles": 11,
+  "blank": 66,
+  "comment": 2,
+  "code": 327},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 937,
+  "comment": 1047,
+  "code": 4402,
+  "nFiles": 70} }

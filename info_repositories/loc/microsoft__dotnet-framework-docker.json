@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 127.393448114395,
+  "n_files"            : 253,
+  "n_lines"            : 41956,
+  "files_per_second"   : 1.98597340557745,
+  "lines_per_second"   : 329.341898041137,
+  "report_file"        : "loc/microsoft__dotnet-framework-docker.json"},
+"JavaScript" :{
+  "nFiles": 34,
+  "blank": 2843,
+  "comment": 5035,
+  "code": 16214},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 8,
+  "comment": 34,
+  "code": 7446},
+"Dockerfile" :{
+  "nFiles": 67,
+  "blank": 358,
+  "comment": 266,
+  "code": 1642},
+"MSBuild script" :{
+  "nFiles": 21,
+  "blank": 24,
+  "comment": 69,
+  "code": 1553},
+"C#" :{
+  "nFiles": 55,
+  "blank": 249,
+  "comment": 325,
+  "code": 1420},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 500,
+  "comment": 0,
+  "code": 1054},
+"YAML" :{
+  "nFiles": 27,
+  "blank": 27,
+  "comment": 50,
+  "code": 958},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 941},
+"PowerShell" :{
+  "nFiles": 8,
+  "blank": 67,
+  "comment": 41,
+  "code": 298},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"Razor" :{
+  "nFiles": 6,
+  "blank": 6,
+  "comment": 0,
+  "code": 107},
+"ASP.NET" :{
+  "nFiles": 7,
+  "blank": 12,
+  "comment": 0,
+  "code": 84},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 28},
+"SUM": {
+  "blank": 4100,
+  "comment": 5823,
+  "code": 32033,
+  "nFiles": 253} }

@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 940.316555976868,
+  "n_files"            : 2069,
+  "n_lines"            : 145352,
+  "files_per_second"   : 2.20032284537474,
+  "lines_per_second"   : 154.577731377917,
+  "report_file"        : "loc/thorntail__thorntail.json"},
+"Java" :{
+  "nFiles": 1384,
+  "blank": 16401,
+  "comment": 26640,
+  "code": 63377},
+"Maven" :{
+  "nFiles": 290,
+  "blank": 2771,
+  "comment": 1996,
+  "code": 21209},
+"XML" :{
+  "nFiles": 159,
+  "blank": 277,
+  "comment": 621,
+  "code": 3561},
+"AsciiDoc" :{
+  "nFiles": 96,
+  "blank": 850,
+  "comment": 6,
+  "code": 2548},
+"YAML" :{
+  "nFiles": 96,
+  "blank": 26,
+  "comment": 49,
+  "code": 1191},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 2,
+  "comment": 0,
+  "code": 997},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 72,
+  "comment": 10,
+  "code": 426},
+"XSLT" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 24,
+  "code": 389},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 77,
+  "comment": 91,
+  "code": 358},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 0,
+  "code": 216},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 103,
+  "comment": 0,
+  "code": 200},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 96,
+  "code": 195},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 2,
+  "code": 165},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 0,
+  "code": 138},
+"JSP" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 44},
+"XHTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 19},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 22,
+  "code": 4},
+"SUM": {
+  "blank": 20758,
+  "comment": 29557,
+  "code": 95037,
+  "nFiles": 2069} }

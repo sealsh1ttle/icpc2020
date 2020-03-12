@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 543.700266122818,
+  "n_files"            : 2294,
+  "n_lines"            : 958382,
+  "files_per_second"   : 4.21923648549733,
+  "lines_per_second"   : 1762.70283410806,
+  "report_file"        : "loc/coreos__prometheus-operator.json"},
+"Go" :{
+  "nFiles": 1953,
+  "blank": 70533,
+  "comment": 99447,
+  "code": 738329},
+"YAML" :{
+  "nFiles": 95,
+  "blank": 154,
+  "comment": 72,
+  "code": 12583},
+"Markdown" :{
+  "nFiles": 100,
+  "blank": 2444,
+  "comment": 0,
+  "code": 7014},
+"Protocol Buffers" :{
+  "nFiles": 57,
+  "blank": 3384,
+  "comment": 10954,
+  "code": 5556},
+"Assembly" :{
+  "nFiles": 38,
+  "blank": 479,
+  "comment": 840,
+  "code": 2324},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 1679},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 118,
+  "comment": 353,
+  "code": 716},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 45,
+  "comment": 57,
+  "code": 401},
+"make" :{
+  "nFiles": 9,
+  "blank": 82,
+  "comment": 74,
+  "code": 248},
+"lex" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 0,
+  "code": 143},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 23,
+  "comment": 10,
+  "code": 72},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"TOML" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 105,
+  "code": 23},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"SUM": {
+  "blank": 77314,
+  "comment": 111938,
+  "code": 769130,
+  "nFiles": 2294} }

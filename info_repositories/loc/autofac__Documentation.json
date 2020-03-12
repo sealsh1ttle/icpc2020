@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.616592168808,
+  "n_files"            : 89,
+  "n_lines"            : 12001,
+  "files_per_second"   : 5.69906667459533,
+  "lines_per_second"   : 768.477518672119,
+  "report_file"        : "loc/autofac__Documentation.json"},
+"reStructuredText" :{
+  "nFiles": 78,
+  "blank": 3146,
+  "comment": 4703,
+  "code": 2870},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 428},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 2,
+  "code": 243},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 37},
+"Python" :{
+  "nFiles": 1,
+  "blank": 68,
+  "comment": 161,
+  "code": 30},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 18},
+"C#" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 7,
+  "code": 11},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3302,
+  "comment": 4890,
+  "code": 3809,
+  "nFiles": 89} }

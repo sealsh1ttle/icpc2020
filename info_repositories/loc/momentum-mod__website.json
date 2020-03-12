@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 114.967866897583,
+  "n_files"            : 536,
+  "n_lines"            : 30606,
+  "files_per_second"   : 4.66217226138053,
+  "lines_per_second"   : 266.213515357859,
+  "report_file"        : "loc/momentum-mod__website.json"},
+"JavaScript" :{
+  "nFiles": 119,
+  "blank": 957,
+  "comment": 587,
+  "code": 10379},
+"TypeScript" :{
+  "nFiles": 251,
+  "blank": 1031,
+  "comment": 1124,
+  "code": 8350},
+"Sass" :{
+  "nFiles": 65,
+  "blank": 473,
+  "comment": 17,
+  "code": 2439},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 10,
+  "comment": 3,
+  "code": 2149},
+"HTML" :{
+  "nFiles": 63,
+  "blank": 46,
+  "comment": 24,
+  "code": 2012},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 12,
+  "comment": 0,
+  "code": 604},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 197},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 35,
+  "comment": 0,
+  "code": 101},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 10,
+  "code": 16},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 2569,
+  "comment": 1766,
+  "code": 26271,
+  "nFiles": 536} }

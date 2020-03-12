@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.0837750434875,
+  "n_files"            : 142,
+  "n_lines"            : 10768,
+  "files_per_second"   : 2.67501698746312,
+  "lines_per_second"   : 202.84917550002,
+  "report_file"        : "loc/CSS-Tricks__conferences.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 8379},
+"Markdown" :{
+  "nFiles": 118,
+  "blank": 146,
+  "comment": 0,
+  "code": 1206},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 2,
+  "code": 604},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 38,
+  "comment": 4,
+  "code": 267},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 32},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 26},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 12},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 231,
+  "comment": 7,
+  "code": 10530,
+  "nFiles": 142} }

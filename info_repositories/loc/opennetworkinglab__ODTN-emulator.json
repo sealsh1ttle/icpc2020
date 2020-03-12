@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.77529096603394,
+  "n_files"            : 534,
+  "n_lines"            : 124953,
+  "files_per_second"   : 60.852683069647,
+  "lines_per_second"   : 14239.1859692914,
+  "report_file"        : "loc/opennetworkinglab__ODTN-emulator.json"},
+"Java" :{
+  "nFiles": 476,
+  "blank": 13324,
+  "comment": 14415,
+  "code": 62456},
+"Python" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 302,
+  "code": 21187},
+"XML" :{
+  "nFiles": 29,
+  "blank": 11,
+  "comment": 0,
+  "code": 8979},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 3241},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 120,
+  "comment": 0,
+  "code": 387},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 177},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 22,
+  "comment": 47,
+  "code": 125},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 107},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 13514,
+  "comment": 14766,
+  "code": 96673,
+  "nFiles": 534} }

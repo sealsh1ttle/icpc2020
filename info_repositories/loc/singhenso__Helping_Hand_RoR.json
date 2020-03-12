@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.640522003173828,
+  "n_files"            : 101,
+  "n_lines"            : 4627,
+  "files_per_second"   : 157.683888296637,
+  "lines_per_second"   : 7223.79555592613,
+  "report_file"        : "loc/singhenso__Helping_Hand_RoR.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 178,
+  "comment": 27,
+  "code": 1413},
+"Ruby" :{
+  "nFiles": 70,
+  "blank": 262,
+  "comment": 337,
+  "code": 895},
+"ERB" :{
+  "nFiles": 9,
+  "blank": 54,
+  "comment": 0,
+  "code": 651},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 81,
+  "comment": 24,
+  "code": 306},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 91,
+  "code": 35},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 22},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 616,
+  "comment": 485,
+  "code": 3526,
+  "nFiles": 101} }

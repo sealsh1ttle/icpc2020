@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.102344036102295,
+  "n_files"            : 8,
+  "n_lines"            : 201,
+  "files_per_second"   : 78.1677204131742,
+  "lines_per_second"   : 1963.963975381,
+  "report_file"        : "loc/imasaru__android_device_zte_oldman_twrp.json"},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 95},
+"make" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 15,
+  "code": 52},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 38,
+  "comment": 15,
+  "code": 148,
+  "nFiles": 8} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 74.477648973465,
+  "n_files"            : 449,
+  "n_lines"            : 66929,
+  "files_per_second"   : 6.02865431694777,
+  "lines_per_second"   : 898.645444942087,
+  "report_file"        : "loc/fabric8-services__fabric8-auth.json"},
+"Go" :{
+  "nFiles": 319,
+  "blank": 8208,
+  "comment": 5126,
+  "code": 41757},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 6,
+  "code": 5283},
+"YAML" :{
+  "nFiles": 25,
+  "blank": 32,
+  "comment": 108,
+  "code": 1702},
+"AsciiDoc" :{
+  "nFiles": 8,
+  "blank": 479,
+  "comment": 2,
+  "code": 1345},
+"make" :{
+  "nFiles": 3,
+  "blank": 145,
+  "comment": 263,
+  "code": 712},
+"SQL" :{
+  "nFiles": 66,
+  "blank": 133,
+  "comment": 79,
+  "code": 613},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 107,
+  "comment": 0,
+  "code": 243},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 62,
+  "comment": 35,
+  "code": 172},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 103},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 25,
+  "code": 83},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 40},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 32},
+"SUM": {
+  "blank": 9198,
+  "comment": 5646,
+  "code": 52085,
+  "nFiles": 449} }

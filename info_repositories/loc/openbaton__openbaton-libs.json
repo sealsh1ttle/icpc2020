@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.29723715782166,
+  "n_files"            : 238,
+  "n_lines"            : 22603,
+  "files_per_second"   : 103.602712149094,
+  "lines_per_second"   : 9839.21051557132,
+  "report_file"        : "loc/openbaton__openbaton-libs.json"},
+"Java" :{
+  "nFiles": 202,
+  "blank": 2899,
+  "comment": 4465,
+  "code": 13740},
+"Gradle" :{
+  "nFiles": 32,
+  "blank": 136,
+  "comment": 599,
+  "code": 413},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 56},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 3106,
+  "comment": 5087,
+  "code": 14410,
+  "nFiles": 238} }

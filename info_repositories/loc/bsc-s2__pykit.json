@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 85.9578878879547,
+  "n_files"            : 351,
+  "n_lines"            : 67847,
+  "files_per_second"   : 4.08339488817507,
+  "lines_per_second"   : 789.30510819947,
+  "report_file"        : "loc/bsc-s2__pykit.json"},
+"Python" :{
+  "nFiles": 280,
+  "blank": 11821,
+  "comment": 2314,
+  "code": 32460},
+"Markdown" :{
+  "nFiles": 49,
+  "blank": 5533,
+  "comment": 0,
+  "code": 11907},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1476},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 342,
+  "comment": 251,
+  "code": 1323},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 374},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 21},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 17718,
+  "comment": 2565,
+  "code": 47564,
+  "nFiles": 351} }

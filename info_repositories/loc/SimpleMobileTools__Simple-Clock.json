@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.5591578483582,
+  "n_files"            : 123,
+  "n_lines"            : 7611,
+  "files_per_second"   : 2.95963648851607,
+  "lines_per_second"   : 183.136531008909,
+  "report_file"        : "loc/SimpleMobileTools__Simple-Clock.json"},
+"Kotlin" :{
+  "nFiles": 40,
+  "blank": 509,
+  "comment": 2,
+  "code": 3050},
+"XML" :{
+  "nFiles": 76,
+  "blank": 494,
+  "comment": 177,
+  "code": 2910},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 0,
+  "code": 89},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 3,
+  "code": 72},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"SUM": {
+  "blank": 1101,
+  "comment": 204,
+  "code": 6306,
+  "nFiles": 123} }

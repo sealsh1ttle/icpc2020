@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.189161777496338,
+  "n_files"            : 78,
+  "n_lines"            : 13874,
+  "files_per_second"   : 412.345459174542,
+  "lines_per_second"   : 73344.6269306102,
+  "report_file"        : "loc/vmware-tanzu__gimbal.json"},
+"YAML" :{
+  "nFiles": 24,
+  "blank": 77,
+  "comment": 195,
+  "code": 6443},
+"Go" :{
+  "nFiles": 32,
+  "blank": 480,
+  "comment": 590,
+  "code": 4352},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 503,
+  "comment": 0,
+  "code": 1142},
+"make" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 1,
+  "code": 53},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 1084,
+  "comment": 786,
+  "code": 12004,
+  "nFiles": 78} }

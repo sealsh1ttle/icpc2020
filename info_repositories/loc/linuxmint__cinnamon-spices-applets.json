@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 640.001083850861,
+  "n_files"            : 1759,
+  "n_lines"            : 309960,
+  "files_per_second"   : 2.74843284548234,
+  "lines_per_second"   : 484.311679809952,
+  "report_file"        : "loc/linuxmint__cinnamon-spices-applets.json"},
+"JavaScript" :{
+  "nFiles": 311,
+  "blank": 17846,
+  "comment": 8394,
+  "code": 99603},
+"PO File" :{
+  "nFiles": 680,
+  "blank": 24131,
+  "comment": 40879,
+  "code": 62188},
+"JSON" :{
+  "nFiles": 384,
+  "blank": 391,
+  "comment": 0,
+  "code": 17221},
+"SVG" :{
+  "nFiles": 109,
+  "blank": 57,
+  "comment": 76,
+  "code": 13900},
+"Python" :{
+  "nFiles": 40,
+  "blank": 1273,
+  "comment": 580,
+  "code": 5590},
+"Glade" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 5,
+  "code": 5309},
+"Markdown" :{
+  "nFiles": 119,
+  "blank": 1620,
+  "comment": 0,
+  "code": 4036},
+"TypeScript" :{
+  "nFiles": 6,
+  "blank": 286,
+  "comment": 380,
+  "code": 2006},
+"CSS" :{
+  "nFiles": 34,
+  "blank": 249,
+  "comment": 135,
+  "code": 1138},
+"Bourne Shell" :{
+  "nFiles": 60,
+  "blank": 191,
+  "comment": 186,
+  "code": 847},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 54,
+  "comment": 0,
+  "code": 795},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 66,
+  "comment": 61,
+  "code": 300},
+"Qt" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 155},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 46167,
+  "comment": 50698,
+  "code": 213095,
+  "nFiles": 1759} }

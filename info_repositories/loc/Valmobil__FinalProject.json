@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.95952486991882,
+  "n_files"            : 179,
+  "n_lines"            : 876700,
+  "files_per_second"   : 25.7201466114005,
+  "lines_per_second"   : 125971.243207904,
+  "report_file"        : "loc/Valmobil__FinalProject.json"},
+"XML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 4,
+  "code": 843968},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 22054},
+"JavaScript" :{
+  "nFiles": 56,
+  "blank": 626,
+  "comment": 113,
+  "code": 5053},
+"Java" :{
+  "nFiles": 87,
+  "blank": 540,
+  "comment": 174,
+  "code": 3064},
+"CSS" :{
+  "nFiles": 19,
+  "blank": 17,
+  "comment": 4,
+  "code": 599},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 6,
+  "code": 134},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 5,
+  "code": 91},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 0,
+  "code": 39},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 20,
+  "code": 23},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 18},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1268,
+  "comment": 326,
+  "code": 875106,
+  "nFiles": 179} }

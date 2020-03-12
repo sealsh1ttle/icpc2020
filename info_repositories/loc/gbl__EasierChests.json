@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.260319948196411,
+  "n_files"            : 9,
+  "n_lines"            : 712,
+  "files_per_second"   : 34.5728403157545,
+  "lines_per_second"   : 2735.09581164635,
+  "report_file"        : "loc/gbl__EasierChests.json"},
+"Java" :{
+  "nFiles": 7,
+  "blank": 65,
+  "comment": 41,
+  "code": 518},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 27,
+  "code": 37},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 80,
+  "comment": 68,
+  "code": 564,
+  "nFiles": 9} }

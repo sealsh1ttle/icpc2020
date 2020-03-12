@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.5572431087494,
+  "n_files"            : 44,
+  "n_lines"            : 14824,
+  "files_per_second"   : 3.50395382321957,
+  "lines_per_second"   : 1180.51389716834,
+  "report_file"        : "loc/FUNPBL2015__Kan__groupreport.json"},
+"C" :{
+  "nFiles": 2,
+  "blank": 293,
+  "comment": 303,
+  "code": 8266},
+"TeX" :{
+  "nFiles": 39,
+  "blank": 366,
+  "comment": 1066,
+  "code": 4378},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 24,
+  "code": 81},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 15,
+  "code": 12},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 678,
+  "comment": 1408,
+  "code": 12738,
+  "nFiles": 44} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.291424036026001,
+  "n_files"            : 17,
+  "n_lines"            : 691,
+  "files_per_second"   : 58.3342411690546,
+  "lines_per_second"   : 2371.11533222451,
+  "report_file"        : "loc/modmuss50__SimpleVoidWorld.json"},
+"Java" :{
+  "nFiles": 5,
+  "blank": 67,
+  "comment": 1,
+  "code": 247},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 125},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 1,
+  "comment": 0,
+  "code": 67},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 2,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 122,
+  "comment": 25,
+  "code": 544,
+  "nFiles": 17} }

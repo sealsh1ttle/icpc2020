@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 99.5006721019745,
+  "n_files"            : 639,
+  "n_lines"            : 55243,
+  "files_per_second"   : 6.42206717302485,
+  "lines_per_second"   : 555.202279873884,
+  "report_file"        : "loc/jekyll__jekyll.json"},
+"Markdown" :{
+  "nFiles": 281,
+  "blank": 4347,
+  "comment": 0,
+  "code": 17537},
+"Ruby" :{
+  "nFiles": 168,
+  "blank": 3284,
+  "comment": 2768,
+  "code": 15718},
+"Cucumber" :{
+  "nFiles": 28,
+  "blank": 319,
+  "comment": 8,
+  "code": 3999},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 412,
+  "comment": 5,
+  "code": 2233},
+"YAML" :{
+  "nFiles": 27,
+  "blank": 125,
+  "comment": 94,
+  "code": 1322},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 115,
+  "comment": 6,
+  "code": 1073},
+"HTML" :{
+  "nFiles": 74,
+  "blank": 95,
+  "comment": 7,
+  "code": 966},
+"Bourne Again Shell" :{
+  "nFiles": 12,
+  "blank": 42,
+  "comment": 38,
+  "code": 189},
+"ERB" :{
+  "nFiles": 13,
+  "blank": 59,
+  "comment": 0,
+  "code": 170},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 108},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 11,
+  "code": 50},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 32},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 29},
+"CoffeeScript" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"XHTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Rmd" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 8824,
+  "comment": 2941,
+  "code": 43478,
+  "nFiles": 639} }

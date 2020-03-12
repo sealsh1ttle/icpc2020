@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.52928900718689,
+  "n_files"            : 57,
+  "n_lines"            : 6321,
+  "files_per_second"   : 107.691637698936,
+  "lines_per_second"   : 11942.4358227188,
+  "report_file"        : "loc/laravel__cashier.json"},
+"PHP" :{
+  "nFiles": 39,
+  "blank": 856,
+  "comment": 1452,
+  "code": 2843},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 239,
+  "comment": 0,
+  "code": 434},
+"Blade" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 18,
+  "code": 278},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 86},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 33},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 1155,
+  "comment": 1470,
+  "code": 3696,
+  "nFiles": 57} }

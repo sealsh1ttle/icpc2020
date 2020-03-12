@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.948220014572144,
+  "n_files"            : 8,
+  "n_lines"            : 550,
+  "files_per_second"   : 8.43686051449754,
+  "lines_per_second"   : 580.034160371706,
+  "report_file"        : "loc/allure-framework__allure-ruby-commons.json"},
+"Ruby" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 1,
+  "code": 291},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 1,
+  "code": 154},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 68,
+  "comment": 2,
+  "code": 480,
+  "nFiles": 8} }

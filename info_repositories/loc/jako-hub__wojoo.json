@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 89.9607131481171,
+  "n_files"            : 342,
+  "n_lines"            : 40961,
+  "files_per_second"   : 3.80165950259764,
+  "lines_per_second"   : 455.320979198544,
+  "report_file"        : "loc/jako-hub__wojoo.json"},
+"JavaScript" :{
+  "nFiles": 307,
+  "blank": 2014,
+  "comment": 1205,
+  "code": 23394},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 13204},
+"XML" :{
+  "nFiles": 14,
+  "blank": 8,
+  "comment": 14,
+  "code": 364},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 89,
+  "code": 134},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 18,
+  "code": 82},
+"Java" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 4,
+  "code": 70},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 16},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 5},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 2127,
+  "comment": 1376,
+  "code": 37458,
+  "nFiles": 342} }

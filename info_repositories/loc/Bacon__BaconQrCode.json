@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.9332711696625,
+  "n_files"            : 77,
+  "n_lines"            : 9804,
+  "files_per_second"   : 5.52634044528291,
+  "lines_per_second"   : 703.639502929268,
+  "report_file"        : "loc/Bacon__BaconQrCode.json"},
+"PHP" :{
+  "nFiles": 71,
+  "blank": 1463,
+  "comment": 1572,
+  "code": 6573},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 49},
+"XML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 3,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 33},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 1502,
+  "comment": 1575,
+  "code": 6727,
+  "nFiles": 77} }

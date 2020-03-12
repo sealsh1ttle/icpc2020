@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 143.784258842468,
+  "n_files"            : 431,
+  "n_lines"            : 84615,
+  "files_per_second"   : 2.99754648714508,
+  "lines_per_second"   : 588.485837609701,
+  "report_file"        : "loc/ant-vel__App.json"},
+"SVG" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 1,
+  "code": 28376},
+"LESS" :{
+  "nFiles": 121,
+  "blank": 2466,
+  "comment": 2574,
+  "code": 12493},
+"PHP" :{
+  "nFiles": 144,
+  "blank": 1728,
+  "comment": 3145,
+  "code": 8200},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 71,
+  "comment": 79,
+  "code": 7703},
+"Blade" :{
+  "nFiles": 97,
+  "blank": 1066,
+  "comment": 89,
+  "code": 6091},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 814,
+  "comment": 1834,
+  "code": 5091},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 2573},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 86,
+  "comment": 0,
+  "code": 108},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 6233,
+  "comment": 7722,
+  "code": 70660,
+  "nFiles": 431} }

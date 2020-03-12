@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.203979969024658,
+  "n_files"            : 1,
+  "n_lines"            : 3,
+  "files_per_second"   : 4.90244216028445,
+  "lines_per_second"   : 14.7073264808533,
+  "report_file"        : "loc/nadade__pyladies-asteroids.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1,
+  "comment": 0,
+  "code": 2,
+  "nFiles": 1} }

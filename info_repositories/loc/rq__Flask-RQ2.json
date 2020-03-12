@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.83149814605713,
+  "n_files"            : 27,
+  "n_lines"            : 2894,
+  "files_per_second"   : 3.05723893652792,
+  "lines_per_second"   : 327.690721567104,
+  "report_file"        : "loc/rq__Flask-RQ2.json"},
+"Python" :{
+  "nFiles": 17,
+  "blank": 448,
+  "comment": 505,
+  "code": 1140},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 249,
+  "comment": 179,
+  "code": 234},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 3,
+  "code": 50},
+"INI" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 35},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 23},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 709,
+  "comment": 693,
+  "code": 1492,
+  "nFiles": 27} }

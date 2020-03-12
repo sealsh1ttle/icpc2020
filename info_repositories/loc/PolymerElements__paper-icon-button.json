@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.75837588310242,
+  "n_files"            : 17,
+  "n_lines"            : 3834,
+  "files_per_second"   : 9.66801249002903,
+  "lines_per_second"   : 2180.42116981008,
+  "report_file"        : "loc/PolymerElements__paper-icon-button.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 2931},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 33,
+  "comment": 44,
+  "code": 298},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 121,
+  "code": 142},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 48,
+  "comment": 0,
+  "code": 136},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 135,
+  "comment": 165,
+  "code": 3534,
+  "nFiles": 17} }

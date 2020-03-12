@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.24835801124573,
+  "n_files"            : 9,
+  "n_lines"            : 386,
+  "files_per_second"   : 7.20947029531934,
+  "lines_per_second"   : 309.206170443696,
+  "report_file"        : "loc/alexjuneja1__LincToDoList.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 31,
+  "code": 148},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 94},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 45,
+  "comment": 32,
+  "code": 309,
+  "nFiles": 9} }

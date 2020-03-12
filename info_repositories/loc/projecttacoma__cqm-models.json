@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 52.2845799922943,
+  "n_files"            : 237,
+  "n_lines"            : 226925,
+  "files_per_second"   : 4.53288522227642,
+  "lines_per_second"   : 4340.18978508471,
+  "report_file"        : "loc/projecttacoma__cqm-models.json"},
+"JavaScript" :{
+  "nFiles": 98,
+  "blank": 38977,
+  "comment": 41278,
+  "code": 136076},
+"XML" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 4355},
+"Ruby" :{
+  "nFiles": 103,
+  "blank": 344,
+  "comment": 446,
+  "code": 3011},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 3,
+  "comment": 0,
+  "code": 1388},
+"ERB" :{
+  "nFiles": 9,
+  "blank": 97,
+  "comment": 0,
+  "code": 658},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 1,
+  "code": 91},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 0,
+  "code": 81},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 9,
+  "code": 32},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 5},
+"SUM": {
+  "blank": 39493,
+  "comment": 41735,
+  "code": 145697,
+  "nFiles": 237} }

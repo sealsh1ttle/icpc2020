@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.1824660301208,
+  "n_files"            : 178,
+  "n_lines"            : 24116,
+  "files_per_second"   : 5.36427882841569,
+  "lines_per_second"   : 726.769372056588,
+  "report_file"        : "loc/jaredpalmer__formik.json"},
+"Markdown" :{
+  "nFiles": 81,
+  "blank": 2986,
+  "comment": 0,
+  "code": 11568},
+"TypeScript" :{
+  "nFiles": 24,
+  "blank": 591,
+  "comment": 491,
+  "code": 4097},
+"JavaScript" :{
+  "nFiles": 26,
+  "blank": 153,
+  "comment": 170,
+  "code": 2081},
+"SVG" :{
+  "nFiles": 27,
+  "blank": 2,
+  "comment": 8,
+  "code": 986},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 93,
+  "comment": 10,
+  "code": 470},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 331},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 7,
+  "code": 53},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 3835,
+  "comment": 686,
+  "code": 19595,
+  "nFiles": 178} }

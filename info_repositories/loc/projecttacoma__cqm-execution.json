@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 52.9753241539001,
+  "n_files"            : 117,
+  "n_lines"            : 2494093,
+  "files_per_second"   : 2.20857544278729,
+  "lines_per_second"   : 47080.2782207493,
+  "report_file"        : "loc/projecttacoma__cqm-execution.json"},
+"JSON" :{
+  "nFiles": 96,
+  "blank": 1383,
+  "comment": 0,
+  "code": 2364478},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 20549,
+  "comment": 31925,
+  "code": 75599},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 0,
+  "code": 82},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 4,
+  "code": 16},
+"SUM": {
+  "blank": 21972,
+  "comment": 31929,
+  "code": 2440192,
+  "nFiles": 117} }

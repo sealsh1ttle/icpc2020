@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.1717300415039,
+  "n_files"            : 54,
+  "n_lines"            : 6101,
+  "files_per_second"   : 4.83362915138349,
+  "lines_per_second"   : 546.110582455383,
+  "report_file"        : "loc/JuliaInterop__Clang.jl.json"},
+"Julia" :{
+  "nFiles": 32,
+  "blank": 815,
+  "comment": 252,
+  "code": 4231},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 77,
+  "comment": 0,
+  "code": 464},
+"C/C++ Header" :{
+  "nFiles": 12,
+  "blank": 31,
+  "comment": 8,
+  "code": 144},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 2,
+  "code": 51},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 928,
+  "comment": 262,
+  "code": 4911,
+  "nFiles": 54} }

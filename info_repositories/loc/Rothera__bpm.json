@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.89212608337402,
+  "n_files"            : 809,
+  "n_lines"            : 226844,
+  "files_per_second"   : 117.380325056961,
+  "lines_per_second"   : 32913.5011832153,
+  "report_file"        : "loc/Rothera__bpm.json"},
+"CSS" :{
+  "nFiles": 381,
+  "blank": 17489,
+  "comment": 7397,
+  "code": 114371},
+"JSON" :{
+  "nFiles": 378,
+  "blank": 0,
+  "comment": 0,
+  "code": 69109},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 2035,
+  "comment": 2327,
+  "code": 9562},
+"Python" :{
+  "nFiles": 15,
+  "blank": 328,
+  "comment": 528,
+  "code": 1447},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 52,
+  "comment": 7,
+  "code": 608},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 59,
+  "code": 581},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 291},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 68,
+  "comment": 0,
+  "code": 223},
+"make" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 32,
+  "code": 126},
+"XML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 3,
+  "code": 123},
+"SUM": {
+  "blank": 20049,
+  "comment": 10354,
+  "code": 196441,
+  "nFiles": 809} }

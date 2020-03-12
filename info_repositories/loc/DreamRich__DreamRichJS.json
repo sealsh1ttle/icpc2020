@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 51.2146780490875,
+  "n_files"            : 153,
+  "n_lines"            : 13462,
+  "files_per_second"   : 2.98742481312398,
+  "lines_per_second"   : 262.854332250163,
+  "report_file"        : "loc/DreamRich__DreamRichJS.json"},
+"JavaScript" :{
+  "nFiles": 140,
+  "blank": 1249,
+  "comment": 571,
+  "code": 8979},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 670,
+  "comment": 0,
+  "code": 1475},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 49,
+  "comment": 0,
+  "code": 229},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 166},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"SUM": {
+  "blank": 1971,
+  "comment": 591,
+  "code": 10900,
+  "nFiles": 153} }

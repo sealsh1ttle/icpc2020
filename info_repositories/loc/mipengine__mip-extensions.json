@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.6092939376831,
+  "n_files"            : 273,
+  "n_lines"            : 42176,
+  "files_per_second"   : 5.09240058854986,
+  "lines_per_second"   : 786.72925722593,
+  "report_file"        : "loc/mipengine__mip-extensions.json"},
+"JavaScript" :{
+  "nFiles": 108,
+  "blank": 2728,
+  "comment": 3967,
+  "code": 16295},
+"HTML" :{
+  "nFiles": 22,
+  "blank": 468,
+  "comment": 32,
+  "code": 5787},
+"Markdown" :{
+  "nFiles": 67,
+  "blank": 1611,
+  "comment": 0,
+  "code": 5630},
+"LESS" :{
+  "nFiles": 31,
+  "blank": 511,
+  "comment": 182,
+  "code": 4243},
+"JSON" :{
+  "nFiles": 45,
+  "blank": 0,
+  "comment": 0,
+  "code": 722},
+"SUM": {
+  "blank": 5318,
+  "comment": 4181,
+  "code": 32677,
+  "nFiles": 273} }

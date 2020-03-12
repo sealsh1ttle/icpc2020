@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0475940704345703,
+  "n_files"            : 6,
+  "n_lines"            : 860,
+  "files_per_second"   : 126.06612431371,
+  "lines_per_second"   : 18069.4778182984,
+  "report_file"        : "loc/Soluto__fetch-jwk.json"},
+"Go" :{
+  "nFiles": 3,
+  "blank": 62,
+  "comment": 11,
+  "code": 706},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 0,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 89,
+  "comment": 11,
+  "code": 760,
+  "nFiles": 6} }

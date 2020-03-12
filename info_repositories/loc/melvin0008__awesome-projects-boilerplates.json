@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.211252212524414,
+  "n_files"            : 1,
+  "n_lines"            : 191,
+  "files_per_second"   : 4.73367823252706,
+  "lines_per_second"   : 904.132542412669,
+  "report_file"        : "loc/melvin0008__awesome-projects-boilerplates.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 0,
+  "code": 140},
+"SUM": {
+  "blank": 51,
+  "comment": 0,
+  "code": 140,
+  "nFiles": 1} }

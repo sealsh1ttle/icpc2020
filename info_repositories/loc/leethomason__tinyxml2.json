@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.701896905899,
+  "n_files"            : 148,
+  "n_lines"            : 26294,
+  "files_per_second"   : 3.03889600616508,
+  "lines_per_second"   : 539.896835041247,
+  "report_file"        : "loc/leethomason__tinyxml2.json"},
+"HTML" :{
+  "nFiles": 84,
+  "blank": 322,
+  "comment": 507,
+  "code": 8257},
+"XML" :{
+  "nFiles": 10,
+  "blank": 680,
+  "comment": 0,
+  "code": 4651},
+"C++" :{
+  "nFiles": 3,
+  "blank": 828,
+  "comment": 426,
+  "code": 4225},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 307,
+  "comment": 80,
+  "code": 1481},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 357,
+  "comment": 744,
+  "code": 1249},
+"JavaScript" :{
+  "nFiles": 38,
+  "blank": 82,
+  "comment": 112,
+  "code": 1156},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 94,
+  "comment": 0,
+  "code": 228},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 29,
+  "comment": 19,
+  "code": 120},
+"Python" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 5,
+  "code": 95},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 8,
+  "code": 70},
+"make" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 9,
+  "code": 48},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 2784,
+  "comment": 1910,
+  "code": 21600,
+  "nFiles": 148} }

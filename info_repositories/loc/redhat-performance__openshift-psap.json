@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.446019887924194,
+  "n_files"            : 58,
+  "n_lines"            : 3524,
+  "files_per_second"   : 130.039044379693,
+  "lines_per_second"   : 7900.992972311,
+  "report_file"        : "loc/redhat-performance__openshift-psap.json"},
+"YAML" :{
+  "nFiles": 43,
+  "blank": 135,
+  "comment": 50,
+  "code": 1053},
+"R" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 738},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 59,
+  "comment": 3,
+  "code": 360},
+"Rmd" :{
+  "nFiles": 2,
+  "blank": 167,
+  "comment": 100,
+  "code": 334},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 47,
+  "comment": 10,
+  "code": 186},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 146},
+"C" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 18,
+  "code": 58},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 461,
+  "comment": 181,
+  "code": 2882,
+  "nFiles": 58} }

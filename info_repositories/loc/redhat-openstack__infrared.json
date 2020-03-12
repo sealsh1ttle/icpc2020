@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 204.006360054016,
+  "n_files"            : 726,
+  "n_lines"            : 50653,
+  "files_per_second"   : 3.55871258037138,
+  "lines_per_second"   : 248.291278696352,
+  "report_file"        : "loc/redhat-openstack__infrared.json"},
+"YAML" :{
+  "nFiles": 601,
+  "blank": 2615,
+  "comment": 762,
+  "code": 29489},
+"Python" :{
+  "nFiles": 53,
+  "blank": 2261,
+  "comment": 2613,
+  "code": 7263},
+"reStructuredText" :{
+  "nFiles": 50,
+  "blank": 1338,
+  "comment": 334,
+  "code": 3242},
+"Bourne Again Shell" :{
+  "nFiles": 10,
+  "blank": 33,
+  "comment": 7,
+  "code": 277},
+"INI" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 156},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 34,
+  "comment": 49,
+  "code": 125},
+"make" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 12,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 6302,
+  "comment": 3777,
+  "code": 40574,
+  "nFiles": 726} }

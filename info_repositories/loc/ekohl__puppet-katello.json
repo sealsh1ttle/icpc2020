@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.97226309776306,
+  "n_files"            : 40,
+  "n_lines"            : 2491,
+  "files_per_second"   : 5.01739587736682,
+  "lines_per_second"   : 312.458328263019,
+  "report_file"        : "loc/ekohl__puppet-katello.json"},
+"Ruby" :{
+  "nFiles": 17,
+  "blank": 137,
+  "comment": 26,
+  "code": 816},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 158,
+  "comment": 0,
+  "code": 466},
+"Puppet" :{
+  "nFiles": 8,
+  "blank": 52,
+  "comment": 149,
+  "code": 435},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 18,
+  "code": 87},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 70},
+"ERB" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 0,
+  "code": 60},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 360,
+  "comment": 193,
+  "code": 1938,
+  "nFiles": 40} }

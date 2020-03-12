@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.943559885025,
+  "n_files"            : 68,
+  "n_lines"            : 44682,
+  "files_per_second"   : 2.00332552714955,
+  "lines_per_second"   : 1316.36163535435,
+  "report_file"        : "loc/djfarrelly__MailDev.json"},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 3804,
+  "comment": 14486,
+  "code": 15167},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 8055},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 183,
+  "comment": 24,
+  "code": 1610},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 414},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 134,
+  "comment": 0,
+  "code": 394},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 0,
+  "code": 282},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 43},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 17},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 1},
+"SUM": {
+  "blank": 4186,
+  "comment": 14513,
+  "code": 25983,
+  "nFiles": 68} }

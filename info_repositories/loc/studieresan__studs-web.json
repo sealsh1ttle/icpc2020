@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 58.2925729751587,
+  "n_files"            : 225,
+  "n_lines"            : 14713,
+  "files_per_second"   : 3.85983991641411,
+  "lines_per_second"   : 252.399220845337,
+  "report_file"        : "loc/studieresan__studs-web.json"},
+"JavaScript" :{
+  "nFiles": 160,
+  "blank": 909,
+  "comment": 624,
+  "code": 9071},
+"CSS" :{
+  "nFiles": 47,
+  "blank": 408,
+  "comment": 33,
+  "code": 2272},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 632},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 3,
+  "comment": 5,
+  "code": 616},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 61},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 37},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1333,
+  "comment": 682,
+  "code": 12698,
+  "nFiles": 225} }

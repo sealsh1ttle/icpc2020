@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.388936996459961,
+  "n_files"            : 56,
+  "n_lines"            : 19010,
+  "files_per_second"   : 143.982188657038,
+  "lines_per_second"   : 48876.8108280411,
+  "report_file"        : "loc/Cyber4All__CLARK-Gateway.json"},
+"HTML" :{
+  "nFiles": 27,
+  "blank": 0,
+  "comment": 0,
+  "code": 9086},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 6700},
+"TypeScript" :{
+  "nFiles": 13,
+  "blank": 121,
+  "comment": 197,
+  "code": 1746},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 160,
+  "comment": 59,
+  "code": 646},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 73},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 13,
+  "code": 46},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 1,
+  "code": 45},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 44},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 12,
+  "code": 21},
+"SUM": {
+  "blank": 321,
+  "comment": 282,
+  "code": 18407,
+  "nFiles": 56} }

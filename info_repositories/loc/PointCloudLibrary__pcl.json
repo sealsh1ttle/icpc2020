@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 744.482555866241,
+  "n_files"            : 2969,
+  "n_lines"            : 940392,
+  "files_per_second"   : 3.98800479152319,
+  "lines_per_second"   : 1263.14846814081,
+  "report_file"        : "loc/PointCloudLibrary__pcl.json"},
+"C++" :{
+  "nFiles": 1061,
+  "blank": 53339,
+  "comment": 64359,
+  "code": 323929},
+"C/C++ Header" :{
+  "nFiles": 1451,
+  "blank": 50960,
+  "comment": 137868,
+  "code": 201719},
+"XML" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 6,
+  "code": 28792},
+"CUDA" :{
+  "nFiles": 67,
+  "blank": 4625,
+  "comment": 4070,
+  "code": 17254},
+"reStructuredText" :{
+  "nFiles": 112,
+  "blank": 6695,
+  "comment": 5583,
+  "code": 10024},
+"CMake" :{
+  "nFiles": 202,
+  "blank": 1775,
+  "comment": 1096,
+  "code": 8935},
+"C" :{
+  "nFiles": 15,
+  "blank": 778,
+  "comment": 1528,
+  "code": 5116},
+"Qt" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 3787},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 713,
+  "comment": 0,
+  "code": 3095},
+"Python" :{
+  "nFiles": 7,
+  "blank": 237,
+  "comment": 325,
+  "code": 803},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 793},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 172,
+  "comment": 39,
+  "code": 642},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 7,
+  "comment": 18,
+  "code": 282},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 54,
+  "comment": 48,
+  "code": 222},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 62,
+  "code": 93},
+"GLSL" :{
+  "nFiles": 7,
+  "blank": 23,
+  "comment": 0,
+  "code": 82},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 23,
+  "code": 78},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 57},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 48},
+"MATLAB" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 41,
+  "code": 46},
+"ProGuard" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 10,
+  "code": 16},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 36,
+  "code": 9},
+"SUM": {
+  "blank": 119457,
+  "comment": 215113,
+  "code": 605822,
+  "nFiles": 2969} }

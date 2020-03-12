@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.04171800613403,
+  "n_files"            : 153,
+  "n_lines"            : 26002,
+  "files_per_second"   : 146.87276124544,
+  "lines_per_second"   : 24960.6897902218,
+  "report_file"        : "loc/kkapsner__CanvasBlocker.json"},
+"JavaScript" :{
+  "nFiles": 62,
+  "blank": 767,
+  "comment": 239,
+  "code": 10520},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 321,
+  "comment": 0,
+  "code": 9159},
+"SVG" :{
+  "nFiles": 33,
+  "blank": 33,
+  "comment": 33,
+  "code": 2964},
+"CSS" :{
+  "nFiles": 22,
+  "blank": 88,
+  "comment": 3,
+  "code": 817},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 19,
+  "comment": 0,
+  "code": 664},
+"PHP" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 3,
+  "code": 272},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 73},
+"SUM": {
+  "blank": 1255,
+  "comment": 278,
+  "code": 24469,
+  "nFiles": 153} }

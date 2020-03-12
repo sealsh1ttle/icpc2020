@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 45.9607510566711,
+  "n_files"            : 3880,
+  "n_lines"            : 129857,
+  "files_per_second"   : 84.4198563077403,
+  "lines_per_second"   : 2825.38898983356,
+  "report_file"        : "loc/prettier__prettier.json"},
+"JavaScript" :{
+  "nFiles": 1991,
+  "blank": 9932,
+  "comment": 6976,
+  "code": 66951},
+"Markdown" :{
+  "nFiles": 824,
+  "blank": 6062,
+  "comment": 0,
+  "code": 18763},
+"CSS" :{
+  "nFiles": 147,
+  "blank": 976,
+  "comment": 198,
+  "code": 5245},
+"TypeScript" :{
+  "nFiles": 266,
+  "blank": 676,
+  "comment": 268,
+  "code": 3173},
+"YAML" :{
+  "nFiles": 353,
+  "blank": 224,
+  "comment": 143,
+  "code": 2083},
+"HTML" :{
+  "nFiles": 92,
+  "blank": 342,
+  "comment": 196,
+  "code": 1897},
+"LESS" :{
+  "nFiles": 3,
+  "blank": 459,
+  "comment": 62,
+  "code": 1318},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 193,
+  "comment": 38,
+  "code": 1127},
+"Handlebars" :{
+  "nFiles": 28,
+  "blank": 117,
+  "comment": 36,
+  "code": 486},
+"GraphQL" :{
+  "nFiles": 45,
+  "blank": 128,
+  "comment": 54,
+  "code": 472},
+"JSON" :{
+  "nFiles": 37,
+  "blank": 3,
+  "comment": 0,
+  "code": 424},
+"Vuejs Component" :{
+  "nFiles": 26,
+  "blank": 55,
+  "comment": 8,
+  "code": 392},
+"SVG" :{
+  "nFiles": 50,
+  "blank": 0,
+  "comment": 0,
+  "code": 325},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 19},
+"XML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 16},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"JSON5" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 19182,
+  "comment": 7980,
+  "code": 102695,
+  "nFiles": 3880} }

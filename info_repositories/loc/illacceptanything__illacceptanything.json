@@ -1,0 +1,309 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4570.87283706665,
+  "n_files"            : 7165,
+  "n_lines"            : 949230,
+  "files_per_second"   : 1.56753431027369,
+  "lines_per_second"   : 207.669308212295,
+  "report_file"        : "loc/illacceptanything__illacceptanything.json"},
+"Ruby" :{
+  "nFiles": 2573,
+  "blank": 59194,
+  "comment": 48392,
+  "code": 254531},
+"JavaScript" :{
+  "nFiles": 247,
+  "blank": 17151,
+  "comment": 26550,
+  "code": 178299},
+"HTML" :{
+  "nFiles": 477,
+  "blank": 19693,
+  "comment": 1205,
+  "code": 84149},
+"Markdown" :{
+  "nFiles": 2932,
+  "blank": 18581,
+  "comment": 0,
+  "code": 61893},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 17,
+  "comment": 0,
+  "code": 57473},
+"PHP" :{
+  "nFiles": 8,
+  "blank": 25619,
+  "comment": 9836,
+  "code": 24870},
+"Scheme" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 13077},
+"CSS" :{
+  "nFiles": 33,
+  "blank": 1544,
+  "comment": 266,
+  "code": 9087},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 473,
+  "comment": 49,
+  "code": 7088},
+"CoffeeScript" :{
+  "nFiles": 39,
+  "blank": 988,
+  "comment": 783,
+  "code": 3147},
+"YAML" :{
+  "nFiles": 147,
+  "blank": 328,
+  "comment": 234,
+  "code": 3139},
+"Python" :{
+  "nFiles": 57,
+  "blank": 863,
+  "comment": 299,
+  "code": 2671},
+"ClojureScript" :{
+  "nFiles": 25,
+  "blank": 312,
+  "comment": 58,
+  "code": 2373},
+"vim script" :{
+  "nFiles": 8,
+  "blank": 229,
+  "comment": 91,
+  "code": 1829},
+"ERB" :{
+  "nFiles": 332,
+  "blank": 237,
+  "comment": 11,
+  "code": 1793},
+"Sass" :{
+  "nFiles": 48,
+  "blank": 141,
+  "comment": 240,
+  "code": 1178},
+"C#" :{
+  "nFiles": 25,
+  "blank": 124,
+  "comment": 212,
+  "code": 849},
+"XML" :{
+  "nFiles": 15,
+  "blank": 10,
+  "comment": 6,
+  "code": 712},
+"MSBuild script" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 62,
+  "code": 624},
+"C++" :{
+  "nFiles": 9,
+  "blank": 37,
+  "comment": 21,
+  "code": 545},
+"Bourne Shell" :{
+  "nFiles": 39,
+  "blank": 158,
+  "comment": 125,
+  "code": 499},
+"C" :{
+  "nFiles": 13,
+  "blank": 54,
+  "comment": 28,
+  "code": 423},
+"Go" :{
+  "nFiles": 6,
+  "blank": 66,
+  "comment": 33,
+  "code": 410},
+"Razor" :{
+  "nFiles": 16,
+  "blank": 31,
+  "comment": 0,
+  "code": 405},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 2,
+  "code": 401},
+"Java" :{
+  "nFiles": 12,
+  "blank": 88,
+  "comment": 47,
+  "code": 373},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 65,
+  "comment": 83,
+  "code": 365},
+"Clojure" :{
+  "nFiles": 9,
+  "blank": 18,
+  "comment": 2,
+  "code": 365},
+"Crystal" :{
+  "nFiles": 1,
+  "blank": 64,
+  "comment": 1,
+  "code": 316},
+"Rust" :{
+  "nFiles": 3,
+  "blank": 37,
+  "comment": 31,
+  "code": 160},
+"Swift" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 22,
+  "code": 155},
+"Racket" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 27,
+  "code": 99},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 85},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 10,
+  "code": 80},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 3,
+  "code": 59},
+"Mustache" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 2,
+  "code": 50},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 46},
+"Visual Basic" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 2,
+  "code": 43},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 43},
+"make" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 4,
+  "code": 33},
+"Dart" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 30},
+"Brainfuck" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 7,
+  "code": 26},
+"Lisp" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 4,
+  "code": 15},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 164,
+  "code": 15},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 13},
+"builder" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 10,
+  "code": 10},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Haskell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"OCaml" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"ASP.NET" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Julia" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 22,
+  "code": 0},
+"ProGuard" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 30,
+  "code": 0},
+"SUM": {
+  "blank": 146276,
+  "comment": 88979,
+  "code": 713975,
+  "nFiles": 7165} }

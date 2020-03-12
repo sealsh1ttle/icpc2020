@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.76605892181396,
+  "n_files"            : 9,
+  "n_lines"            : 282,
+  "files_per_second"   : 3.25372678398978,
+  "lines_per_second"   : 101.950105898347,
+  "report_file"        : "loc/halfcrazy__vscode-pangu.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 93},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 23,
+  "code": 67},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 0,
+  "code": 63},
+"SUM": {
+  "blank": 36,
+  "comment": 23,
+  "code": 223,
+  "nFiles": 9} }

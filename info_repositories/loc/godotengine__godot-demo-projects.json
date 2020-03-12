@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.15573716163635,
+  "n_files"            : 181,
+  "n_lines"            : 9604,
+  "files_per_second"   : 35.1065219823102,
+  "lines_per_second"   : 1862.77921059728,
+  "report_file"        : "loc/godotengine__godot-demo-projects.json"},
+"GDScript" :{
+  "nFiles": 157,
+  "blank": 1847,
+  "comment": 793,
+  "code": 5402},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 349},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 339},
+"C#" :{
+  "nFiles": 10,
+  "blank": 81,
+  "comment": 34,
+  "code": 283},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 19,
+  "code": 211},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 118},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 61},
+"HLSL" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 13},
+"SUM": {
+  "blank": 1978,
+  "comment": 850,
+  "code": 6776,
+  "nFiles": 181} }

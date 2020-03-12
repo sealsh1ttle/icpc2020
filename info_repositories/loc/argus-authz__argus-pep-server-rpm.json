@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.659040927886963,
+  "n_files"            : 2,
+  "n_lines"            : 78,
+  "files_per_second"   : 3.03471289167497,
+  "lines_per_second"   : 118.353802775324,
+  "report_file"        : "loc/argus-authz__argus-pep-server-rpm.json"},
+"make" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 20,
+  "code": 37},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 18,
+  "comment": 20,
+  "code": 40,
+  "nFiles": 2} }

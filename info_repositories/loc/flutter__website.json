@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.43787598609924,
+  "n_files"            : 459,
+  "n_lines"            : 64559,
+  "files_per_second"   : 71.2968067404653,
+  "lines_per_second"   : 10027.9968330233,
+  "report_file"        : "loc/flutter__website.json"},
+"Markdown" :{
+  "nFiles": 241,
+  "blank": 8530,
+  "comment": 1,
+  "code": 37316},
+"Sass" :{
+  "nFiles": 41,
+  "blank": 791,
+  "comment": 143,
+  "code": 3883},
+"Dart" :{
+  "nFiles": 57,
+  "blank": 593,
+  "comment": 396,
+  "code": 3811},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 110,
+  "comment": 66,
+  "code": 3033},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 0,
+  "code": 1861},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 137,
+  "comment": 7,
+  "code": 1492},
+"YAML" :{
+  "nFiles": 39,
+  "blank": 160,
+  "comment": 54,
+  "code": 1171},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 64,
+  "comment": 32,
+  "code": 279},
+"SVG" :{
+  "nFiles": 26,
+  "blank": 0,
+  "comment": 0,
+  "code": 153},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 39,
+  "comment": 63,
+  "code": 116},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 31,
+  "code": 88},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 15,
+  "code": 87},
+"SUM": {
+  "blank": 10461,
+  "comment": 808,
+  "code": 53290,
+  "nFiles": 459} }

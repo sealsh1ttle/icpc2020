@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.6933038234711,
+  "n_files"            : 1150,
+  "n_lines"            : 246809,
+  "files_per_second"   : 107.543937681433,
+  "lines_per_second"   : 23080.7058393189,
+  "report_file"        : "loc/microsoft__Win2D.json"},
+"C++" :{
+  "nFiles": 253,
+  "blank": 20294,
+  "comment": 5267,
+  "code": 74057},
+"C#" :{
+  "nFiles": 156,
+  "blank": 6297,
+  "comment": 2854,
+  "code": 35787},
+"C/C++ Header" :{
+  "nFiles": 340,
+  "blank": 7551,
+  "comment": 2966,
+  "code": 31775},
+"XML" :{
+  "nFiles": 199,
+  "blank": 2135,
+  "comment": 1127,
+  "code": 27972},
+"IDL" :{
+  "nFiles": 103,
+  "blank": 2212,
+  "comment": 0,
+  "code": 10128},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 2658,
+  "comment": 5,
+  "code": 6484},
+"XAML" :{
+  "nFiles": 55,
+  "blank": 345,
+  "comment": 226,
+  "code": 2505},
+"MSBuild script" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 80,
+  "code": 2312},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 244,
+  "comment": 0,
+  "code": 850},
+"DOS Batch" :{
+  "nFiles": 11,
+  "blank": 82,
+  "comment": 18,
+  "code": 298},
+"HLSL" :{
+  "nFiles": 4,
+  "blank": 64,
+  "comment": 67,
+  "code": 95},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 6,
+  "code": 38},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 41886,
+  "comment": 12616,
+  "code": 192307,
+  "nFiles": 1150} }

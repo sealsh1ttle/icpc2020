@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.62593698501587,
+  "n_files"            : 5,
+  "n_lines"            : 1412,
+  "files_per_second"   : 3.07514992652141,
+  "lines_per_second"   : 868.422339249647,
+  "report_file"        : "loc/ga-wdi-lessons__rspec.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 424,
+  "comment": 0,
+  "code": 982},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 424,
+  "comment": 0,
+  "code": 988,
+  "nFiles": 5} }

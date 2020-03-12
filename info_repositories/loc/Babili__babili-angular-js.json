@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.9020209312439,
+  "n_files"            : 16,
+  "n_lines"            : 5628,
+  "files_per_second"   : 5.51339924110813,
+  "lines_per_second"   : 1939.33818305978,
+  "report_file"        : "loc/Babili__babili-angular-js.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 4070},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 167,
+  "comment": 0,
+  "code": 1291},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 70},
+"SUM": {
+  "blank": 197,
+  "comment": 0,
+  "code": 5431,
+  "nFiles": 16} }

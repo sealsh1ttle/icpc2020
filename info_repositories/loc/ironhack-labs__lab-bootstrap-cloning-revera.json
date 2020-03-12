@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.714802980422974,
+  "n_files"            : 1,
+  "n_lines"            : 58,
+  "files_per_second"   : 1.39898689203599,
+  "lines_per_second"   : 81.1412397380875,
+  "report_file"        : "loc/ironhack-labs__lab-bootstrap-cloning-revera.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 33},
+"SUM": {
+  "blank": 25,
+  "comment": 0,
+  "code": 33,
+  "nFiles": 1} }

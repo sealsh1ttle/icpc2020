@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.5045199394226,
+  "n_files"            : 158,
+  "n_lines"            : 24344,
+  "files_per_second"   : 5.96124737822518,
+  "lines_per_second"   : 918.484849212112,
+  "report_file"        : "loc/expfactory__expfactory-docker.json"},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 1107,
+  "comment": 291,
+  "code": 10766},
+"Python" :{
+  "nFiles": 36,
+  "blank": 930,
+  "comment": 601,
+  "code": 4014},
+"HTML" :{
+  "nFiles": 76,
+  "blank": 391,
+  "comment": 71,
+  "code": 3276},
+"JavaScript" :{
+  "nFiles": 21,
+  "blank": 328,
+  "comment": 184,
+  "code": 1010},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 928},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 107,
+  "comment": 0,
+  "code": 159},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 59},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 12,
+  "code": 51},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 21},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 2889,
+  "comment": 1159,
+  "code": 20296,
+  "nFiles": 158} }

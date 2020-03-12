@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 125.432556152344,
+  "n_files"            : 287,
+  "n_lines"            : 22191,
+  "files_per_second"   : 2.28808220771189,
+  "lines_per_second"   : 176.915791886183,
+  "report_file"        : "loc/atomia__puppet-atomia.json"},
+"Puppet" :{
+  "nFiles": 69,
+  "blank": 1041,
+  "comment": 894,
+  "code": 6104},
+"ERB" :{
+  "nFiles": 87,
+  "blank": 1047,
+  "comment": 0,
+  "code": 5637},
+"Bourne Shell" :{
+  "nFiles": 25,
+  "blank": 202,
+  "comment": 205,
+  "code": 955},
+"Ruby" :{
+  "nFiles": 32,
+  "blank": 258,
+  "comment": 50,
+  "code": 835},
+"PowerShell" :{
+  "nFiles": 10,
+  "blank": 74,
+  "comment": 19,
+  "code": 342},
+"YAML" :{
+  "nFiles": 39,
+  "blank": 19,
+  "comment": 1,
+  "code": 282},
+"INI" :{
+  "nFiles": 4,
+  "blank": 263,
+  "comment": 2684,
+  "code": 255},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 59,
+  "comment": 47,
+  "code": 241},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 55,
+  "comment": 4,
+  "code": 191},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 23,
+  "code": 106},
+"PHP" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 41,
+  "code": 104},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 8},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 6},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3067,
+  "comment": 3973,
+  "code": 15151,
+  "nFiles": 287} }

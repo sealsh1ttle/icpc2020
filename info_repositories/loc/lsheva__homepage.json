@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.787055015563965,
+  "n_files"            : 3,
+  "n_lines"            : 469,
+  "files_per_second"   : 3.81167763456834,
+  "lines_per_second"   : 595.892270204184,
+  "report_file"        : "loc/lsheva__homepage.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 25,
+  "code": 434},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 1},
+"SUM": {
+  "blank": 0,
+  "comment": 32,
+  "code": 437,
+  "nFiles": 3} }

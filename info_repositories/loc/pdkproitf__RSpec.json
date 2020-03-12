@@ -1,0 +1,184 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1447.95908689499,
+  "n_files"            : 4787,
+  "n_lines"            : 763540,
+  "files_per_second"   : 3.30603263816333,
+  "lines_per_second"   : 527.321529254904,
+  "report_file"        : "loc/pdkproitf__RSpec.json"},
+"Ruby" :{
+  "nFiles": 3803,
+  "blank": 73503,
+  "comment": 97749,
+  "code": 358603},
+"Markdown" :{
+  "nFiles": 164,
+  "blank": 20272,
+  "comment": 0,
+  "code": 51810},
+"XML" :{
+  "nFiles": 15,
+  "blank": 9,
+  "comment": 1,
+  "code": 28082},
+"JavaScript" :{
+  "nFiles": 61,
+  "blank": 5782,
+  "comment": 6018,
+  "code": 25088},
+"HTML" :{
+  "nFiles": 158,
+  "blank": 7594,
+  "comment": 531,
+  "code": 23387},
+"CSS" :{
+  "nFiles": 74,
+  "blank": 711,
+  "comment": 609,
+  "code": 13079},
+"C" :{
+  "nFiles": 57,
+  "blank": 2442,
+  "comment": 2436,
+  "code": 9780},
+"C/C++ Header" :{
+  "nFiles": 92,
+  "blank": 1704,
+  "comment": 904,
+  "code": 7855},
+"Java" :{
+  "nFiles": 13,
+  "blank": 558,
+  "comment": 3465,
+  "code": 6137},
+"YAML" :{
+  "nFiles": 98,
+  "blank": 300,
+  "comment": 667,
+  "code": 3272},
+"ERB" :{
+  "nFiles": 85,
+  "blank": 391,
+  "comment": 0,
+  "code": 2367},
+"make" :{
+  "nFiles": 8,
+  "blank": 271,
+  "comment": 25,
+  "code": 1484},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1083},
+"XSD" :{
+  "nFiles": 7,
+  "blank": 82,
+  "comment": 41,
+  "code": 1000},
+"Ruby HTML" :{
+  "nFiles": 38,
+  "blank": 95,
+  "comment": 15,
+  "code": 867},
+"Sass" :{
+  "nFiles": 65,
+  "blank": 111,
+  "comment": 25,
+  "code": 827},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 112,
+  "comment": 38,
+  "code": 411},
+"yacc" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 300},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 4,
+  "code": 256},
+"Cucumber" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 249},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 212},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 33,
+  "comment": 25,
+  "code": 157},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 35,
+  "comment": 40,
+  "code": 103},
+"XHTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 98},
+"ECPP" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 59},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 58},
+"EJS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 52},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 18,
+  "code": 50},
+"Oracle Reports" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 48},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"DTD" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 5},
+"LESS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 114073,
+  "comment": 112620,
+  "code": 536847,
+  "nFiles": 4787} }

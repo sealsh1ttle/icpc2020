@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.05435109138489,
+  "n_files"            : 19,
+  "n_lines"            : 1408,
+  "files_per_second"   : 4.68632330346851,
+  "lines_per_second"   : 347.281221646509,
+  "report_file"        : "loc/mrchowmein__ChowNotes.json"},
+"Swift" :{
+  "nFiles": 9,
+  "blank": 268,
+  "comment": 259,
+  "code": 402},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 6,
+  "code": 331},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 103},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 270,
+  "comment": 265,
+  "code": 873,
+  "nFiles": 19} }

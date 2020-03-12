@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.378726959228516,
+  "n_files"            : 40,
+  "n_lines"            : 13255,
+  "files_per_second"   : 105.616986130277,
+  "lines_per_second"   : 34998.8287789204,
+  "report_file"        : "loc/VuejsNigeria__website.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11083},
+"Vuejs Component" :{
+  "nFiles": 19,
+  "blank": 89,
+  "comment": 83,
+  "code": 1759},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 11,
+  "comment": 40,
+  "code": 98},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 33,
+  "comment": 0,
+  "code": 54},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Stylus" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 133,
+  "comment": 124,
+  "code": 12998,
+  "nFiles": 40} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0903809070587158,
+  "n_files"            : 12,
+  "n_lines"            : 578,
+  "files_per_second"   : 132.771404830051,
+  "lines_per_second"   : 6395.15599931414,
+  "report_file"        : "loc/onosproject__onos-docs.json"},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 136,
+  "comment": 0,
+  "code": 346},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 60},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 140,
+  "comment": 2,
+  "code": 436,
+  "nFiles": 12} }

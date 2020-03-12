@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.19694900512695,
+  "n_files"            : 80,
+  "n_lines"            : 14785,
+  "files_per_second"   : 66.8365984326249,
+  "lines_per_second"   : 12352.2388478295,
+  "report_file"        : "loc/dhanushuUzumaki__choices.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 8739},
+"XML" :{
+  "nFiles": 38,
+  "blank": 6,
+  "comment": 3,
+  "code": 4446},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 67,
+  "comment": 9,
+  "code": 577},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 174,
+  "code": 143},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 24,
+  "code": 75},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Java" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 7,
+  "code": 57},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 25,
+  "code": 31},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 8,
+  "code": 4},
+"INI" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 201,
+  "comment": 273,
+  "code": 14311,
+  "nFiles": 80} }

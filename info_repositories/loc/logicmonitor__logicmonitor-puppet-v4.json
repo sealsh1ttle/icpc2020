@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.7314829826355,
+  "n_files"            : 48,
+  "n_lines"            : 4082,
+  "files_per_second"   : 2.11160882185588,
+  "lines_per_second"   : 179.574733558661,
+  "report_file"        : "loc/logicmonitor__logicmonitor-puppet-v4.json"},
+"Ruby" :{
+  "nFiles": 33,
+  "blank": 281,
+  "comment": 593,
+  "code": 2364},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 0,
+  "code": 162},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 149},
+"Puppet" :{
+  "nFiles": 8,
+  "blank": 18,
+  "comment": 276,
+  "code": 144},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 345,
+  "comment": 869,
+  "code": 2868,
+  "nFiles": 48} }

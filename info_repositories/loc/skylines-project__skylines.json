@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.8226339817047,
+  "n_files"            : 854,
+  "n_lines"            : 44846,
+  "files_per_second"   : 47.9165986843835,
+  "lines_per_second"   : 2516.23862365323,
+  "report_file"        : "loc/skylines-project__skylines.json"},
+"Python" :{
+  "nFiles": 231,
+  "blank": 4055,
+  "comment": 998,
+  "code": 12261},
+"JavaScript" :{
+  "nFiles": 323,
+  "blank": 2301,
+  "comment": 5476,
+  "code": 8616},
+"Handlebars" :{
+  "nFiles": 153,
+  "blank": 365,
+  "comment": 10,
+  "code": 3279},
+"YAML" :{
+  "nFiles": 16,
+  "blank": 50,
+  "comment": 14,
+  "code": 2080},
+"Sass" :{
+  "nFiles": 32,
+  "blank": 182,
+  "comment": 1,
+  "code": 1671},
+"SVG" :{
+  "nFiles": 18,
+  "blank": 26,
+  "comment": 15,
+  "code": 1370},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 210,
+  "comment": 0,
+  "code": 589},
+"JSON" :{
+  "nFiles": 36,
+  "blank": 0,
+  "comment": 0,
+  "code": 525},
+"CSS" :{
+  "nFiles": 29,
+  "blank": 12,
+  "comment": 12,
+  "code": 488},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 0,
+  "code": 112},
+"INI" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 36},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 5,
+  "code": 16},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 7248,
+  "comment": 6531,
+  "code": 31067,
+  "nFiles": 854} }

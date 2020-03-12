@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 127.001734018326,
+  "n_files"            : 338,
+  "n_lines"            : 374319,
+  "files_per_second"   : 2.66138098517008,
+  "lines_per_second"   : 2947.35345854402,
+  "report_file"        : "loc/projecttacoma__simplexml_parser.json"},
+"XML" :{
+  "nFiles": 286,
+  "blank": 2271,
+  "comment": 5175,
+  "code": 341878},
+"HTML" :{
+  "nFiles": 29,
+  "blank": 2015,
+  "comment": 0,
+  "code": 20689},
+"Ruby" :{
+  "nFiles": 21,
+  "blank": 377,
+  "comment": 147,
+  "code": 1750},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 4665,
+  "comment": 5322,
+  "code": 364332,
+  "nFiles": 338} }

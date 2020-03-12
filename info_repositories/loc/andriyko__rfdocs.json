@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.6011610031128,
+  "n_files"            : 138,
+  "n_lines"            : 61237,
+  "files_per_second"   : 4.36692816401292,
+  "lines_per_second"   : 1937.80855057724,
+  "report_file"        : "loc/andriyko__rfdocs.json"},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 4850,
+  "comment": 3736,
+  "code": 24824},
+"CSS" :{
+  "nFiles": 21,
+  "blank": 1413,
+  "comment": 566,
+  "code": 13095},
+"Python" :{
+  "nFiles": 43,
+  "blank": 754,
+  "comment": 493,
+  "code": 3005},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 1152,
+  "comment": 14,
+  "code": 2303},
+"LESS" :{
+  "nFiles": 9,
+  "blank": 1152,
+  "comment": 87,
+  "code": 2231},
+"HTML" :{
+  "nFiles": 34,
+  "blank": 33,
+  "comment": 8,
+  "code": 1121},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 399},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 0},
+"SUM": {
+  "blank": 9355,
+  "comment": 4904,
+  "code": 46978,
+  "nFiles": 138} }

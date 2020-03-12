@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.995316028595,
+  "n_files"            : 197,
+  "n_lines"            : 39773,
+  "files_per_second"   : 2.98506033238241,
+  "lines_per_second"   : 602.663982740333,
+  "report_file"        : "loc/omahacodeschool__fyiio.json"},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 4826,
+  "comment": 7587,
+  "code": 12826},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 189,
+  "comment": 30,
+  "code": 8378},
+"Ruby" :{
+  "nFiles": 98,
+  "blank": 346,
+  "comment": 681,
+  "code": 1362},
+"ERB" :{
+  "nFiles": 45,
+  "blank": 178,
+  "comment": 5,
+  "code": 989},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 110,
+  "comment": 1,
+  "code": 759},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 72,
+  "comment": 55,
+  "code": 493},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 140,
+  "comment": 0,
+  "code": 245},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 19,
+  "comment": 1,
+  "code": 173},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 52,
+  "comment": 27,
+  "code": 157},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 72},
+"SUM": {
+  "blank": 5932,
+  "comment": 8387,
+  "code": 25454,
+  "nFiles": 197} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.9333789348602,
+  "n_files"            : 203,
+  "n_lines"            : 20055,
+  "files_per_second"   : 5.21403498883673,
+  "lines_per_second"   : 515.110698035077,
+  "report_file"        : "loc/JedWatson__react-select.json"},
+"JavaScript" :{
+  "nFiles": 170,
+  "blank": 1659,
+  "comment": 1126,
+  "code": 14639},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 452,
+  "comment": 0,
+  "code": 1596},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 367},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 0,
+  "code": 95},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 74},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 5,
+  "code": 27},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2123,
+  "comment": 1131,
+  "code": 16801,
+  "nFiles": 203} }

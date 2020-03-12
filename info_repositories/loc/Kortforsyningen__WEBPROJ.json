@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.18435406684875,
+  "n_files"            : 11,
+  "n_lines"            : 910,
+  "files_per_second"   : 9.2877631004958,
+  "lines_per_second"   : 768.351311041016,
+  "report_file"        : "loc/Kortforsyningen__WEBPROJ.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 84,
+  "comment": 63,
+  "code": 303},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 226},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 0,
+  "code": 109},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 47},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 6,
+  "code": 20},
+"SUM": {
+  "blank": 133,
+  "comment": 72,
+  "code": 705,
+  "nFiles": 11} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.70345401763916,
+  "n_files"            : 6,
+  "n_lines"            : 1345,
+  "files_per_second"   : 8.52934214539908,
+  "lines_per_second"   : 1911.99419759363,
+  "report_file"        : "loc/slaeshjag__uCFAT.json"},
+"C" :{
+  "nFiles": 3,
+  "blank": 204,
+  "comment": 31,
+  "code": 1058},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 2,
+  "code": 36},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 214,
+  "comment": 33,
+  "code": 1098,
+  "nFiles": 6} }

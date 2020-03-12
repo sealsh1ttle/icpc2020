@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.4270288944244,
+  "n_files"            : 17,
+  "n_lines"            : 994,
+  "files_per_second"   : 0.69595037830738,
+  "lines_per_second"   : 40.692628002208,
+  "report_file"        : "loc/pubg__api-assets.json"},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 919},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 44},
+"SUM": {
+  "blank": 31,
+  "comment": 0,
+  "code": 963,
+  "nFiles": 17} }

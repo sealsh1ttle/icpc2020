@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.212560892105103,
+  "n_files"            : 15,
+  "n_lines"            : 499,
+  "files_per_second"   : 70.5680139533058,
+  "lines_per_second"   : 2347.56259751331,
+  "report_file"        : "loc/olaneat__library.json"},
+"Python" :{
+  "nFiles": 12,
+  "blank": 86,
+  "comment": 96,
+  "code": 265},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 44},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 89,
+  "comment": 96,
+  "code": 314,
+  "nFiles": 15} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.0338771343231,
+  "n_files"            : 62,
+  "n_lines"            : 7178,
+  "files_per_second"   : 3.63980551879587,
+  "lines_per_second"   : 421.39554861156,
+  "report_file"        : "loc/Metaswitch__clearwater-snmp-handlers.json"},
+"C++" :{
+  "nFiles": 24,
+  "blank": 693,
+  "comment": 760,
+  "code": 3354},
+"C/C++ Header" :{
+  "nFiles": 20,
+  "blank": 234,
+  "comment": 279,
+  "code": 868},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 202},
+"make" :{
+  "nFiles": 3,
+  "blank": 48,
+  "comment": 21,
+  "code": 146},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 33,
+  "comment": 0,
+  "code": 112},
+"Python" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 83,
+  "code": 92},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 51,
+  "code": 42},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 50,
+  "code": 31},
+"SUM": {
+  "blank": 1087,
+  "comment": 1244,
+  "code": 4847,
+  "nFiles": 62} }

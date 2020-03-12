@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.692764043808,
+  "n_files"            : 59,
+  "n_lines"            : 3100,
+  "files_per_second"   : 4.01558208000111,
+  "lines_per_second"   : 210.988210983109,
+  "report_file"        : "loc/elastic__ansible-elasticsearch.json"},
+"YAML" :{
+  "nFiles": 38,
+  "blank": 184,
+  "comment": 95,
+  "code": 1471},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 213,
+  "comment": 0,
+  "code": 625},
+"Ruby" :{
+  "nFiles": 13,
+  "blank": 43,
+  "comment": 8,
+  "code": 334},
+"Python" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 1,
+  "code": 57},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 22},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 467,
+  "comment": 104,
+  "code": 2529,
+  "nFiles": 59} }

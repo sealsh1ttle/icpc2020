@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.106751203536987,
+  "n_files"            : 6,
+  "n_lines"            : 377,
+  "files_per_second"   : 56.2054553129334,
+  "lines_per_second"   : 3531.57610882932,
+  "report_file"        : "loc/RNCryptor__RNCryptor-python.json"},
+"Python" :{
+  "nFiles": 3,
+  "blank": 74,
+  "comment": 16,
+  "code": 193},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 23},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 25,
+  "code": 10},
+"SUM": {
+  "blank": 99,
+  "comment": 41,
+  "code": 237,
+  "nFiles": 6} }

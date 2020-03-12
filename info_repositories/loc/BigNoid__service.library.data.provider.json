@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.195791959762573,
+  "n_files"            : 13,
+  "n_lines"            : 2151,
+  "files_per_second"   : 66.3970063722965,
+  "lines_per_second"   : 10986.1508236008,
+  "report_file"        : "loc/BigNoid__service.library.data.provider.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 157,
+  "comment": 154,
+  "code": 1036},
+"PO File" :{
+  "nFiles": 5,
+  "blank": 121,
+  "comment": 20,
+  "code": 427},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 172},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"SUM": {
+  "blank": 298,
+  "comment": 174,
+  "code": 1679,
+  "nFiles": 13} }

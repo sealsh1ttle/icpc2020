@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.86602997779846,
+  "n_files"            : 24,
+  "n_lines"            : 2212,
+  "files_per_second"   : 4.9321521054127,
+  "lines_per_second"   : 454.580019048871,
+  "report_file"        : "loc/yka8247__GarageDoorController.json"},
+"C++" :{
+  "nFiles": 7,
+  "blank": 164,
+  "comment": 262,
+  "code": 775},
+"C/C++ Header" :{
+  "nFiles": 10,
+  "blank": 131,
+  "comment": 206,
+  "code": 416},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 137},
+"make" :{
+  "nFiles": 5,
+  "blank": 22,
+  "comment": 8,
+  "code": 90},
+"SUM": {
+  "blank": 318,
+  "comment": 476,
+  "code": 1418,
+  "nFiles": 24} }

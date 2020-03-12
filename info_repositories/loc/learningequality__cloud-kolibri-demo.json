@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.180962085723877,
+  "n_files"            : 8,
+  "n_lines"            : 1129,
+  "files_per_second"   : 44.2081553602719,
+  "lines_per_second"   : 6238.87592521838,
+  "report_file"        : "loc/learningequality__cloud-kolibri-demo.json"},
+"Python" :{
+  "nFiles": 1,
+  "blank": 61,
+  "comment": 110,
+  "code": 540},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 124,
+  "comment": 0,
+  "code": 240},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 5,
+  "code": 39},
+"SUM": {
+  "blank": 195,
+  "comment": 115,
+  "code": 819,
+  "nFiles": 8} }

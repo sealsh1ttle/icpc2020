@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 64.8066771030426,
+  "n_files"            : 307,
+  "n_lines"            : 30682,
+  "files_per_second"   : 4.73716619526519,
+  "lines_per_second"   : 473.43887036849,
+  "report_file"        : "loc/HubTurbo__addressbook.json"},
+"Java" :{
+  "nFiles": 263,
+  "blank": 4547,
+  "comment": 3543,
+  "code": 18488},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 159,
+  "comment": 7,
+  "code": 1128},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 120,
+  "comment": 0,
+  "code": 426},
+"FXML" :{
+  "nFiles": 14,
+  "blank": 29,
+  "comment": 0,
+  "code": 364},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 71,
+  "comment": 18,
+  "code": 275},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 61,
+  "comment": 188,
+  "code": 208},
+"XML" :{
+  "nFiles": 4,
+  "blank": 65,
+  "comment": 135,
+  "code": 177},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 170},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 31,
+  "code": 140},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 7,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 5127,
+  "comment": 3952,
+  "code": 21603,
+  "nFiles": 307} }

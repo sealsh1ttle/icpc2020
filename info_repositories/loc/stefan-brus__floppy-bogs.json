@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.7174460887909,
+  "n_files"            : 24,
+  "n_lines"            : 75130,
+  "files_per_second"   : 1.01191333629056,
+  "lines_per_second"   : 3167.71037314626,
+  "report_file"        : "loc/stefan-brus__floppy-bogs.json"},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 13956,
+  "comment": 25936,
+  "code": 35146},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 19},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 13963,
+  "comment": 25939,
+  "code": 35228,
+  "nFiles": 24} }

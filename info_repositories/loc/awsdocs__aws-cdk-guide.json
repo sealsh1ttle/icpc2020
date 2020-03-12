@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.196455001831055,
+  "n_files"            : 40,
+  "n_lines"            : 4828,
+  "files_per_second"   : 203.60896707735,
+  "lines_per_second"   : 24575.6023262362,
+  "report_file"        : "loc/awsdocs__aws-cdk-guide.json"},
+"Markdown" :{
+  "nFiles": 39,
+  "blank": 1217,
+  "comment": 0,
+  "code": 3095},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 515},
+"SUM": {
+  "blank": 1218,
+  "comment": 0,
+  "code": 3610,
+  "nFiles": 40} }

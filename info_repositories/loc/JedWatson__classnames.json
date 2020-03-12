@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.29474091529846,
+  "n_files"            : 23,
+  "n_lines"            : 3010,
+  "files_per_second"   : 6.98082204072683,
+  "lines_per_second"   : 913.577145329903,
+  "report_file"        : "loc/JedWatson__classnames.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 1971},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 123,
+  "comment": 41,
+  "code": 530},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 101,
+  "comment": 0,
+  "code": 201},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 16},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 232,
+  "comment": 41,
+  "code": 2737,
+  "nFiles": 23} }

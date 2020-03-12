@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.80050802230835,
+  "n_files"            : 22,
+  "n_lines"            : 2753,
+  "files_per_second"   : 27.4825478157741,
+  "lines_per_second"   : 3439.06609712846,
+  "report_file"        : "loc/planttheidea__react-billboardjs.json"},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 299,
+  "comment": 159,
+  "code": 1549},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 119,
+  "comment": 0,
+  "code": 273},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 29,
+  "code": 147},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 136},
+"SUM": {
+  "blank": 460,
+  "comment": 188,
+  "code": 2105,
+  "nFiles": 22} }

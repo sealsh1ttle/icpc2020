@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.63980507850647,
+  "n_files"            : 2,
+  "n_lines"            : 798,
+  "files_per_second"   : 3.12595205506762,
+  "lines_per_second"   : 1247.25486997198,
+  "report_file"        : "loc/upa__deadman.json"},
+"Python" :{
+  "nFiles": 1,
+  "blank": 188,
+  "comment": 40,
+  "code": 511},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 210,
+  "comment": 40,
+  "code": 548,
+  "nFiles": 2} }

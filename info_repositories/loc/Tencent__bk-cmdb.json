@@ -1,0 +1,159 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2346.99550795555,
+  "n_files"            : 8144,
+  "n_lines"            : 2949383,
+  "files_per_second"   : 3.4699682945257,
+  "lines_per_second"   : 1256.66324882283,
+  "report_file"        : "loc/Tencent__bk-cmdb.json"},
+"Go" :{
+  "nFiles": 6301,
+  "blank": 327264,
+  "comment": 575664,
+  "code": 1852062},
+"JSON" :{
+  "nFiles": 430,
+  "blank": 123,
+  "comment": 0,
+  "code": 52344},
+"Vuejs Component" :{
+  "nFiles": 165,
+  "blank": 481,
+  "comment": 242,
+  "code": 48464},
+"YAML" :{
+  "nFiles": 335,
+  "blank": 1659,
+  "comment": 360,
+  "code": 22315},
+"Markdown" :{
+  "nFiles": 222,
+  "blank": 5853,
+  "comment": 0,
+  "code": 20150},
+"JavaScript" :{
+  "nFiles": 143,
+  "blank": 1014,
+  "comment": 2174,
+  "code": 8133},
+"Java" :{
+  "nFiles": 1,
+  "blank": 422,
+  "comment": 1360,
+  "code": 5901},
+"C++" :{
+  "nFiles": 1,
+  "blank": 411,
+  "comment": 220,
+  "code": 2749},
+"SVG" :{
+  "nFiles": 217,
+  "blank": 0,
+  "comment": 116,
+  "code": 2396},
+"Protocol Buffers" :{
+  "nFiles": 43,
+  "blank": 545,
+  "comment": 2210,
+  "code": 1900},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 290,
+  "comment": 225,
+  "code": 1758},
+"Python" :{
+  "nFiles": 10,
+  "blank": 174,
+  "comment": 346,
+  "code": 1115},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 277,
+  "comment": 13,
+  "code": 876},
+"Bourne Shell" :{
+  "nFiles": 56,
+  "blank": 178,
+  "comment": 66,
+  "code": 774},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 10,
+  "code": 749},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 80,
+  "comment": 0,
+  "code": 659},
+"make" :{
+  "nFiles": 42,
+  "blank": 196,
+  "comment": 100,
+  "code": 646},
+"C" :{
+  "nFiles": 5,
+  "blank": 121,
+  "comment": 14,
+  "code": 626},
+"Assembly" :{
+  "nFiles": 7,
+  "blank": 178,
+  "comment": 490,
+  "code": 599},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 111,
+  "comment": 48,
+  "code": 410},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 28,
+  "comment": 8,
+  "code": 345},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 54,
+  "code": 343},
+"XML" :{
+  "nFiles": 11,
+  "blank": 3,
+  "comment": 0,
+  "code": 284},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 122},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 2,
+  "code": 115},
+"Scheme" :{
+  "nFiles": 100,
+  "blank": 0,
+  "comment": 0,
+  "code": 100},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 15,
+  "code": 48},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 90,
+  "code": 35},
+"RobotFramework" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 339533,
+  "comment": 583827,
+  "code": 2026023,
+  "nFiles": 8144} }

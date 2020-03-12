@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.846107006073,
+  "n_files"            : 819,
+  "n_lines"            : 143781,
+  "files_per_second"   : 140.093227706782,
+  "lines_per_second"   : 24594.3154736372,
+  "report_file"        : "loc/elixirschool__elixirschool.json"},
+"Markdown" :{
+  "nFiles": 690,
+  "blank": 36123,
+  "comment": 0,
+  "code": 97254},
+"Sass" :{
+  "nFiles": 44,
+  "blank": 705,
+  "comment": 259,
+  "code": 4703},
+"YAML" :{
+  "nFiles": 32,
+  "blank": 110,
+  "comment": 17,
+  "code": 1535},
+"HTML" :{
+  "nFiles": 33,
+  "blank": 36,
+  "comment": 20,
+  "code": 768},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 283,
+  "comment": 151,
+  "code": 689},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 685},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 56,
+  "comment": 16,
+  "code": 317},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 37313,
+  "comment": 463,
+  "code": 106005,
+  "nFiles": 819} }

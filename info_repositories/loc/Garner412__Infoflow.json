@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.243446111679077,
+  "n_files"            : 49,
+  "n_lines"            : 1742,
+  "files_per_second"   : 201.276576824502,
+  "lines_per_second"   : 7155.5876903731,
+  "report_file"        : "loc/Garner412__Infoflow.json"},
+"Ruby" :{
+  "nFiles": 23,
+  "blank": 94,
+  "comment": 55,
+  "code": 443},
+"ERB" :{
+  "nFiles": 18,
+  "blank": 71,
+  "comment": 0,
+  "code": 383},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 97,
+  "comment": 167,
+  "code": 215},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 0,
+  "code": 93},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 74},
+"SUM": {
+  "blank": 310,
+  "comment": 224,
+  "code": 1208,
+  "nFiles": 49} }

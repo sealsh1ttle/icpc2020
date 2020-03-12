@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.637578964233398,
+  "n_files"            : 7,
+  "n_lines"            : 412,
+  "files_per_second"   : 10.9790322339391,
+  "lines_per_second"   : 646.194468626131,
+  "report_file"        : "loc/kubernetes__steering.json"},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 105,
+  "comment": 0,
+  "code": 307},
+"SUM": {
+  "blank": 105,
+  "comment": 0,
+  "code": 307,
+  "nFiles": 7} }

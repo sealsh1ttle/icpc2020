@@ -1,0 +1,139 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 178.32058596611,
+  "n_files"            : 12389,
+  "n_lines"            : 2421466,
+  "files_per_second"   : 69.4759942206254,
+  "lines_per_second"   : 13579.284673617,
+  "report_file"        : "loc/ansible__ansible.json"},
+"Python" :{
+  "nFiles": 6383,
+  "blank": 251446,
+  "comment": 689123,
+  "code": 951377},
+"YAML" :{
+  "nFiles": 4280,
+  "blank": 44936,
+  "comment": 15579,
+  "code": 295405},
+"JSON" :{
+  "nFiles": 825,
+  "blank": 9,
+  "comment": 0,
+  "code": 55694},
+"PowerShell" :{
+  "nFiles": 219,
+  "blank": 5312,
+  "comment": 3228,
+  "code": 29747},
+"reStructuredText" :{
+  "nFiles": 309,
+  "blank": 14211,
+  "comment": 12348,
+  "code": 21439},
+"XML" :{
+  "nFiles": 39,
+  "blank": 9,
+  "comment": 0,
+  "code": 12741},
+"Markdown" :{
+  "nFiles": 87,
+  "blank": 1557,
+  "comment": 0,
+  "code": 3314},
+"C#" :{
+  "nFiles": 12,
+  "blank": 423,
+  "comment": 213,
+  "code": 2845},
+"Bourne Shell" :{
+  "nFiles": 141,
+  "blank": 1017,
+  "comment": 631,
+  "code": 2704},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2671},
+"INI" :{
+  "nFiles": 40,
+  "blank": 248,
+  "comment": 0,
+  "code": 1191},
+"make" :{
+  "nFiles": 7,
+  "blank": 128,
+  "comment": 59,
+  "code": 580},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 53,
+  "comment": 20,
+  "code": 553},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 11,
+  "comment": 9,
+  "code": 115},
+"Fish Shell" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 14,
+  "code": 80},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 33,
+  "code": 79},
+"Go" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 14,
+  "code": 61},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 4,
+  "code": 58},
+"Tcl/Tk" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 2,
+  "code": 21},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"SQL" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"Velocity Template Language" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 13,
+  "code": 15},
+"diff" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 8,
+  "code": 13},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 319412,
+  "comment": 721298,
+  "code": 1380756,
+  "nFiles": 12389} }

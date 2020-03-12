@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.40610408782959,
+  "n_files"            : 27,
+  "n_lines"            : 1162,
+  "files_per_second"   : 66.4854179240121,
+  "lines_per_second"   : 2861.3353936186,
+  "report_file"        : "loc/Mpcs__BackpacksMod.json"},
+"Java" :{
+  "nFiles": 8,
+  "blank": 97,
+  "comment": 0,
+  "code": 493},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 3,
+  "comment": 0,
+  "code": 225},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 14,
+  "code": 60},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 157,
+  "comment": 38,
+  "code": 967,
+  "nFiles": 27} }

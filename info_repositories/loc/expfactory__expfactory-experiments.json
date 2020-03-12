@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 214.348958969116,
+  "n_files"            : 382,
+  "n_lines"            : 217670,
+  "files_per_second"   : 1.78214068235824,
+  "lines_per_second"   : 1015.49361866209,
+  "report_file"        : "loc/expfactory__expfactory-experiments.json"},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 114756},
+"JavaScript" :{
+  "nFiles": 140,
+  "blank": 10468,
+  "comment": 4010,
+  "code": 67328},
+"CSS" :{
+  "nFiles": 104,
+  "blank": 1735,
+  "comment": 349,
+  "code": 12647},
+"JSON" :{
+  "nFiles": 133,
+  "blank": 264,
+  "comment": 0,
+  "code": 5889},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 204},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 12477,
+  "comment": 4362,
+  "code": 200831,
+  "nFiles": 382} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.491447925567627,
+  "n_files"            : 40,
+  "n_lines"            : 10592,
+  "files_per_second"   : 81.3921433360404,
+  "lines_per_second"   : 21552.6395553835,
+  "report_file"        : "loc/ICB-DCM__PEtab.json"},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 3054},
+"Python" :{
+  "nFiles": 18,
+  "blank": 820,
+  "comment": 908,
+  "code": 2612},
+"RobotFramework" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 1904},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 195,
+  "comment": 0,
+  "code": 397},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 366},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 262,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 19},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1020,
+  "comment": 1173,
+  "code": 8399,
+  "nFiles": 40} }

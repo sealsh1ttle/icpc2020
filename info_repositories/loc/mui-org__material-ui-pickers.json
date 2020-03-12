@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 69.4495339393616,
+  "n_files"            : 204,
+  "n_lines"            : 16332,
+  "files_per_second"   : 2.93738472281352,
+  "lines_per_second"   : 235.163565161718,
+  "report_file"        : "loc/mui-org__material-ui-pickers.json"},
+"TypeScript" :{
+  "nFiles": 121,
+  "blank": 1028,
+  "comment": 245,
+  "code": 7118},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 4836},
+"JSX" :{
+  "nFiles": 30,
+  "blank": 168,
+  "comment": 12,
+  "code": 1205},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 288,
+  "comment": 0,
+  "code": 632},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 60,
+  "comment": 41,
+  "code": 543},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 12,
+  "code": 125},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1557,
+  "comment": 310,
+  "code": 14465,
+  "nFiles": 204} }

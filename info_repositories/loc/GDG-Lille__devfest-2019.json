@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.963525056839,
+  "n_files"            : 61,
+  "n_lines"            : 27931,
+  "files_per_second"   : 3.39577002882162,
+  "lines_per_second"   : 1554.8729946724,
+  "report_file"        : "loc/GDG-Lille__devfest-2019.json"},
+"SVG" :{
+  "nFiles": 40,
+  "blank": 0,
+  "comment": 0,
+  "code": 24931},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 194,
+  "comment": 43,
+  "code": 1211},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 94,
+  "comment": 33,
+  "code": 1198},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 4,
+  "code": 90},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 39},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 320,
+  "comment": 80,
+  "code": 27531,
+  "nFiles": 61} }

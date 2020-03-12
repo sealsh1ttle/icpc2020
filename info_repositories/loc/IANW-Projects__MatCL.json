@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.69142007827759,
+  "n_files"            : 22,
+  "n_lines"            : 2571,
+  "files_per_second"   : 8.17412345904739,
+  "lines_per_second"   : 955.257791509584,
+  "report_file"        : "loc/IANW-Projects__MatCL.json"},
+"C++" :{
+  "nFiles": 4,
+  "blank": 239,
+  "comment": 42,
+  "code": 652},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 194,
+  "comment": 89,
+  "code": 652},
+"OpenCL" :{
+  "nFiles": 3,
+  "blank": 46,
+  "comment": 11,
+  "code": 124},
+"MATLAB" :{
+  "nFiles": 10,
+  "blank": 58,
+  "comment": 193,
+  "code": 118},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 102},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 565,
+  "comment": 335,
+  "code": 1671,
+  "nFiles": 22} }

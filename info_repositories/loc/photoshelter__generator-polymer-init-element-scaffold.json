@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.757425069809,
+  "n_files"            : 44,
+  "n_lines"            : 10690,
+  "files_per_second"   : 4.09019813891034,
+  "lines_per_second"   : 993.732229657988,
+  "report_file"        : "loc/photoshelter__generator-polymer-init-element-scaffold.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 3,
+  "comment": 0,
+  "code": 8587},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 116,
+  "comment": 92,
+  "code": 650},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 102,
+  "comment": 131,
+  "code": 479},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 115,
+  "comment": 0,
+  "code": 341},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 5,
+  "code": 17},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 339,
+  "comment": 228,
+  "code": 10123,
+  "nFiles": 44} }

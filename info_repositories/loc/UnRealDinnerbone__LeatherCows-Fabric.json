@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.3089759349823,
+  "n_files"            : 19,
+  "n_lines"            : 665,
+  "files_per_second"   : 61.4934622694432,
+  "lines_per_second"   : 2152.27117943051,
+  "report_file"        : "loc/UnRealDinnerbone__LeatherCows-Fabric.json"},
+"Java" :{
+  "nFiles": 7,
+  "blank": 41,
+  "comment": 2,
+  "code": 186},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 83},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 105,
+  "comment": 25,
+  "code": 535,
+  "nFiles": 19} }

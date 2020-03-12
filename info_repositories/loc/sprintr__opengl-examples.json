@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.15012788772583,
+  "n_files"            : 22,
+  "n_lines"            : 2173,
+  "files_per_second"   : 146.541727411614,
+  "lines_per_second"   : 14474.3260757017,
+  "report_file"        : "loc/sprintr__opengl-examples.json"},
+"C++" :{
+  "nFiles": 20,
+  "blank": 329,
+  "comment": 32,
+  "code": 1495},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 65,
+  "comment": 0,
+  "code": 252},
+"SUM": {
+  "blank": 394,
+  "comment": 32,
+  "code": 1747,
+  "nFiles": 22} }

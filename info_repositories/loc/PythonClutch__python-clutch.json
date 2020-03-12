@@ -1,0 +1,159 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4089.58914518356,
+  "n_files"            : 5351,
+  "n_lines"            : 10450662,
+  "files_per_second"   : 1.30844439625483,
+  "lines_per_second"   : 2555.43078509685,
+  "report_file"        : "loc/PythonClutch__python-clutch.json"},
+"JavaScript" :{
+  "nFiles": 2135,
+  "blank": 26104,
+  "comment": 36999,
+  "code": 129204},
+"JSON" :{
+  "nFiles": 980,
+  "blank": 331,
+  "comment": 0,
+  "code": 93855},
+"Sass" :{
+  "nFiles": 778,
+  "blank": 10002008,
+  "comment": 191,
+  "code": 39993},
+"Markdown" :{
+  "nFiles": 406,
+  "blank": 14198,
+  "comment": 0,
+  "code": 35653},
+"CSS" :{
+  "nFiles": 626,
+  "blank": 1157,
+  "comment": 148,
+  "code": 28133},
+"C++" :{
+  "nFiles": 43,
+  "blank": 2475,
+  "comment": 1731,
+  "code": 13000},
+"C/C++ Header" :{
+  "nFiles": 62,
+  "blank": 1648,
+  "comment": 1168,
+  "code": 8169},
+"Python" :{
+  "nFiles": 39,
+  "blank": 616,
+  "comment": 304,
+  "code": 1923},
+"diff" :{
+  "nFiles": 5,
+  "blank": 144,
+  "comment": 505,
+  "code": 1763},
+"HTML" :{
+  "nFiles": 75,
+  "blank": 92,
+  "comment": 37,
+  "code": 1485},
+"LESS" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 33,
+  "code": 1343},
+"YAML" :{
+  "nFiles": 78,
+  "blank": 116,
+  "comment": 44,
+  "code": 737},
+"XML" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 2,
+  "code": 672},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 88,
+  "comment": 170,
+  "code": 613},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 108,
+  "comment": 214,
+  "code": 595},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 569},
+"C" :{
+  "nFiles": 3,
+  "blank": 63,
+  "comment": 173,
+  "code": 462},
+"make" :{
+  "nFiles": 19,
+  "blank": 110,
+  "comment": 4,
+  "code": 426},
+"Pug" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 0,
+  "code": 215},
+"EJS" :{
+  "nFiles": 40,
+  "blank": 10,
+  "comment": 0,
+  "code": 160},
+"Bourne Again Shell" :{
+  "nFiles": 10,
+  "blank": 46,
+  "comment": 27,
+  "code": 134},
+"m4" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 110},
+"INI" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 14,
+  "code": 67},
+"CoffeeScript" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 1,
+  "code": 50},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 33},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 15},
+"zsh" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 14,
+  "code": 7},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 20,
+  "code": 7},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 10049463,
+  "comment": 41800,
+  "code": 359399,
+  "nFiles": 5351} }

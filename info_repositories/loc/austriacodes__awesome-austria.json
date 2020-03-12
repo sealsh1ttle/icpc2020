@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.964953899383545,
+  "n_files"            : 10,
+  "n_lines"            : 710,
+  "files_per_second"   : 10.363189377636,
+  "lines_per_second"   : 735.786445812157,
+  "report_file"        : "loc/austriacodes__awesome-austria.json"},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 190,
+  "comment": 0,
+  "code": 294},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 6,
+  "code": 159},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 6,
+  "code": 13},
+"SUM": {
+  "blank": 232,
+  "comment": 12,
+  "code": 466,
+  "nFiles": 10} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.24380993843079,
+  "n_files"            : 8,
+  "n_lines"            : 149,
+  "files_per_second"   : 6.43185084217364,
+  "lines_per_second"   : 119.793221935484,
+  "report_file"        : "loc/irasanchez__webdb-iv-challenge.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 8,
+  "comment": 1,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 33},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 19,
+  "comment": 1,
+  "code": 129,
+  "nFiles": 8} }

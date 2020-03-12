@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.58664989471436,
+  "n_files"            : 27,
+  "n_lines"            : 1445,
+  "files_per_second"   : 7.5279162428956,
+  "lines_per_second"   : 402.882924851265,
+  "report_file"        : "loc/SergeyPirogov__webdriver_manager.json"},
+"Python" :{
+  "nFiles": 19,
+  "blank": 229,
+  "comment": 50,
+  "code": 850},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 77},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 43},
+"INI" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 40},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 316,
+  "comment": 51,
+  "code": 1078,
+  "nFiles": 27} }

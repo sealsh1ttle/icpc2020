@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.549637079238892,
+  "n_files"            : 3,
+  "n_lines"            : 274,
+  "files_per_second"   : 5.45814704523618,
+  "lines_per_second"   : 498.510763464904,
+  "report_file"        : "loc/learn-co-curriculum__redux-flow.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 60,
+  "comment": 0,
+  "code": 214},
+"SUM": {
+  "blank": 60,
+  "comment": 0,
+  "code": 214,
+  "nFiles": 3} }

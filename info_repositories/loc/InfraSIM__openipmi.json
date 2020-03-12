@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 82.8330419063568,
+  "n_files"            : 315,
+  "n_lines"            : 243711,
+  "files_per_second"   : 3.80283028065188,
+  "lines_per_second"   : 2942.19546199349,
+  "report_file"        : "loc/InfraSIM__openipmi.json"},
+"C" :{
+  "nFiles": 142,
+  "blank": 23247,
+  "comment": 14164,
+  "code": 141780},
+"SWIG" :{
+  "nFiles": 3,
+  "blank": 1447,
+  "comment": 2298,
+  "code": 9831},
+"C/C++ Header" :{
+  "nFiles": 83,
+  "blank": 2116,
+  "comment": 7031,
+  "code": 9717},
+"Python" :{
+  "nFiles": 33,
+  "blank": 1164,
+  "comment": 1186,
+  "code": 8760},
+"TeX" :{
+  "nFiles": 3,
+  "blank": 1042,
+  "comment": 38,
+  "code": 8247},
+"Pascal" :{
+  "nFiles": 6,
+  "blank": 485,
+  "comment": 1504,
+  "code": 3606},
+"Perl" :{
+  "nFiles": 4,
+  "blank": 210,
+  "comment": 116,
+  "code": 1449},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 247,
+  "comment": 311,
+  "code": 1337},
+"m4" :{
+  "nFiles": 4,
+  "blank": 110,
+  "comment": 22,
+  "code": 1090},
+"make" :{
+  "nFiles": 23,
+  "blank": 180,
+  "comment": 11,
+  "code": 493},
+"diff" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 178,
+  "code": 131},
+"Velocity Template Language" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 98},
+"SUM": {
+  "blank": 30313,
+  "comment": 26859,
+  "code": 186539,
+  "nFiles": 315} }

@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 517.136850833893,
+  "n_files"            : 1139,
+  "n_lines"            : 293367,
+  "files_per_second"   : 2.20251176871913,
+  "lines_per_second"   : 567.290842891858,
+  "report_file"        : "loc/curl__curl.json"},
+"C" :{
+  "nFiles": 486,
+  "blank": 24568,
+  "comment": 33960,
+  "code": 124326},
+"m4" :{
+  "nFiles": 18,
+  "blank": 1473,
+  "comment": 1998,
+  "code": 16975},
+"Python" :{
+  "nFiles": 16,
+  "blank": 2265,
+  "comment": 1785,
+  "code": 14924},
+"Perl" :{
+  "nFiles": 48,
+  "blank": 2453,
+  "comment": 3368,
+  "code": 13600},
+"C/C++ Header" :{
+  "nFiles": 208,
+  "blank": 4475,
+  "comment": 10249,
+  "code": 13150},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 1704,
+  "comment": 0,
+  "code": 4404},
+"D" :{
+  "nFiles": 226,
+  "blank": 358,
+  "comment": 0,
+  "code": 3037},
+"CMake" :{
+  "nFiles": 28,
+  "blank": 705,
+  "comment": 688,
+  "code": 2648},
+"DOS Batch" :{
+  "nFiles": 8,
+  "blank": 288,
+  "comment": 375,
+  "code": 1466},
+"Bourne Shell" :{
+  "nFiles": 21,
+  "blank": 397,
+  "comment": 538,
+  "code": 1406},
+"make" :{
+  "nFiles": 21,
+  "blank": 295,
+  "comment": 556,
+  "code": 1353},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 26,
+  "comment": 30,
+  "code": 874},
+"Pascal" :{
+  "nFiles": 3,
+  "blank": 201,
+  "comment": 71,
+  "code": 530},
+"C++" :{
+  "nFiles": 4,
+  "blank": 138,
+  "comment": 159,
+  "code": 495},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 60,
+  "code": 341},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 47,
+  "code": 110},
+"Gencat NLS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 109},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 23,
+  "code": 97},
+"XML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 20,
+  "code": 62},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 60},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 28},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 7},
+"SUM": {
+  "blank": 39425,
+  "comment": 53929,
+  "code": 200013,
+  "nFiles": 1139} }

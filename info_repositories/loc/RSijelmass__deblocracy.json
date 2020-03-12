@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.71788811683655,
+  "n_files"            : 13,
+  "n_lines"            : 6120,
+  "files_per_second"   : 3.49660871749453,
+  "lines_per_second"   : 1646.09579623589,
+  "report_file"        : "loc/RSijelmass__deblocracy.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5173},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 46,
+  "comment": 2,
+  "code": 278},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 222},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 125},
+"Solidity" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 2,
+  "code": 109},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 69},
+"SUM": {
+  "blank": 136,
+  "comment": 8,
+  "code": 5976,
+  "nFiles": 13} }

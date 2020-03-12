@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.1820549964905,
+  "n_files"            : 34,
+  "n_lines"            : 2067,
+  "files_per_second"   : 3.04058601130749,
+  "lines_per_second"   : 184.849743687429,
+  "report_file"        : "loc/spring-projects__spring-security-saml-dsl.json"},
+"Java" :{
+  "nFiles": 15,
+  "blank": 204,
+  "comment": 290,
+  "code": 837},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 37,
+  "comment": 2,
+  "code": 185},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 0,
+  "code": 114},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 1,
+  "code": 44},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 320,
+  "comment": 315,
+  "code": 1432,
+  "nFiles": 34} }

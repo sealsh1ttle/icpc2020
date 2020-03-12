@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.01022791862488,
+  "n_files"            : 19,
+  "n_lines"            : 3328,
+  "files_per_second"   : 2.71032557294186,
+  "lines_per_second"   : 474.734921407922,
+  "report_file"        : "loc/nightingaleproject__ruby-fhir-death-record.json"},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1306},
+"Ruby" :{
+  "nFiles": 12,
+  "blank": 214,
+  "comment": 319,
+  "code": 1260},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 150},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 5},
+"SUM": {
+  "blank": 237,
+  "comment": 320,
+  "code": 2771,
+  "nFiles": 19} }

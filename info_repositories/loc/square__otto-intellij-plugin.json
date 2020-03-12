@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.21130418777466,
+  "n_files"            : 24,
+  "n_lines"            : 2681,
+  "files_per_second"   : 3.86392282111022,
+  "lines_per_second"   : 431.632378474854,
+  "report_file"        : "loc/square__otto-intellij-plugin.json"},
+"Java" :{
+  "nFiles": 12,
+  "blank": 276,
+  "comment": 98,
+  "code": 1990},
+"XML" :{
+  "nFiles": 10,
+  "blank": 16,
+  "comment": 9,
+  "code": 227},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 318,
+  "comment": 107,
+  "code": 2256,
+  "nFiles": 24} }

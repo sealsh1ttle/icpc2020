@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.2535409927368,
+  "n_files"            : 387,
+  "n_lines"            : 43868,
+  "files_per_second"   : 9.85898316973767,
+  "lines_per_second"   : 1117.55522917326,
+  "report_file"        : "loc/escopecz__documentation.json"},
+"JavaScript" :{
+  "nFiles": 74,
+  "blank": 3974,
+  "comment": 10310,
+  "code": 17360},
+"Markdown" :{
+  "nFiles": 234,
+  "blank": 3282,
+  "comment": 0,
+  "code": 5346},
+"LESS" :{
+  "nFiles": 24,
+  "blank": 323,
+  "comment": 256,
+  "code": 1404},
+"JSON" :{
+  "nFiles": 32,
+  "blank": 0,
+  "comment": 0,
+  "code": 560},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 514},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 32,
+  "comment": 2,
+  "code": 332},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 12,
+  "comment": 9,
+  "code": 113},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 10,
+  "code": 24},
+"SUM": {
+  "blank": 7628,
+  "comment": 10587,
+  "code": 25653,
+  "nFiles": 387} }

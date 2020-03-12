@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.83628416061401,
+  "n_files"            : 25,
+  "n_lines"            : 580,
+  "files_per_second"   : 4.28354742709612,
+  "lines_per_second"   : 99.37830030863,
+  "report_file"        : "loc/chitechdiversity__Chi-Tech-Diversity-Site.json"},
+"Pug" :{
+  "nFiles": 14,
+  "blank": 13,
+  "comment": 0,
+  "code": 254},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 20,
+  "comment": 27,
+  "code": 154},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 53},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 47,
+  "comment": 27,
+  "code": 506,
+  "nFiles": 25} }

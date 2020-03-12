@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.59177303314209,
+  "n_files"            : 62,
+  "n_lines"            : 9334,
+  "files_per_second"   : 104.769897456806,
+  "lines_per_second"   : 15772.9390784166,
+  "report_file"        : "loc/kurisubrooks__midori.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 6378},
+"JavaScript" :{
+  "nFiles": 55,
+  "blank": 502,
+  "comment": 161,
+  "code": 2168},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 0,
+  "code": 84},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 530,
+  "comment": 161,
+  "code": 8643,
+  "nFiles": 62} }

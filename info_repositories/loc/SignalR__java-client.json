@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.8156249523163,
+  "n_files"            : 125,
+  "n_lines"            : 10735,
+  "files_per_second"   : 1.8992450514686,
+  "lines_per_second"   : 163.107165020123,
+  "report_file"        : "loc/SignalR__java-client.json"},
+"Java" :{
+  "nFiles": 102,
+  "blank": 2143,
+  "comment": 1784,
+  "code": 6247},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"XML" :{
+  "nFiles": 11,
+  "blank": 32,
+  "comment": 23,
+  "code": 122},
+"Gradle" :{
+  "nFiles": 8,
+  "blank": 14,
+  "comment": 3,
+  "code": 88},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 2238,
+  "comment": 1848,
+  "code": 6649,
+  "nFiles": 125} }

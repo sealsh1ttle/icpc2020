@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 623.599853038788,
+  "n_files"            : 875,
+  "n_lines"            : 23615,
+  "files_per_second"   : 1.40314337108347,
+  "lines_per_second"   : 37.8688350950127,
+  "report_file"        : "loc/Kapeli__Dash-User-Contributions.json"},
+"JSON" :{
+  "nFiles": 421,
+  "blank": 124,
+  "comment": 0,
+  "code": 11318},
+"Markdown" :{
+  "nFiles": 411,
+  "blank": 2336,
+  "comment": 0,
+  "code": 5859},
+"Python" :{
+  "nFiles": 12,
+  "blank": 370,
+  "comment": 426,
+  "code": 1134},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 1,
+  "code": 771},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 128,
+  "comment": 69,
+  "code": 281},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 192},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 35,
+  "comment": 17,
+  "code": 126},
+"Go" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 5,
+  "code": 122},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 2,
+  "code": 67},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 62},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 37},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 35},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 3058,
+  "comment": 520,
+  "code": 20037,
+  "nFiles": 875} }

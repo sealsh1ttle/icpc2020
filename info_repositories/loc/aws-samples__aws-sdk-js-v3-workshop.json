@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.463762044906616,
+  "n_files"            : 70,
+  "n_lines"            : 2773,
+  "files_per_second"   : 150.939475898885,
+  "lines_per_second"   : 5979.35952382299,
+  "report_file"        : "loc/aws-samples__aws-sdk-js-v3-workshop.json"},
+"TypeScript" :{
+  "nFiles": 44,
+  "blank": 121,
+  "comment": 40,
+  "code": 1021},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 261,
+  "comment": 0,
+  "code": 774},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 305},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 5,
+  "code": 166},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 9,
+  "code": 33},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 397,
+  "comment": 54,
+  "code": 2322,
+  "nFiles": 70} }

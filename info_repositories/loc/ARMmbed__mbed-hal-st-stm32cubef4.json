@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.7082300186157,
+  "n_files"            : 134,
+  "n_lines"            : 125337,
+  "files_per_second"   : 2.86887342865687,
+  "lines_per_second"   : 2683.40290244453,
+  "report_file"        : "loc/ARMmbed__mbed-hal-st-stm32cubef4.json"},
+"C" :{
+  "nFiles": 65,
+  "blank": 12520,
+  "comment": 34492,
+  "code": 37346},
+"C/C++ Header" :{
+  "nFiles": 66,
+  "blank": 5366,
+  "comment": 19809,
+  "code": 14278},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 67,
+  "comment": 870,
+  "code": 543},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 13,
+  "code": 6},
+"SUM": {
+  "blank": 17955,
+  "comment": 55184,
+  "code": 52198,
+  "nFiles": 134} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.1341989040375,
+  "n_files"            : 127,
+  "n_lines"            : 10756,
+  "files_per_second"   : 3.42002799974747,
+  "lines_per_second"   : 289.652135159715,
+  "report_file"        : "loc/Sparker0i__Weather.json"},
+"Java" :{
+  "nFiles": 44,
+  "blank": 661,
+  "comment": 99,
+  "code": 4414},
+"XML" :{
+  "nFiles": 67,
+  "blank": 587,
+  "comment": 92,
+  "code": 3804},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 25,
+  "code": 419},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 3,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 0,
+  "code": 82},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 60},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 22},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 21,
+  "code": 8},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 7,
+  "code": 7},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1402,
+  "comment": 270,
+  "code": 9084,
+  "nFiles": 127} }

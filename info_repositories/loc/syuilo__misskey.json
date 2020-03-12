@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.4983291625977,
+  "n_files"            : 1169,
+  "n_lines"            : 132487,
+  "files_per_second"   : 111.351052333622,
+  "lines_per_second"   : 12619.817682228,
+  "report_file"        : "loc/syuilo__misskey.json"},
+"TypeScript" :{
+  "nFiles": 695,
+  "blank": 8395,
+  "comment": 3199,
+  "code": 42354},
+"Vuejs Component" :{
+  "nFiles": 350,
+  "blank": 6058,
+  "comment": 337,
+  "code": 42056},
+"YAML" :{
+  "nFiles": 25,
+  "blank": 252,
+  "comment": 106,
+  "code": 20594},
+"Markdown" :{
+  "nFiles": 29,
+  "blank": 738,
+  "comment": 0,
+  "code": 2950},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 2182},
+"JSON5" :{
+  "nFiles": 15,
+  "blank": 128,
+  "comment": 32,
+  "code": 1029},
+"SVG" :{
+  "nFiles": 13,
+  "blank": 3,
+  "comment": 4,
+  "code": 651},
+"Stylus" :{
+  "nFiles": 11,
+  "blank": 94,
+  "comment": 9,
+  "code": 376},
+"Pug" :{
+  "nFiles": 7,
+  "blank": 54,
+  "comment": 2,
+  "code": 308},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 51,
+  "comment": 50,
+  "code": 231},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 81},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 49},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 4,
+  "code": 49},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 15793,
+  "comment": 3752,
+  "code": 112942,
+  "nFiles": 1169} }

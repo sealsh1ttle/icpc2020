@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.223303079605103,
+  "n_files"            : 1,
+  "n_lines"            : 71,
+  "files_per_second"   : 4.47821857973673,
+  "lines_per_second"   : 317.953519161308,
+  "report_file"        : "loc/LambdaSchool__back-end-project-week.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 22,
+  "comment": 0,
+  "code": 49,
+  "nFiles": 1} }

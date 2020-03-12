@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 42.5525159835815,
+  "n_files"            : 234,
+  "n_lines"            : 49432,
+  "files_per_second"   : 5.49908729463345,
+  "lines_per_second"   : 1161.67044080479,
+  "report_file"        : "loc/microsoft__FASTER.json"},
+"C#" :{
+  "nFiles": 137,
+  "blank": 3968,
+  "comment": 4616,
+  "code": 19483},
+"C/C++ Header" :{
+  "nFiles": 40,
+  "blank": 1889,
+  "comment": 1359,
+  "code": 11466},
+"C++" :{
+  "nFiles": 15,
+  "blank": 630,
+  "comment": 303,
+  "code": 3228},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 287,
+  "comment": 0,
+  "code": 965},
+"MSBuild script" :{
+  "nFiles": 14,
+  "blank": 64,
+  "comment": 0,
+  "code": 483},
+"XML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 304},
+"CMake" :{
+  "nFiles": 6,
+  "blank": 31,
+  "comment": 16,
+  "code": 150},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 0,
+  "code": 147},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 6904,
+  "comment": 6294,
+  "code": 36234,
+  "nFiles": 234} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.5693731307983,
+  "n_files"            : 839,
+  "n_lines"            : 87379,
+  "files_per_second"   : 79.3802990600472,
+  "lines_per_second"   : 8267.18850008089,
+  "report_file"        : "loc/seata__seata.json"},
+"Java" :{
+  "nFiles": 723,
+  "blank": 9421,
+  "comment": 27888,
+  "code": 43418},
+"Maven" :{
+  "nFiles": 49,
+  "blank": 145,
+  "comment": 727,
+  "code": 3053},
+"Protocol Buffers" :{
+  "nFiles": 42,
+  "blank": 257,
+  "comment": 294,
+  "code": 495},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 226,
+  "comment": 0,
+  "code": 396},
+"XML" :{
+  "nFiles": 7,
+  "blank": 38,
+  "comment": 126,
+  "code": 337},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 46,
+  "comment": 49,
+  "code": 177},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 109},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 8,
+  "code": 73},
+"Python" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 27},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 10176,
+  "comment": 29093,
+  "code": 48110,
+  "nFiles": 839} }

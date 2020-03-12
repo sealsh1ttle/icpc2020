@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.240725040435791,
+  "n_files"            : 14,
+  "n_lines"            : 10906,
+  "files_per_second"   : 58.157639000311,
+  "lines_per_second"   : 45304.8007812423,
+  "report_file"        : "loc/fossasia__open-event-scraper.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 10127},
+"Python" :{
+  "nFiles": 3,
+  "blank": 67,
+  "comment": 30,
+  "code": 261},
+"Smarty" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 164},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 2,
+  "code": 136},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 3,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 134,
+  "comment": 35,
+  "code": 10737,
+  "nFiles": 14} }

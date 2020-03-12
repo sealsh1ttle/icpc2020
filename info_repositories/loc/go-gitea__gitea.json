@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1975.70141386986,
+  "n_files"            : 4490,
+  "n_lines"            : 1927268,
+  "files_per_second"   : 2.27261061235226,
+  "lines_per_second"   : 975.485458718689,
+  "report_file"        : "loc/go-gitea__gitea.json"},
+"Go" :{
+  "nFiles": 3413,
+  "blank": 110316,
+  "comment": 137045,
+  "code": 1161945},
+"C" :{
+  "nFiles": 6,
+  "blank": 15041,
+  "comment": 70064,
+  "code": 139279},
+"JavaScript" :{
+  "nFiles": 181,
+  "blank": 20433,
+  "comment": 6203,
+  "code": 110262},
+"INI" :{
+  "nFiles": 33,
+  "blank": 3004,
+  "comment": 0,
+  "code": 37132},
+"Markdown" :{
+  "nFiles": 287,
+  "blank": 7107,
+  "comment": 0,
+  "code": 23713},
+"HTML" :{
+  "nFiles": 135,
+  "blank": 2575,
+  "comment": 25,
+  "code": 14025},
+"Assembly" :{
+  "nFiles": 73,
+  "blank": 1225,
+  "comment": 1790,
+  "code": 10170},
+"SVG" :{
+  "nFiles": 23,
+  "blank": 4,
+  "comment": 16,
+  "code": 9094},
+"YAML" :{
+  "nFiles": 169,
+  "blank": 826,
+  "comment": 69,
+  "code": 6894},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 6505},
+"LESS" :{
+  "nFiles": 18,
+  "blank": 1200,
+  "comment": 32,
+  "code": 5403},
+"CSS" :{
+  "nFiles": 18,
+  "blank": 460,
+  "comment": 452,
+  "code": 4890},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 335,
+  "comment": 9969,
+  "code": 2236},
+"Bourne Shell" :{
+  "nFiles": 51,
+  "blank": 337,
+  "comment": 674,
+  "code": 1688},
+"make" :{
+  "nFiles": 21,
+  "blank": 273,
+  "comment": 108,
+  "code": 967},
+"Protocol Buffers" :{
+  "nFiles": 8,
+  "blank": 231,
+  "comment": 1,
+  "code": 768},
+"Bourne Again Shell" :{
+  "nFiles": 25,
+  "blank": 96,
+  "comment": 79,
+  "code": 692},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 311},
+"TOML" :{
+  "nFiles": 9,
+  "blank": 134,
+  "comment": 103,
+  "code": 262},
+"Python" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 126,
+  "code": 166},
+"diff" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 27,
+  "code": 100},
+"XML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 7,
+  "code": 72},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 30,
+  "code": 65},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 5,
+  "code": 54},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 163747,
+  "comment": 226825,
+  "code": 1536696,
+  "nFiles": 4490} }

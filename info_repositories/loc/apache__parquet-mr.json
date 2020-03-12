@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 204.239348888397,
+  "n_files"            : 861,
+  "n_lines"            : 149512,
+  "files_per_second"   : 4.21564211150358,
+  "lines_per_second"   : 732.043070122095,
+  "report_file"        : "loc/apache__parquet-mr.json"},
+"Java" :{
+  "nFiles": 767,
+  "blank": 18487,
+  "comment": 27210,
+  "code": 94642},
+"Maven" :{
+  "nFiles": 31,
+  "blank": 235,
+  "comment": 596,
+  "code": 3421},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 313,
+  "comment": 0,
+  "code": 1593},
+"Thrift" :{
+  "nFiles": 6,
+  "blank": 124,
+  "comment": 109,
+  "code": 540},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 536},
+"Python" :{
+  "nFiles": 1,
+  "blank": 77,
+  "comment": 40,
+  "code": 276},
+"Protocol Buffers" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 51,
+  "code": 195},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 57,
+  "comment": 136,
+  "code": 192},
+"Scala" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 58,
+  "code": 104},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 38,
+  "comment": 197,
+  "code": 87},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 36,
+  "code": 54},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 19430,
+  "comment": 28433,
+  "code": 101649,
+  "nFiles": 861} }

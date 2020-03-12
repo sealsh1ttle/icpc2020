@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.17547488212585,
+  "n_files"            : 29,
+  "n_lines"            : 1171,
+  "files_per_second"   : 4.6959951345502,
+  "lines_per_second"   : 189.621044915803,
+  "report_file"        : "loc/codersrank-org__repo_info_extractor.json"},
+"Python" :{
+  "nFiles": 18,
+  "blank": 144,
+  "comment": 86,
+  "code": 721},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 81},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 9,
+  "code": 53},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 20},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 181,
+  "comment": 97,
+  "code": 893,
+  "nFiles": 29} }

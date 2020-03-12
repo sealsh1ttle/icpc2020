@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 63.8911421298981,
+  "n_files"            : 162,
+  "n_lines"            : 20590,
+  "files_per_second"   : 2.53556274938137,
+  "lines_per_second"   : 322.26689512199,
+  "report_file"        : "loc/linuxmint__cinnamon-spices-extensions.json"},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 1387,
+  "comment": 764,
+  "code": 7133},
+"PO File" :{
+  "nFiles": 47,
+  "blank": 985,
+  "comment": 2147,
+  "code": 2674},
+"JSON" :{
+  "nFiles": 55,
+  "blank": 55,
+  "comment": 0,
+  "code": 2403},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 2,
+  "comment": 9,
+  "code": 1363},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 148,
+  "comment": 0,
+  "code": 353},
+"Python" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 71,
+  "code": 300},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 11,
+  "code": 250},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 22,
+  "code": 212},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 23,
+  "code": 85},
+"SUM": {
+  "blank": 2770,
+  "comment": 3047,
+  "code": 14773,
+  "nFiles": 162} }

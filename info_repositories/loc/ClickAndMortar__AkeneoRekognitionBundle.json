@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.99530386924744,
+  "n_files"            : 13,
+  "n_lines"            : 603,
+  "files_per_second"   : 3.25382009114834,
+  "lines_per_second"   : 150.92719345865,
+  "report_file"        : "loc/ClickAndMortar__AkeneoRekognitionBundle.json"},
+"PHP" :{
+  "nFiles": 4,
+  "blank": 59,
+  "comment": 99,
+  "code": 230},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 80},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 1,
+  "code": 70},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 99,
+  "comment": 100,
+  "code": 404,
+  "nFiles": 13} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0442678928375244,
+  "n_files"            : 2,
+  "n_lines"            : 467,
+  "files_per_second"   : 45.1794714363424,
+  "lines_per_second"   : 10549.4065803859,
+  "report_file"        : "loc/FZambia__go-sentinel.json"},
+"Go" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 102,
+  "code": 288},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 46,
+  "comment": 102,
+  "code": 319,
+  "nFiles": 2} }

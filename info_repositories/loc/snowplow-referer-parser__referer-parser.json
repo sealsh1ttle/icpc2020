@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.30407476425171,
+  "n_files"            : 8,
+  "n_lines"            : 4620,
+  "files_per_second"   : 6.13461759962089,
+  "lines_per_second"   : 3542.74166378107,
+  "report_file"        : "loc/snowplow-referer-parser__referer-parser.json"},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 415,
+  "comment": 43,
+  "code": 3642},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 273},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 0,
+  "code": 60},
+"Python" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 33,
+  "code": 50},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 478,
+  "comment": 76,
+  "code": 4066,
+  "nFiles": 8} }

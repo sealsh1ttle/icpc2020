@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 88.7583220005035,
+  "n_files"            : 405,
+  "n_lines"            : 102741,
+  "files_per_second"   : 4.56295241811469,
+  "lines_per_second"   : 1157.53652935684,
+  "report_file"        : "loc/Interfacelab__ilab-media-tools.json"},
+"PHP" :{
+  "nFiles": 206,
+  "blank": 10036,
+  "comment": 19705,
+  "code": 42958},
+"PO File" :{
+  "nFiles": 10,
+  "blank": 5550,
+  "comment": 6667,
+  "code": 12010},
+"Sass" :{
+  "nFiles": 28,
+  "blank": 399,
+  "comment": 77,
+  "code": 2515},
+"Blade" :{
+  "nFiles": 57,
+  "blank": 120,
+  "comment": 0,
+  "code": 1972},
+"JavaScript" :{
+  "nFiles": 19,
+  "blank": 39,
+  "comment": 101,
+  "code": 264},
+"SVG" :{
+  "nFiles": 67,
+  "blank": 0,
+  "comment": 5,
+  "code": 140},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 68},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 0,
+  "code": 64},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 1,
+  "comment": 8,
+  "code": 15},
+"SUM": {
+  "blank": 16172,
+  "comment": 26563,
+  "code": 60006,
+  "nFiles": 405} }

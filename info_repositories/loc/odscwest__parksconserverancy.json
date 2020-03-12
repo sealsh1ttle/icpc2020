@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.40662980079651,
+  "n_files"            : 26,
+  "n_lines"            : 14148,
+  "files_per_second"   : 4.05829598531938,
+  "lines_per_second"   : 2208.33736924226,
+  "report_file"        : "loc/odscwest__parksconserverancy.json"},
+"Jupyter Notebook" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 11810,
+  "code": 484},
+"R" :{
+  "nFiles": 7,
+  "blank": 171,
+  "comment": 73,
+  "code": 400},
+"Python" :{
+  "nFiles": 5,
+  "blank": 101,
+  "comment": 45,
+  "code": 320},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 96,
+  "comment": 0,
+  "code": 265},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 1,
+  "code": 217},
+"Rmd" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 31,
+  "code": 51},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 450,
+  "comment": 11960,
+  "code": 1738,
+  "nFiles": 26} }

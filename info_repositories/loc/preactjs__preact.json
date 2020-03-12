@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.3565020561218,
+  "n_files"            : 174,
+  "n_lines"            : 39581,
+  "files_per_second"   : 5.21637429809779,
+  "lines_per_second"   : 1186.60523616672,
+  "report_file"        : "loc/preactjs__preact.json"},
+"JavaScript" :{
+  "nFiles": 120,
+  "blank": 4144,
+  "comment": 1575,
+  "code": 19952},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 9910},
+"TypeScript" :{
+  "nFiles": 26,
+  "blank": 311,
+  "comment": 242,
+  "code": 2072},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 181,
+  "comment": 0,
+  "code": 549},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 59,
+  "comment": 81,
+  "code": 468},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 2,
+  "code": 25},
+"SUM": {
+  "blank": 4705,
+  "comment": 1900,
+  "code": 32976,
+  "nFiles": 174} }

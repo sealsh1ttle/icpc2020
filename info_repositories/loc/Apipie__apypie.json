@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.77502012252808,
+  "n_files"            : 30,
+  "n_lines"            : 1681,
+  "files_per_second"   : 7.94697750641643,
+  "lines_per_second"   : 445.295639609534,
+  "report_file"        : "loc/Apipie__apypie.json"},
+"Python" :{
+  "nFiles": 21,
+  "blank": 376,
+  "comment": 175,
+  "code": 1014},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 21},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 22,
+  "code": 9},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 391,
+  "comment": 203,
+  "code": 1087,
+  "nFiles": 30} }

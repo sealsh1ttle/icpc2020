@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 425.777709007263,
+  "n_files"            : 1350,
+  "n_lines"            : 156294,
+  "files_per_second"   : 3.17066857057322,
+  "lines_per_second"   : 367.078869310497,
+  "report_file"        : "loc/getlantern__firetweet.json"},
+"Java" :{
+  "nFiles": 884,
+  "blank": 17447,
+  "comment": 23506,
+  "code": 87495},
+"XML" :{
+  "nFiles": 356,
+  "blank": 1708,
+  "comment": 3482,
+  "code": 18193},
+"SVG" :{
+  "nFiles": 82,
+  "blank": 37,
+  "comment": 3,
+  "code": 2149},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 132,
+  "comment": 0,
+  "code": 639},
+"Gradle" :{
+  "nFiles": 14,
+  "blank": 53,
+  "comment": 213,
+  "code": 421},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 77,
+  "comment": 0,
+  "code": 157},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 22,
+  "code": 136},
+"Python" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 6,
+  "code": 122},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"make" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 48},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 10,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"ProGuard" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 45,
+  "code": 0},
+"SUM": {
+  "blank": 19554,
+  "comment": 27289,
+  "code": 109451,
+  "nFiles": 1350} }

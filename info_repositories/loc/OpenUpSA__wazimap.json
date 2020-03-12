@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 49.9455010890961,
+  "n_files"            : 198,
+  "n_lines"            : 53320,
+  "files_per_second"   : 3.96432102356516,
+  "lines_per_second"   : 1067.5636210934,
+  "report_file"        : "loc/OpenUpSA__wazimap.json"},
+"JavaScript" :{
+  "nFiles": 34,
+  "blank": 2013,
+  "comment": 16077,
+  "code": 10818},
+"Python" :{
+  "nFiles": 58,
+  "blank": 1500,
+  "comment": 1285,
+  "code": 6314},
+"HTML" :{
+  "nFiles": 71,
+  "blank": 607,
+  "comment": 95,
+  "code": 6108},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 178,
+  "comment": 19,
+  "code": 3564},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 264,
+  "comment": 283,
+  "code": 1664},
+"reStructuredText" :{
+  "nFiles": 12,
+  "blank": 411,
+  "comment": 66,
+  "code": 811},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 519},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 252},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 14},
+"SUM": {
+  "blank": 5038,
+  "comment": 17835,
+  "code": 30447,
+  "nFiles": 198} }

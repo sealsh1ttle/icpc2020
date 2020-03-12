@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.9252061843872,
+  "n_files"            : 904,
+  "n_lines"            : 232845,
+  "files_per_second"   : 82.7444338114069,
+  "lines_per_second"   : 21312.6412509038,
+  "report_file"        : "loc/atom__atom.json"},
+"JavaScript" :{
+  "nFiles": 348,
+  "blank": 13589,
+  "comment": 10137,
+  "code": 139027},
+"JSON" :{
+  "nFiles": 94,
+  "blank": 5,
+  "comment": 0,
+  "code": 33241},
+"LESS" :{
+  "nFiles": 206,
+  "blank": 2442,
+  "comment": 1217,
+  "code": 11223},
+"Markdown" :{
+  "nFiles": 77,
+  "blank": 2892,
+  "comment": 0,
+  "code": 7362},
+"CoffeeScript" :{
+  "nFiles": 75,
+  "blank": 1139,
+  "comment": 437,
+  "code": 4874},
+"CSON" :{
+  "nFiles": 51,
+  "blank": 102,
+  "comment": 83,
+  "code": 1601},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1598},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 98,
+  "comment": 34,
+  "code": 662},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 95,
+  "comment": 187,
+  "code": 507},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 128},
+"DOS Batch" :{
+  "nFiles": 8,
+  "blank": 6,
+  "comment": 0,
+  "code": 79},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 2,
+  "code": 33},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 12},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 20376,
+  "comment": 12101,
+  "code": 200368,
+  "nFiles": 904} }

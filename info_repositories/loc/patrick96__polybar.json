@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.58383083343506,
+  "n_files"            : 254,
+  "n_lines"            : 34062,
+  "files_per_second"   : 160.370662471015,
+  "lines_per_second"   : 21506.0846656996,
+  "report_file"        : "loc/patrick96__polybar.json"},
+"C++" :{
+  "nFiles": 96,
+  "blank": 2745,
+  "comment": 2226,
+  "code": 12869},
+"C/C++ Header" :{
+  "nFiles": 115,
+  "blank": 2201,
+  "comment": 1583,
+  "code": 9572},
+"CMake" :{
+  "nFiles": 19,
+  "blank": 265,
+  "comment": 167,
+  "code": 1078},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 61,
+  "comment": 16,
+  "code": 302},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 102,
+  "comment": 0,
+  "code": 231},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 13,
+  "code": 160},
+"Python" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 126,
+  "code": 126},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 37,
+  "code": 30},
+"vim script" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 16,
+  "code": 19},
+"SUM": {
+  "blank": 5491,
+  "comment": 4184,
+  "code": 24387,
+  "nFiles": 254} }

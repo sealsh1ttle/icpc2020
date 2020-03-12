@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.16133189201355,
+  "n_files"            : 13,
+  "n_lines"            : 5286,
+  "files_per_second"   : 80.5792322754646,
+  "lines_per_second"   : 32764.7555237004,
+  "report_file"        : "loc/stm32duino__X-NUCLEO-IHM02A1.json"},
+"C/C++ Header" :{
+  "nFiles": 8,
+  "blank": 337,
+  "comment": 1627,
+  "code": 1097},
+"C++" :{
+  "nFiles": 2,
+  "blank": 173,
+  "comment": 758,
+  "code": 765},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 117,
+  "comment": 147,
+  "code": 218},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 635,
+  "comment": 2532,
+  "code": 2119,
+  "nFiles": 13} }

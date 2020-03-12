@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.284260034561157,
+  "n_files"            : 9,
+  "n_lines"            : 1494,
+  "files_per_second"   : 31.6611514309223,
+  "lines_per_second"   : 5255.7511375331,
+  "report_file"        : "loc/BlockchainDevs__MeetupDAO.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 59,
+  "comment": 18,
+  "code": 667},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 94,
+  "code": 210},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 62,
+  "comment": 41,
+  "code": 200},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 44},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 181,
+  "comment": 153,
+  "code": 1160,
+  "nFiles": 9} }

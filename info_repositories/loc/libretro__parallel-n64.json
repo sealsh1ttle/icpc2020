@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.97383999824524,
+  "n_files"            : 856,
+  "n_lines"            : 358889,
+  "files_per_second"   : 85.824516951405,
+  "lines_per_second"   : 35983.0316170243,
+  "report_file"        : "loc/libretro__parallel-n64.json"},
+"C" :{
+  "nFiles": 232,
+  "blank": 15618,
+  "comment": 14403,
+  "code": 128327},
+"C/C++ Header" :{
+  "nFiles": 450,
+  "blank": 13077,
+  "comment": 19774,
+  "code": 85037},
+"C++" :{
+  "nFiles": 120,
+  "blank": 8591,
+  "comment": 4040,
+  "code": 46910},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 970,
+  "code": 6882},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3109},
+"Assembly" :{
+  "nFiles": 9,
+  "blank": 283,
+  "comment": 389,
+  "code": 2587},
+"Windows Module Definition" :{
+  "nFiles": 2,
+  "blank": 208,
+  "comment": 0,
+  "code": 1845},
+"INI" :{
+  "nFiles": 3,
+  "blank": 567,
+  "comment": 6,
+  "code": 1463},
+"make" :{
+  "nFiles": 7,
+  "blank": 208,
+  "comment": 62,
+  "code": 990},
+"Python" :{
+  "nFiles": 5,
+  "blank": 137,
+  "comment": 169,
+  "code": 745},
+"GLSL" :{
+  "nFiles": 6,
+  "blank": 132,
+  "comment": 115,
+  "code": 604},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 71,
+  "comment": 62,
+  "code": 394},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 43,
+  "comment": 0,
+  "code": 214},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 42,
+  "comment": 113,
+  "code": 201},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 8,
+  "code": 149},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 66,
+  "comment": 58,
+  "code": 99},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 23,
+  "code": 47},
+"SUM": {
+  "blank": 39094,
+  "comment": 40192,
+  "code": 279603,
+  "nFiles": 856} }

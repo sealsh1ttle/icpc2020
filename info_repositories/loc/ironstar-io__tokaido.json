@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.0287861824036,
+  "n_files"            : 191,
+  "n_lines"            : 13697,
+  "files_per_second"   : 4.14957716336691,
+  "lines_per_second"   : 297.574651343647,
+  "report_file"        : "loc/ironstar-io__tokaido.json"},
+"Go" :{
+  "nFiles": 184,
+  "blank": 2170,
+  "comment": 978,
+  "code": 10157},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 83,
+  "comment": 0,
+  "code": 187},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 71},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 2269,
+  "comment": 978,
+  "code": 10450,
+  "nFiles": 191} }

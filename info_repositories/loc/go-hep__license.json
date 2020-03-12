@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.551509857177734,
+  "n_files"            : 1,
+  "n_lines"            : 7,
+  "files_per_second"   : 1.81320421926336,
+  "lines_per_second"   : 12.6924295348435,
+  "report_file"        : "loc/go-hep__license.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 4,
+  "comment": 0,
+  "code": 3,
+  "nFiles": 1} }

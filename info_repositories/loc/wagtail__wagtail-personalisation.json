@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.5322599411011,
+  "n_files"            : 134,
+  "n_lines"            : 8441,
+  "files_per_second"   : 3.99615177251307,
+  "lines_per_second"   : 251.72773964017,
+  "report_file"        : "loc/wagtail__wagtail-personalisation.json"},
+"Python" :{
+  "nFiles": 85,
+  "blank": 1335,
+  "comment": 575,
+  "code": 4020},
+"reStructuredText" :{
+  "nFiles": 15,
+  "blank": 244,
+  "comment": 127,
+  "code": 415},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 51,
+  "comment": 6,
+  "code": 359},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 26,
+  "comment": 58,
+  "code": 251},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 220},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 78,
+  "comment": 85,
+  "code": 189},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 0,
+  "code": 174},
+"make" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 6,
+  "code": 49},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 44},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 32},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 3,
+  "code": 2},
+"SUM": {
+  "blank": 1798,
+  "comment": 861,
+  "code": 5782,
+  "nFiles": 134} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.4991810321808,
+  "n_files"            : 81,
+  "n_lines"            : 19209,
+  "files_per_second"   : 4.62878804734016,
+  "lines_per_second"   : 1097.708513597,
+  "report_file"        : "loc/OpenGeoscience__deepres.json"},
+"Python" :{
+  "nFiles": 76,
+  "blank": 2484,
+  "comment": 1223,
+  "code": 15336},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 75},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 61},
+"SUM": {
+  "blank": 2514,
+  "comment": 1223,
+  "code": 15472,
+  "nFiles": 81} }

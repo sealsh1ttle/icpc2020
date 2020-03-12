@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.04032397270203,
+  "n_files"            : 169,
+  "n_lines"            : 91137,
+  "files_per_second"   : 55.5861814455927,
+  "lines_per_second"   : 29976.0817657218,
+  "report_file"        : "loc/cyoung__stratux.json"},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 4159,
+  "comment": 21253,
+  "code": 18132},
+"Go" :{
+  "nFiles": 41,
+  "blank": 1778,
+  "comment": 1727,
+  "code": 9440},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 1827,
+  "comment": 28,
+  "code": 9075},
+"C" :{
+  "nFiles": 20,
+  "blank": 2041,
+  "comment": 3811,
+  "code": 8232},
+"Bourne Shell" :{
+  "nFiles": 29,
+  "blank": 554,
+  "comment": 609,
+  "code": 2640},
+"C/C++ Header" :{
+  "nFiles": 13,
+  "blank": 501,
+  "comment": 610,
+  "code": 1637},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 55,
+  "comment": 88,
+  "code": 1261},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 657},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 130,
+  "comment": 0,
+  "code": 475},
+"Python" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 17,
+  "code": 181},
+"make" :{
+  "nFiles": 5,
+  "blank": 27,
+  "comment": 2,
+  "code": 128},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 11117,
+  "comment": 28145,
+  "code": 51875,
+  "nFiles": 169} }

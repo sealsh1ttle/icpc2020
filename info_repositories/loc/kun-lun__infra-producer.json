@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 219.626344919205,
+  "n_files"            : 600,
+  "n_lines"            : 420806,
+  "files_per_second"   : 2.73191269572294,
+  "lines_per_second"   : 1916.00875639398,
+  "report_file"        : "loc/kun-lun__infra-producer.json"},
+"Go" :{
+  "nFiles": 526,
+  "blank": 21880,
+  "comment": 22330,
+  "code": 370243},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 262,
+  "comment": 270,
+  "code": 1578},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 598,
+  "comment": 0,
+  "code": 1381},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 68,
+  "comment": 293,
+  "code": 499},
+"Assembly" :{
+  "nFiles": 24,
+  "blank": 222,
+  "comment": 248,
+  "code": 424},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 34,
+  "comment": 2,
+  "code": 319},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 25,
+  "code": 25},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"make" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 6,
+  "code": 14},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 10},
+"SUM": {
+  "blank": 23094,
+  "comment": 23184,
+  "code": 374528,
+  "nFiles": 600} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.146139144897461,
+  "n_files"            : 29,
+  "n_lines"            : 2497,
+  "files_per_second"   : 198.441013325676,
+  "lines_per_second"   : 17086.455526697,
+  "report_file"        : "loc/kurogetsusai__firefox-gnome-theme.json"},
+"CSS" :{
+  "nFiles": 28,
+  "blank": 243,
+  "comment": 388,
+  "code": 1723},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 107},
+"SUM": {
+  "blank": 279,
+  "comment": 388,
+  "code": 1830,
+  "nFiles": 29} }

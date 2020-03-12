@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 232.759335041046,
+  "n_files"            : 1078,
+  "n_lines"            : 51352,
+  "files_per_second"   : 4.63139319335957,
+  "lines_per_second"   : 220.622730301856,
+  "report_file"        : "loc/skycocker__chromebrew.json"},
+"Ruby" :{
+  "nFiles": 1054,
+  "blank": 5735,
+  "comment": 590,
+  "code": 38574},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 1,
+  "code": 4978},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 85,
+  "comment": 111,
+  "code": 631},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 95,
+  "comment": 0,
+  "code": 295},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 189},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 6,
+  "code": 37},
+"SUM": {
+  "blank": 5939,
+  "comment": 709,
+  "code": 44704,
+  "nFiles": 1078} }

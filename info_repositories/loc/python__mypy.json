@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.43602609634399,
+  "n_files"            : 464,
+  "n_lines"            : 154007,
+  "files_per_second"   : 85.3564702921614,
+  "lines_per_second"   : 28330.805862683,
+  "report_file"        : "loc/python__mypy.json"},
+"Python" :{
+  "nFiles": 355,
+  "blank": 16404,
+  "comment": 18668,
+  "code": 70075},
+"C/C++ Header" :{
+  "nFiles": 28,
+  "blank": 2557,
+  "comment": 5854,
+  "code": 16110},
+"C++" :{
+  "nFiles": 10,
+  "blank": 1245,
+  "comment": 2517,
+  "code": 5886},
+"reStructuredText" :{
+  "nFiles": 37,
+  "blank": 3001,
+  "comment": 3060,
+  "code": 4219},
+"C" :{
+  "nFiles": 2,
+  "blank": 163,
+  "comment": 154,
+  "code": 1370},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 447,
+  "comment": 0,
+  "code": 1041},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 3,
+  "code": 168},
+"make" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 34,
+  "code": 162},
+"INI" :{
+  "nFiles": 5,
+  "blank": 12,
+  "comment": 0,
+  "code": 120},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 22,
+  "code": 112},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 10,
+  "code": 70},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 21,
+  "comment": 29,
+  "code": 63},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 47},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 18},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 23971,
+  "comment": 30357,
+  "code": 99679,
+  "nFiles": 464} }

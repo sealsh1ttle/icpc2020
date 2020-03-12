@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.314640998840332,
+  "n_files"            : 38,
+  "n_lines"            : 4014,
+  "files_per_second"   : 120.772563461393,
+  "lines_per_second"   : 12757.3965719482,
+  "report_file"        : "loc/TypeStrong__ts-node.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 1995},
+"TypeScript" :{
+  "nFiles": 22,
+  "blank": 265,
+  "comment": 171,
+  "code": 1129},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 180},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 66,
+  "comment": 0,
+  "code": 157},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 21},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 340,
+  "comment": 171,
+  "code": 3503,
+  "nFiles": 38} }

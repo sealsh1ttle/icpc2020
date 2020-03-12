@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 145.155917167664,
+  "n_files"            : 566,
+  "n_lines"            : 50378,
+  "files_per_second"   : 3.89925544231336,
+  "lines_per_second"   : 347.061290941453,
+  "report_file"        : "loc/padrino__padrino-framework.json"},
+"Ruby" :{
+  "nFiles": 314,
+  "blank": 3868,
+  "comment": 6002,
+  "code": 23989},
+"LESS" :{
+  "nFiles": 54,
+  "blank": 1142,
+  "comment": 1465,
+  "code": 5789},
+"YAML" :{
+  "nFiles": 85,
+  "blank": 154,
+  "comment": 405,
+  "code": 3707},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 510,
+  "comment": 204,
+  "code": 1346},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 414},
+"ERB" :{
+  "nFiles": 45,
+  "blank": 20,
+  "comment": 0,
+  "code": 349},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 55,
+  "code": 296},
+"Slim" :{
+  "nFiles": 23,
+  "blank": 21,
+  "comment": 0,
+  "code": 256},
+"Haml" :{
+  "nFiles": 23,
+  "blank": 22,
+  "comment": 0,
+  "code": 252},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 29},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 18,
+  "code": 27},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 5774,
+  "comment": 8149,
+  "code": 36455,
+  "nFiles": 566} }

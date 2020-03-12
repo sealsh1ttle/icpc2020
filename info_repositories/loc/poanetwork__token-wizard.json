@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.05983710289,
+  "n_files"            : 201,
+  "n_lines"            : 38678,
+  "files_per_second"   : 4.36388864231108,
+  "lines_per_second"   : 839.73375575775,
+  "report_file"        : "loc/poanetwork__token-wizard.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 19802},
+"JavaScript" :{
+  "nFiles": 155,
+  "blank": 2158,
+  "comment": 745,
+  "code": 13738},
+"Sass" :{
+  "nFiles": 30,
+  "blank": 243,
+  "comment": 0,
+  "code": 1712},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 0,
+  "code": 59},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 40,
+  "code": 40},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 16,
+  "code": 33},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 24},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2457,
+  "comment": 801,
+  "code": 35420,
+  "nFiles": 201} }

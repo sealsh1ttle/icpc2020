@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.1236789226532,
+  "n_files"            : 49,
+  "n_lines"            : 8559,
+  "files_per_second"   : 4.04167747369514,
+  "lines_per_second"   : 705.973826476667,
+  "report_file"        : "loc/IBM-Swift__Kitura-Session.json"},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 310,
+  "comment": 0,
+  "code": 3467},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 16,
+  "code": 1622},
+"Swift" :{
+  "nFiles": 19,
+  "blank": 238,
+  "comment": 610,
+  "code": 1346},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 59,
+  "code": 454},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 56,
+  "comment": 0,
+  "code": 158},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 5,
+  "code": 78},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 683,
+  "comment": 690,
+  "code": 7186,
+  "nFiles": 49} }

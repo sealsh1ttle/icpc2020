@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.0565900802612,
+  "n_files"            : 86,
+  "n_lines"            : 13166,
+  "files_per_second"   : 5.04203944606277,
+  "lines_per_second"   : 771.901062172818,
+  "report_file"        : "loc/kubernetes-csi__docs.json"},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 4694,
+  "comment": 17,
+  "code": 3670},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 606,
+  "comment": 0,
+  "code": 1464},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 64,
+  "code": 838},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 685},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 95,
+  "comment": 70,
+  "code": 502},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 2,
+  "comment": 0,
+  "code": 291},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 31,
+  "code": 60},
+"make" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 11,
+  "code": 27},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 5429,
+  "comment": 193,
+  "code": 7544,
+  "nFiles": 86} }

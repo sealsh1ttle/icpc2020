@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.48669791221619,
+  "n_files"            : 41,
+  "n_lines"            : 1239,
+  "files_per_second"   : 5.47637963769041,
+  "lines_per_second"   : 165.493521246303,
+  "report_file"        : "loc/Gimly__NetCoreAngularAzureB2CMsal.json"},
+"TypeScript" :{
+  "nFiles": 15,
+  "blank": 51,
+  "comment": 16,
+  "code": 317},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 10,
+  "code": 185},
+"C#" :{
+  "nFiles": 5,
+  "blank": 23,
+  "comment": 2,
+  "code": 178},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 120},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 0,
+  "code": 92},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 5,
+  "code": 60},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 47},
+"Razor" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 0,
+  "code": 46},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 6,
+  "code": 40},
+"SUM": {
+  "blank": 115,
+  "comment": 39,
+  "code": 1085,
+  "nFiles": 41} }

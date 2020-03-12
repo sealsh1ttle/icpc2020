@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.4959018230438,
+  "n_files"            : 75,
+  "n_lines"            : 58308,
+  "files_per_second"   : 4.28671815597511,
+  "lines_per_second"   : 3332.66616318129,
+  "report_file"        : "loc/react-spring__react-three-fiber.json"},
+"JavaScript" :{
+  "nFiles": 45,
+  "blank": 258,
+  "comment": 305,
+  "code": 54647},
+"TypeScript" :{
+  "nFiles": 9,
+  "blank": 153,
+  "comment": 148,
+  "code": 1335},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 643},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 201,
+  "comment": 0,
+  "code": 595},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 613,
+  "comment": 454,
+  "code": 57241,
+  "nFiles": 75} }

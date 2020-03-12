@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.38958191871643,
+  "n_files"            : 7,
+  "n_lines"            : 243,
+  "files_per_second"   : 5.03748638760784,
+  "lines_per_second"   : 174.872741741244,
+  "report_file"        : "loc/jackple__typescript-react-svg-icon-generator.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 0,
+  "code": 120},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 50},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"SUM": {
+  "blank": 33,
+  "comment": 0,
+  "code": 210,
+  "nFiles": 7} }

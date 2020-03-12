@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 40.4613070487976,
+  "n_files"            : 121,
+  "n_lines"            : 6427,
+  "files_per_second"   : 2.99051140028843,
+  "lines_per_second"   : 158.843113798791,
+  "report_file"        : "loc/gasman__bonsai-c.json"},
+"JavaScript" :{
+  "nFiles": 24,
+  "blank": 534,
+  "comment": 197,
+  "code": 4547},
+"C" :{
+  "nFiles": 86,
+  "blank": 69,
+  "comment": 0,
+  "code": 614},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 224},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 10,
+  "code": 93},
+"WebAssembly" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 67},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 33},
+"SUM": {
+  "blank": 642,
+  "comment": 207,
+  "code": 5578,
+  "nFiles": 121} }

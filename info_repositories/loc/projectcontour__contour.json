@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 68.8248550891876,
+  "n_files"            : 439,
+  "n_lines"            : 73548,
+  "files_per_second"   : 6.37850961591006,
+  "lines_per_second"   : 1068.62557000217,
+  "report_file"        : "loc/projectcontour__contour.json"},
+"Go" :{
+  "nFiles": 158,
+  "blank": 3188,
+  "comment": 3928,
+  "code": 36976},
+"YAML" :{
+  "nFiles": 76,
+  "blank": 94,
+  "comment": 398,
+  "code": 11217},
+"Markdown" :{
+  "nFiles": 68,
+  "blank": 1890,
+  "comment": 0,
+  "code": 6098},
+"Sass" :{
+  "nFiles": 101,
+  "blank": 1282,
+  "comment": 1057,
+  "code": 5535},
+"HTML" :{
+  "nFiles": 21,
+  "blank": 26,
+  "comment": 21,
+  "code": 605},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 6,
+  "code": 536},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 75,
+  "comment": 91,
+  "code": 232},
+"make" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 8,
+  "code": 158},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 15,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 11},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 6606,
+  "comment": 5524,
+  "code": 61418,
+  "nFiles": 439} }

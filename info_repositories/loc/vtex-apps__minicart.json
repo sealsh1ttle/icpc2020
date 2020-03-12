@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.0458340644836,
+  "n_files"            : 50,
+  "n_lines"            : 4957,
+  "files_per_second"   : 4.97718752659588,
+  "lines_per_second"   : 493.438371386716,
+  "report_file"        : "loc/vtex-apps__minicart.json"},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 268,
+  "comment": 69,
+  "code": 2755},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 16,
+  "comment": 0,
+  "code": 632},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 441,
+  "comment": 0,
+  "code": 584},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 69},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 47},
+"GraphQL" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 742,
+  "comment": 71,
+  "code": 4144,
+  "nFiles": 50} }

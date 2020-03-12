@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.97415590286255,
+  "n_files"            : 72,
+  "n_lines"            : 12951,
+  "files_per_second"   : 7.21865596459508,
+  "lines_per_second"   : 1298.45574163154,
+  "report_file"        : "loc/sky-uk__feed.json"},
+"Go" :{
+  "nFiles": 52,
+  "blank": 1414,
+  "comment": 386,
+  "code": 9371},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 169,
+  "comment": 172,
+  "code": 589},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 145,
+  "comment": 0,
+  "code": 360},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 0,
+  "code": 133},
+"make" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 72},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 5,
+  "code": 49},
+"Python" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 3,
+  "code": 27},
+"SUM": {
+  "blank": 1783,
+  "comment": 567,
+  "code": 10601,
+  "nFiles": 72} }

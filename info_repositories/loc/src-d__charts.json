@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 105.954113960266,
+  "n_files"            : 219,
+  "n_lines"            : 8938,
+  "files_per_second"   : 2.06693248439723,
+  "lines_per_second"   : 84.357271897454,
+  "report_file"        : "loc/src-d__charts.json"},
+"YAML" :{
+  "nFiles": 202,
+  "blank": 413,
+  "comment": 1501,
+  "code": 6370},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 184,
+  "comment": 0,
+  "code": 380},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 3,
+  "code": 71},
+"SUM": {
+  "blank": 613,
+  "comment": 1504,
+  "code": 6821,
+  "nFiles": 219} }

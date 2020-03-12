@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.7143030166626,
+  "n_files"            : 133,
+  "n_lines"            : 23291,
+  "files_per_second"   : 23.2749295254695,
+  "lines_per_second"   : 4075.91265847903,
+  "report_file"        : "loc/client-go__unofficial-docs.json"},
+"CSS" :{
+  "nFiles": 28,
+  "blank": 2039,
+  "comment": 94,
+  "code": 9240},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 6,
+  "code": 6798},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 653,
+  "comment": 81,
+  "code": 1930},
+"HTML" :{
+  "nFiles": 50,
+  "blank": 56,
+  "comment": 8,
+  "code": 877},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 183,
+  "comment": 114,
+  "code": 848},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 47,
+  "comment": 0,
+  "code": 157},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 1,
+  "code": 45},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 26},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 2,
+  "code": 23},
+"SUM": {
+  "blank": 3003,
+  "comment": 306,
+  "code": 19982,
+  "nFiles": 133} }

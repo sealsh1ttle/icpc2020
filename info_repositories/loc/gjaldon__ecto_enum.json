@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.58828401565552,
+  "n_files"            : 19,
+  "n_lines"            : 1244,
+  "files_per_second"   : 5.29501007085946,
+  "lines_per_second"   : 346.683817271009,
+  "report_file"        : "loc/gjaldon__ecto_enum.json"},
+"Elixir" :{
+  "nFiles": 16,
+  "blank": 222,
+  "comment": 101,
+  "code": 665},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 62,
+  "comment": 0,
+  "code": 175},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 18},
+"SUM": {
+  "blank": 284,
+  "comment": 102,
+  "code": 858,
+  "nFiles": 19} }

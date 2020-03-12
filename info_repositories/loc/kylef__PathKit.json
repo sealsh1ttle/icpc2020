@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.16082406044006,
+  "n_files"            : 9,
+  "n_lines"            : 1564,
+  "files_per_second"   : 4.16507765012904,
+  "lines_per_second"   : 723.797938311314,
+  "report_file"        : "loc/kylef__PathKit.json"},
+"Swift" :{
+  "nFiles": 5,
+  "blank": 232,
+  "comment": 267,
+  "code": 828},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 68,
+  "comment": 0,
+  "code": 111},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 300,
+  "comment": 267,
+  "code": 997,
+  "nFiles": 9} }

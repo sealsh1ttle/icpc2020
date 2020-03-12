@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.6433639526367,
+  "n_files"            : 84,
+  "n_lines"            : 14943,
+  "files_per_second"   : 3.55279393271922,
+  "lines_per_second"   : 632.016663531229,
+  "report_file"        : "loc/reflex-frp__reflex.json"},
+"Haskell" :{
+  "nFiles": 70,
+  "blank": 1748,
+  "comment": 1944,
+  "code": 10096},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 125,
+  "comment": 0,
+  "code": 334},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 151,
+  "code": 158},
+"Nix" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 5,
+  "code": 124},
+"C" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 93,
+  "code": 75},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1930,
+  "comment": 2193,
+  "code": 10820,
+  "nFiles": 84} }

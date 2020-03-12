@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.750901937484741,
+  "n_files"            : 7,
+  "n_lines"            : 578,
+  "files_per_second"   : 9.32212270412772,
+  "lines_per_second"   : 769.740988997975,
+  "report_file"        : "loc/fatih__pool.json"},
+"Go" :{
+  "nFiles": 5,
+  "blank": 88,
+  "comment": 45,
+  "code": 375},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 45},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 111,
+  "comment": 45,
+  "code": 422,
+  "nFiles": 7} }

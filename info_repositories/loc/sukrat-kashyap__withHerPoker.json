@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.82662391662598,
+  "n_files"            : 48,
+  "n_lines"            : 3612,
+  "files_per_second"   : 12.5436941402704,
+  "lines_per_second"   : 943.912984055351,
+  "report_file"        : "loc/sukrat-kashyap__withHerPoker.json"},
+"TypeScript" :{
+  "nFiles": 40,
+  "blank": 555,
+  "comment": 1,
+  "code": 2714},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 132},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 70},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 52},
+"SUM": {
+  "blank": 586,
+  "comment": 2,
+  "code": 3024,
+  "nFiles": 48} }

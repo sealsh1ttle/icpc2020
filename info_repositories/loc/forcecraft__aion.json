@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.5828468799591,
+  "n_files"            : 194,
+  "n_lines"            : 9181,
+  "files_per_second"   : 5.60971746118518,
+  "lines_per_second"   : 265.478433047119,
+  "report_file"        : "loc/forcecraft__aion.json"},
+"Elm" :{
+  "nFiles": 57,
+  "blank": 912,
+  "comment": 43,
+  "code": 2882},
+"Elixir" :{
+  "nFiles": 102,
+  "blank": 676,
+  "comment": 422,
+  "code": 2613},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 75,
+  "comment": 0,
+  "code": 434},
+"Python" :{
+  "nFiles": 13,
+  "blank": 69,
+  "comment": 4,
+  "code": 246},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 64,
+  "comment": 0,
+  "code": 126},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 79},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 66,
+  "code": 70},
+"make" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 15,
+  "code": 63},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 18,
+  "code": 55},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 53},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 5,
+  "code": 47},
+"EEx" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 34},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 15},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1882,
+  "comment": 576,
+  "code": 6723,
+  "nFiles": 194} }

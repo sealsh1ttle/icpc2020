@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 347.380859136581,
+  "n_files"            : 1644,
+  "n_lines"            : 1340355,
+  "files_per_second"   : 4.73255781589745,
+  "lines_per_second"   : 3858.45956893384,
+  "report_file"        : "loc/kubernetes-client__java.json"},
+"Java" :{
+  "nFiles": 946,
+  "blank": 76311,
+  "comment": 376729,
+  "code": 721628},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 96404},
+"Markdown" :{
+  "nFiles": 673,
+  "blank": 17719,
+  "comment": 0,
+  "code": 50048},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 19,
+  "comment": 5,
+  "code": 854},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 48,
+  "comment": 69,
+  "code": 190},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 112},
+"XML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 2,
+  "code": 23},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 17,
+  "code": 4},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 94138,
+  "comment": 376822,
+  "code": 869395,
+  "nFiles": 1644} }

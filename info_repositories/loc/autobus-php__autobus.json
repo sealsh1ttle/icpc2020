@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.1358969211578,
+  "n_files"            : 47,
+  "n_lines"            : 43004,
+  "files_per_second"   : 3.32486861372432,
+  "lines_per_second"   : 3042.18403967236,
+  "report_file"        : "loc/autobus-php__autobus.json"},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 28600},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 8,
+  "comment": 28,
+  "code": 7376},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2195},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 585,
+  "comment": 315,
+  "code": 1632},
+"PHP" :{
+  "nFiles": 10,
+  "blank": 204,
+  "comment": 276,
+  "code": 1258},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 30,
+  "comment": 50,
+  "code": 179},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 89},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 0,
+  "code": 64},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 9,
+  "code": 17},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 886,
+  "comment": 680,
+  "code": 41438,
+  "nFiles": 47} }

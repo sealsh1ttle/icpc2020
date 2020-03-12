@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.378592967987061,
+  "n_files"            : 50,
+  "n_lines"            : 11507,
+  "files_per_second"   : 132.067957484379,
+  "lines_per_second"   : 30394.119735455,
+  "report_file"        : "loc/hexafin__splashextension.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 8463},
+"JavaScript" :{
+  "nFiles": 42,
+  "blank": 298,
+  "comment": 121,
+  "code": 2473},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 71},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 57},
+"SUM": {
+  "blank": 320,
+  "comment": 123,
+  "code": 11064,
+  "nFiles": 50} }

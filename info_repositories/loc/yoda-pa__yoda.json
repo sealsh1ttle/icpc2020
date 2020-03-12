@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.633372068405151,
+  "n_files"            : 81,
+  "n_lines"            : 9355,
+  "files_per_second"   : 127.886915196561,
+  "lines_per_second"   : 14770.1492798003,
+  "report_file"        : "loc/yoda-pa__yoda.json"},
+"Python" :{
+  "nFiles": 70,
+  "blank": 1371,
+  "comment": 1398,
+  "code": 5475},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 275,
+  "comment": 0,
+  "code": 808},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 11},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1652,
+  "comment": 1400,
+  "code": 6303,
+  "nFiles": 81} }

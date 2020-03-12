@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.17898082733154,
+  "n_files"            : 301,
+  "n_lines"            : 30804,
+  "files_per_second"   : 138.137975435339,
+  "lines_per_second"   : 14136.8843698013,
+  "report_file"        : "loc/nventive__Uno.Core.json"},
+"C#" :{
+  "nFiles": 279,
+  "blank": 3585,
+  "comment": 8070,
+  "code": 17980},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 145,
+  "comment": 0,
+  "code": 399},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 48,
+  "code": 165},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 4,
+  "code": 158},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 82},
+"XML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 6,
+  "code": 55},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 3816,
+  "comment": 8128,
+  "code": 18860,
+  "nFiles": 301} }

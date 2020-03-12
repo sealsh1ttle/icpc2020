@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.615110874176,
+  "n_files"            : 85,
+  "n_lines"            : 2709,
+  "files_per_second"   : 8.00745286672269,
+  "lines_per_second"   : 255.202233128844,
+  "report_file"        : "loc/frc604__robotnik-framework-public.json"},
+"Java" :{
+  "nFiles": 84,
+  "blank": 594,
+  "comment": 1,
+  "code": 2061},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 34},
+"SUM": {
+  "blank": 613,
+  "comment": 1,
+  "code": 2095,
+  "nFiles": 85} }

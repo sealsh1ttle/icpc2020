@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.32859706878662,
+  "n_files"            : 16,
+  "n_lines"            : 195,
+  "files_per_second"   : 12.0427783380649,
+  "lines_per_second"   : 146.771360995166,
+  "report_file"        : "loc/RadialDevGroup__ruby-assessment.json"},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 40,
+  "comment": 0,
+  "code": 155},
+"SUM": {
+  "blank": 40,
+  "comment": 0,
+  "code": 155,
+  "nFiles": 16} }

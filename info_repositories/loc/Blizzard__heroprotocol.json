@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.6710278987885,
+  "n_files"            : 39,
+  "n_lines"            : 17570,
+  "files_per_second"   : 1.03527836046264,
+  "lines_per_second"   : 466.406174187911,
+  "report_file"        : "loc/Blizzard__heroprotocol.json"},
+"Python" :{
+  "nFiles": 37,
+  "blank": 1655,
+  "comment": 1661,
+  "code": 13954},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 82,
+  "comment": 0,
+  "code": 218},
+"SUM": {
+  "blank": 1737,
+  "comment": 1661,
+  "code": 14172,
+  "nFiles": 39} }

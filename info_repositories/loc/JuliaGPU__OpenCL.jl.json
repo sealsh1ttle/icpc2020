@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.5366139411926,
+  "n_files"            : 70,
+  "n_lines"            : 12010,
+  "files_per_second"   : 5.58364486043516,
+  "lines_per_second"   : 957.993925340376,
+  "report_file"        : "loc/JuliaGPU__OpenCL.jl.json"},
+"Julia" :{
+  "nFiles": 45,
+  "blank": 1003,
+  "comment": 574,
+  "code": 5117},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 151,
+  "comment": 89,
+  "code": 974},
+"OpenCL" :{
+  "nFiles": 8,
+  "blank": 54,
+  "comment": 75,
+  "code": 293},
+"Jupyter Notebook" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 3153,
+  "code": 145},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 0,
+  "code": 110},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 50,
+  "code": 106},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 6,
+  "code": 34},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 1274,
+  "comment": 3947,
+  "code": 6789,
+  "nFiles": 70} }

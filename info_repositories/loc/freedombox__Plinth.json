@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 115.490343809128,
+  "n_files"            : 427,
+  "n_lines"            : 162153,
+  "files_per_second"   : 3.69727880198978,
+  "lines_per_second"   : 1404.03946037248,
+  "report_file"        : "loc/freedombox__Plinth.json"},
+"PO File" :{
+  "nFiles": 21,
+  "blank": 19581,
+  "comment": 27339,
+  "code": 61684},
+"Python" :{
+  "nFiles": 272,
+  "blank": 5464,
+  "comment": 7331,
+  "code": 15399},
+"XML" :{
+  "nFiles": 10,
+  "blank": 61,
+  "comment": 18,
+  "code": 8916},
+"SVG" :{
+  "nFiles": 16,
+  "blank": 12,
+  "comment": 14,
+  "code": 6698},
+"HTML" :{
+  "nFiles": 86,
+  "blank": 762,
+  "comment": 22,
+  "code": 5591},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 328,
+  "comment": 0,
+  "code": 1318},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 120,
+  "code": 486},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 61,
+  "code": 168},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 56,
+  "code": 157},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 48,
+  "code": 118},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 34,
+  "code": 52},
+"make" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 36,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 28,
+  "code": 29},
+"SUM": {
+  "blank": 26394,
+  "comment": 35107,
+  "code": 100652,
+  "nFiles": 427} }

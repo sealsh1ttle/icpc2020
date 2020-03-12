@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.98199605941772,
+  "n_files"            : 425,
+  "n_lines"            : 51732,
+  "files_per_second"   : 106.730391908561,
+  "lines_per_second"   : 12991.474433444,
+  "report_file"        : "loc/hmrc__ated-frontend.json"},
+"Scala" :{
+  "nFiles": 287,
+  "blank": 6431,
+  "comment": 4301,
+  "code": 29004},
+"HTML" :{
+  "nFiles": 99,
+  "blank": 1521,
+  "comment": 0,
+  "code": 8109},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 190,
+  "comment": 22,
+  "code": 793},
+"JavaScript" :{
+  "nFiles": 25,
+  "blank": 163,
+  "comment": 78,
+  "code": 752},
+"XML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 179},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 58,
+  "comment": 0,
+  "code": 98},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 8382,
+  "comment": 4401,
+  "code": 38949,
+  "nFiles": 425} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.498060941696167,
+  "n_files"            : 64,
+  "n_lines"            : 20429,
+  "files_per_second"   : 128.4983315135,
+  "lines_per_second"   : 41017.0689763951,
+  "report_file"        : "loc/tang184__ReportIt.json"},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 832,
+  "comment": 108,
+  "code": 9435},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 651,
+  "comment": 208,
+  "code": 2339},
+"Python" :{
+  "nFiles": 14,
+  "blank": 506,
+  "comment": 570,
+  "code": 1877},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 421,
+  "comment": 316,
+  "code": 1440},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 685},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 268,
+  "comment": 107,
+  "code": 665},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2678,
+  "comment": 1309,
+  "code": 16442,
+  "nFiles": 64} }

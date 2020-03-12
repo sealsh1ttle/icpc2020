@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.327260017395,
+  "n_files"            : 285,
+  "n_lines"            : 3044,
+  "files_per_second"   : 19.8921496262353,
+  "lines_per_second"   : 212.462117411439,
+  "report_file"        : "loc/beeone42__porte42.json"},
+"JSON" :{
+  "nFiles": 276,
+  "blank": 4,
+  "comment": 0,
+  "code": 2714},
+"Python" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 7,
+  "code": 237},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 12},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 55,
+  "comment": 7,
+  "code": 2982,
+  "nFiles": 285} }

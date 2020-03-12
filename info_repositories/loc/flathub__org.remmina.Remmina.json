@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.705221891403198,
+  "n_files"            : 3,
+  "n_lines"            : 513,
+  "files_per_second"   : 4.25398025298225,
+  "lines_per_second"   : 727.430623259965,
+  "report_file"        : "loc/flathub__org.remmina.Remmina.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 477},
+"diff" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 19,
+  "code": 12},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3,
+  "comment": 19,
+  "code": 491,
+  "nFiles": 3} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.29676008224487,
+  "n_files"            : 32,
+  "n_lines"            : 11312,
+  "files_per_second"   : 3.85692724422395,
+  "lines_per_second"   : 1363.42378083317,
+  "report_file"        : "loc/youngcc3157__RedM_Text_Transformation.json"},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 1066,
+  "comment": 27,
+  "code": 9357},
+"Python" :{
+  "nFiles": 7,
+  "blank": 184,
+  "comment": 169,
+  "code": 474},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1250,
+  "comment": 196,
+  "code": 9866,
+  "nFiles": 32} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.265981912612915,
+  "n_files"            : 50,
+  "n_lines"            : 1760,
+  "files_per_second"   : 187.982707202972,
+  "lines_per_second"   : 6616.9912935446,
+  "report_file"        : "loc/healthlocker__epjs_app.json"},
+"Elixir" :{
+  "nFiles": 41,
+  "blank": 189,
+  "comment": 264,
+  "code": 920},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 18,
+  "code": 55},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 20,
+  "code": 53},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 88,
+  "code": 48},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 241,
+  "comment": 390,
+  "code": 1129,
+  "nFiles": 50} }

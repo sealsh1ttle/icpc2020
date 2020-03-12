@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.9152460098267,
+  "n_files"            : 246,
+  "n_lines"            : 69113,
+  "files_per_second"   : 3.73206526398045,
+  "lines_per_second"   : 1048.5131162174,
+  "report_file"        : "loc/bocoup__jqfundamentals.com.json"},
+"JavaScript" :{
+  "nFiles": 100,
+  "blank": 5196,
+  "comment": 5881,
+  "code": 26340},
+"HTML" :{
+  "nFiles": 86,
+  "blank": 1693,
+  "comment": 28,
+  "code": 15176},
+"CSS" :{
+  "nFiles": 28,
+  "blank": 279,
+  "comment": 163,
+  "code": 7212},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 4290},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 666,
+  "comment": 0,
+  "code": 1709},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 151},
+"Pug" :{
+  "nFiles": 8,
+  "blank": 30,
+  "comment": 0,
+  "code": 143},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 25,
+  "comment": 36,
+  "code": 93},
+"SUM": {
+  "blank": 7890,
+  "comment": 6109,
+  "code": 55114,
+  "nFiles": 246} }

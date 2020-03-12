@@ -1,0 +1,154 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2395.23785686493,
+  "n_files"            : 6649,
+  "n_lines"            : 2087929,
+  "files_per_second"   : 2.77592472953927,
+  "lines_per_second"   : 871.700066870537,
+  "report_file"        : "loc/cilium__cilium.json"},
+"Go" :{
+  "nFiles": 5742,
+  "blank": 172237,
+  "comment": 246460,
+  "code": 1546834},
+"YAML" :{
+  "nFiles": 238,
+  "blank": 794,
+  "comment": 1258,
+  "code": 37721},
+"reStructuredText" :{
+  "nFiles": 115,
+  "blank": 6512,
+  "comment": 3945,
+  "code": 14179},
+"C/C++ Header" :{
+  "nFiles": 70,
+  "blank": 2363,
+  "comment": 5335,
+  "code": 12517},
+"Assembly" :{
+  "nFiles": 61,
+  "blank": 860,
+  "comment": 1499,
+  "code": 6445},
+"Bourne Shell" :{
+  "nFiles": 93,
+  "blank": 1250,
+  "comment": 979,
+  "code": 5698},
+"C" :{
+  "nFiles": 21,
+  "blank": 705,
+  "comment": 662,
+  "code": 3431},
+"Markdown" :{
+  "nFiles": 121,
+  "blank": 1381,
+  "comment": 0,
+  "code": 3058},
+"Bourne Again Shell" :{
+  "nFiles": 15,
+  "blank": 385,
+  "comment": 357,
+  "code": 2193},
+"JSON" :{
+  "nFiles": 77,
+  "blank": 10,
+  "comment": 0,
+  "code": 2045},
+"make" :{
+  "nFiles": 29,
+  "blank": 268,
+  "comment": 72,
+  "code": 972},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 96,
+  "comment": 94,
+  "code": 944},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 1,
+  "code": 832},
+"Python" :{
+  "nFiles": 12,
+  "blank": 162,
+  "comment": 204,
+  "code": 563},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 58,
+  "comment": 149,
+  "code": 392},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 54,
+  "comment": 5,
+  "code": 390},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 164,
+  "comment": 187,
+  "code": 257},
+"sed" :{
+  "nFiles": 5,
+  "blank": 4,
+  "comment": 32,
+  "code": 219},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 22,
+  "comment": 28,
+  "code": 118},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 77},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 15,
+  "code": 50},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 6,
+  "code": 50},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 1,
+  "code": 44},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 41},
+"diff" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 38,
+  "code": 40},
+"awk" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 8,
+  "code": 24},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 19},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 187414,
+  "comment": 261355,
+  "code": 1639160,
+  "nFiles": 6649} }

@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.4550421237946,
+  "n_files"            : 1639,
+  "n_lines"            : 799064,
+  "files_per_second"   : 106.049533017875,
+  "lines_per_second"   : 51702.4795920655,
+  "report_file"        : "loc/libretro__desmume.json"},
+"C++" :{
+  "nFiles": 334,
+  "blank": 36873,
+  "comment": 24275,
+  "code": 179027},
+"C/C++ Header" :{
+  "nFiles": 888,
+  "blank": 35002,
+  "comment": 68114,
+  "code": 154508},
+"C" :{
+  "nFiles": 301,
+  "blank": 27077,
+  "comment": 20408,
+  "code": 108893},
+"XML" :{
+  "nFiles": 16,
+  "blank": 51,
+  "comment": 55,
+  "code": 100100},
+"Objective C++" :{
+  "nFiles": 32,
+  "blank": 5350,
+  "comment": 2092,
+  "code": 23258},
+"Assembly" :{
+  "nFiles": 6,
+  "blank": 513,
+  "comment": 319,
+  "code": 3086},
+"Glade" :{
+  "nFiles": 2,
+  "blank": 178,
+  "comment": 6,
+  "code": 2742},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 139,
+  "comment": 53,
+  "code": 2090},
+"make" :{
+  "nFiles": 31,
+  "blank": 381,
+  "comment": 357,
+  "code": 1435},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1368},
+"m4" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 34,
+  "code": 328},
+"Python" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 34,
+  "code": 179},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 11,
+  "code": 145},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 33,
+  "comment": 67,
+  "code": 121},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 7,
+  "code": 89},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 25},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 10},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 15,
+  "code": 5},
+"SUM": {
+  "blank": 105803,
+  "comment": 115847,
+  "code": 577414,
+  "nFiles": 1639} }

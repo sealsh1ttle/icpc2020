@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.1403000354767,
+  "n_files"            : 135,
+  "n_lines"            : 28813,
+  "files_per_second"   : 3.44913043276716,
+  "lines_per_second"   : 736.146630809778,
+  "report_file"        : "loc/JuliaFEM__JuliaFEM.jl.json"},
+"Julia" :{
+  "nFiles": 88,
+  "blank": 1886,
+  "comment": 1840,
+  "code": 8775},
+"Jupyter Notebook" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 10695,
+  "code": 3372},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 1617},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 61,
+  "comment": 0,
+  "code": 273},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 150},
+"Python" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 11,
+  "code": 45},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 24},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 2,
+  "code": 23},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1983,
+  "comment": 12548,
+  "code": 14282,
+  "nFiles": 135} }

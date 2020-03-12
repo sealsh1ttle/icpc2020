@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.61520004272461,
+  "n_files"            : 13,
+  "n_lines"            : 1688,
+  "files_per_second"   : 8.04853866773733,
+  "lines_per_second"   : 1045.07179008774,
+  "report_file"        : "loc/cloudflare__gokey.json"},
+"Go" :{
+  "nFiles": 10,
+  "blank": 242,
+  "comment": 67,
+  "code": 1143},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 0,
+  "code": 172},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 13},
+"SUM": {
+  "blank": 292,
+  "comment": 68,
+  "code": 1328,
+  "nFiles": 13} }

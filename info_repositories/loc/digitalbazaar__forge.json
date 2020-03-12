@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.237860918045,
+  "n_files"            : 141,
+  "n_lines"            : 55856,
+  "files_per_second"   : 4.51375337030677,
+  "lines_per_second"   : 1788.08658334649,
+  "report_file"        : "loc/digitalbazaar__forge.json"},
+"JavaScript" :{
+  "nFiles": 105,
+  "blank": 4238,
+  "comment": 12510,
+  "code": 32662},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 240,
+  "comment": 5,
+  "code": 2024},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 532,
+  "comment": 0,
+  "code": 1947},
+"ActionScript" :{
+  "nFiles": 4,
+  "blank": 89,
+  "comment": 227,
+  "code": 588},
+"C" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 148,
+  "code": 229},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 148},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 2,
+  "code": 80},
+"Python" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 35,
+  "code": 54},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 24},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 5165,
+  "comment": 12928,
+  "code": 37763,
+  "nFiles": 141} }

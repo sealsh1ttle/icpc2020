@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.0550289154053,
+  "n_files"            : 182,
+  "n_lines"            : 64503,
+  "files_per_second"   : 3.95179428362321,
+  "lines_per_second"   : 1400.56366305795,
+  "report_file"        : "loc/hubo1016__vlcp.json"},
+"Python" :{
+  "nFiles": 148,
+  "blank": 5176,
+  "comment": 12618,
+  "code": 43200},
+"reStructuredText" :{
+  "nFiles": 20,
+  "blank": 772,
+  "comment": 449,
+  "code": 1318},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 0,
+  "code": 81},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 31,
+  "code": 38},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 5,
+  "code": 29},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 2,
+  "code": 27},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 181,
+  "code": 21},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 19},
+"SUM": {
+  "blank": 6090,
+  "comment": 13297,
+  "code": 45116,
+  "nFiles": 182} }

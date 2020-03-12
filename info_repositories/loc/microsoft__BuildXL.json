@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 83.0612227916718,
+  "n_files"            : 6930,
+  "n_lines"            : 1200794,
+  "files_per_second"   : 83.4324341381457,
+  "lines_per_second"   : 14456.7339564907,
+  "report_file"        : "loc/microsoft__BuildXL.json"},
+"C#" :{
+  "nFiles": 4383,
+  "blank": 129174,
+  "comment": 178325,
+  "code": 615169},
+"TypeScript" :{
+  "nFiles": 1913,
+  "blank": 19111,
+  "comment": 41015,
+  "code": 110788},
+"C++" :{
+  "nFiles": 77,
+  "blank": 4971,
+  "comment": 3066,
+  "code": 25150},
+"C" :{
+  "nFiles": 64,
+  "blank": 1444,
+  "comment": 633,
+  "code": 18121},
+"C/C++ Header" :{
+  "nFiles": 122,
+  "blank": 3291,
+  "comment": 6907,
+  "code": 10857},
+"JSON" :{
+  "nFiles": 44,
+  "blank": 20,
+  "comment": 0,
+  "code": 9315},
+"Markdown" :{
+  "nFiles": 80,
+  "blank": 1373,
+  "comment": 0,
+  "code": 4647},
+"XML" :{
+  "nFiles": 65,
+  "blank": 78,
+  "comment": 205,
+  "code": 4527},
+"DOS Batch" :{
+  "nFiles": 75,
+  "blank": 571,
+  "comment": 284,
+  "code": 2893},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 359,
+  "comment": 163,
+  "code": 1574},
+"Protocol Buffers" :{
+  "nFiles": 39,
+  "blank": 698,
+  "comment": 682,
+  "code": 1402},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 219,
+  "comment": 0,
+  "code": 1047},
+"PowerShell" :{
+  "nFiles": 12,
+  "blank": 319,
+  "comment": 217,
+  "code": 822},
+"MSBuild script" :{
+  "nFiles": 10,
+  "blank": 12,
+  "comment": 0,
+  "code": 609},
+"Lua" :{
+  "nFiles": 8,
+  "blank": 52,
+  "comment": 39,
+  "code": 196},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 10,
+  "code": 108},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 12,
+  "code": 107},
+"XAML" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 0,
+  "code": 48},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 36},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 161778,
+  "comment": 231558,
+  "code": 807458,
+  "nFiles": 6930} }

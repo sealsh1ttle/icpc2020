@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.76686000823975,
+  "n_files"            : 23,
+  "n_lines"            : 10825,
+  "files_per_second"   : 4.82497911838053,
+  "lines_per_second"   : 2270.88691115083,
+  "report_file"        : "loc/ironhack-labs__lab-angular-access-control.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 10400},
+"TypeScript" :{
+  "nFiles": 10,
+  "blank": 35,
+  "comment": 62,
+  "code": 113},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 0,
+  "code": 76},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 5,
+  "code": 65},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 16},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 87,
+  "comment": 68,
+  "code": 10670,
+  "nFiles": 23} }

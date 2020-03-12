@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.567301034927368,
+  "n_files"            : 88,
+  "n_lines"            : 6520,
+  "files_per_second"   : 155.120464413161,
+  "lines_per_second"   : 11493.0162269751,
+  "report_file"        : "loc/MingDai__HookCatcher.json"},
+"Python" :{
+  "nFiles": 40,
+  "blank": 588,
+  "comment": 534,
+  "code": 2208},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 102,
+  "comment": 59,
+  "code": 794},
+"YAML" :{
+  "nFiles": 22,
+  "blank": 30,
+  "comment": 114,
+  "code": 671},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 163,
+  "comment": 0,
+  "code": 422},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 82,
+  "comment": 11,
+  "code": 358},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 39,
+  "code": 172},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 68},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 1,
+  "code": 27},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1027,
+  "comment": 758,
+  "code": 4735,
+  "nFiles": 88} }

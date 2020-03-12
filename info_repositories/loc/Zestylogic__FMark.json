@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.574732065200806,
+  "n_files"            : 66,
+  "n_lines"            : 25397,
+  "files_per_second"   : 114.836119291413,
+  "lines_per_second"   : 44189.2866915761,
+  "report_file"        : "loc/Zestylogic__FMark.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 1621,
+  "comment": 652,
+  "code": 10610},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 4758},
+"F#" :{
+  "nFiles": 37,
+  "blank": 563,
+  "comment": 500,
+  "code": 4531},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 376,
+  "comment": 0,
+  "code": 1124},
+"XML" :{
+  "nFiles": 10,
+  "blank": 67,
+  "comment": 34,
+  "code": 445},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 84},
+"F# Script" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 2643,
+  "comment": 1188,
+  "code": 21566,
+  "nFiles": 66} }

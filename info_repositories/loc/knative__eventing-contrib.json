@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.6795489788055,
+  "n_files"            : 4999,
+  "n_lines"            : 1503700,
+  "files_per_second"   : 74.9705130967361,
+  "lines_per_second"   : 22551.1423371799,
+  "report_file"        : "loc/knative__eventing-contrib.json"},
+"Go" :{
+  "nFiles": 4733,
+  "blank": 116731,
+  "comment": 186932,
+  "code": 1124028},
+"C" :{
+  "nFiles": 34,
+  "blank": 6530,
+  "comment": 7801,
+  "code": 31039},
+"YAML" :{
+  "nFiles": 84,
+  "blank": 245,
+  "comment": 1240,
+  "code": 7617},
+"Assembly" :{
+  "nFiles": 40,
+  "blank": 1028,
+  "comment": 1549,
+  "code": 4985},
+"C/C++ Header" :{
+  "nFiles": 31,
+  "blank": 1156,
+  "comment": 2932,
+  "code": 3388},
+"Markdown" :{
+  "nFiles": 49,
+  "blank": 754,
+  "comment": 0,
+  "code": 2187},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 378,
+  "comment": 724,
+  "code": 2004},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 26,
+  "code": 163},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 116},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 47,
+  "code": 22},
+"diff" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 7,
+  "code": 10},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 126875,
+  "comment": 201258,
+  "code": 1175567,
+  "nFiles": 4999} }

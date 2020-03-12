@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.4922561645508,
+  "n_files"            : 131,
+  "n_lines"            : 16040,
+  "files_per_second"   : 4.94484120892998,
+  "lines_per_second"   : 605.459946497991,
+  "report_file"        : "loc/bcit-datacomm__4981_Linux_Game.json"},
+"C++" :{
+  "nFiles": 60,
+  "blank": 1149,
+  "comment": 4537,
+  "code": 5565},
+"C/C++ Header" :{
+  "nFiles": 67,
+  "blank": 810,
+  "comment": 1142,
+  "code": 2689},
+"make" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 18,
+  "code": 51},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 12},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1989,
+  "comment": 5697,
+  "code": 8354,
+  "nFiles": 131} }

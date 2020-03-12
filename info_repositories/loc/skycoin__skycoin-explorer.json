@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.7951200008392,
+  "n_files"            : 188,
+  "n_lines"            : 27414,
+  "files_per_second"   : 4.72419733866955,
+  "lines_per_second"   : 688.878435331314,
+  "report_file"        : "loc/skycoin__skycoin-explorer.json"},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 13550},
+"SVG" :{
+  "nFiles": 20,
+  "blank": 0,
+  "comment": 14,
+  "code": 3231},
+"TypeScript" :{
+  "nFiles": 81,
+  "blank": 628,
+  "comment": 966,
+  "code": 3151},
+"Go" :{
+  "nFiles": 5,
+  "blank": 229,
+  "comment": 146,
+  "code": 1837},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 250,
+  "comment": 3,
+  "code": 1193},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 316,
+  "comment": 0,
+  "code": 713},
+"HTML" :{
+  "nFiles": 21,
+  "blank": 28,
+  "comment": 81,
+  "code": 501},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 40,
+  "comment": 60,
+  "code": 233},
+"make" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 57},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 1,
+  "code": 32},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 10,
+  "code": 21},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 6,
+  "code": 18},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 3},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 16,
+  "code": 2},
+"SUM": {
+  "blank": 1536,
+  "comment": 1323,
+  "code": 24555,
+  "nFiles": 188} }

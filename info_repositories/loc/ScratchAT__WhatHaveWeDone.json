@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0748529434204102,
+  "n_files"            : 4,
+  "n_lines"            : 272,
+  "files_per_second"   : 53.4381123469531,
+  "lines_per_second"   : 3633.79163959281,
+  "report_file"        : "loc/ScratchAT__WhatHaveWeDone.json"},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 0,
+  "code": 197},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 10,
+  "code": 25},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 38,
+  "comment": 10,
+  "code": 224,
+  "nFiles": 4} }

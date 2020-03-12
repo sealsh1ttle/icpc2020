@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.612329959869385,
+  "n_files"            : 3,
+  "n_lines"            : 518,
+  "files_per_second"   : 4.89931931574919,
+  "lines_per_second"   : 845.949135186026,
+  "report_file"        : "loc/Shmoopty__rpi-appliance-monitor.json"},
+"Python" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 2,
+  "code": 247},
+"INI" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 77},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 55,
+  "comment": 0,
+  "code": 72},
+"SUM": {
+  "blank": 120,
+  "comment": 2,
+  "code": 396,
+  "nFiles": 3} }

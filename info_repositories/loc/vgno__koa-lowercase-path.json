@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.780892848968506,
+  "n_files"            : 5,
+  "n_lines"            : 282,
+  "files_per_second"   : 6.40292711939235,
+  "lines_per_second"   : 361.125089533728,
+  "report_file"        : "loc/vgno__koa-lowercase-path.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 3,
+  "code": 150},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 34},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 55,
+  "comment": 3,
+  "code": 224,
+  "nFiles": 5} }

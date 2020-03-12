@@ -1,0 +1,244 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 236.533228158951,
+  "n_files"            : 1016,
+  "n_lines"            : 387433,
+  "files_per_second"   : 4.29537958750238,
+  "lines_per_second"   : 1637.96436980788,
+  "report_file"        : "loc/HaliteChallenge__Halite-II.json"},
+"JSON" :{
+  "nFiles": 25,
+  "blank": 10,
+  "comment": 0,
+  "code": 142549},
+"JavaScript" :{
+  "nFiles": 82,
+  "blank": 6480,
+  "comment": 20309,
+  "code": 75162},
+"C" :{
+  "nFiles": 27,
+  "blank": 6240,
+  "comment": 7733,
+  "code": 27959},
+"C/C++ Header" :{
+  "nFiles": 79,
+  "blank": 4472,
+  "comment": 8882,
+  "code": 14329},
+"Sass" :{
+  "nFiles": 125,
+  "blank": 1744,
+  "comment": 2309,
+  "code": 12388},
+"Python" :{
+  "nFiles": 100,
+  "blank": 2058,
+  "comment": 1934,
+  "code": 8468},
+"SVG" :{
+  "nFiles": 45,
+  "blank": 2,
+  "comment": 38,
+  "code": 6769},
+"Vuejs Component" :{
+  "nFiles": 25,
+  "blank": 330,
+  "comment": 244,
+  "code": 4671},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 80,
+  "comment": 5,
+  "code": 4161},
+"C++" :{
+  "nFiles": 18,
+  "blank": 573,
+  "comment": 234,
+  "code": 3186},
+"Markdown" :{
+  "nFiles": 69,
+  "blank": 1241,
+  "comment": 0,
+  "code": 2807},
+"Ruby" :{
+  "nFiles": 60,
+  "blank": 379,
+  "comment": 487,
+  "code": 1823},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 119,
+  "comment": 38,
+  "code": 1184},
+"PHP" :{
+  "nFiles": 13,
+  "blank": 194,
+  "comment": 181,
+  "code": 805},
+"C#" :{
+  "nFiles": 20,
+  "blank": 178,
+  "comment": 59,
+  "code": 780},
+"Java" :{
+  "nFiles": 19,
+  "blank": 196,
+  "comment": 42,
+  "code": 701},
+"OCaml" :{
+  "nFiles": 12,
+  "blank": 128,
+  "comment": 49,
+  "code": 700},
+"Bourne Shell" :{
+  "nFiles": 50,
+  "blank": 198,
+  "comment": 115,
+  "code": 617},
+"Swift" :{
+  "nFiles": 16,
+  "blank": 186,
+  "comment": 111,
+  "code": 589},
+"Rust" :{
+  "nFiles": 16,
+  "blank": 95,
+  "comment": 67,
+  "code": 564},
+"Scala" :{
+  "nFiles": 20,
+  "blank": 125,
+  "comment": 77,
+  "code": 503},
+"Lisp" :{
+  "nFiles": 8,
+  "blank": 120,
+  "comment": 82,
+  "code": 465},
+"make" :{
+  "nFiles": 6,
+  "blank": 150,
+  "comment": 53,
+  "code": 455},
+"Go" :{
+  "nFiles": 6,
+  "blank": 88,
+  "comment": 44,
+  "code": 437},
+"Elixir" :{
+  "nFiles": 16,
+  "blank": 99,
+  "comment": 157,
+  "code": 428},
+"Clojure" :{
+  "nFiles": 9,
+  "blank": 60,
+  "comment": 13,
+  "code": 420},
+"Kotlin" :{
+  "nFiles": 15,
+  "blank": 131,
+  "comment": 41,
+  "code": 415},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 81,
+  "code": 407},
+"Dart" :{
+  "nFiles": 14,
+  "blank": 127,
+  "comment": 29,
+  "code": 392},
+"F#" :{
+  "nFiles": 2,
+  "blank": 123,
+  "comment": 70,
+  "code": 389},
+"Julia" :{
+  "nFiles": 8,
+  "blank": 51,
+  "comment": 68,
+  "code": 337},
+"reStructuredText" :{
+  "nFiles": 24,
+  "blank": 306,
+  "comment": 330,
+  "code": 325},
+"Haskell" :{
+  "nFiles": 6,
+  "blank": 88,
+  "comment": 72,
+  "code": 316},
+"Cython" :{
+  "nFiles": 5,
+  "blank": 93,
+  "comment": 203,
+  "code": 218},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 40,
+  "comment": 65,
+  "code": 208},
+"DOS Batch" :{
+  "nFiles": 23,
+  "blank": 26,
+  "comment": 3,
+  "code": 180},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 88},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 82},
+"INI" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 78},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 67},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 5,
+  "code": 52},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 33},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 18},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 26650,
+  "comment": 44230,
+  "code": 316553,
+  "nFiles": 1016} }

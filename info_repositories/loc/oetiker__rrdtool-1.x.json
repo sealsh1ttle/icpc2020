@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.70326685905457,
+  "n_files"            : 192,
+  "n_lines"            : 108243,
+  "files_per_second"   : 71.0251743577952,
+  "lines_per_second"   : 40041.5518125564,
+  "report_file"        : "loc/oetiker__rrdtool-1.x.json"},
+"C" :{
+  "nFiles": 60,
+  "blank": 5272,
+  "comment": 4860,
+  "code": 35642},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 5541,
+  "comment": 5687,
+  "code": 34969},
+"C/C++ Header" :{
+  "nFiles": 35,
+  "blank": 756,
+  "comment": 1189,
+  "code": 3008},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 7,
+  "code": 1588},
+"m4" :{
+  "nFiles": 3,
+  "blank": 265,
+  "comment": 188,
+  "code": 1556},
+"Bourne Again Shell" :{
+  "nFiles": 26,
+  "blank": 393,
+  "comment": 116,
+  "code": 1340},
+"PO File" :{
+  "nFiles": 2,
+  "blank": 62,
+  "comment": 73,
+  "code": 921},
+"C#" :{
+  "nFiles": 4,
+  "blank": 64,
+  "comment": 232,
+  "code": 650},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 261,
+  "comment": 283,
+  "code": 602},
+"make" :{
+  "nFiles": 10,
+  "blank": 134,
+  "comment": 48,
+  "code": 481},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 14,
+  "code": 280},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 68,
+  "code": 196},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 64,
+  "code": 193},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 41,
+  "code": 162},
+"Python" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 8,
+  "code": 142},
+"Windows Resource File" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 140},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 135},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 54,
+  "comment": 0,
+  "code": 127},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 97},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 6,
+  "code": 71},
+"DTD" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 22,
+  "code": 38},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 34},
+"awk" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 9,
+  "code": 30},
+"SUM": {
+  "blank": 12918,
+  "comment": 12923,
+  "code": 82402,
+  "nFiles": 192} }

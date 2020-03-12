@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.457005023956299,
+  "n_files"            : 39,
+  "n_lines"            : 2489,
+  "files_per_second"   : 85.3382303379872,
+  "lines_per_second"   : 5446.32962336539,
+  "report_file"        : "loc/Prospector__ModMenu.json"},
+"Java" :{
+  "nFiles": 20,
+  "blank": 231,
+  "comment": 29,
+  "code": 1576},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 1,
+  "comment": 0,
+  "code": 268},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 82},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 295,
+  "comment": 52,
+  "code": 2142,
+  "nFiles": 39} }

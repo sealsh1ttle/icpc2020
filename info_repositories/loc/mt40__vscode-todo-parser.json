@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.916100978851318,
+  "n_files"            : 82,
+  "n_lines"            : 3991,
+  "files_per_second"   : 89.5097831931347,
+  "lines_per_second"   : 4356.50664297318,
+  "report_file"        : "loc/mt40__vscode-todo-parser.json"},
+"TypeScript" :{
+  "nFiles": 42,
+  "blank": 320,
+  "comment": 292,
+  "code": 1838},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 73,
+  "code": 279},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 85,
+  "comment": 0,
+  "code": 231},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 0,
+  "code": 179},
+"C#" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 4,
+  "code": 109},
+"Java" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 42,
+  "code": 63},
+"C++" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 20,
+  "code": 35},
+"Python" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 14,
+  "code": 34},
+"Elixir" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 14,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 22},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 20},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"Go" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 12},
+"C" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 9},
+"F#" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 7,
+  "code": 8},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"R" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 10,
+  "code": 6},
+"Haskell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 5},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 8,
+  "code": 5},
+"MATLAB" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 5},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 3},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 551,
+  "comment": 501,
+  "code": 2939,
+  "nFiles": 82} }

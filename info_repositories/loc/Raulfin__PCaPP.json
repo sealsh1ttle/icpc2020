@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.308008193969727,
+  "n_files"            : 11,
+  "n_lines"            : 66345,
+  "files_per_second"   : 35.7133356039261,
+  "lines_per_second"   : 215400.11369477,
+  "report_file"        : "loc/Raulfin__PCaPP.json"},
+"XML" :{
+  "nFiles": 10,
+  "blank": 488,
+  "comment": 2564,
+  "code": 63271},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 497,
+  "comment": 2564,
+  "code": 63284,
+  "nFiles": 11} }

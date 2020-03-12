@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.35200810432434,
+  "n_files"            : 430,
+  "n_lines"            : 55297,
+  "files_per_second"   : 128.281312758543,
+  "lines_per_second"   : 16496.6784921142,
+  "report_file"        : "loc/Cloud-CV__EvalAI.json"},
+"Python" :{
+  "nFiles": 209,
+  "blank": 3678,
+  "comment": 1641,
+  "code": 21600},
+"JavaScript" :{
+  "nFiles": 50,
+  "blank": 1485,
+  "comment": 441,
+  "code": 10990},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 345,
+  "comment": 101,
+  "code": 4365},
+"HTML" :{
+  "nFiles": 83,
+  "blank": 77,
+  "comment": 91,
+  "code": 4149},
+"Sass" :{
+  "nFiles": 27,
+  "blank": 510,
+  "comment": 4,
+  "code": 2617},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 554,
+  "comment": 0,
+  "code": 899},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 22,
+  "comment": 7,
+  "code": 339},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 29,
+  "comment": 8,
+  "code": 309},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 2,
+  "code": 243},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 5,
+  "code": 190},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 188},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 49,
+  "comment": 7,
+  "code": 109},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 25,
+  "code": 77},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"INI" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 6846,
+  "comment": 2332,
+  "code": 46119,
+  "nFiles": 430} }

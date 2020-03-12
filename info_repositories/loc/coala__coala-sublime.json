@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.116714000701904,
+  "n_files"            : 9,
+  "n_lines"            : 326,
+  "files_per_second"   : 77.111571412813,
+  "lines_per_second"   : 2793.15247561967,
+  "report_file"        : "loc/coala__coala-sublime.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 49,
+  "comment": 43,
+  "code": 172},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 32},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 61,
+  "comment": 43,
+  "code": 222,
+  "nFiles": 9} }

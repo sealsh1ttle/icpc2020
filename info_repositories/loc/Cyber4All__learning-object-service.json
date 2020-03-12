@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.72797012329102,
+  "n_files"            : 347,
+  "n_lines"            : 44372,
+  "files_per_second"   : 127.200806576789,
+  "lines_per_second"   : 16265.5740329259,
+  "report_file"        : "loc/Cyber4All__learning-object-service.json"},
+"TypeScript" :{
+  "nFiles": 317,
+  "blank": 1545,
+  "comment": 5123,
+  "code": 19252},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 16554},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 96,
+  "comment": 42,
+  "code": 1282},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 70,
+  "comment": 0,
+  "code": 199},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 117},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 13,
+  "code": 48},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 6},
+"SUM": {
+  "blank": 1734,
+  "comment": 5180,
+  "code": 37458,
+  "nFiles": 347} }

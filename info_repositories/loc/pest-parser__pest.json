@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.0905029773712,
+  "n_files"            : 78,
+  "n_lines"            : 24284,
+  "files_per_second"   : 2.43062566065113,
+  "lines_per_second"   : 756.734789016052,
+  "report_file"        : "loc/pest-parser__pest.json"},
+"Rust" :{
+  "nFiles": 55,
+  "blank": 1448,
+  "comment": 2247,
+  "code": 19531},
+"TOML" :{
+  "nFiles": 13,
+  "blank": 111,
+  "comment": 61,
+  "code": 295},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 75,
+  "comment": 0,
+  "code": 198},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 147},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 91},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 60},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 1644,
+  "comment": 2308,
+  "code": 20332,
+  "nFiles": 78} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.112002849578857,
+  "n_files"            : 8,
+  "n_lines"            : 1547,
+  "files_per_second"   : 71.4267541413531,
+  "lines_per_second"   : 13812.1485820842,
+  "report_file"        : "loc/chausner__gimp-jxr.json"},
+"C" :{
+  "nFiles": 4,
+  "blank": 249,
+  "comment": 47,
+  "code": 1143},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 39},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 36},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 272,
+  "comment": 47,
+  "code": 1228,
+  "nFiles": 8} }

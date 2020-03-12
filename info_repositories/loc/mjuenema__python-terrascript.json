@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 122.606290102005,
+  "n_files"            : 509,
+  "n_lines"            : 23747,
+  "files_per_second"   : 4.15149989104577,
+  "lines_per_second"   : 193.685005722326,
+  "report_file"        : "loc/mjuenema__python-terrascript.json"},
+"Python" :{
+  "nFiles": 450,
+  "blank": 6400,
+  "comment": 1156,
+  "code": 13864},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 163,
+  "comment": 0,
+  "code": 774},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 494},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 212,
+  "comment": 289,
+  "code": 240},
+"make" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 7,
+  "code": 37},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 3,
+  "code": 27},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 6806,
+  "comment": 1456,
+  "code": 15485,
+  "nFiles": 509} }

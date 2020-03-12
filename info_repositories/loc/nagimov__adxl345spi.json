@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0816559791564941,
+  "n_files"            : 2,
+  "n_lines"            : 388,
+  "files_per_second"   : 24.4930012555111,
+  "lines_per_second"   : 4751.64224356916,
+  "report_file"        : "loc/nagimov__adxl345spi.json"},
+"C" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 17,
+  "code": 256},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 68},
+"SUM": {
+  "blank": 47,
+  "comment": 17,
+  "code": 324,
+  "nFiles": 2} }

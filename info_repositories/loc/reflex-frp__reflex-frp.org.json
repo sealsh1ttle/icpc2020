@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.4971017837524,
+  "n_files"            : 44,
+  "n_lines"            : 7590,
+  "files_per_second"   : 3.25995911603529,
+  "lines_per_second"   : 562.342947516088,
+  "report_file"        : "loc/reflex-frp__reflex-frp.org.json"},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 4298},
+"Haskell" :{
+  "nFiles": 16,
+  "blank": 94,
+  "comment": 44,
+  "code": 714},
+"reStructuredText" :{
+  "nFiles": 9,
+  "blank": 344,
+  "comment": 118,
+  "code": 539},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 94,
+  "comment": 140,
+  "code": 338},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 6,
+  "code": 181},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 0,
+  "code": 46},
+"Python" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 179,
+  "code": 37},
+"Nix" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 18},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 693,
+  "comment": 490,
+  "code": 6407,
+  "nFiles": 44} }

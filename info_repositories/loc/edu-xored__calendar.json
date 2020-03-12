@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.3049709796906,
+  "n_files"            : 81,
+  "n_lines"            : 44843,
+  "files_per_second"   : 3.47565333038126,
+  "lines_per_second"   : 1924.18175671959,
+  "report_file"        : "loc/edu-xored__calendar.json"},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6535,
+  "comment": 3674,
+  "code": 22457},
+"TypeScript" :{
+  "nFiles": 55,
+  "blank": 884,
+  "comment": 1347,
+  "code": 5010},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 3,
+  "code": 3702},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 0,
+  "code": 342},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 305},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 35,
+  "comment": 5,
+  "code": 183},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 20,
+  "comment": 39,
+  "code": 135},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 0,
+  "code": 99},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 7533,
+  "comment": 5068,
+  "code": 32242,
+  "nFiles": 81} }

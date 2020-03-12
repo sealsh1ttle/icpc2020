@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.3172240257263,
+  "n_files"            : 149,
+  "n_lines"            : 12803,
+  "files_per_second"   : 3.2169458151732,
+  "lines_per_second"   : 276.419847460822,
+  "report_file"        : "loc/girder__girder_worker.json"},
+"Python" :{
+  "nFiles": 73,
+  "blank": 1684,
+  "comment": 1273,
+  "code": 5314},
+"YAML" :{
+  "nFiles": 28,
+  "blank": 138,
+  "comment": 16,
+  "code": 908},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 303,
+  "comment": 0,
+  "code": 694},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 298,
+  "comment": 182,
+  "code": 530},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 1,
+  "code": 278},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 27,
+  "comment": 37,
+  "code": 206},
+"make" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 14,
+  "code": 178},
+"Pug" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 124},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 119},
+"INI" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 102},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 64},
+"Stylus" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 57},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 7,
+  "code": 46},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 35},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2609,
+  "comment": 1530,
+  "code": 8664,
+  "nFiles": 149} }

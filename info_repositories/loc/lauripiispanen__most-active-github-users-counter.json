@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.124075889587402,
+  "n_files"            : 9,
+  "n_lines"            : 780,
+  "files_per_second"   : 72.5362520464555,
+  "lines_per_second"   : 6286.47517735948,
+  "report_file"        : "loc/lauripiispanen__most-active-github-users-counter.json"},
+"Go" :{
+  "nFiles": 6,
+  "blank": 104,
+  "comment": 0,
+  "code": 621},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 113,
+  "comment": 0,
+  "code": 667,
+  "nFiles": 9} }

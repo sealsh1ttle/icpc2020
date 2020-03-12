@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.272317886352539,
+  "n_files"            : 23,
+  "n_lines"            : 4816,
+  "files_per_second"   : 84.4601150077396,
+  "lines_per_second"   : 17685.213646838,
+  "report_file"        : "loc/kamranahmedse__driver.js.json"},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 284,
+  "comment": 551,
+  "code": 1495},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 80,
+  "comment": 2,
+  "code": 466},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 376},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 83,
+  "comment": 0,
+  "code": 306},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 141,
+  "comment": 521,
+  "code": 207},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 195},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 72},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 622,
+  "comment": 1076,
+  "code": 3118,
+  "nFiles": 23} }

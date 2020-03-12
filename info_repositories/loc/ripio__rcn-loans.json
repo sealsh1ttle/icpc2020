@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.37790107727051,
+  "n_files"            : 235,
+  "n_lines"            : 14637,
+  "files_per_second"   : 170.549253409042,
+  "lines_per_second"   : 10622.6783921198,
+  "report_file"        : "loc/ripio__rcn-loans.json"},
+"TypeScript" :{
+  "nFiles": 110,
+  "blank": 742,
+  "comment": 210,
+  "code": 5628},
+"Sass" :{
+  "nFiles": 48,
+  "blank": 237,
+  "comment": 126,
+  "code": 3573},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 1,
+  "comment": 0,
+  "code": 2088},
+"HTML" :{
+  "nFiles": 50,
+  "blank": 57,
+  "comment": 22,
+  "code": 1007},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 1,
+  "code": 430},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 43,
+  "code": 187},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 0,
+  "code": 113},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 4,
+  "code": 87},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1111,
+  "comment": 406,
+  "code": 13120,
+  "nFiles": 235} }

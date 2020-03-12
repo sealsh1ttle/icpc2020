@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2589.01497912407,
+  "n_files"            : 7988,
+  "n_lines"            : 963589,
+  "files_per_second"   : 3.08534329249132,
+  "lines_per_second"   : 372.183632682576,
+  "report_file"        : "loc/microsoft__Windows-universal-samples.json"},
+"C#" :{
+  "nFiles": 1515,
+  "blank": 27033,
+  "comment": 46515,
+  "code": 138588},
+"C++" :{
+  "nFiles": 1150,
+  "blank": 27268,
+  "comment": 33745,
+  "code": 137046},
+"JavaScript" :{
+  "nFiles": 667,
+  "blank": 19070,
+  "comment": 25604,
+  "code": 106380},
+"XML" :{
+  "nFiles": 602,
+  "blank": 411,
+  "comment": 1622,
+  "code": 90659},
+"XAML" :{
+  "nFiles": 1155,
+  "blank": 4554,
+  "comment": 12363,
+  "code": 60838},
+"MSBuild script" :{
+  "nFiles": 290,
+  "blank": 4,
+  "comment": 2144,
+  "code": 55965},
+"C/C++ Header" :{
+  "nFiles": 1284,
+  "blank": 11283,
+  "comment": 16463,
+  "code": 44499},
+"Markdown" :{
+  "nFiles": 379,
+  "blank": 10433,
+  "comment": 0,
+  "code": 22941},
+"CSS" :{
+  "nFiles": 115,
+  "blank": 582,
+  "comment": 887,
+  "code": 17090},
+"HTML" :{
+  "nFiles": 505,
+  "blank": 2147,
+  "comment": 2162,
+  "code": 16968},
+"Visual Basic" :{
+  "nFiles": 189,
+  "blank": 2683,
+  "comment": 5337,
+  "code": 13131},
+"HLSL" :{
+  "nFiles": 74,
+  "blank": 585,
+  "comment": 1274,
+  "code": 2115},
+"IDL" :{
+  "nFiles": 17,
+  "blank": 100,
+  "comment": 0,
+  "code": 679},
+"ASP.NET" :{
+  "nFiles": 8,
+  "blank": 112,
+  "comment": 0,
+  "code": 614},
+"PowerShell" :{
+  "nFiles": 11,
+  "blank": 128,
+  "comment": 165,
+  "code": 542},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 6,
+  "comment": 0,
+  "code": 264},
+"ASP" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 181},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 50,
+  "code": 102},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 13,
+  "code": 98},
+"Razor" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 0,
+  "code": 43},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 33},
+"Windows Module Definition" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 106456,
+  "comment": 148344,
+  "code": 708789,
+  "nFiles": 7988} }

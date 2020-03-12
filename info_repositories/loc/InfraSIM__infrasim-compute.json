@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.37425208091736,
+  "n_files"            : 161,
+  "n_lines"            : 30548,
+  "files_per_second"   : 117.154634317546,
+  "lines_per_second"   : 22228.8184418162,
+  "report_file"        : "loc/InfraSIM__infrasim-compute.json"},
+"Python" :{
+  "nFiles": 150,
+  "blank": 4689,
+  "comment": 2955,
+  "code": 21916},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 75,
+  "comment": 72,
+  "code": 455},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 71,
+  "comment": 4,
+  "code": 85},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 68},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 59,
+  "code": 37},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 4,
+  "code": 30},
+"SUM": {
+  "blank": 4863,
+  "comment": 3094,
+  "code": 22591,
+  "nFiles": 161} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.9776349067688,
+  "n_files"            : 103,
+  "n_lines"            : 14309,
+  "files_per_second"   : 3.43589480358716,
+  "lines_per_second"   : 477.322512082803,
+  "report_file"        : "loc/dotnet__codeformatter.json"},
+"C#" :{
+  "nFiles": 86,
+  "blank": 1915,
+  "comment": 935,
+  "code": 10974},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 78,
+  "comment": 0,
+  "code": 183},
+"MSBuild script" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 114},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 26},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 21},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 19},
+"SUM": {
+  "blank": 2012,
+  "comment": 941,
+  "code": 11356,
+  "nFiles": 103} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.4523589611053,
+  "n_files"            : 57,
+  "n_lines"            : 14984,
+  "files_per_second"   : 4.57744594241446,
+  "lines_per_second"   : 1203.30614037085,
+  "report_file"        : "loc/Xenon-Labs__website.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 11195},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 352,
+  "comment": 115,
+  "code": 1133},
+"TypeScript" :{
+  "nFiles": 23,
+  "blank": 138,
+  "comment": 126,
+  "code": 655},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 131,
+  "comment": 23,
+  "code": 595},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 44,
+  "comment": 5,
+  "code": 256},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 14,
+  "comment": 8,
+  "code": 163},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 23},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 684,
+  "comment": 277,
+  "code": 14023,
+  "nFiles": 57} }

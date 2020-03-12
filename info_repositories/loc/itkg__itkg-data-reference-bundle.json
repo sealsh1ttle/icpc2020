@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.2512531280518,
+  "n_files"            : 64,
+  "n_lines"            : 3456,
+  "files_per_second"   : 3.01158711038643,
+  "lines_per_second"   : 162.625703960867,
+  "report_file"        : "loc/itkg__itkg-data-reference-bundle.json"},
+"PHP" :{
+  "nFiles": 43,
+  "blank": 426,
+  "comment": 948,
+  "code": 1578},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 33,
+  "comment": 5,
+  "code": 270},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 61},
+"Twig" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 34},
+"XML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 29},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 10},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 485,
+  "comment": 955,
+  "code": 2016,
+  "nFiles": 64} }

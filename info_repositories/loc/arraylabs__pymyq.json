@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.83120012283325,
+  "n_files"            : 9,
+  "n_lines"            : 866,
+  "files_per_second"   : 4.91480963100587,
+  "lines_per_second"   : 472.913904494565,
+  "report_file"        : "loc/arraylabs__pymyq.json"},
+"Python" :{
+  "nFiles": 7,
+  "blank": 137,
+  "comment": 104,
+  "code": 520},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 61},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 167,
+  "comment": 104,
+  "code": 595,
+  "nFiles": 9} }

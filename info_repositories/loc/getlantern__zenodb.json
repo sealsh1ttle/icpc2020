@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.9280121326447,
+  "n_files"            : 102,
+  "n_lines"            : 20523,
+  "files_per_second"   : 5.3888384731159,
+  "lines_per_second"   : 1084.26599984076,
+  "report_file"        : "loc/getlantern__zenodb.json"},
+"Go" :{
+  "nFiles": 96,
+  "blank": 2264,
+  "comment": 970,
+  "code": 16647},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 126,
+  "comment": 0,
+  "code": 406},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 79},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2401,
+  "comment": 970,
+  "code": 17152,
+  "nFiles": 102} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 78.2999579906464,
+  "n_files"            : 153,
+  "n_lines"            : 184184,
+  "files_per_second"   : 1.95402403687467,
+  "lines_per_second"   : 2352.28734122696,
+  "report_file"        : "loc/smart-on-fhir__smart-launcher.json"},
+"JavaScript" :{
+  "nFiles": 115,
+  "blank": 7420,
+  "comment": 16146,
+  "code": 125325},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 14499},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 628,
+  "comment": 469,
+  "code": 10414},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 198,
+  "comment": 22,
+  "code": 2375},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 353,
+  "comment": 3214,
+  "code": 2249},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 110,
+  "comment": 0,
+  "code": 380},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 308},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 7,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 12,
+  "code": 18},
+"SUM": {
+  "blank": 8728,
+  "comment": 19870,
+  "code": 155586,
+  "nFiles": 153} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.358206033706665,
+  "n_files"            : 28,
+  "n_lines"            : 10679,
+  "files_per_second"   : 78.167304191557,
+  "lines_per_second"   : 29812.4514807728,
+  "report_file"        : "loc/lybros__giscoin-frontend.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 10025},
+"TypeScript" :{
+  "nFiles": 14,
+  "blank": 54,
+  "comment": 65,
+  "code": 431},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 0,
+  "code": 64},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 69,
+  "comment": 66,
+  "code": 10544,
+  "nFiles": 28} }

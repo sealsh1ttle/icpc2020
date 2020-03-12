@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 637.915033102036,
+  "n_files"            : 1433,
+  "n_lines"            : 303319,
+  "files_per_second"   : 2.24638067084208,
+  "lines_per_second"   : 475.484953732833,
+  "report_file"        : "loc/ox-it__wl-reference.json"},
+"JavaScript" :{
+  "nFiles": 805,
+  "blank": 16615,
+  "comment": 23050,
+  "code": 99538},
+"CSS" :{
+  "nFiles": 194,
+  "blank": 4403,
+  "comment": 6862,
+  "code": 64435},
+"HTML" :{
+  "nFiles": 187,
+  "blank": 3323,
+  "comment": 2393,
+  "code": 24898},
+"SQL" :{
+  "nFiles": 64,
+  "blank": 2728,
+  "comment": 3253,
+  "code": 18944},
+"XML" :{
+  "nFiles": 26,
+  "blank": 316,
+  "comment": 190,
+  "code": 11700},
+"Sass" :{
+  "nFiles": 52,
+  "blank": 251,
+  "comment": 378,
+  "code": 5529},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 438,
+  "comment": 0,
+  "code": 1783},
+"ColdFusion CFScript" :{
+  "nFiles": 3,
+  "blank": 236,
+  "comment": 42,
+  "code": 1547},
+"ColdFusion" :{
+  "nFiles": 14,
+  "blank": 312,
+  "comment": 454,
+  "code": 1394},
+"PHP" :{
+  "nFiles": 14,
+  "blank": 308,
+  "comment": 620,
+  "code": 1205},
+"Perl" :{
+  "nFiles": 11,
+  "blank": 218,
+  "comment": 461,
+  "code": 1099},
+"ASP" :{
+  "nFiles": 10,
+  "blank": 261,
+  "comment": 314,
+  "code": 969},
+"Python" :{
+  "nFiles": 10,
+  "blank": 210,
+  "comment": 364,
+  "code": 728},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 640},
+"Stylus" :{
+  "nFiles": 2,
+  "blank": 70,
+  "comment": 52,
+  "code": 224},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 1,
+  "code": 165},
+"ASP.NET" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 4,
+  "code": 145},
+"Java" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 12,
+  "code": 37},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 3,
+  "code": 37},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 27},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 7,
+  "code": 15},
+"Velocity Template Language" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 13,
+  "code": 10},
+"SUM": {
+  "blank": 29766,
+  "comment": 38473,
+  "code": 235080,
+  "nFiles": 1433} }

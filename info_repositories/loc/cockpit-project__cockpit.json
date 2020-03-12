@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.4226250648499,
+  "n_files"            : 1051,
+  "n_lines"            : 383815,
+  "files_per_second"   : 100.838319853266,
+  "lines_per_second"   : 36825.1757702011,
+  "report_file"        : "loc/cockpit-project__cockpit.json"},
+"PO File" :{
+  "nFiles": 19,
+  "blank": 31715,
+  "comment": 39227,
+  "code": 70142},
+"C" :{
+  "nFiles": 166,
+  "blank": 13908,
+  "comment": 8387,
+  "code": 66286},
+"JavaScript" :{
+  "nFiles": 145,
+  "blank": 7132,
+  "comment": 5145,
+  "code": 40209},
+"JSX" :{
+  "nFiles": 120,
+  "blank": 2838,
+  "comment": 3200,
+  "code": 20075},
+"Python" :{
+  "nFiles": 129,
+  "blank": 5356,
+  "comment": 5462,
+  "code": 19245},
+"CSS" :{
+  "nFiles": 58,
+  "blank": 1281,
+  "comment": 436,
+  "code": 6019},
+"HTML" :{
+  "nFiles": 74,
+  "blank": 508,
+  "comment": 280,
+  "code": 5984},
+"XML" :{
+  "nFiles": 62,
+  "blank": 957,
+  "comment": 142,
+  "code": 5879},
+"LESS" :{
+  "nFiles": 13,
+  "blank": 761,
+  "comment": 445,
+  "code": 3547},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 4,
+  "code": 2910},
+"C/C++ Header" :{
+  "nFiles": 95,
+  "blank": 1102,
+  "comment": 1851,
+  "code": 2167},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 838,
+  "comment": 0,
+  "code": 2165},
+"make" :{
+  "nFiles": 28,
+  "blank": 444,
+  "comment": 102,
+  "code": 2125},
+"JSON" :{
+  "nFiles": 45,
+  "blank": 35,
+  "comment": 0,
+  "code": 1484},
+"Bourne Shell" :{
+  "nFiles": 55,
+  "blank": 340,
+  "comment": 269,
+  "code": 1432},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 74,
+  "comment": 157,
+  "code": 724},
+"m4" :{
+  "nFiles": 1,
+  "blank": 109,
+  "comment": 1,
+  "code": 517},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 57,
+  "code": 149},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 4,
+  "code": 63},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 5,
+  "code": 31},
+"Mustache" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 2,
+  "code": 23},
+"sed" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 67457,
+  "comment": 65176,
+  "code": 251182,
+  "nFiles": 1051} }

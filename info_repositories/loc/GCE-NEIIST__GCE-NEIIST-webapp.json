@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.32311105728149,
+  "n_files"            : 194,
+  "n_lines"            : 45090,
+  "files_per_second"   : 146.624124205113,
+  "lines_per_second"   : 34078.7719608688,
+  "report_file"        : "loc/GCE-NEIIST__GCE-NEIIST-webapp.json"},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 20298},
+"JavaScript" :{
+  "nFiles": 55,
+  "blank": 2425,
+  "comment": 825,
+  "code": 12191},
+"CSS" :{
+  "nFiles": 18,
+  "blank": 280,
+  "comment": 113,
+  "code": 3878},
+"TypeScript" :{
+  "nFiles": 73,
+  "blank": 517,
+  "comment": 142,
+  "code": 2121},
+"HTML" :{
+  "nFiles": 21,
+  "blank": 236,
+  "comment": 379,
+  "code": 1055},
+"Python" :{
+  "nFiles": 3,
+  "blank": 63,
+  "comment": 12,
+  "code": 229},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 81,
+  "comment": 0,
+  "code": 168},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 46},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 3613,
+  "comment": 1474,
+  "code": 40003,
+  "nFiles": 194} }

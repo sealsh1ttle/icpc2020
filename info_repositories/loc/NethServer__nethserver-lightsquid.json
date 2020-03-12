@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.31911897659302,
+  "n_files"            : 24,
+  "n_lines"            : 1406,
+  "files_per_second"   : 2.88492087533876,
+  "lines_per_second"   : 169.008281280262,
+  "report_file"        : "loc/NethServer__nethserver-lightsquid.json"},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 80,
+  "comment": 180,
+  "code": 668},
+"PHP" :{
+  "nFiles": 8,
+  "blank": 37,
+  "comment": 92,
+  "code": 125},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 76},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 37},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 27},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 25,
+  "code": 14},
+"SUM": {
+  "blank": 162,
+  "comment": 297,
+  "code": 947,
+  "nFiles": 24} }

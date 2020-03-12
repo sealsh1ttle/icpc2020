@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.03563380241394,
+  "n_files"            : 151,
+  "n_lines"            : 33099,
+  "files_per_second"   : 74.1783712870841,
+  "lines_per_second"   : 16259.8007366304,
+  "report_file"        : "loc/fail2ban__fail2ban.json"},
+"Python" :{
+  "nFiles": 84,
+  "blank": 3616,
+  "comment": 6695,
+  "code": 20188},
+"XML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 5,
+  "code": 370},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 152,
+  "code": 346},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 134,
+  "code": 275},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 41,
+  "comment": 90,
+  "code": 242},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 59,
+  "comment": 0,
+  "code": 156},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"reStructuredText" :{
+  "nFiles": 44,
+  "blank": 50,
+  "comment": 199,
+  "code": 87},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 32,
+  "code": 53},
+"SUM": {
+  "blank": 3926,
+  "comment": 7313,
+  "code": 21860,
+  "nFiles": 151} }

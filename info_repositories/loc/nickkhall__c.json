@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.52773499488831,
+  "n_files"            : 46,
+  "n_lines"            : 1888,
+  "files_per_second"   : 4.82801001756234,
+  "lines_per_second"   : 198.15832419908,
+  "report_file"        : "loc/nickkhall__c.json"},
+"C++" :{
+  "nFiles": 19,
+  "blank": 211,
+  "comment": 132,
+  "code": 864},
+"C/C++ Header" :{
+  "nFiles": 13,
+  "blank": 77,
+  "comment": 6,
+  "code": 283},
+"C" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 121},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 0,
+  "code": 102},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"make" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 342,
+  "comment": 140,
+  "code": 1406,
+  "nFiles": 46} }

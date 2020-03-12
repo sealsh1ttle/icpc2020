@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.4787230491638,
+  "n_files"            : 58,
+  "n_lines"            : 1207,
+  "files_per_second"   : 3.31832021348806,
+  "lines_per_second"   : 69.0553878910361,
+  "report_file"        : "loc/jasonpilz__idea-box-js.json"},
+"Ruby" :{
+  "nFiles": 36,
+  "blank": 114,
+  "comment": 171,
+  "code": 252},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 28,
+  "comment": 17,
+  "code": 194},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 40},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 92,
+  "code": 34},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 15,
+  "code": 15},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 6,
+  "code": 0},
+"SUM": {
+  "blank": 184,
+  "comment": 304,
+  "code": 719,
+  "nFiles": 58} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.0577819347382,
+  "n_files"            : 70,
+  "n_lines"            : 5604,
+  "files_per_second"   : 4.64875904720805,
+  "lines_per_second"   : 372.16636715077,
+  "report_file"        : "loc/plone__plone.app.iterate.json"},
+"Python" :{
+  "nFiles": 42,
+  "blank": 669,
+  "comment": 974,
+  "code": 1870},
+"XML" :{
+  "nFiles": 22,
+  "blank": 136,
+  "comment": 23,
+  "code": 811},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 335,
+  "comment": 6,
+  "code": 760},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 1143,
+  "comment": 1003,
+  "code": 3458,
+  "nFiles": 70} }

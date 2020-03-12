@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.44588184356689,
+  "n_files"            : 146,
+  "n_lines"            : 18864,
+  "files_per_second"   : 100.976439153443,
+  "lines_per_second"   : 13046.7092341818,
+  "report_file"        : "loc/RackHD__docs.json"},
+"reStructuredText" :{
+  "nFiles": 109,
+  "blank": 4272,
+  "comment": 4863,
+  "code": 5237},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 14,
+  "code": 1504},
+"JSON" :{
+  "nFiles": 20,
+  "blank": 3,
+  "comment": 0,
+  "code": 1352},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 425},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 4,
+  "code": 129},
+"Python" :{
+  "nFiles": 2,
+  "blank": 111,
+  "comment": 286,
+  "code": 83},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 51},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 4519,
+  "comment": 5175,
+  "code": 9170,
+  "nFiles": 146} }

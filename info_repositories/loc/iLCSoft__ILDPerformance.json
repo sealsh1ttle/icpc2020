@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 52.2122850418091,
+  "n_files"            : 135,
+  "n_lines"            : 20707,
+  "files_per_second"   : 2.58559838727415,
+  "lines_per_second"   : 396.592487446562,
+  "report_file"        : "loc/iLCSoft__ILDPerformance.json"},
+"C++" :{
+  "nFiles": 56,
+  "blank": 2859,
+  "comment": 878,
+  "code": 9375},
+"XML" :{
+  "nFiles": 12,
+  "blank": 164,
+  "comment": 399,
+  "code": 1086},
+"C/C++ Header" :{
+  "nFiles": 17,
+  "blank": 505,
+  "comment": 289,
+  "code": 1030},
+"Bourne Shell" :{
+  "nFiles": 21,
+  "blank": 237,
+  "comment": 121,
+  "code": 811},
+"Python" :{
+  "nFiles": 9,
+  "blank": 231,
+  "comment": 122,
+  "code": 744},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 332,
+  "comment": 0,
+  "code": 692},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 164,
+  "comment": 68,
+  "code": 351},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 34,
+  "code": 103},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 49},
+"SUM": {
+  "blank": 4552,
+  "comment": 1914,
+  "code": 14241,
+  "nFiles": 135} }

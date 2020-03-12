@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.2411470413208,
+  "n_files"            : 143,
+  "n_lines"            : 24933,
+  "files_per_second"   : 115.216002003939,
+  "lines_per_second"   : 20088.675370379,
+  "report_file"        : "loc/Nosp1__Dnd.json"},
+"HTML" :{
+  "nFiles": 79,
+  "blank": 0,
+  "comment": 3508,
+  "code": 16145},
+"Java" :{
+  "nFiles": 61,
+  "blank": 973,
+  "comment": 629,
+  "code": 2969},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 31,
+  "code": 533},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 60},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 1029,
+  "comment": 4168,
+  "code": 19736,
+  "nFiles": 143} }

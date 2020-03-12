@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.1664719581604,
+  "n_files"            : 62,
+  "n_lines"            : 5370,
+  "files_per_second"   : 1.81464448761125,
+  "lines_per_second"   : 157.171627394716,
+  "report_file"        : "loc/M2DL__2019-ivvq-g-mal.json"},
+"Java" :{
+  "nFiles": 53,
+  "blank": 845,
+  "comment": 104,
+  "code": 2933},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 763},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 60,
+  "code": 195},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 7,
+  "code": 152},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 129},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 0,
+  "code": 33},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 939,
+  "comment": 171,
+  "code": 4260,
+  "nFiles": 62} }

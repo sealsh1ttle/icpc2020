@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.1025371551514,
+  "n_files"            : 250,
+  "n_lines"            : 19457,
+  "files_per_second"   : 6.08234958966925,
+  "lines_per_second"   : 473.377103864778,
+  "report_file"        : "loc/plataformatec__devise.json"},
+"Ruby" :{
+  "nFiles": 204,
+  "blank": 3099,
+  "comment": 2645,
+  "code": 11829},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 324,
+  "comment": 0,
+  "code": 855},
+"ERB" :{
+  "nFiles": 33,
+  "blank": 88,
+  "comment": 0,
+  "code": 353},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 6,
+  "code": 167},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 72},
+"SUM": {
+  "blank": 3527,
+  "comment": 2654,
+  "code": 13276,
+  "nFiles": 250} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 319.817068099976,
+  "n_files"            : 1242,
+  "n_lines"            : 124658,
+  "files_per_second"   : 3.88347003297444,
+  "lines_per_second"   : 389.779071956946,
+  "report_file"        : "loc/istio__istio.io.json"},
+"Markdown" :{
+  "nFiles": 834,
+  "blank": 17821,
+  "comment": 0,
+  "code": 63843},
+"HTML" :{
+  "nFiles": 130,
+  "blank": 2443,
+  "comment": 38,
+  "code": 30862},
+"Sass" :{
+  "nFiles": 44,
+  "blank": 517,
+  "comment": 33,
+  "code": 2739},
+"TypeScript" :{
+  "nFiles": 15,
+  "blank": 240,
+  "comment": 247,
+  "code": 1238},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 39,
+  "comment": 111,
+  "code": 894},
+"Python" :{
+  "nFiles": 2,
+  "blank": 139,
+  "comment": 269,
+  "code": 579},
+"SVG" :{
+  "nFiles": 170,
+  "blank": 20,
+  "comment": 0,
+  "code": 421},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 154,
+  "comment": 244,
+  "code": 411},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 336},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 146,
+  "comment": 10,
+  "code": 326},
+"make" :{
+  "nFiles": 4,
+  "blank": 56,
+  "comment": 63,
+  "code": 160},
+"XML" :{
+  "nFiles": 6,
+  "blank": 15,
+  "comment": 0,
+  "code": 149},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 67},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 21592,
+  "comment": 1017,
+  "code": 102049,
+  "nFiles": 1242} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.9804830551147,
+  "n_files"            : 49,
+  "n_lines"            : 4309,
+  "files_per_second"   : 3.77489803668688,
+  "lines_per_second"   : 331.959911022118,
+  "report_file"        : "loc/nightingaleproject__fhir-death-refactor.json"},
+"JavaScript" :{
+  "nFiles": 42,
+  "blank": 380,
+  "comment": 263,
+  "code": 3352},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 22,
+  "code": 84},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 60},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 420,
+  "comment": 285,
+  "code": 3604,
+  "nFiles": 49} }

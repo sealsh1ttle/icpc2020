@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.92687797546387,
+  "n_files"            : 19,
+  "n_lines"            : 2130,
+  "files_per_second"   : 3.20573497187834,
+  "lines_per_second"   : 359.379762636887,
+  "report_file"        : "loc/dechartjs__dechart-react.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 62,
+  "comment": 30,
+  "code": 1596},
+"JSX" :{
+  "nFiles": 5,
+  "blank": 28,
+  "comment": 0,
+  "code": 234},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 98},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 103,
+  "comment": 30,
+  "code": 1997,
+  "nFiles": 19} }

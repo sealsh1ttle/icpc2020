@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.7987060546875,
+  "n_files"            : 96,
+  "n_lines"            : 19811,
+  "files_per_second"   : 6.48705364139535,
+  "lines_per_second"   : 1338.69812176753,
+  "report_file"        : "loc/andela__mont-blanc-cfh.json"},
+"JavaScript" :{
+  "nFiles": 51,
+  "blank": 379,
+  "comment": 781,
+  "code": 9190},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 794,
+  "comment": 37,
+  "code": 5225},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 108,
+  "comment": 64,
+  "code": 1348},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 211,
+  "comment": 25,
+  "code": 1093},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 221},
+"Pug" :{
+  "nFiles": 10,
+  "blank": 42,
+  "comment": 18,
+  "code": 196},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 41},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 1555,
+  "comment": 925,
+  "code": 17331,
+  "nFiles": 96} }

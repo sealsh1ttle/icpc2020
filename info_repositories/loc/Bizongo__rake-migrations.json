@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.72741603851318,
+  "n_files"            : 19,
+  "n_lines"            : 620,
+  "files_per_second"   : 3.31737730806305,
+  "lines_per_second"   : 108.251259526268,
+  "report_file"        : "loc/Bizongo__rake-migrations.json"},
+"Ruby" :{
+  "nFiles": 17,
+  "blank": 95,
+  "comment": 36,
+  "code": 363},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 83},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 128,
+  "comment": 36,
+  "code": 456,
+  "nFiles": 19} }

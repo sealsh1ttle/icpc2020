@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.2337369918823,
+  "n_files"            : 198,
+  "n_lines"            : 7743,
+  "files_per_second"   : 5.46452053908652,
+  "lines_per_second"   : 213.69587138458,
+  "report_file"        : "loc/mokumoku-temple__members.json"},
+"HTML" :{
+  "nFiles": 80,
+  "blank": 834,
+  "comment": 0,
+  "code": 3584},
+"Markdown" :{
+  "nFiles": 113,
+  "blank": 740,
+  "comment": 0,
+  "code": 2503},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 44},
+"Haml" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 25},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1586,
+  "comment": 0,
+  "code": 6157,
+  "nFiles": 198} }

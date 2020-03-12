@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.01546502113342,
+  "n_files"            : 32,
+  "n_lines"            : 3347,
+  "files_per_second"   : 4.5613512295483,
+  "lines_per_second"   : 477.088830165567,
+  "report_file"        : "loc/IRkernel__IRkernel.json"},
+"R" :{
+  "nFiles": 20,
+  "blank": 201,
+  "comment": 281,
+  "code": 1159},
+"Python" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 74,
+  "code": 194},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 0,
+  "code": 91},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 69},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 16,
+  "code": 53},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 4,
+  "code": 52},
+"Jupyter Notebook" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 937,
+  "code": 50},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 24},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 339,
+  "comment": 1312,
+  "code": 1696,
+  "nFiles": 32} }

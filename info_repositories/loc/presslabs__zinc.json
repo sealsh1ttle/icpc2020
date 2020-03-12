@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.524288892745972,
+  "n_files"            : 79,
+  "n_lines"            : 7242,
+  "files_per_second"   : 150.680285417141,
+  "lines_per_second"   : 13812.9952783663,
+  "report_file"        : "loc/presslabs__zinc.json"},
+"Python" :{
+  "nFiles": 69,
+  "blank": 1123,
+  "comment": 332,
+  "code": 5194},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 82,
+  "comment": 0,
+  "code": 298},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 76},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 31},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 1228,
+  "comment": 332,
+  "code": 5682,
+  "nFiles": 79} }

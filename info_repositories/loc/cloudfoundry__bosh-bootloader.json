@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1081.04087400436,
+  "n_files"            : 3909,
+  "n_lines"            : 1582372,
+  "files_per_second"   : 3.61595948312332,
+  "lines_per_second"   : 1463.74853907107,
+  "report_file"        : "loc/cloudfoundry__bosh-bootloader.json"},
+"Go" :{
+  "nFiles": 3312,
+  "blank": 147210,
+  "comment": 254102,
+  "code": 1088923},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 49942},
+"YAML" :{
+  "nFiles": 216,
+  "blank": 993,
+  "comment": 148,
+  "code": 8639},
+"Markdown" :{
+  "nFiles": 142,
+  "blank": 3291,
+  "comment": 0,
+  "code": 8456},
+"HCL" :{
+  "nFiles": 86,
+  "blank": 1379,
+  "comment": 14,
+  "code": 6150},
+"Assembly" :{
+  "nFiles": 38,
+  "blank": 639,
+  "comment": 1133,
+  "code": 4353},
+"Bourne Shell" :{
+  "nFiles": 47,
+  "blank": 267,
+  "comment": 354,
+  "code": 1849},
+"Protocol Buffers" :{
+  "nFiles": 11,
+  "blank": 375,
+  "comment": 843,
+  "code": 1039},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 142,
+  "comment": 132,
+  "code": 867},
+"make" :{
+  "nFiles": 18,
+  "blank": 151,
+  "comment": 9,
+  "code": 542},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 32,
+  "comment": 3,
+  "code": 118},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 47,
+  "code": 75},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 9,
+  "code": 37},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 6,
+  "code": 24},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 13},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 154527,
+  "comment": 256806,
+  "code": 1171039,
+  "nFiles": 3909} }

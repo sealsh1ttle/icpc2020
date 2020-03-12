@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 249.20765209198,
+  "n_files"            : 823,
+  "n_lines"            : 35697,
+  "files_per_second"   : 3.30246681067498,
+  "lines_per_second"   : 143.241989964356,
+  "report_file"        : "loc/rhosqeauto__oldir.json"},
+"YAML" :{
+  "nFiles": 712,
+  "blank": 2093,
+  "comment": 270,
+  "code": 19756},
+"Python" :{
+  "nFiles": 60,
+  "blank": 1670,
+  "comment": 2413,
+  "code": 5831},
+"reStructuredText" :{
+  "nFiles": 9,
+  "blank": 493,
+  "comment": 83,
+  "code": 1208},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 109,
+  "comment": 34,
+  "code": 642},
+"Bourne Again Shell" :{
+  "nFiles": 13,
+  "blank": 96,
+  "comment": 28,
+  "code": 603},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 45,
+  "comment": 0,
+  "code": 99},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 4535,
+  "comment": 2834,
+  "code": 28328,
+  "nFiles": 823} }

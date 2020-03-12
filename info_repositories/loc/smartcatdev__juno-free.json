@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.3778409957886,
+  "n_files"            : 64,
+  "n_lines"            : 43081,
+  "files_per_second"   : 4.78403054873709,
+  "lines_per_second"   : 3220.32531359598,
+  "report_file"        : "loc/smartcatdev__juno-free.json"},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 919,
+  "comment": 278,
+  "code": 14690},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 3103,
+  "comment": 2849,
+  "code": 12857},
+"PHP" :{
+  "nFiles": 41,
+  "blank": 1561,
+  "comment": 2184,
+  "code": 4640},
+"SUM": {
+  "blank": 5583,
+  "comment": 5311,
+  "code": 32187,
+  "nFiles": 64} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.9292948246002,
+  "n_files"            : 1367,
+  "n_lines"            : 162499,
+  "files_per_second"   : 105.728890751184,
+  "lines_per_second"   : 12568.2801888636,
+  "report_file"        : "loc/SixLabors__ImageSharp.json"},
+"C#" :{
+  "nFiles": 1322,
+  "blank": 22963,
+  "comment": 36597,
+  "code": 100082},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 109,
+  "comment": 91,
+  "code": 1005},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 115,
+  "comment": 0,
+  "code": 302},
+"MSBuild script" :{
+  "nFiles": 5,
+  "blank": 39,
+  "comment": 2,
+  "code": 299},
+"XML" :{
+  "nFiles": 6,
+  "blank": 42,
+  "comment": 59,
+  "code": 172},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 30,
+  "code": 156},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 0,
+  "code": 126},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 16,
+  "code": 79},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 64},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 4,
+  "code": 31},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 3},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 23378,
+  "comment": 36801,
+  "code": 102320,
+  "nFiles": 1367} }

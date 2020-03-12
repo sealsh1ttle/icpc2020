@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 110.30246591568,
+  "n_files"            : 505,
+  "n_lines"            : 64933,
+  "files_per_second"   : 4.57832012918047,
+  "lines_per_second"   : 588.68130880807,
+  "report_file"        : "loc/plone__Products.CMFPlone.json"},
+"Python" :{
+  "nFiles": 309,
+  "blank": 7346,
+  "comment": 5586,
+  "code": 32328},
+"XML" :{
+  "nFiles": 139,
+  "blank": 1437,
+  "comment": 91,
+  "code": 10976},
+"RobotFramework" :{
+  "nFiles": 36,
+  "blank": 1063,
+  "comment": 389,
+  "code": 3196},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 580,
+  "comment": 28,
+  "code": 1452},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 11,
+  "code": 128},
+"COBOL" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 105},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 61},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 0,
+  "code": 53},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 10508,
+  "comment": 6105,
+  "code": 48320,
+  "nFiles": 505} }

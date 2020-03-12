@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.4861481189728,
+  "n_files"            : 134,
+  "n_lines"            : 12734,
+  "files_per_second"   : 4.00165464011901,
+  "lines_per_second"   : 380.276643188623,
+  "report_file"        : "loc/fga-eps-mds__2017.1-PlataformaJogosUnB.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5633},
+"Python" :{
+  "nFiles": 61,
+  "blank": 782,
+  "comment": 76,
+  "code": 2894},
+"JavaScript" :{
+  "nFiles": 62,
+  "blank": 380,
+  "comment": 5,
+  "code": 2705},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 84},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 14,
+  "code": 45},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 34},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1197,
+  "comment": 95,
+  "code": 11442,
+  "nFiles": 134} }

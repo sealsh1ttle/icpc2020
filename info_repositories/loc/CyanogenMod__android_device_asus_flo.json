@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.079174041748,
+  "n_files"            : 162,
+  "n_lines"            : 67351,
+  "files_per_second"   : 3.36944224248387,
+  "lines_per_second"   : 1400.83521279958,
+  "report_file"        : "loc/CyanogenMod__android_device_asus_flo.json"},
+"C++" :{
+  "nFiles": 21,
+  "blank": 2365,
+  "comment": 9103,
+  "code": 18877},
+"C" :{
+  "nFiles": 31,
+  "blank": 2047,
+  "comment": 4750,
+  "code": 12911},
+"C/C++ Header" :{
+  "nFiles": 57,
+  "blank": 1472,
+  "comment": 3799,
+  "code": 7661},
+"XML" :{
+  "nFiles": 16,
+  "blank": 194,
+  "comment": 421,
+  "code": 1156},
+"make" :{
+  "nFiles": 26,
+  "blank": 204,
+  "comment": 269,
+  "code": 678},
+"Windows Resource File" :{
+  "nFiles": 4,
+  "blank": 114,
+  "comment": 0,
+  "code": 613},
+"INI" :{
+  "nFiles": 1,
+  "blank": 64,
+  "comment": 0,
+  "code": 190},
+"Python" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 31,
+  "code": 159},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 51,
+  "comment": 45,
+  "code": 138},
+"SUM": {
+  "blank": 6550,
+  "comment": 18418,
+  "code": 42383,
+  "nFiles": 162} }

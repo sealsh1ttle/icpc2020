@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.92322397232056,
+  "n_files"            : 7,
+  "n_lines"            : 1111,
+  "files_per_second"   : 3.63972168647306,
+  "lines_per_second"   : 577.675827667368,
+  "report_file"        : "loc/iandday__pyharmony.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 184,
+  "comment": 220,
+  "code": 544},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 124},
+"SUM": {
+  "blank": 223,
+  "comment": 220,
+  "code": 668,
+  "nFiles": 7} }

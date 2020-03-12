@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.49733400344849,
+  "n_files"            : 169,
+  "n_lines"            : 25497,
+  "files_per_second"   : 67.6721655039468,
+  "lines_per_second"   : 10209.68759677,
+  "report_file"        : "loc/QL-Win__QuickLook.json"},
+"XML" :{
+  "nFiles": 15,
+  "blank": 45,
+  "comment": 149,
+  "code": 7307},
+"C#" :{
+  "nFiles": 93,
+  "blank": 1587,
+  "comment": 2248,
+  "code": 6990},
+"C/C++ Header" :{
+  "nFiles": 11,
+  "blank": 293,
+  "comment": 857,
+  "code": 1740},
+"MSBuild script" :{
+  "nFiles": 12,
+  "blank": 3,
+  "comment": 8,
+  "code": 1616},
+"XAML" :{
+  "nFiles": 15,
+  "blank": 18,
+  "comment": 18,
+  "code": 1135},
+"C++" :{
+  "nFiles": 10,
+  "blank": 162,
+  "comment": 196,
+  "code": 542},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 58,
+  "comment": 0,
+  "code": 167},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 123},
+"PowerShell" :{
+  "nFiles": 6,
+  "blank": 22,
+  "comment": 8,
+  "code": 68},
+"WiX source" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 68},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 42},
+"SUM": {
+  "blank": 2215,
+  "comment": 3484,
+  "code": 19798,
+  "nFiles": 169} }

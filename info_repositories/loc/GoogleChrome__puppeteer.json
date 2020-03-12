@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 69.3240051269531,
+  "n_files"            : 275,
+  "n_lines"            : 38632,
+  "files_per_second"   : 3.96687986356807,
+  "lines_per_second"   : 557.267283234042,
+  "report_file"        : "loc/GoogleChrome__puppeteer.json"},
+"JavaScript" :{
+  "nFiles": 180,
+  "blank": 2370,
+  "comment": 5983,
+  "code": 23464},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 1322,
+  "comment": 0,
+  "code": 3989},
+"HTML" :{
+  "nFiles": 52,
+  "blank": 40,
+  "comment": 0,
+  "code": 714},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 19,
+  "code": 296},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 184},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 10,
+  "code": 146},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 3797,
+  "comment": 6012,
+  "code": 28823,
+  "nFiles": 275} }

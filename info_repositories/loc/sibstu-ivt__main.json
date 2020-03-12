@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.309606075286865,
+  "n_files"            : 3,
+  "n_lines"            : 316,
+  "files_per_second"   : 9.68973233881264,
+  "lines_per_second"   : 1020.65180635493,
+  "report_file"        : "loc/sibstu-ivt__main.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 79,
+  "comment": 0,
+  "code": 237},
+"SUM": {
+  "blank": 79,
+  "comment": 0,
+  "code": 237,
+  "nFiles": 3} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.36268305778503,
+  "n_files"            : 7,
+  "n_lines"            : 432,
+  "files_per_second"   : 5.13692451080893,
+  "lines_per_second"   : 317.02162695278,
+  "report_file"        : "loc/irasanchez__node-express-mini.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 56,
+  "code": 176},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 0,
+  "code": 103},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 67,
+  "comment": 56,
+  "code": 309,
+  "nFiles": 7} }

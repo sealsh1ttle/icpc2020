@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.35220313072205,
+  "n_files"            : 18,
+  "n_lines"            : 2506,
+  "files_per_second"   : 2.1551199986732,
+  "lines_per_second"   : 300.040595370836,
+  "report_file"        : "loc/keroxp__deno-redis.json"},
+"TypeScript" :{
+  "nFiles": 12,
+  "blank": 260,
+  "comment": 38,
+  "code": 1873},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 48,
+  "comment": 0,
+  "code": 233},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 308,
+  "comment": 38,
+  "code": 2160,
+  "nFiles": 18} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.26572394371033,
+  "n_files"            : 301,
+  "n_lines"            : 35689,
+  "files_per_second"   : 132.849370655052,
+  "lines_per_second"   : 15751.6983033494,
+  "report_file"        : "loc/jvm-profiling-tools__honest-profiler.json"},
+"Java" :{
+  "nFiles": 247,
+  "blank": 4058,
+  "comment": 7738,
+  "code": 17543},
+"C++" :{
+  "nFiles": 18,
+  "blank": 496,
+  "comment": 171,
+  "code": 1999},
+"C/C++ Header" :{
+  "nFiles": 15,
+  "blank": 404,
+  "comment": 99,
+  "code": 1395},
+"FXML" :{
+  "nFiles": 11,
+  "blank": 23,
+  "comment": 0,
+  "code": 1087},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 216},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 136},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 20,
+  "code": 121},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 14,
+  "code": 37},
+"XML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 30},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 0,
+  "code": 24},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 5049,
+  "comment": 8045,
+  "code": 22595,
+  "nFiles": 301} }

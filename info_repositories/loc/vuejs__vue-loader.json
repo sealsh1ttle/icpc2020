@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.62158203125,
+  "n_files"            : 149,
+  "n_lines"            : 8967,
+  "files_per_second"   : 5.81540982981724,
+  "lines_per_second"   : 349.978388885713,
+  "report_file"        : "loc/vuejs__vue-loader.json"},
+"Markdown" :{
+  "nFiles": 48,
+  "blank": 1346,
+  "comment": 0,
+  "code": 3754},
+"JavaScript" :{
+  "nFiles": 44,
+  "blank": 234,
+  "comment": 276,
+  "code": 2535},
+"Vuejs Component" :{
+  "nFiles": 43,
+  "blank": 53,
+  "comment": 1,
+  "code": 560},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 103},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 34},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 4,
+  "code": 32},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Pug" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1647,
+  "comment": 281,
+  "code": 7039,
+  "nFiles": 149} }

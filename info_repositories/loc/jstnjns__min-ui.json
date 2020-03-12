@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.53661394119263,
+  "n_files"            : 25,
+  "n_lines"            : 1011,
+  "files_per_second"   : 9.85565820404104,
+  "lines_per_second"   : 398.56281777142,
+  "report_file"        : "loc/jstnjns__min-ui.json"},
+"LESS" :{
+  "nFiles": 22,
+  "blank": 128,
+  "comment": 398,
+  "code": 465},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 129,
+  "comment": 398,
+  "code": 484,
+  "nFiles": 25} }

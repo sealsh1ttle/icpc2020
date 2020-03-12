@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.741180896759,
+  "n_files"            : 298,
+  "n_lines"            : 42855,
+  "files_per_second"   : 17.8004169381917,
+  "lines_per_second"   : 2559.8552613631,
+  "report_file"        : "loc/IcyVines__Starbound-RPG-Growth.json"},
+"Lua" :{
+  "nFiles": 245,
+  "blank": 3246,
+  "comment": 749,
+  "code": 18924},
+"diff" :{
+  "nFiles": 52,
+  "blank": 105,
+  "comment": 19685,
+  "code": 144},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3351,
+  "comment": 20434,
+  "code": 19070,
+  "nFiles": 298} }

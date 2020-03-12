@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 121.573282957077,
+  "n_files"            : 542,
+  "n_lines"            : 92423,
+  "files_per_second"   : 4.4582163680762,
+  "lines_per_second"   : 760.22459665444,
+  "report_file"        : "loc/apple__swift-package-manager.json"},
+"Swift" :{
+  "nFiles": 440,
+  "blank": 10793,
+  "comment": 11737,
+  "code": 52082},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 10795},
+"Markdown" :{
+  "nFiles": 26,
+  "blank": 803,
+  "comment": 0,
+  "code": 2170},
+"Python" :{
+  "nFiles": 6,
+  "blank": 333,
+  "comment": 277,
+  "code": 1477},
+"CMake" :{
+  "nFiles": 23,
+  "blank": 80,
+  "comment": 167,
+  "code": 506},
+"C/C++ Header" :{
+  "nFiles": 12,
+  "blank": 126,
+  "comment": 42,
+  "code": 428},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 13,
+  "code": 272},
+"C" :{
+  "nFiles": 18,
+  "blank": 16,
+  "comment": 8,
+  "code": 95},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 48},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 10,
+  "code": 32},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 25},
+"Lisp" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 6,
+  "code": 16},
+"SUM": {
+  "blank": 12217,
+  "comment": 12260,
+  "code": 67946,
+  "nFiles": 542} }

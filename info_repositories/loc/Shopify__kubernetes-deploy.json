@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 76.0635979175568,
+  "n_files"            : 252,
+  "n_lines"            : 18652,
+  "files_per_second"   : 3.3130170922645,
+  "lines_per_second"   : 245.215852400466,
+  "report_file"        : "loc/Shopify__kubernetes-deploy.json"},
+"Ruby" :{
+  "nFiles": 131,
+  "blank": 2142,
+  "comment": 439,
+  "code": 12635},
+"YAML" :{
+  "nFiles": 75,
+  "blank": 7,
+  "comment": 2,
+  "code": 1671},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 380,
+  "comment": 0,
+  "code": 797},
+"ERB" :{
+  "nFiles": 35,
+  "blank": 0,
+  "comment": 0,
+  "code": 459},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 0,
+  "code": 97},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2551,
+  "comment": 441,
+  "code": 15660,
+  "nFiles": 252} }

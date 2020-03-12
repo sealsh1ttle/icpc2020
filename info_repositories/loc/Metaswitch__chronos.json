@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.3685829639435,
+  "n_files"            : 89,
+  "n_lines"            : 14496,
+  "files_per_second"   : 3.8085321706208,
+  "lines_per_second"   : 620.320026351901,
+  "report_file"        : "loc/Metaswitch__chronos.json"},
+"C++" :{
+  "nFiles": 26,
+  "blank": 1561,
+  "comment": 1537,
+  "code": 6957},
+"C/C++ Header" :{
+  "nFiles": 22,
+  "blank": 256,
+  "comment": 423,
+  "code": 895},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 361,
+  "comment": 0,
+  "code": 727},
+"Python" :{
+  "nFiles": 6,
+  "blank": 121,
+  "comment": 196,
+  "code": 393},
+"make" :{
+  "nFiles": 9,
+  "blank": 74,
+  "comment": 12,
+  "code": 227},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 43,
+  "comment": 93,
+  "code": 196},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 62,
+  "comment": 122,
+  "code": 122},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 73},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 16,
+  "code": 22},
+"SUM": {
+  "blank": 2485,
+  "comment": 2399,
+  "code": 9612,
+  "nFiles": 89} }

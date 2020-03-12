@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 114.516084194183,
+  "n_files"            : 415,
+  "n_lines"            : 17319,
+  "files_per_second"   : 3.62394508090488,
+  "lines_per_second"   : 151.236397243835,
+  "report_file"        : "loc/DotOS__android_vendor_dot.json"},
+"XML" :{
+  "nFiles": 300,
+  "blank": 668,
+  "comment": 2029,
+  "code": 8353},
+"make" :{
+  "nFiles": 83,
+  "blank": 344,
+  "comment": 445,
+  "code": 1458},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 234,
+  "comment": 489,
+  "code": 1385},
+"Python" :{
+  "nFiles": 3,
+  "blank": 80,
+  "comment": 80,
+  "code": 447},
+"Go" :{
+  "nFiles": 3,
+  "blank": 68,
+  "comment": 45,
+  "code": 310},
+"C++" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 60,
+  "code": 239},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 151},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 0,
+  "code": 82},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 58},
+"C" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 20,
+  "code": 57},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 47,
+  "code": 21},
+"SUM": {
+  "blank": 1543,
+  "comment": 3215,
+  "code": 12561,
+  "nFiles": 415} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.987587928772,
+  "n_files"            : 53,
+  "n_lines"            : 4372,
+  "files_per_second"   : 4.82362465206898,
+  "lines_per_second"   : 397.903527902747,
+  "report_file"        : "loc/apache__apex-site.json"},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 366,
+  "comment": 0,
+  "code": 988},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 614},
+"LESS" :{
+  "nFiles": 8,
+  "blank": 225,
+  "comment": 278,
+  "code": 571},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 72,
+  "comment": 5,
+  "code": 283},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 231},
+"Handlebars" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 3,
+  "code": 96},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 14,
+  "code": 34},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 95,
+  "comment": 418,
+  "code": 33},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 23},
+"SUM": {
+  "blank": 778,
+  "comment": 721,
+  "code": 2873,
+  "nFiles": 53} }

@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.11746597290039,
+  "n_files"            : 269,
+  "n_lines"            : 102305,
+  "files_per_second"   : 65.3314445754881,
+  "lines_per_second"   : 24846.5927037,
+  "report_file"        : "loc/prometheus__pushgateway.json"},
+"Go" :{
+  "nFiles": 206,
+  "blank": 5278,
+  "comment": 9823,
+  "code": 47420},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 1464,
+  "comment": 56,
+  "code": 16390},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 2017,
+  "comment": 1705,
+  "code": 7870},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 269,
+  "comment": 2,
+  "code": 3620},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 12,
+  "code": 3117},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 566,
+  "comment": 0,
+  "code": 1602},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 45,
+  "comment": 57,
+  "code": 401},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 3,
+  "code": 245},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 19,
+  "comment": 12,
+  "code": 163},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"make" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 25,
+  "code": 23},
+"Assembly" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 16,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 9694,
+  "comment": 11711,
+  "code": 80900,
+  "nFiles": 269} }

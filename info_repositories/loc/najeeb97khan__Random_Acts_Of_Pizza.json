@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.8055579662323,
+  "n_files"            : 5,
+  "n_lines"            : 4368,
+  "files_per_second"   : 1.78217668648447,
+  "lines_per_second"   : 1556.90955331284,
+  "report_file"        : "loc/najeeb97khan__Random_Acts_Of_Pizza.json"},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 3332,
+  "code": 630},
+"Python" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 95,
+  "code": 255},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 54,
+  "comment": 3427,
+  "code": 887,
+  "nFiles": 5} }

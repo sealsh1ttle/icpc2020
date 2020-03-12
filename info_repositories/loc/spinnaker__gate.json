@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 73.0926949977875,
+  "n_files"            : 296,
+  "n_lines"            : 22722,
+  "files_per_second"   : 4.04965229437716,
+  "lines_per_second"   : 310.865538624452,
+  "report_file"        : "loc/spinnaker__gate.json"},
+"Groovy" :{
+  "nFiles": 177,
+  "blank": 2331,
+  "comment": 2921,
+  "code": 10578},
+"Java" :{
+  "nFiles": 78,
+  "blank": 714,
+  "comment": 1126,
+  "code": 3609},
+"Gradle" :{
+  "nFiles": 14,
+  "blank": 49,
+  "comment": 64,
+  "code": 284},
+"Kotlin" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 34,
+  "code": 223},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 33,
+  "comment": 16,
+  "code": 197},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 36,
+  "comment": 59,
+  "code": 186},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"XML" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 0,
+  "code": 53},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 0,
+  "code": 44},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 3242,
+  "comment": 4222,
+  "code": 15258,
+  "nFiles": 296} }

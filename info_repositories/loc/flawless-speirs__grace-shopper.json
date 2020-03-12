@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.5139331817627,
+  "n_files"            : 78,
+  "n_lines"            : 22640,
+  "files_per_second"   : 5.37414627883295,
+  "lines_per_second"   : 1559.8804070869,
+  "report_file"        : "loc/flawless-speirs__grace-shopper.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 18487},
+"JavaScript" :{
+  "nFiles": 66,
+  "blank": 327,
+  "comment": 243,
+  "code": 2882},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 76,
+  "comment": 24,
+  "code": 456},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 29},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 26},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 24},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 20,
+  "code": 12},
+"SUM": {
+  "blank": 437,
+  "comment": 287,
+  "code": 21916,
+  "nFiles": 78} }

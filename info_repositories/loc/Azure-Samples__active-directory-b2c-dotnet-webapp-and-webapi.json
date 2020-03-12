@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.364413022995,
+  "n_files"            : 68,
+  "n_lines"            : 43455,
+  "files_per_second"   : 2.2394636757346,
+  "lines_per_second"   : 1431.11608866246,
+  "report_file"        : "loc/Azure-Samples__active-directory-b2c-dotnet-webapp-and-webapi.json"},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 4360,
+  "comment": 10514,
+  "code": 17884},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 19,
+  "comment": 31,
+  "code": 7494},
+"C#" :{
+  "nFiles": 28,
+  "blank": 173,
+  "comment": 333,
+  "code": 937},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 12,
+  "code": 524},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 261},
+"Razor" :{
+  "nFiles": 10,
+  "blank": 16,
+  "comment": 0,
+  "code": 236},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 70,
+  "comment": 0,
+  "code": 118},
+"XML" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 22,
+  "code": 96},
+"ASP.NET" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 4703,
+  "comment": 10912,
+  "code": 27840,
+  "nFiles": 68} }

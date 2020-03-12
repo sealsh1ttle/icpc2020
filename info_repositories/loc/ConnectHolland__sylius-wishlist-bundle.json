@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.3796558380127,
+  "n_files"            : 60,
+  "n_lines"            : 3256,
+  "files_per_second"   : 5.27256718956082,
+  "lines_per_second"   : 286.124646153501,
+  "report_file"        : "loc/ConnectHolland__sylius-wishlist-bundle.json"},
+"PHP" :{
+  "nFiles": 31,
+  "blank": 339,
+  "comment": 667,
+  "code": 1151},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 52,
+  "comment": 23,
+  "code": 346},
+"Twig" :{
+  "nFiles": 14,
+  "blank": 40,
+  "comment": 0,
+  "code": 332},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 0,
+  "code": 126},
+"XML" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 0,
+  "code": 84},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 499,
+  "comment": 690,
+  "code": 2067,
+  "nFiles": 60} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.48939990997314,
+  "n_files"            : 10,
+  "n_lines"            : 1653,
+  "files_per_second"   : 4.01703236187065,
+  "lines_per_second"   : 664.015449417218,
+  "report_file"        : "loc/ropensci__rglobi.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 80,
+  "comment": 0,
+  "code": 409},
+"R" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 229,
+  "code": 316},
+"Rmd" :{
+  "nFiles": 2,
+  "blank": 100,
+  "comment": 417,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 238,
+  "comment": 646,
+  "code": 769,
+  "nFiles": 10} }

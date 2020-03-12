@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1254.55170893669,
+  "n_files"            : 2683,
+  "n_lines"            : 313472,
+  "files_per_second"   : 2.13861252660044,
+  "lines_per_second"   : 249.867739820534,
+  "report_file"        : "loc/kiegroup__droolsjbpm-integration.json"},
+"Java" :{
+  "nFiles": 1879,
+  "blank": 41818,
+  "comment": 34809,
+  "code": 167496},
+"Maven" :{
+  "nFiles": 219,
+  "blank": 1589,
+  "comment": 754,
+  "code": 20770},
+"JSON" :{
+  "nFiles": 55,
+  "blank": 107,
+  "comment": 0,
+  "code": 15427},
+"XML" :{
+  "nFiles": 285,
+  "blank": 1294,
+  "comment": 974,
+  "code": 9146},
+"JavaScript" :{
+  "nFiles": 60,
+  "blank": 399,
+  "comment": 103,
+  "code": 4517},
+"Drools" :{
+  "nFiles": 111,
+  "blank": 688,
+  "comment": 1505,
+  "code": 3456},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 557,
+  "comment": 0,
+  "code": 1788},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 1488},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 18,
+  "comment": 180,
+  "code": 1288},
+"Freemarker Template" :{
+  "nFiles": 4,
+  "blank": 79,
+  "comment": 0,
+  "code": 948},
+"XSD" :{
+  "nFiles": 4,
+  "blank": 107,
+  "comment": 77,
+  "code": 833},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 30,
+  "comment": 7,
+  "code": 644},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 9,
+  "code": 224},
+"Visual Basic" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 92},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 16,
+  "code": 60},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 4,
+  "code": 51},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 31},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 17,
+  "code": 12},
+"SUM": {
+  "blank": 46746,
+  "comment": 38455,
+  "code": 228271,
+  "nFiles": 2683} }

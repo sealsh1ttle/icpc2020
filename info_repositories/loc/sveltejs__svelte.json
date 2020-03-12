@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 994.712618112564,
+  "n_files"            : 1670,
+  "n_lines"            : 68233,
+  "files_per_second"   : 1.67887686311728,
+  "lines_per_second"   : 68.5956916174141,
+  "report_file"        : "loc/sveltejs__svelte.json"},
+"JavaScript" :{
+  "nFiles": 891,
+  "blank": 4075,
+  "comment": 262,
+  "code": 20542},
+"TypeScript" :{
+  "nFiles": 161,
+  "blank": 3100,
+  "comment": 465,
+  "code": 16351},
+"JSON" :{
+  "nFiles": 314,
+  "blank": 18,
+  "comment": 0,
+  "code": 13933},
+"Markdown" :{
+  "nFiles": 106,
+  "blank": 2384,
+  "comment": 0,
+  "code": 5572},
+"SVG" :{
+  "nFiles": 55,
+  "blank": 1,
+  "comment": 5,
+  "code": 604},
+"CSS" :{
+  "nFiles": 58,
+  "blank": 88,
+  "comment": 52,
+  "code": 517},
+"HTML" :{
+  "nFiles": 80,
+  "blank": 11,
+  "comment": 10,
+  "code": 155},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 1,
+  "code": 40},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 15},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 5,
+  "code": 10},
+"SUM": {
+  "blank": 9694,
+  "comment": 800,
+  "code": 57739,
+  "nFiles": 1670} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 266.98276591301,
+  "n_files"            : 785,
+  "n_lines"            : 139547,
+  "files_per_second"   : 2.94026469205048,
+  "lines_per_second"   : 522.681677683526,
+  "report_file"        : "loc/ArduPilot__ardupilot_wiki.json"},
+"reStructuredText" :{
+  "nFiles": 768,
+  "blank": 25928,
+  "comment": 16354,
+  "code": 92838},
+"Python" :{
+  "nFiles": 10,
+  "blank": 924,
+  "comment": 1910,
+  "code": 666},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 68,
+  "comment": 4,
+  "code": 454},
+"make" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 7,
+  "code": 193},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 4,
+  "code": 77},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 26992,
+  "comment": 18282,
+  "code": 94273,
+  "nFiles": 785} }

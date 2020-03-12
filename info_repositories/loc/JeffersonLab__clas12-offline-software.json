@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1051.87890791893,
+  "n_files"            : 2835,
+  "n_lines"            : 475970,
+  "files_per_second"   : 2.69517715267136,
+  "lines_per_second"   : 452.495050919572,
+  "report_file"        : "loc/JeffersonLab__clas12-offline-software.json"},
+"Java" :{
+  "nFiles": 2390,
+  "blank": 65539,
+  "comment": 95959,
+  "code": 257936},
+"HTML" :{
+  "nFiles": 183,
+  "blank": 3632,
+  "comment": 3223,
+  "code": 28232},
+"XML" :{
+  "nFiles": 70,
+  "blank": 405,
+  "comment": 46,
+  "code": 8358},
+"JSON" :{
+  "nFiles": 47,
+  "blank": 38,
+  "comment": 0,
+  "code": 6522},
+"Maven" :{
+  "nFiles": 40,
+  "blank": 386,
+  "comment": 166,
+  "code": 2338},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 38,
+  "code": 547},
+"Bourne Shell" :{
+  "nFiles": 47,
+  "blank": 174,
+  "comment": 83,
+  "code": 538},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 15,
+  "comment": 27,
+  "code": 400},
+"Ant" :{
+  "nFiles": 11,
+  "blank": 111,
+  "comment": 80,
+  "code": 357},
+"Bourne Again Shell" :{
+  "nFiles": 10,
+  "blank": 30,
+  "comment": 51,
+  "code": 191},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 55,
+  "comment": 0,
+  "code": 154},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 17,
+  "code": 132},
+"Python" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 8,
+  "code": 40},
+"INI" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 29},
+"C Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 70440,
+  "comment": 99698,
+  "code": 305832,
+  "nFiles": 2835} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.459742069244385,
+  "n_files"            : 47,
+  "n_lines"            : 16738,
+  "files_per_second"   : 102.231236043392,
+  "lines_per_second"   : 36407.3708275381,
+  "report_file"        : "loc/CodeDead__DeadLock.json"},
+"XML" :{
+  "nFiles": 18,
+  "blank": 44,
+  "comment": 192,
+  "code": 10217},
+"C#" :{
+  "nFiles": 23,
+  "blank": 413,
+  "comment": 1142,
+  "code": 4216},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 14,
+  "code": 383},
+"XAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 91},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 466,
+  "comment": 1348,
+  "code": 14924,
+  "nFiles": 47} }

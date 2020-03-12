@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.0598950386047,
+  "n_files"            : 2307,
+  "n_lines"            : 218964,
+  "files_per_second"   : 100.04382050039,
+  "lines_per_second"   : 9495.44651584193,
+  "report_file"        : "loc/Aptoide__aptoide-client-v8.json"},
+"Java" :{
+  "nFiles": 1513,
+  "blank": 22870,
+  "comment": 8191,
+  "code": 119227},
+"XML" :{
+  "nFiles": 743,
+  "blank": 2914,
+  "comment": 731,
+  "code": 31418},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 29990},
+"Gradle" :{
+  "nFiles": 13,
+  "blank": 249,
+  "comment": 85,
+  "code": 1201},
+"Kotlin" :{
+  "nFiles": 20,
+  "blank": 153,
+  "comment": 25,
+  "code": 853},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 338},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 169},
+"ProGuard" :{
+  "nFiles": 4,
+  "blank": 36,
+  "comment": 59,
+  "code": 147},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 27},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 26289,
+  "comment": 9114,
+  "code": 183561,
+  "nFiles": 2307} }

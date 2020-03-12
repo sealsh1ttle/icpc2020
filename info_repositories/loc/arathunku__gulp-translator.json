@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.11141300201416,
+  "n_files"            : 8,
+  "n_lines"            : 736,
+  "files_per_second"   : 71.804904772095,
+  "lines_per_second"   : 6606.05123903274,
+  "report_file"        : "loc/arathunku__gulp-translator.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 93,
+  "comment": 0,
+  "code": 444},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 0,
+  "code": 94},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 133,
+  "comment": 0,
+  "code": 603,
+  "nFiles": 8} }

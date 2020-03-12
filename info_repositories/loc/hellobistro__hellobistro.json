@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.982227087020874,
+  "n_files"            : 119,
+  "n_lines"            : 10546,
+  "files_per_second"   : 121.153246100075,
+  "lines_per_second"   : 10736.8246501798,
+  "report_file"        : "loc/hellobistro__hellobistro.json"},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 414,
+  "comment": 198,
+  "code": 3639},
+"JSX" :{
+  "nFiles": 54,
+  "blank": 376,
+  "comment": 126,
+  "code": 2997},
+"CSS" :{
+  "nFiles": 25,
+  "blank": 362,
+  "comment": 91,
+  "code": 2032},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 153},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 51},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 2,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 32},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 1173,
+  "comment": 417,
+  "code": 8956,
+  "nFiles": 119} }

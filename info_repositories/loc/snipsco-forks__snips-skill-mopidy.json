@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.116651058197021,
+  "n_files"            : 12,
+  "n_lines"            : 917,
+  "files_per_second"   : 102.870905634926,
+  "lines_per_second"   : 7861.05170560222,
+  "report_file"        : "loc/snipsco-forks__snips-skill-mopidy.json"},
+"Python" :{
+  "nFiles": 6,
+  "blank": 138,
+  "comment": 15,
+  "code": 476},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 60,
+  "comment": 0,
+  "code": 172},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 4,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 208,
+  "comment": 19,
+  "code": 690,
+  "nFiles": 12} }

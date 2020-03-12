@@ -1,0 +1,219 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 828.105678081512,
+  "n_files"            : 28414,
+  "n_lines"            : 936085,
+  "files_per_second"   : 34.3120458560642,
+  "lines_per_second"   : 1130.39316693087,
+  "report_file"        : "loc/gentoo__gentoo.json"},
+"diff" :{
+  "nFiles": 12968,
+  "blank": 68786,
+  "comment": 271883,
+  "code": 317931},
+"XML" :{
+  "nFiles": 14422,
+  "blank": 4057,
+  "comment": 4124,
+  "code": 229754},
+"Bourne Shell" :{
+  "nFiles": 323,
+  "blank": 2113,
+  "comment": 2104,
+  "code": 9704},
+"Bourne Again Shell" :{
+  "nFiles": 79,
+  "blank": 657,
+  "comment": 984,
+  "code": 3189},
+"Windows Resource File" :{
+  "nFiles": 80,
+  "blank": 425,
+  "comment": 0,
+  "code": 2422},
+"m4" :{
+  "nFiles": 16,
+  "blank": 170,
+  "comment": 79,
+  "code": 1701},
+"Lisp" :{
+  "nFiles": 251,
+  "blank": 261,
+  "comment": 177,
+  "code": 1443},
+"Perl" :{
+  "nFiles": 11,
+  "blank": 198,
+  "comment": 171,
+  "code": 1222},
+"C" :{
+  "nFiles": 11,
+  "blank": 231,
+  "comment": 310,
+  "code": 1099},
+"Python" :{
+  "nFiles": 21,
+  "blank": 291,
+  "comment": 391,
+  "code": 963},
+"PHP" :{
+  "nFiles": 51,
+  "blank": 129,
+  "comment": 69,
+  "code": 809},
+"Java" :{
+  "nFiles": 4,
+  "blank": 102,
+  "comment": 183,
+  "code": 668},
+"make" :{
+  "nFiles": 17,
+  "blank": 290,
+  "comment": 134,
+  "code": 657},
+"Ant" :{
+  "nFiles": 10,
+  "blank": 110,
+  "comment": 85,
+  "code": 636},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 87,
+  "comment": 139,
+  "code": 414},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 0,
+  "code": 390},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 3,
+  "code": 387},
+"D" :{
+  "nFiles": 56,
+  "blank": 116,
+  "comment": 0,
+  "code": 384},
+"INI" :{
+  "nFiles": 10,
+  "blank": 23,
+  "comment": 53,
+  "code": 298},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 22,
+  "code": 275},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 249},
+"CMake" :{
+  "nFiles": 12,
+  "blank": 66,
+  "comment": 110,
+  "code": 239},
+"Smalltalk" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 94,
+  "code": 220},
+"awk" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 74,
+  "code": 192},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 12,
+  "code": 171},
+"NAnt script" :{
+  "nFiles": 10,
+  "blank": 19,
+  "comment": 0,
+  "code": 142},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 165,
+  "code": 134},
+"Haskell" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 6,
+  "code": 99},
+"Ruby" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 25,
+  "code": 88},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 12,
+  "comment": 14,
+  "code": 83},
+"vim script" :{
+  "nFiles": 8,
+  "blank": 20,
+  "comment": 41,
+  "code": 67},
+"MUMPS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 34},
+"ASP.NET" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 18},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 10,
+  "code": 16},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 15},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 14},
+"Windows Message File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"C Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 7},
+"Go" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 78443,
+  "comment": 281465,
+  "code": 576177,
+  "nFiles": 28414} }

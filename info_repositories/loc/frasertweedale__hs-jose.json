@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.75659704208374,
+  "n_files"            : 32,
+  "n_lines"            : 6125,
+  "files_per_second"   : 4.12552048615942,
+  "lines_per_second"   : 789.650405553951,
+  "report_file"        : "loc/frasertweedale__hs-jose.json"},
+"Haskell" :{
+  "nFiles": 29,
+  "blank": 793,
+  "comment": 1102,
+  "code": 3963},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 43,
+  "code": 107},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 67},
+"SUM": {
+  "blank": 843,
+  "comment": 1145,
+  "code": 4137,
+  "nFiles": 32} }

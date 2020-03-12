@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 221.847708940506,
+  "n_files"            : 837,
+  "n_lines"            : 166816,
+  "files_per_second"   : 3.77285843517303,
+  "lines_per_second"   : 751.939250563709,
+  "report_file"        : "loc/canalplus__rx-player.json"},
+"TypeScript" :{
+  "nFiles": 564,
+  "blank": 6355,
+  "comment": 18777,
+  "code": 45422},
+"JavaScript" :{
+  "nFiles": 115,
+  "blank": 1609,
+  "comment": 14007,
+  "code": 35934},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 12758},
+"HTML" :{
+  "nFiles": 46,
+  "blank": 170,
+  "comment": 0,
+  "code": 10352},
+"Markdown" :{
+  "nFiles": 47,
+  "blank": 4164,
+  "comment": 0,
+  "code": 9217},
+"JSX" :{
+  "nFiles": 35,
+  "blank": 318,
+  "comment": 284,
+  "code": 2623},
+"XML" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 5,
+  "code": 2087},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 201,
+  "comment": 11,
+  "code": 1275},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 95,
+  "comment": 122,
+  "code": 626},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 3,
+  "code": 204},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 21,
+  "code": 92},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 7,
+  "code": 45},
+"SUM": {
+  "blank": 12944,
+  "comment": 33237,
+  "code": 120635,
+  "nFiles": 837} }

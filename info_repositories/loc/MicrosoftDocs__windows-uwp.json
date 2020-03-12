@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.4637272357941,
+  "n_files"            : 2072,
+  "n_lines"            : 691720,
+  "files_per_second"   : 58.4258948932108,
+  "lines_per_second"   : 19505.000007496,
+  "report_file"        : "loc/MicrosoftDocs__windows-uwp.json"},
+"JSON" :{
+  "nFiles": 42,
+  "blank": 4,
+  "comment": 0,
+  "code": 337953},
+"Markdown" :{
+  "nFiles": 1404,
+  "blank": 76536,
+  "comment": 5,
+  "code": 208163},
+"C#" :{
+  "nFiles": 204,
+  "blank": 4312,
+  "comment": 6464,
+  "code": 18219},
+"SVG" :{
+  "nFiles": 121,
+  "blank": 216,
+  "comment": 1,
+  "code": 12296},
+"MSBuild script" :{
+  "nFiles": 52,
+  "blank": 54,
+  "comment": 400,
+  "code": 7043},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 21,
+  "comment": 23,
+  "code": 3548},
+"C++" :{
+  "nFiles": 17,
+  "blank": 741,
+  "comment": 646,
+  "code": 3174},
+"XAML" :{
+  "nFiles": 110,
+  "blank": 248,
+  "comment": 180,
+  "code": 2458},
+"XML" :{
+  "nFiles": 56,
+  "blank": 30,
+  "comment": 105,
+  "code": 2321},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 367,
+  "comment": 1092,
+  "code": 1798},
+"C/C++ Header" :{
+  "nFiles": 24,
+  "blank": 210,
+  "comment": 150,
+  "code": 838},
+"Java" :{
+  "nFiles": 5,
+  "blank": 178,
+  "comment": 196,
+  "code": 787},
+"Python" :{
+  "nFiles": 4,
+  "blank": 134,
+  "comment": 117,
+  "code": 446},
+"Visual Basic" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 51,
+  "code": 49},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 36},
+"HLSL" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 8,
+  "code": 36},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 13},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 2},
+"SUM": {
+  "blank": 83091,
+  "comment": 9446,
+  "code": 599183,
+  "nFiles": 2072} }

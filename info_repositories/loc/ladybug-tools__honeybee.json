@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 45.0064239501953,
+  "n_files"            : 250,
+  "n_lines"            : 161995,
+  "files_per_second"   : 5.55476258848411,
+  "lines_per_second"   : 3599.37506208593,
+  "report_file"        : "loc/ladybug-tools__honeybee.json"},
+"XML" :{
+  "nFiles": 6,
+  "blank": 725,
+  "comment": 4,
+  "code": 127360},
+"Python" :{
+  "nFiles": 224,
+  "blank": 5933,
+  "comment": 9837,
+  "code": 17637},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 1,
+  "code": 134},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 48,
+  "comment": 0,
+  "code": 130},
+"Unity-Prefab" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 4,
+  "code": 36},
+"INI" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 28},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 21},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 11,
+  "code": 9},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 6},
+"SUM": {
+  "blank": 6759,
+  "comment": 9859,
+  "code": 145377,
+  "nFiles": 250} }

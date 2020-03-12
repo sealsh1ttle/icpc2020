@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.5905311107635,
+  "n_files"            : 249,
+  "n_lines"            : 17380,
+  "files_per_second"   : 5.12445520367738,
+  "lines_per_second"   : 357.682857188405,
+  "report_file"        : "loc/hmrc__residence-nil-rate-band-calculator-frontend.json"},
+"Scala" :{
+  "nFiles": 185,
+  "blank": 2291,
+  "comment": 2780,
+  "code": 8804},
+"HTML" :{
+  "nFiles": 43,
+  "blank": 382,
+  "comment": 3,
+  "code": 1857},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 83,
+  "comment": 107,
+  "code": 391},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 34,
+  "comment": 10,
+  "code": 304},
+"XML" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 0,
+  "code": 185},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 0,
+  "code": 68},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 2858,
+  "comment": 2900,
+  "code": 11622,
+  "nFiles": 249} }

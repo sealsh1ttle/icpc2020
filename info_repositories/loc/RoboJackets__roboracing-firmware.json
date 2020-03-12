@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.6059901714325,
+  "n_files"            : 26,
+  "n_lines"            : 4259,
+  "files_per_second"   : 3.41835834835206,
+  "lines_per_second"   : 559.953392524286,
+  "report_file"        : "loc/RoboJackets__roboracing-firmware.json"},
+"Arduino Sketch" :{
+  "nFiles": 9,
+  "blank": 397,
+  "comment": 750,
+  "code": 1818},
+"C++" :{
+  "nFiles": 10,
+  "blank": 166,
+  "comment": 153,
+  "code": 616},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 22,
+  "code": 186},
+"Python" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 5,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 598,
+  "comment": 930,
+  "code": 2731,
+  "nFiles": 26} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 159.245940923691,
+  "n_files"            : 588,
+  "n_lines"            : 191433,
+  "files_per_second"   : 3.69240180684897,
+  "lines_per_second"   : 1202.12169233081,
+  "report_file"        : "loc/elixir-lang__elixir.json"},
+"Elixir" :{
+  "nFiles": 505,
+  "blank": 36321,
+  "comment": 32073,
+  "code": 106436},
+"Erlang" :{
+  "nFiles": 54,
+  "blank": 2254,
+  "comment": 727,
+  "code": 10295},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 738,
+  "comment": 0,
+  "code": 1630},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 6,
+  "code": 254},
+"make" :{
+  "nFiles": 1,
+  "blank": 61,
+  "comment": 10,
+  "code": 253},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 14,
+  "code": 198},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 3,
+  "code": 70},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 18},
+"EEx" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 39441,
+  "comment": 32836,
+  "code": 119156,
+  "nFiles": 588} }

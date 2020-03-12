@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.6844110488892,
+  "n_files"            : 1904,
+  "n_lines"            : 236611,
+  "files_per_second"   : 71.3525210097999,
+  "lines_per_second"   : 8867.0122629463,
+  "report_file"        : "loc/LibreELEC__LibreELEC.tv.json"},
+"diff" :{
+  "nFiles": 672,
+  "blank": 7940,
+  "comment": 33326,
+  "code": 148118},
+"make" :{
+  "nFiles": 878,
+  "blank": 3600,
+  "comment": 2531,
+  "code": 19908},
+"Bourne Shell" :{
+  "nFiles": 139,
+  "blank": 1434,
+  "comment": 862,
+  "code": 5495},
+"Bourne Again Shell" :{
+  "nFiles": 33,
+  "blank": 784,
+  "comment": 351,
+  "code": 3613},
+"Python" :{
+  "nFiles": 52,
+  "blank": 872,
+  "comment": 545,
+  "code": 3485},
+"XML" :{
+  "nFiles": 84,
+  "blank": 28,
+  "comment": 5,
+  "code": 1583},
+"PO File" :{
+  "nFiles": 26,
+  "blank": 254,
+  "comment": 87,
+  "code": 810},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 139,
+  "comment": 0,
+  "code": 452},
+"C" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 14,
+  "code": 119},
+"INI" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 1,
+  "code": 99},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 0,
+  "code": 79},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 15097,
+  "comment": 37722,
+  "code": 183792,
+  "nFiles": 1904} }

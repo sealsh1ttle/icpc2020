@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 236.372838973999,
+  "n_files"            : 873,
+  "n_lines"            : 58726,
+  "files_per_second"   : 3.69331774238253,
+  "lines_per_second"   : 248.446480800867,
+  "report_file"        : "loc/wix__react-native-navigation.json"},
+"Java" :{
+  "nFiles": 318,
+  "blank": 3980,
+  "comment": 71,
+  "code": 19509},
+"Objective C" :{
+  "nFiles": 166,
+  "blank": 2806,
+  "comment": 255,
+  "code": 10831},
+"JavaScript" :{
+  "nFiles": 95,
+  "blank": 601,
+  "comment": 56,
+  "code": 4980},
+"Markdown" :{
+  "nFiles": 42,
+  "blank": 1237,
+  "comment": 0,
+  "code": 3835},
+"TypeScript" :{
+  "nFiles": 45,
+  "blank": 528,
+  "comment": 875,
+  "code": 3321},
+"C/C++ Header" :{
+  "nFiles": 157,
+  "blank": 1040,
+  "comment": 780,
+  "code": 1734},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 963},
+"XML" :{
+  "nFiles": 18,
+  "blank": 6,
+  "comment": 5,
+  "code": 266},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 40,
+  "code": 246},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 29,
+  "comment": 12,
+  "code": 214},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 4,
+  "code": 128},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 58},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 26,
+  "code": 30},
+"Handlebars" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 0,
+  "code": 29},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 24,
+  "code": 28},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 19},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 10369,
+  "comment": 2149,
+  "code": 46208,
+  "nFiles": 873} }

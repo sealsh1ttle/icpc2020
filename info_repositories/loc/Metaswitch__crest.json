@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.9923288822174,
+  "n_files"            : 127,
+  "n_lines"            : 10483,
+  "files_per_second"   : 3.52852966018396,
+  "lines_per_second"   : 291.256507304791,
+  "report_file"        : "loc/Metaswitch__crest.json"},
+"Python" :{
+  "nFiles": 54,
+  "blank": 1013,
+  "comment": 1419,
+  "code": 3571},
+"XSD" :{
+  "nFiles": 25,
+  "blank": 31,
+  "comment": 111,
+  "code": 920},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 305,
+  "comment": 0,
+  "code": 660},
+"Java" :{
+  "nFiles": 1,
+  "blank": 91,
+  "comment": 126,
+  "code": 502},
+"Bourne Again Shell" :{
+  "nFiles": 12,
+  "blank": 91,
+  "comment": 234,
+  "code": 440},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 168,
+  "comment": 267,
+  "code": 332},
+"make" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 38,
+  "code": 90},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1741,
+  "comment": 2195,
+  "code": 6547,
+  "nFiles": 127} }

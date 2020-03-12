@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.854659080505371,
+  "n_files"            : 171,
+  "n_lines"            : 10190,
+  "files_per_second"   : 200.079779061009,
+  "lines_per_second"   : 11922.8827405362,
+  "report_file"        : "loc/aws__aws-lambda-go.json"},
+"Go" :{
+  "nFiles": 77,
+  "blank": 1040,
+  "comment": 573,
+  "code": 4997},
+"JSON" :{
+  "nFiles": 59,
+  "blank": 3,
+  "comment": 0,
+  "code": 2400},
+"Markdown" :{
+  "nFiles": 34,
+  "blank": 306,
+  "comment": 0,
+  "code": 835},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 1358,
+  "comment": 573,
+  "code": 8259,
+  "nFiles": 171} }

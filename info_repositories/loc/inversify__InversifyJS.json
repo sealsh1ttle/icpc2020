@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 55.4554810523987,
+  "n_files"            : 150,
+  "n_lines"            : 28757,
+  "files_per_second"   : 2.70487239770345,
+  "lines_per_second"   : 518.560103605055,
+  "report_file"        : "loc/inversify__InversifyJS.json"},
+"TypeScript" :{
+  "nFiles": 93,
+  "blank": 3325,
+  "comment": 281,
+  "code": 10740},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 9706},
+"Markdown" :{
+  "nFiles": 47,
+  "blank": 1058,
+  "comment": 0,
+  "code": 3311},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 35,
+  "code": 217},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 6,
+  "code": 31},
+"SUM": {
+  "blank": 4430,
+  "comment": 322,
+  "code": 24005,
+  "nFiles": 150} }

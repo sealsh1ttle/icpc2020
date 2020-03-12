@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 102.341526031494,
+  "n_files"            : 333,
+  "n_lines"            : 36239,
+  "files_per_second"   : 3.25381116456602,
+  "lines_per_second"   : 354.09868706519,
+  "report_file"        : "loc/hmrc__cgt-calculator-resident-properties-frontend.json"},
+"Scala" :{
+  "nFiles": 248,
+  "blank": 6032,
+  "comment": 3796,
+  "code": 21199},
+"HTML" :{
+  "nFiles": 74,
+  "blank": 669,
+  "comment": 35,
+  "code": 3587},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 78,
+  "comment": 5,
+  "code": 434},
+"XML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 174},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 3,
+  "code": 74},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 0,
+  "code": 62},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 6856,
+  "comment": 3839,
+  "code": 25544,
+  "nFiles": 333} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.84037613868713,
+  "n_files"            : 47,
+  "n_lines"            : 1730,
+  "files_per_second"   : 5.31651586569029,
+  "lines_per_second"   : 195.69303080094,
+  "report_file"        : "loc/jamis__bulk_insert.json"},
+"Ruby" :{
+  "nFiles": 35,
+  "blank": 225,
+  "comment": 212,
+  "code": 738},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 0,
+  "code": 175},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 39,
+  "code": 29},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 13,
+  "code": 0},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 312,
+  "comment": 282,
+  "code": 1136,
+  "nFiles": 47} }

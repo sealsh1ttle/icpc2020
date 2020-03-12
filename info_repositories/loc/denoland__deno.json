@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 181.278962850571,
+  "n_files"            : 655,
+  "n_lines"            : 126349,
+  "files_per_second"   : 3.61321572950481,
+  "lines_per_second"   : 696.986556041532,
+  "report_file"        : "loc/denoland__deno.json"},
+"TypeScript" :{
+  "nFiles": 410,
+  "blank": 5042,
+  "comment": 7218,
+  "code": 37055},
+"JavaScript" :{
+  "nFiles": 51,
+  "blank": 5892,
+  "comment": 2547,
+  "code": 24274},
+"Rust" :{
+  "nFiles": 76,
+  "blank": 2290,
+  "comment": 1477,
+  "code": 17607},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 11205},
+"Markdown" :{
+  "nFiles": 28,
+  "blank": 1103,
+  "comment": 0,
+  "code": 3256},
+"Python" :{
+  "nFiles": 34,
+  "blank": 603,
+  "comment": 366,
+  "code": 2306},
+"C++" :{
+  "nFiles": 7,
+  "blank": 321,
+  "comment": 119,
+  "code": 1656},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 77,
+  "comment": 5,
+  "code": 447},
+"TOML" :{
+  "nFiles": 19,
+  "blank": 74,
+  "comment": 35,
+  "code": 374},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 98,
+  "comment": 102,
+  "code": 336},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 163},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 3,
+  "code": 138},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 92},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 15556,
+  "comment": 11873,
+  "code": 98920,
+  "nFiles": 655} }

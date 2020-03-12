@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.360091924667358,
+  "n_files"            : 28,
+  "n_lines"            : 2287,
+  "files_per_second"   : 77.7579225800899,
+  "lines_per_second"   : 6351.1560335952,
+  "report_file"        : "loc/microsoft__mu.json"},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 395,
+  "comment": 0,
+  "code": 826},
+"Python" :{
+  "nFiles": 3,
+  "blank": 116,
+  "comment": 210,
+  "code": 448},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 13,
+  "code": 142},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 112},
+"SUM": {
+  "blank": 536,
+  "comment": 223,
+  "code": 1528,
+  "nFiles": 28} }

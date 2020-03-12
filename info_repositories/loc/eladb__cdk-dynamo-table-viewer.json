@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.19766092300415,
+  "n_files"            : 13,
+  "n_lines"            : 6263,
+  "files_per_second"   : 65.7691960677884,
+  "lines_per_second"   : 31685.5749978892,
+  "report_file"        : "loc/eladb__cdk-dynamo-table-viewer.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5800},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 1,
+  "code": 260},
+"TypeScript" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 19,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 67,
+  "comment": 20,
+  "code": 6176,
+  "nFiles": 13} }

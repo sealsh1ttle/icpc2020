@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.26081919670105,
+  "n_files"            : 867,
+  "n_lines"            : 93926,
+  "files_per_second"   : 119.408013959902,
+  "lines_per_second"   : 12936.0059044956,
+  "report_file"        : "loc/expressjs__expressjs.com.json"},
+"Markdown" :{
+  "nFiles": 777,
+  "blank": 19787,
+  "comment": 0,
+  "code": 61024},
+"HTML" :{
+  "nFiles": 62,
+  "blank": 1607,
+  "comment": 63,
+  "code": 8745},
+"CSS" :{
+  "nFiles": 15,
+  "blank": 340,
+  "comment": 100,
+  "code": 1208},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 3,
+  "code": 556},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 86,
+  "comment": 37,
+  "code": 264},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 13,
+  "code": 36},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 3,
+  "code": 19},
+"SUM": {
+  "blank": 21827,
+  "comment": 219,
+  "code": 71880,
+  "nFiles": 867} }

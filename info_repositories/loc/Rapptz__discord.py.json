@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.46135807037354,
+  "n_files"            : 119,
+  "n_lines"            : 63356,
+  "files_per_second"   : 81.4311033089807,
+  "lines_per_second"   : 43354.1931196956,
+  "report_file"        : "loc/Rapptz__discord.py.json"},
+"PO File" :{
+  "nFiles": 18,
+  "blank": 5445,
+  "comment": 8760,
+  "code": 13004},
+"Python" :{
+  "nFiles": 68,
+  "blank": 5724,
+  "comment": 9619,
+  "code": 12461},
+"reStructuredText" :{
+  "nFiles": 19,
+  "blank": 2331,
+  "comment": 2386,
+  "code": 2278},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 107,
+  "comment": 20,
+  "code": 450},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 6,
+  "code": 148},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 0,
+  "code": 86},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 14,
+  "code": 81},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 2,
+  "code": 55},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 13742,
+  "comment": 20809,
+  "code": 28805,
+  "nFiles": 119} }

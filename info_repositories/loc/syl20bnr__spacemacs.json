@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 109.397840023041,
+  "n_files"            : 404,
+  "n_lines"            : 60931,
+  "files_per_second"   : 3.692943114004,
+  "lines_per_second"   : 556.967120988559,
+  "report_file"        : "loc/syl20bnr__spacemacs.json"},
+"Lisp" :{
+  "nFiles": 381,
+  "blank": 5742,
+  "comment": 9904,
+  "code": 42832},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 237,
+  "comment": 0,
+  "code": 614},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 569},
+"Python" :{
+  "nFiles": 2,
+  "blank": 73,
+  "comment": 106,
+  "code": 433},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 0,
+  "code": 89},
+"make" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 40,
+  "code": 64},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 13,
+  "code": 47},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 24,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 6131,
+  "comment": 10088,
+  "code": 44712,
+  "nFiles": 404} }

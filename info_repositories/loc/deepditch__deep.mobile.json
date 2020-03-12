@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3917.80155587196,
+  "n_files"            : 12661,
+  "n_lines"            : 2445049,
+  "files_per_second"   : 3.23165934247584,
+  "lines_per_second"   : 624.086994997331,
+  "report_file"        : "loc/deepditch__deep.mobile.json"},
+"C/C++ Header" :{
+  "nFiles": 12302,
+  "blank": 332125,
+  "comment": 344436,
+  "code": 1679696},
+"C++" :{
+  "nFiles": 210,
+  "blank": 9348,
+  "comment": 8003,
+  "code": 45227},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 36,
+  "comment": 0,
+  "code": 10083},
+"Swift" :{
+  "nFiles": 55,
+  "blank": 1721,
+  "comment": 2824,
+  "code": 6241},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 362,
+  "comment": 0,
+  "code": 1042},
+"XML" :{
+  "nFiles": 20,
+  "blank": 69,
+  "comment": 3,
+  "code": 965},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 112,
+  "comment": 19,
+  "code": 819},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 78,
+  "comment": 87,
+  "code": 464},
+"m4" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 259},
+"Objective C" :{
+  "nFiles": 16,
+  "blank": 38,
+  "comment": 22,
+  "code": 148},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 31,
+  "code": 144},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 89,
+  "code": 93},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 33,
+  "comment": 27,
+  "code": 73},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 61,
+  "code": 63},
+"Java" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 4,
+  "code": 48},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 15},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 5},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 344036,
+  "comment": 355628,
+  "code": 1745385,
+  "nFiles": 12661} }

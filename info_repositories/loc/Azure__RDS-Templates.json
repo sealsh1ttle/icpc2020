@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 108.563168048859,
+  "n_files"            : 297,
+  "n_lines"            : 73215,
+  "files_per_second"   : 2.73573446075501,
+  "lines_per_second"   : 674.399995098243,
+  "report_file"        : "loc/Azure__RDS-Templates.json"},
+"JSON" :{
+  "nFiles": 58,
+  "blank": 10,
+  "comment": 0,
+  "code": 13066},
+"Markdown" :{
+  "nFiles": 113,
+  "blank": 3336,
+  "comment": 0,
+  "code": 10883},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 3042,
+  "comment": 2622,
+  "code": 10845},
+"PowerShell" :{
+  "nFiles": 47,
+  "blank": 2441,
+  "comment": 1710,
+  "code": 9677},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 298,
+  "comment": 194,
+  "code": 8818},
+"C#" :{
+  "nFiles": 31,
+  "blank": 264,
+  "comment": 72,
+  "code": 2131},
+"Razor" :{
+  "nFiles": 13,
+  "blank": 163,
+  "comment": 104,
+  "code": 1566},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 1352},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 291},
+"XML" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 43,
+  "code": 160},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 46},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 33},
+"SUM": {
+  "blank": 9601,
+  "comment": 4746,
+  "code": 58868,
+  "nFiles": 297} }

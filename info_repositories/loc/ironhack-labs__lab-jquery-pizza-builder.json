@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.67190408706665,
+  "n_files"            : 5,
+  "n_lines"            : 10676,
+  "files_per_second"   : 7.44153830322514,
+  "lines_per_second"   : 15889.1725850463,
+  "report_file"        : "loc/ironhack-labs__lab-jquery-pizza-builder.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 1548,
+  "comment": 1492,
+  "code": 6171},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 160,
+  "comment": 26,
+  "code": 853},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 12,
+  "code": 241},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 44,
+  "comment": 0,
+  "code": 87},
+"SUM": {
+  "blank": 1794,
+  "comment": 1530,
+  "code": 7352,
+  "nFiles": 5} }

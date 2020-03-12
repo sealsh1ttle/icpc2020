@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.9953520298004,
+  "n_files"            : 59,
+  "n_lines"            : 8477,
+  "files_per_second"   : 5.36590368731204,
+  "lines_per_second"   : 770.962128090579,
+  "report_file"        : "loc/chxchx__mixerclient.json"},
+"C++" :{
+  "nFiles": 28,
+  "blank": 674,
+  "comment": 764,
+  "code": 3611},
+"C/C++ Header" :{
+  "nFiles": 23,
+  "blank": 436,
+  "comment": 935,
+  "code": 1374},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 223,
+  "code": 125},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 36,
+  "code": 59},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 42},
+"Python" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 19,
+  "code": 34},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 29},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 1203,
+  "comment": 1979,
+  "code": 5295,
+  "nFiles": 59} }

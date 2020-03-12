@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 58.415363073349,
+  "n_files"            : 197,
+  "n_lines"            : 23242,
+  "files_per_second"   : 3.37240050622707,
+  "lines_per_second"   : 397.874784597611,
+  "report_file"        : "loc/plone__Products.ATContentTypes.json"},
+"Python" :{
+  "nFiles": 115,
+  "blank": 2441,
+  "comment": 2151,
+  "code": 11419},
+"XML" :{
+  "nFiles": 68,
+  "blank": 274,
+  "comment": 25,
+  "code": 3228},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 908,
+  "comment": 5,
+  "code": 2338},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 18,
+  "code": 216},
+"COBOL" :{
+  "nFiles": 5,
+  "blank": 27,
+  "comment": 0,
+  "code": 107},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 5,
+  "code": 37},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 3676,
+  "comment": 2204,
+  "code": 17362,
+  "nFiles": 197} }

@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.47623109817505,
+  "n_files"            : 438,
+  "n_lines"            : 309910,
+  "files_per_second"   : 51.6739096571237,
+  "lines_per_second"   : 36562.2405064822,
+  "report_file"        : "loc/RaRe-Technologies__gensim.json"},
+"C" :{
+  "nFiles": 7,
+  "blank": 7238,
+  "comment": 35452,
+  "code": 70944},
+"Python" :{
+  "nFiles": 184,
+  "blank": 13347,
+  "comment": 26178,
+  "code": 32548},
+"C++" :{
+  "nFiles": 3,
+  "blank": 2254,
+  "comment": 10523,
+  "code": 24765},
+"RobotFramework" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 2,
+  "code": 8181},
+"Jupyter Notebook" :{
+  "nFiles": 48,
+  "blank": 4,
+  "comment": 56995,
+  "code": 6185},
+"Cython" :{
+  "nFiles": 14,
+  "blank": 887,
+  "comment": 1377,
+  "code": 2549},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 550,
+  "comment": 0,
+  "code": 1973},
+"reStructuredText" :{
+  "nFiles": 123,
+  "blank": 772,
+  "comment": 1509,
+  "code": 1119},
+"Objective C++" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 936},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 126,
+  "comment": 91,
+  "code": 862},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 71,
+  "comment": 15,
+  "code": 512},
+"diff" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 103,
+  "code": 396},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 5,
+  "code": 195},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 22,
+  "comment": 92,
+  "code": 176},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 23,
+  "code": 118},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 18,
+  "code": 105},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 37,
+  "comment": 71,
+  "code": 93},
+"INI" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 1,
+  "code": 85},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 84},
+"make" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 7,
+  "code": 76},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 7,
+  "code": 63},
+"SUM": {
+  "blank": 25476,
+  "comment": 132469,
+  "code": 151965,
+  "nFiles": 438} }

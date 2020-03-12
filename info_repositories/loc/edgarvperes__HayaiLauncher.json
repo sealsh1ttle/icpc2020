@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.3783891201019,
+  "n_files"            : 58,
+  "n_lines"            : 3755,
+  "files_per_second"   : 2.59178619554435,
+  "lines_per_second"   : 167.795813177052,
+  "report_file"        : "loc/edgarvperes__HayaiLauncher.json"},
+"Java" :{
+  "nFiles": 17,
+  "blank": 350,
+  "comment": 274,
+  "code": 1500},
+"XML" :{
+  "nFiles": 32,
+  "blank": 109,
+  "comment": 87,
+  "code": 1039},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 78},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 1,
+  "code": 38},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 514,
+  "comment": 385,
+  "code": 2856,
+  "nFiles": 58} }

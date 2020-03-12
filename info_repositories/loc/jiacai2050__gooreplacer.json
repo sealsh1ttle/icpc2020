@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.478032112121582,
+  "n_files"            : 47,
+  "n_lines"            : 28226,
+  "files_per_second"   : 98.319754694735,
+  "lines_per_second"   : 59046.2424683743,
+  "report_file"        : "loc/jiacai2050__gooreplacer.json"},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 5095,
+  "comment": 7384,
+  "code": 14031},
+"ClojureScript" :{
+  "nFiles": 11,
+  "blank": 55,
+  "comment": 4,
+  "code": 622},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 117,
+  "comment": 0,
+  "code": 317},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 10,
+  "comment": 2,
+  "code": 222},
+"Clojure" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 2,
+  "code": 118},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 13,
+  "code": 79},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 65},
+"Python" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 4,
+  "code": 28},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 5313,
+  "comment": 7409,
+  "code": 15504,
+  "nFiles": 47} }

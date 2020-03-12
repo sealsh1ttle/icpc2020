@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.4957239627838,
+  "n_files"            : 351,
+  "n_lines"            : 30957,
+  "files_per_second"   : 5.35912848599775,
+  "lines_per_second"   : 472.656810658212,
+  "report_file"        : "loc/hmrc__pensions-lifetime-allowance-frontend.json"},
+"Scala" :{
+  "nFiles": 251,
+  "blank": 4539,
+  "comment": 3817,
+  "code": 16732},
+"HTML" :{
+  "nFiles": 75,
+  "blank": 842,
+  "comment": 0,
+  "code": 4362},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 0,
+  "code": 190},
+"XML" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 0,
+  "code": 178},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 89},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 0,
+  "code": 60},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 5505,
+  "comment": 3817,
+  "code": 21635,
+  "nFiles": 351} }

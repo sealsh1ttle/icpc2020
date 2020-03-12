@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.214820146560669,
+  "n_files"            : 9,
+  "n_lines"            : 724,
+  "files_per_second"   : 41.8955118693127,
+  "lines_per_second"   : 3370.26117704249,
+  "report_file"        : "loc/WeAllCode__linux-update.json"},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 132,
+  "comment": 130,
+  "code": 288},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 0,
+  "code": 103},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 13,
+  "code": 20},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 158,
+  "comment": 143,
+  "code": 423,
+  "nFiles": 9} }

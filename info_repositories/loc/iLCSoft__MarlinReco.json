@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 127.279108047485,
+  "n_files"            : 398,
+  "n_lines"            : 103571,
+  "files_per_second"   : 3.12698608676228,
+  "lines_per_second"   : 813.73134671371,
+  "report_file"        : "loc/iLCSoft__MarlinReco.json"},
+"C++" :{
+  "nFiles": 138,
+  "blank": 12902,
+  "comment": 9273,
+  "code": 45246},
+"C/C++ Header" :{
+  "nFiles": 142,
+  "blank": 3917,
+  "comment": 4355,
+  "code": 8909},
+"XML" :{
+  "nFiles": 45,
+  "blank": 824,
+  "comment": 2447,
+  "code": 5309},
+"Fortran 77" :{
+  "nFiles": 37,
+  "blank": 152,
+  "comment": 1865,
+  "code": 3191},
+"TeX" :{
+  "nFiles": 5,
+  "blank": 391,
+  "comment": 81,
+  "code": 1818},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 433,
+  "comment": 0,
+  "code": 1083},
+"CMake" :{
+  "nFiles": 8,
+  "blank": 199,
+  "comment": 161,
+  "code": 421},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 4,
+  "code": 145},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 81,
+  "comment": 27,
+  "code": 110},
+"Python" :{
+  "nFiles": 1,
+  "blank": 62,
+  "comment": 52,
+  "code": 78},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 18977,
+  "comment": 18265,
+  "code": 66329,
+  "nFiles": 398} }

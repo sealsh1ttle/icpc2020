@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.53592705726624,
+  "n_files"            : 1,
+  "n_lines"            : 6,
+  "files_per_second"   : 0.651072585295736,
+  "lines_per_second"   : 3.90643551177442,
+  "report_file"        : "loc/BobPalmer__CommunityResourcePack.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 2,
+  "comment": 0,
+  "code": 4,
+  "nFiles": 1} }

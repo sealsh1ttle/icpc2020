@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.209694862365723,
+  "n_files"            : 25,
+  "n_lines"            : 4772,
+  "files_per_second"   : 119.220851278646,
+  "lines_per_second"   : 22756.876092068,
+  "report_file"        : "loc/JaredRNeal__announceBot.json"},
+"Python" :{
+  "nFiles": 23,
+  "blank": 595,
+  "comment": 311,
+  "code": 3650},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 77,
+  "comment": 0,
+  "code": 96},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 674,
+  "comment": 311,
+  "code": 3787,
+  "nFiles": 25} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.3022367954254,
+  "n_files"            : 68,
+  "n_lines"            : 46048,
+  "files_per_second"   : 1.02560642425704,
+  "lines_per_second"   : 694.516538591005,
+  "report_file"        : "loc/att__rcloud.social.json"},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 24,
+  "comment": 0,
+  "code": 29005},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 334,
+  "comment": 103,
+  "code": 7980},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 3168,
+  "comment": 0,
+  "code": 4162},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 35,
+  "code": 337},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 27,
+  "comment": 3,
+  "code": 322},
+"make" :{
+  "nFiles": 7,
+  "blank": 81,
+  "comment": 86,
+  "code": 175},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 105},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 20,
+  "code": 26},
+"SUM": {
+  "blank": 3689,
+  "comment": 247,
+  "code": 42112,
+  "nFiles": 68} }

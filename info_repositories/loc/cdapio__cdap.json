@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2882.6982588768,
+  "n_files"            : 7120,
+  "n_lines"            : 982173,
+  "files_per_second"   : 2.4699081765062,
+  "lines_per_second"   : 340.713079135341,
+  "report_file"        : "loc/cdapio__cdap.json"},
+"Java" :{
+  "nFiles": 4416,
+  "blank": 73403,
+  "comment": 151326,
+  "code": 384773},
+"JavaScript" :{
+  "nFiles": 1073,
+  "blank": 19881,
+  "comment": 30827,
+  "code": 120784},
+"reStructuredText" :{
+  "nFiles": 360,
+  "blank": 15535,
+  "comment": 13012,
+  "code": 33856},
+"Sass" :{
+  "nFiles": 372,
+  "blank": 2839,
+  "comment": 129,
+  "code": 24535},
+"TypeScript" :{
+  "nFiles": 201,
+  "blank": 2068,
+  "comment": 3471,
+  "code": 17400},
+"Maven" :{
+  "nFiles": 82,
+  "blank": 913,
+  "comment": 1392,
+  "code": 17276},
+"LESS" :{
+  "nFiles": 78,
+  "blank": 1215,
+  "comment": 1353,
+  "code": 10606},
+"HTML" :{
+  "nFiles": 137,
+  "blank": 967,
+  "comment": 1577,
+  "code": 6922},
+"XML" :{
+  "nFiles": 41,
+  "blank": 844,
+  "comment": 788,
+  "code": 4685},
+"Markdown" :{
+  "nFiles": 90,
+  "blank": 1353,
+  "comment": 0,
+  "code": 4465},
+"Python" :{
+  "nFiles": 30,
+  "blank": 1082,
+  "comment": 1575,
+  "code": 4270},
+"Bourne Shell" :{
+  "nFiles": 48,
+  "blank": 701,
+  "comment": 1543,
+  "code": 3903},
+"JSON" :{
+  "nFiles": 58,
+  "blank": 12,
+  "comment": 0,
+  "code": 3736},
+"Scala" :{
+  "nFiles": 73,
+  "blank": 855,
+  "comment": 2394,
+  "code": 3213},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 47,
+  "comment": 33,
+  "code": 2957},
+"SVG" :{
+  "nFiles": 20,
+  "blank": 2,
+  "comment": 11,
+  "code": 2807},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 543,
+  "comment": 281,
+  "code": 2200},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 66,
+  "comment": 44,
+  "code": 453},
+"Bourne Again Shell" :{
+  "nFiles": 14,
+  "blank": 84,
+  "comment": 254,
+  "code": 275},
+"GraphQL" :{
+  "nFiles": 6,
+  "blank": 33,
+  "comment": 10,
+  "code": 166},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 68,
+  "code": 136},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 33,
+  "code": 68},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 22,
+  "code": 33},
+"SUM": {
+  "blank": 122511,
+  "comment": 210143,
+  "code": 649519,
+  "nFiles": 7120} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.128001928329468,
+  "n_files"            : 4,
+  "n_lines"            : 71,
+  "files_per_second"   : 31.2495292235308,
+  "lines_per_second"   : 554.679143717672,
+  "report_file"        : "loc/healthlocker__hl_umbrella.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"Elixir" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 25,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 8,
+  "comment": 25,
+  "code": 38,
+  "nFiles": 4} }

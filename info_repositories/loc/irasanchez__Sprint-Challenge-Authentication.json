@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.57302498817444,
+  "n_files"            : 10,
+  "n_lines"            : 309,
+  "files_per_second"   : 6.35717809645568,
+  "lines_per_second"   : 196.436803180481,
+  "report_file"        : "loc/irasanchez__Sprint-Challenge-Authentication.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 33,
+  "comment": 6,
+  "code": 151},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 50},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"SUM": {
+  "blank": 68,
+  "comment": 6,
+  "code": 235,
+  "nFiles": 10} }

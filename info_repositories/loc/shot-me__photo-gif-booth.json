@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.57668399810791,
+  "n_files"            : 52,
+  "n_lines"            : 2843,
+  "files_per_second"   : 90.1707003672914,
+  "lines_per_second"   : 4929.90963738864,
+  "report_file"        : "loc/shot-me__photo-gif-booth.json"},
+"JavaScript" :{
+  "nFiles": 26,
+  "blank": 103,
+  "comment": 13,
+  "code": 994},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 840},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 79,
+  "comment": 11,
+  "code": 573},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 36,
+  "comment": 0,
+  "code": 57},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 15,
+  "code": 54},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 0,
+  "code": 24},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 251,
+  "comment": 39,
+  "code": 2553,
+  "nFiles": 52} }

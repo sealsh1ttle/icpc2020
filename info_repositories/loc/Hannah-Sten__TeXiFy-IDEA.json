@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.67805504798889,
+  "n_files"            : 603,
+  "n_lines"            : 36123,
+  "files_per_second"   : 163.945343974586,
+  "lines_per_second"   : 9821.22331740292,
+  "report_file"        : "loc/Hannah-Sten__TeXiFy-IDEA.json"},
+"Kotlin" :{
+  "nFiles": 314,
+  "blank": 3671,
+  "comment": 4034,
+  "code": 14152},
+"Java" :{
+  "nFiles": 130,
+  "blank": 1515,
+  "comment": 1569,
+  "code": 6558},
+"SVG" :{
+  "nFiles": 73,
+  "blank": 17,
+  "comment": 55,
+  "code": 1941},
+"XML" :{
+  "nFiles": 4,
+  "blank": 96,
+  "comment": 88,
+  "code": 684},
+"HTML" :{
+  "nFiles": 65,
+  "blank": 0,
+  "comment": 51,
+  "code": 524},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 171,
+  "comment": 0,
+  "code": 430},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 37,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 37,
+  "code": 106},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"Python" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 2,
+  "code": 28},
+"Forth" :{
+  "nFiles": 6,
+  "blank": 19,
+  "comment": 16,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 5583,
+  "comment": 5892,
+  "code": 24648,
+  "nFiles": 603} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.31519889831543,
+  "n_files"            : 14,
+  "n_lines"            : 869,
+  "files_per_second"   : 44.4163988986718,
+  "lines_per_second"   : 2756.98933163898,
+  "report_file"        : "loc/Shnupbups__easyexcavate.json"},
+"Java" :{
+  "nFiles": 4,
+  "blank": 36,
+  "comment": 0,
+  "code": 416},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 4,
+  "comment": 0,
+  "code": 62},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 13,
+  "code": 61},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 98,
+  "comment": 38,
+  "code": 733,
+  "nFiles": 14} }

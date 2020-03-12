@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.4117469787598,
+  "n_files"            : 165,
+  "n_lines"            : 14229,
+  "files_per_second"   : 4.53150462943319,
+  "lines_per_second"   : 390.780481043666,
+  "report_file"        : "loc/scrnhq__laravel-bakery.json"},
+"PHP" :{
+  "nFiles": 155,
+  "blank": 2102,
+  "comment": 3312,
+  "code": 8220},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 78,
+  "comment": 0,
+  "code": 256},
+"Blade" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 113},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 62},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 51},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 2194,
+  "comment": 3312,
+  "code": 8723,
+  "nFiles": 165} }

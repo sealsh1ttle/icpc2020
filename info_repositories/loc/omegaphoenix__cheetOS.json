@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 117.538275003433,
+  "n_files"            : 476,
+  "n_lines"            : 54582,
+  "files_per_second"   : 4.04974464689137,
+  "lines_per_second"   : 464.376391421481,
+  "report_file"        : "loc/omegaphoenix__cheetOS.json"},
+"HTML" :{
+  "nFiles": 56,
+  "blank": 1626,
+  "comment": 81,
+  "code": 17485},
+"C" :{
+  "nFiles": 274,
+  "blank": 3939,
+  "comment": 4631,
+  "code": 16669},
+"Perl" :{
+  "nFiles": 15,
+  "blank": 693,
+  "comment": 1146,
+  "code": 2729},
+"C/C++ Header" :{
+  "nFiles": 97,
+  "blank": 805,
+  "comment": 874,
+  "code": 1949},
+"Assembly" :{
+  "nFiles": 8,
+  "blank": 216,
+  "comment": 364,
+  "code": 498},
+"diff" :{
+  "nFiles": 10,
+  "blank": 27,
+  "comment": 172,
+  "code": 175},
+"make" :{
+  "nFiles": 8,
+  "blank": 67,
+  "comment": 23,
+  "code": 122},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 17,
+  "code": 105},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 92},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 10},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 17,
+  "code": 2},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 7418,
+  "comment": 7326,
+  "code": 39838,
+  "nFiles": 476} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.87601804733276,
+  "n_files"            : 20,
+  "n_lines"            : 1343,
+  "files_per_second"   : 6.95405928295482,
+  "lines_per_second"   : 466.965080850416,
+  "report_file"        : "loc/ropensci__ezknitr.json"},
+"R" :{
+  "nFiles": 10,
+  "blank": 55,
+  "comment": 240,
+  "code": 328},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 107,
+  "comment": 0,
+  "code": 327},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 33},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 12},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"Rmd" :{
+  "nFiles": 2,
+  "blank": 62,
+  "comment": 151,
+  "code": 6},
+"SUM": {
+  "blank": 233,
+  "comment": 397,
+  "code": 713,
+  "nFiles": 20} }

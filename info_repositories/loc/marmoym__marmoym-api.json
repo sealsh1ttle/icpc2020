@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.3139910697937,
+  "n_files"            : 56,
+  "n_lines"            : 2037,
+  "files_per_second"   : 3.43263642602375,
+  "lines_per_second"   : 124.862149996614,
+  "report_file"        : "loc/marmoym__marmoym-api.json"},
+"TypeScript" :{
+  "nFiles": 40,
+  "blank": 176,
+  "comment": 198,
+  "code": 1058},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 208},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 26,
+  "comment": 22,
+  "code": 186},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 25,
+  "comment": 0,
+  "code": 95},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 236,
+  "comment": 220,
+  "code": 1581,
+  "nFiles": 56} }

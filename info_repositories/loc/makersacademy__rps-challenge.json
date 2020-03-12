@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.72959399223328,
+  "n_files"            : 8,
+  "n_lines"            : 1110,
+  "files_per_second"   : 4.62536296721885,
+  "lines_per_second"   : 641.769111701615,
+  "report_file"        : "loc/makersacademy__rps-challenge.json"},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 55,
+  "code": 436},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 159,
+  "comment": 0,
+  "code": 428},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 17},
+"SUM": {
+  "blank": 172,
+  "comment": 57,
+  "code": 881,
+  "nFiles": 8} }

@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.734442949295,
+  "n_files"            : 148,
+  "n_lines"            : 7736,
+  "files_per_second"   : 4.0289164097108,
+  "lines_per_second"   : 210.59254963191,
+  "report_file"        : "loc/wix__react-native-notifications.json"},
+"JavaScript" :{
+  "nFiles": 24,
+  "blank": 290,
+  "comment": 79,
+  "code": 1440},
+"Java" :{
+  "nFiles": 32,
+  "blank": 385,
+  "comment": 61,
+  "code": 1394},
+"Objective C" :{
+  "nFiles": 23,
+  "blank": 294,
+  "comment": 37,
+  "code": 961},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 251,
+  "comment": 0,
+  "code": 584},
+"C/C++ Header" :{
+  "nFiles": 25,
+  "blank": 211,
+  "comment": 164,
+  "code": 416},
+"XML" :{
+  "nFiles": 13,
+  "blank": 14,
+  "comment": 12,
+  "code": 240},
+"Gradle" :{
+  "nFiles": 7,
+  "blank": 32,
+  "comment": 7,
+  "code": 206},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 197},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 26,
+  "code": 71},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 4,
+  "code": 41},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 15,
+  "code": 2},
+"SUM": {
+  "blank": 1553,
+  "comment": 427,
+  "code": 5756,
+  "nFiles": 148} }

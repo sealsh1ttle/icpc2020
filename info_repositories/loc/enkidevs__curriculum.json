@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 647.235406160355,
+  "n_files"            : 2701,
+  "n_lines"            : 193312,
+  "files_per_second"   : 4.17313387724469,
+  "lines_per_second"   : 298.673400991457,
+  "report_file"        : "loc/enkidevs__curriculum.json"},
+"Markdown" :{
+  "nFiles": 2701,
+  "blank": 59903,
+  "comment": 0,
+  "code": 133409},
+"SUM": {
+  "blank": 59903,
+  "comment": 0,
+  "code": 133409,
+  "nFiles": 2701} }

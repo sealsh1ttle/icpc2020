@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.124426126480103,
+  "n_files"            : 11,
+  "n_lines"            : 1154,
+  "files_per_second"   : 88.4058703037666,
+  "lines_per_second"   : 9274.57948459515,
+  "report_file"        : "loc/machine-drivers__docker-machine-driver-qemu.json"},
+"Go" :{
+  "nFiles": 3,
+  "blank": 92,
+  "comment": 47,
+  "code": 749},
+"make" :{
+  "nFiles": 7,
+  "blank": 39,
+  "comment": 26,
+  "code": 132},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 51},
+"SUM": {
+  "blank": 149,
+  "comment": 73,
+  "code": 932,
+  "nFiles": 11} }

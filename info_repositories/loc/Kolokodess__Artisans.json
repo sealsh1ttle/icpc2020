@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.3066771030426,
+  "n_files"            : 811,
+  "n_lines"            : 45597,
+  "files_per_second"   : 110.994367010181,
+  "lines_per_second"   : 6240.45641499783,
+  "report_file"        : "loc/Kolokodess__Artisans.json"},
+"SVG" :{
+  "nFiles": 736,
+  "blank": 11,
+  "comment": 736,
+  "code": 15266},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 747,
+  "comment": 56,
+  "code": 10536},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5880},
+"Sass" :{
+  "nFiles": 18,
+  "blank": 41,
+  "comment": 40,
+  "code": 4011},
+"LESS" :{
+  "nFiles": 18,
+  "blank": 39,
+  "comment": 56,
+  "code": 3991},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 582,
+  "comment": 221,
+  "code": 1617},
+"Python" :{
+  "nFiles": 17,
+  "blank": 236,
+  "comment": 324,
+  "code": 907},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 39,
+  "comment": 9,
+  "code": 252},
+"SUM": {
+  "blank": 1695,
+  "comment": 1442,
+  "code": 42460,
+  "nFiles": 811} }

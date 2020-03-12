@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.3673679828644,
+  "n_files"            : 55,
+  "n_lines"            : 3947,
+  "files_per_second"   : 2.99444101361238,
+  "lines_per_second"   : 214.891976013238,
+  "report_file"        : "loc/lappis-unb__BotFlow.json"},
+"JavaScript" :{
+  "nFiles": 40,
+  "blank": 353,
+  "comment": 35,
+  "code": 3030},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 2,
+  "code": 199},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 99,
+  "comment": 0,
+  "code": 105},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 60},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 463,
+  "comment": 57,
+  "code": 3427,
+  "nFiles": 55} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.56444716453552,
+  "n_files"            : 9,
+  "n_lines"            : 2720,
+  "files_per_second"   : 5.75283090667499,
+  "lines_per_second"   : 1738.633340684,
+  "report_file"        : "loc/GoogleChromeLabs__pptraas.com.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1962},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 76,
+  "comment": 119,
+  "code": 474},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 28},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 21},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 12},
+"SUM": {
+  "blank": 99,
+  "comment": 124,
+  "code": 2497,
+  "nFiles": 9} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.5876278877258,
+  "n_files"            : 106,
+  "n_lines"            : 6367,
+  "files_per_second"   : 3.06467966939174,
+  "lines_per_second"   : 184.083164669973,
+  "report_file"        : "loc/xfumihiro__ViewInspector.json"},
+"Java" :{
+  "nFiles": 54,
+  "blank": 650,
+  "comment": 358,
+  "code": 2959},
+"XML" :{
+  "nFiles": 30,
+  "blank": 27,
+  "comment": 13,
+  "code": 841},
+"Gradle" :{
+  "nFiles": 11,
+  "blank": 64,
+  "comment": 15,
+  "code": 439},
+"Groovy" :{
+  "nFiles": 5,
+  "blank": 94,
+  "comment": 64,
+  "code": 419},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 0,
+  "code": 110},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 10},
+"SUM": {
+  "blank": 931,
+  "comment": 473,
+  "code": 4963,
+  "nFiles": 106} }

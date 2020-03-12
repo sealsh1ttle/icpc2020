@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.178864002227783,
+  "n_files"            : 2,
+  "n_lines"            : 1968,
+  "files_per_second"   : 11.1816797963237,
+  "lines_per_second"   : 11002.7729195825,
+  "report_file"        : "loc/Quorafind__golang-developer-roadmap-cn.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1786},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 50,
+  "comment": 0,
+  "code": 132},
+"SUM": {
+  "blank": 50,
+  "comment": 0,
+  "code": 1918,
+  "nFiles": 2} }

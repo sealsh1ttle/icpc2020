@@ -1,0 +1,164 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.9865610599518,
+  "n_files"            : 6589,
+  "n_lines"            : 2969905,
+  "files_per_second"   : 92.8203860225776,
+  "lines_per_second"   : 41837.566937378,
+  "report_file"        : "loc/godotengine__godot.json"},
+"C++" :{
+  "nFiles": 1267,
+  "blank": 160516,
+  "comment": 65010,
+  "code": 617758},
+"C" :{
+  "nFiles": 930,
+  "blank": 85873,
+  "comment": 80694,
+  "code": 439767},
+"PO File" :{
+  "nFiles": 61,
+  "blank": 176716,
+  "comment": 208552,
+  "code": 391029},
+"C/C++ Header" :{
+  "nFiles": 2379,
+  "blank": 81143,
+  "comment": 142161,
+  "code": 328013},
+"XML" :{
+  "nFiles": 708,
+  "blank": 141,
+  "comment": 56,
+  "code": 74113},
+"Assembly" :{
+  "nFiles": 40,
+  "blank": 3855,
+  "comment": 2878,
+  "code": 17089},
+"OpenCL" :{
+  "nFiles": 26,
+  "blank": 3009,
+  "comment": 812,
+  "code": 11205},
+"C#" :{
+  "nFiles": 99,
+  "blank": 2468,
+  "comment": 613,
+  "code": 11031},
+"Python" :{
+  "nFiles": 153,
+  "blank": 2604,
+  "comment": 1230,
+  "code": 8733},
+"Java" :{
+  "nFiles": 69,
+  "blank": 1598,
+  "comment": 4047,
+  "code": 7960},
+"GLSL" :{
+  "nFiles": 34,
+  "blank": 2902,
+  "comment": 1004,
+  "code": 7407},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6687},
+"Objective C++" :{
+  "nFiles": 15,
+  "blank": 1533,
+  "comment": 989,
+  "code": 5382},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 124,
+  "comment": 27,
+  "code": 2296},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 418,
+  "comment": 0,
+  "code": 1896},
+"SVG" :{
+  "nFiles": 689,
+  "blank": 3,
+  "comment": 3,
+  "code": 1245},
+"diff" :{
+  "nFiles": 14,
+  "blank": 122,
+  "comment": 538,
+  "code": 917},
+"make" :{
+  "nFiles": 43,
+  "blank": 578,
+  "comment": 1035,
+  "code": 702},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 104,
+  "comment": 195,
+  "code": 616},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 101,
+  "comment": 70,
+  "code": 454},
+"MSBuild script" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 12,
+  "code": 334},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 63,
+  "code": 265},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 54,
+  "comment": 78,
+  "code": 240},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 91,
+  "code": 194},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 46,
+  "code": 153},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 19,
+  "code": 71},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 29,
+  "code": 17},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 13},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 523992,
+  "comment": 510255,
+  "code": 1935658,
+  "nFiles": 6589} }

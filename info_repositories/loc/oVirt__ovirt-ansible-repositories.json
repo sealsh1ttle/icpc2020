@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.142909049987793,
+  "n_files"            : 25,
+  "n_lines"            : 508,
+  "files_per_second"   : 174.936436860615,
+  "lines_per_second"   : 3554.70839700769,
+  "report_file"        : "loc/oVirt__ovirt-ansible-repositories.json"},
+"YAML" :{
+  "nFiles": 18,
+  "blank": 29,
+  "comment": 16,
+  "code": 190},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 20,
+  "code": 89},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 88},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 88,
+  "comment": 36,
+  "code": 384,
+  "nFiles": 25} }

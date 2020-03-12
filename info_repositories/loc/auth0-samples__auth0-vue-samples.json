@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.1878390312195,
+  "n_files"            : 44,
+  "n_lines"            : 27184,
+  "files_per_second"   : 4.31887467648114,
+  "lines_per_second"   : 2668.27930012417,
+  "report_file"        : "loc/auth0-samples__auth0-vue-samples.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 25683},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 64,
+  "comment": 9,
+  "code": 469},
+"Vuejs Component" :{
+  "nFiles": 10,
+  "blank": 37,
+  "comment": 6,
+  "code": 443},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 76,
+  "comment": 0,
+  "code": 130},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 88},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 6,
+  "code": 73},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 2,
+  "code": 40},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 222,
+  "comment": 25,
+  "code": 26937,
+  "nFiles": 44} }

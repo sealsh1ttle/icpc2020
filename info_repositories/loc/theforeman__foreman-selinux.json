@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.22941088676453,
+  "n_files"            : 15,
+  "n_lines"            : 554,
+  "files_per_second"   : 6.72823483954949,
+  "lines_per_second"   : 248.496140074028,
+  "report_file"        : "loc/theforeman__foreman-selinux.json"},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 32,
+  "comment": 8,
+  "code": 134},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 30,
+  "code": 99},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 97},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 112,
+  "comment": 39,
+  "code": 403,
+  "nFiles": 15} }

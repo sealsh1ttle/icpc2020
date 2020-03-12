@@ -1,0 +1,159 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 87.3448429107666,
+  "n_files"            : 5990,
+  "n_lines"            : 2231761,
+  "files_per_second"   : 68.5787483311352,
+  "lines_per_second"   : 25551.1479055497,
+  "report_file"        : "loc/presslabs__wordpress-operator.json"},
+"Go" :{
+  "nFiles": 4906,
+  "blank": 130749,
+  "comment": 208322,
+  "code": 1661968},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 324,
+  "comment": 9316,
+  "code": 54248},
+"JSON" :{
+  "nFiles": 56,
+  "blank": 18,
+  "comment": 0,
+  "code": 26702},
+"Swift" :{
+  "nFiles": 24,
+  "blank": 2874,
+  "comment": 2493,
+  "code": 18049},
+"Markdown" :{
+  "nFiles": 227,
+  "blank": 4984,
+  "comment": 0,
+  "code": 16531},
+"Protocol Buffers" :{
+  "nFiles": 265,
+  "blank": 5863,
+  "comment": 16506,
+  "code": 16520},
+"Assembly" :{
+  "nFiles": 58,
+  "blank": 1108,
+  "comment": 1308,
+  "code": 9018},
+"Java" :{
+  "nFiles": 2,
+  "blank": 499,
+  "comment": 1374,
+  "code": 6285},
+"XML" :{
+  "nFiles": 18,
+  "blank": 231,
+  "comment": 20,
+  "code": 6097},
+"YAML" :{
+  "nFiles": 143,
+  "blank": 226,
+  "comment": 94,
+  "code": 4966},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 513,
+  "comment": 87,
+  "code": 3238},
+"C++" :{
+  "nFiles": 1,
+  "blank": 411,
+  "comment": 220,
+  "code": 2749},
+"Bourne Shell" :{
+  "nFiles": 61,
+  "blank": 486,
+  "comment": 897,
+  "code": 2101},
+"m4" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 1658},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 202,
+  "comment": 22,
+  "code": 1621},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 259,
+  "comment": 222,
+  "code": 1608},
+"Perl" :{
+  "nFiles": 11,
+  "blank": 224,
+  "comment": 217,
+  "code": 1489},
+"make" :{
+  "nFiles": 113,
+  "blank": 334,
+  "comment": 1583,
+  "code": 1275},
+"Python" :{
+  "nFiles": 5,
+  "blank": 54,
+  "comment": 34,
+  "code": 562},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 71,
+  "comment": 86,
+  "code": 475},
+"C" :{
+  "nFiles": 8,
+  "blank": 102,
+  "comment": 99,
+  "code": 396},
+"Dockerfile" :{
+  "nFiles": 11,
+  "blank": 57,
+  "comment": 83,
+  "code": 248},
+"TOML" :{
+  "nFiles": 8,
+  "blank": 50,
+  "comment": 139,
+  "code": 157},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 20,
+  "code": 155},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 43,
+  "code": 149},
+"awk" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 79,
+  "code": 131},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 122},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 2,
+  "code": 115},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"SUM": {
+  "blank": 149825,
+  "comment": 243285,
+  "code": 1838651,
+  "nFiles": 5990} }

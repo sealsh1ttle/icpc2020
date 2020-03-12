@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.8857600688934,
+  "n_files"            : 63,
+  "n_lines"            : 27351,
+  "files_per_second"   : 3.16809615432043,
+  "lines_per_second"   : 1375.40631613997,
+  "report_file"        : "loc/LN-Zap__node-lnd-grpc.json"},
+"Protocol Buffers" :{
+  "nFiles": 23,
+  "blank": 3254,
+  "comment": 8024,
+  "code": 7184},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 6924},
+"JavaScript" :{
+  "nFiles": 35,
+  "blank": 196,
+  "comment": 284,
+  "code": 1156},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 105,
+  "comment": 0,
+  "code": 217},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 3555,
+  "comment": 8308,
+  "code": 15488,
+  "nFiles": 63} }

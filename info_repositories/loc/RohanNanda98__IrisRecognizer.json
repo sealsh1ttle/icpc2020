@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.199955940246582,
+  "n_files"            : 2,
+  "n_lines"            : 36,
+  "files_per_second"   : 10.0022034730933,
+  "lines_per_second"   : 180.039662515679,
+  "report_file"        : "loc/RohanNanda98__IrisRecognizer.json"},
+"Python" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 28},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 6,
+  "comment": 0,
+  "code": 30,
+  "nFiles": 2} }

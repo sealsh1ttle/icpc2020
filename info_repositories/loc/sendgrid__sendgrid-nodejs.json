@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 50.4452331066132,
+  "n_files"            : 179,
+  "n_lines"            : 28912,
+  "files_per_second"   : 3.54840267308694,
+  "lines_per_second"   : 573.136413878713,
+  "report_file"        : "loc/sendgrid__sendgrid-nodejs.json"},
+"JavaScript" :{
+  "nFiles": 79,
+  "blank": 966,
+  "comment": 1019,
+  "code": 8871},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 7364},
+"Markdown" :{
+  "nFiles": 43,
+  "blank": 2220,
+  "comment": 0,
+  "code": 6721},
+"TypeScript" :{
+  "nFiles": 31,
+  "blank": 173,
+  "comment": 280,
+  "code": 724},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 10,
+  "code": 439},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 0,
+  "code": 60},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 34},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 3381,
+  "comment": 1310,
+  "code": 24221,
+  "nFiles": 179} }

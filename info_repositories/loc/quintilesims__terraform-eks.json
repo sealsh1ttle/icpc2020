@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.60438084602356,
+  "n_files"            : 13,
+  "n_lines"            : 481,
+  "files_per_second"   : 8.10281426147685,
+  "lines_per_second"   : 299.804127674644,
+  "report_file"        : "loc/quintilesims__terraform-eks.json"},
+"HCL" :{
+  "nFiles": 6,
+  "blank": 53,
+  "comment": 24,
+  "code": 286},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 54},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"make" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 83,
+  "comment": 25,
+  "code": 373,
+  "nFiles": 13} }

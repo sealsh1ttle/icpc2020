@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.112393140792847,
+  "n_files"            : 1,
+  "n_lines"            : 182,
+  "files_per_second"   : 8.89734011297997,
+  "lines_per_second"   : 1619.31590056235,
+  "report_file"        : "loc/ericdouglas__ES6-Learning.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 151},
+"SUM": {
+  "blank": 31,
+  "comment": 0,
+  "code": 151,
+  "nFiles": 1} }

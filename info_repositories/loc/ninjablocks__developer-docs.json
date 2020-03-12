@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.1494140625,
+  "n_files"            : 195,
+  "n_lines"            : 8666,
+  "files_per_second"   : 169.651656754461,
+  "lines_per_second"   : 7539.49362786746,
+  "report_file"        : "loc/ninjablocks__developer-docs.json"},
+"reStructuredText" :{
+  "nFiles": 188,
+  "blank": 2813,
+  "comment": 2450,
+  "code": 2911},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"Python" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 161,
+  "code": 44},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2916,
+  "comment": 2617,
+  "code": 3133,
+  "nFiles": 195} }

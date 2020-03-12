@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.3744339942932,
+  "n_files"            : 78,
+  "n_lines"            : 27272,
+  "files_per_second"   : 7.51848245821472,
+  "lines_per_second"   : 2628.76991795425,
+  "report_file"        : "loc/OpenPromisesProject__ui-2.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 22798},
+"Vuejs Component" :{
+  "nFiles": 40,
+  "blank": 244,
+  "comment": 160,
+  "code": 2523},
+"JavaScript" :{
+  "nFiles": 32,
+  "blank": 137,
+  "comment": 116,
+  "code": 1239},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 32},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 392,
+  "comment": 277,
+  "code": 26603,
+  "nFiles": 78} }

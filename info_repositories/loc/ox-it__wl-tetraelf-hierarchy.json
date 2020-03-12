@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.3616809844971,
+  "n_files"            : 149,
+  "n_lines"            : 12084,
+  "files_per_second"   : 5.07464133537422,
+  "lines_per_second"   : 411.556818098403,
+  "report_file"        : "loc/ox-it__wl-tetraelf-hierarchy.json"},
+"Java" :{
+  "nFiles": 92,
+  "blank": 1449,
+  "comment": 1546,
+  "code": 6375},
+"XML" :{
+  "nFiles": 31,
+  "blank": 177,
+  "comment": 99,
+  "code": 871},
+"Maven" :{
+  "nFiles": 9,
+  "blank": 8,
+  "comment": 8,
+  "code": 660},
+"Velocity Template Language" :{
+  "nFiles": 13,
+  "blank": 49,
+  "comment": 211,
+  "code": 565},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 66},
+"SUM": {
+  "blank": 1683,
+  "comment": 1864,
+  "code": 8537,
+  "nFiles": 149} }

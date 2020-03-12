@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.4622440338135,
+  "n_files"            : 63,
+  "n_lines"            : 58995,
+  "files_per_second"   : 1.68169317201436,
+  "lines_per_second"   : 1574.78553465059,
+  "report_file"        : "loc/poanetwork__auth-os-applications.json"},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 6675,
+  "comment": 218,
+  "code": 25375},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 17356},
+"Solidity" :{
+  "nFiles": 37,
+  "blank": 1710,
+  "comment": 2674,
+  "code": 4868},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 0,
+  "code": 66},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 8423,
+  "comment": 2892,
+  "code": 47680,
+  "nFiles": 63} }

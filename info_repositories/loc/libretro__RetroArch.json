@@ -1,0 +1,194 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 81.6740710735321,
+  "n_files"            : 6079,
+  "n_lines"            : 1847681,
+  "files_per_second"   : 74.4299864093588,
+  "lines_per_second"   : 22622.6141995115,
+  "report_file"        : "loc/libretro__RetroArch.json"},
+"C" :{
+  "nFiles": 1278,
+  "blank": 112679,
+  "comment": 79189,
+  "code": 602201},
+"C/C++ Header" :{
+  "nFiles": 1621,
+  "blank": 71617,
+  "comment": 124636,
+  "code": 436948},
+"C++" :{
+  "nFiles": 212,
+  "blank": 27541,
+  "comment": 22440,
+  "code": 151658},
+"GLSL" :{
+  "nFiles": 2325,
+  "blank": 15025,
+  "comment": 2462,
+  "code": 87595},
+"XML" :{
+  "nFiles": 53,
+  "blank": 452,
+  "comment": 39,
+  "code": 13391},
+"Objective C" :{
+  "nFiles": 39,
+  "blank": 2164,
+  "comment": 810,
+  "code": 11696},
+"JSON" :{
+  "nFiles": 136,
+  "blank": 19,
+  "comment": 0,
+  "code": 10875},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 3661,
+  "comment": 64,
+  "code": 8871},
+"Markdown" :{
+  "nFiles": 58,
+  "blank": 2974,
+  "comment": 0,
+  "code": 7771},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 113,
+  "comment": 71,
+  "code": 6711},
+"Assembly" :{
+  "nFiles": 23,
+  "blank": 827,
+  "comment": 1083,
+  "code": 6331},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 178,
+  "comment": 108,
+  "code": 3328},
+"Bourne Shell" :{
+  "nFiles": 47,
+  "blank": 602,
+  "comment": 331,
+  "code": 3226},
+"Python" :{
+  "nFiles": 13,
+  "blank": 602,
+  "comment": 301,
+  "code": 2925},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 332,
+  "comment": 587,
+  "code": 2774},
+"make" :{
+  "nFiles": 59,
+  "blank": 677,
+  "comment": 122,
+  "code": 2694},
+"CMake" :{
+  "nFiles": 93,
+  "blank": 614,
+  "comment": 350,
+  "code": 2646},
+"diff" :{
+  "nFiles": 4,
+  "blank": 357,
+  "comment": 1839,
+  "code": 2287},
+"MSBuild script" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 1863},
+"Java" :{
+  "nFiles": 11,
+  "blank": 318,
+  "comment": 338,
+  "code": 1406},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 3,
+  "code": 900},
+"YAML" :{
+  "nFiles": 16,
+  "blank": 123,
+  "comment": 101,
+  "code": 752},
+"C#" :{
+  "nFiles": 8,
+  "blank": 93,
+  "comment": 38,
+  "code": 464},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 71,
+  "comment": 62,
+  "code": 394},
+"HLSL" :{
+  "nFiles": 10,
+  "blank": 37,
+  "comment": 54,
+  "code": 324},
+"Lua" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 1,
+  "code": 279},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 43,
+  "comment": 63,
+  "code": 241},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 71,
+  "comment": 2,
+  "code": 240},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 26,
+  "code": 163},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 91},
+"INI" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 0,
+  "code": 73},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 60,
+  "code": 52},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 6,
+  "code": 38},
+"Expect" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 10},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 3},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 241268,
+  "comment": 235191,
+  "code": 1371222,
+  "nFiles": 6079} }

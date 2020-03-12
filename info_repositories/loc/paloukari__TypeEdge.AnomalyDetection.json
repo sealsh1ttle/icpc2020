@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.8091101646423,
+  "n_files"            : 110,
+  "n_lines"            : 31067,
+  "files_per_second"   : 3.07184399428649,
+  "lines_per_second"   : 867.572521549986,
+  "report_file"        : "loc/paloukari__TypeEdge.AnomalyDetection.json"},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 3300,
+  "comment": 3382,
+  "code": 14207},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 1524,
+  "comment": 33,
+  "code": 5427},
+"C#" :{
+  "nFiles": 43,
+  "blank": 236,
+  "comment": 28,
+  "code": 1378},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 297},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 291},
+"Razor" :{
+  "nFiles": 10,
+  "blank": 16,
+  "comment": 2,
+  "code": 224},
+"MSBuild script" :{
+  "nFiles": 9,
+  "blank": 60,
+  "comment": 0,
+  "code": 216},
+"Dockerfile" :{
+  "nFiles": 7,
+  "blank": 35,
+  "comment": 6,
+  "code": 150},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 61,
+  "comment": 0,
+  "code": 122},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 59},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 5240,
+  "comment": 3451,
+  "code": 22376,
+  "nFiles": 110} }

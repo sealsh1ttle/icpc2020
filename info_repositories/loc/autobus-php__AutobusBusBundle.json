@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.7130098342896,
+  "n_files"            : 92,
+  "n_lines"            : 5155,
+  "files_per_second"   : 4.6669687061167,
+  "lines_per_second"   : 261.502431304691,
+  "report_file"        : "loc/autobus-php__AutobusBusBundle.json"},
+"PHP" :{
+  "nFiles": 70,
+  "blank": 626,
+  "comment": 1800,
+  "code": 2013},
+"Twig" :{
+  "nFiles": 12,
+  "blank": 24,
+  "comment": 0,
+  "code": 344},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 33,
+  "comment": 5,
+  "code": 153},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 0,
+  "code": 88},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 720,
+  "comment": 1805,
+  "code": 2630,
+  "nFiles": 92} }

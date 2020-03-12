@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.04218101501465,
+  "n_files"            : 5,
+  "n_lines"            : 76,
+  "files_per_second"   : 4.79763105253814,
+  "lines_per_second"   : 72.9239919985798,
+  "report_file"        : "loc/ga-wdi-exercises__yum.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 32},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 23,
+  "comment": 0,
+  "code": 53,
+  "nFiles": 5} }

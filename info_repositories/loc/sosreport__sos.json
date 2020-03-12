@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 83.2933139801025,
+  "n_files"            : 407,
+  "n_lines"            : 38319,
+  "files_per_second"   : 4.88634658115807,
+  "lines_per_second"   : 460.048930327755,
+  "report_file"        : "loc/sosreport__sos.json"},
+"Python" :{
+  "nFiles": 315,
+  "blank": 4921,
+  "comment": 5897,
+  "code": 14901},
+"PO File" :{
+  "nFiles": 78,
+  "blank": 2343,
+  "comment": 2730,
+  "code": 6709},
+"make" :{
+  "nFiles": 5,
+  "blank": 77,
+  "comment": 15,
+  "code": 413},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 0,
+  "code": 98},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 46,
+  "comment": 40,
+  "code": 55},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"SUM": {
+  "blank": 7427,
+  "comment": 8682,
+  "code": 22210,
+  "nFiles": 407} }

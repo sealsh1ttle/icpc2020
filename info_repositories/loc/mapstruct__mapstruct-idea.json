@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.7366762161255,
+  "n_files"            : 170,
+  "n_lines"            : 9915,
+  "files_per_second"   : 5.91578506579704,
+  "lines_per_second"   : 345.029464278692,
+  "report_file"        : "loc/mapstruct__mapstruct-idea.json"},
+"Java" :{
+  "nFiles": 155,
+  "blank": 1567,
+  "comment": 1460,
+  "code": 5936},
+"XML" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 94,
+  "code": 155},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 3,
+  "code": 145},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 2,
+  "code": 118},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 37},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 7,
+  "code": 27},
+"SUM": {
+  "blank": 1719,
+  "comment": 1590,
+  "code": 6606,
+  "nFiles": 170} }

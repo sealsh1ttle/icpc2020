@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 64.9171209335327,
+  "n_files"            : 317,
+  "n_lines"            : 16302,
+  "files_per_second"   : 4.88314939790028,
+  "lines_per_second"   : 251.120193957635,
+  "report_file"        : "loc/mavenlink__netsuite.json"},
+"Ruby" :{
+  "nFiles": 291,
+  "blank": 2368,
+  "comment": 349,
+  "code": 12378},
+"XML" :{
+  "nFiles": 24,
+  "blank": 0,
+  "comment": 0,
+  "code": 779},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 69,
+  "comment": 0,
+  "code": 356},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2437,
+  "comment": 349,
+  "code": 13516,
+  "nFiles": 317} }

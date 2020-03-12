@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.169784784317017,
+  "n_files"            : 15,
+  "n_lines"            : 1838,
+  "files_per_second"   : 88.3471393525611,
+  "lines_per_second"   : 10825.4694753338,
+  "report_file"        : "loc/ioBroker__ioBroker.geofency.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 164,
+  "comment": 86,
+  "code": 1227},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 132},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 4,
+  "code": 73},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 66},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 47},
+"SUM": {
+  "blank": 203,
+  "comment": 90,
+  "code": 1545,
+  "nFiles": 15} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.1809539794922,
+  "n_files"            : 43,
+  "n_lines"            : 3385,
+  "files_per_second"   : 3.03223605846155,
+  "lines_per_second"   : 238.700443206799,
+  "report_file"        : "loc/umijs__umi-example-ssr-with-egg.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 1460},
+"JSX" :{
+  "nFiles": 5,
+  "blank": 48,
+  "comment": 21,
+  "code": 766},
+"LESS" :{
+  "nFiles": 6,
+  "blank": 59,
+  "comment": 1,
+  "code": 342},
+"TypeScript" :{
+  "nFiles": 14,
+  "blank": 26,
+  "comment": 11,
+  "code": 257},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 40,
+  "comment": 14,
+  "code": 223},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 196,
+  "comment": 47,
+  "code": 3142,
+  "nFiles": 43} }

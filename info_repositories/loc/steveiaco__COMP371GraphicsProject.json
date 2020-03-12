@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.1790051460266,
+  "n_files"            : 2124,
+  "n_lines"            : 1019822,
+  "files_per_second"   : 78.1485557910686,
+  "lines_per_second"   : 37522.4182975325,
+  "report_file"        : "loc/steveiaco__COMP371GraphicsProject.json"},
+"C/C++ Header" :{
+  "nFiles": 660,
+  "blank": 29764,
+  "comment": 57189,
+  "code": 246215},
+"C" :{
+  "nFiles": 376,
+  "blank": 40100,
+  "comment": 39132,
+  "code": 241676},
+"C++" :{
+  "nFiles": 576,
+  "blank": 31152,
+  "comment": 25007,
+  "code": 137687},
+"C#" :{
+  "nFiles": 101,
+  "blank": 5618,
+  "comment": 30569,
+  "code": 36176},
+"HTML" :{
+  "nFiles": 146,
+  "blank": 1526,
+  "comment": 1289,
+  "code": 25571},
+"MSBuild script" :{
+  "nFiles": 57,
+  "blank": 0,
+  "comment": 196,
+  "code": 20996},
+"XML" :{
+  "nFiles": 32,
+  "blank": 46,
+  "comment": 160,
+  "code": 7594},
+"Visual Basic" :{
+  "nFiles": 3,
+  "blank": 2664,
+  "comment": 2841,
+  "code": 7404},
+"Pascal" :{
+  "nFiles": 13,
+  "blank": 623,
+  "comment": 927,
+  "code": 4552},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 1207,
+  "comment": 0,
+  "code": 3460},
+"Objective C" :{
+  "nFiles": 5,
+  "blank": 682,
+  "comment": 325,
+  "code": 2832},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 239,
+  "comment": 424,
+  "code": 2364},
+"JavaScript" :{
+  "nFiles": 59,
+  "blank": 100,
+  "comment": 187,
+  "code": 1794},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 354,
+  "comment": 81,
+  "code": 1789},
+"CMake" :{
+  "nFiles": 32,
+  "blank": 326,
+  "comment": 365,
+  "code": 1626},
+"Perl" :{
+  "nFiles": 18,
+  "blank": 218,
+  "comment": 244,
+  "code": 988},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 875},
+"make" :{
+  "nFiles": 6,
+  "blank": 106,
+  "comment": 68,
+  "code": 606},
+"Windows Resource File" :{
+  "nFiles": 7,
+  "blank": 34,
+  "comment": 40,
+  "code": 450},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 85,
+  "comment": 28,
+  "code": 301},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 71,
+  "code": 284},
+"DOS Batch" :{
+  "nFiles": 6,
+  "blank": 30,
+  "comment": 0,
+  "code": 234},
+"Python" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 2,
+  "code": 137},
+"awk" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 135},
+"SUM": {
+  "blank": 114929,
+  "comment": 159147,
+  "code": 745746,
+  "nFiles": 2124} }

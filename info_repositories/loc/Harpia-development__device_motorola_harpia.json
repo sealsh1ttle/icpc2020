@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.53530979156494,
+  "n_files"            : 21,
+  "n_lines"            : 2006,
+  "files_per_second"   : 13.678021279728,
+  "lines_per_second"   : 1306.57669938735,
+  "report_file"        : "loc/Harpia-development__device_motorola_harpia.json"},
+"XML" :{
+  "nFiles": 8,
+  "blank": 215,
+  "comment": 123,
+  "code": 1247},
+"make" :{
+  "nFiles": 8,
+  "blank": 32,
+  "comment": 103,
+  "code": 81},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 71},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 39,
+  "code": 53},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 271,
+  "comment": 265,
+  "code": 1470,
+  "nFiles": 21} }

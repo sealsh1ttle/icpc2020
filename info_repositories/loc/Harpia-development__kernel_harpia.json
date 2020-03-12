@@ -1,0 +1,179 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9448.67596101761,
+  "n_files"            : 43723,
+  "n_lines"            : 19190538,
+  "files_per_second"   : 4.62742083445214,
+  "lines_per_second"   : 2031.02932931285,
+  "report_file"        : "loc/Harpia-development__kernel_harpia.json"},
+"C" :{
+  "nFiles": 19940,
+  "blank": 2000882,
+  "comment": 1930468,
+  "code": 10556809},
+"C/C++ Header" :{
+  "nFiles": 17427,
+  "blank": 462319,
+  "comment": 798253,
+  "code": 2353318},
+"HTML" :{
+  "nFiles": 2568,
+  "blank": 41997,
+  "comment": 97936,
+  "code": 341991},
+"Assembly" :{
+  "nFiles": 1396,
+  "blank": 45556,
+  "comment": 107110,
+  "code": 235566},
+"XML" :{
+  "nFiles": 170,
+  "blank": 3278,
+  "comment": 386,
+  "code": 51136},
+"make" :{
+  "nFiles": 1800,
+  "blank": 7381,
+  "comment": 7332,
+  "code": 30173},
+"C++" :{
+  "nFiles": 47,
+  "blank": 3103,
+  "comment": 4011,
+  "code": 23083},
+"Perl" :{
+  "nFiles": 39,
+  "blank": 3941,
+  "comment": 3130,
+  "code": 19333},
+"Windows Module Definition" :{
+  "nFiles": 43,
+  "blank": 2524,
+  "comment": 0,
+  "code": 17852},
+"Python" :{
+  "nFiles": 83,
+  "blank": 2375,
+  "comment": 3191,
+  "code": 7968},
+"Bourne Shell" :{
+  "nFiles": 88,
+  "blank": 1075,
+  "comment": 2100,
+  "code": 6200},
+"yacc" :{
+  "nFiles": 7,
+  "blank": 562,
+  "comment": 342,
+  "code": 3585},
+"PO File" :{
+  "nFiles": 5,
+  "blank": 791,
+  "comment": 918,
+  "code": 3061},
+"lex" :{
+  "nFiles": 7,
+  "blank": 262,
+  "comment": 253,
+  "code": 1589},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 2,
+  "code": 1387},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 108,
+  "comment": 3,
+  "code": 911},
+"awk" :{
+  "nFiles": 8,
+  "blank": 89,
+  "comment": 88,
+  "code": 720},
+"Bourne Again Shell" :{
+  "nFiles": 33,
+  "blank": 116,
+  "comment": 76,
+  "code": 655},
+"Glade" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 0,
+  "code": 603},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 96,
+  "comment": 0,
+  "code": 383},
+"INI" :{
+  "nFiles": 1,
+  "blank": 217,
+  "comment": 0,
+  "code": 318},
+"Pascal" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 0,
+  "code": 231},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 218},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 55,
+  "comment": 0,
+  "code": 189},
+"Clojure" :{
+  "nFiles": 35,
+  "blank": 25,
+  "comment": 0,
+  "code": 161},
+"ASP" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 137},
+"m4" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 96},
+"XSLT" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 27,
+  "code": 70},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 51},
+"sed" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 30},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 12,
+  "code": 27},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 11},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 5,
+  "code": 6},
+"SUM": {
+  "blank": 2577023,
+  "comment": 2955647,
+  "code": 13657868,
+  "nFiles": 43723} }

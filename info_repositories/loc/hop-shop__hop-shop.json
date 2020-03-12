@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.4774827957153,
+  "n_files"            : 63,
+  "n_lines"            : 13757,
+  "files_per_second"   : 3.40955533264568,
+  "lines_per_second"   : 744.527820812803,
+  "report_file"        : "loc/hop-shop__hop-shop.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 10794},
+"JavaScript" :{
+  "nFiles": 48,
+  "blank": 265,
+  "comment": 221,
+  "code": 2041},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 63,
+  "comment": 0,
+  "code": 167},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 47},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 6,
+  "code": 31},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 25,
+  "code": 27},
+"SUM": {
+  "blank": 363,
+  "comment": 252,
+  "code": 13142,
+  "nFiles": 63} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.155692100524902,
+  "n_files"            : 13,
+  "n_lines"            : 3592,
+  "files_per_second"   : 83.4981348197605,
+  "lines_per_second"   : 23071.1769440446,
+  "report_file"        : "loc/DavidCai1993__lock.js.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2382},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 259,
+  "comment": 24,
+  "code": 822},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 51},
+"C++" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 21},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 288,
+  "comment": 24,
+  "code": 3280,
+  "nFiles": 13} }

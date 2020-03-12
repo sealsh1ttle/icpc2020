@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.12158417701721,
+  "n_files"            : 180,
+  "n_lines"            : 32657,
+  "files_per_second"   : 160.487285473926,
+  "lines_per_second"   : 29116.8515651223,
+  "report_file"        : "loc/WayfireWM__wayfire.json"},
+"C++" :{
+  "nFiles": 74,
+  "blank": 4209,
+  "comment": 1501,
+  "code": 18099},
+"C/C++ Header" :{
+  "nFiles": 76,
+  "blank": 1213,
+  "comment": 1943,
+  "code": 3725},
+"C" :{
+  "nFiles": 1,
+  "blank": 158,
+  "comment": 29,
+  "code": 653},
+"XML" :{
+  "nFiles": 3,
+  "blank": 82,
+  "comment": 1,
+  "code": 399},
+"NAnt script" :{
+  "nFiles": 12,
+  "blank": 42,
+  "comment": 0,
+  "code": 291},
+"GLSL" :{
+  "nFiles": 13,
+  "blank": 68,
+  "comment": 3,
+  "code": 192},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 33},
+"SUM": {
+  "blank": 5788,
+  "comment": 3477,
+  "code": 23392,
+  "nFiles": 180} }

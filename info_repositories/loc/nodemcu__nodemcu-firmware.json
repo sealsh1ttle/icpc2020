@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 87.189131975174,
+  "n_files"            : 834,
+  "n_lines"            : 504208,
+  "files_per_second"   : 9.56541235251053,
+  "lines_per_second"   : 5782.92257965783,
+  "report_file"        : "loc/nodemcu__nodemcu-firmware.json"},
+"C" :{
+  "nFiles": 306,
+  "blank": 39811,
+  "comment": 91387,
+  "code": 271269},
+"C/C++ Header" :{
+  "nFiles": 264,
+  "blank": 7370,
+  "comment": 34644,
+  "code": 28599},
+"Markdown" :{
+  "nFiles": 127,
+  "blank": 5129,
+  "comment": 0,
+  "code": 13585},
+"Lua" :{
+  "nFiles": 70,
+  "blank": 936,
+  "comment": 1191,
+  "code": 5037},
+"make" :{
+  "nFiles": 42,
+  "blank": 394,
+  "comment": 1259,
+  "code": 854},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 780},
+"Python" :{
+  "nFiles": 3,
+  "blank": 91,
+  "comment": 67,
+  "code": 337},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 1,
+  "code": 293},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 106,
+  "code": 240},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 75,
+  "comment": 82,
+  "code": 218},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 14,
+  "code": 156},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 1,
+  "code": 80},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 23,
+  "code": 62},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 53918,
+  "comment": 128775,
+  "code": 321515,
+  "nFiles": 834} }

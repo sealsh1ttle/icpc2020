@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.2936608791351,
+  "n_files"            : 94,
+  "n_lines"            : 7279,
+  "files_per_second"   : 5.76911479238971,
+  "lines_per_second"   : 446.738155040475,
+  "report_file"        : "loc/dowinterfor6__go-chella.json"},
+"JavaScript" :{
+  "nFiles": 54,
+  "blank": 346,
+  "comment": 218,
+  "code": 1607},
+"JSX" :{
+  "nFiles": 22,
+  "blank": 197,
+  "comment": 98,
+  "code": 1488},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 569,
+  "comment": 0,
+  "code": 1262},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 165,
+  "comment": 40,
+  "code": 1176},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 79},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 24},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1279,
+  "comment": 357,
+  "code": 5643,
+  "nFiles": 94} }

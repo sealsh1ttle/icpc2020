@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.876269817352295,
+  "n_files"            : 87,
+  "n_lines"            : 14101,
+  "files_per_second"   : 99.2844878109302,
+  "lines_per_second"   : 16092.0754324359,
+  "report_file"        : "loc/wso2__docker-ei.json"},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 423,
+  "comment": 138,
+  "code": 2759},
+"XML" :{
+  "nFiles": 17,
+  "blank": 125,
+  "comment": 3243,
+  "code": 1759},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 618,
+  "comment": 0,
+  "code": 1271},
+"Dockerfile" :{
+  "nFiles": 18,
+  "blank": 144,
+  "comment": 594,
+  "code": 972},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 307,
+  "code": 900},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 122,
+  "comment": 248,
+  "code": 478},
+"SUM": {
+  "blank": 1432,
+  "comment": 4530,
+  "code": 8139,
+  "nFiles": 87} }

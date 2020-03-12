@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.52552700042725,
+  "n_files"            : 7,
+  "n_lines"            : 2141,
+  "files_per_second"   : 4.5885782408568,
+  "lines_per_second"   : 1403.44943052491,
+  "report_file"        : "loc/ituring__first-pr.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 3,
+  "code": 1521},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 20,
+  "code": 420},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 2,
+  "code": 38},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 6},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 130,
+  "comment": 25,
+  "code": 1986,
+  "nFiles": 7} }

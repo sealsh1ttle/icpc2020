@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.135218143463135,
+  "n_files"            : 3,
+  "n_lines"            : 173,
+  "files_per_second"   : 22.1863717631791,
+  "lines_per_second"   : 1279.41410501,
+  "report_file"        : "loc/saymedia__terraform-s3-dir.json"},
+"Go" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 18,
+  "code": 100},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 31,
+  "comment": 18,
+  "code": 124,
+  "nFiles": 3} }

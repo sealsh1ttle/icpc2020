@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.714343070983887,
+  "n_files"            : 4,
+  "n_lines"            : 144,
+  "files_per_second"   : 5.59955035959217,
+  "lines_per_second"   : 201.583812945318,
+  "report_file"        : "loc/xiachufang__watermark.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 20,
+  "code": 60},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 37,
+  "comment": 20,
+  "code": 87,
+  "nFiles": 4} }

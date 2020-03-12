@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 353.931457996368,
+  "n_files"            : 876,
+  "n_lines"            : 69328,
+  "files_per_second"   : 2.47505549509247,
+  "lines_per_second"   : 195.879734433528,
+  "report_file"        : "loc/zmaster587__AdvancedRocketry.json"},
+"Java" :{
+  "nFiles": 466,
+  "blank": 12424,
+  "comment": 6161,
+  "code": 46697},
+"JSON" :{
+  "nFiles": 395,
+  "blank": 7,
+  "comment": 0,
+  "code": 3238},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 22,
+  "code": 234},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 37,
+  "code": 168},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 0,
+  "code": 138},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 12548,
+  "comment": 6222,
+  "code": 50558,
+  "nFiles": 876} }

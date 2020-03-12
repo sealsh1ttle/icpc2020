@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 77.5311679840088,
+  "n_files"            : 217,
+  "n_lines"            : 246788,
+  "files_per_second"   : 2.79887438358671,
+  "lines_per_second"   : 3183.08115841749,
+  "report_file"        : "loc/oasis-tcs__sarif-spec.json"},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 29361,
+  "comment": 2790,
+  "code": 113797},
+"XML" :{
+  "nFiles": 120,
+  "blank": 1089,
+  "comment": 12,
+  "code": 78768},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 2364,
+  "comment": 0,
+  "code": 13029},
+"Markdown" :{
+  "nFiles": 68,
+  "blank": 1787,
+  "comment": 0,
+  "code": 2632},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 107,
+  "code": 338},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 216,
+  "comment": 138,
+  "code": 251},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 56},
+"SUM": {
+  "blank": 34869,
+  "comment": 3048,
+  "code": 208871,
+  "nFiles": 217} }

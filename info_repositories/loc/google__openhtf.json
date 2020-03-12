@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 42.6902220249176,
+  "n_files"            : 210,
+  "n_lines"            : 45350,
+  "files_per_second"   : 4.91915923691908,
+  "lines_per_second"   : 1062.30414949657,
+  "report_file"        : "loc/google__openhtf.json"},
+"Python" :{
+  "nFiles": 89,
+  "blank": 3977,
+  "comment": 5738,
+  "code": 14398},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 12240},
+"TypeScript" :{
+  "nFiles": 60,
+  "blank": 550,
+  "comment": 453,
+  "code": 2981},
+"Sass" :{
+  "nFiles": 19,
+  "blank": 176,
+  "comment": 32,
+  "code": 810},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 62,
+  "comment": 6,
+  "code": 486},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 85,
+  "comment": 190,
+  "code": 480},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 40,
+  "comment": 1001,
+  "code": 462},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 135,
+  "comment": 0,
+  "code": 430},
+"Protocol Buffers" :{
+  "nFiles": 4,
+  "blank": 111,
+  "comment": 176,
+  "code": 275},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 1,
+  "code": 44},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 5137,
+  "comment": 7597,
+  "code": 32616,
+  "nFiles": 210} }

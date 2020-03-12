@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 160.911482095718,
+  "n_files"            : 357,
+  "n_lines"            : 25523,
+  "files_per_second"   : 2.21861109816662,
+  "lines_per_second"   : 158.615157026629,
+  "report_file"        : "loc/BuildmLearn__Toolkit-mobile-templates.json"},
+"Java" :{
+  "nFiles": 130,
+  "blank": 2496,
+  "comment": 1759,
+  "code": 10951},
+"XML" :{
+  "nFiles": 197,
+  "blank": 1023,
+  "comment": 64,
+  "code": 8467},
+"Gradle" :{
+  "nFiles": 13,
+  "blank": 39,
+  "comment": 4,
+  "code": 281},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 17,
+  "comment": 0,
+  "code": 86},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 33},
+"INI" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 3624,
+  "comment": 1870,
+  "code": 20029,
+  "nFiles": 357} }

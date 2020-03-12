@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.9528059959412,
+  "n_files"            : 65,
+  "n_lines"            : 7676,
+  "files_per_second"   : 4.34701018776301,
+  "lines_per_second"   : 513.348464634905,
+  "report_file"        : "loc/Metaswitch__clearwater-live-test.json"},
+"Ruby" :{
+  "nFiles": 31,
+  "blank": 1355,
+  "comment": 597,
+  "code": 4565},
+"ERB" :{
+  "nFiles": 22,
+  "blank": 15,
+  "comment": 0,
+  "code": 434},
+"XSD" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 1,
+  "code": 226},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 91,
+  "comment": 0,
+  "code": 185},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 30,
+  "code": 46},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"make" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 16,
+  "code": 25},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 1517,
+  "comment": 645,
+  "code": 5514,
+  "nFiles": 65} }

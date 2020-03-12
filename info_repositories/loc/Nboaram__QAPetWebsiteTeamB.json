@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0473060607910156,
+  "n_files"            : 1,
+  "n_lines"            : 3,
+  "files_per_second"   : 21.1389404080316,
+  "lines_per_second"   : 63.4168212240948,
+  "report_file"        : "loc/Nboaram__QAPetWebsiteTeamB.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 3,
+  "nFiles": 1} }

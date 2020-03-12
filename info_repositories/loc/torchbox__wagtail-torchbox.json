@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 113.934368848801,
+  "n_files"            : 353,
+  "n_lines"            : 17101,
+  "files_per_second"   : 3.09827494167679,
+  "lines_per_second"   : 150.095183505991,
+  "report_file"        : "loc/torchbox__wagtail-torchbox.json"},
+"Python" :{
+  "nFiles": 278,
+  "blank": 2654,
+  "comment": 701,
+  "code": 10924},
+"HTML" :{
+  "nFiles": 65,
+  "blank": 271,
+  "comment": 52,
+  "code": 2190},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 0,
+  "code": 52},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 7,
+  "code": 38},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 10,
+  "code": 35},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 14,
+  "code": 34},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 12,
+  "code": 17},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 3005,
+  "comment": 796,
+  "code": 13300,
+  "nFiles": 353} }

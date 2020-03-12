@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.8195781707764,
+  "n_files"            : 54,
+  "n_lines"            : 8935,
+  "files_per_second"   : 2.26704266603055,
+  "lines_per_second"   : 375.11159668487,
+  "report_file"        : "loc/ModalityTeam__Modality-toolkit.json"},
+"Scheme" :{
+  "nFiles": 51,
+  "blank": 1404,
+  "comment": 0,
+  "code": 7282},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 0,
+  "code": 206},
+"SUM": {
+  "blank": 1447,
+  "comment": 0,
+  "code": 7488,
+  "nFiles": 54} }

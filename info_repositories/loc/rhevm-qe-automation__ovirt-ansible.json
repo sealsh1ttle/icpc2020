@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.44357705116272,
+  "n_files"            : 72,
+  "n_lines"            : 2768,
+  "files_per_second"   : 162.31678309613,
+  "lines_per_second"   : 6240.1785501401,
+  "report_file"        : "loc/rhevm-qe-automation__ovirt-ansible.json"},
+"YAML" :{
+  "nFiles": 57,
+  "blank": 156,
+  "comment": 116,
+  "code": 1434},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 201,
+  "comment": 0,
+  "code": 548},
+"Python" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 10,
+  "code": 183},
+"INI" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 17},
+"SUM": {
+  "blank": 404,
+  "comment": 131,
+  "code": 2233,
+  "nFiles": 72} }

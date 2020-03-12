@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.66589403152466,
+  "n_files"            : 159,
+  "n_lines"            : 110862,
+  "files_per_second"   : 43.3727758174917,
+  "lines_per_second"   : 30241.4633501809,
+  "report_file"        : "loc/kossiitkgp__kwoc-2017.json"},
+"CSS" :{
+  "nFiles": 28,
+  "blank": 8995,
+  "comment": 5340,
+  "code": 52373},
+"JavaScript" :{
+  "nFiles": 52,
+  "blank": 5759,
+  "comment": 4120,
+  "code": 21552},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 252,
+  "comment": 605,
+  "code": 3365},
+"Sass" :{
+  "nFiles": 22,
+  "blank": 50,
+  "comment": 46,
+  "code": 2853},
+"LESS" :{
+  "nFiles": 22,
+  "blank": 50,
+  "comment": 64,
+  "code": 2835},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1493},
+"Python" :{
+  "nFiles": 10,
+  "blank": 162,
+  "comment": 213,
+  "code": 650},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 23},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 15285,
+  "comment": 10388,
+  "code": 85189,
+  "nFiles": 159} }

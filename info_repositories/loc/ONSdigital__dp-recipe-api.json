@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.892515182495117,
+  "n_files"            : 137,
+  "n_lines"            : 20831,
+  "files_per_second"   : 153.49878936177,
+  "lines_per_second"   : 23339.6589868251,
+  "report_file"        : "loc/ONSdigital__dp-recipe-api.json"},
+"Go" :{
+  "nFiles": 107,
+  "blank": 2169,
+  "comment": 3334,
+  "code": 13091},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 436,
+  "comment": 0,
+  "code": 1280},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 6,
+  "code": 204},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 181},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 58},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 2648,
+  "comment": 3341,
+  "code": 14842,
+  "nFiles": 137} }

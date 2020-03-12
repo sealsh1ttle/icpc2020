@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.5521950721741,
+  "n_files"            : 114,
+  "n_lines"            : 29927,
+  "files_per_second"   : 4.29343034314585,
+  "lines_per_second"   : 1127.10078841514,
+  "report_file"        : "loc/pwn20wndstuff__Undecimus.json"},
+"Objective C" :{
+  "nFiles": 16,
+  "blank": 1184,
+  "comment": 399,
+  "code": 7853},
+"C" :{
+  "nFiles": 26,
+  "blank": 1306,
+  "comment": 1414,
+  "code": 7722},
+"C/C++ Header" :{
+  "nFiles": 57,
+  "blank": 875,
+  "comment": 2401,
+  "code": 3592},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 4,
+  "code": 2758},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 191},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 0,
+  "code": 108},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 77},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 9},
+"SUM": {
+  "blank": 3396,
+  "comment": 4221,
+  "code": 22310,
+  "nFiles": 114} }

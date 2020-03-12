@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 163.684839010239,
+  "n_files"            : 749,
+  "n_lines"            : 233913,
+  "files_per_second"   : 4.57586667481861,
+  "lines_per_second"   : 1429.04499533624,
+  "report_file"        : "loc/kubernetes-client__javascript.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 2,
+  "comment": 0,
+  "code": 106048},
+"TypeScript" :{
+  "nFiles": 715,
+  "blank": 15309,
+  "comment": 25206,
+  "code": 86672},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 14,
+  "comment": 2,
+  "code": 154},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 54,
+  "comment": 0,
+  "code": 131},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 29,
+  "comment": 4,
+  "code": 113},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 35,
+  "comment": 14,
+  "code": 93},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 19,
+  "code": 7},
+"SUM": {
+  "blank": 15450,
+  "comment": 25245,
+  "code": 193218,
+  "nFiles": 749} }

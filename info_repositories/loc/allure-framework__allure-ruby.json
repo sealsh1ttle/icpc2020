@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.341413974762,
+  "n_files"            : 94,
+  "n_lines"            : 5571,
+  "files_per_second"   : 6.1272057552608,
+  "lines_per_second"   : 363.134715559127,
+  "report_file"        : "loc/allure-framework__allure-ruby.json"},
+"Ruby" :{
+  "nFiles": 72,
+  "blank": 609,
+  "comment": 490,
+  "code": 2386},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 396,
+  "comment": 6,
+  "code": 1220},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 104,
+  "comment": 0,
+  "code": 240},
+"Cucumber" :{
+  "nFiles": 10,
+  "blank": 15,
+  "comment": 0,
+  "code": 93},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 3},
+"SUM": {
+  "blank": 1127,
+  "comment": 498,
+  "code": 3946,
+  "nFiles": 94} }

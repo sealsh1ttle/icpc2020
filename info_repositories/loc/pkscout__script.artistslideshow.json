@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.924494028091431,
+  "n_files"            : 88,
+  "n_lines"            : 19269,
+  "files_per_second"   : 95.1872022166237,
+  "lines_per_second"   : 20842.7522671832,
+  "report_file"        : "loc/pkscout__script.artistslideshow.json"},
+"PO File" :{
+  "nFiles": 68,
+  "blank": 3768,
+  "comment": 326,
+  "code": 12070},
+"Python" :{
+  "nFiles": 18,
+  "blank": 302,
+  "comment": 80,
+  "code": 2584},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 139},
+"SUM": {
+  "blank": 4070,
+  "comment": 406,
+  "code": 14793,
+  "nFiles": 88} }

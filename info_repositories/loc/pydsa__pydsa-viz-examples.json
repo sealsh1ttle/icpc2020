@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.248710870742798,
+  "n_files"            : 15,
+  "n_lines"            : 9463,
+  "files_per_second"   : 60.3109946710456,
+  "lines_per_second"   : 38048.1961714737,
+  "report_file"        : "loc/pydsa__pydsa-viz-examples.json"},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 13,
+  "code": 6782},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 591,
+  "comment": 199,
+  "code": 1687},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 4,
+  "code": 66},
+"Python" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 12,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 642,
+  "comment": 228,
+  "code": 8593,
+  "nFiles": 15} }

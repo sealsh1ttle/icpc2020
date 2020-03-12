@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1475.67069387436,
+  "n_files"            : 3396,
+  "n_lines"            : 1270121,
+  "files_per_second"   : 2.30132645047238,
+  "lines_per_second"   : 860.707612662084,
+  "report_file"        : "loc/hrydgard__ppsspp-ffmpeg.json"},
+"C" :{
+  "nFiles": 2087,
+  "blank": 108043,
+  "comment": 82051,
+  "code": 754054},
+"C/C++ Header" :{
+  "nFiles": 963,
+  "blank": 18738,
+  "comment": 71057,
+  "code": 124414},
+"Assembly" :{
+  "nFiles": 215,
+  "blank": 7308,
+  "comment": 8857,
+  "code": 74408},
+"Bourne Shell" :{
+  "nFiles": 47,
+  "blank": 1253,
+  "comment": 533,
+  "code": 9379},
+"make" :{
+  "nFiles": 40,
+  "blank": 289,
+  "comment": 61,
+  "code": 3314},
+"C++" :{
+  "nFiles": 5,
+  "blank": 267,
+  "comment": 183,
+  "code": 1432},
+"Objective C" :{
+  "nFiles": 2,
+  "blank": 274,
+  "comment": 97,
+  "code": 1040},
+"Perl" :{
+  "nFiles": 7,
+  "blank": 254,
+  "comment": 346,
+  "code": 992},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 4,
+  "code": 311},
+"Windows Resource File" :{
+  "nFiles": 9,
+  "blank": 27,
+  "comment": 198,
+  "code": 270},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 62,
+  "comment": 0,
+  "code": 181},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 22,
+  "code": 140},
+"Verilog-SystemVerilog" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 52},
+"Python" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 51},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 44},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 136600,
+  "comment": 163413,
+  "code": 970108,
+  "nFiles": 3396} }

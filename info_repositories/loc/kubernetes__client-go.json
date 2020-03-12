@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 206.264699935913,
+  "n_files"            : 964,
+  "n_lines"            : 123569,
+  "files_per_second"   : 4.67360629472477,
+  "lines_per_second"   : 599.07972638262,
+  "report_file"        : "loc/kubernetes__client-go.json"},
+"Go" :{
+  "nFiles": 945,
+  "blank": 17075,
+  "comment": 23788,
+  "code": 80675},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 554,
+  "comment": 0,
+  "code": 1026},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 378},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 13,
+  "code": 3},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 13,
+  "code": 3},
+"SUM": {
+  "blank": 17633,
+  "comment": 23833,
+  "code": 82103,
+  "nFiles": 964} }

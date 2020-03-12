@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.59669899940491,
+  "n_files"            : 22,
+  "n_lines"            : 1721,
+  "files_per_second"   : 3.93088854739897,
+  "lines_per_second"   : 307.502690457892,
+  "report_file"        : "loc/yast__yast-alternatives.json"},
+"Ruby" :{
+  "nFiles": 14,
+  "blank": 234,
+  "comment": 184,
+  "code": 1247},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 3,
+  "code": 30},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 239,
+  "comment": 187,
+  "code": 1295,
+  "nFiles": 22} }

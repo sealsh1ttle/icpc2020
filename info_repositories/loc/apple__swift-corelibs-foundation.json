@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 152.468580007553,
+  "n_files"            : 713,
+  "n_lines"            : 402649,
+  "files_per_second"   : 4.67637332206202,
+  "lines_per_second"   : 2640.8654162061,
+  "report_file"        : "loc/apple__swift-corelibs-foundation.json"},
+"Swift" :{
+  "nFiles": 269,
+  "blank": 19695,
+  "comment": 14835,
+  "code": 96169},
+"C" :{
+  "nFiles": 97,
+  "blank": 11661,
+  "comment": 7795,
+  "code": 85457},
+"XML" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 0,
+  "code": 33788},
+"C/C++ Header" :{
+  "nFiles": 284,
+  "blank": 12700,
+  "comment": 80000,
+  "code": 33232},
+"Python" :{
+  "nFiles": 12,
+  "blank": 332,
+  "comment": 289,
+  "code": 2217},
+"CMake" :{
+  "nFiles": 7,
+  "blank": 147,
+  "comment": 110,
+  "code": 1953},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 497,
+  "comment": 0,
+  "code": 1242},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 28,
+  "code": 141},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 17,
+  "code": 105},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 20,
+  "code": 54},
+"Assembly" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 36,
+  "code": 45},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 45092,
+  "comment": 103133,
+  "code": 254424,
+  "nFiles": 713} }

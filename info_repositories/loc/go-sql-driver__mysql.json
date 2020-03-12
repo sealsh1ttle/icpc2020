@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.2600791454315,
+  "n_files"            : 43,
+  "n_lines"            : 12920,
+  "files_per_second"   : 3.81880086672802,
+  "lines_per_second"   : 1147.41644646805,
+  "report_file"        : "loc/go-sql-driver__mysql.json"},
+"Go" :{
+  "nFiles": 35,
+  "blank": 1537,
+  "comment": 1427,
+  "code": 9102},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 197,
+  "comment": 0,
+  "code": 513},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 121},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 13},
+"SUM": {
+  "blank": 1743,
+  "comment": 1428,
+  "code": 9749,
+  "nFiles": 43} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.53710603713989,
+  "n_files"            : 15,
+  "n_lines"            : 2359,
+  "files_per_second"   : 5.91224796300184,
+  "lines_per_second"   : 929.799529648089,
+  "report_file"        : "loc/rollup__rollup-plugin-svelte.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 1428},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 94,
+  "comment": 8,
+  "code": 485},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 114,
+  "comment": 0,
+  "code": 174},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 20},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 220,
+  "comment": 13,
+  "code": 2126,
+  "nFiles": 15} }

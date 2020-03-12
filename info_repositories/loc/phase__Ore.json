@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.37692785263062,
+  "n_files"            : 366,
+  "n_lines"            : 34810,
+  "files_per_second"   : 153.980273147516,
+  "lines_per_second"   : 14644.9543941667,
+  "report_file"        : "loc/phase__Ore.json"},
+"Scala" :{
+  "nFiles": 173,
+  "blank": 1939,
+  "comment": 4232,
+  "code": 7609},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 29,
+  "comment": 62,
+  "code": 7394},
+"HTML" :{
+  "nFiles": 52,
+  "blank": 412,
+  "comment": 69,
+  "code": 4016},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 904,
+  "comment": 936,
+  "code": 3271},
+"Sass" :{
+  "nFiles": 13,
+  "blank": 330,
+  "comment": 11,
+  "code": 1456},
+"SQL" :{
+  "nFiles": 77,
+  "blank": 254,
+  "comment": 0,
+  "code": 669},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 450},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 316},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 3,
+  "code": 52},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 0,
+  "code": 50},
+"XML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 32},
+"Java" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 10},
+"SUM": {
+  "blank": 3954,
+  "comment": 5344,
+  "code": 25512,
+  "nFiles": 366} }

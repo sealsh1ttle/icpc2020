@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 208.293469905853,
+  "n_files"            : 1038,
+  "n_lines"            : 449425,
+  "files_per_second"   : 4.98335353705119,
+  "lines_per_second"   : 2157.65285490292,
+  "report_file"        : "loc/stellarproject__atlas.json"},
+"Go" :{
+  "nFiles": 926,
+  "blank": 36325,
+  "comment": 58313,
+  "code": 343689},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 1058,
+  "comment": 0,
+  "code": 3806},
+"Assembly" :{
+  "nFiles": 39,
+  "blank": 282,
+  "comment": 337,
+  "code": 1611},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 95,
+  "comment": 347,
+  "code": 663},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 45,
+  "comment": 57,
+  "code": 401},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 52,
+  "comment": 9,
+  "code": 304},
+"Protocol Buffers" :{
+  "nFiles": 7,
+  "blank": 78,
+  "comment": 725,
+  "code": 222},
+"make" :{
+  "nFiles": 9,
+  "blank": 56,
+  "comment": 105,
+  "code": 183},
+"Python" :{
+  "nFiles": 2,
+  "blank": 86,
+  "comment": 132,
+  "code": 166},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 93},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 9,
+  "code": 41},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 45,
+  "code": 27},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"SUM": {
+  "blank": 38109,
+  "comment": 60086,
+  "code": 351230,
+  "nFiles": 1038} }

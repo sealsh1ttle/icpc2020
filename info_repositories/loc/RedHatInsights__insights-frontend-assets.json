@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.9788579940796,
+  "n_files"            : 50,
+  "n_lines"            : 200777,
+  "files_per_second"   : 1.92464195352216,
+  "lines_per_second"   : 7728.47675004635,
+  "report_file"        : "loc/RedHatInsights__insights-frontend-assets.json"},
+"SVG" :{
+  "nFiles": 40,
+  "blank": 4,
+  "comment": 20,
+  "code": 194504},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3937},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 128,
+  "comment": 61,
+  "code": 1303},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 280},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 89,
+  "comment": 49,
+  "code": 236},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 12,
+  "code": 57},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 8,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 271,
+  "comment": 150,
+  "code": 200356,
+  "nFiles": 50} }

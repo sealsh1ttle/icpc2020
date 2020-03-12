@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.5807621479034,
+  "n_files"            : 117,
+  "n_lines"            : 17955,
+  "files_per_second"   : 3.3833840763713,
+  "lines_per_second"   : 519.219325566212,
+  "report_file"        : "loc/elln2__DBProject.json"},
+"Visual Basic" :{
+  "nFiles": 70,
+  "blank": 862,
+  "comment": 1607,
+  "code": 9724},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 862,
+  "comment": 28,
+  "code": 1919},
+"XML" :{
+  "nFiles": 5,
+  "blank": 81,
+  "comment": 192,
+  "code": 483},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 65,
+  "comment": 89,
+  "code": 430},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 406},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 399},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 82,
+  "code": 192},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 179},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 110,
+  "comment": 0,
+  "code": 179},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"Mustache" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 2020,
+  "comment": 2005,
+  "code": 13930,
+  "nFiles": 117} }

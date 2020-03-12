@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.19004917144775,
+  "n_files"            : 49,
+  "n_lines"            : 22460,
+  "files_per_second"   : 5.33185395266833,
+  "lines_per_second"   : 2443.94775054961,
+  "report_file"        : "loc/theforeman__smart_proxy_openscap.json"},
+"XML" :{
+  "nFiles": 2,
+  "blank": 503,
+  "comment": 83,
+  "code": 19716},
+"Ruby" :{
+  "nFiles": 43,
+  "blank": 266,
+  "comment": 93,
+  "code": 1526},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 72},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 64,
+  "code": 72},
+"SUM": {
+  "blank": 834,
+  "comment": 240,
+  "code": 21386,
+  "nFiles": 49} }

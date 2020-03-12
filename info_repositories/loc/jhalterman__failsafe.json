@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.664128065109253,
+  "n_files"            : 110,
+  "n_lines"            : 12490,
+  "files_per_second"   : 165.630705550599,
+  "lines_per_second"   : 18806.6137484272,
+  "report_file"        : "loc/jhalterman__failsafe.json"},
+"Java" :{
+  "nFiles": 103,
+  "blank": 1411,
+  "comment": 3608,
+  "code": 6723},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 174,
+  "comment": 0,
+  "code": 252},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 3,
+  "code": 223},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 20},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1607,
+  "comment": 3616,
+  "code": 7267,
+  "nFiles": 110} }

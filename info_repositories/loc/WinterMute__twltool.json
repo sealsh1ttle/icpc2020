@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.92309999465942,
+  "n_files"            : 22,
+  "n_lines"            : 9329,
+  "files_per_second"   : 7.52625638541088,
+  "lines_per_second"   : 3191.47480997719,
+  "report_file"        : "loc/WinterMute__twltool.json"},
+"C" :{
+  "nFiles": 9,
+  "blank": 1182,
+  "comment": 662,
+  "code": 4847},
+"C/C++ Header" :{
+  "nFiles": 12,
+  "blank": 316,
+  "comment": 1163,
+  "code": 1148},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1501,
+  "comment": 1825,
+  "code": 6003,
+  "nFiles": 22} }

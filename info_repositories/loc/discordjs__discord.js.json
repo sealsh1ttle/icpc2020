@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.14896702766418,
+  "n_files"            : 208,
+  "n_lines"            : 24237,
+  "files_per_second"   : 181.032174981433,
+  "lines_per_second"   : 21094.6001203125,
+  "report_file"        : "loc/discordjs__discord.js.json"},
+"JavaScript" :{
+  "nFiles": 178,
+  "blank": 2315,
+  "comment": 7614,
+  "code": 9969},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 282,
+  "comment": 22,
+  "code": 2364},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 216,
+  "comment": 0,
+  "code": 830},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 5,
+  "comment": 0,
+  "code": 361},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 7,
+  "code": 170},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 26},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 2855,
+  "comment": 7643,
+  "code": 13739,
+  "nFiles": 208} }

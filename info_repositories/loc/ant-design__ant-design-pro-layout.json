@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.6453700065613,
+  "n_files"            : 123,
+  "n_lines"            : 6949,
+  "files_per_second"   : 3.26733406999485,
+  "lines_per_second"   : 184.591093108896,
+  "report_file"        : "loc/ant-design__ant-design-pro-layout.json"},
+"TypeScript" :{
+  "nFiles": 80,
+  "blank": 329,
+  "comment": 181,
+  "code": 4098},
+"LESS" :{
+  "nFiles": 16,
+  "blank": 82,
+  "comment": 3,
+  "code": 758},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 175,
+  "comment": 0,
+  "code": 519},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 290},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 16,
+  "comment": 23,
+  "code": 227},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 153},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 25},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 621,
+  "comment": 212,
+  "code": 6116,
+  "nFiles": 123} }

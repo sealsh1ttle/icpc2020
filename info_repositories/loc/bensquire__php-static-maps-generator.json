@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.8768630027771,
+  "n_files"            : 24,
+  "n_lines"            : 2084,
+  "files_per_second"   : 6.19057211534381,
+  "lines_per_second"   : 537.548012015688,
+  "report_file"        : "loc/bensquire__php-static-maps-generator.json"},
+"PHP" :{
+  "nFiles": 20,
+  "blank": 251,
+  "comment": 628,
+  "code": 1088},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 32},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 19},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 272,
+  "comment": 628,
+  "code": 1184,
+  "nFiles": 24} }

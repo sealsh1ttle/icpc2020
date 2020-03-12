@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.3270380496979,
+  "n_files"            : 3254,
+  "n_lines"            : 630567,
+  "files_per_second"   : 110.955630585187,
+  "lines_per_second"   : 21501.2166905991,
+  "report_file"        : "loc/zulip__zulip.json"},
+"Python" :{
+  "nFiles": 966,
+  "blank": 24847,
+  "comment": 20813,
+  "code": 120118},
+"JSON" :{
+  "nFiles": 794,
+  "blank": 593,
+  "comment": 0,
+  "code": 96643},
+"JavaScript" :{
+  "nFiles": 348,
+  "blank": 15878,
+  "comment": 8248,
+  "code": 75540},
+"PO File" :{
+  "nFiles": 28,
+  "blank": 26939,
+  "comment": 33542,
+  "code": 70054},
+"Markdown" :{
+  "nFiles": 466,
+  "blank": 10110,
+  "comment": 2,
+  "code": 30927},
+"SVG" :{
+  "nFiles": 132,
+  "blank": 78,
+  "comment": 33,
+  "code": 29937},
+"Sass" :{
+  "nFiles": 34,
+  "blank": 3547,
+  "comment": 16,
+  "code": 15905},
+"HTML" :{
+  "nFiles": 124,
+  "blank": 679,
+  "comment": 41,
+  "code": 7314},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 2178,
+  "comment": 2610,
+  "code": 6145},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 855,
+  "comment": 466,
+  "code": 5637},
+"Handlebars" :{
+  "nFiles": 155,
+  "blank": 224,
+  "comment": 48,
+  "code": 4122},
+"ERB" :{
+  "nFiles": 25,
+  "blank": 841,
+  "comment": 0,
+  "code": 3796},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 71,
+  "comment": 118,
+  "code": 3602},
+"Bourne Again Shell" :{
+  "nFiles": 64,
+  "blank": 478,
+  "comment": 362,
+  "code": 2109},
+"Puppet" :{
+  "nFiles": 47,
+  "blank": 197,
+  "comment": 155,
+  "code": 2037},
+"TypeScript" :{
+  "nFiles": 4,
+  "blank": 33,
+  "comment": 78,
+  "code": 529},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 127,
+  "comment": 284,
+  "code": 516},
+"XML" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 189},
+"Ruby" :{
+  "nFiles": 7,
+  "blank": 45,
+  "comment": 13,
+  "code": 172},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 157},
+"INI" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 114},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 58,
+  "comment": 181,
+  "code": 62},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 16,
+  "code": 36},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"ASP.NET" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 87844,
+  "comment": 67033,
+  "code": 475690,
+  "nFiles": 3254} }

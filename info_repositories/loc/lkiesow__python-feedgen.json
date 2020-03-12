@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.425595998764038,
+  "n_files"            : 44,
+  "n_lines"            : 6310,
+  "files_per_second"   : 103.384430605032,
+  "lines_per_second"   : 14826.2672072216,
+  "report_file"        : "loc/lkiesow__python-feedgen.json"},
+"Python" :{
+  "nFiles": 28,
+  "blank": 1013,
+  "comment": 1712,
+  "code": 2945},
+"make" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 6,
+  "code": 169},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 80,
+  "comment": 73,
+  "code": 137},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 17,
+  "code": 56},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 17},
+"SUM": {
+  "blank": 1149,
+  "comment": 1811,
+  "code": 3350,
+  "nFiles": 44} }

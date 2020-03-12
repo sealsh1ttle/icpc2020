@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.7259418964386,
+  "n_files"            : 33,
+  "n_lines"            : 9715,
+  "files_per_second"   : 2.09844346477418,
+  "lines_per_second"   : 617.769038190337,
+  "report_file"        : "loc/iLCSoft__DDMarlinPandora.json"},
+"C++" :{
+  "nFiles": 13,
+  "blank": 1437,
+  "comment": 731,
+  "code": 5140},
+"C/C++ Header" :{
+  "nFiles": 13,
+  "blank": 398,
+  "comment": 775,
+  "code": 780},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 77,
+  "comment": 0,
+  "code": 197},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 53},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 18,
+  "code": 44},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 1953,
+  "comment": 1528,
+  "code": 6234,
+  "nFiles": 33} }

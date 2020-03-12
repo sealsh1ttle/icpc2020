@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.87437200546265,
+  "n_files"            : 19,
+  "n_lines"            : 1267,
+  "files_per_second"   : 3.23438828564682,
+  "lines_per_second"   : 215.682629363922,
+  "report_file"        : "loc/OrgulousArtichoke__Greenfield.json"},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 187,
+  "comment": 218,
+  "code": 516},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 72,
+  "comment": 0,
+  "code": 196},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 56},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 265,
+  "comment": 218,
+  "code": 784,
+  "nFiles": 19} }

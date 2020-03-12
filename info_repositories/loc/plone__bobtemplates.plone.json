@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 128.896044969559,
+  "n_files"            : 210,
+  "n_lines"            : 178887,
+  "files_per_second"   : 1.62921988839608,
+  "lines_per_second"   : 1387.83932464528,
+  "report_file"        : "loc/plone__bobtemplates.plone.json"},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 1,
+  "code": 153178},
+"LESS" :{
+  "nFiles": 79,
+  "blank": 903,
+  "comment": 1036,
+  "code": 5733},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 47,
+  "code": 5294},
+"Python" :{
+  "nFiles": 49,
+  "blank": 1167,
+  "comment": 1394,
+  "code": 4668},
+"reStructuredText" :{
+  "nFiles": 27,
+  "blank": 992,
+  "comment": 617,
+  "code": 1218},
+"INI" :{
+  "nFiles": 15,
+  "blank": 121,
+  "comment": 0,
+  "code": 677},
+"XML" :{
+  "nFiles": 8,
+  "blank": 104,
+  "comment": 159,
+  "code": 577},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 2,
+  "code": 243},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 3,
+  "code": 208},
+"make" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 6,
+  "code": 193},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 51,
+  "code": 163},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 4},
+"SUM": {
+  "blank": 3389,
+  "comment": 3322,
+  "code": 172176,
+  "nFiles": 210} }

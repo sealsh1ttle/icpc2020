@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.987180948257446,
+  "n_files"            : 3,
+  "n_lines"            : 810,
+  "files_per_second"   : 3.0389565411443,
+  "lines_per_second"   : 820.518266108961,
+  "report_file"        : "loc/ocaml-community__awesome-ocaml.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 200,
+  "comment": 0,
+  "code": 604},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 200,
+  "comment": 0,
+  "code": 610,
+  "nFiles": 3} }

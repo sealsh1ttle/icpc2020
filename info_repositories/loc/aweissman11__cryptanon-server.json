@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.15418386459351,
+  "n_files"            : 39,
+  "n_lines"            : 240778,
+  "files_per_second"   : 4.26034702567467,
+  "lines_per_second"   : 26302.5086191768,
+  "report_file"        : "loc/aweissman11__cryptanon-server.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 162260},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 201,
+  "comment": 139,
+  "code": 77626},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 120,
+  "comment": 0,
+  "code": 204},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 1,
+  "code": 145},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 20,
+  "code": 19},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 349,
+  "comment": 160,
+  "code": 240269,
+  "nFiles": 39} }

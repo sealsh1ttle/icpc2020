@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.62278389930725,
+  "n_files"            : 16,
+  "n_lines"            : 1046,
+  "files_per_second"   : 3.46111787799505,
+  "lines_per_second"   : 226.270581273926,
+  "report_file"        : "loc/xoe-labs__dockery-odoo-scaffold.json"},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 44,
+  "comment": 104,
+  "code": 474},
+"make" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 10,
+  "code": 192},
+"INI" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 12,
+  "code": 51},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 7,
+  "code": 49},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 7,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 116,
+  "comment": 140,
+  "code": 790,
+  "nFiles": 16} }

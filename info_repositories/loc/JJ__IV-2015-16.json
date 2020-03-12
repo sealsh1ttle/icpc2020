@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.36558198928833,
+  "n_files"            : 317,
+  "n_lines"            : 54562,
+  "files_per_second"   : 867.110550541881,
+  "lines_per_second"   : 149246.958544688,
+  "report_file"        : "loc/JJ__IV-2015-16.json"},
+"Markdown" :{
+  "nFiles": 314,
+  "blank": 19177,
+  "comment": 0,
+  "code": 35167},
+"C++" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 12,
+  "code": 146},
+"Python" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 19233,
+  "comment": 12,
+  "code": 35317,
+  "nFiles": 317} }

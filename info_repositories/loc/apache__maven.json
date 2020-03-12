@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.2139229774475,
+  "n_files"            : 1694,
+  "n_lines"            : 173147,
+  "files_per_second"   : 49.5120071766286,
+  "lines_per_second"   : 5060.71753637055,
+  "report_file"        : "loc/apache__maven.json"},
+"Java" :{
+  "nFiles": 968,
+  "blank": 20777,
+  "comment": 31292,
+  "code": 83863},
+"XML" :{
+  "nFiles": 510,
+  "blank": 2334,
+  "comment": 6097,
+  "code": 14965},
+"Maven" :{
+  "nFiles": 199,
+  "blank": 655,
+  "comment": 1529,
+  "code": 10525},
+"Velocity Template Language" :{
+  "nFiles": 7,
+  "blank": 60,
+  "comment": 22,
+  "code": 230},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 199},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 0,
+  "code": 173},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 108,
+  "code": 144},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 16,
+  "code": 29},
+"SUM": {
+  "blank": 23955,
+  "comment": 39064,
+  "code": 110128,
+  "nFiles": 1694} }

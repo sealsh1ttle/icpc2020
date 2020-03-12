@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.84805798530579,
+  "n_files"            : 4,
+  "n_lines"            : 567,
+  "files_per_second"   : 1.40446578708633,
+  "lines_per_second"   : 199.083025319487,
+  "report_file"        : "loc/NordicGeodesy__NordicTransformations.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 76,
+  "comment": 0,
+  "code": 273},
+"Python" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 48,
+  "code": 108},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 126,
+  "comment": 48,
+  "code": 393,
+  "nFiles": 4} }

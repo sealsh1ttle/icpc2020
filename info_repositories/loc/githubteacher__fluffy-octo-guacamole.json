@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.6659619808197,
+  "n_files"            : 88,
+  "n_lines"            : 687,
+  "files_per_second"   : 4.25820971129598,
+  "lines_per_second"   : 33.2430689961402,
+  "report_file"        : "loc/githubteacher__fluffy-octo-guacamole.json"},
+"Markdown" :{
+  "nFiles": 88,
+  "blank": 136,
+  "comment": 0,
+  "code": 551},
+"SUM": {
+  "blank": 136,
+  "comment": 0,
+  "code": 551,
+  "nFiles": 88} }

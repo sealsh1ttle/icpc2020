@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.935429096221924,
+  "n_files"            : 86,
+  "n_lines"            : 48915,
+  "files_per_second"   : 91.9364175727939,
+  "lines_per_second"   : 52291.5100648048,
+  "report_file"        : "loc/aws-beam__aws-elixir.json"},
+"Elixir" :{
+  "nFiles": 82,
+  "blank": 8402,
+  "comment": 26890,
+  "code": 13149},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 58,
+  "comment": 0,
+  "code": 411},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 8460,
+  "comment": 26890,
+  "code": 13565,
+  "nFiles": 86} }

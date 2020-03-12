@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0895459651947021,
+  "n_files"            : 7,
+  "n_lines"            : 378,
+  "files_per_second"   : 78.172143041618,
+  "lines_per_second"   : 4221.29572424737,
+  "report_file"        : "loc/argos-research__operating-system.json"},
+"make" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 45,
+  "code": 107},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 25,
+  "comment": 36,
+  "code": 89},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 62,
+  "comment": 81,
+  "code": 235,
+  "nFiles": 7} }

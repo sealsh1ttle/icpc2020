@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 67.3379378318787,
+  "n_files"            : 266,
+  "n_lines"            : 102755,
+  "files_per_second"   : 3.95022491873923,
+  "lines_per_second"   : 1525.96000573327,
+  "report_file"        : "loc/AOSiP-Devices__device_oneplus_msm8998-common.json"},
+"C++" :{
+  "nFiles": 50,
+  "blank": 3337,
+  "comment": 2939,
+  "code": 19067},
+"C/C++ Header" :{
+  "nFiles": 74,
+  "blank": 4222,
+  "comment": 18260,
+  "code": 11807},
+"XML" :{
+  "nFiles": 43,
+  "blank": 1553,
+  "comment": 1570,
+  "code": 9831},
+"C" :{
+  "nFiles": 10,
+  "blank": 2073,
+  "comment": 1104,
+  "code": 8965},
+"Windows Resource File" :{
+  "nFiles": 13,
+  "blank": 685,
+  "comment": 0,
+  "code": 5220},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 718,
+  "comment": 1240,
+  "code": 5160},
+"make" :{
+  "nFiles": 36,
+  "blank": 406,
+  "comment": 343,
+  "code": 1839},
+"INI" :{
+  "nFiles": 3,
+  "blank": 232,
+  "comment": 0,
+  "code": 756},
+"m4" :{
+  "nFiles": 8,
+  "blank": 122,
+  "comment": 0,
+  "code": 577},
+"Java" :{
+  "nFiles": 7,
+  "blank": 84,
+  "comment": 131,
+  "code": 339},
+"F#" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 102},
+"Python" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 15,
+  "code": 30},
+"SUM": {
+  "blank": 13460,
+  "comment": 25602,
+  "code": 63693,
+  "nFiles": 266} }

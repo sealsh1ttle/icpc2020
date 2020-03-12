@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.6915140151978,
+  "n_files"            : 171,
+  "n_lines"            : 11613,
+  "files_per_second"   : 4.79105481283833,
+  "lines_per_second"   : 325.371459306968,
+  "report_file"        : "loc/HAECHI-LABS__vvisp.json"},
+"JavaScript" :{
+  "nFiles": 108,
+  "blank": 798,
+  "comment": 349,
+  "code": 5568},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 1071,
+  "comment": 0,
+  "code": 2176},
+"Solidity" :{
+  "nFiles": 23,
+  "blank": 165,
+  "comment": 42,
+  "code": 655},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 2,
+  "comment": 0,
+  "code": 475},
+"Mustache" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 0,
+  "code": 149},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 19,
+  "comment": 4,
+  "code": 83},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 2084,
+  "comment": 395,
+  "code": 9134,
+  "nFiles": 171} }

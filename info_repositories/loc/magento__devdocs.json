@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 622.637722015381,
+  "n_files"            : 2215,
+  "n_lines"            : 458292,
+  "files_per_second"   : 3.55744588174066,
+  "lines_per_second"   : 736.049204530334,
+  "report_file"        : "loc/magento__devdocs.json"},
+"Markdown" :{
+  "nFiles": 1645,
+  "blank": 61496,
+  "comment": 3,
+  "code": 172276},
+"JSON" :{
+  "nFiles": 25,
+  "blank": 3,
+  "comment": 0,
+  "code": 112917},
+"YAML" :{
+  "nFiles": 361,
+  "blank": 4361,
+  "comment": 368,
+  "code": 38929},
+"HTML" :{
+  "nFiles": 96,
+  "blank": 173,
+  "comment": 15,
+  "code": 35019},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 661,
+  "comment": 5901,
+  "code": 19657},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 367,
+  "comment": 87,
+  "code": 4899},
+"Ruby" :{
+  "nFiles": 26,
+  "blank": 151,
+  "comment": 233,
+  "code": 645},
+"SVG" :{
+  "nFiles": 41,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 50},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 67222,
+  "comment": 6607,
+  "code": 384463,
+  "nFiles": 2215} }

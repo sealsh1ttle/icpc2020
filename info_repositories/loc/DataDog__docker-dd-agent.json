@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.18150496482849,
+  "n_files"            : 23,
+  "n_lines"            : 1267,
+  "files_per_second"   : 2.81121873040166,
+  "lines_per_second"   : 154.861483974735,
+  "report_file"        : "loc/DataDog__docker-dd-agent.json"},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 234,
+  "comment": 0,
+  "code": 423},
+"Python" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 49,
+  "code": 110},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 34,
+  "code": 96},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 22,
+  "comment": 31,
+  "code": 49},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 26,
+  "comment": 111,
+  "code": 34},
+"SUM": {
+  "blank": 330,
+  "comment": 225,
+  "code": 712,
+  "nFiles": 23} }

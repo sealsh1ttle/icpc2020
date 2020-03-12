@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 127.009279966354,
+  "n_files"            : 421,
+  "n_lines"            : 129063,
+  "files_per_second"   : 3.31471842145334,
+  "lines_per_second"   : 1016.16984234687,
+  "report_file"        : "loc/Metaswitch__sprout.json"},
+"C++" :{
+  "nFiles": 138,
+  "blank": 14721,
+  "comment": 15563,
+  "code": 72840},
+"C/C++ Header" :{
+  "nFiles": 102,
+  "blank": 2380,
+  "comment": 4319,
+  "code": 7950},
+"JSON" :{
+  "nFiles": 55,
+  "blank": 14,
+  "comment": 0,
+  "code": 2592},
+"XML" :{
+  "nFiles": 24,
+  "blank": 232,
+  "comment": 187,
+  "code": 1907},
+"Bourne Shell" :{
+  "nFiles": 46,
+  "blank": 436,
+  "comment": 1138,
+  "code": 1094},
+"Bourne Again Shell" :{
+  "nFiles": 17,
+  "blank": 156,
+  "comment": 390,
+  "code": 790},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 306,
+  "comment": 0,
+  "code": 688},
+"make" :{
+  "nFiles": 16,
+  "blank": 152,
+  "comment": 70,
+  "code": 592},
+"INI" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 233},
+"Python" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 46,
+  "code": 124},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 32,
+  "code": 69},
+"SUM": {
+  "blank": 18439,
+  "comment": 21745,
+  "code": 88879,
+  "nFiles": 421} }

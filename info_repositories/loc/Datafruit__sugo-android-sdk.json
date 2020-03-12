@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 114.939221143723,
+  "n_files"            : 254,
+  "n_lines"            : 45747,
+  "files_per_second"   : 2.20986359114434,
+  "lines_per_second"   : 398.01035316567,
+  "report_file"        : "loc/Datafruit__sugo-android-sdk.json"},
+"Java" :{
+  "nFiles": 198,
+  "blank": 5526,
+  "comment": 5833,
+  "code": 29222},
+"XML" :{
+  "nFiles": 35,
+  "blank": 519,
+  "comment": 11,
+  "code": 2656},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 0,
+  "code": 525},
+"Gradle" :{
+  "nFiles": 11,
+  "blank": 81,
+  "comment": 21,
+  "code": 425},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 115,
+  "comment": 0,
+  "code": 367},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 98},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"ProGuard" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 50,
+  "code": 13},
+"SUM": {
+  "blank": 6319,
+  "comment": 5937,
+  "code": 33491,
+  "nFiles": 254} }

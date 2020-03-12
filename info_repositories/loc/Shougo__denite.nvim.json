@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.5141930580139,
+  "n_files"            : 83,
+  "n_lines"            : 7960,
+  "files_per_second"   : 3.68656339519378,
+  "lines_per_second"   : 353.554754527018,
+  "report_file"        : "loc/Shougo__denite.nvim.json"},
+"Python" :{
+  "nFiles": 68,
+  "blank": 1198,
+  "comment": 596,
+  "code": 4559},
+"vim script" :{
+  "nFiles": 11,
+  "blank": 190,
+  "comment": 87,
+  "code": 1113},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 70,
+  "comment": 0,
+  "code": 105},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 1468,
+  "comment": 683,
+  "code": 5809,
+  "nFiles": 83} }

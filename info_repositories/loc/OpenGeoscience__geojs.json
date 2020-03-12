@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 180.401124000549,
+  "n_files"            : 477,
+  "n_lines"            : 121253,
+  "files_per_second"   : 2.64410769413248,
+  "lines_per_second"   : 672.129958567391,
+  "report_file"        : "loc/OpenGeoscience__geojs.json"},
+"JavaScript" :{
+  "nFiles": 260,
+  "blank": 7305,
+  "comment": 16269,
+  "code": 56978},
+"JSON" :{
+  "nFiles": 60,
+  "blank": 1,
+  "comment": 0,
+  "code": 17773},
+"CSS" :{
+  "nFiles": 28,
+  "blank": 162,
+  "comment": 49,
+  "code": 10536},
+"Pug" :{
+  "nFiles": 34,
+  "blank": 207,
+  "comment": 119,
+  "code": 2419},
+"Sass" :{
+  "nFiles": 19,
+  "blank": 95,
+  "comment": 45,
+  "code": 1969},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 44,
+  "code": 1646},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 2,
+  "code": 1149},
+"Python" :{
+  "nFiles": 9,
+  "blank": 210,
+  "comment": 304,
+  "code": 820},
+"GLSL" :{
+  "nFiles": 15,
+  "blank": 43,
+  "comment": 91,
+  "code": 587},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 170,
+  "comment": 0,
+  "code": 583},
+"reStructuredText" :{
+  "nFiles": 7,
+  "blank": 158,
+  "comment": 103,
+  "code": 368},
+"EJS" :{
+  "nFiles": 6,
+  "blank": 15,
+  "comment": 18,
+  "code": 233},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 24,
+  "code": 185},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 173},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 52,
+  "code": 129},
+"Stylus" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 2,
+  "code": 105},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 8468,
+  "comment": 17122,
+  "code": 95663,
+  "nFiles": 477} }

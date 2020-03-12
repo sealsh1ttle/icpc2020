@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 225.669015169144,
+  "n_files"            : 627,
+  "n_lines"            : 143574,
+  "files_per_second"   : 2.77840535409813,
+  "lines_per_second"   : 636.214944671905,
+  "report_file"        : "loc/linuxmint__cinnamon-spices-desklets.json"},
+"SVG" :{
+  "nFiles": 206,
+  "blank": 191,
+  "comment": 215,
+  "code": 53692},
+"PO File" :{
+  "nFiles": 146,
+  "blank": 11481,
+  "comment": 14154,
+  "code": 27367},
+"JavaScript" :{
+  "nFiles": 61,
+  "blank": 3489,
+  "comment": 1762,
+  "code": 19235},
+"JSON" :{
+  "nFiles": 122,
+  "blank": 201,
+  "comment": 0,
+  "code": 4183},
+"CSS" :{
+  "nFiles": 34,
+  "blank": 527,
+  "comment": 56,
+  "code": 2605},
+"Markdown" :{
+  "nFiles": 46,
+  "blank": 479,
+  "comment": 0,
+  "code": 1392},
+"Python" :{
+  "nFiles": 5,
+  "blank": 229,
+  "comment": 138,
+  "code": 952},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 125,
+  "code": 411},
+"Qt" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 408},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 22,
+  "code": 212},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 16642,
+  "comment": 16473,
+  "code": 110459,
+  "nFiles": 627} }

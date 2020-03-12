@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 179.182951927185,
+  "n_files"            : 893,
+  "n_lines"            : 236267,
+  "files_per_second"   : 4.98373305270074,
+  "lines_per_second"   : 1318.57968327262,
+  "report_file"        : "loc/esa__pagmo.json"},
+"C/C++ Header" :{
+  "nFiles": 492,
+  "blank": 15946,
+  "comment": 30770,
+  "code": 87118},
+"C++" :{
+  "nFiles": 236,
+  "blank": 7106,
+  "comment": 16730,
+  "code": 50207},
+"Python" :{
+  "nFiles": 33,
+  "blank": 2142,
+  "comment": 3767,
+  "code": 7478},
+"reStructuredText" :{
+  "nFiles": 62,
+  "blank": 2333,
+  "comment": 3336,
+  "code": 2011},
+"C" :{
+  "nFiles": 3,
+  "blank": 422,
+  "comment": 414,
+  "code": 1467},
+"CMake" :{
+  "nFiles": 54,
+  "blank": 184,
+  "comment": 93,
+  "code": 1059},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 205,
+  "comment": 36,
+  "code": 792},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 790},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 1,
+  "code": 148},
+"make" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 4,
+  "code": 105},
+"Jupyter Notebook" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 1368,
+  "code": 62},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 41},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 6,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 28407,
+  "comment": 56526,
+  "code": 151334,
+  "nFiles": 893} }

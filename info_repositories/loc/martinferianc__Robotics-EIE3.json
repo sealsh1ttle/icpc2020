@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.465045928955078,
+  "n_files"            : 64,
+  "n_lines"            : 6301,
+  "files_per_second"   : 137.620815526335,
+  "lines_per_second"   : 13549.1993536162,
+  "report_file"        : "loc/martinferianc__Robotics-EIE3.json"},
+"Python" :{
+  "nFiles": 43,
+  "blank": 379,
+  "comment": 258,
+  "code": 1854},
+"C++" :{
+  "nFiles": 3,
+  "blank": 179,
+  "comment": 164,
+  "code": 1426},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 136,
+  "comment": 167,
+  "code": 829},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 190,
+  "comment": 0,
+  "code": 355},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 0,
+  "code": 116},
+"C" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 55,
+  "code": 98},
+"Standard ML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 943,
+  "comment": 644,
+  "code": 4714,
+  "nFiles": 64} }

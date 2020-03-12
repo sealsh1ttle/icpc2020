@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.3963007926941,
+  "n_files"            : 113,
+  "n_lines"            : 15619,
+  "files_per_second"   : 5.54022031487574,
+  "lines_per_second"   : 765.776115911896,
+  "report_file"        : "loc/inveniosoftware__datacite.json"},
+"JSON" :{
+  "nFiles": 25,
+  "blank": 64,
+  "comment": 0,
+  "code": 4873},
+"Python" :{
+  "nFiles": 31,
+  "blank": 1183,
+  "comment": 980,
+  "code": 3726},
+"XSD" :{
+  "nFiles": 29,
+  "blank": 45,
+  "comment": 136,
+  "code": 2810},
+"XML" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 0,
+  "code": 1323},
+"make" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 13,
+  "code": 143},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 74,
+  "comment": 51,
+  "code": 90},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 8,
+  "code": 36},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 7,
+  "code": 6},
+"SUM": {
+  "blank": 1407,
+  "comment": 1195,
+  "code": 13017,
+  "nFiles": 113} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.3525359630585,
+  "n_files"            : 282,
+  "n_lines"            : 58582,
+  "files_per_second"   : 4.67254599164832,
+  "lines_per_second"   : 970.663437172844,
+  "report_file"        : "loc/kyma-incubator__bullseye-showcase.json"},
+"Go" :{
+  "nFiles": 176,
+  "blank": 4961,
+  "comment": 8558,
+  "code": 27335},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 1,
+  "comment": 0,
+  "code": 13609},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 505,
+  "comment": 0,
+  "code": 1363},
+"JavaScript" :{
+  "nFiles": 24,
+  "blank": 71,
+  "comment": 29,
+  "code": 661},
+"YAML" :{
+  "nFiles": 33,
+  "blank": 48,
+  "comment": 0,
+  "code": 623},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 38,
+  "comment": 0,
+  "code": 225},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 20,
+  "code": 141},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 3,
+  "code": 129},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 2,
+  "code": 70},
+"make" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 0,
+  "code": 45},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 3,
+  "code": 28},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 5729,
+  "comment": 8615,
+  "code": 44238,
+  "nFiles": 282} }

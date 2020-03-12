@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.02595400810242,
+  "n_files"            : 14,
+  "n_lines"            : 1793,
+  "files_per_second"   : 6.91032468852188,
+  "lines_per_second"   : 885.01515475141,
+  "report_file"        : "loc/cloudfoundry__docs-deploying-cf.json"},
+"ERB" :{
+  "nFiles": 13,
+  "blank": 396,
+  "comment": 0,
+  "code": 1382},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 401,
+  "comment": 0,
+  "code": 1392,
+  "nFiles": 14} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0511391162872314,
+  "n_files"            : 5,
+  "n_lines"            : 182,
+  "files_per_second"   : 97.7725147207601,
+  "lines_per_second"   : 3558.91953583567,
+  "report_file"        : "loc/Scratch-Cloud-Services__scratch-cloud-services.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 9,
+  "code": 96},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 27,
+  "comment": 9,
+  "code": 146,
+  "nFiles": 5} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.10512399673462,
+  "n_files"            : 256,
+  "n_lines"            : 172765,
+  "files_per_second"   : 82.444372678583,
+  "lines_per_second"   : 55638.6798664664,
+  "report_file"        : "loc/AmigaPorts__quake2.json"},
+"C" :{
+  "nFiles": 165,
+  "blank": 24086,
+  "comment": 19049,
+  "code": 100759},
+"C/C++ Header" :{
+  "nFiles": 75,
+  "blank": 2874,
+  "comment": 2665,
+  "code": 16189},
+"Assembly" :{
+  "nFiles": 10,
+  "blank": 1036,
+  "comment": 892,
+  "code": 3869},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 1240},
+"make" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 7,
+  "code": 54},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"Windows Module Definition" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 28020,
+  "comment": 22613,
+  "code": 122132,
+  "nFiles": 256} }

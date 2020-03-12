@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.52377986907959,
+  "n_files"            : 98,
+  "n_lines"            : 11357,
+  "files_per_second"   : 187.101501575863,
+  "lines_per_second"   : 21682.7729938477,
+  "report_file"        : "loc/dwyl__github-backup.json"},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 31,
+  "comment": 0,
+  "code": 7741},
+"Elixir" :{
+  "nFiles": 65,
+  "blank": 316,
+  "comment": 418,
+  "code": 1743},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 168,
+  "comment": 0,
+  "code": 344},
+"EEx" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 0,
+  "code": 175},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 22,
+  "code": 90},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 19,
+  "code": 57},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 88,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 16},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 11},
+"SUM": {
+  "blank": 588,
+  "comment": 550,
+  "code": 10219,
+  "nFiles": 98} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.0548639297485,
+  "n_files"            : 184,
+  "n_lines"            : 36984,
+  "files_per_second"   : 3.46810803706216,
+  "lines_per_second"   : 697.089715449493,
+  "report_file"        : "loc/bsc-s2__lua-acid.json"},
+"Lua" :{
+  "nFiles": 126,
+  "blank": 5303,
+  "comment": 446,
+  "code": 20381},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 2166,
+  "comment": 0,
+  "code": 4572},
+"Python" :{
+  "nFiles": 15,
+  "blank": 516,
+  "comment": 164,
+  "code": 1334},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 977},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 210,
+  "comment": 122,
+  "code": 734},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 8206,
+  "comment": 732,
+  "code": 28046,
+  "nFiles": 184} }

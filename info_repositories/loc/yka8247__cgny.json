@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.93480587005615,
+  "n_files"            : 13,
+  "n_lines"            : 686,
+  "files_per_second"   : 4.42959452025059,
+  "lines_per_second"   : 233.746295453223,
+  "report_file"        : "loc/yka8247__cgny.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 74,
+  "comment": 60,
+  "code": 416},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 88,
+  "comment": 80,
+  "code": 518,
+  "nFiles": 13} }

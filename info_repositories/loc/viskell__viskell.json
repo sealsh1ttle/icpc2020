@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.9619300365448,
+  "n_files"            : 155,
+  "n_lines"            : 17145,
+  "files_per_second"   : 161.134379956313,
+  "lines_per_second"   : 17823.541576458,
+  "report_file"        : "loc/viskell__viskell.json"},
+"Java" :{
+  "nFiles": 126,
+  "blank": 2544,
+  "comment": 2137,
+  "code": 9986},
+"XML" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 1011},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 103,
+  "comment": 0,
+  "code": 401},
+"FXML" :{
+  "nFiles": 18,
+  "blank": 1,
+  "comment": 1,
+  "code": 361},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 213},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 162},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 84},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 41},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 21},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 2711,
+  "comment": 2143,
+  "code": 12291,
+  "nFiles": 155} }

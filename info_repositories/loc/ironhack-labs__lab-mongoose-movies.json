@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.89548897743225,
+  "n_files"            : 12,
+  "n_lines"            : 489,
+  "files_per_second"   : 3.08048619044224,
+  "lines_per_second"   : 125.529812260521,
+  "report_file"        : "loc/ironhack-labs__lab-mongoose-movies.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 111,
+  "comment": 0,
+  "code": 236},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 4,
+  "code": 46},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"Handlebars" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 20},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 136,
+  "comment": 4,
+  "code": 349,
+  "nFiles": 12} }

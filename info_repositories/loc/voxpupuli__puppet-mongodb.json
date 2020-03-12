@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.658919095993042,
+  "n_files"            : 105,
+  "n_lines"            : 8470,
+  "files_per_second"   : 159.351884986361,
+  "lines_per_second"   : 12854.3853888998,
+  "report_file"        : "loc/voxpupuli__puppet-mongodb.json"},
+"Ruby" :{
+  "nFiles": 45,
+  "blank": 540,
+  "comment": 119,
+  "code": 3184},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 466,
+  "comment": 0,
+  "code": 1387},
+"Puppet" :{
+  "nFiles": 30,
+  "blank": 99,
+  "comment": 82,
+  "code": 1056},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 173,
+  "comment": 162,
+  "code": 610},
+"ERB" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 0,
+  "code": 455},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 53},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 11},
+"SUM": {
+  "blank": 1325,
+  "comment": 366,
+  "code": 6779,
+  "nFiles": 105} }

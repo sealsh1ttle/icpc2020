@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.77702283859253,
+  "n_files"            : 5,
+  "n_lines"            : 4018,
+  "files_per_second"   : 2.81369484477768,
+  "lines_per_second"   : 2261.08517726334,
+  "report_file"        : "loc/danawoodman__sinon-express-mock.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3820},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 4,
+  "code": 105},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 51},
+"SUM": {
+  "blank": 38,
+  "comment": 4,
+  "code": 3976,
+  "nFiles": 5} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.76965999603271,
+  "n_files"            : 31,
+  "n_lines"            : 8210,
+  "files_per_second"   : 4.5792550908269,
+  "lines_per_second"   : 1212.76400953835,
+  "report_file"        : "loc/gflags__gflags.json"},
+"C++" :{
+  "nFiles": 10,
+  "blank": 640,
+  "comment": 1022,
+  "code": 3387},
+"CMake" :{
+  "nFiles": 11,
+  "blank": 140,
+  "comment": 301,
+  "code": 1080},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 102,
+  "comment": 282,
+  "code": 531},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 105,
+  "comment": 0,
+  "code": 312},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 5,
+  "code": 97},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 2,
+  "code": 70},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 83,
+  "code": 23},
+"SUM": {
+  "blank": 1015,
+  "comment": 1695,
+  "code": 5500,
+  "nFiles": 31} }

@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 346.809256076813,
+  "n_files"            : 2451,
+  "n_lines"            : 963598,
+  "files_per_second"   : 7.06728542290446,
+  "lines_per_second"   : 2778.46678863317,
+  "report_file"        : "loc/kubernetes-sigs__aws-iam-authenticator.json"},
+"Go" :{
+  "nFiles": 2178,
+  "blank": 84086,
+  "comment": 141573,
+  "code": 697526},
+"Assembly" :{
+  "nFiles": 86,
+  "blank": 1599,
+  "comment": 2040,
+  "code": 6754},
+"Protocol Buffers" :{
+  "nFiles": 53,
+  "blank": 3053,
+  "comment": 9425,
+  "code": 5118},
+"Markdown" :{
+  "nFiles": 61,
+  "blank": 1739,
+  "comment": 0,
+  "code": 4801},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1774},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 143,
+  "comment": 375,
+  "code": 817},
+"YAML" :{
+  "nFiles": 33,
+  "blank": 89,
+  "comment": 51,
+  "code": 746},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 66,
+  "comment": 62,
+  "code": 638},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 22,
+  "code": 218},
+"TOML" :{
+  "nFiles": 6,
+  "blank": 113,
+  "comment": 107,
+  "code": 181},
+"make" :{
+  "nFiles": 8,
+  "blank": 46,
+  "comment": 43,
+  "code": 116},
+"AsciiDoc" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 0,
+  "code": 89},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 9,
+  "code": 33},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 91002,
+  "comment": 153733,
+  "code": 718863,
+  "nFiles": 2451} }

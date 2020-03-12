@@ -1,0 +1,139 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 482.849754810333,
+  "n_files"            : 2170,
+  "n_lines"            : 748652,
+  "files_per_second"   : 4.49415160385116,
+  "lines_per_second"   : 1550.48644540386,
+  "report_file"        : "loc/kubeless__kubeless.json"},
+"Go" :{
+  "nFiles": 1858,
+  "blank": 60389,
+  "comment": 87503,
+  "code": 563610},
+"Markdown" :{
+  "nFiles": 91,
+  "blank": 2278,
+  "comment": 0,
+  "code": 6583},
+"Protocol Buffers" :{
+  "nFiles": 46,
+  "blank": 2712,
+  "comment": 8094,
+  "code": 4659},
+"YAML" :{
+  "nFiles": 46,
+  "blank": 73,
+  "comment": 40,
+  "code": 3318},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 1928},
+"Assembly" :{
+  "nFiles": 33,
+  "blank": 253,
+  "comment": 300,
+  "code": 1556},
+"Bourne Again Shell" :{
+  "nFiles": 12,
+  "blank": 128,
+  "comment": 239,
+  "code": 1105},
+"Bourne Shell" :{
+  "nFiles": 22,
+  "blank": 160,
+  "comment": 398,
+  "code": 973},
+"make" :{
+  "nFiles": 8,
+  "blank": 198,
+  "comment": 56,
+  "code": 827},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 61,
+  "code": 438},
+"Python" :{
+  "nFiles": 6,
+  "blank": 17,
+  "comment": 2,
+  "code": 92},
+"Dockerfile" :{
+  "nFiles": 7,
+  "blank": 23,
+  "comment": 15,
+  "code": 89},
+"C#" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 0,
+  "code": 55},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 0,
+  "code": 45},
+"Java" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 0,
+  "code": 35},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 5,
+  "code": 26},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"TOML" :{
+  "nFiles": 5,
+  "blank": 6,
+  "comment": 45,
+  "code": 19},
+"PHP" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 2,
+  "code": 19},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"Scala" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 66360,
+  "comment": 96786,
+  "code": 585506,
+  "nFiles": 2170} }

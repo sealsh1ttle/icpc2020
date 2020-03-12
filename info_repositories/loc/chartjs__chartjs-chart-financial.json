@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.16908311843872,
+  "n_files"            : 26,
+  "n_lines"            : 9039,
+  "files_per_second"   : 5.02990557595311,
+  "lines_per_second"   : 1748.66601927077,
+  "report_file"        : "loc/chartjs__chartjs-chart-financial.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7218},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 247,
+  "comment": 94,
+  "code": 1336},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 0,
+  "code": 35},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 22},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 284,
+  "comment": 94,
+  "code": 8661,
+  "nFiles": 26} }

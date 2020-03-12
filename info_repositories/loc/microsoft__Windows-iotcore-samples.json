@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 533.618824958801,
+  "n_files"            : 1740,
+  "n_lines"            : 296869,
+  "files_per_second"   : 3.26075452854261,
+  "lines_per_second"   : 556.331572490757,
+  "report_file"        : "loc/microsoft__Windows-iotcore-samples.json"},
+"C#" :{
+  "nFiles": 776,
+  "blank": 15093,
+  "comment": 17395,
+  "code": 72266},
+"XML" :{
+  "nFiles": 103,
+  "blank": 196,
+  "comment": 3626,
+  "code": 61399},
+"C++" :{
+  "nFiles": 100,
+  "blank": 4375,
+  "comment": 4013,
+  "code": 18073},
+"Markdown" :{
+  "nFiles": 189,
+  "blank": 6571,
+  "comment": 0,
+  "code": 17406},
+"MSBuild script" :{
+  "nFiles": 124,
+  "blank": 48,
+  "comment": 761,
+  "code": 17127},
+"XAML" :{
+  "nFiles": 242,
+  "blank": 889,
+  "comment": 1301,
+  "code": 13071},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 1061,
+  "comment": 553,
+  "code": 9991},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 1272,
+  "comment": 2756,
+  "code": 7290},
+"C/C++ Header" :{
+  "nFiles": 115,
+  "blank": 1869,
+  "comment": 2239,
+  "code": 6883},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 1,
+  "code": 2246},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 32,
+  "comment": 13,
+  "code": 2196},
+"JSON" :{
+  "nFiles": 21,
+  "blank": 1,
+  "comment": 0,
+  "code": 1800},
+"PowerShell" :{
+  "nFiles": 11,
+  "blank": 129,
+  "comment": 108,
+  "code": 650},
+"Python" :{
+  "nFiles": 4,
+  "blank": 164,
+  "comment": 239,
+  "code": 643},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 408},
+"C" :{
+  "nFiles": 2,
+  "blank": 87,
+  "comment": 150,
+  "code": 146},
+"Visual Basic" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 19,
+  "code": 50},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 46},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 41},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 0,
+  "code": 24},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 3,
+  "code": 17},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 16},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 31898,
+  "comment": 33179,
+  "code": 231792,
+  "nFiles": 1740} }

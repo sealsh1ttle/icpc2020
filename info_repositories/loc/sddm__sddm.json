@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.568107843399,
+  "n_files"            : 176,
+  "n_lines"            : 19065,
+  "files_per_second"   : 5.24307181152629,
+  "lines_per_second"   : 567.949795947436,
+  "report_file"        : "loc/sddm__sddm.json"},
+"C++" :{
+  "nFiles": 39,
+  "blank": 1252,
+  "comment": 1277,
+  "code": 4844},
+"Qt Linguist" :{
+  "nFiles": 38,
+  "blank": 1,
+  "comment": 0,
+  "code": 2939},
+"C/C++ Header" :{
+  "nFiles": 44,
+  "blank": 591,
+  "comment": 1159,
+  "code": 2047},
+"QML" :{
+  "nFiles": 17,
+  "blank": 596,
+  "comment": 421,
+  "code": 1955},
+"CMake" :{
+  "nFiles": 16,
+  "blank": 125,
+  "comment": 120,
+  "code": 547},
+"XML" :{
+  "nFiles": 7,
+  "blank": 4,
+  "comment": 16,
+  "code": 509},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 83,
+  "comment": 0,
+  "code": 151},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 22,
+  "code": 129},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 50,
+  "code": 115},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 33},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 6},
+"SUM": {
+  "blank": 2691,
+  "comment": 3083,
+  "code": 13291,
+  "nFiles": 176} }

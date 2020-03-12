@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.918651819229126,
+  "n_files"            : 97,
+  "n_lines"            : 33589,
+  "files_per_second"   : 105.589514949632,
+  "lines_per_second"   : 36563.3630684863,
+  "report_file"        : "loc/coala__gh-board.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 21284},
+"JSX" :{
+  "nFiles": 39,
+  "blank": 702,
+  "comment": 313,
+  "code": 5021},
+"JavaScript" :{
+  "nFiles": 28,
+  "blank": 358,
+  "comment": 561,
+  "code": 3089},
+"LESS" :{
+  "nFiles": 8,
+  "blank": 263,
+  "comment": 195,
+  "code": 1129},
+"GraphQL" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 235},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 81,
+  "comment": 0,
+  "code": 137},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 6,
+  "code": 82},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 22,
+  "comment": 10,
+  "code": 58},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1445,
+  "comment": 1085,
+  "code": 31059,
+  "nFiles": 97} }

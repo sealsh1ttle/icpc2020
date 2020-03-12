@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 109.120342969894,
+  "n_files"            : 571,
+  "n_lines"            : 152884,
+  "files_per_second"   : 5.2327548141737,
+  "lines_per_second"   : 1401.05864625242,
+  "report_file"        : "loc/kubernetes__publishing-bot.json"},
+"Go" :{
+  "nFiles": 504,
+  "blank": 18058,
+  "comment": 23210,
+  "code": 105683},
+"Assembly" :{
+  "nFiles": 9,
+  "blank": 42,
+  "comment": 61,
+  "code": 1770},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 333,
+  "comment": 0,
+  "code": 881},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 148,
+  "comment": 350,
+  "code": 799},
+"Protocol Buffers" :{
+  "nFiles": 5,
+  "blank": 195,
+  "comment": 1,
+  "code": 636},
+"YAML" :{
+  "nFiles": 21,
+  "blank": 37,
+  "comment": 23,
+  "code": 315},
+"make" :{
+  "nFiles": 5,
+  "blank": 38,
+  "comment": 50,
+  "code": 151},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 13,
+  "code": 24},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 26,
+  "code": 19},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 18866,
+  "comment": 23739,
+  "code": 110279,
+  "nFiles": 571} }

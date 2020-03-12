@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.3371880054474,
+  "n_files"            : 125,
+  "n_lines"            : 24285,
+  "files_per_second"   : 5.85831647394621,
+  "lines_per_second"   : 1138.15372455827,
+  "report_file"        : "loc/quantopian__trading_calendars.json"},
+"Python" :{
+  "nFiles": 119,
+  "blank": 3203,
+  "comment": 5343,
+  "code": 15343},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 91},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 16,
+  "code": 82},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 7,
+  "code": 76},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 74},
+"SUM": {
+  "blank": 3253,
+  "comment": 5366,
+  "code": 15666,
+  "nFiles": 125} }

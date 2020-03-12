@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.1759328842163,
+  "n_files"            : 102,
+  "n_lines"            : 10497,
+  "files_per_second"   : 7.19529365954944,
+  "lines_per_second"   : 740.480368081279,
+  "report_file"        : "loc/SynapseFI__SynapseFI-Ruby.json"},
+"Ruby" :{
+  "nFiles": 100,
+  "blank": 1108,
+  "comment": 1879,
+  "code": 6001},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 219,
+  "comment": 0,
+  "code": 1290},
+"SUM": {
+  "blank": 1327,
+  "comment": 1879,
+  "code": 7291,
+  "nFiles": 102} }

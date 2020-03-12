@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 137.611362934113,
+  "n_files"            : 512,
+  "n_lines"            : 32841,
+  "files_per_second"   : 3.72062298550987,
+  "lines_per_second"   : 238.650350521738,
+  "report_file"        : "loc/fossasia__open-event-droidgen.json"},
+"Java" :{
+  "nFiles": 199,
+  "blank": 2894,
+  "comment": 405,
+  "code": 13595},
+"XML" :{
+  "nFiles": 181,
+  "blank": 968,
+  "comment": 231,
+  "code": 6487},
+"Kotlin" :{
+  "nFiles": 39,
+  "blank": 470,
+  "comment": 244,
+  "code": 1527},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 447,
+  "comment": 0,
+  "code": 1245},
+"Python" :{
+  "nFiles": 15,
+  "blank": 271,
+  "comment": 296,
+  "code": 1104},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 67,
+  "comment": 80,
+  "code": 650},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 25,
+  "comment": 0,
+  "code": 358},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 69,
+  "comment": 35,
+  "code": 230},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 1,
+  "comment": 0,
+  "code": 206},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 37,
+  "comment": 14,
+  "code": 179},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 0,
+  "code": 150},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"PHP" :{
+  "nFiles": 4,
+  "blank": 37,
+  "comment": 1,
+  "code": 72},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 6,
+  "code": 38},
+"ProGuard" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 33,
+  "code": 12},
+"SUM": {
+  "blank": 5381,
+  "comment": 1367,
+  "code": 26093,
+  "nFiles": 512} }

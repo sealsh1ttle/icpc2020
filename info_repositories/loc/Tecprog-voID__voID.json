@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.19877004623413,
+  "n_files"            : 168,
+  "n_lines"            : 17731,
+  "files_per_second"   : 140.143641833363,
+  "lines_per_second"   : 14790.9935318295,
+  "report_file"        : "loc/Tecprog-voID__voID.json"},
+"C++" :{
+  "nFiles": 72,
+  "blank": 1761,
+  "comment": 3120,
+  "code": 6525},
+"C/C++ Header" :{
+  "nFiles": 82,
+  "blank": 1018,
+  "comment": 721,
+  "code": 2773},
+"XML" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 1128},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 553},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 44},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 9,
+  "code": 23},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 2820,
+  "comment": 3850,
+  "code": 11061,
+  "nFiles": 168} }

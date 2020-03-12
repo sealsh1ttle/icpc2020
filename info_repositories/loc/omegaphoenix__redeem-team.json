@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.5595080852509,
+  "n_files"            : 306,
+  "n_lines"            : 119474,
+  "files_per_second"   : 5.05288120189546,
+  "lines_per_second"   : 1972.83636835052,
+  "report_file"        : "loc/omegaphoenix__redeem-team.json"},
+"C/C++ Header" :{
+  "nFiles": 280,
+  "blank": 13690,
+  "comment": 21523,
+  "code": 79504},
+"C++" :{
+  "nFiles": 17,
+  "blank": 579,
+  "comment": 501,
+  "code": 3321},
+"Python" :{
+  "nFiles": 5,
+  "blank": 38,
+  "comment": 46,
+  "code": 158},
+"make" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 7,
+  "code": 61},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 14332,
+  "comment": 22077,
+  "code": 83065,
+  "nFiles": 306} }

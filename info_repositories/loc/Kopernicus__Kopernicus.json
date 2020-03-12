@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.02867388725281,
+  "n_files"            : 247,
+  "n_lines"            : 48618,
+  "files_per_second"   : 27.3572844788124,
+  "lines_per_second"   : 5384.84395461903,
+  "report_file"        : "loc/Kopernicus__Kopernicus.json"},
+"C#" :{
+  "nFiles": 234,
+  "blank": 5526,
+  "comment": 10053,
+  "code": 31795},
+"Java" :{
+  "nFiles": 2,
+  "blank": 65,
+  "comment": 112,
+  "code": 331},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 302},
+"HLSL" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 44,
+  "code": 101},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 0,
+  "code": 92},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 8,
+  "code": 53},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"SUM": {
+  "blank": 5677,
+  "comment": 10217,
+  "code": 32724,
+  "nFiles": 247} }

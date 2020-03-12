@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 907.61061000824,
+  "n_files"            : 3515,
+  "n_lines"            : 1176830,
+  "files_per_second"   : 3.872806202616,
+  "lines_per_second"   : 1296.6243309885,
+  "report_file"        : "loc/vmware-tanzu__velero.json"},
+"Go" :{
+  "nFiles": 2844,
+  "blank": 109698,
+  "comment": 218692,
+  "code": 798610},
+"Markdown" :{
+  "nFiles": 443,
+  "blank": 9392,
+  "comment": 0,
+  "code": 24437},
+"Sass" :{
+  "nFiles": 102,
+  "blank": 1283,
+  "comment": 1057,
+  "code": 5575},
+"YAML" :{
+  "nFiles": 32,
+  "blank": 41,
+  "comment": 67,
+  "code": 2946},
+"Assembly" :{
+  "nFiles": 33,
+  "blank": 253,
+  "comment": 300,
+  "code": 1558},
+"HTML" :{
+  "nFiles": 22,
+  "blank": 27,
+  "comment": 21,
+  "code": 640},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 103,
+  "comment": 248,
+  "code": 360},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 75,
+  "comment": 91,
+  "code": 232},
+"Protocol Buffers" :{
+  "nFiles": 6,
+  "blank": 51,
+  "comment": 0,
+  "code": 217},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 7,
+  "code": 208},
+"make" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 66,
+  "code": 141},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 45,
+  "code": 98},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 31,
+  "code": 80},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 27},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"SUM": {
+  "blank": 121030,
+  "comment": 220647,
+  "code": 835153,
+  "nFiles": 3515} }

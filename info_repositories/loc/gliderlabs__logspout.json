@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.06414318084717,
+  "n_files"            : 40,
+  "n_lines"            : 4232,
+  "files_per_second"   : 4.96022938865997,
+  "lines_per_second"   : 524.792269320225,
+  "report_file"        : "loc/gliderlabs__logspout.json"},
+"Go" :{
+  "nFiles": 23,
+  "blank": 388,
+  "comment": 147,
+  "code": 2767},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 169,
+  "comment": 0,
+  "code": 522},
+"make" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 1,
+  "code": 111},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 4,
+  "code": 34},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 584,
+  "comment": 152,
+  "code": 3496,
+  "nFiles": 40} }

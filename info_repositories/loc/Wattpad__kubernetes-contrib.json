@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5310.91409778595,
+  "n_files"            : 7148,
+  "n_lines"            : 3913755,
+  "files_per_second"   : 1.34590766643729,
+  "lines_per_second"   : 736.926812962686,
+  "report_file"        : "loc/Wattpad__kubernetes-contrib.json"},
+"Go" :{
+  "nFiles": 6082,
+  "blank": 243536,
+  "comment": 329707,
+  "code": 3149189},
+"JSON" :{
+  "nFiles": 72,
+  "blank": 6,
+  "comment": 0,
+  "code": 64629},
+"JavaScript" :{
+  "nFiles": 21,
+  "blank": 6106,
+  "comment": 10049,
+  "code": 29133},
+"Markdown" :{
+  "nFiles": 224,
+  "blank": 5305,
+  "comment": 0,
+  "code": 15927},
+"Protocol Buffers" :{
+  "nFiles": 85,
+  "blank": 6314,
+  "comment": 16189,
+  "code": 10618},
+"YAML" :{
+  "nFiles": 344,
+  "blank": 807,
+  "comment": 479,
+  "code": 8194},
+"Bourne Shell" :{
+  "nFiles": 115,
+  "blank": 848,
+  "comment": 2106,
+  "code": 3829},
+"HTML" :{
+  "nFiles": 36,
+  "blank": 715,
+  "comment": 84,
+  "code": 2350},
+"make" :{
+  "nFiles": 64,
+  "blank": 413,
+  "comment": 471,
+  "code": 1134},
+"Perl" :{
+  "nFiles": 11,
+  "blank": 172,
+  "comment": 172,
+  "code": 986},
+"Lua" :{
+  "nFiles": 4,
+  "blank": 192,
+  "comment": 68,
+  "code": 765},
+"Python" :{
+  "nFiles": 5,
+  "blank": 103,
+  "comment": 118,
+  "code": 609},
+"Dockerfile" :{
+  "nFiles": 46,
+  "blank": 155,
+  "comment": 478,
+  "code": 418},
+"Assembly" :{
+  "nFiles": 23,
+  "blank": 194,
+  "comment": 230,
+  "code": 212},
+"C" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 24,
+  "code": 186},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 25,
+  "comment": 4,
+  "code": 179},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 50,
+  "comment": 66,
+  "code": 154},
+"INI" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 264982,
+  "comment": 360245,
+  "code": 3288528,
+  "nFiles": 7148} }

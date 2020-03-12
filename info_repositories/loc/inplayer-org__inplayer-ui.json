@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 87.300793170929,
+  "n_files"            : 171,
+  "n_lines"            : 11859,
+  "files_per_second"   : 1.95874509026732,
+  "lines_per_second"   : 135.840690207486,
+  "report_file"        : "loc/inplayer-org__inplayer-ui.json"},
+"JavaScript" :{
+  "nFiles": 126,
+  "blank": 835,
+  "comment": 203,
+  "code": 5651},
+"Markdown" :{
+  "nFiles": 38,
+  "blank": 674,
+  "comment": 0,
+  "code": 2656},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 236,
+  "comment": 12,
+  "code": 1236},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 219},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 102},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 27},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1752,
+  "comment": 215,
+  "code": 9892,
+  "nFiles": 171} }

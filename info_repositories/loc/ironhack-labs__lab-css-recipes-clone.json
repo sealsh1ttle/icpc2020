@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.5454740524292,
+  "n_files"            : 5,
+  "n_lines"            : 144,
+  "files_per_second"   : 3.23525328176227,
+  "lines_per_second"   : 93.1752945147533,
+  "report_file"        : "loc/ironhack-labs__lab-css-recipes-clone.json"},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 2,
+  "code": 66},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 38},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 7},
+"SUM": {
+  "blank": 29,
+  "comment": 4,
+  "code": 111,
+  "nFiles": 5} }

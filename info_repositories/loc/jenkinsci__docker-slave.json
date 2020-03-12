@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.12673687934875,
+  "n_files"            : 5,
+  "n_lines"            : 213,
+  "files_per_second"   : 4.43759327633792,
+  "lines_per_second"   : 189.041473571995,
+  "report_file"        : "loc/jenkinsci__docker-slave.json"},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 53},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 51},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 21,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 4},
+"SUM": {
+  "blank": 42,
+  "comment": 24,
+  "code": 147,
+  "nFiles": 5} }

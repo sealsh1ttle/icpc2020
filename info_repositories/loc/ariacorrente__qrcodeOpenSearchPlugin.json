@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0379531383514404,
+  "n_files"            : 4,
+  "n_lines"            : 136,
+  "files_per_second"   : 105.393128835897,
+  "lines_per_second"   : 3583.36638042051,
+  "report_file"        : "loc/ariacorrente__qrcodeOpenSearchPlugin.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 51},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 46},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 26,
+  "comment": 0,
+  "code": 110,
+  "nFiles": 4} }

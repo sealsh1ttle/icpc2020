@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.973395109176636,
+  "n_files"            : 28,
+  "n_lines"            : 1028,
+  "files_per_second"   : 28.7652976022083,
+  "lines_per_second"   : 1056.09735482393,
+  "report_file"        : "loc/python-trio__unasync.json"},
+"Python" :{
+  "nFiles": 16,
+  "blank": 123,
+  "comment": 121,
+  "code": 347},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 63,
+  "comment": 45,
+  "code": 82},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 12,
+  "code": 70},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 6,
+  "code": 65},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 222,
+  "comment": 192,
+  "code": 614,
+  "nFiles": 28} }

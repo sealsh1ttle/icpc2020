@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.6617438793182,
+  "n_files"            : 65,
+  "n_lines"            : 3362,
+  "files_per_second"   : 3.90115227258311,
+  "lines_per_second"   : 201.779599083452,
+  "report_file"        : "loc/LinkUpFiuba__web.json"},
+"JavaScript" :{
+  "nFiles": 41,
+  "blank": 242,
+  "comment": 408,
+  "code": 2220},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 42,
+  "comment": 0,
+  "code": 266},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 122},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 22,
+  "code": 20},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 298,
+  "comment": 430,
+  "code": 2634,
+  "nFiles": 65} }

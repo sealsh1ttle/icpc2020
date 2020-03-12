@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.0976850986481,
+  "n_files"            : 1588,
+  "n_lines"            : 713624,
+  "files_per_second"   : 68.7514784801074,
+  "lines_per_second"   : 30895.9099992998,
+  "report_file"        : "loc/sympy__sympy.json"},
+"Python" :{
+  "nFiles": 1272,
+  "blank": 137878,
+  "comment": 138321,
+  "code": 375963},
+"reStructuredText" :{
+  "nFiles": 233,
+  "blank": 6899,
+  "comment": 4880,
+  "code": 17123},
+"XSLT" :{
+  "nFiles": 3,
+  "blank": 699,
+  "comment": 467,
+  "code": 7525},
+"SVG" :{
+  "nFiles": 22,
+  "blank": 47,
+  "comment": 86,
+  "code": 6449},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2789},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 481,
+  "comment": 58,
+  "code": 750},
+"Perl" :{
+  "nFiles": 16,
+  "blank": 54,
+  "comment": 0,
+  "code": 383},
+"XML" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 22,
+  "code": 359},
+"Jupyter Notebook" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 10569,
+  "code": 317},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 25,
+  "code": 304},
+"ANTLR Grammar" :{
+  "nFiles": 2,
+  "blank": 77,
+  "comment": 13,
+  "code": 257},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 56,
+  "comment": 52,
+  "code": 203},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 77,
+  "comment": 0,
+  "code": 189},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 3,
+  "code": 120},
+"INI" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 17},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 146349,
+  "comment": 154498,
+  "code": 412777,
+  "nFiles": 1588} }

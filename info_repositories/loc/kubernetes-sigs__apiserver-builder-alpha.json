@@ -1,0 +1,184 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6494.95868802071,
+  "n_files"            : 13889,
+  "n_lines"            : 5611394,
+  "files_per_second"   : 2.13842776638701,
+  "lines_per_second"   : 863.961461425405,
+  "report_file"        : "loc/kubernetes-sigs__apiserver-builder-alpha.json"},
+"Go" :{
+  "nFiles": 11661,
+  "blank": 333865,
+  "comment": 419705,
+  "code": 3936803},
+"JSON" :{
+  "nFiles": 422,
+  "blank": 114,
+  "comment": 0,
+  "code": 326854},
+"C" :{
+  "nFiles": 9,
+  "blank": 15118,
+  "comment": 70107,
+  "code": 139510},
+"YAML" :{
+  "nFiles": 446,
+  "blank": 315,
+  "comment": 367,
+  "code": 106752},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 311,
+  "comment": 9304,
+  "code": 54152},
+"Markdown" :{
+  "nFiles": 433,
+  "blank": 11393,
+  "comment": 0,
+  "code": 30197},
+"Protocol Buffers" :{
+  "nFiles": 307,
+  "blank": 7200,
+  "comment": 19791,
+  "code": 21434},
+"Assembly" :{
+  "nFiles": 134,
+  "blank": 2627,
+  "comment": 3176,
+  "code": 17853},
+"Fortran 77" :{
+  "nFiles": 88,
+  "blank": 55,
+  "comment": 8720,
+  "code": 9168},
+"Swift" :{
+  "nFiles": 17,
+  "blank": 1160,
+  "comment": 1083,
+  "code": 7753},
+"XML" :{
+  "nFiles": 18,
+  "blank": 231,
+  "comment": 20,
+  "code": 6097},
+"Java" :{
+  "nFiles": 1,
+  "blank": 422,
+  "comment": 1360,
+  "code": 5901},
+"Bourne Shell" :{
+  "nFiles": 109,
+  "blank": 879,
+  "comment": 1123,
+  "code": 4015},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 586,
+  "comment": 10183,
+  "code": 3843},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 518,
+  "comment": 87,
+  "code": 3309},
+"C++" :{
+  "nFiles": 1,
+  "blank": 411,
+  "comment": 220,
+  "code": 2749},
+"make" :{
+  "nFiles": 111,
+  "blank": 538,
+  "comment": 1924,
+  "code": 2119},
+"Bourne Again Shell" :{
+  "nFiles": 22,
+  "blank": 323,
+  "comment": 265,
+  "code": 1759},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 205,
+  "comment": 24,
+  "code": 1640},
+"Fortran 90" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 24,
+  "code": 1311},
+"Python" :{
+  "nFiles": 4,
+  "blank": 49,
+  "comment": 34,
+  "code": 541},
+"Dockerfile" :{
+  "nFiles": 20,
+  "blank": 100,
+  "comment": 133,
+  "code": 494},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 61,
+  "code": 438},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 6,
+  "code": 417},
+"MATLAB" :{
+  "nFiles": 3,
+  "blank": 107,
+  "comment": 176,
+  "code": 369},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 7,
+  "code": 301},
+"TOML" :{
+  "nFiles": 6,
+  "blank": 60,
+  "comment": 83,
+  "code": 226},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 20,
+  "code": 155},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 122},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 2,
+  "code": 115},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 67},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 66},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 376810,
+  "comment": 548035,
+  "code": 4686549,
+  "nFiles": 13889} }

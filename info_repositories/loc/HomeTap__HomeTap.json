@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.73663902282715,
+  "n_files"            : 29,
+  "n_lines"            : 1314,
+  "files_per_second"   : 4.30481726892792,
+  "lines_per_second"   : 195.052754874872,
+  "report_file"        : "loc/HomeTap__HomeTap.json"},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 94,
+  "comment": 2,
+  "code": 572},
+"Pug" :{
+  "nFiles": 9,
+  "blank": 21,
+  "comment": 0,
+  "code": 284},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 1,
+  "code": 128},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 80},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 69},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 167,
+  "comment": 3,
+  "code": 1144,
+  "nFiles": 29} }

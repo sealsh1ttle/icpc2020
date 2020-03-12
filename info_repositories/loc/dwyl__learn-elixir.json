@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.11077499389648,
+  "n_files"            : 301,
+  "n_lines"            : 10765,
+  "files_per_second"   : 142.601651464685,
+  "lines_per_second"   : 5100.02251833003,
+  "report_file"        : "loc/dwyl__learn-elixir.json"},
+"Elixir" :{
+  "nFiles": 287,
+  "blank": 1081,
+  "comment": 3210,
+  "code": 4174},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 398,
+  "comment": 0,
+  "code": 1423},
+"EEx" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 64},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 18,
+  "code": 55},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 20,
+  "code": 53},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 112,
+  "code": 48},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 9,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 1533,
+  "comment": 3369,
+  "code": 5863,
+  "nFiles": 301} }

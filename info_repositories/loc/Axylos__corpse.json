@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.310759782791138,
+  "n_files"            : 28,
+  "n_lines"            : 16495,
+  "files_per_second"   : 90.1017491662326,
+  "lines_per_second"   : 53079.5840177502,
+  "report_file"        : "loc/Axylos__corpse.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 13458},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 693,
+  "comment": 0,
+  "code": 1536},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 58,
+  "comment": 26,
+  "code": 496},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 3,
+  "code": 101},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 31},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 16},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 779,
+  "comment": 51,
+  "code": 15665,
+  "nFiles": 28} }

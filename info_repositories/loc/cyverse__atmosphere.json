@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.12252020835876,
+  "n_files"            : 573,
+  "n_lines"            : 68904,
+  "files_per_second"   : 138.992647953112,
+  "lines_per_second"   : 16714.0478439114,
+  "report_file"        : "loc/cyverse__atmosphere.json"},
+"Python" :{
+  "nFiles": 481,
+  "blank": 7516,
+  "comment": 6743,
+  "code": 49651},
+"Cucumber" :{
+  "nFiles": 14,
+  "blank": 163,
+  "comment": 172,
+  "code": 1141},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 215,
+  "comment": 0,
+  "code": 905},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 116,
+  "comment": 102,
+  "code": 412},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 58,
+  "comment": 0,
+  "code": 388},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 145,
+  "comment": 138,
+  "code": 382},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 19,
+  "comment": 7,
+  "code": 219},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 0,
+  "code": 199},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 9,
+  "code": 67},
+"diff" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 8,
+  "code": 36},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 10,
+  "code": 27},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 8253,
+  "comment": 7189,
+  "code": 53462,
+  "nFiles": 573} }

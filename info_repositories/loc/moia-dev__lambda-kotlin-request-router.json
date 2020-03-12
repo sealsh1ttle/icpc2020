@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.9043219089508,
+  "n_files"            : 52,
+  "n_lines"            : 3540,
+  "files_per_second"   : 3.48892088601303,
+  "lines_per_second"   : 237.514998778579,
+  "report_file"        : "loc/moia-dev__lambda-kotlin-request-router.json"},
+"Kotlin" :{
+  "nFiles": 33,
+  "blank": 441,
+  "comment": 68,
+  "code": 2076},
+"Gradle" :{
+  "nFiles": 9,
+  "blank": 63,
+  "comment": 2,
+  "code": 245},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 62,
+  "comment": 0,
+  "code": 175},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 0,
+  "code": 83},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Protocol Buffers" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 31},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 633,
+  "comment": 94,
+  "code": 2813,
+  "nFiles": 52} }

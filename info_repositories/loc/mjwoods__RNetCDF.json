@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.07145881652832,
+  "n_files"            : 23,
+  "n_lines"            : 12545,
+  "files_per_second"   : 2.84954684435753,
+  "lines_per_second"   : 1554.24196358544,
+  "report_file"        : "loc/mjwoods__RNetCDF.json"},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 477,
+  "comment": 585,
+  "code": 3726},
+"C" :{
+  "nFiles": 10,
+  "blank": 702,
+  "comment": 843,
+  "code": 3454},
+"R" :{
+  "nFiles": 4,
+  "blank": 340,
+  "comment": 301,
+  "code": 1284},
+"XML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 39,
+  "code": 210},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 104,
+  "comment": 183,
+  "code": 168},
+"m4" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 83},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1654,
+  "comment": 1951,
+  "code": 8940,
+  "nFiles": 23} }

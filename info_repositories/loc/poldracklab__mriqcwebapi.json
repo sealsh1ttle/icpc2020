@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.12023591995239,
+  "n_files"            : 27,
+  "n_lines"            : 2413,
+  "files_per_second"   : 5.27319452113274,
+  "lines_per_second"   : 471.267347388641,
+  "report_file"        : "loc/poldracklab__mriqcwebapi.json"},
+"JSON" :{
+  "nFiles": 18,
+  "blank": 0,
+  "comment": 0,
+  "code": 1181},
+"Python" :{
+  "nFiles": 5,
+  "blank": 94,
+  "comment": 64,
+  "code": 943},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 23},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 6},
+"SUM": {
+  "blank": 112,
+  "comment": 66,
+  "code": 2235,
+  "nFiles": 27} }

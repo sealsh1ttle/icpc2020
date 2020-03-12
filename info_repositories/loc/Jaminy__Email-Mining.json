@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.71651291847229,
+  "n_files"            : 29,
+  "n_lines"            : 2118,
+  "files_per_second"   : 40.4737992189062,
+  "lines_per_second"   : 2955.98299122908,
+  "report_file"        : "loc/Jaminy__Email-Mining.json"},
+"Python" :{
+  "nFiles": 26,
+  "blank": 339,
+  "comment": 145,
+  "code": 1598},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 23},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 344,
+  "comment": 145,
+  "code": 1629,
+  "nFiles": 29} }

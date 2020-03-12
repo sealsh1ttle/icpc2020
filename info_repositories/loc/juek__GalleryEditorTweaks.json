@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.529067993164062,
+  "n_files"            : 5,
+  "n_lines"            : 144,
+  "files_per_second"   : 9.45058114382949,
+  "lines_per_second"   : 272.176736942289,
+  "report_file"        : "loc/juek__GalleryEditorTweaks.json"},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 40},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 37},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 19},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 15},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 23,
+  "comment": 0,
+  "code": 121,
+  "nFiles": 5} }

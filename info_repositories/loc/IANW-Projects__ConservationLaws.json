@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.26750302314758,
+  "n_files"            : 48,
+  "n_lines"            : 9574,
+  "files_per_second"   : 6.60474441456937,
+  "lines_per_second"   : 1317.37131302265,
+  "report_file"        : "loc/IANW-Projects__ConservationLaws.json"},
+"C/C++ Header" :{
+  "nFiles": 25,
+  "blank": 963,
+  "comment": 990,
+  "code": 3263},
+"MATLAB" :{
+  "nFiles": 16,
+  "blank": 221,
+  "comment": 350,
+  "code": 1959},
+"OpenCL" :{
+  "nFiles": 4,
+  "blank": 420,
+  "comment": 165,
+  "code": 1066},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 23},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 138,
+  "code": 0},
+"SUM": {
+  "blank": 1620,
+  "comment": 1643,
+  "code": 6311,
+  "nFiles": 48} }

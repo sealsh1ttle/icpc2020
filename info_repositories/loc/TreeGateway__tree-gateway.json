@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.6743741035461,
+  "n_files"            : 196,
+  "n_lines"            : 21623,
+  "files_per_second"   : 4.9402165611601,
+  "lines_per_second"   : 545.011748479412,
+  "report_file"        : "loc/TreeGateway__tree-gateway.json"},
+"TypeScript" :{
+  "nFiles": 126,
+  "blank": 1398,
+  "comment": 1230,
+  "code": 10850},
+"JSON" :{
+  "nFiles": 27,
+  "blank": 0,
+  "comment": 0,
+  "code": 6396},
+"JavaScript" :{
+  "nFiles": 25,
+  "blank": 168,
+  "comment": 335,
+  "code": 670},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 7,
+  "comment": 0,
+  "code": 396},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 0,
+  "code": 100},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1620,
+  "comment": 1568,
+  "code": 18435,
+  "nFiles": 196} }

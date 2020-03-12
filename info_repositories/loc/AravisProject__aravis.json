@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.447518825531,
+  "n_files"            : 255,
+  "n_lines"            : 52713,
+  "files_per_second"   : 8.10874782887404,
+  "lines_per_second"   : 1676.22127177819,
+  "report_file"        : "loc/AravisProject__aravis.json"},
+"C" :{
+  "nFiles": 96,
+  "blank": 6397,
+  "comment": 5054,
+  "code": 23879},
+"C/C++ Header" :{
+  "nFiles": 91,
+  "blank": 1428,
+  "comment": 2311,
+  "code": 3863},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 4,
+  "code": 3817},
+"XML" :{
+  "nFiles": 7,
+  "blank": 227,
+  "comment": 7,
+  "code": 1391},
+"PO File" :{
+  "nFiles": 25,
+  "blank": 402,
+  "comment": 565,
+  "code": 1263},
+"Glade" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 22,
+  "code": 765},
+"NAnt script" :{
+  "nFiles": 10,
+  "blank": 69,
+  "comment": 0,
+  "code": 472},
+"Python" :{
+  "nFiles": 7,
+  "blank": 74,
+  "comment": 50,
+  "code": 148},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 62,
+  "comment": 0,
+  "code": 129},
+"make" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 2,
+  "code": 52},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 84,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 37},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 0,
+  "code": 14},
+"C++" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 8737,
+  "comment": 8100,
+  "code": 35876,
+  "nFiles": 255} }

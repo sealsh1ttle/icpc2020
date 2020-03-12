@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.2701668739319,
+  "n_files"            : 207,
+  "n_lines"            : 11011,
+  "files_per_second"   : 5.27117698950777,
+  "lines_per_second"   : 280.390965369421,
+  "report_file"        : "loc/TheAlgorithms__C.json"},
+"C" :{
+  "nFiles": 180,
+  "blank": 1324,
+  "comment": 1100,
+  "code": 7666},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 83,
+  "comment": 0,
+  "code": 295},
+"C++" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 1,
+  "code": 158},
+"C/C++ Header" :{
+  "nFiles": 11,
+  "blank": 71,
+  "comment": 140,
+  "code": 127},
+"make" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 1495,
+  "comment": 1241,
+  "code": 8275,
+  "nFiles": 207} }

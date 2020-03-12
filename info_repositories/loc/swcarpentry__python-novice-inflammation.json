@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.8775560855865,
+  "n_files"            : 144,
+  "n_lines"            : 30998,
+  "files_per_second"   : 4.2506017741128,
+  "lines_per_second"   : 915.001068013531,
+  "report_file"        : "loc/swcarpentry__python-novice-inflammation.json"},
+"SVG" :{
+  "nFiles": 27,
+  "blank": 72,
+  "comment": 31,
+  "code": 10752},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 14,
+  "code": 7476},
+"Markdown" :{
+  "nFiles": 38,
+  "blank": 1158,
+  "comment": 0,
+  "code": 7203},
+"Python" :{
+  "nFiles": 26,
+  "blank": 471,
+  "comment": 306,
+  "code": 1409},
+"HTML" :{
+  "nFiles": 36,
+  "blank": 98,
+  "comment": 74,
+  "code": 1054},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 50,
+  "comment": 24,
+  "code": 214},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 52,
+  "code": 158},
+"make" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 33,
+  "code": 78},
+"R" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 23,
+  "code": 75},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 12,
+  "code": 49},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 4},
+"SUM": {
+  "blank": 1947,
+  "comment": 572,
+  "code": 28479,
+  "nFiles": 144} }

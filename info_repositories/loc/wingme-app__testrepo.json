@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.15017294883728,
+  "n_files"            : 1,
+  "n_lines"            : 1,
+  "files_per_second"   : 6.65898890407718,
+  "lines_per_second"   : 6.65898890407718,
+  "report_file"        : "loc/wingme-app__testrepo.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 1,
+  "nFiles": 1} }

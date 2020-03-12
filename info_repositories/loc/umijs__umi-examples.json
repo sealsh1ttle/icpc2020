@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.845428943634,
+  "n_files"            : 211,
+  "n_lines"            : 6700,
+  "files_per_second"   : 3.35744386738526,
+  "lines_per_second"   : 106.610776831665,
+  "report_file"        : "loc/umijs__umi-examples.json"},
+"JavaScript" :{
+  "nFiles": 118,
+  "blank": 193,
+  "comment": 70,
+  "code": 2620},
+"JSON" :{
+  "nFiles": 34,
+  "blank": 0,
+  "comment": 0,
+  "code": 1762},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 89,
+  "comment": 1,
+  "code": 676},
+"JSX" :{
+  "nFiles": 5,
+  "blank": 42,
+  "comment": 21,
+  "code": 609},
+"TypeScript" :{
+  "nFiles": 18,
+  "blank": 34,
+  "comment": 0,
+  "code": 219},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 147},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 21,
+  "comment": 0,
+  "code": 93},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 0,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 402,
+  "comment": 94,
+  "code": 6204,
+  "nFiles": 211} }

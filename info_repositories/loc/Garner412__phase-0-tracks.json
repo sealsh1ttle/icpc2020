@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.477307081222534,
+  "n_files"            : 100,
+  "n_lines"            : 5123,
+  "files_per_second"   : 209.508729147425,
+  "lines_per_second"   : 10733.1321942226,
+  "report_file"        : "loc/Garner412__phase-0-tracks.json"},
+"Ruby" :{
+  "nFiles": 33,
+  "blank": 386,
+  "comment": 366,
+  "code": 1186},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 472,
+  "comment": 0,
+  "code": 1045},
+"HTML" :{
+  "nFiles": 22,
+  "blank": 122,
+  "comment": 20,
+  "code": 918},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 58,
+  "comment": 32,
+  "code": 287},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 43,
+  "comment": 39,
+  "code": 106},
+"ERB" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"SUM": {
+  "blank": 1081,
+  "comment": 457,
+  "code": 3585,
+  "nFiles": 100} }

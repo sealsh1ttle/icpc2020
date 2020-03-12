@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.8448958396912,
+  "n_files"            : 60,
+  "n_lines"            : 5898,
+  "files_per_second"   : 2.32154156751738,
+  "lines_per_second"   : 228.207536086958,
+  "report_file"        : "loc/nightingaleproject__canary.json"},
+"JavaScript" :{
+  "nFiles": 33,
+  "blank": 177,
+  "comment": 623,
+  "code": 2704},
+"C#" :{
+  "nFiles": 12,
+  "blank": 166,
+  "comment": 120,
+  "code": 1285},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 76,
+  "comment": 0,
+  "code": 274},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 0,
+  "code": 173},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 100},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 42},
+"Razor" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 26},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 486,
+  "comment": 767,
+  "code": 4645,
+  "nFiles": 60} }

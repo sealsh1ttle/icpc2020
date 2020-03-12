@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 553.131856918335,
+  "n_files"            : 2557,
+  "n_lines"            : 1420941,
+  "files_per_second"   : 4.62276755174765,
+  "lines_per_second"   : 2568.90103548997,
+  "report_file"        : "loc/ethereum__go-ethereum.json"},
+"Go" :{
+  "nFiles": 2051,
+  "blank": 67645,
+  "comment": 103716,
+  "code": 881672},
+"JSON" :{
+  "nFiles": 58,
+  "blank": 3,
+  "comment": 0,
+  "code": 158154},
+"C" :{
+  "nFiles": 56,
+  "blank": 17318,
+  "comment": 27220,
+  "code": 89275},
+"C/C++ Header" :{
+  "nFiles": 98,
+  "blank": 2609,
+  "comment": 6038,
+  "code": 15466},
+"Markdown" :{
+  "nFiles": 103,
+  "blank": 3638,
+  "comment": 0,
+  "code": 10774},
+"JavaScript" :{
+  "nFiles": 38,
+  "blank": 1892,
+  "comment": 4735,
+  "code": 8274},
+"Assembly" :{
+  "nFiles": 58,
+  "blank": 1058,
+  "comment": 1541,
+  "code": 7772},
+"JSX" :{
+  "nFiles": 13,
+  "blank": 185,
+  "comment": 345,
+  "code": 1620},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 151,
+  "comment": 39,
+  "code": 1383},
+"C++" :{
+  "nFiles": 4,
+  "blank": 132,
+  "comment": 65,
+  "code": 977},
+"m4" :{
+  "nFiles": 4,
+  "blank": 79,
+  "comment": 12,
+  "code": 736},
+"Protocol Buffers" :{
+  "nFiles": 5,
+  "blank": 205,
+  "comment": 782,
+  "code": 727},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 113,
+  "comment": 329,
+  "code": 676},
+"YAML" :{
+  "nFiles": 18,
+  "blank": 74,
+  "comment": 48,
+  "code": 576},
+"Java" :{
+  "nFiles": 4,
+  "blank": 143,
+  "comment": 187,
+  "code": 438},
+"make" :{
+  "nFiles": 10,
+  "blank": 99,
+  "comment": 21,
+  "code": 380},
+"Python" :{
+  "nFiles": 6,
+  "blank": 123,
+  "comment": 195,
+  "code": 265},
+"Solidity" :{
+  "nFiles": 3,
+  "blank": 105,
+  "comment": 151,
+  "code": 263},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 245},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 49},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 13,
+  "code": 29},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 20},
+"awk" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 17},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 22,
+  "code": 12},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 10},
+"SUM": {
+  "blank": 95630,
+  "comment": 145466,
+  "code": 1179845,
+  "nFiles": 2557} }

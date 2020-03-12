@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.151697158813477,
+  "n_files"            : 14,
+  "n_lines"            : 1227,
+  "files_per_second"   : 92.2891378421536,
+  "lines_per_second"   : 8088.48372373732,
+  "report_file"        : "loc/sdras__vue-vscode-snippets.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 1005},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 0,
+  "code": 140},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 12,
+  "code": 12},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 56,
+  "comment": 13,
+  "code": 1158,
+  "nFiles": 14} }

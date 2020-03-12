@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.4686319828033,
+  "n_files"            : 124,
+  "n_lines"            : 12249,
+  "files_per_second"   : 5.28364840740871,
+  "lines_per_second"   : 521.930720502817,
+  "report_file"        : "loc/EnlighterJS__EnlighterJS.json"},
+"LESS" :{
+  "nFiles": 19,
+  "blank": 605,
+  "comment": 611,
+  "code": 4120},
+"JavaScript" :{
+  "nFiles": 65,
+  "blank": 1095,
+  "comment": 1613,
+  "code": 2876},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 53,
+  "comment": 24,
+  "code": 292},
+"JSX" :{
+  "nFiles": 10,
+  "blank": 105,
+  "comment": 163,
+  "code": 242},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 0,
+  "code": 227},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 83},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 14,
+  "code": 40},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1903,
+  "comment": 2425,
+  "code": 7921,
+  "nFiles": 124} }

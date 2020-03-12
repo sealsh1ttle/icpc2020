@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.5184268951416,
+  "n_files"            : 29,
+  "n_lines"            : 15812,
+  "files_per_second"   : 6.41816292993077,
+  "lines_per_second"   : 3499.44800855398,
+  "report_file"        : "loc/HellerCommaA__flask-materialize.json"},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 1730,
+  "comment": 457,
+  "code": 5755},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 1140,
+  "comment": 1080,
+  "code": 3828},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 751},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 37,
+  "comment": 8,
+  "code": 367},
+"Python" :{
+  "nFiles": 7,
+  "blank": 98,
+  "comment": 44,
+  "code": 250},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 0,
+  "code": 172},
+"INI" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 24},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 3062,
+  "comment": 1589,
+  "code": 11161,
+  "nFiles": 29} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.3798611164093,
+  "n_files"            : 104,
+  "n_lines"            : 5947,
+  "files_per_second"   : 5.65836702145427,
+  "lines_per_second"   : 323.560660351813,
+  "report_file"        : "loc/frc604__FRC-2016.json"},
+"Java" :{
+  "nFiles": 101,
+  "blank": 838,
+  "comment": 1770,
+  "code": 3191},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 0,
+  "code": 74},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 14,
+  "code": 7},
+"SUM": {
+  "blank": 891,
+  "comment": 1784,
+  "code": 3272,
+  "nFiles": 104} }

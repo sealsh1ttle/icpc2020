@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 215.232753992081,
+  "n_files"            : 1170,
+  "n_lines"            : 557150,
+  "files_per_second"   : 5.43597560454506,
+  "lines_per_second"   : 2588.59299835238,
+  "report_file"        : "loc/omegaphoenix__VanillaGorilla.json"},
+"SQL" :{
+  "nFiles": 53,
+  "blank": 1163,
+  "comment": 1849,
+  "code": 320849},
+"HTML" :{
+  "nFiles": 760,
+  "blank": 16454,
+  "comment": 3557,
+  "code": 102126},
+"Java" :{
+  "nFiles": 291,
+  "blank": 10922,
+  "comment": 16349,
+  "code": 30757},
+"XML" :{
+  "nFiles": 8,
+  "blank": 18429,
+  "comment": 488,
+  "code": 24175},
+"XSLT" :{
+  "nFiles": 7,
+  "blank": 299,
+  "comment": 137,
+  "code": 2609},
+"Bourne Shell" :{
+  "nFiles": 28,
+  "blank": 393,
+  "comment": 391,
+  "code": 1632},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 106,
+  "comment": 460,
+  "code": 1091},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 169,
+  "comment": 193,
+  "code": 906},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 104,
+  "comment": 2,
+  "code": 462},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 22,
+  "comment": 31,
+  "code": 253},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 84,
+  "comment": 36,
+  "code": 233},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 3,
+  "code": 204},
+"Python" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 18,
+  "code": 35},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 43,
+  "code": 28},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 48227,
+  "comment": 23557,
+  "code": 485366,
+  "nFiles": 1170} }

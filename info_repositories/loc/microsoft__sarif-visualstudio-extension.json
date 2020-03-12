@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.0667939186096,
+  "n_files"            : 170,
+  "n_lines"            : 21461,
+  "files_per_second"   : 5.14110924749575,
+  "lines_per_second"   : 649.019679767684,
+  "report_file"        : "loc/microsoft__sarif-visualstudio-extension.json"},
+"C#" :{
+  "nFiles": 112,
+  "blank": 1947,
+  "comment": 1561,
+  "code": 11066},
+"XAML" :{
+  "nFiles": 23,
+  "blank": 166,
+  "comment": 15,
+  "code": 2021},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1757},
+"PowerShell" :{
+  "nFiles": 13,
+  "blank": 227,
+  "comment": 221,
+  "code": 892},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 4,
+  "code": 765},
+"XML" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 131,
+  "code": 326},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 0,
+  "code": 93},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 75},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 0,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 20},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 12,
+  "code": 14},
+"SUM": {
+  "blank": 2445,
+  "comment": 1944,
+  "code": 17072,
+  "nFiles": 170} }

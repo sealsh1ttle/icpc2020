@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.6627230644226,
+  "n_files"            : 69,
+  "n_lines"            : 7607,
+  "files_per_second"   : 4.40536423431577,
+  "lines_per_second"   : 485.675445368696,
+  "report_file"        : "loc/RackHD__image-service.json"},
+"JavaScript" :{
+  "nFiles": 41,
+  "blank": 865,
+  "comment": 589,
+  "code": 3927},
+"Vuejs Component" :{
+  "nFiles": 6,
+  "blank": 93,
+  "comment": 19,
+  "code": 789},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 106,
+  "comment": 0,
+  "code": 338},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 70,
+  "comment": 81,
+  "code": 324},
+"Groovy" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 164},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 145},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 23},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 10},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 9},
+"SUM": {
+  "blank": 1172,
+  "comment": 694,
+  "code": 5741,
+  "nFiles": 69} }

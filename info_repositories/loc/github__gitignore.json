@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.361258983612061,
+  "n_files"            : 5,
+  "n_lines"            : 226,
+  "files_per_second"   : 13.8404862628116,
+  "lines_per_second"   : 625.589979079084,
+  "report_file"        : "loc/github__gitignore.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 58,
+  "comment": 0,
+  "code": 158},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 61,
+  "comment": 0,
+  "code": 165,
+  "nFiles": 5} }

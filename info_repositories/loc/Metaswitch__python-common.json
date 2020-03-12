@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.63945198059082,
+  "n_files"            : 53,
+  "n_lines"            : 3954,
+  "files_per_second"   : 5.4982378777047,
+  "lines_per_second"   : 410.189293744233,
+  "report_file"        : "loc/Metaswitch__python-common.json"},
+"Python" :{
+  "nFiles": 35,
+  "blank": 603,
+  "comment": 871,
+  "code": 1853},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 1,
+  "comment": 0,
+  "code": 380},
+"DITA" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 173},
+"make" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 5,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 626,
+  "comment": 876,
+  "code": 2452,
+  "nFiles": 53} }

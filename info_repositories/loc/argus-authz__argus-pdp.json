@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.0427508354187,
+  "n_files"            : 49,
+  "n_lines"            : 6595,
+  "files_per_second"   : 3.4893448281096,
+  "lines_per_second"   : 469.637329415976,
+  "report_file"        : "loc/argus-authz__argus-pdp.json"},
+"Java" :{
+  "nFiles": 32,
+  "blank": 601,
+  "comment": 1736,
+  "code": 2602},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 12,
+  "code": 422},
+"XML" :{
+  "nFiles": 9,
+  "blank": 45,
+  "comment": 162,
+  "code": 378},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 99,
+  "code": 323},
+"INI" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 36},
+"make" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 16,
+  "code": 32},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 22,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 731,
+  "comment": 2047,
+  "code": 3817,
+  "nFiles": 49} }

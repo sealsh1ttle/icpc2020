@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.291110992431641,
+  "n_files"            : 3,
+  "n_lines"            : 194,
+  "files_per_second"   : 10.3053477127095,
+  "lines_per_second"   : 666.412485421881,
+  "report_file"        : "loc/openshift__community.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 0,
+  "code": 138},
+"SUM": {
+  "blank": 56,
+  "comment": 0,
+  "code": 138,
+  "nFiles": 3} }

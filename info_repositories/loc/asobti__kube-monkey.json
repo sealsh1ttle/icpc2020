@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 64.5186319351196,
+  "n_files"            : 4458,
+  "n_lines"            : 2131049,
+  "files_per_second"   : 69.0963194086786,
+  "lines_per_second"   : 33029.978102186,
+  "report_file"        : "loc/asobti__kube-monkey.json"},
+"Go" :{
+  "nFiles": 3795,
+  "blank": 112828,
+  "comment": 133257,
+  "code": 1797467},
+"Protocol Buffers" :{
+  "nFiles": 194,
+  "blank": 4887,
+  "comment": 14252,
+  "code": 14521},
+"Markdown" :{
+  "nFiles": 85,
+  "blank": 2425,
+  "comment": 0,
+  "code": 7940},
+"Swift" :{
+  "nFiles": 17,
+  "blank": 1160,
+  "comment": 1083,
+  "code": 7753},
+"Assembly" :{
+  "nFiles": 49,
+  "blank": 872,
+  "comment": 950,
+  "code": 7436},
+"JSON" :{
+  "nFiles": 54,
+  "blank": 14,
+  "comment": 0,
+  "code": 6881},
+"XML" :{
+  "nFiles": 1,
+  "blank": 228,
+  "comment": 13,
+  "code": 4780},
+"YAML" :{
+  "nFiles": 58,
+  "blank": 111,
+  "comment": 29,
+  "code": 2549},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 461,
+  "comment": 16,
+  "code": 2280},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 180,
+  "comment": 179,
+  "code": 1173},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 194,
+  "comment": 429,
+  "code": 1035},
+"make" :{
+  "nFiles": 80,
+  "blank": 182,
+  "comment": 1641,
+  "code": 618},
+"HCL" :{
+  "nFiles": 63,
+  "blank": 44,
+  "comment": 28,
+  "code": 316},
+"TOML" :{
+  "nFiles": 7,
+  "blank": 116,
+  "comment": 82,
+  "code": 199},
+"C" :{
+  "nFiles": 3,
+  "blank": 51,
+  "comment": 22,
+  "code": 189},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 31,
+  "code": 81},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 123774,
+  "comment": 152036,
+  "code": 1855239,
+  "nFiles": 4458} }

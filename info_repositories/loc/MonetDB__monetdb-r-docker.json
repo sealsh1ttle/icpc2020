@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.1044020652771,
+  "n_files"            : 4,
+  "n_lines"            : 212,
+  "files_per_second"   : 38.3134183158481,
+  "lines_per_second"   : 2030.61117073995,
+  "report_file"        : "loc/MonetDB__monetdb-r-docker.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 49},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 47},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 38,
+  "code": 35},
+"SUM": {
+  "blank": 43,
+  "comment": 38,
+  "code": 131,
+  "nFiles": 4} }

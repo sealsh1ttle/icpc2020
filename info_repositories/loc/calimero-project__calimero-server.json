@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.31594705581665,
+  "n_files"            : 32,
+  "n_lines"            : 10676,
+  "files_per_second"   : 101.282792198482,
+  "lines_per_second"   : 33790.4715472186,
+  "report_file"        : "loc/calimero-project__calimero-server.json"},
+"Java" :{
+  "nFiles": 23,
+  "blank": 1118,
+  "comment": 1782,
+  "code": 7001},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 34,
+  "code": 177},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 0,
+  "code": 130},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 93},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 1,
+  "code": 72},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"XML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 34,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 1262,
+  "comment": 1853,
+  "code": 7561,
+  "nFiles": 32} }

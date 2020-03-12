@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.902596950531,
+  "n_files"            : 56,
+  "n_lines"            : 3719,
+  "files_per_second"   : 5.13639092173104,
+  "lines_per_second"   : 341.111389962817,
+  "report_file"        : "loc/JacisNonsense__Pathfinder.json"},
+"C" :{
+  "nFiles": 15,
+  "blank": 280,
+  "comment": 85,
+  "code": 1115},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 65,
+  "comment": 1,
+  "code": 407},
+"Java" :{
+  "nFiles": 12,
+  "blank": 126,
+  "comment": 296,
+  "code": 392},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 64,
+  "comment": 0,
+  "code": 245},
+"C/C++ Header" :{
+  "nFiles": 14,
+  "blank": 82,
+  "comment": 25,
+  "code": 209},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 2,
+  "code": 64},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"SUM": {
+  "blank": 666,
+  "comment": 433,
+  "code": 2620,
+  "nFiles": 56} }

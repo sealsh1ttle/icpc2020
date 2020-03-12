@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.481902837753296,
+  "n_files"            : 3,
+  "n_lines"            : 737,
+  "files_per_second"   : 6.22532129917818,
+  "lines_per_second"   : 1529.35393249811,
+  "report_file"        : "loc/mulesoft__mule-extensions-parent.json"},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 18,
+  "code": 644},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 3,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 42,
+  "comment": 21,
+  "code": 674,
+  "nFiles": 3} }

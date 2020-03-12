@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.362063884735107,
+  "n_files"            : 52,
+  "n_lines"            : 3231,
+  "files_per_second"   : 143.6210630012,
+  "lines_per_second"   : 8923.83951070916,
+  "report_file"        : "loc/redhat-performance__scale-ci-ansible.json"},
+"YAML" :{
+  "nFiles": 48,
+  "blank": 350,
+  "comment": 374,
+  "code": 2164},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 69,
+  "comment": 0,
+  "code": 195},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 37},
+"diff" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 20,
+  "code": 14},
+"SUM": {
+  "blank": 427,
+  "comment": 394,
+  "code": 2410,
+  "nFiles": 52} }

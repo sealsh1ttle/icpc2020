@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.2541348934174,
+  "n_files"            : 148,
+  "n_lines"            : 21960,
+  "files_per_second"   : 4.73537343153821,
+  "lines_per_second"   : 702.627030787697,
+  "report_file"        : "loc/DotOS__android_packages_apps_DotExtras.json"},
+"XML" :{
+  "nFiles": 100,
+  "blank": 717,
+  "comment": 2638,
+  "code": 11304},
+"Java" :{
+  "nFiles": 48,
+  "blank": 1188,
+  "comment": 985,
+  "code": 5128},
+"SUM": {
+  "blank": 1905,
+  "comment": 3623,
+  "code": 16432,
+  "nFiles": 148} }

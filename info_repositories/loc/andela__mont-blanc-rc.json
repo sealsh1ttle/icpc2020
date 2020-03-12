@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 370.17439198494,
+  "n_files"            : 2576,
+  "n_lines"            : 183901,
+  "files_per_second"   : 6.95888223436267,
+  "lines_per_second"   : 496.795575225749,
+  "report_file"        : "loc/andela__mont-blanc-rc.json"},
+"JavaScript" :{
+  "nFiles": 1144,
+  "blank": 10420,
+  "comment": 15532,
+  "code": 73440},
+"JSON" :{
+  "nFiles": 1099,
+  "blank": 1,
+  "comment": 0,
+  "code": 55049},
+"LESS" :{
+  "nFiles": 104,
+  "blank": 2376,
+  "comment": 801,
+  "code": 12078},
+"HTML" :{
+  "nFiles": 164,
+  "blank": 518,
+  "comment": 148,
+  "code": 7307},
+"Markdown" :{
+  "nFiles": 26,
+  "blank": 685,
+  "comment": 0,
+  "code": 1455},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 185,
+  "comment": 175,
+  "code": 1255},
+"JSX" :{
+  "nFiles": 7,
+  "blank": 112,
+  "comment": 182,
+  "code": 956},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 5,
+  "code": 861},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 9,
+  "code": 107},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 39,
+  "comment": 39,
+  "code": 81},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 3,
+  "code": 42},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 3},
+"SUM": {
+  "blank": 14372,
+  "comment": 16895,
+  "code": 152634,
+  "nFiles": 2576} }

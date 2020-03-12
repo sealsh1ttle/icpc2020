@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.1765649318695,
+  "n_files"            : 88,
+  "n_lines"            : 11530,
+  "files_per_second"   : 4.58893447875813,
+  "lines_per_second"   : 601.254710682741,
+  "report_file"        : "loc/paypal__glamorous.json"},
+"TypeScript" :{
+  "nFiles": 22,
+  "blank": 470,
+  "comment": 262,
+  "code": 5977},
+"JavaScript" :{
+  "nFiles": 43,
+  "blank": 385,
+  "comment": 376,
+  "code": 2765},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 261,
+  "comment": 0,
+  "code": 794},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 228},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1116,
+  "comment": 638,
+  "code": 9776,
+  "nFiles": 88} }

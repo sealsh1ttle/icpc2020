@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 182.965997934341,
+  "n_files"            : 1567,
+  "n_lines"            : 485192,
+  "files_per_second"   : 8.56443283282792,
+  "lines_per_second"   : 2651.81512126704,
+  "report_file"        : "loc/TeslaOS__android_packages_apps_Settings.json"},
+"XML" :{
+  "nFiles": 1037,
+  "blank": 7771,
+  "comment": 18803,
+  "code": 308471},
+"Java" :{
+  "nFiles": 527,
+  "blank": 19580,
+  "comment": 18220,
+  "code": 112235},
+"make" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 49,
+  "code": 42},
+"SUM": {
+  "blank": 27372,
+  "comment": 37072,
+  "code": 420748,
+  "nFiles": 1567} }

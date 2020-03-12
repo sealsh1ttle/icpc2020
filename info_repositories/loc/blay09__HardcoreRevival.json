@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.506608009338379,
+  "n_files"            : 37,
+  "n_lines"            : 1699,
+  "files_per_second"   : 73.0347711010754,
+  "lines_per_second"   : 3353.67773245209,
+  "report_file"        : "loc/blay09__HardcoreRevival.json"},
+"Java" :{
+  "nFiles": 29,
+  "blank": 193,
+  "comment": 47,
+  "code": 1096},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 3,
+  "code": 85},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 256,
+  "comment": 73,
+  "code": 1370,
+  "nFiles": 37} }

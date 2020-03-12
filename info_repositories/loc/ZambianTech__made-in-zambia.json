@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0306811332702637,
+  "n_files"            : 3,
+  "n_lines"            : 70,
+  "files_per_second"   : 97.7799605240663,
+  "lines_per_second"   : 2281.53241222821,
+  "report_file"        : "loc/ZambianTech__made-in-zambia.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 0,
+  "code": 47},
+"SUM": {
+  "blank": 23,
+  "comment": 0,
+  "code": 47,
+  "nFiles": 3} }

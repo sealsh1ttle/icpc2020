@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.745232105255127,
+  "n_files"            : 58,
+  "n_lines"            : 14852,
+  "files_per_second"   : 77.8281015954673,
+  "lines_per_second"   : 19929.3614637221,
+  "report_file"        : "loc/Mozpacers__intro.json"},
+"CSS" :{
+  "nFiles": 18,
+  "blank": 868,
+  "comment": 466,
+  "code": 3761},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 1325,
+  "comment": 1330,
+  "code": 3428},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 424,
+  "comment": 101,
+  "code": 1795},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 235,
+  "comment": 28,
+  "code": 1006},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 0,
+  "code": 29},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 2883,
+  "comment": 1925,
+  "code": 10044,
+  "nFiles": 58} }

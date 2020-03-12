@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 78.609986782074,
+  "n_files"            : 332,
+  "n_lines"            : 18443,
+  "files_per_second"   : 4.22338195934805,
+  "lines_per_second"   : 234.613956253783,
+  "report_file"        : "loc/Sudomemo__sudomemo-locales.json"},
+"PO File" :{
+  "nFiles": 328,
+  "blank": 6026,
+  "comment": 81,
+  "code": 12172},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 0,
+  "code": 63},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 6,
+  "code": 35},
+"SUM": {
+  "blank": 6086,
+  "comment": 87,
+  "code": 12270,
+  "nFiles": 332} }

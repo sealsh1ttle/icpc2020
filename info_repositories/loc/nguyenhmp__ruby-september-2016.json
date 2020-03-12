@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 416.290959835052,
+  "n_files"            : 846,
+  "n_lines"            : 20478,
+  "files_per_second"   : 2.03223245668177,
+  "lines_per_second"   : 49.1915558486161,
+  "report_file"        : "loc/nguyenhmp__ruby-september-2016.json"},
+"Ruby" :{
+  "nFiles": 616,
+  "blank": 2208,
+  "comment": 4480,
+  "code": 10079},
+"ERB" :{
+  "nFiles": 196,
+  "blank": 215,
+  "comment": 0,
+  "code": 2810},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 23,
+  "blank": 82,
+  "comment": 131,
+  "code": 165},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 6,
+  "code": 21},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 30,
+  "code": 0},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 32,
+  "code": 0},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 2523,
+  "comment": 4685,
+  "code": 13270,
+  "nFiles": 846} }

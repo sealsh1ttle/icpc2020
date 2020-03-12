@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 308.846592903137,
+  "n_files"            : 831,
+  "n_lines"            : 81817,
+  "files_per_second"   : 2.6906561998585,
+  "lines_per_second"   : 264.911454035888,
+  "report_file"        : "loc/pyinstaller__pyinstaller.json"},
+"Python" :{
+  "nFiles": 701,
+  "blank": 7851,
+  "comment": 17491,
+  "code": 23373},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 8840},
+"C" :{
+  "nFiles": 20,
+  "blank": 1298,
+  "comment": 1878,
+  "code": 6659},
+"reStructuredText" :{
+  "nFiles": 52,
+  "blank": 1809,
+  "comment": 441,
+  "code": 5026},
+"C/C++ Header" :{
+  "nFiles": 25,
+  "blank": 701,
+  "comment": 2182,
+  "code": 2465},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 64,
+  "comment": 99,
+  "code": 233},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 2,
+  "code": 229},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 52,
+  "comment": 74,
+  "code": 164},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 157},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 46,
+  "comment": 0,
+  "code": 112},
+"Qt" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 80},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 75},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 50,
+  "code": 58},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 53},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 12,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 9,
+  "code": 17},
+"QML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 11},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 11968,
+  "comment": 22248,
+  "code": 47601,
+  "nFiles": 831} }

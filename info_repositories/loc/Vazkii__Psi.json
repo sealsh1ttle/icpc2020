@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 106.698879957199,
+  "n_files"            : 455,
+  "n_lines"            : 32682,
+  "files_per_second"   : 4.26433717188519,
+  "lines_per_second"   : 306.301247146268,
+  "report_file"        : "loc/Vazkii__Psi.json"},
+"Java" :{
+  "nFiles": 335,
+  "blank": 4849,
+  "comment": 4136,
+  "code": 19414},
+"JSON" :{
+  "nFiles": 88,
+  "blank": 1,
+  "comment": 0,
+  "code": 1975},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 751},
+"PHP" :{
+  "nFiles": 10,
+  "blank": 78,
+  "comment": 2,
+  "code": 374},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 54,
+  "comment": 8,
+  "code": 242},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 2,
+  "code": 139},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 29,
+  "code": 126},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 81},
+"GLSL" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 1,
+  "code": 65},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 43},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 24},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 5099,
+  "comment": 4200,
+  "code": 23383,
+  "nFiles": 455} }

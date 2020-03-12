@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 606.150091171265,
+  "n_files"            : 2518,
+  "n_lines"            : 459640,
+  "files_per_second"   : 4.15408664730952,
+  "lines_per_second"   : 758.294037557327,
+  "report_file"        : "loc/nim-lang__Nim.json"},
+"Nim" :{
+  "nFiles": 2136,
+  "blank": 37861,
+  "comment": 47041,
+  "code": 243701},
+"C" :{
+  "nFiles": 165,
+  "blank": 6037,
+  "comment": 4983,
+  "code": 44867},
+"C/C++ Header" :{
+  "nFiles": 100,
+  "blank": 4790,
+  "comment": 1849,
+  "code": 35187},
+"reStructuredText" :{
+  "nFiles": 33,
+  "blank": 4969,
+  "comment": 4960,
+  "code": 8690},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 1013,
+  "comment": 24,
+  "code": 3735},
+"Windows Module Definition" :{
+  "nFiles": 5,
+  "blank": 52,
+  "comment": 0,
+  "code": 3346},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 512,
+  "comment": 0,
+  "code": 1545},
+"Assembly" :{
+  "nFiles": 11,
+  "blank": 201,
+  "comment": 228,
+  "code": 1096},
+"Python" :{
+  "nFiles": 3,
+  "blank": 163,
+  "comment": 148,
+  "code": 390},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 62,
+  "code": 307},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 298},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 92,
+  "comment": 35,
+  "code": 295},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 55,
+  "comment": 17,
+  "code": 275},
+"DOS Batch" :{
+  "nFiles": 9,
+  "blank": 35,
+  "comment": 21,
+  "code": 248},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 10,
+  "comment": 0,
+  "code": 127},
+"INI" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 10,
+  "code": 103},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 22,
+  "comment": 22,
+  "code": 90},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 7,
+  "code": 10},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 55908,
+  "comment": 59407,
+  "code": 344325,
+  "nFiles": 2518} }

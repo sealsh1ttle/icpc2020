@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 151.053459882736,
+  "n_files"            : 12957,
+  "n_lines"            : 2866445,
+  "files_per_second"   : 85.7775784153412,
+  "lines_per_second"   : 18976.3610990787,
+  "report_file"        : "loc/instructure__canvas-lms.json"},
+"YAML" :{
+  "nFiles": 101,
+  "blank": 3755,
+  "comment": 304,
+  "code": 804846},
+"Ruby" :{
+  "nFiles": 5956,
+  "blank": 112959,
+  "comment": 144966,
+  "code": 611388},
+"JavaScript" :{
+  "nFiles": 3914,
+  "blank": 81385,
+  "comment": 135750,
+  "code": 477312},
+"JSON" :{
+  "nFiles": 450,
+  "blank": 7,
+  "comment": 0,
+  "code": 294461},
+"Sass" :{
+  "nFiles": 371,
+  "blank": 5840,
+  "comment": 1659,
+  "code": 46547},
+"ERB" :{
+  "nFiles": 847,
+  "blank": 2486,
+  "comment": 53,
+  "code": 40385},
+"CoffeeScript" :{
+  "nFiles": 248,
+  "blank": 4753,
+  "comment": 6945,
+  "code": 19502},
+"SVG" :{
+  "nFiles": 332,
+  "blank": 3,
+  "comment": 37,
+  "code": 15555},
+"Handlebars" :{
+  "nFiles": 355,
+  "blank": 579,
+  "comment": 81,
+  "code": 12832},
+"XML" :{
+  "nFiles": 135,
+  "blank": 1235,
+  "comment": 509,
+  "code": 12685},
+"Markdown" :{
+  "nFiles": 96,
+  "blank": 2800,
+  "comment": 0,
+  "code": 10150},
+"CSS" :{
+  "nFiles": 31,
+  "blank": 306,
+  "comment": 226,
+  "code": 5706},
+"GraphQL" :{
+  "nFiles": 1,
+  "blank": 434,
+  "comment": 0,
+  "code": 2991},
+"Bourne Shell" :{
+  "nFiles": 48,
+  "blank": 242,
+  "comment": 120,
+  "code": 1015},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 7,
+  "code": 767},
+"Groovy" :{
+  "nFiles": 8,
+  "blank": 71,
+  "comment": 278,
+  "code": 663},
+"Bourne Again Shell" :{
+  "nFiles": 24,
+  "blank": 139,
+  "comment": 60,
+  "code": 566},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 35,
+  "comment": 3,
+  "code": 511},
+"Dockerfile" :{
+  "nFiles": 11,
+  "blank": 54,
+  "comment": 24,
+  "code": 200},
+"Lua" :{
+  "nFiles": 6,
+  "blank": 17,
+  "comment": 14,
+  "code": 84},
+"Mustache" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 79},
+"builder" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 217142,
+  "comment": 291038,
+  "code": 2358265,
+  "nFiles": 12957} }

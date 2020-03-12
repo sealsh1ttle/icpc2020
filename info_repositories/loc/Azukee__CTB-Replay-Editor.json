@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.213418006896973,
+  "n_files"            : 13,
+  "n_lines"            : 1131,
+  "files_per_second"   : 60.9133230556114,
+  "lines_per_second"   : 5299.45910583819,
+  "report_file"        : "loc/Azukee__CTB-Replay-Editor.json"},
+"C#" :{
+  "nFiles": 9,
+  "blank": 98,
+  "comment": 114,
+  "code": 514},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 147},
+"XML" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 96,
+  "code": 119},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 125,
+  "comment": 217,
+  "code": 789,
+  "nFiles": 13} }

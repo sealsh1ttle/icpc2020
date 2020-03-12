@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.34658217430115,
+  "n_files"            : 678,
+  "n_lines"            : 118280,
+  "files_per_second"   : 81.2308542396599,
+  "lines_per_second"   : 14171.0699697153,
+  "report_file"        : "loc/Azure__autorest.python.json"},
+"Python" :{
+  "nFiles": 596,
+  "blank": 20837,
+  "comment": 38346,
+  "code": 51061},
+"C#" :{
+  "nFiles": 36,
+  "blank": 532,
+  "comment": 408,
+  "code": 3668},
+"Razor" :{
+  "nFiles": 28,
+  "blank": 12,
+  "comment": 4,
+  "code": 1994},
+"CoffeeScript" :{
+  "nFiles": 5,
+  "blank": 149,
+  "comment": 85,
+  "code": 537},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 79,
+  "comment": 0,
+  "code": 185},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 154},
+"XML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 48,
+  "code": 67},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 8,
+  "code": 57},
+"INI" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 18},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 3},
+"SUM": {
+  "blank": 21636,
+  "comment": 38900,
+  "code": 57744,
+  "nFiles": 678} }

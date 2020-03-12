@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.93727397918701,
+  "n_files"            : 36,
+  "n_lines"            : 8700,
+  "files_per_second"   : 4.53556222128638,
+  "lines_per_second"   : 1096.09420347754,
+  "report_file"        : "loc/BenoitZugmeyer__eslint-plugin-html.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5714},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 284,
+  "comment": 38,
+  "code": 1765},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 122,
+  "comment": 0,
+  "code": 391},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 32,
+  "comment": 0,
+  "code": 248},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 32},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 1,
+  "code": 28},
+"XHTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 24},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 458,
+  "comment": 39,
+  "code": 8203,
+  "nFiles": 36} }

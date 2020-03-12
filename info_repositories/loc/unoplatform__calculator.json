@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.12405896186829,
+  "n_files"            : 326,
+  "n_lines"            : 55712,
+  "files_per_second"   : 79.0483363633373,
+  "lines_per_second"   : 13509.0212131112,
+  "report_file"        : "loc/unoplatform__calculator.json"},
+"C#" :{
+  "nFiles": 156,
+  "blank": 3414,
+  "comment": 1955,
+  "code": 19286},
+"XAML" :{
+  "nFiles": 22,
+  "blank": 785,
+  "comment": 381,
+  "code": 9308},
+"C++" :{
+  "nFiles": 31,
+  "blank": 1585,
+  "comment": 2458,
+  "code": 7400},
+"C/C++ Header" :{
+  "nFiles": 25,
+  "blank": 329,
+  "comment": 363,
+  "code": 2257},
+"XML" :{
+  "nFiles": 34,
+  "blank": 50,
+  "comment": 106,
+  "code": 1724},
+"MSBuild script" :{
+  "nFiles": 8,
+  "blank": 38,
+  "comment": 50,
+  "code": 1217},
+"YAML" :{
+  "nFiles": 16,
+  "blank": 129,
+  "comment": 57,
+  "code": 851},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 176,
+  "comment": 0,
+  "code": 826},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 1,
+  "comment": 0,
+  "code": 293},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 0,
+  "code": 102},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 80,
+  "code": 101},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 8,
+  "code": 92},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 67},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 49},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 36},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 34},
+"SUM": {
+  "blank": 6606,
+  "comment": 5463,
+  "code": 43643,
+  "nFiles": 326} }

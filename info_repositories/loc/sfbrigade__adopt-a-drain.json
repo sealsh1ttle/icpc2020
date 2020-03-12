@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.7377579212189,
+  "n_files"            : 162,
+  "n_lines"            : 16701,
+  "files_per_second"   : 3.88137763187422,
+  "lines_per_second"   : 400.141282900811,
+  "report_file"        : "loc/sfbrigade__adopt-a-drain.json"},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 89,
+  "comment": 28,
+  "code": 7135},
+"Ruby" :{
+  "nFiles": 96,
+  "blank": 508,
+  "comment": 686,
+  "code": 1787},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 582,
+  "comment": 207,
+  "code": 1588},
+"ERB" :{
+  "nFiles": 8,
+  "blank": 50,
+  "comment": 0,
+  "code": 1221},
+"YAML" :{
+  "nFiles": 16,
+  "blank": 47,
+  "comment": 20,
+  "code": 824},
+"Haml" :{
+  "nFiles": 26,
+  "blank": 21,
+  "comment": 4,
+  "code": 623},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 622},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 260},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 0,
+  "code": 136},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1366,
+  "comment": 950,
+  "code": 14385,
+  "nFiles": 162} }

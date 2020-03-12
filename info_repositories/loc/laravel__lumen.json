@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.35315299034119,
+  "n_files"            : 27,
+  "n_lines"            : 733,
+  "files_per_second"   : 4.24985830516731,
+  "lines_per_second"   : 115.37578287732,
+  "report_file"        : "loc/laravel__lumen.json"},
+"PHP" :{
+  "nFiles": 23,
+  "blank": 93,
+  "comment": 282,
+  "code": 260},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 101,
+  "comment": 282,
+  "code": 350,
+  "nFiles": 27} }

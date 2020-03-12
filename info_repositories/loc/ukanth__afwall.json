@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 75.6555368900299,
+  "n_files"            : 370,
+  "n_lines"            : 72578,
+  "files_per_second"   : 4.89058719572393,
+  "lines_per_second"   : 959.321722949329,
+  "report_file"        : "loc/ukanth__afwall.json"},
+"XML" :{
+  "nFiles": 164,
+  "blank": 601,
+  "comment": 2264,
+  "code": 24507},
+"Java" :{
+  "nFiles": 123,
+  "blank": 4297,
+  "comment": 4723,
+  "code": 21561},
+"diff" :{
+  "nFiles": 49,
+  "blank": 264,
+  "comment": 876,
+  "code": 8332},
+"C" :{
+  "nFiles": 6,
+  "blank": 187,
+  "comment": 951,
+  "code": 1110},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 154,
+  "comment": 0,
+  "code": 872},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 0,
+  "code": 372},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 105,
+  "comment": 89,
+  "code": 337},
+"make" :{
+  "nFiles": 6,
+  "blank": 43,
+  "comment": 54,
+  "code": 138},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 7,
+  "code": 79},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 78},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 2,
+  "code": 48},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 6,
+  "code": 42},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 61,
+  "code": 25},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 10,
+  "code": 21},
+"SUM": {
+  "blank": 5803,
+  "comment": 9066,
+  "code": 57709,
+  "nFiles": 370} }

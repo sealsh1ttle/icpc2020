@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.65316295623779,
+  "n_files"            : 20,
+  "n_lines"            : 729,
+  "files_per_second"   : 5.47470787358388,
+  "lines_per_second"   : 199.553101992132,
+  "report_file"        : "loc/Shopify__genesis_client.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 323},
+"Ruby" :{
+  "nFiles": 12,
+  "blank": 47,
+  "comment": 78,
+  "code": 210},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 21},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 5},
+"SUM": {
+  "blank": 72,
+  "comment": 79,
+  "code": 578,
+  "nFiles": 20} }

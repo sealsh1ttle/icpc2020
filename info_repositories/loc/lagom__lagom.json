@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 487.969666957855,
+  "n_files"            : 1176,
+  "n_lines"            : 104450,
+  "files_per_second"   : 2.40998586516971,
+  "lines_per_second"   : 214.05019015049,
+  "report_file"        : "loc/lagom__lagom.json"},
+"Scala" :{
+  "nFiles": 594,
+  "blank": 8871,
+  "comment": 9075,
+  "code": 39026},
+"Java" :{
+  "nFiles": 379,
+  "blank": 4920,
+  "comment": 5602,
+  "code": 23558},
+"Markdown" :{
+  "nFiles": 133,
+  "blank": 3941,
+  "comment": 0,
+  "code": 5725},
+"XML" :{
+  "nFiles": 27,
+  "blank": 141,
+  "comment": 72,
+  "code": 1430},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 86,
+  "comment": 82,
+  "code": 743},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 1,
+  "code": 325},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 41,
+  "comment": 1,
+  "code": 279},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 53,
+  "comment": 39,
+  "code": 115},
+"Protocol Buffers" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 12,
+  "code": 63},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 23,
+  "code": 46},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 4,
+  "code": 33},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 10,
+  "code": 27},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 4},
+"SUM": {
+  "blank": 18135,
+  "comment": 14924,
+  "code": 71391,
+  "nFiles": 1176} }

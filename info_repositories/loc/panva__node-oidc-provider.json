@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 112.99808216095,
+  "n_files"            : 399,
+  "n_lines"            : 54841,
+  "files_per_second"   : 3.53103338012128,
+  "lines_per_second"   : 485.326821050704,
+  "report_file"        : "loc/panva__node-oidc-provider.json"},
+"JavaScript" :{
+  "nFiles": 366,
+  "blank": 6013,
+  "comment": 2747,
+  "code": 37476},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 1313,
+  "comment": 0,
+  "code": 4112},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 190,
+  "comment": 11,
+  "code": 1854},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 594},
+"EJS" :{
+  "nFiles": 5,
+  "blank": 40,
+  "comment": 0,
+  "code": 308},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 175},
+"SUM": {
+  "blank": 7564,
+  "comment": 2758,
+  "code": 44519,
+  "nFiles": 399} }

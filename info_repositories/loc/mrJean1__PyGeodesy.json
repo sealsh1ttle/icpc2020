@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.52787709236145,
+  "n_files"            : 367,
+  "n_lines"            : 175810,
+  "files_per_second"   : 104.02856743355,
+  "lines_per_second"   : 49834.5025626497,
+  "report_file"        : "loc/mrJean1__PyGeodesy.json"},
+"HTML" :{
+  "nFiles": 263,
+  "blank": 6387,
+  "comment": 5437,
+  "code": 108647},
+"Python" :{
+  "nFiles": 98,
+  "blank": 7573,
+  "comment": 13856,
+  "code": 33000},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 27,
+  "code": 249},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 124,
+  "code": 178},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 67,
+  "code": 111},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 16,
+  "code": 61},
+"SUM": {
+  "blank": 14037,
+  "comment": 19527,
+  "code": 142246,
+  "nFiles": 367} }

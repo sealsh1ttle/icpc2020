@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.641149044036865,
+  "n_files"            : 115,
+  "n_lines"            : 10133,
+  "files_per_second"   : 179.365470586879,
+  "lines_per_second"   : 15804.4375083204,
+  "report_file"        : "loc/Mirai-Team__mirai-project.json"},
+"C++" :{
+  "nFiles": 44,
+  "blank": 879,
+  "comment": 1183,
+  "code": 2988},
+"CMake" :{
+  "nFiles": 27,
+  "blank": 252,
+  "comment": 511,
+  "code": 1001},
+"C/C++ Header" :{
+  "nFiles": 30,
+  "blank": 493,
+  "comment": 1782,
+  "code": 808},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 65,
+  "comment": 0,
+  "code": 136},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 1692,
+  "comment": 3476,
+  "code": 4965,
+  "nFiles": 115} }

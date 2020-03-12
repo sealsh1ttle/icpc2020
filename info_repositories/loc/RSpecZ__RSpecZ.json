@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.105926036834717,
+  "n_files"            : 21,
+  "n_lines"            : 1052,
+  "files_per_second"   : 198.25154067425,
+  "lines_per_second"   : 9931.45813282435,
+  "report_file"        : "loc/RSpecZ__RSpecZ.json"},
+"Ruby" :{
+  "nFiles": 17,
+  "blank": 86,
+  "comment": 18,
+  "code": 546},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 127,
+  "comment": 0,
+  "code": 262},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 5},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 215,
+  "comment": 19,
+  "code": 818,
+  "nFiles": 21} }

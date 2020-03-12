@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6140.30362415314,
+  "n_files"            : 10805,
+  "n_lines"            : 1160584,
+  "files_per_second"   : 1.75968497021842,
+  "lines_per_second"   : 189.010848817768,
+  "report_file"        : "loc/kiegroup__kie-wb-common.json"},
+"Java" :{
+  "nFiles": 9429,
+  "blank": 175532,
+  "comment": 167201,
+  "code": 731049},
+"Maven" :{
+  "nFiles": 334,
+  "blank": 4567,
+  "comment": 2919,
+  "code": 29878},
+"HTML" :{
+  "nFiles": 337,
+  "blank": 686,
+  "comment": 3522,
+  "code": 6509},
+"SVG" :{
+  "nFiles": 91,
+  "blank": 125,
+  "comment": 1227,
+  "code": 6132},
+"XML" :{
+  "nFiles": 300,
+  "blank": 1315,
+  "comment": 2983,
+  "code": 5253},
+"JSON" :{
+  "nFiles": 24,
+  "blank": 40,
+  "comment": 0,
+  "code": 4158},
+"CSS" :{
+  "nFiles": 69,
+  "blank": 489,
+  "comment": 551,
+  "code": 2702},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 293,
+  "comment": 389,
+  "code": 2311},
+"LESS" :{
+  "nFiles": 57,
+  "blank": 488,
+  "comment": 811,
+  "code": 2299},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 379,
+  "comment": 0,
+  "code": 947},
+"Freemarker Template" :{
+  "nFiles": 25,
+  "blank": 175,
+  "comment": 0,
+  "code": 823},
+"Visual Basic" :{
+  "nFiles": 20,
+  "blank": 0,
+  "comment": 0,
+  "code": 770},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 71,
+  "comment": 94,
+  "code": 626},
+"TypeScript" :{
+  "nFiles": 11,
+  "blank": 72,
+  "comment": 167,
+  "code": 585},
+"JSP" :{
+  "nFiles": 8,
+  "blank": 45,
+  "comment": 105,
+  "code": 405},
+"Drools" :{
+  "nFiles": 43,
+  "blank": 134,
+  "comment": 608,
+  "code": 401},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 88,
+  "comment": 19,
+  "code": 247},
+"Velocity Template Language" :{
+  "nFiles": 22,
+  "blank": 39,
+  "comment": 81,
+  "code": 132},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 70},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 31},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 184571,
+  "comment": 180680,
+  "code": 795333,
+  "nFiles": 10805} }

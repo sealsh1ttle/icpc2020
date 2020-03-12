@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 110.663515090942,
+  "n_files"            : 674,
+  "n_lines"            : 170619,
+  "files_per_second"   : 6.09053489260767,
+  "lines_per_second"   : 1541.78185881577,
+  "report_file"        : "loc/theforeman__foreman-ansible-modules.json"},
+"YAML" :{
+  "nFiles": 587,
+  "blank": 799,
+  "comment": 59,
+  "code": 158350},
+"Python" :{
+  "nFiles": 53,
+  "blank": 1289,
+  "comment": 5221,
+  "code": 3742},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 146,
+  "comment": 3,
+  "code": 366},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 0,
+  "code": 211},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 87,
+  "comment": 0,
+  "code": 169},
+"make" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 8,
+  "code": 89},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 22,
+  "code": 8},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 8,
+  "code": 6},
+"SUM": {
+  "blank": 2357,
+  "comment": 5321,
+  "code": 162941,
+  "nFiles": 674} }

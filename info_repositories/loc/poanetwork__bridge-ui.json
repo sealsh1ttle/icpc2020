@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.277169942855835,
+  "n_files"            : 1,
+  "n_lines"            : 12,
+  "files_per_second"   : 3.60789481607005,
+  "lines_per_second"   : 43.2947377928406,
+  "report_file"        : "loc/poanetwork__bridge-ui.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 4,
+  "comment": 0,
+  "code": 8,
+  "nFiles": 1} }

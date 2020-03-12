@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.5700531005859,
+  "n_files"            : 228,
+  "n_lines"            : 72665,
+  "files_per_second"   : 3.4771971230562,
+  "lines_per_second"   : 1108.20407432842,
+  "report_file"        : "loc/jdolan__ObjectivelyMVC.json"},
+"C/C++ Header" :{
+  "nFiles": 147,
+  "blank": 5223,
+  "comment": 17066,
+  "code": 32114},
+"C" :{
+  "nFiles": 55,
+  "blank": 3490,
+  "comment": 3559,
+  "code": 8732},
+"XML" :{
+  "nFiles": 8,
+  "blank": 5,
+  "comment": 7,
+  "code": 1118},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 73,
+  "comment": 0,
+  "code": 297},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 263},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 104,
+  "comment": 0,
+  "code": 253},
+"make" :{
+  "nFiles": 7,
+  "blank": 26,
+  "comment": 0,
+  "code": 196},
+"m4" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 60},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 47},
+"SUM": {
+  "blank": 8953,
+  "comment": 20632,
+  "code": 43080,
+  "nFiles": 228} }

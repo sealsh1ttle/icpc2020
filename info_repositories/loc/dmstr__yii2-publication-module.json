@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.4739580154419,
+  "n_files"            : 91,
+  "n_lines"            : 6253,
+  "files_per_second"   : 4.92585291814215,
+  "lines_per_second"   : 338.476464803768,
+  "report_file"        : "loc/dmstr__yii2-publication-module.json"},
+"PHP" :{
+  "nFiles": 85,
+  "blank": 840,
+  "comment": 1264,
+  "code": 3904},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 72},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 72},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 876,
+  "comment": 1264,
+  "code": 4113,
+  "nFiles": 91} }

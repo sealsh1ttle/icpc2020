@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.826956033706665,
+  "n_files"            : 127,
+  "n_lines"            : 26949,
+  "files_per_second"   : 153.575274650029,
+  "lines_per_second"   : 32588.1895790838,
+  "report_file"        : "loc/marcelveldt__script.skinshortcuts.json"},
+"PO File" :{
+  "nFiles": 71,
+  "blank": 3224,
+  "comment": 382,
+  "code": 10573},
+"Python" :{
+  "nFiles": 10,
+  "blank": 1522,
+  "comment": 1426,
+  "code": 6394},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 793,
+  "comment": 0,
+  "code": 1493},
+"XML" :{
+  "nFiles": 14,
+  "blank": 29,
+  "comment": 19,
+  "code": 1094},
+"SUM": {
+  "blank": 5568,
+  "comment": 1827,
+  "code": 19554,
+  "nFiles": 127} }

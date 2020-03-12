@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.90837502479553,
+  "n_files"            : 416,
+  "n_lines"            : 59406,
+  "files_per_second"   : 143.035198849311,
+  "lines_per_second"   : 20425.8389972168,
+  "report_file"        : "loc/ONSdigital__dp-dimension-importer.json"},
+"Go" :{
+  "nFiles": 367,
+  "blank": 8105,
+  "comment": 7395,
+  "code": 38541},
+"Markdown" :{
+  "nFiles": 33,
+  "blank": 777,
+  "comment": 0,
+  "code": 2655},
+"Assembly" :{
+  "nFiles": 2,
+  "blank": 166,
+  "comment": 469,
+  "code": 585},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 375},
+"make" :{
+  "nFiles": 4,
+  "blank": 32,
+  "comment": 3,
+  "code": 93},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 64},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 6,
+  "code": 53},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 2,
+  "code": 17},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 3},
+"SUM": {
+  "blank": 9124,
+  "comment": 7896,
+  "code": 42386,
+  "nFiles": 416} }

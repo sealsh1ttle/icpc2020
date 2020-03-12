@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.22689199447632,
+  "n_files"            : 150,
+  "n_lines"            : 35348,
+  "files_per_second"   : 122.260150588093,
+  "lines_per_second"   : 28811.0120199193,
+  "report_file"        : "loc/openbaton__docs.json"},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 259,
+  "comment": 121,
+  "code": 11052},
+"Markdown" :{
+  "nFiles": 80,
+  "blank": 2704,
+  "comment": 0,
+  "code": 9470},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2959},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 582,
+  "comment": 217,
+  "code": 2098},
+"Sass" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 34,
+  "code": 1768},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 44,
+  "code": 1758},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 3,
+  "comment": 0,
+  "code": 1229},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 76,
+  "comment": 65,
+  "code": 641},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 4,
+  "code": 154},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 7,
+  "code": 21},
+"SUM": {
+  "blank": 3706,
+  "comment": 492,
+  "code": 31150,
+  "nFiles": 150} }

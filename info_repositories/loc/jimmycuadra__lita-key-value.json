@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.151127815246582,
+  "n_files"            : 8,
+  "n_lines"            : 329,
+  "files_per_second"   : 52.9353248900416,
+  "lines_per_second"   : 2176.96523610296,
+  "report_file"        : "loc/jimmycuadra__lita-key-value.json"},
+"Ruby" :{
+  "nFiles": 6,
+  "blank": 43,
+  "comment": 0,
+  "code": 199},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 50},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 68,
+  "comment": 0,
+  "code": 261,
+  "nFiles": 8} }

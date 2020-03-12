@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.944713830947876,
+  "n_files"            : 3,
+  "n_lines"            : 244,
+  "files_per_second"   : 3.17556481309262,
+  "lines_per_second"   : 258.279271464866,
+  "report_file"        : "loc/make-a-diff__make-a-diff.github.io.json"},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 142},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 65},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 35,
+  "comment": 0,
+  "code": 209,
+  "nFiles": 3} }

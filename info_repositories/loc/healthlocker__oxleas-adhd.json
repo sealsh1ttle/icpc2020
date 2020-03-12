@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.20454096794128,
+  "n_files"            : 357,
+  "n_lines"            : 28665,
+  "files_per_second"   : 161.938473900707,
+  "lines_per_second"   : 13002.7068749686,
+  "report_file"        : "loc/healthlocker__oxleas-adhd.json"},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 2,
+  "code": 13555},
+"Elixir" :{
+  "nFiles": 237,
+  "blank": 1338,
+  "comment": 480,
+  "code": 7857},
+"EEx" :{
+  "nFiles": 96,
+  "blank": 357,
+  "comment": 1,
+  "code": 3330},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 242,
+  "comment": 0,
+  "code": 691},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 77,
+  "comment": 9,
+  "code": 292},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 36,
+  "comment": 35,
+  "code": 214},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 18,
+  "code": 55},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 5,
+  "code": 31},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 2070,
+  "comment": 550,
+  "code": 26045,
+  "nFiles": 357} }

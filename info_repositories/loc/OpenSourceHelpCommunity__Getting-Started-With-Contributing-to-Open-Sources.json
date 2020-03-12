@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.830329895019531,
+  "n_files"            : 9,
+  "n_lines"            : 233,
+  "files_per_second"   : 10.8390653570149,
+  "lines_per_second"   : 280.611358687163,
+  "report_file"        : "loc/OpenSourceHelpCommunity__Getting-Started-With-Contributing-to-Open-Sources.json"},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 40,
+  "comment": 0,
+  "code": 193},
+"SUM": {
+  "blank": 40,
+  "comment": 0,
+  "code": 193,
+  "nFiles": 9} }

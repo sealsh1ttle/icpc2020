@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.312157154083252,
+  "n_files"            : 29,
+  "n_lines"            : 6283,
+  "files_per_second"   : 92.9019233442452,
+  "lines_per_second"   : 20127.6822197204,
+  "report_file"        : "loc/InfraSIM__docs.json"},
+"reStructuredText" :{
+  "nFiles": 12,
+  "blank": 1130,
+  "comment": 289,
+  "code": 1873},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 14,
+  "code": 1458},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 425},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 6,
+  "comment": 1,
+  "code": 94},
+"Python" :{
+  "nFiles": 2,
+  "blank": 113,
+  "comment": 237,
+  "code": 81},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 53},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1361,
+  "comment": 549,
+  "code": 4373,
+  "nFiles": 29} }

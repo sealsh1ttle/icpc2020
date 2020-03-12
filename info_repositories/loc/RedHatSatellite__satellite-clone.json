@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.6234610080719,
+  "n_files"            : 25,
+  "n_lines"            : 1420,
+  "files_per_second"   : 3.77446171563974,
+  "lines_per_second"   : 214.389425448337,
+  "report_file"        : "loc/RedHatSatellite__satellite-clone.json"},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 123,
+  "comment": 85,
+  "code": 522},
+"Python" :{
+  "nFiles": 3,
+  "blank": 70,
+  "comment": 43,
+  "code": 235},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 82,
+  "comment": 0,
+  "code": 205},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 36},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 8},
+"SUM": {
+  "blank": 283,
+  "comment": 131,
+  "code": 1006,
+  "nFiles": 25} }

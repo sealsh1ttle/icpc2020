@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.098351001739502,
+  "n_files"            : 15,
+  "n_lines"            : 1649,
+  "files_per_second"   : 152.514969188925,
+  "lines_per_second"   : 16766.4789461691,
+  "report_file"        : "loc/puppetlabs__pdksync.json"},
+"Ruby" :{
+  "nFiles": 10,
+  "blank": 92,
+  "comment": 349,
+  "code": 660},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 105,
+  "comment": 0,
+  "code": 276},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 55,
+  "code": 112},
+"SUM": {
+  "blank": 197,
+  "comment": 404,
+  "code": 1048,
+  "nFiles": 15} }

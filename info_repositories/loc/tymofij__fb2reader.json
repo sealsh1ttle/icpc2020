@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.42417311668396,
+  "n_files"            : 39,
+  "n_lines"            : 11591,
+  "files_per_second"   : 91.9435920524352,
+  "lines_per_second"   : 27326.107063584,
+  "report_file"        : "loc/tymofij__fb2reader.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 1297,
+  "comment": 2882,
+  "code": 6243},
+"DTD" :{
+  "nFiles": 18,
+  "blank": 72,
+  "comment": 36,
+  "code": 332},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 45,
+  "comment": 28,
+  "code": 261},
+"XHTML" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 10,
+  "code": 90},
+"XML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 4,
+  "code": 84},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 51},
+"make" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 5,
+  "code": 46},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 1484,
+  "comment": 2965,
+  "code": 7142,
+  "nFiles": 39} }

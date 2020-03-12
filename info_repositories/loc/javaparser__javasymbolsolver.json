@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 110.186120986938,
+  "n_files"            : 692,
+  "n_lines"            : 119577,
+  "files_per_second"   : 6.28028279607039,
+  "lines_per_second"   : 1085.22742182906,
+  "report_file"        : "loc/javaparser__javasymbolsolver.json"},
+"Java" :{
+  "nFiles": 668,
+  "blank": 15111,
+  "comment": 20703,
+  "code": 81866},
+"XML" :{
+  "nFiles": 7,
+  "blank": 3,
+  "comment": 15,
+  "code": 398},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 4,
+  "code": 291},
+"Gradle" :{
+  "nFiles": 7,
+  "blank": 36,
+  "comment": 0,
+  "code": 211},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 0,
+  "code": 86},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 38},
+"Python" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 178,
+  "code": 34},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 24},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 6,
+  "code": 14},
+"SUM": {
+  "blank": 15403,
+  "comment": 20933,
+  "code": 83241,
+  "nFiles": 692} }

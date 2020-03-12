@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 71.3193860054016,
+  "n_files"            : 294,
+  "n_lines"            : 4887,
+  "files_per_second"   : 4.12230133301671,
+  "lines_per_second"   : 68.5227435865736,
+  "report_file"        : "loc/bluzi__name-db.json"},
+"JSON" :{
+  "nFiles": 286,
+  "blank": 18,
+  "comment": 0,
+  "code": 4363},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 73,
+  "comment": 9,
+  "code": 312},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 0,
+  "code": 75},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 112,
+  "comment": 9,
+  "code": 4766,
+  "nFiles": 294} }

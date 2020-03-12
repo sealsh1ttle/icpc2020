@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.0629601478577,
+  "n_files"            : 52,
+  "n_lines"            : 3991,
+  "files_per_second"   : 5.16746556042661,
+  "lines_per_second"   : 396.602981762743,
+  "report_file"        : "loc/invenia__Memento.jl.json"},
+"Julia" :{
+  "nFiles": 28,
+  "blank": 527,
+  "comment": 110,
+  "code": 2306},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 202,
+  "comment": 0,
+  "code": 622},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 6,
+  "code": 68},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 13,
+  "code": 44},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 9,
+  "code": 23},
+"SUM": {
+  "blank": 765,
+  "comment": 138,
+  "code": 3088,
+  "nFiles": 52} }

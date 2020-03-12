@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.46981501579285,
+  "n_files"            : 20,
+  "n_lines"            : 4255,
+  "files_per_second"   : 5.76399603695589,
+  "lines_per_second"   : 1226.29015686237,
+  "report_file"        : "loc/zricethezav__gitleaks.json"},
+"Go" :{
+  "nFiles": 12,
+  "blank": 254,
+  "comment": 92,
+  "code": 2499},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 231,
+  "comment": 0,
+  "code": 899},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 43,
+  "code": 141},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 21},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 4,
+  "code": 8},
+"SUM": {
+  "blank": 528,
+  "comment": 139,
+  "code": 3588,
+  "nFiles": 20} }

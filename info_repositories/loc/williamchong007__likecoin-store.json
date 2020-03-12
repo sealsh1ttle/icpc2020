@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 83.734915971756,
+  "n_files"            : 468,
+  "n_lines"            : 84658,
+  "files_per_second"   : 5.58906633593396,
+  "lines_per_second"   : 1011.02388433226,
+  "report_file"        : "loc/williamchong007__likecoin-store.json"},
+"JSON" :{
+  "nFiles": 18,
+  "blank": 1,
+  "comment": 0,
+  "code": 36123},
+"Vuejs Component" :{
+  "nFiles": 188,
+  "blank": 4875,
+  "comment": 1512,
+  "code": 30165},
+"JavaScript" :{
+  "nFiles": 89,
+  "blank": 585,
+  "comment": 427,
+  "code": 6156},
+"SVG" :{
+  "nFiles": 154,
+  "blank": 0,
+  "comment": 8,
+  "code": 2409},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 380,
+  "comment": 9,
+  "code": 1375},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 437},
+"XML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 72},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 46},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 5862,
+  "comment": 1957,
+  "code": 76839,
+  "nFiles": 468} }

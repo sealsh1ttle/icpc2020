@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.473107099533081,
+  "n_files"            : 79,
+  "n_lines"            : 11509,
+  "files_per_second"   : 166.981218582361,
+  "lines_per_second"   : 24326.4157552454,
+  "report_file"        : "loc/duranmla__alt-market.json"},
+"JavaScript" :{
+  "nFiles": 73,
+  "blank": 1496,
+  "comment": 885,
+  "code": 9001},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 64},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 11},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1504,
+  "comment": 905,
+  "code": 9100,
+  "nFiles": 79} }

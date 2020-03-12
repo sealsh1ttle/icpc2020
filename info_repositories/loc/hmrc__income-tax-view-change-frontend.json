@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 67.3896689414978,
+  "n_files"            : 350,
+  "n_lines"            : 31576,
+  "files_per_second"   : 5.19367442365448,
+  "lines_per_second"   : 468.558467432326,
+  "report_file"        : "loc/hmrc__income-tax-view-change-frontend.json"},
+"Scala" :{
+  "nFiles": 279,
+  "blank": 4162,
+  "comment": 4308,
+  "code": 18876},
+"HTML" :{
+  "nFiles": 54,
+  "blank": 447,
+  "comment": 15,
+  "code": 2948},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 44,
+  "comment": 44,
+  "code": 232},
+"XML" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 0,
+  "code": 229},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 1,
+  "code": 152},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 4733,
+  "comment": 4368,
+  "code": 22475,
+  "nFiles": 350} }

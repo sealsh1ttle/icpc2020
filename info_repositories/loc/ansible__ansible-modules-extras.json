@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 180.063977003098,
+  "n_files"            : 536,
+  "n_lines"            : 167128,
+  "files_per_second"   : 2.97671976883405,
+  "lines_per_second"   : 928.158995383763,
+  "report_file"        : "loc/ansible__ansible-modules-extras.json"},
+"Python" :{
+  "nFiles": 502,
+  "blank": 20632,
+  "comment": 65038,
+  "code": 74618},
+"PowerShell" :{
+  "nFiles": 26,
+  "blank": 887,
+  "comment": 757,
+  "code": 4302},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 107,
+  "comment": 0,
+  "code": 622},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 4,
+  "code": 122},
+"SUM": {
+  "blank": 21665,
+  "comment": 65799,
+  "code": 79664,
+  "nFiles": 536} }

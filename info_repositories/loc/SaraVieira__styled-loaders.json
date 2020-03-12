@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.76664209365845,
+  "n_files"            : 41,
+  "n_lines"            : 2058,
+  "files_per_second"   : 4.67681919279655,
+  "lines_per_second"   : 234.753509726227,
+  "report_file"        : "loc/SaraVieira__styled-loaders.json"},
+"JavaScript" :{
+  "nFiles": 28,
+  "blank": 359,
+  "comment": 256,
+  "code": 1123},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 65,
+  "comment": 0,
+  "code": 209},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 424,
+  "comment": 256,
+  "code": 1378,
+  "nFiles": 41} }

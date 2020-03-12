@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.2086679935455,
+  "n_files"            : 67,
+  "n_lines"            : 9442,
+  "files_per_second"   : 5.0724266847149,
+  "lines_per_second"   : 714.833623239972,
+  "report_file"        : "loc/taskcluster__taskcluster-cli.json"},
+"Go" :{
+  "nFiles": 60,
+  "blank": 959,
+  "comment": 1693,
+  "code": 6029},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 430},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 4,
+  "code": 198},
+"make" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 5,
+  "code": 46},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 38},
+"SUM": {
+  "blank": 999,
+  "comment": 1702,
+  "code": 6741,
+  "nFiles": 67} }

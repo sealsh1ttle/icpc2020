@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2155.90566492081,
+  "n_files"            : 6457,
+  "n_lines"            : 2309101,
+  "files_per_second"   : 2.99502900570429,
+  "lines_per_second"   : 1071.05845936205,
+  "report_file"        : "loc/kubernetes-retired__federation.json"},
+"Go" :{
+  "nFiles": 5815,
+  "blank": 221366,
+  "comment": 421629,
+  "code": 1387956},
+"JSON" :{
+  "nFiles": 25,
+  "blank": 3,
+  "comment": 0,
+  "code": 144723},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 967,
+  "comment": 0,
+  "code": 61575},
+"Bourne Shell" :{
+  "nFiles": 199,
+  "blank": 3527,
+  "comment": 6406,
+  "code": 18497},
+"Markdown" :{
+  "nFiles": 164,
+  "blank": 4183,
+  "comment": 0,
+  "code": 11037},
+"Protocol Buffers" :{
+  "nFiles": 70,
+  "blank": 3174,
+  "comment": 9125,
+  "code": 6129},
+"Assembly" :{
+  "nFiles": 33,
+  "blank": 244,
+  "comment": 308,
+  "code": 2003},
+"YAML" :{
+  "nFiles": 70,
+  "blank": 193,
+  "comment": 31,
+  "code": 1186},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 142,
+  "comment": 131,
+  "code": 855},
+"make" :{
+  "nFiles": 26,
+  "blank": 226,
+  "comment": 548,
+  "code": 823},
+"Python" :{
+  "nFiles": 10,
+  "blank": 176,
+  "comment": 200,
+  "code": 718},
+"Dockerfile" :{
+  "nFiles": 15,
+  "blank": 79,
+  "comment": 241,
+  "code": 257},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 30,
+  "code": 109},
+"C" :{
+  "nFiles": 4,
+  "blank": 33,
+  "comment": 37,
+  "code": 94},
+"Starlark" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 12,
+  "code": 50},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 234359,
+  "comment": 438703,
+  "code": 1636039,
+  "nFiles": 6457} }

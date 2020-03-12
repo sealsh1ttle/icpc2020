@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.1328530311584,
+  "n_files"            : 178,
+  "n_lines"            : 11868,
+  "files_per_second"   : 3.77655899341227,
+  "lines_per_second"   : 251.798888392229,
+  "report_file"        : "loc/kiegroup__openshift-drools-hacep.json"},
+"Java" :{
+  "nFiles": 123,
+  "blank": 1399,
+  "comment": 2010,
+  "code": 6208},
+"XML" :{
+  "nFiles": 14,
+  "blank": 71,
+  "comment": 24,
+  "code": 890},
+"YAML" :{
+  "nFiles": 26,
+  "blank": 3,
+  "comment": 0,
+  "code": 569},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 99,
+  "comment": 0,
+  "code": 385},
+"Maven" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 0,
+  "code": 148},
+"Drools" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 1592,
+  "comment": 2034,
+  "code": 8242,
+  "nFiles": 178} }

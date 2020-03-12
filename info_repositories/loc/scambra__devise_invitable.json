@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.9904441833496,
+  "n_files"            : 82,
+  "n_lines"            : 3904,
+  "files_per_second"   : 5.12806267666937,
+  "lines_per_second"   : 244.145813289235,
+  "report_file"        : "loc/scambra__devise_invitable.json"},
+"Ruby" :{
+  "nFiles": 63,
+  "blank": 578,
+  "comment": 498,
+  "code": 2306},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 15,
+  "comment": 10,
+  "code": 173},
+"ERB" :{
+  "nFiles": 11,
+  "blank": 40,
+  "comment": 0,
+  "code": 143},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 96},
+"SUM": {
+  "blank": 678,
+  "comment": 508,
+  "code": 2718,
+  "nFiles": 82} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 72.9029729366302,
+  "n_files"            : 319,
+  "n_lines"            : 44649,
+  "files_per_second"   : 4.37567889415546,
+  "lines_per_second"   : 612.444159702656,
+  "report_file"        : "loc/OCA__vertical-medical.json"},
+"PO File" :{
+  "nFiles": 55,
+  "blank": 4834,
+  "comment": 12125,
+  "code": 11933},
+"XML" :{
+  "nFiles": 78,
+  "blank": 484,
+  "comment": 147,
+  "code": 5414},
+"Python" :{
+  "nFiles": 157,
+  "blank": 750,
+  "comment": 2069,
+  "code": 4297},
+"reStructuredText" :{
+  "nFiles": 23,
+  "blank": 532,
+  "comment": 198,
+  "code": 996},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 140,
+  "comment": 2,
+  "code": 621},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 71},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 19},
+"SUM": {
+  "blank": 6755,
+  "comment": 14543,
+  "code": 23351,
+  "nFiles": 319} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2517.55192995071,
+  "n_files"            : 19,
+  "n_lines"            : 550,
+  "files_per_second"   : 0.00754701413462878,
+  "lines_per_second"   : 0.218466198633991,
+  "report_file"        : "loc/JetBrains__swot.json"},
+"XML" :{
+  "nFiles": 14,
+  "blank": 4,
+  "comment": 0,
+  "code": 280},
+"Kotlin" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 4,
+  "code": 117},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 0,
+  "code": 90},
+"SUM": {
+  "blank": 59,
+  "comment": 4,
+  "code": 487,
+  "nFiles": 19} }

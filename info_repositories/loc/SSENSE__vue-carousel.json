@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.833982944488525,
+  "n_files"            : 73,
+  "n_lines"            : 17401,
+  "files_per_second"   : 87.5317660659958,
+  "lines_per_second"   : 20864.9350864985,
+  "report_file"        : "loc/SSENSE__vue-carousel.json"},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 1100,
+  "comment": 1031,
+  "code": 8848},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 1741},
+"Vuejs Component" :{
+  "nFiles": 4,
+  "blank": 77,
+  "comment": 307,
+  "code": 1055},
+"Stylus" :{
+  "nFiles": 12,
+  "blank": 75,
+  "comment": 14,
+  "code": 967},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 117,
+  "comment": 24,
+  "code": 672},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 261,
+  "comment": 0,
+  "code": 549},
+"EJS" :{
+  "nFiles": 8,
+  "blank": 22,
+  "comment": 8,
+  "code": 305},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 146},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 20,
+  "code": 50},
+"SUM": {
+  "blank": 1664,
+  "comment": 1404,
+  "code": 14333,
+  "nFiles": 73} }

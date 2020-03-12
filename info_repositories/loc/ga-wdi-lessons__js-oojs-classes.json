@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.670531988143921,
+  "n_files"            : 2,
+  "n_lines"            : 383,
+  "files_per_second"   : 2.98270632179106,
+  "lines_per_second"   : 571.188260622988,
+  "report_file"        : "loc/ga-wdi-lessons__js-oojs-classes.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 88,
+  "comment": 0,
+  "code": 289},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 88,
+  "comment": 0,
+  "code": 295,
+  "nFiles": 2} }

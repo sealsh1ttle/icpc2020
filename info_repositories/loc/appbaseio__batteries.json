@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.523171186447144,
+  "n_files"            : 96,
+  "n_lines"            : 12471,
+  "files_per_second"   : 183.496344001542,
+  "lines_per_second"   : 23837.3219379503,
+  "report_file"        : "loc/appbaseio__batteries.json"},
+"JavaScript" :{
+  "nFiles": 95,
+  "blank": 818,
+  "comment": 298,
+  "code": 11186},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 0,
+  "code": 132},
+"SUM": {
+  "blank": 855,
+  "comment": 298,
+  "code": 11318,
+  "nFiles": 96} }

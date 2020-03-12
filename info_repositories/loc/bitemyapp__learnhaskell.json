@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.1801381111145,
+  "n_files"            : 28,
+  "n_lines"            : 9397,
+  "files_per_second"   : 6.69834327376678,
+  "lines_per_second"   : 2248.01184798523,
+  "report_file"        : "loc/bitemyapp__learnhaskell.json"},
+"Markdown" :{
+  "nFiles": 27,
+  "blank": 3494,
+  "comment": 0,
+  "code": 5880},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 3497,
+  "comment": 0,
+  "code": 5900,
+  "nFiles": 28} }

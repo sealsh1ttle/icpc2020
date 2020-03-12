@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.830682992935181,
+  "n_files"            : 40,
+  "n_lines"            : 22712,
+  "files_per_second"   : 48.15314667592,
+  "lines_per_second"   : 27341.3566825874,
+  "report_file"        : "loc/minallaad__SER517-Capstone---Project-10.json"},
+"Python" :{
+  "nFiles": 30,
+  "blank": 415,
+  "comment": 313,
+  "code": 20642},
+"Qt" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 1117},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 68,
+  "comment": 0,
+  "code": 157},
+"SUM": {
+  "blank": 483,
+  "comment": 313,
+  "code": 21916,
+  "nFiles": 40} }

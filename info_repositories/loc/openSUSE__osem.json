@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 198.577565908432,
+  "n_files"            : 942,
+  "n_lines"            : 46802,
+  "files_per_second"   : 4.74373827522075,
+  "lines_per_second"   : 235.686240718558,
+  "report_file"        : "loc/openSUSE__osem.json"},
+"Ruby" :{
+  "nFiles": 636,
+  "blank": 5622,
+  "comment": 2633,
+  "code": 25126},
+"Haml" :{
+  "nFiles": 235,
+  "blank": 384,
+  "comment": 53,
+  "code": 7938},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 209,
+  "comment": 521,
+  "code": 1655},
+"Sass" :{
+  "nFiles": 13,
+  "blank": 138,
+  "comment": 12,
+  "code": 803},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 73,
+  "comment": 109,
+  "code": 530},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 98,
+  "comment": 0,
+  "code": 254},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 26,
+  "comment": 4,
+  "code": 134},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 133},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 1,
+  "code": 125},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 24,
+  "code": 61},
+"ERB" :{
+  "nFiles": 9,
+  "blank": 11,
+  "comment": 0,
+  "code": 58},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 5,
+  "code": 31},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 7,
+  "code": 10},
+"SUM": {
+  "blank": 6575,
+  "comment": 3369,
+  "code": 36858,
+  "nFiles": 942} }

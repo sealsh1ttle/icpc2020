@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.54351019859314,
+  "n_files"            : 87,
+  "n_lines"            : 5404,
+  "files_per_second"   : 160.07059338573,
+  "lines_per_second"   : 9942.77570869525,
+  "report_file"        : "loc/fredtargaryen__Floocraft.json"},
+"Java" :{
+  "nFiles": 48,
+  "blank": 474,
+  "comment": 435,
+  "code": 3448},
+"JSON" :{
+  "nFiles": 36,
+  "blank": 27,
+  "comment": 0,
+  "code": 789},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 37,
+  "code": 86},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 22,
+  "code": 30},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 534,
+  "comment": 494,
+  "code": 4376,
+  "nFiles": 87} }

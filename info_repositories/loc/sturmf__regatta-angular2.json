@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.4882788658142,
+  "n_files"            : 73,
+  "n_lines"            : 8058,
+  "files_per_second"   : 6.3543025767965,
+  "lines_per_second"   : 701.4105501894,
+  "report_file"        : "loc/sturmf__regatta-angular2.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 36,
+  "comment": 0,
+  "code": 4999},
+"Dart" :{
+  "nFiles": 33,
+  "blank": 378,
+  "comment": 179,
+  "code": 1614},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 24,
+  "comment": 2,
+  "code": 258},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 13,
+  "code": 104},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 15,
+  "code": 77},
+"make" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 7,
+  "code": 69},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 2,
+  "code": 54},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 49},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 12},
+"SUM": {
+  "blank": 554,
+  "comment": 222,
+  "code": 7282,
+  "nFiles": 73} }

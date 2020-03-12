@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.568650960922241,
+  "n_files"            : 84,
+  "n_lines"            : 9593,
+  "files_per_second"   : 147.718030518701,
+  "lines_per_second"   : 16869.7507948321,
+  "report_file"        : "loc/Uniswap__uniswap-frontend.json"},
+"JavaScript" :{
+  "nFiles": 45,
+  "blank": 835,
+  "comment": 141,
+  "code": 6163},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 1444},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 21,
+  "code": 674},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 32,
+  "comment": 0,
+  "code": 82},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 1,
+  "code": 72},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 942,
+  "comment": 184,
+  "code": 8467,
+  "nFiles": 84} }

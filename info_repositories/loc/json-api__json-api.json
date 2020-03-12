@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 137.039355993271,
+  "n_files"            : 176,
+  "n_lines"            : 29244,
+  "files_per_second"   : 1.28430259121068,
+  "lines_per_second"   : 213.398551007756,
+  "report_file"        : "loc/json-api__json-api.json"},
+"CSS" :{
+  "nFiles": 72,
+  "blank": 1015,
+  "comment": 702,
+  "code": 6692},
+"Markdown" :{
+  "nFiles": 27,
+  "blank": 1835,
+  "comment": 0,
+  "code": 6073},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 5531},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 452,
+  "comment": 230,
+  "code": 2197},
+"reStructuredText" :{
+  "nFiles": 12,
+  "blank": 630,
+  "comment": 29,
+  "code": 2004},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 65,
+  "comment": 21,
+  "code": 495},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 124,
+  "comment": 32,
+  "code": 470},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 8,
+  "code": 112},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 74},
+"Python" :{
+  "nFiles": 1,
+  "blank": 65,
+  "comment": 148,
+  "code": 29},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 27},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 4228,
+  "comment": 1176,
+  "code": 23840,
+  "nFiles": 176} }

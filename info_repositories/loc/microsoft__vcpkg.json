@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 984.576668024063,
+  "n_files"            : 2751,
+  "n_lines"            : 189377,
+  "files_per_second"   : 2.79409424308313,
+  "lines_per_second"   : 192.343578870357,
+  "report_file"        : "loc/microsoft__vcpkg.json"},
+"CMake" :{
+  "nFiles": 1645,
+  "blank": 12706,
+  "comment": 4733,
+  "code": 60946},
+"diff" :{
+  "nFiles": 799,
+  "blank": 3116,
+  "comment": 17368,
+  "code": 25331},
+"C/C++ Header" :{
+  "nFiles": 97,
+  "blank": 4772,
+  "comment": 2704,
+  "code": 18394},
+"C++" :{
+  "nFiles": 82,
+  "blank": 2940,
+  "comment": 492,
+  "code": 16477},
+"Markdown" :{
+  "nFiles": 65,
+  "blank": 2227,
+  "comment": 0,
+  "code": 8957},
+"XML" :{
+  "nFiles": 19,
+  "blank": 16,
+  "comment": 2,
+  "code": 3863},
+"Windows Module Definition" :{
+  "nFiles": 17,
+  "blank": 7,
+  "comment": 4,
+  "code": 1427},
+"PowerShell" :{
+  "nFiles": 12,
+  "blank": 157,
+  "comment": 62,
+  "code": 1143},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 66,
+  "code": 431},
+"Python" :{
+  "nFiles": 2,
+  "blank": 77,
+  "comment": 127,
+  "code": 293},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 11,
+  "code": 261},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 32},
+"C" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 39,
+  "code": 27},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 1,
+  "code": 26},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 4,
+  "code": 10},
+"SUM": {
+  "blank": 26146,
+  "comment": 25613,
+  "code": 137618,
+  "nFiles": 2751} }

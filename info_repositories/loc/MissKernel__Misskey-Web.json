@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.15868401527405,
+  "n_files"            : 342,
+  "n_lines"            : 29225,
+  "files_per_second"   : 66.2959776151034,
+  "lines_per_second"   : 5665.20451988713,
+  "report_file"        : "loc/MissKernel__Misskey-Web.json"},
+"Stylus" :{
+  "nFiles": 93,
+  "blank": 2522,
+  "comment": 98,
+  "code": 15111},
+"Pug" :{
+  "nFiles": 143,
+  "blank": 396,
+  "comment": 0,
+  "code": 4316},
+"TypeScript" :{
+  "nFiles": 72,
+  "blank": 463,
+  "comment": 170,
+  "code": 2721},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 1928},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 97,
+  "comment": 67,
+  "code": 515},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 18,
+  "comment": 9,
+  "code": 425},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 126},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 24,
+  "code": 44},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 4,
+  "code": 42},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 17,
+  "code": 28},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3578,
+  "comment": 389,
+  "code": 25258,
+  "nFiles": 342} }

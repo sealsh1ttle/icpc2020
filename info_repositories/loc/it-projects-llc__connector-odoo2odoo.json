@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.86327004432678,
+  "n_files"            : 39,
+  "n_lines"            : 2231,
+  "files_per_second"   : 3.95406389815234,
+  "lines_per_second"   : 226.192732225074,
+  "report_file"        : "loc/it-projects-llc__connector-odoo2odoo.json"},
+"Python" :{
+  "nFiles": 23,
+  "blank": 351,
+  "comment": 237,
+  "code": 1055},
+"XML" :{
+  "nFiles": 9,
+  "blank": 44,
+  "comment": 0,
+  "code": 267},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 65,
+  "comment": 18,
+  "code": 117},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 41},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 2,
+  "code": 17},
+"SUM": {
+  "blank": 477,
+  "comment": 257,
+  "code": 1497,
+  "nFiles": 39} }

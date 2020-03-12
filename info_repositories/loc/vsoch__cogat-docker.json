@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.6089270114899,
+  "n_files"            : 120,
+  "n_lines"            : 41111,
+  "files_per_second"   : 4.05283176771092,
+  "lines_per_second"   : 1388.4663900197,
+  "report_file"        : "loc/vsoch__cogat-docker.json"},
+"CSS" :{
+  "nFiles": 19,
+  "blank": 1453,
+  "comment": 441,
+  "code": 13803},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 1362,
+  "comment": 10748,
+  "code": 7488},
+"HTML" :{
+  "nFiles": 43,
+  "blank": 373,
+  "comment": 69,
+  "code": 2293},
+"Python" :{
+  "nFiles": 27,
+  "blank": 449,
+  "comment": 441,
+  "code": 1391},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 640},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 42},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 35},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 15,
+  "code": 27},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 3658,
+  "comment": 11714,
+  "code": 25739,
+  "nFiles": 120} }

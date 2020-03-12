@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.2552919387817,
+  "n_files"            : 118,
+  "n_lines"            : 16121,
+  "files_per_second"   : 4.49433204837848,
+  "lines_per_second"   : 614.009550439911,
+  "report_file"        : "loc/scorelab__Bassa.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 10110},
+"JavaScript" :{
+  "nFiles": 53,
+  "blank": 354,
+  "comment": 94,
+  "code": 2011},
+"Python" :{
+  "nFiles": 19,
+  "blank": 193,
+  "comment": 14,
+  "code": 1399},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 102,
+  "comment": 38,
+  "code": 438},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 57,
+  "comment": 31,
+  "code": 436},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 112,
+  "comment": 0,
+  "code": 309},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 1,
+  "code": 105},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 1,
+  "code": 104},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 53,
+  "code": 60},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 882,
+  "comment": 232,
+  "code": 15007,
+  "nFiles": 118} }

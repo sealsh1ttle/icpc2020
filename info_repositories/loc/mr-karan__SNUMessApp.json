@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.58476996421814,
+  "n_files"            : 54,
+  "n_lines"            : 2815,
+  "files_per_second"   : 92.3440041456304,
+  "lines_per_second"   : 4813.85873462869,
+  "report_file"        : "loc/mr-karan__SNUMessApp.json"},
+"XML" :{
+  "nFiles": 29,
+  "blank": 74,
+  "comment": 6,
+  "code": 943},
+"Java" :{
+  "nFiles": 9,
+  "blank": 115,
+  "comment": 19,
+  "code": 474},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Python" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 9,
+  "code": 61},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 3,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 25},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 673,
+  "code": 14},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 276,
+  "comment": 748,
+  "code": 1791,
+  "nFiles": 54} }

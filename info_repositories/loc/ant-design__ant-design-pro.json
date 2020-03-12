@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.6297810077667,
+  "n_files"            : 131,
+  "n_lines"            : 11500,
+  "files_per_second"   : 3.78287116429121,
+  "lines_per_second"   : 332.084109842358,
+  "report_file"        : "loc/ant-design__ant-design-pro.json"},
+"TypeScript" :{
+  "nFiles": 84,
+  "blank": 309,
+  "comment": 195,
+  "code": 4292},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 316,
+  "comment": 251,
+  "code": 4105},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 202,
+  "comment": 0,
+  "code": 612},
+"LESS" :{
+  "nFiles": 12,
+  "blank": 58,
+  "comment": 2,
+  "code": 571},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 227},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 153},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 4,
+  "code": 102},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 42},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 920,
+  "comment": 453,
+  "code": 10127,
+  "nFiles": 131} }

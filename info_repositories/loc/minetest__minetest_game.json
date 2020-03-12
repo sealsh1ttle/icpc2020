@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.0315837860107,
+  "n_files"            : 62,
+  "n_lines"            : 19287,
+  "files_per_second"   : 0.93894461476078,
+  "lines_per_second"   : 292.087496530503,
+  "report_file"        : "loc/minetest__minetest_game.json"},
+"Lua" :{
+  "nFiles": 60,
+  "blank": 2289,
+  "comment": 1362,
+  "code": 15591},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 2301,
+  "comment": 1362,
+  "code": 15624,
+  "nFiles": 62} }

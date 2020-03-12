@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1152.69237017632,
+  "n_files"            : 3001,
+  "n_lines"            : 334339,
+  "files_per_second"   : 2.60346999567714,
+  "lines_per_second"   : 290.050501461079,
+  "report_file"        : "loc/openshift__release.json"},
+"YAML" :{
+  "nFiles": 2747,
+  "blank": 1985,
+  "comment": 1102,
+  "code": 305146},
+"JSON" :{
+  "nFiles": 26,
+  "blank": 0,
+  "comment": 0,
+  "code": 7679},
+"Go" :{
+  "nFiles": 36,
+  "blank": 513,
+  "comment": 353,
+  "code": 4439},
+"Bourne Shell" :{
+  "nFiles": 64,
+  "blank": 802,
+  "comment": 1355,
+  "code": 3582},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 19,
+  "code": 1904},
+"Markdown" :{
+  "nFiles": 43,
+  "blank": 566,
+  "comment": 0,
+  "code": 1778},
+"Python" :{
+  "nFiles": 12,
+  "blank": 139,
+  "comment": 29,
+  "code": 752},
+"make" :{
+  "nFiles": 9,
+  "blank": 116,
+  "comment": 95,
+  "code": 537},
+"XML" :{
+  "nFiles": 36,
+  "blank": 0,
+  "comment": 0,
+  "code": 520},
+"Dockerfile" :{
+  "nFiles": 14,
+  "blank": 44,
+  "comment": 47,
+  "code": 281},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 203},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 36,
+  "comment": 48,
+  "code": 124},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 66},
+"INI" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"awk" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 26},
+"SUM": {
+  "blank": 4218,
+  "comment": 3056,
+  "code": 327065,
+  "nFiles": 3001} }

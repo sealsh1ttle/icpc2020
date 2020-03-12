@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.6343839168549,
+  "n_files"            : 35,
+  "n_lines"            : 9092,
+  "files_per_second"   : 3.29121087536882,
+  "lines_per_second"   : 854.962550824381,
+  "report_file"        : "loc/redhataccess__insights-client.json"},
+"Python" :{
+  "nFiles": 23,
+  "blank": 768,
+  "comment": 906,
+  "code": 4422},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2585},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 52,
+  "code": 113},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 40},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 38},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 37},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 11,
+  "code": 19},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"sed" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 862,
+  "comment": 971,
+  "code": 7259,
+  "nFiles": 35} }

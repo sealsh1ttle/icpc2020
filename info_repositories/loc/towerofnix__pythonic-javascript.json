@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0271859169006348,
+  "n_files"            : 1,
+  "n_lines"            : 307,
+  "files_per_second"   : 36.7837510743164,
+  "lines_per_second"   : 11292.6115798151,
+  "report_file"        : "loc/towerofnix__pythonic-javascript.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 74,
+  "comment": 0,
+  "code": 233},
+"SUM": {
+  "blank": 74,
+  "comment": 0,
+  "code": 233,
+  "nFiles": 1} }

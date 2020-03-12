@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 494.044643163681,
+  "n_files"            : 2734,
+  "n_lines"            : 808285,
+  "files_per_second"   : 5.53391285146311,
+  "lines_per_second"   : 1636.0566017355,
+  "report_file"        : "loc/google__closure-library.json"},
+"JavaScript" :{
+  "nFiles": 1637,
+  "blank": 86733,
+  "comment": 189506,
+  "code": 482725},
+"HTML" :{
+  "nFiles": 984,
+  "blank": 5347,
+  "comment": 5770,
+  "code": 28476},
+"CSS" :{
+  "nFiles": 65,
+  "blank": 758,
+  "comment": 1114,
+  "code": 3631},
+"Python" :{
+  "nFiles": 14,
+  "blank": 600,
+  "comment": 812,
+  "code": 1102},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 212,
+  "comment": 0,
+  "code": 541},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 63,
+  "comment": 229,
+  "code": 250},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 134},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 61},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 19,
+  "code": 52},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 29,
+  "code": 25},
+"Lisp" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 31,
+  "code": 24},
+"SUM": {
+  "blank": 93754,
+  "comment": 197510,
+  "code": 517021,
+  "nFiles": 2734} }

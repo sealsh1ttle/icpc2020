@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.82673215866089,
+  "n_files"            : 120,
+  "n_lines"            : 18290,
+  "files_per_second"   : 20.5947341893228,
+  "lines_per_second"   : 3138.98073602262,
+  "report_file"        : "loc/team-dudu__GameJam.json"},
+"Unity-Prefab" :{
+  "nFiles": 41,
+  "blank": 0,
+  "comment": 0,
+  "code": 8742},
+"C#" :{
+  "nFiles": 69,
+  "blank": 897,
+  "comment": 1252,
+  "code": 5601},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1506},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 47,
+  "comment": 0,
+  "code": 92},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 91},
+"HLSL" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 958,
+  "comment": 1252,
+  "code": 16080,
+  "nFiles": 120} }

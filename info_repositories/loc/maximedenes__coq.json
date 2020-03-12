@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 711.604802846909,
+  "n_files"            : 3304,
+  "n_lines"            : 587014,
+  "files_per_second"   : 4.64302656022237,
+  "lines_per_second"   : 824.91573644745,
+  "report_file"        : "loc/maximedenes__coq.json"},
+"Coq" :{
+  "nFiles": 2018,
+  "blank": 38609,
+  "comment": 24286,
+  "code": 189704},
+"OCaml" :{
+  "nFiles": 945,
+  "blank": 36266,
+  "comment": 36624,
+  "code": 188370},
+"reStructuredText" :{
+  "nFiles": 45,
+  "blank": 10001,
+  "comment": 13646,
+  "code": 10725},
+"Markdown" :{
+  "nFiles": 27,
+  "blank": 1721,
+  "comment": 0,
+  "code": 7204},
+"TeX" :{
+  "nFiles": 25,
+  "blank": 1128,
+  "comment": 352,
+  "code": 5573},
+"Bourne Shell" :{
+  "nFiles": 115,
+  "blank": 891,
+  "comment": 940,
+  "code": 3208},
+"CSS" :{
+  "nFiles": 16,
+  "blank": 491,
+  "comment": 241,
+  "code": 2392},
+"Python" :{
+  "nFiles": 25,
+  "blank": 756,
+  "comment": 944,
+  "code": 2348},
+"diff" :{
+  "nFiles": 8,
+  "blank": 188,
+  "comment": 1065,
+  "code": 1759},
+"C" :{
+  "nFiles": 7,
+  "blank": 181,
+  "comment": 243,
+  "code": 1726},
+"make" :{
+  "nFiles": 8,
+  "blank": 177,
+  "comment": 174,
+  "code": 791},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 204,
+  "comment": 0,
+  "code": 649},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 110,
+  "comment": 38,
+  "code": 581},
+"DOS Batch" :{
+  "nFiles": 9,
+  "blank": 170,
+  "comment": 118,
+  "code": 550},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 71,
+  "comment": 0,
+  "code": 307},
+"Nix" :{
+  "nFiles": 24,
+  "blank": 54,
+  "comment": 28,
+  "code": 281},
+"Lisp" :{
+  "nFiles": 2,
+  "blank": 57,
+  "comment": 44,
+  "code": 202},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 65,
+  "comment": 0,
+  "code": 197},
+"C/C++ Header" :{
+  "nFiles": 6,
+  "blank": 55,
+  "comment": 69,
+  "code": 147},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 32,
+  "code": 86},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 19,
+  "code": 33},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 24},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 12,
+  "code": 18},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"Verilog-SystemVerilog" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 91237,
+  "comment": 78875,
+  "code": 416902,
+  "nFiles": 3304} }

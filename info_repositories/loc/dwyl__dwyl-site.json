@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.361333847045898,
+  "n_files"            : 34,
+  "n_lines"            : 6385,
+  "files_per_second"   : 94.0958071821075,
+  "lines_per_second"   : 17670.6390840517,
+  "report_file"        : "loc/dwyl__dwyl-site.json"},
+"HTML" :{
+  "nFiles": 20,
+  "blank": 213,
+  "comment": 261,
+  "code": 5009},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 74,
+  "comment": 8,
+  "code": 302},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 26,
+  "comment": 36,
+  "code": 220},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 0,
+  "code": 105},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 83},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 356,
+  "comment": 305,
+  "code": 5724,
+  "nFiles": 34} }

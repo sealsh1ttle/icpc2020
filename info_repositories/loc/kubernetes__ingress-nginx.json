@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 941.777704954147,
+  "n_files"            : 4144,
+  "n_lines"            : 1442654,
+  "files_per_second"   : 4.40018910853465,
+  "lines_per_second"   : 1531.84131712933,
+  "report_file"        : "loc/kubernetes__ingress-nginx.json"},
+"Go" :{
+  "nFiles": 3489,
+  "blank": 99715,
+  "comment": 145831,
+  "code": 1067389},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 61926},
+"Markdown" :{
+  "nFiles": 188,
+  "blank": 5067,
+  "comment": 0,
+  "code": 14928},
+"Assembly" :{
+  "nFiles": 88,
+  "blank": 1617,
+  "comment": 2060,
+  "code": 6799},
+"Protocol Buffers" :{
+  "nFiles": 62,
+  "blank": 3571,
+  "comment": 11602,
+  "code": 6304},
+"Lua" :{
+  "nFiles": 37,
+  "blank": 771,
+  "comment": 166,
+  "code": 3516},
+"YAML" :{
+  "nFiles": 150,
+  "blank": 201,
+  "comment": 122,
+  "code": 3490},
+"Bourne Shell" :{
+  "nFiles": 54,
+  "blank": 605,
+  "comment": 937,
+  "code": 2356},
+"make" :{
+  "nFiles": 26,
+  "blank": 303,
+  "comment": 204,
+  "code": 877},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 78,
+  "comment": 68,
+  "code": 710},
+"HCL" :{
+  "nFiles": 4,
+  "blank": 84,
+  "comment": 0,
+  "code": 347},
+"Dockerfile" :{
+  "nFiles": 15,
+  "blank": 106,
+  "comment": 139,
+  "code": 264},
+"Python" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 47,
+  "code": 157},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 95,
+  "code": 41},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 112197,
+  "comment": 161297,
+  "code": 1169160,
+  "nFiles": 4144} }

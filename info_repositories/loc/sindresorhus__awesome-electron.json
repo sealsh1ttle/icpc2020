@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.865676879882812,
+  "n_files"            : 6,
+  "n_lines"            : 564,
+  "files_per_second"   : 6.930992544022,
+  "lines_per_second"   : 651.513299138068,
+  "report_file"        : "loc/sindresorhus__awesome-electron.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 86,
+  "comment": 0,
+  "code": 473},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 86,
+  "comment": 0,
+  "code": 478,
+  "nFiles": 6} }

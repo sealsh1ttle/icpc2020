@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 91.2225930690765,
+  "n_files"            : 406,
+  "n_lines"            : 28708,
+  "files_per_second"   : 4.45065182144696,
+  "lines_per_second"   : 314.702740123397,
+  "report_file"        : "loc/VoIPGRID__vialer-android.json"},
+"Java" :{
+  "nFiles": 167,
+  "blank": 3283,
+  "comment": 2882,
+  "code": 11868},
+"XML" :{
+  "nFiles": 148,
+  "blank": 602,
+  "comment": 95,
+  "code": 4535},
+"Kotlin" :{
+  "nFiles": 77,
+  "blank": 742,
+  "comment": 556,
+  "code": 3061},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 176,
+  "comment": 0,
+  "code": 332},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 29,
+  "comment": 20,
+  "code": 256},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 4878,
+  "comment": 3591,
+  "code": 20239,
+  "nFiles": 406} }

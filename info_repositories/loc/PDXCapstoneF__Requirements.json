@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.265555143356323,
+  "n_files"            : 1,
+  "n_lines"            : 407,
+  "files_per_second"   : 3.765696221738,
+  "lines_per_second"   : 1532.63836224737,
+  "report_file"        : "loc/PDXCapstoneF__Requirements.json"},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 90,
+  "comment": 20,
+  "code": 297},
+"SUM": {
+  "blank": 90,
+  "comment": 20,
+  "code": 297,
+  "nFiles": 1} }

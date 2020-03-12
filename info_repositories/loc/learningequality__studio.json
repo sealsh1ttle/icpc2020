@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.23685693740845,
+  "n_files"            : 739,
+  "n_lines"            : 113793,
+  "files_per_second"   : 102.116154345956,
+  "lines_per_second"   : 15724.0914093225,
+  "report_file"        : "loc/learningequality__studio.json"},
+"JavaScript" :{
+  "nFiles": 133,
+  "blank": 4145,
+  "comment": 3223,
+  "code": 35609},
+"Python" :{
+  "nFiles": 280,
+  "blank": 4771,
+  "comment": 2756,
+  "code": 19070},
+"PO File" :{
+  "nFiles": 6,
+  "blank": 3310,
+  "comment": 4193,
+  "code": 8174},
+"LESS" :{
+  "nFiles": 25,
+  "blank": 355,
+  "comment": 61,
+  "code": 6845},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 12,
+  "comment": 0,
+  "code": 4868},
+"Vuejs Component" :{
+  "nFiles": 38,
+  "blank": 489,
+  "comment": 64,
+  "code": 4282},
+"HTML" :{
+  "nFiles": 47,
+  "blank": 238,
+  "comment": 37,
+  "code": 2985},
+"Handlebars" :{
+  "nFiles": 125,
+  "blank": 34,
+  "comment": 34,
+  "code": 2775},
+"YAML" :{
+  "nFiles": 31,
+  "blank": 85,
+  "comment": 98,
+  "code": 1297},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 50,
+  "comment": 134,
+  "code": 1193},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 525,
+  "comment": 0,
+  "code": 1174},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 0,
+  "code": 103},
+"make" :{
+  "nFiles": 5,
+  "blank": 37,
+  "comment": 20,
+  "code": 100},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 26,
+  "code": 97},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 8,
+  "code": 32},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"Expect" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 34,
+  "code": 23},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 14159,
+  "comment": 10688,
+  "code": 88946,
+  "nFiles": 739} }

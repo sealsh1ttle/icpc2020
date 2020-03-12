@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 64.1610808372498,
+  "n_files"            : 368,
+  "n_lines"            : 55219,
+  "files_per_second"   : 5.73556422675398,
+  "lines_per_second"   : 860.630763687848,
+  "report_file"        : "loc/intel-iot-devkit__mraa.json"},
+"C" :{
+  "nFiles": 77,
+  "blank": 3738,
+  "comment": 3121,
+  "code": 22737},
+"C/C++ Header" :{
+  "nFiles": 79,
+  "blank": 987,
+  "comment": 4750,
+  "code": 3674},
+"Markdown" :{
+  "nFiles": 40,
+  "blank": 678,
+  "comment": 0,
+  "code": 3058},
+"C++" :{
+  "nFiles": 18,
+  "blank": 451,
+  "comment": 755,
+  "code": 1924},
+"Python" :{
+  "nFiles": 60,
+  "blank": 548,
+  "comment": 1390,
+  "code": 1540},
+"CMake" :{
+  "nFiles": 41,
+  "blank": 240,
+  "comment": 207,
+  "code": 1535},
+"Java" :{
+  "nFiles": 16,
+  "blank": 116,
+  "comment": 448,
+  "code": 598},
+"SWIG" :{
+  "nFiles": 6,
+  "blank": 74,
+  "comment": 24,
+  "code": 435},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 117,
+  "comment": 398,
+  "code": 419},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 288},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 210},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 44,
+  "comment": 84,
+  "code": 191},
+"XML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 7,
+  "code": 182},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 67,
+  "code": 103},
+"SUM": {
+  "blank": 7074,
+  "comment": 11251,
+  "code": 36894,
+  "nFiles": 368} }

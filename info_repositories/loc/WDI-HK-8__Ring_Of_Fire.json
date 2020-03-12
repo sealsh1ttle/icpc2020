@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.06607294082642,
+  "n_files"            : 5,
+  "n_lines"            : 741,
+  "files_per_second"   : 1.63075050610255,
+  "lines_per_second"   : 241.677225004397,
+  "report_file"        : "loc/WDI-HK-8__Ring_Of_Fire.json"},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 7,
+  "code": 270},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 24,
+  "code": 178},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 134},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 22},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 85,
+  "comment": 31,
+  "code": 625,
+  "nFiles": 5} }

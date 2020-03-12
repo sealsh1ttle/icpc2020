@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.24901008605957,
+  "n_files"            : 1,
+  "n_lines"            : 222,
+  "files_per_second"   : 4.01590158786087,
+  "lines_per_second"   : 891.530152505113,
+  "report_file"        : "loc/sorrycc__awesome-tools.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 56,
+  "comment": 0,
+  "code": 166},
+"SUM": {
+  "blank": 56,
+  "comment": 0,
+  "code": 166,
+  "nFiles": 1} }

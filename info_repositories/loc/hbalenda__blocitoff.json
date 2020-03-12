@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.9797902107239,
+  "n_files"            : 69,
+  "n_lines"            : 9661,
+  "files_per_second"   : 3.63544587342245,
+  "lines_per_second"   : 509.015109900497,
+  "report_file"        : "loc/hbalenda__blocitoff.json"},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 1953,
+  "comment": 3,
+  "code": 3114},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 260,
+  "comment": 201,
+  "code": 1271},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 729},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 80,
+  "comment": 70,
+  "code": 649},
+"Ruby" :{
+  "nFiles": 48,
+  "blank": 186,
+  "comment": 497,
+  "code": 405},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 40,
+  "code": 81},
+"ERB" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 0,
+  "code": 80},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 23},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 2495,
+  "comment": 814,
+  "code": 6352,
+  "nFiles": 69} }

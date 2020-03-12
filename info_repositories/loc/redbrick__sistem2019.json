@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.75520396232605,
+  "n_files"            : 23,
+  "n_lines"            : 17996,
+  "files_per_second"   : 6.12483375889743,
+  "lines_per_second"   : 4792.28297065731,
+  "report_file"        : "loc/redbrick__sistem2019.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 16929},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 78,
+  "comment": 38,
+  "code": 500},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 58,
+  "comment": 7,
+  "code": 335},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 12,
+  "code": 18},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 141,
+  "comment": 57,
+  "code": 17798,
+  "nFiles": 23} }

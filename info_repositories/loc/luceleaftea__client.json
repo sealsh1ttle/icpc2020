@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.43985605239868,
+  "n_files"            : 39,
+  "n_lines"            : 1194,
+  "files_per_second"   : 5.24203690573099,
+  "lines_per_second"   : 160.486976036995,
+  "report_file"        : "loc/luceleaftea__client.json"},
+"XML" :{
+  "nFiles": 25,
+  "blank": 30,
+  "comment": 12,
+  "code": 540},
+"Java" :{
+  "nFiles": 6,
+  "blank": 38,
+  "comment": 65,
+  "code": 138},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 3,
+  "code": 36},
+"diff" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 22,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 123,
+  "comment": 140,
+  "code": 931,
+  "nFiles": 39} }

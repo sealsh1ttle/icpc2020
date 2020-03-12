@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 351.820533037186,
+  "n_files"            : 1413,
+  "n_lines"            : 693790,
+  "files_per_second"   : 4.01625222894723,
+  "lines_per_second"   : 1971.99974092095,
+  "report_file"        : "loc/kubernetes-csi__csi-lib-utils.json"},
+"Go" :{
+  "nFiles": 1256,
+  "blank": 51325,
+  "comment": 75603,
+  "code": 537792},
+"Protocol Buffers" :{
+  "nFiles": 56,
+  "blank": 3364,
+  "comment": 11165,
+  "code": 5930},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1610},
+"Assembly" :{
+  "nFiles": 33,
+  "blank": 253,
+  "comment": 300,
+  "code": 1558},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 268,
+  "comment": 863,
+  "code": 1539},
+"Markdown" :{
+  "nFiles": 27,
+  "blank": 357,
+  "comment": 0,
+  "code": 990},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 22,
+  "code": 218},
+"make" :{
+  "nFiles": 5,
+  "blank": 45,
+  "comment": 77,
+  "code": 140},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 22,
+  "comment": 0,
+  "code": 135},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 9,
+  "code": 33},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 45,
+  "code": 11},
+"SUM": {
+  "blank": 55682,
+  "comment": 88110,
+  "code": 549998,
+  "nFiles": 1413} }

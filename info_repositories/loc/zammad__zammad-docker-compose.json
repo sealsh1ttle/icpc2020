@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.12046313285828,
+  "n_files"            : 20,
+  "n_lines"            : 735,
+  "files_per_second"   : 4.85382330945076,
+  "lines_per_second"   : 178.378006622315,
+  "report_file"        : "loc/zammad__zammad-docker-compose.json"},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 65,
+  "comment": 24,
+  "code": 188},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 0,
+  "code": 173},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 21,
+  "comment": 6,
+  "code": 112},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 0,
+  "code": 40},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 10,
+  "code": 27},
+"SUM": {
+  "blank": 155,
+  "comment": 40,
+  "code": 540,
+  "nFiles": 20} }

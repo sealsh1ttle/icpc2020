@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.61564302444458,
+  "n_files"            : 21,
+  "n_lines"            : 4729,
+  "files_per_second"   : 4.54974526599726,
+  "lines_per_second"   : 1024.55930299529,
+  "report_file"        : "loc/katyjane8__event_reporter.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 260,
+  "comment": 184,
+  "code": 1263},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 541,
+  "comment": 0,
+  "code": 864},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 80,
+  "comment": 70,
+  "code": 649},
+"Ruby" :{
+  "nFiles": 14,
+  "blank": 94,
+  "comment": 40,
+  "code": 420},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 220},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 977,
+  "comment": 294,
+  "code": 3458,
+  "nFiles": 21} }

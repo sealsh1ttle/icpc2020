@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.602795124053955,
+  "n_files"            : 58,
+  "n_lines"            : 4420,
+  "files_per_second"   : 96.2184292565852,
+  "lines_per_second"   : 7332.50788472598,
+  "report_file"        : "loc/squeek502__AppleCore.json"},
+"Java" :{
+  "nFiles": 52,
+  "blank": 550,
+  "comment": 636,
+  "code": 2812},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 2,
+  "code": 126},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 617,
+  "comment": 660,
+  "code": 3143,
+  "nFiles": 58} }

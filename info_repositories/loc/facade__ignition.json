@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.4550569057465,
+  "n_files"            : 203,
+  "n_lines"            : 12718,
+  "files_per_second"   : 5.1450945942099,
+  "lines_per_second"   : 322.341443591928,
+  "report_file"        : "loc/facade__ignition.json"},
+"PHP" :{
+  "nFiles": 112,
+  "blank": 1373,
+  "comment": 389,
+  "code": 4715},
+"Vuejs Component" :{
+  "nFiles": 33,
+  "blank": 239,
+  "comment": 7,
+  "code": 1969},
+"CSS" :{
+  "nFiles": 21,
+  "blank": 295,
+  "comment": 8,
+  "code": 1474},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 35,
+  "comment": 35,
+  "code": 862},
+"TypeScript" :{
+  "nFiles": 12,
+  "blank": 105,
+  "comment": 2,
+  "code": 535},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 144,
+  "comment": 0,
+  "code": 182},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 165},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 0,
+  "code": 122},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Blade" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 1,
+  "code": 12},
+"SUM": {
+  "blank": 2206,
+  "comment": 442,
+  "code": 10070,
+  "nFiles": 203} }

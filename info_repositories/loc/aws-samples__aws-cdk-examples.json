@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.07389783859253,
+  "n_files"            : 165,
+  "n_lines"            : 6791,
+  "files_per_second"   : 153.645900075795,
+  "lines_per_second"   : 6323.69277221045,
+  "report_file"        : "loc/aws-samples__aws-cdk-examples.json"},
+"Python" :{
+  "nFiles": 38,
+  "blank": 359,
+  "comment": 212,
+  "code": 1285},
+"TypeScript" :{
+  "nFiles": 30,
+  "blank": 257,
+  "comment": 146,
+  "code": 1094},
+"JSON" :{
+  "nFiles": 41,
+  "blank": 1,
+  "comment": 0,
+  "code": 923},
+"Markdown" :{
+  "nFiles": 26,
+  "blank": 346,
+  "comment": 0,
+  "code": 849},
+"Java" :{
+  "nFiles": 9,
+  "blank": 92,
+  "comment": 54,
+  "code": 376},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 6,
+  "code": 192},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 82,
+  "code": 166},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 25,
+  "comment": 14,
+  "code": 88},
+"C#" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 57},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 2,
+  "code": 42},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 7,
+  "code": 11},
+"SUM": {
+  "blank": 1161,
+  "comment": 523,
+  "code": 5107,
+  "nFiles": 165} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.5503959655762,
+  "n_files"            : 49,
+  "n_lines"            : 3244,
+  "files_per_second"   : 2.50634309843534,
+  "lines_per_second"   : 165.93014308825,
+  "report_file"        : "loc/micheal-swiggs__mailchimp-java.json"},
+"Java" :{
+  "nFiles": 45,
+  "blank": 502,
+  "comment": 572,
+  "code": 1873},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 560,
+  "comment": 594,
+  "code": 2090,
+  "nFiles": 49} }

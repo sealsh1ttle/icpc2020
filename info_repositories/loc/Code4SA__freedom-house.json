@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 79.7002129554749,
+  "n_files"            : 270,
+  "n_lines"            : 52744,
+  "files_per_second"   : 3.38769483778968,
+  "lines_per_second"   : 661.779913053254,
+  "report_file"        : "loc/Code4SA__freedom-house.json"},
+"JavaScript" :{
+  "nFiles": 103,
+  "blank": 5050,
+  "comment": 4133,
+  "code": 20007},
+"Sass" :{
+  "nFiles": 89,
+  "blank": 1309,
+  "comment": 1609,
+  "code": 7109},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 870,
+  "comment": 304,
+  "code": 6978},
+"LESS" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 33,
+  "code": 1343},
+"Python" :{
+  "nFiles": 20,
+  "blank": 295,
+  "comment": 122,
+  "code": 1037},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 853},
+"HTML" :{
+  "nFiles": 25,
+  "blank": 148,
+  "comment": 3,
+  "code": 593},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 208,
+  "comment": 0,
+  "code": 432},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 261},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 7912,
+  "comment": 6207,
+  "code": 38625,
+  "nFiles": 270} }

@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 665.548097133636,
+  "n_files"            : 1809,
+  "n_lines"            : 728505,
+  "files_per_second"   : 2.71806050951231,
+  "lines_per_second"   : 1094.59406936554,
+  "report_file"        : "loc/k-vswitch__k-vswitch.json"},
+"Go" :{
+  "nFiles": 1650,
+  "blank": 57955,
+  "comment": 79125,
+  "code": 565806},
+"Protocol Buffers" :{
+  "nFiles": 52,
+  "blank": 2928,
+  "comment": 9153,
+  "code": 4950},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1610},
+"Assembly" :{
+  "nFiles": 33,
+  "blank": 253,
+  "comment": 300,
+  "code": 1558},
+"Markdown" :{
+  "nFiles": 31,
+  "blank": 511,
+  "comment": 0,
+  "code": 1459},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 46,
+  "comment": 35,
+  "code": 779},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 98,
+  "comment": 330,
+  "code": 640},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 22,
+  "code": 218},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 35,
+  "code": 210},
+"Python" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 8,
+  "code": 76},
+"make" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 30,
+  "code": 68},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 9,
+  "code": 39},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 45,
+  "code": 11},
+"SUM": {
+  "blank": 61921,
+  "comment": 89118,
+  "code": 577466,
+  "nFiles": 1809} }

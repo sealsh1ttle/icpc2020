@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.49090719223022,
+  "n_files"            : 33,
+  "n_lines"            : 2969,
+  "files_per_second"   : 5.08403510059454,
+  "lines_per_second"   : 457.409097383793,
+  "report_file"        : "loc/opentable__otj-pg-embedded.json"},
+"Java" :{
+  "nFiles": 24,
+  "blank": 313,
+  "comment": 418,
+  "code": 1707},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 0,
+  "code": 147},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 13,
+  "code": 127},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 2,
+  "code": 56},
+"XML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 26,
+  "code": 34},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 26,
+  "code": 2},
+"SUM": {
+  "blank": 403,
+  "comment": 485,
+  "code": 2081,
+  "nFiles": 33} }

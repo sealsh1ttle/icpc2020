@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.35628700256348,
+  "n_files"            : 109,
+  "n_lines"            : 61007,
+  "files_per_second"   : 80.3664709563554,
+  "lines_per_second"   : 44980.8926021502,
+  "report_file"        : "loc/kristapsdz__kcgi.json"},
+"RobotFramework" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 33291},
+"C" :{
+  "nFiles": 73,
+  "blank": 2417,
+  "comment": 3540,
+  "code": 12700},
+"XML" :{
+  "nFiles": 14,
+  "blank": 45,
+  "comment": 1,
+  "code": 3373},
+"C/C++ Header" :{
+  "nFiles": 7,
+  "blank": 107,
+  "comment": 155,
+  "code": 1271},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 123,
+  "comment": 643,
+  "code": 984},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 139,
+  "comment": 345,
+  "code": 727},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 37,
+  "comment": 30,
+  "code": 451},
+"make" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 38,
+  "code": 333},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 114},
+"C++" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 17,
+  "code": 25},
+"SUM": {
+  "blank": 2969,
+  "comment": 4769,
+  "code": 53269,
+  "nFiles": 109} }

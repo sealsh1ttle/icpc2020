@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 137.663706064224,
+  "n_files"            : 391,
+  "n_lines"            : 27439,
+  "files_per_second"   : 2.84025478594617,
+  "lines_per_second"   : 199.319056449046,
+  "report_file"        : "loc/exercism__problem-specifications.json"},
+"JSON" :{
+  "nFiles": 117,
+  "blank": 23,
+  "comment": 0,
+  "code": 21956},
+"Markdown" :{
+  "nFiles": 136,
+  "blank": 1307,
+  "comment": 0,
+  "code": 3476},
+"YAML" :{
+  "nFiles": 134,
+  "blank": 10,
+  "comment": 0,
+  "code": 485},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 4,
+  "code": 50},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 48},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 10,
+  "code": 33},
+"SUM": {
+  "blank": 1377,
+  "comment": 14,
+  "code": 26048,
+  "nFiles": 391} }

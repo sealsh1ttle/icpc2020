@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.517860889434814,
+  "n_files"            : 86,
+  "n_lines"            : 13330,
+  "files_per_second"   : 166.067764055052,
+  "lines_per_second"   : 25740.503428533,
+  "report_file"        : "loc/shaughnessyar__driftR.json"},
+"HTML" :{
+  "nFiles": 32,
+  "blank": 1484,
+  "comment": 347,
+  "code": 6516},
+"R" :{
+  "nFiles": 28,
+  "blank": 460,
+  "comment": 638,
+  "code": 1522},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 139,
+  "comment": 0,
+  "code": 453},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 71,
+  "comment": 30,
+  "code": 279},
+"Rmd" :{
+  "nFiles": 5,
+  "blank": 257,
+  "comment": 472,
+  "code": 218},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 19,
+  "code": 148},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 34,
+  "comment": 5,
+  "code": 107},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 25},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 2485,
+  "comment": 1512,
+  "code": 9333,
+  "nFiles": 86} }

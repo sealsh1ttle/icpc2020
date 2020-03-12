@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.1699860095978,
+  "n_files"            : 34,
+  "n_lines"            : 50814,
+  "files_per_second"   : 2.79375834723114,
+  "lines_per_second"   : 4175.35401930009,
+  "report_file"        : "loc/linuxgurugamer__FilterExtension.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 46412},
+"C#" :{
+  "nFiles": 25,
+  "blank": 416,
+  "comment": 387,
+  "code": 3152},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 14,
+  "code": 194},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 67},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 5,
+  "code": 42},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 1,
+  "code": 33},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 500,
+  "comment": 408,
+  "code": 49906,
+  "nFiles": 34} }

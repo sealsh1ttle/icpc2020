@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.70453810691833,
+  "n_files"            : 17,
+  "n_lines"            : 11151,
+  "files_per_second"   : 4.58896615700942,
+  "lines_per_second"   : 3010.09185981248,
+  "report_file"        : "loc/nzakas__understandinges6.json"},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 3509,
+  "comment": 0,
+  "code": 7642},
+"SUM": {
+  "blank": 3509,
+  "comment": 0,
+  "code": 7642,
+  "nFiles": 17} }

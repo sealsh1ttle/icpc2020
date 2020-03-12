@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.170138835907,
+  "n_files"            : 104,
+  "n_lines"            : 10870,
+  "files_per_second"   : 3.56528985292251,
+  "lines_per_second"   : 372.641352896805,
+  "report_file"        : "loc/jamstack__jamstack.org.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 884,
+  "comment": 406,
+  "code": 4059},
+"SVG" :{
+  "nFiles": 49,
+  "blank": 2,
+  "comment": 6,
+  "code": 2211},
+"CSS" :{
+  "nFiles": 17,
+  "blank": 309,
+  "comment": 2,
+  "code": 1694},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 7,
+  "comment": 6,
+  "code": 575},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 39,
+  "comment": 0,
+  "code": 443},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 40,
+  "comment": 0,
+  "code": 123},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1283,
+  "comment": 420,
+  "code": 9167,
+  "nFiles": 104} }

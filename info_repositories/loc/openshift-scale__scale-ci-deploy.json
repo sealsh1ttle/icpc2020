@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.518194913864136,
+  "n_files"            : 74,
+  "n_lines"            : 5697,
+  "files_per_second"   : 142.803408563369,
+  "lines_per_second"   : 10993.932683588,
+  "report_file"        : "loc/openshift-scale__scale-ci-deploy.json"},
+"YAML" :{
+  "nFiles": 62,
+  "blank": 517,
+  "comment": 538,
+  "code": 3283},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 324,
+  "comment": 0,
+  "code": 910},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 10,
+  "code": 66},
+"diff" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 20,
+  "code": 14},
+"SUM": {
+  "blank": 856,
+  "comment": 568,
+  "code": 4273,
+  "nFiles": 74} }

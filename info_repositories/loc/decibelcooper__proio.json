@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.9600160121918,
+  "n_files"            : 72,
+  "n_lines"            : 33461,
+  "files_per_second"   : 2.88461353409515,
+  "lines_per_second"   : 1340.58407589386,
+  "report_file"        : "loc/decibelcooper__proio.json"},
+"Go" :{
+  "nFiles": 19,
+  "blank": 1222,
+  "comment": 307,
+  "code": 26406},
+"C++" :{
+  "nFiles": 9,
+  "blank": 292,
+  "comment": 2,
+  "code": 1367},
+"Python" :{
+  "nFiles": 12,
+  "blank": 271,
+  "comment": 218,
+  "code": 949},
+"Protocol Buffers" :{
+  "nFiles": 4,
+  "blank": 64,
+  "comment": 118,
+  "code": 452},
+"Java" :{
+  "nFiles": 5,
+  "blank": 66,
+  "comment": 16,
+  "code": 385},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 51,
+  "comment": 0,
+  "code": 322},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 102,
+  "code": 206},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 10,
+  "code": 166},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 0,
+  "code": 147},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 88},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 20,
+  "comment": 2,
+  "code": 46},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 24},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 8,
+  "code": 7},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2094,
+  "comment": 790,
+  "code": 30577,
+  "nFiles": 72} }

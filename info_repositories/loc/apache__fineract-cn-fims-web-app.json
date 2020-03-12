@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 322.758096933365,
+  "n_files"            : 1170,
+  "n_lines"            : 86176,
+  "files_per_second"   : 3.62500588247536,
+  "lines_per_second"   : 266.998723870254,
+  "report_file"        : "loc/apache__fineract-cn-fims-web-app.json"},
+"TypeScript" :{
+  "nFiles": 896,
+  "blank": 8601,
+  "comment": 16336,
+  "code": 36492},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 13952},
+"HTML" :{
+  "nFiles": 238,
+  "blank": 823,
+  "comment": 3365,
+  "code": 5733},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 31,
+  "comment": 16,
+  "code": 343},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 59,
+  "code": 148},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 62,
+  "comment": 0,
+  "code": 137},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 18,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 2,
+  "code": 12},
+"SUM": {
+  "blank": 9546,
+  "comment": 19796,
+  "code": 56834,
+  "nFiles": 1170} }

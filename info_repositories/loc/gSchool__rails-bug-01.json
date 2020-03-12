@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.99866604804993,
+  "n_files"            : 48,
+  "n_lines"            : 1382,
+  "files_per_second"   : 4.80064038235996,
+  "lines_per_second"   : 138.218437675447,
+  "report_file"        : "loc/gSchool__rails-bug-01.json"},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 104,
+  "comment": 0,
+  "code": 429},
+"Ruby" :{
+  "nFiles": 34,
+  "blank": 94,
+  "comment": 146,
+  "code": 219},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"ERB" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 61},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 27},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 19},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 30,
+  "code": 18},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 245,
+  "comment": 182,
+  "code": 955,
+  "nFiles": 48} }

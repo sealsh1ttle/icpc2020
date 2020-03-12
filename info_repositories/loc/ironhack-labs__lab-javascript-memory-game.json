@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.04663395881653,
+  "n_files"            : 13,
+  "n_lines"            : 6745,
+  "files_per_second"   : 4.267004233436,
+  "lines_per_second"   : 2213.91873496352,
+  "report_file"        : "loc/ironhack-labs__lab-javascript-memory-game.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 1011,
+  "comment": 934,
+  "code": 4458},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 129},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 86},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 4,
+  "code": 37},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 1077,
+  "comment": 938,
+  "code": 4730,
+  "nFiles": 13} }

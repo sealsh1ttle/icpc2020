@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 231.891484022141,
+  "n_files"            : 732,
+  "n_lines"            : 121482,
+  "files_per_second"   : 3.15664890880646,
+  "lines_per_second"   : 523.874348004954,
+  "report_file"        : "loc/iLCSoft__lcgeo.json"},
+"XML" :{
+  "nFiles": 567,
+  "blank": 11598,
+  "comment": 5258,
+  "code": 56578},
+"C++" :{
+  "nFiles": 118,
+  "blank": 9664,
+  "comment": 7864,
+  "code": 24511},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 448,
+  "comment": 0,
+  "code": 1501},
+"Python" :{
+  "nFiles": 11,
+  "blank": 418,
+  "comment": 247,
+  "code": 973},
+"C/C++ Header" :{
+  "nFiles": 10,
+  "blank": 385,
+  "comment": 253,
+  "code": 912},
+"TeX" :{
+  "nFiles": 8,
+  "blank": 88,
+  "comment": 22,
+  "code": 282},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 55,
+  "comment": 30,
+  "code": 134},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 4,
+  "code": 107},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 35,
+  "code": 67},
+"SUM": {
+  "blank": 22704,
+  "comment": 13713,
+  "code": 85065,
+  "nFiles": 732} }

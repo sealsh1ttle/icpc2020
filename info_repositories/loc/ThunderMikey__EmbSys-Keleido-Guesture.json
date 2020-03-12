@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.152411937713623,
+  "n_files"            : 17,
+  "n_lines"            : 819,
+  "files_per_second"   : 111.539819354193,
+  "lines_per_second"   : 5373.59482653435,
+  "report_file"        : "loc/ThunderMikey__EmbSys-Keleido-Guesture.json"},
+"Python" :{
+  "nFiles": 14,
+  "blank": 132,
+  "comment": 144,
+  "code": 415},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 0,
+  "code": 84},
+"SUM": {
+  "blank": 176,
+  "comment": 144,
+  "code": 499,
+  "nFiles": 17} }

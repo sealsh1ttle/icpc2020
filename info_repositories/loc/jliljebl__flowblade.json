@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 95.0995380878448,
+  "n_files"            : 205,
+  "n_lines"            : 188250,
+  "files_per_second"   : 2.15563612738727,
+  "lines_per_second"   : 1979.50488283246,
+  "report_file"        : "loc/jliljebl__flowblade.json"},
+"PO File" :{
+  "nFiles": 11,
+  "blank": 21230,
+  "comment": 23636,
+  "code": 47057},
+"Python" :{
+  "nFiles": 114,
+  "blank": 12525,
+  "comment": 8389,
+  "code": 44956},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 4,
+  "code": 6442},
+"XML" :{
+  "nFiles": 10,
+  "blank": 961,
+  "comment": 331,
+  "code": 5708},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 516,
+  "comment": 5,
+  "code": 4031},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 944,
+  "comment": 535,
+  "code": 3876},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 719,
+  "comment": 20,
+  "code": 3501},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 830,
+  "comment": 0,
+  "code": 1801},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 36,
+  "comment": 22,
+  "code": 98},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 31},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 28},
+"SUM": {
+  "blank": 37776,
+  "comment": 32945,
+  "code": 117529,
+  "nFiles": 205} }

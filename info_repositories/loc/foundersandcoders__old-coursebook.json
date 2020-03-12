@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.04525804519653,
+  "n_files"            : 145,
+  "n_lines"            : 7602,
+  "files_per_second"   : 138.721725861231,
+  "lines_per_second"   : 7272.84524135917,
+  "report_file"        : "loc/foundersandcoders__old-coursebook.json"},
+"Markdown" :{
+  "nFiles": 144,
+  "blank": 2398,
+  "comment": 0,
+  "code": 5086},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 107},
+"SUM": {
+  "blank": 2409,
+  "comment": 0,
+  "code": 5193,
+  "nFiles": 145} }

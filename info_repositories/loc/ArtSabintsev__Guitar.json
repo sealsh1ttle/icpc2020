@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.504401922226,
+  "n_files"            : 45,
+  "n_lines"            : 4115,
+  "files_per_second"   : 1.83640474649512,
+  "lines_per_second"   : 167.929011818388,
+  "report_file"        : "loc/ArtSabintsev__Guitar.json"},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 100,
+  "comment": 0,
+  "code": 1932},
+"Swift" :{
+  "nFiles": 18,
+  "blank": 163,
+  "comment": 355,
+  "code": 519},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 59,
+  "code": 436},
+"XML" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 2,
+  "code": 170},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 99},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 80},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 6,
+  "code": 40},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 27},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 20},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 10,
+  "code": 3},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 352,
+  "comment": 436,
+  "code": 3327,
+  "nFiles": 45} }

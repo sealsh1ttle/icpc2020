@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.234400987625122,
+  "n_files"            : 2,
+  "n_lines"            : 68,
+  "files_per_second"   : 8.53238725767915,
+  "lines_per_second"   : 290.101166761091,
+  "report_file"        : "loc/gSchool__javascript-todo-list.json"},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 48},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 10,
+  "comment": 0,
+  "code": 58,
+  "nFiles": 2} }

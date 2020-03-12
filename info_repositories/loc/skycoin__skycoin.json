@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 379.950074911118,
+  "n_files"            : 1617,
+  "n_lines"            : 552755,
+  "files_per_second"   : 4.25582229554309,
+  "lines_per_second"   : 1454.80955656952,
+  "report_file"        : "loc/skycoin__skycoin.json"},
+"Go" :{
+  "nFiles": 1007,
+  "blank": 46210,
+  "comment": 44509,
+  "code": 380553},
+"JSON" :{
+  "nFiles": 27,
+  "blank": 170,
+  "comment": 0,
+  "code": 21918},
+"Markdown" :{
+  "nFiles": 72,
+  "blank": 4182,
+  "comment": 0,
+  "code": 15674},
+"TypeScript" :{
+  "nFiles": 197,
+  "blank": 2097,
+  "comment": 354,
+  "code": 10970},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 3,
+  "code": 5041},
+"Sass" :{
+  "nFiles": 54,
+  "blank": 600,
+  "comment": 18,
+  "code": 3011},
+"Assembly" :{
+  "nFiles": 30,
+  "blank": 591,
+  "comment": 647,
+  "code": 2959},
+"HTML" :{
+  "nFiles": 66,
+  "blank": 129,
+  "comment": 0,
+  "code": 2458},
+"Bourne Shell" :{
+  "nFiles": 45,
+  "blank": 630,
+  "comment": 550,
+  "code": 2368},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 262,
+  "comment": 270,
+  "code": 1578},
+"YAML" :{
+  "nFiles": 34,
+  "blank": 126,
+  "comment": 90,
+  "code": 807},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 138,
+  "comment": 315,
+  "code": 526},
+"Mathematica" :{
+  "nFiles": 19,
+  "blank": 1,
+  "comment": 0,
+  "code": 461},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 53,
+  "comment": 102,
+  "code": 391},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 60,
+  "comment": 52,
+  "code": 383},
+"TOML" :{
+  "nFiles": 8,
+  "blank": 120,
+  "comment": 112,
+  "code": 363},
+"make" :{
+  "nFiles": 6,
+  "blank": 96,
+  "comment": 25,
+  "code": 270},
+"Python" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 126,
+  "code": 166},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 12,
+  "code": 42},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"SUM": {
+  "blank": 55563,
+  "comment": 47192,
+  "code": 450000,
+  "nFiles": 1617} }

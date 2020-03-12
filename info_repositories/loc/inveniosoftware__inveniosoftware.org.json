@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.4259741306305,
+  "n_files"            : 63,
+  "n_lines"            : 4473,
+  "files_per_second"   : 2.80924251642436,
+  "lines_per_second"   : 199.45621866613,
+  "report_file"        : "loc/inveniosoftware__inveniosoftware.org.json"},
+"SVG" :{
+  "nFiles": 22,
+  "blank": 3,
+  "comment": 4,
+  "code": 1400},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 35,
+  "comment": 4,
+  "code": 1322},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 17,
+  "code": 945},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 479},
+"INI" :{
+  "nFiles": 12,
+  "blank": 28,
+  "comment": 0,
+  "code": 135},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 6,
+  "code": 27},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 125,
+  "comment": 31,
+  "code": 4317,
+  "nFiles": 63} }

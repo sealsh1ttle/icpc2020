@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.4819059371948,
+  "n_files"            : 256,
+  "n_lines"            : 8197,
+  "files_per_second"   : 3.85067179394409,
+  "lines_per_second"   : 123.296705839686,
+  "report_file"        : "loc/feedhenry-raincatcher__raincatcher-angularjs.json"},
+"JavaScript" :{
+  "nFiles": 171,
+  "blank": 587,
+  "comment": 561,
+  "code": 4153},
+"JSON" :{
+  "nFiles": 24,
+  "blank": 0,
+  "comment": 0,
+  "code": 750},
+"HTML" :{
+  "nFiles": 32,
+  "blank": 91,
+  "comment": 12,
+  "code": 657},
+"Sass" :{
+  "nFiles": 8,
+  "blank": 98,
+  "comment": 19,
+  "code": 577},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 177,
+  "comment": 0,
+  "code": 367},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 82},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 66},
+"SUM": {
+  "blank": 953,
+  "comment": 592,
+  "code": 6652,
+  "nFiles": 256} }

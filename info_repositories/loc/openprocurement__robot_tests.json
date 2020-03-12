@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.62148594856262,
+  "n_files"            : 36,
+  "n_lines"            : 26268,
+  "files_per_second"   : 4.17561429836836,
+  "lines_per_second"   : 3046.80656637611,
+  "report_file"        : "loc/openprocurement__robot_tests.json"},
+"RobotFramework" :{
+  "nFiles": 20,
+  "blank": 2733,
+  "comment": 1298,
+  "code": 10202},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 8110},
+"Python" :{
+  "nFiles": 12,
+  "blank": 419,
+  "comment": 273,
+  "code": 1943},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 29,
+  "code": 1233},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 10},
+"SUM": {
+  "blank": 3168,
+  "comment": 1602,
+  "code": 21498,
+  "nFiles": 36} }

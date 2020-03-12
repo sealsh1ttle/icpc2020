@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.2314641475677,
+  "n_files"            : 264,
+  "n_lines"            : 20021,
+  "files_per_second"   : 5.47360534592672,
+  "lines_per_second"   : 415.10247208636,
+  "report_file"        : "loc/GreatHearts__giving_profiles.json"},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 966,
+  "comment": 1590,
+  "code": 7134},
+"ERB" :{
+  "nFiles": 68,
+  "blank": 237,
+  "comment": 2,
+  "code": 2045},
+"Ruby" :{
+  "nFiles": 109,
+  "blank": 539,
+  "comment": 699,
+  "code": 1904},
+"Sass" :{
+  "nFiles": 30,
+  "blank": 183,
+  "comment": 16,
+  "code": 1730},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 68,
+  "comment": 101,
+  "code": 945},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 943},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 16,
+  "comment": 63,
+  "code": 284},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 66,
+  "comment": 0,
+  "code": 251},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 3,
+  "code": 202},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 2092,
+  "comment": 2474,
+  "code": 15455,
+  "nFiles": 264} }

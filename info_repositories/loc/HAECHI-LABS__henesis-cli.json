@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.1598660945892,
+  "n_files"            : 64,
+  "n_lines"            : 4111,
+  "files_per_second"   : 3.3403156203724,
+  "lines_per_second"   : 214.563086177359,
+  "report_file"        : "loc/HAECHI-LABS__henesis-cli.json"},
+"TypeScript" :{
+  "nFiles": 49,
+  "blank": 273,
+  "comment": 43,
+  "code": 2391},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 186,
+  "comment": 0,
+  "code": 409},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 156,
+  "code": 327},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 161},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 20,
+  "code": 34},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 19},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 539,
+  "comment": 219,
+  "code": 3353,
+  "nFiles": 64} }

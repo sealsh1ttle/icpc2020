@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.22675704956055,
+  "n_files"            : 33,
+  "n_lines"            : 3243,
+  "files_per_second"   : 4.56636355334606,
+  "lines_per_second"   : 448.749000106099,
+  "report_file"        : "loc/plone__plonecli.json"},
+"Python" :{
+  "nFiles": 12,
+  "blank": 255,
+  "comment": 358,
+  "code": 947},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 307,
+  "comment": 210,
+  "code": 309},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"make" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 6,
+  "code": 211},
+"INI" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 0,
+  "code": 157},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 86},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 680,
+  "comment": 577,
+  "code": 1986,
+  "nFiles": 33} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.0865650177002,
+  "n_files"            : 19,
+  "n_lines"            : 490,
+  "files_per_second"   : 3.7353302147685,
+  "lines_per_second"   : 96.3322002756086,
+  "report_file"        : "loc/bdellegrazie__ansible-role-ca-certificates.json"},
+"YAML" :{
+  "nFiles": 16,
+  "blank": 29,
+  "comment": 10,
+  "code": 360},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 50},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 11},
+"SUM": {
+  "blank": 55,
+  "comment": 14,
+  "code": 421,
+  "nFiles": 19} }

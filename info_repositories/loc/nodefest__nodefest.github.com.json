@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 172.784547805786,
+  "n_files"            : 528,
+  "n_lines"            : 158451,
+  "files_per_second"   : 3.05582881516398,
+  "lines_per_second"   : 917.043809832478,
+  "report_file"        : "loc/nodefest__nodefest.github.com.json"},
+"HTML" :{
+  "nFiles": 266,
+  "blank": 9296,
+  "comment": 3297,
+  "code": 59519},
+"JSON" :{
+  "nFiles": 54,
+  "blank": 40,
+  "comment": 0,
+  "code": 24591},
+"JavaScript" :{
+  "nFiles": 63,
+  "blank": 3935,
+  "comment": 15849,
+  "code": 24230},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 179,
+  "comment": 166,
+  "code": 7891},
+"EJS" :{
+  "nFiles": 53,
+  "blank": 336,
+  "comment": 23,
+  "code": 3319},
+"CSS" :{
+  "nFiles": 22,
+  "blank": 492,
+  "comment": 789,
+  "code": 3125},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 238,
+  "comment": 0,
+  "code": 652},
+"SVG" :{
+  "nFiles": 33,
+  "blank": 0,
+  "comment": 9,
+  "code": 466},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 14516,
+  "comment": 20133,
+  "code": 123802,
+  "nFiles": 528} }

@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 194.327910900116,
+  "n_files"            : 1298,
+  "n_lines"            : 394505,
+  "files_per_second"   : 6.67943165748933,
+  "lines_per_second"   : 2030.0995269937,
+  "report_file"        : "loc/fabiolb__fabio.json"},
+"Go" :{
+  "nFiles": 1000,
+  "blank": 34013,
+  "comment": 46080,
+  "code": 294784},
+"Markdown" :{
+  "nFiles": 175,
+  "blank": 2414,
+  "comment": 0,
+  "code": 6514},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 4,
+  "code": 3135},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 262,
+  "comment": 270,
+  "code": 1578},
+"Assembly" :{
+  "nFiles": 26,
+  "blank": 384,
+  "comment": 717,
+  "code": 1001},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 113,
+  "comment": 330,
+  "code": 697},
+"YAML" :{
+  "nFiles": 25,
+  "blank": 68,
+  "comment": 8,
+  "code": 365},
+"make" :{
+  "nFiles": 12,
+  "blank": 90,
+  "comment": 69,
+  "code": 268},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 34,
+  "comment": 17,
+  "code": 150},
+"HCL" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 30,
+  "code": 134},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 44,
+  "code": 74},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 12,
+  "comment": 39,
+  "code": 61},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 9,
+  "code": 51},
+"Protocol Buffers" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 344,
+  "code": 50},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 24,
+  "code": 44},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 45,
+  "code": 23},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 37487,
+  "comment": 48037,
+  "code": 308981,
+  "nFiles": 1298} }

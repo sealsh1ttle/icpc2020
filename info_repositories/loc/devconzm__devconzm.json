@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.299429893493652,
+  "n_files"            : 37,
+  "n_lines"            : 16886,
+  "files_per_second"   : 123.568156700374,
+  "lines_per_second"   : 56393.8349741221,
+  "report_file"        : "loc/devconzm__devconzm.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 13657},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 80,
+  "comment": 36,
+  "code": 1319},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 186,
+  "comment": 63,
+  "code": 986},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 85,
+  "comment": 0,
+  "code": 209},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 2,
+  "code": 131},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 106},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 355,
+  "comment": 121,
+  "code": 16410,
+  "nFiles": 37} }

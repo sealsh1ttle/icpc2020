@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.6539349555969,
+  "n_files"            : 156,
+  "n_lines"            : 44337,
+  "files_per_second"   : 4.63541634004543,
+  "lines_per_second"   : 1317.43880941407,
+  "report_file"        : "loc/likecoin__liker-land.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 32529},
+"Vuejs Component" :{
+  "nFiles": 45,
+  "blank": 876,
+  "comment": 128,
+  "code": 6249},
+"JavaScript" :{
+  "nFiles": 65,
+  "blank": 326,
+  "comment": 577,
+  "code": 2750},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 100,
+  "comment": 6,
+  "code": 406},
+"SVG" :{
+  "nFiles": 21,
+  "blank": 0,
+  "comment": 3,
+  "code": 204},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 113},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 22,
+  "comment": 0,
+  "code": 36},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1324,
+  "comment": 714,
+  "code": 42299,
+  "nFiles": 156} }

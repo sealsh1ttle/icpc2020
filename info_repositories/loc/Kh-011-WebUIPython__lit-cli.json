@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.98610901832581,
+  "n_files"            : 31,
+  "n_lines"            : 3971,
+  "files_per_second"   : 6.21727280451821,
+  "lines_per_second"   : 796.412590540058,
+  "report_file"        : "loc/Kh-011-WebUIPython__lit-cli.json"},
+"Python" :{
+  "nFiles": 30,
+  "blank": 661,
+  "comment": 275,
+  "code": 2968},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 52},
+"SUM": {
+  "blank": 676,
+  "comment": 275,
+  "code": 3020,
+  "nFiles": 31} }

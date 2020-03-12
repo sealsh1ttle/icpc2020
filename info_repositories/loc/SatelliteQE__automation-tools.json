@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.96263194084167,
+  "n_files"            : 24,
+  "n_lines"            : 6441,
+  "files_per_second"   : 4.83614345897462,
+  "lines_per_second"   : 1297.90000080231,
+  "report_file"        : "loc/SatelliteQE__automation-tools.json"},
+"Python" :{
+  "nFiles": 14,
+  "blank": 1000,
+  "comment": 1536,
+  "code": 3389},
+"make" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 8,
+  "code": 177},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 59,
+  "comment": 11,
+  "code": 97},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 4,
+  "code": 90},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1106,
+  "comment": 1559,
+  "code": 3776,
+  "nFiles": 24} }

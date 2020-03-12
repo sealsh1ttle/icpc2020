@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.4473819732666,
+  "n_files"            : 63,
+  "n_lines"            : 4361,
+  "files_per_second"   : 3.83039684385026,
+  "lines_per_second"   : 265.148581524301,
+  "report_file"        : "loc/goetas-webservices__soap-client.json"},
+"PHP" :{
+  "nFiles": 48,
+  "blank": 550,
+  "comment": 543,
+  "code": 2542},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 8,
+  "comment": 1,
+  "code": 232},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 82,
+  "comment": 0,
+  "code": 185},
+"XML" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 126},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 684,
+  "comment": 544,
+  "code": 3133,
+  "nFiles": 63} }

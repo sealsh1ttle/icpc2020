@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.46566295623779,
+  "n_files"            : 11,
+  "n_lines"            : 583,
+  "files_per_second"   : 4.46127479515053,
+  "lines_per_second"   : 236.447564142978,
+  "report_file"        : "loc/flowcommerce__standards.json"},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 186,
+  "comment": 0,
+  "code": 397},
+"SUM": {
+  "blank": 186,
+  "comment": 0,
+  "code": 397,
+  "nFiles": 11} }

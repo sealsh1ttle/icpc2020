@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 407.640278100967,
+  "n_files"            : 1204,
+  "n_lines"            : 94189,
+  "files_per_second"   : 2.95358448289005,
+  "lines_per_second"   : 231.059110347949,
+  "report_file"        : "loc/umijs__umi.json"},
+"JavaScript" :{
+  "nFiles": 652,
+  "blank": 3850,
+  "comment": 3299,
+  "code": 43619},
+"TypeScript" :{
+  "nFiles": 288,
+  "blank": 1966,
+  "comment": 1397,
+  "code": 19936},
+"Markdown" :{
+  "nFiles": 84,
+  "blank": 3557,
+  "comment": 0,
+  "code": 9019},
+"JSON" :{
+  "nFiles": 74,
+  "blank": 0,
+  "comment": 0,
+  "code": 2696},
+"LESS" :{
+  "nFiles": 49,
+  "blank": 151,
+  "comment": 67,
+  "code": 2644},
+"JSX" :{
+  "nFiles": 14,
+  "blank": 118,
+  "comment": 59,
+  "code": 1244},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 19,
+  "comment": 16,
+  "code": 189},
+"CSS" :{
+  "nFiles": 19,
+  "blank": 30,
+  "comment": 0,
+  "code": 105},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 4,
+  "code": 103},
+"EJS" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 30},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 28},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 5},
+"GraphQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"Stylus" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 9701,
+  "comment": 4845,
+  "code": 79643,
+  "nFiles": 1204} }

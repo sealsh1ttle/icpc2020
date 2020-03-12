@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.46688795089722,
+  "n_files"            : 8,
+  "n_lines"            : 822,
+  "files_per_second"   : 5.45372262080879,
+  "lines_per_second"   : 560.369999288103,
+  "report_file"        : "loc/marwan-at-work__mod.json"},
+"Go" :{
+  "nFiles": 7,
+  "blank": 84,
+  "comment": 11,
+  "code": 632},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 0,
+  "code": 57},
+"SUM": {
+  "blank": 122,
+  "comment": 11,
+  "code": 689,
+  "nFiles": 8} }

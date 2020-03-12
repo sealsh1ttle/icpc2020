@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.13641405105591,
+  "n_files"            : 10,
+  "n_lines"            : 7035,
+  "files_per_second"   : 4.68074060599703,
+  "lines_per_second"   : 3292.90101631891,
+  "report_file"        : "loc/ealush__linear-debounce.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6592},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 64,
+  "comment": 33,
+  "code": 286},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 33},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 76,
+  "comment": 33,
+  "code": 6926,
+  "nFiles": 10} }

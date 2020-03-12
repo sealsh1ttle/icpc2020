@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.2641499042511,
+  "n_files"            : 28,
+  "n_lines"            : 1539,
+  "files_per_second"   : 8.57803741290616,
+  "lines_per_second"   : 471.485699230807,
+  "report_file"        : "loc/valerymelou__django-active-link.json"},
+"Python" :{
+  "nFiles": 10,
+  "blank": 125,
+  "comment": 209,
+  "code": 288},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"make" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 6,
+  "code": 190},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 123,
+  "comment": 58,
+  "code": 180},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 5,
+  "code": 31},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 19},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 328,
+  "comment": 279,
+  "code": 932,
+  "nFiles": 28} }

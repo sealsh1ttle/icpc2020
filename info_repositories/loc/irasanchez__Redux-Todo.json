@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.02700209617615,
+  "n_files"            : 14,
+  "n_lines"            : 505,
+  "files_per_second"   : 3.47653158991244,
+  "lines_per_second"   : 125.403460921842,
+  "report_file"        : "loc/irasanchez__Redux-Todo.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 34,
+  "comment": 33,
+  "code": 252},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 51},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 29},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 18},
+"SUM": {
+  "blank": 59,
+  "comment": 53,
+  "code": 393,
+  "nFiles": 14} }

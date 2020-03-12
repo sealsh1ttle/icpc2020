@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.49312806129456,
+  "n_files"            : 21,
+  "n_lines"            : 3992,
+  "files_per_second"   : 8.42315335743153,
+  "lines_per_second"   : 1601.20134299365,
+  "report_file"        : "loc/Asutosh989__twitter-splitter.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3468},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 42,
+  "comment": 18,
+  "code": 195},
+"EJS" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 4,
+  "code": 175},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 46},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 3,
+  "code": 15},
+"SUM": {
+  "blank": 68,
+  "comment": 25,
+  "code": 3899,
+  "nFiles": 21} }

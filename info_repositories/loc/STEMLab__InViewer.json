@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.31644892692566,
+  "n_files"            : 155,
+  "n_lines"            : 52802,
+  "files_per_second"   : 117.740990045072,
+  "lines_per_second"   : 40109.4177829671,
+  "report_file"        : "loc/STEMLab__InViewer.json"},
+"JavaScript" :{
+  "nFiles": 128,
+  "blank": 1997,
+  "comment": 1435,
+  "code": 31019},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16830},
+"Sass" :{
+  "nFiles": 22,
+  "blank": 222,
+  "comment": 33,
+  "code": 1164},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 57},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 15},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 2238,
+  "comment": 1468,
+  "code": 49096,
+  "nFiles": 155} }

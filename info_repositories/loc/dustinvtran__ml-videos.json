@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.163679838180542,
+  "n_files"            : 1,
+  "n_lines"            : 172,
+  "files_per_second"   : 6.10948795597526,
+  "lines_per_second"   : 1050.83192842774,
+  "report_file"        : "loc/dustinvtran__ml-videos.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 139},
+"SUM": {
+  "blank": 33,
+  "comment": 0,
+  "code": 139,
+  "nFiles": 1} }

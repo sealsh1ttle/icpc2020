@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.304467916488647,
+  "n_files"            : 27,
+  "n_lines"            : 1007,
+  "files_per_second"   : 88.6792943945762,
+  "lines_per_second"   : 3307.4092390866,
+  "report_file"        : "loc/FDStemplate__MyAppRev.json"},
+"Java" :{
+  "nFiles": 4,
+  "blank": 61,
+  "comment": 60,
+  "code": 270},
+"XML" :{
+  "nFiles": 16,
+  "blank": 19,
+  "comment": 9,
+  "code": 265},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 3,
+  "code": 41},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 133,
+  "comment": 109,
+  "code": 765,
+  "nFiles": 27} }

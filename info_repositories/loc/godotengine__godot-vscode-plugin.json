@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.269107818603516,
+  "n_files"            : 22,
+  "n_lines"            : 2918,
+  "files_per_second"   : 81.751619533631,
+  "lines_per_second"   : 10843.2375363243,
+  "report_file"        : "loc/godotengine__godot-vscode-plugin.json"},
+"TypeScript" :{
+  "nFiles": 9,
+  "blank": 147,
+  "comment": 26,
+  "code": 1073},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 26,
+  "comment": 0,
+  "code": 771},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 117,
+  "comment": 43,
+  "code": 413},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 65,
+  "comment": 0,
+  "code": 204},
+"Python" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 365,
+  "comment": 69,
+  "code": 2484,
+  "nFiles": 22} }

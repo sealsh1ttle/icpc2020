@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.3576731681824,
+  "n_files"            : 81,
+  "n_lines"            : 5812,
+  "files_per_second"   : 5.27423647534144,
+  "lines_per_second"   : 378.442745613388,
+  "report_file"        : "loc/wesbos__JavaScript30.json"},
+"HTML" :{
+  "nFiles": 57,
+  "blank": 651,
+  "comment": 32,
+  "code": 3655},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 137,
+  "comment": 7,
+  "code": 889},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 21,
+  "code": 170},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 94},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 60},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"SUM": {
+  "blank": 840,
+  "comment": 62,
+  "code": 4910,
+  "nFiles": 81} }

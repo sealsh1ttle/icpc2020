@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.4191541671753,
+  "n_files"            : 1859,
+  "n_lines"            : 546266,
+  "files_per_second"   : 54.0106241707962,
+  "lines_per_second"   : 15870.9885009598,
+  "report_file"        : "loc/containers__skopeo.json"},
+"Go" :{
+  "nFiles": 1650,
+  "blank": 50073,
+  "comment": 71634,
+  "code": 395244},
+"YAML" :{
+  "nFiles": 34,
+  "blank": 446,
+  "comment": 163,
+  "code": 10261},
+"Markdown" :{
+  "nFiles": 71,
+  "blank": 2436,
+  "comment": 0,
+  "code": 7146},
+"Assembly" :{
+  "nFiles": 41,
+  "blank": 523,
+  "comment": 866,
+  "code": 2526},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 745},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 90,
+  "comment": 345,
+  "code": 653},
+"Bourne Again Shell" :{
+  "nFiles": 12,
+  "blank": 119,
+  "comment": 142,
+  "code": 591},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 544},
+"C" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 11,
+  "code": 360},
+"make" :{
+  "nFiles": 7,
+  "blank": 111,
+  "comment": 66,
+  "code": 343},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 37,
+  "comment": 6,
+  "code": 190},
+"Python" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 126,
+  "code": 166},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 18,
+  "code": 97},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 4,
+  "code": 13},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 8,
+  "code": 1},
+"SUM": {
+  "blank": 53993,
+  "comment": 73390,
+  "code": 418883,
+  "nFiles": 1859} }

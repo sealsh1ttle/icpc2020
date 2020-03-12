@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 86.1903800964355,
+  "n_files"            : 181,
+  "n_lines"            : 18553,
+  "files_per_second"   : 2.1000023412994,
+  "lines_per_second"   : 215.256041094629,
+  "report_file"        : "loc/InteractiveAdvertisingBureau__GDPR-Transparency-and-Consent-Framework.json"},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 1677,
+  "comment": 0,
+  "code": 4768},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 609,
+  "comment": 256,
+  "code": 3768},
+"JSX" :{
+  "nFiles": 42,
+  "blank": 286,
+  "comment": 10,
+  "code": 2363},
+"LESS" :{
+  "nFiles": 23,
+  "blank": 203,
+  "comment": 165,
+  "code": 1058},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 658},
+"Objective C" :{
+  "nFiles": 9,
+  "blank": 144,
+  "comment": 46,
+  "code": 486},
+"Java" :{
+  "nFiles": 9,
+  "blank": 134,
+  "comment": 131,
+  "code": 473},
+"XML" :{
+  "nFiles": 12,
+  "blank": 8,
+  "comment": 4,
+  "code": 417},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 16,
+  "comment": 0,
+  "code": 255},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"C/C++ Header" :{
+  "nFiles": 11,
+  "blank": 68,
+  "comment": 100,
+  "code": 104},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 3,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 18},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 3205,
+  "comment": 755,
+  "code": 14593,
+  "nFiles": 181} }

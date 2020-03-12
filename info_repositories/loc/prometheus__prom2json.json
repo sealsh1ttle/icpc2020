@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.26259398460388,
+  "n_files"            : 418,
+  "n_lines"            : 269429,
+  "files_per_second"   : 98.0623539351342,
+  "lines_per_second"   : 63207.7558813141,
+  "report_file"        : "loc/prometheus__prom2json.json"},
+"Go" :{
+  "nFiles": 359,
+  "blank": 22774,
+  "comment": 18697,
+  "code": 222819},
+"Assembly" :{
+  "nFiles": 34,
+  "blank": 262,
+  "comment": 310,
+  "code": 1568},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 468,
+  "comment": 0,
+  "code": 1358},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 301,
+  "code": 521},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 4,
+  "code": 109},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 53},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"make" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 13,
+  "code": 9},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 23599,
+  "comment": 19335,
+  "code": 226495,
+  "nFiles": 418} }

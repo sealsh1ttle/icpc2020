@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 49.1256840229034,
+  "n_files"            : 165,
+  "n_lines"            : 25897,
+  "files_per_second"   : 3.35873185853399,
+  "lines_per_second"   : 527.158054184574,
+  "report_file"        : "loc/glossier__solidus_retail.json"},
+"YAML" :{
+  "nFiles": 27,
+  "blank": 67,
+  "comment": 20,
+  "code": 19522},
+"Ruby" :{
+  "nFiles": 127,
+  "blank": 843,
+  "comment": 79,
+  "code": 3663},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 1632},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 42},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 8,
+  "code": 0},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 4,
+  "code": 0},
+"SUM": {
+  "blank": 927,
+  "comment": 111,
+  "code": 24859,
+  "nFiles": 165} }

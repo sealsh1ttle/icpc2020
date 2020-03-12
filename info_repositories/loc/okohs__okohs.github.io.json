@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.53483700752258,
+  "n_files"            : 25,
+  "n_lines"            : 4462,
+  "files_per_second"   : 4.51684484403455,
+  "lines_per_second"   : 806.166467763287,
+  "report_file"        : "loc/okohs__okohs.github.io.json"},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 546,
+  "comment": 282,
+  "code": 2073},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 43,
+  "comment": 64,
+  "code": 815},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 520},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 12,
+  "code": 78},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 602,
+  "comment": 358,
+  "code": 3502,
+  "nFiles": 25} }

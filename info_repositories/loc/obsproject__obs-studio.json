@@ -1,0 +1,149 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1009.69122695923,
+  "n_files"            : 3032,
+  "n_lines"            : 494614,
+  "files_per_second"   : 3.00289823170112,
+  "lines_per_second"   : 489.866591680283,
+  "report_file"        : "loc/obsproject__obs-studio.json"},
+"C" :{
+  "nFiles": 675,
+  "blank": 31480,
+  "comment": 27524,
+  "code": 133932},
+"C/C++ Header" :{
+  "nFiles": 486,
+  "blank": 12751,
+  "comment": 18505,
+  "code": 60153},
+"C++" :{
+  "nFiles": 169,
+  "blank": 14568,
+  "comment": 3880,
+  "code": 59567},
+"INI" :{
+  "nFiles": 1297,
+  "blank": 7477,
+  "comment": 0,
+  "code": 57238},
+"Qt" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 11849},
+"HTML" :{
+  "nFiles": 55,
+  "blank": 10,
+  "comment": 148,
+  "code": 8218},
+"CMake" :{
+  "nFiles": 113,
+  "blank": 1336,
+  "comment": 1102,
+  "code": 7130},
+"reStructuredText" :{
+  "nFiles": 54,
+  "blank": 6375,
+  "comment": 6937,
+  "code": 3680},
+"IDL" :{
+  "nFiles": 23,
+  "blank": 766,
+  "comment": 0,
+  "code": 3281},
+"Objective C" :{
+  "nFiles": 7,
+  "blank": 706,
+  "comment": 55,
+  "code": 2621},
+"Objective C++" :{
+  "nFiles": 5,
+  "blank": 544,
+  "comment": 44,
+  "code": 2170},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 1856},
+"make" :{
+  "nFiles": 14,
+  "blank": 244,
+  "comment": 233,
+  "code": 1734},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1624},
+"Bourne Shell" :{
+  "nFiles": 26,
+  "blank": 192,
+  "comment": 115,
+  "code": 884},
+"Python" :{
+  "nFiles": 6,
+  "blank": 191,
+  "comment": 256,
+  "code": 410},
+"Lua" :{
+  "nFiles": 4,
+  "blank": 89,
+  "comment": 51,
+  "code": 361},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 33,
+  "comment": 18,
+  "code": 320},
+"Assembly" :{
+  "nFiles": 2,
+  "blank": 70,
+  "comment": 284,
+  "code": 237},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 77,
+  "comment": 305,
+  "code": 207},
+"SWIG" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 5,
+  "code": 184},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 7,
+  "code": 112},
+"SVG" :{
+  "nFiles": 42,
+  "blank": 0,
+  "comment": 0,
+  "code": 103},
+"m4" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 99},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 1,
+  "code": 70},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 69},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 76994,
+  "comment": 59470,
+  "code": 358150,
+  "nFiles": 3032} }

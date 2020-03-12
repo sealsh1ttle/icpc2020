@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 306.783794164658,
+  "n_files"            : 1119,
+  "n_lines"            : 376501,
+  "files_per_second"   : 3.64751991886315,
+  "lines_per_second"   : 1227.25191865227,
+  "report_file"        : "loc/TypAnna__openscope.json"},
+"JSON" :{
+  "nFiles": 792,
+  "blank": 137,
+  "comment": 0,
+  "code": 317947},
+"JavaScript" :{
+  "nFiles": 226,
+  "blank": 7095,
+  "comment": 16970,
+  "code": 27024},
+"Markdown" :{
+  "nFiles": 55,
+  "blank": 1371,
+  "comment": 0,
+  "code": 4460},
+"LESS" :{
+  "nFiles": 22,
+  "blank": 129,
+  "comment": 37,
+  "code": 759},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 1,
+  "comment": 1,
+  "code": 356},
+"Handlebars" :{
+  "nFiles": 7,
+  "blank": 14,
+  "comment": 10,
+  "code": 166},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 8747,
+  "comment": 17018,
+  "code": 350736,
+  "nFiles": 1119} }

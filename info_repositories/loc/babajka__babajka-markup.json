@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.824073076248169,
+  "n_files"            : 138,
+  "n_lines"            : 36622,
+  "files_per_second"   : 167.460876926455,
+  "lines_per_second"   : 44440.2335855119,
+  "report_file"        : "loc/babajka__babajka-markup.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 27962},
+"Sass" :{
+  "nFiles": 50,
+  "blank": 875,
+  "comment": 52,
+  "code": 3616},
+"EJS" :{
+  "nFiles": 56,
+  "blank": 247,
+  "comment": 41,
+  "code": 2612},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 106,
+  "comment": 202,
+  "code": 628},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 91,
+  "comment": 0,
+  "code": 116},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 7,
+  "code": 11},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1326,
+  "comment": 302,
+  "code": 34994,
+  "nFiles": 138} }

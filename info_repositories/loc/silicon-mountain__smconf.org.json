@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 360.354854106903,
+  "n_files"            : 980,
+  "n_lines"            : 101647,
+  "files_per_second"   : 2.71954155419611,
+  "lines_per_second"   : 282.074735060584,
+  "report_file"        : "loc/silicon-mountain__smconf.org.json"},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 2411,
+  "comment": 298,
+  "code": 26334},
+"JavaScript" :{
+  "nFiles": 115,
+  "blank": 4624,
+  "comment": 4353,
+  "code": 17870},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 832,
+  "comment": 167,
+  "code": 16352},
+"SVG" :{
+  "nFiles": 735,
+  "blank": 11,
+  "comment": 736,
+  "code": 12595},
+"LESS" :{
+  "nFiles": 75,
+  "blank": 1178,
+  "comment": 1551,
+  "code": 7816},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 115,
+  "comment": 6,
+  "code": 2820},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 800},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 235,
+  "comment": 0,
+  "code": 388},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 16,
+  "code": 61},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 9422,
+  "comment": 7127,
+  "code": 85098,
+  "nFiles": 980} }

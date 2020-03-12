@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.343277931213379,
+  "n_files"            : 50,
+  "n_lines"            : 635,
+  "files_per_second"   : 145.654571569066,
+  "lines_per_second"   : 1849.81305892714,
+  "report_file"        : "loc/newbiecoderwarehouse__Pull-Request-Challenge.json"},
+"Markdown" :{
+  "nFiles": 50,
+  "blank": 20,
+  "comment": 0,
+  "code": 615},
+"SUM": {
+  "blank": 20,
+  "comment": 0,
+  "code": 615,
+  "nFiles": 50} }

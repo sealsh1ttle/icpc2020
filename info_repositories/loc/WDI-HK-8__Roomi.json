@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.6339671611786,
+  "n_files"            : 82,
+  "n_lines"            : 2686,
+  "files_per_second"   : 4.40056587471272,
+  "lines_per_second"   : 144.14536511559,
+  "report_file"        : "loc/WDI-HK-8__Roomi.json"},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 59,
+  "comment": 19,
+  "code": 808},
+"Ruby" :{
+  "nFiles": 47,
+  "blank": 135,
+  "comment": 212,
+  "code": 506},
+"ERB" :{
+  "nFiles": 12,
+  "blank": 63,
+  "comment": 0,
+  "code": 334},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 0,
+  "code": 303},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 15,
+  "code": 64},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 35,
+  "code": 21},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 21,
+  "code": 0},
+"SUM": {
+  "blank": 333,
+  "comment": 302,
+  "code": 2051,
+  "nFiles": 82} }

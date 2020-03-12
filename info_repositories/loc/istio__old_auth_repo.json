@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.738168954849243,
+  "n_files"            : 75,
+  "n_lines"            : 7248,
+  "files_per_second"   : 101.602755720494,
+  "lines_per_second"   : 9818.89031282854,
+  "report_file"        : "loc/istio__old_auth_repo.json"},
+"Go" :{
+  "nFiles": 48,
+  "blank": 787,
+  "comment": 955,
+  "code": 4457},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 106,
+  "comment": 69,
+  "code": 310},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 77,
+  "comment": 0,
+  "code": 116},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 6,
+  "code": 112},
+"Python" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 60},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 13,
+  "code": 38},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 24,
+  "code": 21},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 13,
+  "code": 17},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 4},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1023,
+  "comment": 1083,
+  "code": 5142,
+  "nFiles": 75} }

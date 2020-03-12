@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 534.491470098495,
+  "n_files"            : 2257,
+  "n_lines"            : 928668,
+  "files_per_second"   : 4.22270536812137,
+  "lines_per_second"   : 1737.47955197277,
+  "report_file"        : "loc/kubernetes-csi__external-snapshotter.json"},
+"Go" :{
+  "nFiles": 2183,
+  "blank": 69304,
+  "comment": 105660,
+  "code": 748680},
+"Assembly" :{
+  "nFiles": 33,
+  "blank": 253,
+  "comment": 300,
+  "code": 1558},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 194,
+  "comment": 556,
+  "code": 994},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 15,
+  "comment": 46,
+  "code": 323},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 282},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 114,
+  "comment": 0,
+  "code": 264},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 9,
+  "code": 39},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 13,
+  "code": 4},
+"SUM": {
+  "blank": 69904,
+  "comment": 106591,
+  "code": 752173,
+  "nFiles": 2257} }

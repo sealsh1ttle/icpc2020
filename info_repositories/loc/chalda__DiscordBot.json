@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.2668559551239,
+  "n_files"            : 53,
+  "n_lines"            : 2892,
+  "files_per_second"   : 4.70406298004519,
+  "lines_per_second"   : 256.682078080956,
+  "report_file"        : "loc/chalda__DiscordBot.json"},
+"JavaScript" :{
+  "nFiles": 29,
+  "blank": 193,
+  "comment": 195,
+  "code": 2242},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 4,
+  "comment": 0,
+  "code": 180},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 52},
+"SUM": {
+  "blank": 223,
+  "comment": 195,
+  "code": 2474,
+  "nFiles": 53} }

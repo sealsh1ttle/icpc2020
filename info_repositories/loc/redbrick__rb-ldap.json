@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.25954413414,
+  "n_files"            : 113,
+  "n_lines"            : 13704,
+  "files_per_second"   : 6.18854442202218,
+  "lines_per_second"   : 750.511617339752,
+  "report_file"        : "loc/redbrick__rb-ldap.json"},
+"Go" :{
+  "nFiles": 93,
+  "blank": 1368,
+  "comment": 1186,
+  "code": 8268},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 468,
+  "comment": 0,
+  "code": 1748},
+"Python" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 127,
+  "code": 166},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 11,
+  "comment": 0,
+  "code": 107},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 93},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 7,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 2,
+  "code": 14},
+"SUM": {
+  "blank": 1951,
+  "comment": 1322,
+  "code": 10431,
+  "nFiles": 113} }

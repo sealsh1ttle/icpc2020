@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.757852077484131,
+  "n_files"            : 68,
+  "n_lines"            : 60898,
+  "files_per_second"   : 89.7272726700731,
+  "lines_per_second"   : 80356.0507509134,
+  "report_file"        : "loc/rowe42__lhm_animad_admin_html5.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 0,
+  "code": 51421},
+"HTML" :{
+  "nFiles": 54,
+  "blank": 816,
+  "comment": 281,
+  "code": 8172},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 15,
+  "code": 62},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 27},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 26},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 20,
+  "code": 24},
+"SUM": {
+  "blank": 850,
+  "comment": 316,
+  "code": 59732,
+  "nFiles": 68} }

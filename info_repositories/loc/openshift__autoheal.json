@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 289.166505098343,
+  "n_files"            : 1540,
+  "n_lines"            : 677132,
+  "files_per_second"   : 5.3256513906279,
+  "lines_per_second"   : 2341.66816716796,
+  "report_file"        : "loc/openshift__autoheal.json"},
+"Go" :{
+  "nFiles": 1442,
+  "blank": 45295,
+  "comment": 74136,
+  "code": 549466},
+"Bourne Shell" :{
+  "nFiles": 42,
+  "blank": 638,
+  "comment": 1325,
+  "code": 2907},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 174,
+  "comment": 0,
+  "code": 579},
+"Assembly" :{
+  "nFiles": 25,
+  "blank": 223,
+  "comment": 252,
+  "code": 428},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 66,
+  "comment": 351,
+  "code": 356},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 340},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 203},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 12,
+  "code": 52},
+"make" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 81,
+  "code": 41},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 30,
+  "code": 32},
+"C" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 7,
+  "code": 29},
+"awk" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 26},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 46457,
+  "comment": 76202,
+  "code": 554473,
+  "nFiles": 1540} }

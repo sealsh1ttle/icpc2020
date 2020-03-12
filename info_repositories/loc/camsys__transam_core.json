@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 330.154377937317,
+  "n_files"            : 1501,
+  "n_lines"            : 265628,
+  "files_per_second"   : 4.54635800796493,
+  "lines_per_second"   : 804.556951991811,
+  "report_file"        : "loc/camsys__transam_core.json"},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 71824,
+  "comment": 7,
+  "code": 92174},
+"Ruby" :{
+  "nFiles": 877,
+  "blank": 7128,
+  "comment": 6281,
+  "code": 27484},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25237},
+"JavaScript" :{
+  "nFiles": 61,
+  "blank": 2559,
+  "comment": 1568,
+  "code": 13618},
+"Haml" :{
+  "nFiles": 454,
+  "blank": 1413,
+  "comment": 371,
+  "code": 10266},
+"CSS" :{
+  "nFiles": 21,
+  "blank": 278,
+  "comment": 288,
+  "code": 1691},
+"ERB" :{
+  "nFiles": 51,
+  "blank": 193,
+  "comment": 0,
+  "code": 1202},
+"Sass" :{
+  "nFiles": 8,
+  "blank": 187,
+  "comment": 133,
+  "code": 1083},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 229},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 15,
+  "comment": 40,
+  "code": 67},
+"Cucumber" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 41,
+  "code": 57},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 46},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 16,
+  "code": 37},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 6,
+  "code": 25},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 83646,
+  "comment": 8751,
+  "code": 173231,
+  "nFiles": 1501} }

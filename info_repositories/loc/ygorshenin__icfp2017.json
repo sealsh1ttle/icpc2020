@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.02592897415161,
+  "n_files"            : 47,
+  "n_lines"            : 2611,
+  "files_per_second"   : 9.35150501364451,
+  "lines_per_second"   : 519.505948736719,
+  "report_file"        : "loc/ygorshenin__icfp2017.json"},
+"Go" :{
+  "nFiles": 19,
+  "blank": 274,
+  "comment": 12,
+  "code": 1448},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 108,
+  "comment": 77,
+  "code": 556},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 6,
+  "code": 41},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 26},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 25},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 401,
+  "comment": 98,
+  "code": 2112,
+  "nFiles": 47} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.587182998657227,
+  "n_files"            : 4,
+  "n_lines"            : 394,
+  "files_per_second"   : 6.81218633568619,
+  "lines_per_second"   : 671.000354065089,
+  "report_file"        : "loc/ga-wdi-exercises__landlord.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 65,
+  "comment": 0,
+  "code": 159},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 79},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 47,
+  "code": 19},
+"SUM": {
+  "blank": 90,
+  "comment": 47,
+  "code": 257,
+  "nFiles": 4} }

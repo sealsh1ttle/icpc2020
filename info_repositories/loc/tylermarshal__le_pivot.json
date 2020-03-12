@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 371.942770004272,
+  "n_files"            : 218,
+  "n_lines"            : 7925,
+  "files_per_second"   : 0.586111675184588,
+  "lines_per_second"   : 21.307041402926,
+  "report_file"        : "loc/tylermarshal__le_pivot.json"},
+"Ruby" :{
+  "nFiles": 158,
+  "blank": 718,
+  "comment": 385,
+  "code": 3060},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 177,
+  "comment": 167,
+  "code": 1370},
+"ERB" :{
+  "nFiles": 37,
+  "blank": 37,
+  "comment": 0,
+  "code": 1018},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 47,
+  "comment": 6,
+  "code": 312},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 33,
+  "code": 83},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 0,
+  "code": 69},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 21,
+  "comment": 107,
+  "code": 53},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 1069,
+  "comment": 704,
+  "code": 6152,
+  "nFiles": 218} }

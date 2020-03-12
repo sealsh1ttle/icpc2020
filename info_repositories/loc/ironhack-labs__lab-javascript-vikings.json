@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.9363169670105,
+  "n_files"            : 10,
+  "n_lines"            : 6998,
+  "files_per_second"   : 5.16444371989319,
+  "lines_per_second"   : 3614.07771518126,
+  "report_file"        : "loc/ironhack-labs__lab-javascript-vikings.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 1061,
+  "comment": 1140,
+  "code": 4389},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 106,
+  "comment": 0,
+  "code": 184},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 69},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 16},
+"SUM": {
+  "blank": 1176,
+  "comment": 1142,
+  "code": 4680,
+  "nFiles": 10} }

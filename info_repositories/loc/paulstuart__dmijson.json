@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.091526985168457,
+  "n_files"            : 5,
+  "n_lines"            : 846,
+  "files_per_second"   : 54.6286976545487,
+  "lines_per_second"   : 9243.17564314964,
+  "report_file"        : "loc/paulstuart__dmijson.json"},
+"Go" :{
+  "nFiles": 3,
+  "blank": 61,
+  "comment": 33,
+  "code": 568},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 33,
+  "code": 107},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 100,
+  "comment": 66,
+  "code": 680,
+  "nFiles": 5} }

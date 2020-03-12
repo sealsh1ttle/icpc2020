@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.62162709236145,
+  "n_files"            : 8,
+  "n_lines"            : 819,
+  "files_per_second"   : 4.9333166901832,
+  "lines_per_second"   : 505.048296157505,
+  "report_file"        : "loc/learn-co-curriculum__scraping-flatiron-code-along.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 173,
+  "comment": 0,
+  "code": 433},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 36,
+  "comment": 79,
+  "code": 98},
+"SUM": {
+  "blank": 209,
+  "comment": 79,
+  "code": 531,
+  "nFiles": 8} }

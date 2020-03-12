@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.77429699897766,
+  "n_files"            : 40,
+  "n_lines"            : 4983,
+  "files_per_second"   : 4.09236592710287,
+  "lines_per_second"   : 509.80648536884,
+  "report_file"        : "loc/mstahv__v-leaflet-markercluster-parent.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 460,
+  "comment": 349,
+  "code": 2293},
+"Java" :{
+  "nFiles": 25,
+  "blank": 237,
+  "comment": 122,
+  "code": 732},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 53,
+  "code": 479},
+"XML" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 7,
+  "code": 94},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 769,
+  "comment": 533,
+  "code": 3681,
+  "nFiles": 40} }

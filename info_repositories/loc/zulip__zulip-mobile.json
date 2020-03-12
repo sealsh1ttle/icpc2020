@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 182.531783103943,
+  "n_files"            : 700,
+  "n_lines"            : 80322,
+  "files_per_second"   : 3.83494856674569,
+  "lines_per_second"   : 440.04391254021,
+  "report_file"        : "loc/zulip__zulip-mobile.json"},
+"JavaScript" :{
+  "nFiles": 561,
+  "blank": 8680,
+  "comment": 6463,
+  "code": 51001},
+"JSON" :{
+  "nFiles": 37,
+  "blank": 4,
+  "comment": 0,
+  "code": 5162},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 1300,
+  "comment": 0,
+  "code": 3409},
+"Kotlin" :{
+  "nFiles": 5,
+  "blank": 123,
+  "comment": 195,
+  "code": 685},
+"Bourne Again Shell" :{
+  "nFiles": 12,
+  "blank": 135,
+  "comment": 53,
+  "code": 555},
+"Java" :{
+  "nFiles": 16,
+  "blank": 94,
+  "comment": 51,
+  "code": 490},
+"XML" :{
+  "nFiles": 19,
+  "blank": 11,
+  "comment": 24,
+  "code": 447},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 34,
+  "comment": 62,
+  "code": 319},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 111,
+  "code": 199},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 46,
+  "code": 147},
+"Objective C" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 35,
+  "code": 143},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 25,
+  "code": 31},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 12,
+  "code": 18},
+"SUM": {
+  "blank": 10517,
+  "comment": 7079,
+  "code": 62726,
+  "nFiles": 700} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0922849178314209,
+  "n_files"            : 8,
+  "n_lines"            : 2149,
+  "files_per_second"   : 86.6880546463052,
+  "lines_per_second"   : 23286.5786793637,
+  "report_file"        : "loc/nearprotocol__NEPs.json"},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 465,
+  "comment": 0,
+  "code": 1684},
+"SUM": {
+  "blank": 465,
+  "comment": 0,
+  "code": 1684,
+  "nFiles": 8} }

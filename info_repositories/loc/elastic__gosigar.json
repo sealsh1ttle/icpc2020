@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.98645186424255,
+  "n_files"            : 64,
+  "n_lines"            : 9560,
+  "files_per_second"   : 6.40868257014868,
+  "lines_per_second"   : 957.296958915958,
+  "report_file"        : "loc/elastic__gosigar.json"},
+"Go" :{
+  "nFiles": 58,
+  "blank": 1466,
+  "comment": 718,
+  "code": 6973},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 73,
+  "comment": 0,
+  "code": 188},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 20,
+  "code": 103},
+"SUM": {
+  "blank": 1558,
+  "comment": 738,
+  "code": 7264,
+  "nFiles": 64} }

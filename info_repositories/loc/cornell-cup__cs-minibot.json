@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.1134610176086,
+  "n_files"            : 84,
+  "n_lines"            : 12094,
+  "files_per_second"   : 5.21303274996015,
+  "lines_per_second"   : 750.552596166881,
+  "report_file"        : "loc/cornell-cup__cs-minibot.json"},
+"JavaScript" :{
+  "nFiles": 21,
+  "blank": 270,
+  "comment": 541,
+  "code": 6493},
+"Python" :{
+  "nFiles": 39,
+  "blank": 439,
+  "comment": 1042,
+  "code": 1528},
+"C++" :{
+  "nFiles": 3,
+  "blank": 65,
+  "comment": 24,
+  "code": 512},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 50,
+  "comment": 31,
+  "code": 289},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 33,
+  "code": 288},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 0,
+  "code": 130},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 28,
+  "comment": 31,
+  "code": 122},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 0,
+  "code": 83},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 9},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 929,
+  "comment": 1702,
+  "code": 9463,
+  "nFiles": 84} }

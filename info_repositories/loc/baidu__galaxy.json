@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.7706301212311,
+  "n_files"            : 194,
+  "n_lines"            : 36742,
+  "files_per_second"   : 3.97780384460415,
+  "lines_per_second"   : 753.36324153838,
+  "report_file"        : "loc/baidu__galaxy.json"},
+"C++" :{
+  "nFiles": 106,
+  "blank": 4116,
+  "comment": 924,
+  "code": 23050},
+"C/C++ Header" :{
+  "nFiles": 72,
+  "blank": 806,
+  "comment": 340,
+  "code": 4192},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 125,
+  "comment": 0,
+  "code": 1063},
+"Protocol Buffers" :{
+  "nFiles": 5,
+  "blank": 221,
+  "comment": 65,
+  "code": 1042},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 36,
+  "code": 298},
+"Python" :{
+  "nFiles": 2,
+  "blank": 72,
+  "comment": 16,
+  "code": 243},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 87},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 5379,
+  "comment": 1381,
+  "code": 29982,
+  "nFiles": 194} }

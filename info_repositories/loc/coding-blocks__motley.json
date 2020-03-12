@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.84352993965149,
+  "n_files"            : 431,
+  "n_lines"            : 42428,
+  "files_per_second"   : 112.136501280664,
+  "lines_per_second"   : 11038.8108499676,
+  "report_file"        : "loc/coding-blocks__motley.json"},
+"Handlebars" :{
+  "nFiles": 164,
+  "blank": 1886,
+  "comment": 508,
+  "code": 22330},
+"Sass" :{
+  "nFiles": 204,
+  "blank": 1366,
+  "comment": 508,
+  "code": 6837},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 4600},
+"SVG" :{
+  "nFiles": 48,
+  "blank": 13,
+  "comment": 45,
+  "code": 2709},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 84,
+  "comment": 9,
+  "code": 685},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 143,
+  "comment": 59,
+  "code": 570},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 3515,
+  "comment": 1129,
+  "code": 37784,
+  "nFiles": 431} }

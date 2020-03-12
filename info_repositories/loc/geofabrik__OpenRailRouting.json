@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7563610076904,
+  "n_files"            : 35,
+  "n_lines"            : 18262,
+  "files_per_second"   : 3.25388855719664,
+  "lines_per_second"   : 1697.78608090071,
+  "report_file"        : "loc/geofabrik__OpenRailRouting.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 2663,
+  "comment": 3442,
+  "code": 8549},
+"Java" :{
+  "nFiles": 18,
+  "blank": 287,
+  "comment": 104,
+  "code": 1788},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 66,
+  "comment": 23,
+  "code": 620},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 81,
+  "comment": 0,
+  "code": 161},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 31,
+  "code": 159},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 64,
+  "comment": 74,
+  "code": 38},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 18},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 3168,
+  "comment": 3677,
+  "code": 11417,
+  "nFiles": 35} }

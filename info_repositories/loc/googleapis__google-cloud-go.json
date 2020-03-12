@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.1004779338837,
+  "n_files"            : 1158,
+  "n_lines"            : 311125,
+  "files_per_second"   : 88.3937216523144,
+  "lines_per_second"   : 23749.1335484252,
+  "report_file"        : "loc/googleapis__google-cloud-go.json"},
+"Go" :{
+  "nFiles": 796,
+  "blank": 32557,
+  "comment": 40458,
+  "code": 218257},
+"JSON" :{
+  "nFiles": 299,
+  "blank": 0,
+  "comment": 0,
+  "code": 14025},
+"Markdown" :{
+  "nFiles": 35,
+  "blank": 528,
+  "comment": 0,
+  "code": 2106},
+"m4" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 1658},
+"Protocol Buffers" :{
+  "nFiles": 7,
+  "blank": 84,
+  "comment": 189,
+  "code": 256},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 80,
+  "comment": 197,
+  "code": 236},
+"C" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 19,
+  "code": 75},
+"awk" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 37,
+  "code": 64},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 6,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 35},
+"make" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 18,
+  "code": 30},
+"Python" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 21},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 10},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 33383,
+  "comment": 40927,
+  "code": 236815,
+  "nFiles": 1158} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 243.95468711853,
+  "n_files"            : 836,
+  "n_lines"            : 700597,
+  "files_per_second"   : 3.42686590642881,
+  "lines_per_second"   : 2871.83250412238,
+  "report_file"        : "loc/chartjs__chartjs.github.io.json"},
+"HTML" :{
+  "nFiles": 748,
+  "blank": 217149,
+  "comment": 363,
+  "code": 217258},
+"JavaScript" :{
+  "nFiles": 56,
+  "blank": 39280,
+  "comment": 34490,
+  "code": 188879},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 78,
+  "comment": 257,
+  "code": 1976},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 1,
+  "code": 843},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 10},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 256513,
+  "comment": 35111,
+  "code": 408973,
+  "nFiles": 836} }

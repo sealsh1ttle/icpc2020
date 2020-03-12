@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.554477214813232,
+  "n_files"            : 95,
+  "n_lines"            : 14174,
+  "files_per_second"   : 171.332558781517,
+  "lines_per_second"   : 25562.8177702023,
+  "report_file"        : "loc/ICB-DCM__pyPESTO.json"},
+"Python" :{
+  "nFiles": 56,
+  "blank": 1912,
+  "comment": 2791,
+  "code": 4626},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 1074},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 530},
+"Jupyter Notebook" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 2226,
+  "code": 311},
+"reStructuredText" :{
+  "nFiles": 19,
+  "blank": 140,
+  "comment": 82,
+  "code": 228},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 0,
+  "code": 65},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 3,
+  "code": 44},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 27},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2114,
+  "comment": 5115,
+  "code": 6945,
+  "nFiles": 95} }

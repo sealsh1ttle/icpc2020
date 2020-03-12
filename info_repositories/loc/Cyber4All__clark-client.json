@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.79758596420288,
+  "n_files"            : 1006,
+  "n_lines"            : 78401,
+  "files_per_second"   : 114.349550444109,
+  "lines_per_second"   : 8911.64920911388,
+  "report_file"        : "loc/Cyber4All__clark-client.json"},
+"TypeScript" :{
+  "nFiles": 415,
+  "blank": 3211,
+  "comment": 4348,
+  "code": 22245},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 13761},
+"Sass" :{
+  "nFiles": 140,
+  "blank": 1819,
+  "comment": 50,
+  "code": 10705},
+"HTML" :{
+  "nFiles": 164,
+  "blank": 686,
+  "comment": 181,
+  "code": 8443},
+"JavaScript" :{
+  "nFiles": 233,
+  "blank": 288,
+  "comment": 1454,
+  "code": 4462},
+"CSS" :{
+  "nFiles": 25,
+  "blank": 216,
+  "comment": 155,
+  "code": 2867},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 623,
+  "comment": 0,
+  "code": 2554},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 179},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 14,
+  "code": 54},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 29},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 11},
+"SUM": {
+  "blank": 6882,
+  "comment": 6209,
+  "code": 65310,
+  "nFiles": 1006} }

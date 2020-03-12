@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.3331999778748,
+  "n_files"            : 119,
+  "n_lines"            : 8005,
+  "files_per_second"   : 5.57815986928441,
+  "lines_per_second"   : 375.23672061867,
+  "report_file"        : "loc/pcgeek86__PSGitHub.json"},
+"PowerShell" :{
+  "nFiles": 67,
+  "blank": 819,
+  "comment": 1168,
+  "code": 3199},
+"XML" :{
+  "nFiles": 37,
+  "blank": 0,
+  "comment": 16,
+  "code": 2016},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 7,
+  "comment": 0,
+  "code": 378},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 84,
+  "comment": 0,
+  "code": 196},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 26,
+  "code": 64},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 929,
+  "comment": 1210,
+  "code": 5866,
+  "nFiles": 119} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0899031162261963,
+  "n_files"            : 6,
+  "n_lines"            : 1169,
+  "files_per_second"   : 66.7385097631543,
+  "lines_per_second"   : 13002.8863188546,
+  "report_file"        : "loc/mazipan__awesome-sde-id-medium.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 942},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 0,
+  "code": 144},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 63,
+  "comment": 0,
+  "code": 1106,
+  "nFiles": 6} }

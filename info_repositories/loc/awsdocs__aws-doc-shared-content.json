@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.197517871856689,
+  "n_files"            : 12,
+  "n_lines"            : 568,
+  "files_per_second"   : 60.7539960166576,
+  "lines_per_second"   : 2875.68914478846,
+  "report_file"        : "loc/awsdocs__aws-doc-shared-content.json"},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 97,
+  "comment": 85,
+  "code": 147},
+"Python" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 65,
+  "code": 78},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 0,
+  "code": 40},
+"SUM": {
+  "blank": 153,
+  "comment": 150,
+  "code": 265,
+  "nFiles": 12} }

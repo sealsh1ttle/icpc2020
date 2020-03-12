@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 340.203078985214,
+  "n_files"            : 1250,
+  "n_lines"            : 528237,
+  "files_per_second"   : 3.67427597577483,
+  "lines_per_second"   : 1552.7108148923,
+  "report_file"        : "loc/wintoncode__vault-plugin-auth-kerberos.json"},
+"Go" :{
+  "nFiles": 1084,
+  "blank": 39306,
+  "comment": 57637,
+  "code": 418366},
+"Assembly" :{
+  "nFiles": 40,
+  "blank": 628,
+  "comment": 992,
+  "code": 3201},
+"Markdown" :{
+  "nFiles": 54,
+  "blank": 1048,
+  "comment": 0,
+  "code": 2945},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 125,
+  "comment": 375,
+  "code": 723},
+"YAML" :{
+  "nFiles": 27,
+  "blank": 67,
+  "comment": 5,
+  "code": 387},
+"Protocol Buffers" :{
+  "nFiles": 9,
+  "blank": 168,
+  "comment": 588,
+  "code": 357},
+"make" :{
+  "nFiles": 10,
+  "blank": 73,
+  "comment": 27,
+  "code": 256},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 28,
+  "comment": 19,
+  "code": 254},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 22,
+  "code": 218},
+"Handlebars" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 91},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 25,
+  "code": 63},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 53},
+"C" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 30,
+  "code": 40},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 9,
+  "code": 33},
+"SUM": {
+  "blank": 41518,
+  "comment": 59732,
+  "code": 426987,
+  "nFiles": 1250} }

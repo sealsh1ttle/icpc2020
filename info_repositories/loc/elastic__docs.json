@@ -1,0 +1,154 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 536.699249982834,
+  "n_files"            : 1788,
+  "n_lines"            : 480654,
+  "files_per_second"   : 3.33147475063024,
+  "lines_per_second"   : 895.574197309524,
+  "report_file"        : "loc/elastic__docs.json"},
+"XML" :{
+  "nFiles": 894,
+  "blank": 12631,
+  "comment": 2469,
+  "code": 158202},
+"XSLT" :{
+  "nFiles": 321,
+  "blank": 19533,
+  "comment": 12109,
+  "code": 154417},
+"JavaScript" :{
+  "nFiles": 64,
+  "blank": 2410,
+  "comment": 3912,
+  "code": 17926},
+"XSD" :{
+  "nFiles": 38,
+  "blank": 210,
+  "comment": 1291,
+  "code": 13009},
+"CSS" :{
+  "nFiles": 30,
+  "blank": 1701,
+  "comment": 431,
+  "code": 12471},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 856,
+  "comment": 69,
+  "code": 12410},
+"Perl" :{
+  "nFiles": 89,
+  "blank": 3690,
+  "comment": 4691,
+  "code": 9684},
+"Ruby" :{
+  "nFiles": 65,
+  "blank": 765,
+  "comment": 1022,
+  "code": 8070},
+"Python" :{
+  "nFiles": 14,
+  "blank": 598,
+  "comment": 1822,
+  "code": 7432},
+"SVG" :{
+  "nFiles": 114,
+  "blank": 19,
+  "comment": 83,
+  "code": 4267},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 529,
+  "comment": 599,
+  "code": 3445},
+"AsciiDoc" :{
+  "nFiles": 80,
+  "blank": 591,
+  "comment": 283,
+  "code": 2169},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 10,
+  "code": 1618},
+"XHTML" :{
+  "nFiles": 1,
+  "blank": 146,
+  "comment": 2,
+  "code": 763},
+"DTD" :{
+  "nFiles": 6,
+  "blank": 164,
+  "comment": 298,
+  "code": 433},
+"JSX" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 15,
+  "code": 248},
+"vim script" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 36,
+  "code": 164},
+"make" :{
+  "nFiles": 6,
+  "blank": 44,
+  "comment": 20,
+  "code": 130},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 16,
+  "code": 126},
+"Forth" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 0,
+  "code": 75},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 74},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 51,
+  "code": 67},
+"Verilog-SystemVerilog" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 1,
+  "code": 64},
+"Java" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 12,
+  "code": 14},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 7,
+  "code": 11},
+"C#" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 11},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"m4" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 44088,
+  "comment": 29251,
+  "code": 407315,
+  "nFiles": 1788} }

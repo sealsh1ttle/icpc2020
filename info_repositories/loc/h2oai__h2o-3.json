@@ -1,0 +1,159 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1445.42027497292,
+  "n_files"            : 5321,
+  "n_lines"            : 794458,
+  "files_per_second"   : 3.68128224858317,
+  "lines_per_second"   : 549.638062891353,
+  "report_file"        : "loc/h2oai__h2o-3.json"},
+"Java" :{
+  "nFiles": 1843,
+  "blank": 36679,
+  "comment": 41012,
+  "code": 223842},
+"Python" :{
+  "nFiles": 1387,
+  "blank": 27759,
+  "comment": 37295,
+  "code": 87594},
+"R" :{
+  "nFiles": 1217,
+  "blank": 13790,
+  "comment": 15202,
+  "code": 47874},
+"JavaScript" :{
+  "nFiles": 67,
+  "blank": 6880,
+  "comment": 13941,
+  "code": 31693},
+"CSS" :{
+  "nFiles": 27,
+  "blank": 2268,
+  "comment": 409,
+  "code": 26414},
+"Markdown" :{
+  "nFiles": 76,
+  "blank": 6955,
+  "comment": 1,
+  "code": 17247},
+"reStructuredText" :{
+  "nFiles": 251,
+  "blank": 11833,
+  "comment": 13533,
+  "code": 15469},
+"TeX" :{
+  "nFiles": 30,
+  "blank": 3203,
+  "comment": 387,
+  "code": 8224},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 151,
+  "comment": 0,
+  "code": 6344},
+"Jupyter Notebook" :{
+  "nFiles": 54,
+  "blank": 0,
+  "comment": 68200,
+  "code": 3887},
+"Gradle" :{
+  "nFiles": 96,
+  "blank": 640,
+  "comment": 549,
+  "code": 3200},
+"Groovy" :{
+  "nFiles": 27,
+  "blank": 433,
+  "comment": 93,
+  "code": 3146},
+"HTML" :{
+  "nFiles": 22,
+  "blank": 309,
+  "comment": 61,
+  "code": 3045},
+"Bourne Shell" :{
+  "nFiles": 73,
+  "blank": 737,
+  "comment": 944,
+  "code": 2862},
+"INI" :{
+  "nFiles": 11,
+  "blank": 22,
+  "comment": 0,
+  "code": 1177},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 11,
+  "code": 912},
+"make" :{
+  "nFiles": 7,
+  "blank": 120,
+  "comment": 24,
+  "code": 816},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 75,
+  "comment": 85,
+  "code": 717},
+"XML" :{
+  "nFiles": 9,
+  "blank": 86,
+  "comment": 79,
+  "code": 650},
+"Scala" :{
+  "nFiles": 9,
+  "blank": 168,
+  "comment": 200,
+  "code": 633},
+"Bourne Again Shell" :{
+  "nFiles": 36,
+  "blank": 167,
+  "comment": 65,
+  "code": 617},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 81,
+  "comment": 5,
+  "code": 462},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 0,
+  "code": 442},
+"HCL" :{
+  "nFiles": 12,
+  "blank": 57,
+  "comment": 67,
+  "code": 383},
+"Rmd" :{
+  "nFiles": 6,
+  "blank": 318,
+  "comment": 757,
+  "code": 333},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 3,
+  "code": 238},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 51,
+  "code": 181},
+"Protocol Buffers" :{
+  "nFiles": 4,
+  "blank": 63,
+  "comment": 28,
+  "code": 139},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 112899,
+  "comment": 193002,
+  "code": 488557,
+  "nFiles": 5321} }

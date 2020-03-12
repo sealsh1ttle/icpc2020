@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 73.0893571376801,
+  "n_files"            : 241,
+  "n_lines"            : 68332,
+  "files_per_second"   : 3.29733369450798,
+  "lines_per_second"   : 934.910398394687,
+  "report_file"        : "loc/denoland__deno_std.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 5689,
+  "comment": 2304,
+  "code": 23140},
+"TypeScript" :{
+  "nFiles": 190,
+  "blank": 2790,
+  "comment": 3294,
+  "code": 20860},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 8066},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 458,
+  "comment": 0,
+  "code": 1339},
+"TOML" :{
+  "nFiles": 13,
+  "blank": 55,
+  "comment": 31,
+  "code": 249},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 1,
+  "code": 52},
+"SUM": {
+  "blank": 8996,
+  "comment": 5630,
+  "code": 53706,
+  "nFiles": 241} }

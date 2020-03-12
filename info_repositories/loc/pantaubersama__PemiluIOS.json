@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.69494199752808,
+  "n_files"            : 868,
+  "n_lines"            : 72501,
+  "files_per_second"   : 99.8281529936333,
+  "lines_per_second"   : 8338.29599100392,
+  "report_file"        : "loc/pantaubersama__PemiluIOS.json"},
+"Swift" :{
+  "nFiles": 500,
+  "blank": 6968,
+  "comment": 4435,
+  "code": 32101},
+"XML" :{
+  "nFiles": 162,
+  "blank": 0,
+  "comment": 1,
+  "code": 24204},
+"JSON" :{
+  "nFiles": 200,
+  "blank": 0,
+  "comment": 0,
+  "code": 4320},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 23,
+  "code": 162},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 0,
+  "code": 94},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 44,
+  "code": 27},
+"SUM": {
+  "blank": 7090,
+  "comment": 4503,
+  "code": 60908,
+  "nFiles": 868} }

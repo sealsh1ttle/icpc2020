@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.5954339504242,
+  "n_files"            : 170,
+  "n_lines"            : 129203,
+  "files_per_second"   : 4.64538828068821,
+  "lines_per_second"   : 3530.57707076329,
+  "report_file"        : "loc/mobxjs__mobx.json"},
+"JavaScript" :{
+  "nFiles": 49,
+  "blank": 6685,
+  "comment": 14738,
+  "code": 89109},
+"TypeScript" :{
+  "nFiles": 48,
+  "blank": 851,
+  "comment": 698,
+  "code": 6444},
+"Markdown" :{
+  "nFiles": 43,
+  "blank": 1948,
+  "comment": 0,
+  "code": 5472},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 3,
+  "code": 924},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 74,
+  "comment": 0,
+  "code": 715},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 126,
+  "comment": 61,
+  "code": 674},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 1,
+  "comment": 0,
+  "code": 477},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 28,
+  "comment": 19,
+  "code": 153},
+"SUM": {
+  "blank": 9716,
+  "comment": 15519,
+  "code": 103968,
+  "nFiles": 170} }

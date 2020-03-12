@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.9407658576965,
+  "n_files"            : 181,
+  "n_lines"            : 92321,
+  "files_per_second"   : 4.64808526523178,
+  "lines_per_second"   : 2370.80596558819,
+  "report_file"        : "loc/thugcrowd__site.json"},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 9226,
+  "comment": 8072,
+  "code": 37600},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 1471,
+  "comment": 180,
+  "code": 14203},
+"HTML" :{
+  "nFiles": 91,
+  "blank": 1253,
+  "comment": 201,
+  "code": 13441},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2671},
+"Sass" :{
+  "nFiles": 23,
+  "blank": 53,
+  "comment": 42,
+  "code": 2069},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 44,
+  "code": 1758},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 12038,
+  "comment": 8539,
+  "code": 71744,
+  "nFiles": 181} }

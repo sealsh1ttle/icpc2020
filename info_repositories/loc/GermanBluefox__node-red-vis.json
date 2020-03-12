@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.334778070449829,
+  "n_files"            : 5,
+  "n_lines"            : 778,
+  "files_per_second"   : 14.9352673945509,
+  "lines_per_second"   : 2323.92760659212,
+  "report_file"        : "loc/GermanBluefox__node-red-vis.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 57,
+  "comment": 70,
+  "code": 397},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 0,
+  "code": 117},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 50},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 40},
+"SUM": {
+  "blank": 104,
+  "comment": 70,
+  "code": 604,
+  "nFiles": 5} }

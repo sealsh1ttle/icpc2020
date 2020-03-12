@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.593601942062378,
+  "n_files"            : 56,
+  "n_lines"            : 5910,
+  "files_per_second"   : 94.3393139945545,
+  "lines_per_second"   : 9956.16688763959,
+  "report_file"        : "loc/beeware__cricket.json"},
+"Python" :{
+  "nFiles": 46,
+  "blank": 892,
+  "comment": 697,
+  "code": 3535},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 139,
+  "comment": 40,
+  "code": 230},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1082,
+  "comment": 751,
+  "code": 4077,
+  "nFiles": 56} }

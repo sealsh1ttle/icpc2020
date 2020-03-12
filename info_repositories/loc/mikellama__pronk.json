@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0427160263061523,
+  "n_files"            : 5,
+  "n_lines"            : 842,
+  "files_per_second"   : 117.052086356634,
+  "lines_per_second"   : 19711.5713424572,
+  "report_file"        : "loc/mikellama__pronk.json"},
+"Python" :{
+  "nFiles": 4,
+  "blank": 102,
+  "comment": 172,
+  "code": 555},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 107,
+  "comment": 172,
+  "code": 563,
+  "nFiles": 5} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.094365119934082,
+  "n_files"            : 3,
+  "n_lines"            : 122,
+  "files_per_second"   : 31.7914076948731,
+  "lines_per_second"   : 1292.85057959151,
+  "report_file"        : "loc/leebyron__grunt-jest.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 58},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 35,
+  "comment": 0,
+  "code": 87,
+  "nFiles": 3} }

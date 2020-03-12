@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.0706579685211,
+  "n_files"            : 61,
+  "n_lines"            : 10477,
+  "files_per_second"   : 3.37563801529869,
+  "lines_per_second"   : 579.779663709579,
+  "report_file"        : "loc/labstack__echo.json"},
+"Go" :{
+  "nFiles": 55,
+  "blank": 1271,
+  "comment": 1087,
+  "code": 7936},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 0,
+  "code": 99},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 6,
+  "code": 28},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1309,
+  "comment": 1093,
+  "code": 8075,
+  "nFiles": 61} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.923261165618896,
+  "n_files"            : 121,
+  "n_lines"            : 25078,
+  "files_per_second"   : 131.057174834045,
+  "lines_per_second"   : 27162.4118222164,
+  "report_file"        : "loc/ranger__ranger.json"},
+"Python" :{
+  "nFiles": 100,
+  "blank": 3264,
+  "comment": 2576,
+  "code": 12814},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 4624},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 182,
+  "comment": 0,
+  "code": 937},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 154,
+  "code": 161},
+"make" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 3,
+  "code": 122},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 0,
+  "code": 114},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 15,
+  "code": 24},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 3},
+"SUM": {
+  "blank": 3527,
+  "comment": 2752,
+  "code": 18799,
+  "nFiles": 121} }

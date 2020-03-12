@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 127.447021007538,
+  "n_files"            : 540,
+  "n_lines"            : 46924,
+  "files_per_second"   : 4.23705470501395,
+  "lines_per_second"   : 368.184361070509,
+  "report_file"        : "loc/wpilibsuite__shuffleboard.json"},
+"Java" :{
+  "nFiles": 438,
+  "blank": 6146,
+  "comment": 7099,
+  "code": 27727},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 359,
+  "comment": 573,
+  "code": 1375},
+"FXML" :{
+  "nFiles": 48,
+  "blank": 65,
+  "comment": 11,
+  "code": 1245},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 561},
+"Gradle" :{
+  "nFiles": 15,
+  "blank": 69,
+  "comment": 45,
+  "code": 527},
+"XML" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 11,
+  "code": 286},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 7,
+  "code": 136},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 50,
+  "comment": 0,
+  "code": 136},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Kotlin" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 56,
+  "code": 98},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 6780,
+  "comment": 7826,
+  "code": 32318,
+  "nFiles": 540} }

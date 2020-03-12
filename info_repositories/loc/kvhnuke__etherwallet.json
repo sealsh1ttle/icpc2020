@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 49.96737408638,
+  "n_files"            : 324,
+  "n_lines"            : 272811,
+  "files_per_second"   : 6.48423107926168,
+  "lines_per_second"   : 5459.782607915,
+  "report_file"        : "loc/kvhnuke__etherwallet.json"},
+"JavaScript" :{
+  "nFiles": 123,
+  "blank": 17721,
+  "comment": 35946,
+  "code": 150604},
+"JSON" :{
+  "nFiles": 43,
+  "blank": 8,
+  "comment": 0,
+  "code": 36952},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 3371,
+  "comment": 1065,
+  "code": 17650},
+"LESS" :{
+  "nFiles": 61,
+  "blank": 942,
+  "comment": 724,
+  "code": 6115},
+"SVG" :{
+  "nFiles": 70,
+  "blank": 0,
+  "comment": 7,
+  "code": 657},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 245,
+  "comment": 0,
+  "code": 654},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 66},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 22294,
+  "comment": 37743,
+  "code": 212774,
+  "nFiles": 324} }

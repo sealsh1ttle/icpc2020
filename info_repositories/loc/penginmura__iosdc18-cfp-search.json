@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.79798698425293,
+  "n_files"            : 46,
+  "n_lines"            : 1898,
+  "files_per_second"   : 4.69484191741936,
+  "lines_per_second"   : 193.713259983956,
+  "report_file"        : "loc/penginmura__iosdc18-cfp-search.json"},
+"YAML" :{
+  "nFiles": 18,
+  "blank": 9,
+  "comment": 27,
+  "code": 583},
+"Python" :{
+  "nFiles": 5,
+  "blank": 65,
+  "comment": 51,
+  "code": 313},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 14,
+  "code": 249},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 11,
+  "code": 122},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 59,
+  "comment": 71,
+  "code": 121},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 108},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 0,
+  "code": 24},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 187,
+  "comment": 174,
+  "code": 1537,
+  "nFiles": 46} }

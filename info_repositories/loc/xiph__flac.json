@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.81812000274658,
+  "n_files"            : 440,
+  "n_lines"            : 117651,
+  "files_per_second"   : 75.6258034884615,
+  "lines_per_second"   : 20221.4804686841,
+  "report_file"        : "loc/xiph__flac.json"},
+"C" :{
+  "nFiles": 100,
+  "blank": 7403,
+  "comment": 5714,
+  "code": 48069},
+"C++" :{
+  "nFiles": 13,
+  "blank": 1494,
+  "comment": 501,
+  "code": 7589},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 332,
+  "comment": 163,
+  "code": 6354},
+"MSBuild script" :{
+  "nFiles": 26,
+  "blank": 0,
+  "comment": 0,
+  "code": 6069},
+"XML" :{
+  "nFiles": 47,
+  "blank": 0,
+  "comment": 0,
+  "code": 5899},
+"C/C++ Header" :{
+  "nFiles": 100,
+  "blank": 1651,
+  "comment": 9247,
+  "code": 3915},
+"m4" :{
+  "nFiles": 21,
+  "blank": 214,
+  "comment": 316,
+  "code": 2644},
+"Assembly" :{
+  "nFiles": 4,
+  "blank": 283,
+  "comment": 503,
+  "code": 2476},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 379,
+  "comment": 350,
+  "code": 1794},
+"make" :{
+  "nFiles": 54,
+  "blank": 272,
+  "comment": 1047,
+  "code": 1338},
+"CMake" :{
+  "nFiles": 41,
+  "blank": 88,
+  "comment": 48,
+  "code": 634},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 429},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 28,
+  "code": 163},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 15,
+  "code": 153},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 12168,
+  "comment": 17933,
+  "code": 87550,
+  "nFiles": 440} }

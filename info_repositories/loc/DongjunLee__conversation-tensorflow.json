@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.93284821510315,
+  "n_files"            : 16,
+  "n_lines"            : 1843,
+  "files_per_second"   : 3.24356219820671,
+  "lines_per_second"   : 373.617820705935,
+  "report_file"        : "loc/DongjunLee__conversation-tensorflow.json"},
+"Python" :{
+  "nFiles": 9,
+  "blank": 322,
+  "comment": 68,
+  "code": 979},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 0,
+  "code": 217},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 0,
+  "code": 154},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 414,
+  "comment": 68,
+  "code": 1361,
+  "nFiles": 16} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.278893947601318,
+  "n_files"            : 40,
+  "n_lines"            : 10652,
+  "files_per_second"   : 143.423693285666,
+  "lines_per_second"   : 38193.7295219728,
+  "report_file"        : "loc/bwmarrin__discordgo.json"},
+"Go" :{
+  "nFiles": 29,
+  "blank": 1866,
+  "comment": 1711,
+  "code": 6482},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 163,
+  "comment": 0,
+  "code": 399},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 2032,
+  "comment": 1711,
+  "code": 6909,
+  "nFiles": 40} }

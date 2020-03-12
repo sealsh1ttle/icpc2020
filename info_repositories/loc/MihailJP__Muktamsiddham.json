@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0870528221130371,
+  "n_files"            : 4,
+  "n_lines"            : 197,
+  "files_per_second"   : 45.9491134567245,
+  "lines_per_second"   : 2262.99383774368,
+  "report_file"        : "loc/MihailJP__Muktamsiddham.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 18,
+  "code": 70},
+"make" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 5,
+  "code": 46},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 32,
+  "comment": 23,
+  "code": 142,
+  "nFiles": 4} }

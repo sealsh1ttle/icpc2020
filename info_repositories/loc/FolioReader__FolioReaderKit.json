@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.235020160675,
+  "n_files"            : 146,
+  "n_lines"            : 31979,
+  "files_per_second"   : 3.37689214570544,
+  "lines_per_second"   : 739.655026900783,
+  "report_file"        : "loc/FolioReader__FolioReaderKit.json"},
+"HTML" :{
+  "nFiles": 30,
+  "blank": 1057,
+  "comment": 0,
+  "code": 14124},
+"Swift" :{
+  "nFiles": 50,
+  "blank": 1868,
+  "comment": 1399,
+  "code": 6786},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 138,
+  "comment": 92,
+  "code": 2078},
+"JSON" :{
+  "nFiles": 35,
+  "blank": 0,
+  "comment": 0,
+  "code": 1954},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 97,
+  "comment": 100,
+  "code": 667},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 278,
+  "comment": 0,
+  "code": 616},
+"XML" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 9,
+  "code": 606},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 36},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 26},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 20,
+  "code": 6},
+"SUM": {
+  "blank": 3458,
+  "comment": 1622,
+  "code": 26899,
+  "nFiles": 146} }

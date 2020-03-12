@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 75.1411719322205,
+  "n_files"            : 359,
+  "n_lines"            : 86878,
+  "files_per_second"   : 4.77767368765327,
+  "lines_per_second"   : 1156.19703241209,
+  "report_file"        : "loc/joewalling__ReactAdvantage.json"},
+"JavaScript" :{
+  "nFiles": 127,
+  "blank": 8982,
+  "comment": 6649,
+  "code": 38387},
+"CSS" :{
+  "nFiles": 39,
+  "blank": 124,
+  "comment": 44,
+  "code": 15225},
+"C#" :{
+  "nFiles": 106,
+  "blank": 1569,
+  "comment": 471,
+  "code": 7389},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 4717},
+"Sass" :{
+  "nFiles": 34,
+  "blank": 295,
+  "comment": 0,
+  "code": 1427},
+"Razor" :{
+  "nFiles": 20,
+  "blank": 53,
+  "comment": 2,
+  "code": 662},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 293},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 63,
+  "comment": 0,
+  "code": 150},
+"MSBuild script" :{
+  "nFiles": 6,
+  "blank": 29,
+  "comment": 0,
+  "code": 141},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 92},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 5,
+  "code": 36},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 19},
+"SUM": {
+  "blank": 11148,
+  "comment": 7192,
+  "code": 68538,
+  "nFiles": 359} }

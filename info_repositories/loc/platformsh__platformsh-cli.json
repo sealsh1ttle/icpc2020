@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 103.456705093384,
+  "n_files"            : 315,
+  "n_lines"            : 37709,
+  "files_per_second"   : 3.0447519057916,
+  "lines_per_second"   : 364.490633699986,
+  "report_file"        : "loc/platformsh__platformsh-cli.json"},
+"PHP" :{
+  "nFiles": 261,
+  "blank": 4616,
+  "comment": 7041,
+  "code": 24778},
+"YAML" :{
+  "nFiles": 32,
+  "blank": 81,
+  "comment": 55,
+  "code": 362},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 325},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 60,
+  "comment": 0,
+  "code": 258},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 15,
+  "comment": 15,
+  "code": 42},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 38},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 4776,
+  "comment": 7111,
+  "code": 25822,
+  "nFiles": 315} }

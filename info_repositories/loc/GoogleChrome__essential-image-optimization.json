@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.4462480545044,
+  "n_files"            : 20,
+  "n_lines"            : 17633,
+  "files_per_second"   : 1.60690996293954,
+  "lines_per_second"   : 1416.73216882565,
+  "report_file"        : "loc/GoogleChrome__essential-image-optimization.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 13357},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 713,
+  "comment": 0,
+  "code": 2046},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 171,
+  "comment": 13,
+  "code": 789},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 213,
+  "code": 149},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 81},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 931,
+  "comment": 234,
+  "code": 16468,
+  "nFiles": 20} }

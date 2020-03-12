@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 44.0871639251709,
+  "n_files"            : 144,
+  "n_lines"            : 14779,
+  "files_per_second"   : 3.26625682351469,
+  "lines_per_second"   : 335.222288852247,
+  "report_file"        : "loc/Submitty__submitty.github.io.json"},
+"Markdown" :{
+  "nFiles": 124,
+  "blank": 3566,
+  "comment": 0,
+  "code": 8844},
+"Sass" :{
+  "nFiles": 8,
+  "blank": 253,
+  "comment": 12,
+  "code": 1260},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 6,
+  "code": 259},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 2,
+  "code": 181},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 178},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 18,
+  "code": 116},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 3886,
+  "comment": 38,
+  "code": 10855,
+  "nFiles": 144} }

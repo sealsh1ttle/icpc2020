@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.3397829532623,
+  "n_files"            : 1659,
+  "n_lines"            : 610254,
+  "files_per_second"   : 48.3113129240787,
+  "lines_per_second"   : 17771.0500043223,
+  "report_file"        : "loc/prometheus__alertmanager.json"},
+"Go" :{
+  "nFiles": 1394,
+  "blank": 52056,
+  "comment": 77416,
+  "code": 455988},
+"Elm" :{
+  "nFiles": 84,
+  "blank": 1323,
+  "comment": 202,
+  "code": 5131},
+"Markdown" :{
+  "nFiles": 69,
+  "blank": 1471,
+  "comment": 0,
+  "code": 4814},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2673},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 18,
+  "code": 2329},
+"Assembly" :{
+  "nFiles": 40,
+  "blank": 324,
+  "comment": 388,
+  "code": 1751},
+"YAML" :{
+  "nFiles": 31,
+  "blank": 91,
+  "comment": 89,
+  "code": 1191},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 84,
+  "comment": 312,
+  "code": 658},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 45,
+  "comment": 57,
+  "code": 401},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 20,
+  "code": 374},
+"make" :{
+  "nFiles": 11,
+  "blank": 64,
+  "comment": 155,
+  "code": 202},
+"Protocol Buffers" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 65,
+  "code": 168},
+"Python" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 6,
+  "code": 92},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 57},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 24},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 40,
+  "code": 15},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 55586,
+  "comment": 78775,
+  "code": 475893,
+  "nFiles": 1659} }

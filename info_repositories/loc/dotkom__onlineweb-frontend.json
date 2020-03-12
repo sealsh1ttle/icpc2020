@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 107.038331985474,
+  "n_files"            : 474,
+  "n_lines"            : 17877,
+  "files_per_second"   : 4.42832012801103,
+  "lines_per_second"   : 167.014934448214,
+  "report_file"        : "loc/dotkom__onlineweb-frontend.json"},
+"TypeScript" :{
+  "nFiles": 369,
+  "blank": 1827,
+  "comment": 682,
+  "code": 10706},
+"LESS" :{
+  "nFiles": 72,
+  "blank": 571,
+  "comment": 30,
+  "code": 3064},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 32,
+  "comment": 6,
+  "code": 380},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 242},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 0,
+  "code": 114},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 94},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 1,
+  "code": 58},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 13},
+"SUM": {
+  "blank": 2486,
+  "comment": 720,
+  "code": 14671,
+  "nFiles": 474} }

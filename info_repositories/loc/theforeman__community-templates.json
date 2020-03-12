@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.6888711452484,
+  "n_files"            : 155,
+  "n_lines"            : 7510,
+  "files_per_second"   : 8.29370585282291,
+  "lines_per_second"   : 401.843425514194,
+  "report_file"        : "loc/theforeman__community-templates.json"},
+"ERB" :{
+  "nFiles": 146,
+  "blank": 534,
+  "comment": 1796,
+  "code": 4632},
+"Ruby" :{
+  "nFiles": 6,
+  "blank": 42,
+  "comment": 0,
+  "code": 317},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 0,
+  "code": 123},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 13},
+"SUM": {
+  "blank": 628,
+  "comment": 1797,
+  "code": 5085,
+  "nFiles": 155} }

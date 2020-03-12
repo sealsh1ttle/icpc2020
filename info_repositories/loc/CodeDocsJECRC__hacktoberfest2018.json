@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0218279361724854,
+  "n_files"            : 1,
+  "n_lines"            : 125,
+  "files_per_second"   : 45.8128515723133,
+  "lines_per_second"   : 5726.60644653916,
+  "report_file"        : "loc/CodeDocsJECRC__hacktoberfest2018.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 94},
+"SUM": {
+  "blank": 31,
+  "comment": 0,
+  "code": 94,
+  "nFiles": 1} }

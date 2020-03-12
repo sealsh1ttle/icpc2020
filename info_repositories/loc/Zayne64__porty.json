@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.109588861465454,
+  "n_files"            : 1,
+  "n_lines"            : 10,
+  "files_per_second"   : 9.12501495706507,
+  "lines_per_second"   : 91.2501495706506,
+  "report_file"        : "loc/Zayne64__porty.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 2,
+  "comment": 0,
+  "code": 8,
+  "nFiles": 1} }

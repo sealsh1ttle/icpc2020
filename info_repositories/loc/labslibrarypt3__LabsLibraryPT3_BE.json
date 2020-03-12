@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.40735697746277,
+  "n_files"            : 25,
+  "n_lines"            : 1187,
+  "files_per_second"   : 3.90176481315697,
+  "lines_per_second"   : 185.255793328693,
+  "report_file"        : "loc/labslibrarypt3__LabsLibraryPT3_BE.json"},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 147,
+  "comment": 69,
+  "code": 918},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 53},
+"SUM": {
+  "blank": 147,
+  "comment": 69,
+  "code": 971,
+  "nFiles": 25} }

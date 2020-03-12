@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.13785910606384,
+  "n_files"            : 99,
+  "n_lines"            : 21246,
+  "files_per_second"   : 12.1653617628046,
+  "lines_per_second"   : 2610.76036376309,
+  "report_file"        : "loc/WCSim__WCSim.json"},
+"C++" :{
+  "nFiles": 52,
+  "blank": 2510,
+  "comment": 2349,
+  "code": 11554},
+"C/C++ Header" :{
+  "nFiles": 38,
+  "blank": 878,
+  "comment": 378,
+  "code": 2720},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 80,
+  "comment": 0,
+  "code": 281},
+"Python" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 5,
+  "code": 156},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 18,
+  "code": 101},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 48,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 33},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 3556,
+  "comment": 2798,
+  "code": 14892,
+  "nFiles": 99} }

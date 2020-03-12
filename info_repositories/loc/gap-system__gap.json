@@ -1,0 +1,189 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.4712769985199,
+  "n_files"            : 3148,
+  "n_lines"            : 1078273,
+  "files_per_second"   : 86.3144989446834,
+  "lines_per_second"   : 29564.9916520269,
+  "report_file"        : "loc/gap-system__gap.json"},
+"C" :{
+  "nFiles": 1047,
+  "blank": 54036,
+  "comment": 71309,
+  "code": 242879},
+"Assembly" :{
+  "nFiles": 779,
+  "blank": 19395,
+  "comment": 3184,
+  "code": 120574},
+"Bourne Shell" :{
+  "nFiles": 67,
+  "blank": 11385,
+  "comment": 12574,
+  "code": 70227},
+"XML" :{
+  "nFiles": 173,
+  "blank": 7523,
+  "comment": 3075,
+  "code": 67899},
+"ANTLR Grammar" :{
+  "nFiles": 243,
+  "blank": 4087,
+  "comment": 891,
+  "code": 58368},
+"C/C++ Header" :{
+  "nFiles": 345,
+  "blank": 11702,
+  "comment": 24337,
+  "code": 54929},
+"m4" :{
+  "nFiles": 55,
+  "blank": 4819,
+  "comment": 4069,
+  "code": 38181},
+"C++" :{
+  "nFiles": 50,
+  "blank": 3350,
+  "comment": 3637,
+  "code": 16970},
+"TeX" :{
+  "nFiles": 13,
+  "blank": 1792,
+  "comment": 3989,
+  "code": 14875},
+"GDScript" :{
+  "nFiles": 213,
+  "blank": 7836,
+  "comment": 96639,
+  "code": 9241},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 303,
+  "comment": 22,
+  "code": 5127},
+"MSBuild script" :{
+  "nFiles": 7,
+  "blank": 1,
+  "comment": 0,
+  "code": 4675},
+"Perl" :{
+  "nFiles": 17,
+  "blank": 1170,
+  "comment": 2024,
+  "code": 4654},
+"Ada" :{
+  "nFiles": 10,
+  "blank": 599,
+  "comment": 560,
+  "code": 1681},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 549,
+  "comment": 0,
+  "code": 1629},
+"make" :{
+  "nFiles": 42,
+  "blank": 425,
+  "comment": 998,
+  "code": 1475},
+"Pascal" :{
+  "nFiles": 5,
+  "blank": 219,
+  "comment": 551,
+  "code": 1200},
+"C#" :{
+  "nFiles": 9,
+  "blank": 230,
+  "comment": 506,
+  "code": 879},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 155,
+  "comment": 235,
+  "code": 694},
+"Python" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 67,
+  "code": 570},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 72,
+  "comment": 91,
+  "code": 385},
+"vim script" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 133,
+  "code": 296},
+"Windows Module Definition" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 17,
+  "code": 264},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 40,
+  "code": 226},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 110,
+  "code": 203},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 69,
+  "code": 180},
+"diff" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 167,
+  "code": 165},
+"Windows Resource File" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 14,
+  "code": 148},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 8,
+  "code": 94},
+"lex" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 16,
+  "code": 70},
+"SAS" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 22,
+  "code": 32},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 26},
+"Fortran 77" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 30,
+  "code": 24},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 130043,
+  "comment": 229384,
+  "code": 718846,
+  "nFiles": 3148} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.1467719078064,
+  "n_files"            : 32,
+  "n_lines"            : 2424,
+  "files_per_second"   : 4.47754600437808,
+  "lines_per_second"   : 339.174109831639,
+  "report_file"        : "loc/niw__HapticKey.json"},
+"Objective C" :{
+  "nFiles": 12,
+  "blank": 344,
+  "comment": 160,
+  "code": 1298},
+"C/C++ Header" :{
+  "nFiles": 12,
+  "blank": 106,
+  "comment": 85,
+  "code": 145},
+"make" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 6,
+  "code": 75},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 17,
+  "code": 52},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 509,
+  "comment": 268,
+  "code": 1647,
+  "nFiles": 32} }

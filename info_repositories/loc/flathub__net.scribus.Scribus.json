@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.469091892242432,
+  "n_files"            : 1,
+  "n_lines"            : 334,
+  "files_per_second"   : 2.13177847781515,
+  "lines_per_second"   : 712.014011590261,
+  "report_file"        : "loc/flathub__net.scribus.Scribus.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 10,
+  "code": 303},
+"SUM": {
+  "blank": 21,
+  "comment": 10,
+  "code": 303,
+  "nFiles": 1} }

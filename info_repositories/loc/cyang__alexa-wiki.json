@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.33194589614868,
+  "n_files"            : 24,
+  "n_lines"            : 8750,
+  "files_per_second"   : 2.88047957813716,
+  "lines_per_second"   : 1050.17484619584,
+  "report_file"        : "loc/cyang__alexa-wiki.json"},
+"Python" :{
+  "nFiles": 18,
+  "blank": 1403,
+  "comment": 1594,
+  "code": 5688},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 2},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1407,
+  "comment": 1594,
+  "code": 5749,
+  "nFiles": 24} }

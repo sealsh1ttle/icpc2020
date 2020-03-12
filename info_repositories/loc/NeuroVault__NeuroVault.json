@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.6252789497375,
+  "n_files"            : 276,
+  "n_lines"            : 32435,
+  "files_per_second"   : 5.67605998281866,
+  "lines_per_second"   : 667.039875154795,
+  "report_file"        : "loc/NeuroVault__NeuroVault.json"},
+"Python" :{
+  "nFiles": 170,
+  "blank": 2527,
+  "comment": 893,
+  "code": 10864},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 1,
+  "code": 7131},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 293,
+  "comment": 170,
+  "code": 4111},
+"HTML" :{
+  "nFiles": 57,
+  "blank": 317,
+  "comment": 36,
+  "code": 3977},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 651},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 25,
+  "code": 412},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 83,
+  "comment": 0,
+  "code": 235},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 5,
+  "code": 167},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 1,
+  "code": 135},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 98},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 38,
+  "code": 96},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 15,
+  "code": 29},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Haml" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 29,
+  "code": 3},
+"SUM": {
+  "blank": 3300,
+  "comment": 1213,
+  "code": 27922,
+  "nFiles": 276} }

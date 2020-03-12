@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 50.2987439632416,
+  "n_files"            : 80,
+  "n_lines"            : 21670,
+  "files_per_second"   : 1.59049697261753,
+  "lines_per_second"   : 430.825867457773,
+  "report_file"        : "loc/NethServer__nethserver-squid.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 9757},
+"Vuejs Component" :{
+  "nFiles": 9,
+  "blank": 386,
+  "comment": 168,
+  "code": 6912},
+"PHP" :{
+  "nFiles": 28,
+  "blank": 211,
+  "comment": 359,
+  "code": 1153},
+"Perl" :{
+  "nFiles": 22,
+  "blank": 265,
+  "comment": 471,
+  "code": 1006},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 39,
+  "comment": 43,
+  "code": 324},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 101,
+  "comment": 0,
+  "code": 241},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 39},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 63,
+  "code": 38},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 21,
+  "code": 24},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 1030,
+  "comment": 1125,
+  "code": 19515,
+  "nFiles": 80} }

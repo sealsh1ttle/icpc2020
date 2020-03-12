@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.312628030776978,
+  "n_files"            : 1,
+  "n_lines"            : 67,
+  "files_per_second"   : 3.1986895017529,
+  "lines_per_second"   : 214.312196617444,
+  "report_file"        : "loc/ga-wdi-exercises__scribble.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 42},
+"SUM": {
+  "blank": 25,
+  "comment": 0,
+  "code": 42,
+  "nFiles": 1} }

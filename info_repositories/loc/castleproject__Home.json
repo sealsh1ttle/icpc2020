@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.055711030960083,
+  "n_files"            : 5,
+  "n_lines"            : 451,
+  "files_per_second"   : 89.7488327506002,
+  "lines_per_second"   : 8095.34471410414,
+  "report_file"        : "loc/castleproject__Home.json"},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 135,
+  "comment": 0,
+  "code": 316},
+"SUM": {
+  "blank": 135,
+  "comment": 0,
+  "code": 316,
+  "nFiles": 5} }

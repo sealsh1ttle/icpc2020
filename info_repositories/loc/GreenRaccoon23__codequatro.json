@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.17405819892883,
+  "n_files"            : 39,
+  "n_lines"            : 5403,
+  "files_per_second"   : 5.43625364034866,
+  "lines_per_second"   : 753.130215866764,
+  "report_file"        : "loc/GreenRaccoon23__codequatro.json"},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 313,
+  "comment": 470,
+  "code": 1651},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 1391},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 144,
+  "comment": 48,
+  "code": 675},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 44,
+  "comment": 69,
+  "code": 271},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 0,
+  "code": 84},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 59,
+  "code": 62},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 60},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 560,
+  "comment": 648,
+  "code": 4195,
+  "nFiles": 39} }

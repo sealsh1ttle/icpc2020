@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.7888038158417,
+  "n_files"            : 379,
+  "n_lines"            : 51569,
+  "files_per_second"   : 6.03610798370358,
+  "lines_per_second"   : 821.308845940924,
+  "report_file"        : "loc/uva-slp__meals.json"},
+"HTML" :{
+  "nFiles": 187,
+  "blank": 2466,
+  "comment": 92,
+  "code": 13795},
+"Python" :{
+  "nFiles": 75,
+  "blank": 3580,
+  "comment": 2246,
+  "code": 9683},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 2220,
+  "comment": 2285,
+  "code": 9041},
+"CSS" :{
+  "nFiles": 35,
+  "blank": 598,
+  "comment": 141,
+  "code": 2346},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 458,
+  "comment": 0,
+  "code": 1348},
+"JSON" :{
+  "nFiles": 26,
+  "blank": 6,
+  "comment": 0,
+  "code": 977},
+"XML" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 132},
+"reStructuredText" :{
+  "nFiles": 16,
+  "blank": 7,
+  "comment": 52,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 9345,
+  "comment": 4822,
+  "code": 37402,
+  "nFiles": 379} }

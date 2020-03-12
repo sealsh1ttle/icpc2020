@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.18712306022644,
+  "n_files"            : 10,
+  "n_lines"            : 577,
+  "files_per_second"   : 53.4407677380802,
+  "lines_per_second"   : 3083.53229848723,
+  "report_file"        : "loc/manueljordan__gradle-junit5.json"},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Java" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 20,
+  "code": 100},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 68},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 10,
+  "code": 36},
+"SUM": {
+  "blank": 131,
+  "comment": 54,
+  "code": 392,
+  "nFiles": 10} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.378212928772,
+  "n_files"            : 54,
+  "n_lines"            : 3372,
+  "files_per_second"   : 3.51146132844658,
+  "lines_per_second"   : 219.271251842998,
+  "report_file"        : "loc/dockcross__dockcross.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 63,
+  "code": 802},
+"Bourne Shell" :{
+  "nFiles": 22,
+  "blank": 154,
+  "comment": 128,
+  "code": 462},
+"Dockerfile" :{
+  "nFiles": 7,
+  "blank": 48,
+  "comment": 30,
+  "code": 295},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 141,
+  "comment": 53,
+  "code": 221},
+"CMake" :{
+  "nFiles": 17,
+  "blank": 69,
+  "comment": 10,
+  "code": 213},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 39,
+  "code": 171},
+"make" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 50,
+  "code": 145},
+"Python" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 7,
+  "code": 143},
+"C++" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"C" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 528,
+  "comment": 380,
+  "code": 2464,
+  "nFiles": 54} }

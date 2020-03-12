@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.4101550579071,
+  "n_files"            : 31,
+  "n_lines"            : 3514,
+  "files_per_second"   : 4.18344822176441,
+  "lines_per_second"   : 474.214098428391,
+  "report_file"        : "loc/bazelbuild__bazel-integration-testing.json"},
+"Java" :{
+  "nFiles": 11,
+  "blank": 222,
+  "comment": 268,
+  "code": 1107},
+"Starlark" :{
+  "nFiles": 9,
+  "blank": 81,
+  "comment": 241,
+  "code": 397},
+"Python" :{
+  "nFiles": 3,
+  "blank": 64,
+  "comment": 135,
+  "code": 265},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 0,
+  "code": 176},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 113,
+  "code": 140},
+"Go" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 31,
+  "code": 135},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 455,
+  "comment": 788,
+  "code": 2271,
+  "nFiles": 31} }

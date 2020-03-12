@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.48275804519653,
+  "n_files"            : 18,
+  "n_lines"            : 7744,
+  "files_per_second"   : 5.16831768569908,
+  "lines_per_second"   : 2223.52511989187,
+  "report_file"        : "loc/Humeira__made-in-Mauritius.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6442},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 13,
+  "comment": 113,
+  "code": 274},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 7,
+  "code": 263},
+"Vuejs Component" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 7,
+  "code": 251},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 83,
+  "comment": 127,
+  "code": 7534,
+  "nFiles": 18} }

@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.6903331279755,
+  "n_files"            : 422,
+  "n_lines"            : 68367,
+  "files_per_second"   : 6.32775366694005,
+  "lines_per_second"   : 1025.1410780751,
+  "report_file"        : "loc/loklak__loklak_server.json"},
+"Java" :{
+  "nFiles": 245,
+  "blank": 5904,
+  "comment": 10779,
+  "code": 33079},
+"XML" :{
+  "nFiles": 5,
+  "blank": 12,
+  "comment": 12,
+  "code": 7242},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 780,
+  "comment": 0,
+  "code": 3337},
+"JSON" :{
+  "nFiles": 20,
+  "blank": 0,
+  "comment": 0,
+  "code": 1039},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 166,
+  "comment": 984,
+  "code": 1037},
+"YAML" :{
+  "nFiles": 36,
+  "blank": 10,
+  "comment": 20,
+  "code": 609},
+"Bourne Shell" :{
+  "nFiles": 23,
+  "blank": 112,
+  "comment": 70,
+  "code": 593},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 70,
+  "comment": 26,
+  "code": 519},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 378},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 56,
+  "comment": 30,
+  "code": 350},
+"Python" :{
+  "nFiles": 9,
+  "blank": 44,
+  "comment": 24,
+  "code": 182},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 7,
+  "code": 166},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 152},
+"INI" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 127},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 2,
+  "code": 77},
+"Scala" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 28,
+  "code": 76},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 61},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 19,
+  "code": 58},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 7268,
+  "comment": 12001,
+  "code": 49098,
+  "nFiles": 422} }

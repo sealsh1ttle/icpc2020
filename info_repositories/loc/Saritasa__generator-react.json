@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.78418493270874,
+  "n_files"            : 124,
+  "n_lines"            : 9761,
+  "files_per_second"   : 158.1259659908,
+  "lines_per_second"   : 12447.3189841629,
+  "report_file"        : "loc/Saritasa__generator-react.json"},
+"EJS" :{
+  "nFiles": 106,
+  "blank": 614,
+  "comment": 0,
+  "code": 3819},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3680},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 178,
+  "comment": 467,
+  "code": 779},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 0,
+  "code": 151},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 849,
+  "comment": 467,
+  "code": 8445,
+  "nFiles": 124} }

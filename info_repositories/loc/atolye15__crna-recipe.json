@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.526505947113037,
+  "n_files"            : 2,
+  "n_lines"            : 721,
+  "files_per_second"   : 3.79862755770661,
+  "lines_per_second"   : 1369.40523455323,
+  "report_file"        : "loc/atolye15__crna-recipe.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 180,
+  "comment": 0,
+  "code": 541},
+"SUM": {
+  "blank": 180,
+  "comment": 0,
+  "code": 541,
+  "nFiles": 2} }

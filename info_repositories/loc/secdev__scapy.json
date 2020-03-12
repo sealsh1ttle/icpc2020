@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 252.995759010315,
+  "n_files"            : 560,
+  "n_lines"            : 144347,
+  "files_per_second"   : 2.21347583924191,
+  "lines_per_second"   : 570.551066012592,
+  "report_file"        : "loc/secdev__scapy.json"},
+"Python" :{
+  "nFiles": 265,
+  "blank": 21966,
+  "comment": 18845,
+  "code": 86338},
+"reStructuredText" :{
+  "nFiles": 233,
+  "blank": 2410,
+  "comment": 1766,
+  "code": 5372},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 38,
+  "comment": 0,
+  "code": 798},
+"Jupyter Notebook" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 5074,
+  "code": 307},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 94,
+  "comment": 0,
+  "code": 225},
+"vim script" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 111,
+  "code": 206},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 34,
+  "code": 171},
+"INI" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 0,
+  "code": 146},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 21,
+  "comment": 25,
+  "code": 126},
+"DOS Batch" :{
+  "nFiles": 7,
+  "blank": 8,
+  "comment": 1,
+  "code": 70},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 18,
+  "code": 53},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 24642,
+  "comment": 25880,
+  "code": 93825,
+  "nFiles": 560} }

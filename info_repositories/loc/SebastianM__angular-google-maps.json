@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.7239818572998,
+  "n_files"            : 234,
+  "n_lines"            : 24113,
+  "files_per_second"   : 135.732286862058,
+  "lines_per_second"   : 13986.8061243795,
+  "report_file"        : "loc/SebastianM__angular-google-maps.json"},
+"CSS" :{
+  "nFiles": 84,
+  "blank": 1271,
+  "comment": 639,
+  "code": 7191},
+"TypeScript" :{
+  "nFiles": 57,
+  "blank": 985,
+  "comment": 1708,
+  "code": 5465},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 1052,
+  "comment": 1,
+  "code": 2540},
+"Sass" :{
+  "nFiles": 36,
+  "blank": 233,
+  "comment": 1,
+  "code": 1387},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 29,
+  "comment": 27,
+  "code": 475},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 423},
+"Pug" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 179},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 7,
+  "code": 172},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 19,
+  "comment": 7,
+  "code": 138},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 35},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 3,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 7,
+  "code": 5},
+"SUM": {
+  "blank": 3684,
+  "comment": 2400,
+  "code": 18029,
+  "nFiles": 234} }

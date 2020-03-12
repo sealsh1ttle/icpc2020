@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 98.6709668636322,
+  "n_files"            : 509,
+  "n_lines"            : 76722,
+  "files_per_second"   : 5.15855895790969,
+  "lines_per_second"   : 777.553949643904,
+  "report_file"        : "loc/ampproject__amp-by-example.json"},
+"JSON" :{
+  "nFiles": 76,
+  "blank": 8,
+  "comment": 0,
+  "code": 32314},
+"HTML" :{
+  "nFiles": 258,
+  "blank": 2309,
+  "comment": 5818,
+  "code": 19684},
+"JavaScript" :{
+  "nFiles": 69,
+  "blank": 810,
+  "comment": 1419,
+  "code": 5709},
+"CSS" :{
+  "nFiles": 22,
+  "blank": 227,
+  "comment": 103,
+  "code": 2967},
+"Go" :{
+  "nFiles": 42,
+  "blank": 485,
+  "comment": 620,
+  "code": 2805},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 150,
+  "comment": 0,
+  "code": 378},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 201},
+"diff" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 69,
+  "code": 90},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 29,
+  "code": 84},
+"Handlebars" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 6,
+  "code": 79},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 40,
+  "code": 50},
+"SVG" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 13,
+  "code": 19},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 124,
+  "code": 8},
+"SUM": {
+  "blank": 4053,
+  "comment": 8241,
+  "code": 64428,
+  "nFiles": 509} }

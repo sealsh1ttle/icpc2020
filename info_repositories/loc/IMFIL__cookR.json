@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.735034942626953,
+  "n_files"            : 84,
+  "n_lines"            : 6288,
+  "files_per_second"   : 114.280281288113,
+  "lines_per_second"   : 8554.69534213872,
+  "report_file"        : "loc/IMFIL__cookR.json"},
+"XML" :{
+  "nFiles": 49,
+  "blank": 339,
+  "comment": 8,
+  "code": 2564},
+"Java" :{
+  "nFiles": 28,
+  "blank": 639,
+  "comment": 83,
+  "code": 2329},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 3,
+  "code": 47},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 1031,
+  "comment": 131,
+  "code": 5126,
+  "nFiles": 84} }

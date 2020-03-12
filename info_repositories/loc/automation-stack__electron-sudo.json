@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.3820879459381,
+  "n_files"            : 19,
+  "n_lines"            : 1999,
+  "files_per_second"   : 1.41980833460051,
+  "lines_per_second"   : 149.378782150865,
+  "report_file"        : "loc/automation-stack__electron-sudo.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 64,
+  "comment": 28,
+  "code": 662},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 376},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 255},
+"C" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 37,
+  "code": 178},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 0,
+  "code": 116},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 81},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 23,
+  "code": 61},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 23,
+  "code": 18},
+"SUM": {
+  "blank": 141,
+  "comment": 111,
+  "code": 1747,
+  "nFiles": 19} }

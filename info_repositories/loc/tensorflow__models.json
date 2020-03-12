@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 588.446561098099,
+  "n_files"            : 2242,
+  "n_lines"            : 495680,
+  "files_per_second"   : 3.81003161241389,
+  "lines_per_second"   : 842.353465495682,
+  "report_file"        : "loc/tensorflow__models.json"},
+"Python" :{
+  "nFiles": 1577,
+  "blank": 58996,
+  "comment": 99815,
+  "code": 238359},
+"C++" :{
+  "nFiles": 121,
+  "blank": 4730,
+  "comment": 4948,
+  "code": 22730},
+"Markdown" :{
+  "nFiles": 184,
+  "blank": 4835,
+  "comment": 0,
+  "code": 16857},
+"C/C++ Header" :{
+  "nFiles": 72,
+  "blank": 2183,
+  "comment": 3828,
+  "code": 5740},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 2,
+  "code": 3823},
+"Jupyter Notebook" :{
+  "nFiles": 21,
+  "blank": 1,
+  "comment": 7954,
+  "code": 3548},
+"Bourne Shell" :{
+  "nFiles": 73,
+  "blank": 578,
+  "comment": 1696,
+  "code": 2444},
+"C" :{
+  "nFiles": 21,
+  "blank": 126,
+  "comment": 372,
+  "code": 2205},
+"Protocol Buffers" :{
+  "nFiles": 57,
+  "blank": 912,
+  "comment": 1694,
+  "code": 1709},
+"Java" :{
+  "nFiles": 4,
+  "blank": 122,
+  "comment": 420,
+  "code": 1627},
+"JSON" :{
+  "nFiles": 80,
+  "blank": 4,
+  "comment": 0,
+  "code": 1231},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 82,
+  "comment": 243,
+  "code": 436},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 28,
+  "comment": 34,
+  "code": 299},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 112,
+  "code": 186},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 68,
+  "code": 146},
+"XML" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 7,
+  "code": 144},
+"make" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 53,
+  "code": 70},
+"Starlark" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 27,
+  "code": 39},
+"GLSL" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 5,
+  "code": 28},
+"diff" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 5,
+  "code": 24},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 72731,
+  "comment": 121283,
+  "code": 301666,
+  "nFiles": 2242} }

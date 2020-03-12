@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 109.979022026062,
+  "n_files"            : 307,
+  "n_lines"            : 35806,
+  "files_per_second"   : 2.79144144350774,
+  "lines_per_second"   : 325.571180215759,
+  "report_file"        : "loc/plone__plone.restapi.json"},
+"Python" :{
+  "nFiles": 182,
+  "blank": 4585,
+  "comment": 1604,
+  "code": 20557},
+"reStructuredText" :{
+  "nFiles": 55,
+  "blank": 2140,
+  "comment": 904,
+  "code": 3900},
+"XML" :{
+  "nFiles": 54,
+  "blank": 208,
+  "comment": 12,
+  "code": 1346},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 13,
+  "code": 105},
+"make" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 6,
+  "code": 75},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 12,
+  "code": 70},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 12,
+  "code": 39},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 32},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 30},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 22},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 14},
+"RobotFramework" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 5,
+  "code": 9},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 7014,
+  "comment": 2569,
+  "code": 26223,
+  "nFiles": 307} }

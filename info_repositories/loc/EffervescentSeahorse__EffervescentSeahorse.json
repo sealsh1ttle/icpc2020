@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.6381239891052,
+  "n_files"            : 52,
+  "n_lines"            : 3819,
+  "files_per_second"   : 4.1145347240482,
+  "lines_per_second"   : 302.180925214232,
+  "report_file"        : "loc/EffervescentSeahorse__EffervescentSeahorse.json"},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 240,
+  "comment": 83,
+  "code": 1476},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 189,
+  "comment": 68,
+  "code": 968},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 40,
+  "comment": 29,
+  "code": 461},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 100},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 65},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 16},
+"SUM": {
+  "blank": 496,
+  "comment": 182,
+  "code": 3141,
+  "nFiles": 52} }

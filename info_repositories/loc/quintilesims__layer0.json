@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1709.6844420433,
+  "n_files"            : 5000,
+  "n_lines"            : 1898947,
+  "files_per_second"   : 2.92451628911375,
+  "lines_per_second"   : 1110.70028673274,
+  "report_file"        : "loc/quintilesims__layer0.json"},
+"Go" :{
+  "nFiles": 4581,
+  "blank": 240109,
+  "comment": 400983,
+  "code": 1157851},
+"JSON" :{
+  "nFiles": 47,
+  "blank": 3,
+  "comment": 0,
+  "code": 40095},
+"Markdown" :{
+  "nFiles": 176,
+  "blank": 5270,
+  "comment": 0,
+  "code": 16932},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 3537,
+  "comment": 4549,
+  "code": 16464},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 6,
+  "code": 2556},
+"Assembly" :{
+  "nFiles": 30,
+  "blank": 222,
+  "comment": 271,
+  "code": 2085},
+"Bourne Shell" :{
+  "nFiles": 18,
+  "blank": 178,
+  "comment": 379,
+  "code": 1104},
+"HCL" :{
+  "nFiles": 36,
+  "blank": 250,
+  "comment": 8,
+  "code": 1014},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 153,
+  "comment": 139,
+  "code": 907},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 814},
+"Protocol Buffers" :{
+  "nFiles": 6,
+  "blank": 218,
+  "comment": 1,
+  "code": 693},
+"make" :{
+  "nFiles": 30,
+  "blank": 156,
+  "comment": 94,
+  "code": 491},
+"Python" :{
+  "nFiles": 5,
+  "blank": 123,
+  "comment": 151,
+  "code": 452},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 38,
+  "comment": 23,
+  "code": 202},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 0,
+  "code": 128},
+"diff" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 27,
+  "code": 100},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 0,
+  "code": 40},
+"C" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 7,
+  "code": 24},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 19},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 18},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 250309,
+  "comment": 406639,
+  "code": 1241999,
+  "nFiles": 5000} }

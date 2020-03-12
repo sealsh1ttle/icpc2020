@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.9191610813141,
+  "n_files"            : 38,
+  "n_lines"            : 2498,
+  "files_per_second"   : 2.94136745883308,
+  "lines_per_second"   : 193.356208214869,
+  "report_file"        : "loc/sen-team8__MOM.json"},
+"Markdown" :{
+  "nFiles": 38,
+  "blank": 727,
+  "comment": 0,
+  "code": 1771},
+"SUM": {
+  "blank": 727,
+  "comment": 0,
+  "code": 1771,
+  "nFiles": 38} }

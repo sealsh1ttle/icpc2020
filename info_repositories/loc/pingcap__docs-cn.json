@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 240.884401082993,
+  "n_files"            : 1196,
+  "n_lines"            : 188954,
+  "files_per_second"   : 4.96503714903456,
+  "lines_per_second"   : 784.417750383509,
+  "report_file"        : "loc/pingcap__docs-cn.json"},
+"Markdown" :{
+  "nFiles": 1174,
+  "blank": 52872,
+  "comment": 0,
+  "code": 134092},
+"TeX" :{
+  "nFiles": 4,
+  "blank": 58,
+  "comment": 69,
+  "code": 485},
+"Python" :{
+  "nFiles": 5,
+  "blank": 98,
+  "comment": 70,
+  "code": 422},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 69,
+  "comment": 59,
+  "code": 292},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 59,
+  "comment": 33,
+  "code": 175},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 81},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 53160,
+  "comment": 231,
+  "code": 135563,
+  "nFiles": 1196} }

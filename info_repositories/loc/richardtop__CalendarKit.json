@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.1214990615845,
+  "n_files"            : 51,
+  "n_lines"            : 4083,
+  "files_per_second"   : 4.20740039997441,
+  "lines_per_second"   : 336.839526139128,
+  "report_file"        : "loc/richardtop__CalendarKit.json"},
+"Swift" :{
+  "nFiles": 40,
+  "blank": 637,
+  "comment": 146,
+  "code": 2872},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 59,
+  "comment": 0,
+  "code": 153},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 98},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 79},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 701,
+  "comment": 149,
+  "code": 3233,
+  "nFiles": 51} }

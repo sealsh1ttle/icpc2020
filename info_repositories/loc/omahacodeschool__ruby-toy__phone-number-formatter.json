@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.3341429233551,
+  "n_files"            : 8,
+  "n_lines"            : 62,
+  "files_per_second"   : 1.0907886693242,
+  "lines_per_second"   : 8.45361218726254,
+  "report_file"        : "loc/omahacodeschool__ruby-toy__phone-number-formatter.json"},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 2,
+  "code": 36},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 14,
+  "comment": 2,
+  "code": 46,
+  "nFiles": 8} }

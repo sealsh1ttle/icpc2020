@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.56766295433044,
+  "n_files"            : 14,
+  "n_lines"            : 974,
+  "files_per_second"   : 5.45242901775272,
+  "lines_per_second"   : 379.333275949368,
+  "report_file"        : "loc/pfitaxel__learn-ocaml.el.json"},
+"Lisp" :{
+  "nFiles": 3,
+  "blank": 103,
+  "comment": 58,
+  "code": 617},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 42},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 6,
+  "code": 40},
+"OCaml" :{
+  "nFiles": 5,
+  "blank": 4,
+  "comment": 1,
+  "code": 38},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 16},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 145,
+  "comment": 65,
+  "code": 764,
+  "nFiles": 14} }

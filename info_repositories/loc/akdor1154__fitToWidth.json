@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0851829051971436,
+  "n_files"            : 8,
+  "n_lines"            : 608,
+  "files_per_second"   : 93.9155571353801,
+  "lines_per_second"   : 7137.58234228889,
+  "report_file"        : "loc/akdor1154__fitToWidth.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 109,
+  "comment": 23,
+  "code": 400},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 118,
+  "comment": 23,
+  "code": 467,
+  "nFiles": 8} }

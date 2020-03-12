@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.74763298034668,
+  "n_files"            : 32,
+  "n_lines"            : 4254,
+  "files_per_second"   : 4.130293740188,
+  "lines_per_second"   : 549.070924086242,
+  "report_file"        : "loc/hmmlearn__hmmlearn.json"},
+"Python" :{
+  "nFiles": 17,
+  "blank": 622,
+  "comment": 821,
+  "code": 1796},
+"reStructuredText" :{
+  "nFiles": 8,
+  "blank": 234,
+  "comment": 187,
+  "code": 326},
+"Cython" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 3,
+  "code": 114},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 0,
+  "code": 49},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 9},
+"SUM": {
+  "blank": 916,
+  "comment": 1018,
+  "code": 2320,
+  "nFiles": 32} }

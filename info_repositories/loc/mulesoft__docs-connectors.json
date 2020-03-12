@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 102.414072990417,
+  "n_files"            : 359,
+  "n_lines"            : 193467,
+  "files_per_second"   : 3.50537762552994,
+  "lines_per_second"   : 1889.06655453594,
+  "report_file"        : "loc/mulesoft__docs-connectors.json"},
+"AsciiDoc" :{
+  "nFiles": 358,
+  "blank": 34447,
+  "comment": 220,
+  "code": 158795},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 34447,
+  "comment": 220,
+  "code": 158800,
+  "nFiles": 359} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 109.008630037308,
+  "n_files"            : 389,
+  "n_lines"            : 60663,
+  "files_per_second"   : 3.56852480273228,
+  "lines_per_second"   : 556.497223928402,
+  "report_file"        : "loc/input-output-hk__iohk-ops.json"},
+"JSON" :{
+  "nFiles": 33,
+  "blank": 0,
+  "comment": 0,
+  "code": 24081},
+"Nix" :{
+  "nFiles": 207,
+  "blank": 2182,
+  "comment": 715,
+  "code": 18691},
+"Haskell" :{
+  "nFiles": 32,
+  "blank": 761,
+  "comment": 385,
+  "code": 4203},
+"YAML" :{
+  "nFiles": 28,
+  "blank": 227,
+  "comment": 65,
+  "code": 2717},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 256,
+  "comment": 108,
+  "code": 1777},
+"HCL" :{
+  "nFiles": 34,
+  "blank": 210,
+  "comment": 120,
+  "code": 1095},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 561,
+  "comment": 0,
+  "code": 1047},
+"R" :{
+  "nFiles": 1,
+  "blank": 81,
+  "comment": 78,
+  "code": 446},
+"Python" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 10,
+  "code": 146},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 24,
+  "code": 134},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 88,
+  "code": 107},
+"diff" :{
+  "nFiles": 6,
+  "blank": 21,
+  "comment": 114,
+  "code": 82},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 4364,
+  "comment": 1707,
+  "code": 54592,
+  "nFiles": 389} }

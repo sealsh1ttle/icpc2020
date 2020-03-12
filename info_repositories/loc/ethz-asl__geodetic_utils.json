@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.65204787254333,
+  "n_files"            : 16,
+  "n_lines"            : 1562,
+  "files_per_second"   : 6.03307359782155,
+  "lines_per_second"   : 588.978809987329,
+  "report_file"        : "loc/ethz-asl__geodetic_utils.json"},
+"C++" :{
+  "nFiles": 4,
+  "blank": 165,
+  "comment": 106,
+  "code": 670},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 63,
+  "comment": 54,
+  "code": 249},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 0,
+  "code": 65},
+"XML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 4,
+  "code": 64},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 1,
+  "code": 25},
+"Python" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 19},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 7,
+  "code": 10},
+"SUM": {
+  "blank": 286,
+  "comment": 174,
+  "code": 1102,
+  "nFiles": 16} }

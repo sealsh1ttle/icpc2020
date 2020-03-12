@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.174746990203857,
+  "n_files"            : 11,
+  "n_lines"            : 13054,
+  "files_per_second"   : 62.9481514226228,
+  "lines_per_second"   : 74702.2880609925,
+  "report_file"        : "loc/basics__blueprint-npm-module.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 12892},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 45,
+  "comment": 0,
+  "code": 44},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 29},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 3,
+  "code": 29},
+"SUM": {
+  "blank": 57,
+  "comment": 3,
+  "code": 12994,
+  "nFiles": 11} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.05601191520691,
+  "n_files"            : 42,
+  "n_lines"            : 7757,
+  "files_per_second"   : 4.63780308520502,
+  "lines_per_second"   : 856.558060284174,
+  "report_file"        : "loc/DE-labtory__swim.json"},
+"Go" :{
+  "nFiles": 30,
+  "blank": 1206,
+  "comment": 1075,
+  "code": 4844},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 195,
+  "comment": 0,
+  "code": 291},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 6,
+  "code": 42},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 6,
+  "code": 34},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 1441,
+  "comment": 1087,
+  "code": 5229,
+  "nFiles": 42} }

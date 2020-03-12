@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.1666259765625,
+  "n_files"            : 35,
+  "n_lines"            : 1081,
+  "files_per_second"   : 210.051282051282,
+  "lines_per_second"   : 6487.58388278388,
+  "report_file"        : "loc/hyperledger-labs__hyperledger-labs.github.io.json"},
+"Markdown" :{
+  "nFiles": 35,
+  "blank": 319,
+  "comment": 0,
+  "code": 762},
+"SUM": {
+  "blank": 319,
+  "comment": 0,
+  "code": 762,
+  "nFiles": 35} }

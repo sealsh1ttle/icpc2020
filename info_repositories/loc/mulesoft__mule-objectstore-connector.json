@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.2638561725616,
+  "n_files"            : 53,
+  "n_lines"            : 3514,
+  "files_per_second"   : 5.16375123627364,
+  "lines_per_second"   : 342.366449891803,
+  "report_file"        : "loc/mulesoft__mule-objectstore-connector.json"},
+"Java" :{
+  "nFiles": 28,
+  "blank": 359,
+  "comment": 382,
+  "code": 1521},
+"XML" :{
+  "nFiles": 21,
+  "blank": 74,
+  "comment": 4,
+  "code": 1010},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 110},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 2,
+  "code": 21},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 453,
+  "comment": 389,
+  "code": 2672,
+  "nFiles": 53} }

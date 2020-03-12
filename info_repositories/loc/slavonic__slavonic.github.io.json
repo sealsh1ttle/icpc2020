@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.623859882354736,
+  "n_files"            : 38,
+  "n_lines"            : 2642,
+  "files_per_second"   : 60.9111133361716,
+  "lines_per_second"   : 4234.92530089909,
+  "report_file"        : "loc/slavonic__slavonic.github.io.json"},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 560,
+  "comment": 0,
+  "code": 1476},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 4,
+  "code": 322},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 9,
+  "comment": 11,
+  "code": 127},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 0,
+  "code": 64},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 626,
+  "comment": 15,
+  "code": 2001,
+  "nFiles": 38} }

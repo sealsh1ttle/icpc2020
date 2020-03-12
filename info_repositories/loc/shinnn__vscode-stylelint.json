@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.21663904190063,
+  "n_files"            : 10,
+  "n_lines"            : 4994,
+  "files_per_second"   : 4.51133441709373,
+  "lines_per_second"   : 2252.96040789661,
+  "report_file"        : "loc/shinnn__vscode-stylelint.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4633},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 2,
+  "code": 148},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 79},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 55},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 67,
+  "comment": 3,
+  "code": 4924,
+  "nFiles": 10} }

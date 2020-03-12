@@ -1,0 +1,169 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7688.58760619164,
+  "n_files"            : 51100,
+  "n_lines"            : 23708286,
+  "files_per_second"   : 6.64621418358413,
+  "lines_per_second"   : 3083.5684282127,
+  "report_file"        : "loc/beagleboard__linux.json"},
+"C" :{
+  "nFiles": 25736,
+  "blank": 2531755,
+  "comment": 2274563,
+  "code": 12855447},
+"C/C++ Header" :{
+  "nFiles": 19928,
+  "blank": 502116,
+  "comment": 938970,
+  "code": 3723216},
+"Assembly" :{
+  "nFiles": 1449,
+  "blank": 49879,
+  "comment": 114824,
+  "code": 251859},
+"JSON" :{
+  "nFiles": 153,
+  "blank": 0,
+  "comment": 0,
+  "code": 97092},
+"reStructuredText" :{
+  "nFiles": 811,
+  "blank": 39817,
+  "comment": 36403,
+  "code": 84130},
+"make" :{
+  "nFiles": 2406,
+  "blank": 8831,
+  "comment": 9469,
+  "code": 38038},
+"Perl" :{
+  "nFiles": 60,
+  "blank": 6827,
+  "comment": 4917,
+  "code": 37862},
+"SVG" :{
+  "nFiles": 45,
+  "blank": 56,
+  "comment": 931,
+  "code": 24989},
+"Bourne Shell" :{
+  "nFiles": 276,
+  "blank": 3574,
+  "comment": 4629,
+  "code": 18075},
+"Python" :{
+  "nFiles": 80,
+  "blank": 2476,
+  "comment": 2978,
+  "code": 14298},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 577,
+  "comment": 0,
+  "code": 4848},
+"yacc" :{
+  "nFiles": 9,
+  "blank": 691,
+  "comment": 373,
+  "code": 4607},
+"PO File" :{
+  "nFiles": 5,
+  "blank": 791,
+  "comment": 918,
+  "code": 3061},
+"C++" :{
+  "nFiles": 10,
+  "blank": 328,
+  "comment": 147,
+  "code": 2046},
+"lex" :{
+  "nFiles": 8,
+  "blank": 308,
+  "comment": 300,
+  "code": 1936},
+"Bourne Again Shell" :{
+  "nFiles": 49,
+  "blank": 388,
+  "comment": 335,
+  "code": 1751},
+"awk" :{
+  "nFiles": 12,
+  "blank": 185,
+  "comment": 177,
+  "code": 1510},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 220,
+  "comment": 0,
+  "code": 1084},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 108,
+  "comment": 3,
+  "code": 904},
+"NAnt script" :{
+  "nFiles": 2,
+  "blank": 163,
+  "comment": 0,
+  "code": 608},
+"Glade" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 0,
+  "code": 603},
+"Pascal" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 0,
+  "code": 231},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 55,
+  "comment": 0,
+  "code": 189},
+"Cucumber" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 49,
+  "code": 155},
+"Clojure" :{
+  "nFiles": 39,
+  "blank": 10,
+  "comment": 0,
+  "code": 109},
+"m4" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 95},
+"XSLT" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 26,
+  "code": 61},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 27,
+  "code": 44},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 12,
+  "code": 27},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"sed" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 5},
+"SUM": {
+  "blank": 3149341,
+  "comment": 3390057,
+  "code": 17168888,
+  "nFiles": 51100} }

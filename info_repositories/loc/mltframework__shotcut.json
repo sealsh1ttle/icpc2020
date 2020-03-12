@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.538213968277,
+  "n_files"            : 661,
+  "n_lines"            : 469401,
+  "files_per_second"   : 52.7188323370777,
+  "lines_per_second"   : 37437.6287713413,
+  "report_file"        : "loc/mltframework__shotcut.json"},
+"Qt Linguist" :{
+  "nFiles": 33,
+  "blank": 631,
+  "comment": 0,
+  "code": 363437},
+"C++" :{
+  "nFiles": 117,
+  "blank": 3600,
+  "comment": 3932,
+  "code": 30267},
+"QML" :{
+  "nFiles": 278,
+  "blank": 2198,
+  "comment": 3183,
+  "code": 24868},
+"Qt" :{
+  "nFiles": 43,
+  "blank": 0,
+  "comment": 0,
+  "code": 11769},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 1220,
+  "comment": 1079,
+  "code": 7669},
+"C/C++ Header" :{
+  "nFiles": 124,
+  "blank": 1475,
+  "comment": 2219,
+  "code": 6096},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 224,
+  "comment": 381,
+  "code": 1997},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 989},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 149,
+  "comment": 27,
+  "code": 846},
+"Qt Project" :{
+  "nFiles": 3,
+  "blank": 29,
+  "comment": 2,
+  "code": 425},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 97,
+  "comment": 0,
+  "code": 153},
+"Python" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 11,
+  "code": 82},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 14,
+  "code": 72},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 60},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 49},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 1,
+  "code": 30},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 17,
+  "code": 9},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 9680,
+  "comment": 10869,
+  "code": 448852,
+  "nFiles": 661} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.596928119659424,
+  "n_files"            : 108,
+  "n_lines"            : 11084,
+  "files_per_second"   : 180.926306607267,
+  "lines_per_second"   : 18568.3998373606,
+  "report_file"        : "loc/awsdocs__aws-go-developer-guide.json"},
+"reStructuredText" :{
+  "nFiles": 103,
+  "blank": 2993,
+  "comment": 3725,
+  "code": 3707},
+"Python" :{
+  "nFiles": 2,
+  "blank": 135,
+  "comment": 297,
+  "code": 161},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 0,
+  "code": 40},
+"SUM": {
+  "blank": 3154,
+  "comment": 4022,
+  "code": 3908,
+  "nFiles": 108} }

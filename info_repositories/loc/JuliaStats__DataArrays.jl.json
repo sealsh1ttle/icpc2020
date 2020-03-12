@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.4789950847626,
+  "n_files"            : 56,
+  "n_lines"            : 7757,
+  "files_per_second"   : 5.34402388273177,
+  "lines_per_second"   : 740.242736756256,
+  "report_file"        : "loc/JuliaStats__DataArrays.jl.json"},
+"Julia" :{
+  "nFiles": 48,
+  "blank": 1041,
+  "comment": 796,
+  "code": 5689},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 45,
+  "comment": 0,
+  "code": 135},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 4,
+  "code": 42},
+"SUM": {
+  "blank": 1091,
+  "comment": 800,
+  "code": 5866,
+  "nFiles": 56} }

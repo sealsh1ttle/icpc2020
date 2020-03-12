@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.96290898323059,
+  "n_files"            : 120,
+  "n_lines"            : 25906,
+  "files_per_second"   : 61.1337565955309,
+  "lines_per_second"   : 13197.7591530319,
+  "report_file"        : "loc/hack4impact__uiuc.hack4impact.org.json"},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 32,
+  "comment": 16,
+  "code": 7683},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 6557},
+"JavaScript" :{
+  "nFiles": 72,
+  "blank": 207,
+  "comment": 66,
+  "code": 4894},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 436,
+  "comment": 624,
+  "code": 4284},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 130,
+  "comment": 57,
+  "code": 750},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 118},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 25},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 830,
+  "comment": 763,
+  "code": 24313,
+  "nFiles": 120} }

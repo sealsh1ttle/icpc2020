@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.3963799476624,
+  "n_files"            : 36,
+  "n_lines"            : 7536,
+  "files_per_second"   : 3.46274378016501,
+  "lines_per_second"   : 724.867697981208,
+  "report_file"        : "loc/mulesoft__mule-extensions-archetype.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4912},
+"Maven" :{
+  "nFiles": 9,
+  "blank": 68,
+  "comment": 19,
+  "code": 1069},
+"XML" :{
+  "nFiles": 10,
+  "blank": 45,
+  "comment": 0,
+  "code": 602},
+"Java" :{
+  "nFiles": 9,
+  "blank": 107,
+  "comment": 90,
+  "code": 434},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 35,
+  "comment": 0,
+  "code": 110},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 2,
+  "code": 28},
+"SUM": {
+  "blank": 270,
+  "comment": 111,
+  "code": 7155,
+  "nFiles": 36} }

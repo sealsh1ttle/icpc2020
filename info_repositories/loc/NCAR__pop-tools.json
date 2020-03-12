@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.8320488929749,
+  "n_files"            : 37,
+  "n_lines"            : 4026,
+  "files_per_second"   : 2.49459803341971,
+  "lines_per_second"   : 271.439234663452,
+  "report_file"        : "loc/NCAR__pop-tools.json"},
+"Python" :{
+  "nFiles": 13,
+  "blank": 369,
+  "comment": 296,
+  "code": 1043},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 25,
+  "comment": 5,
+  "code": 444},
+"make" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 6,
+  "code": 143},
+"Jupyter Notebook" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 1297,
+  "code": 110},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 72,
+  "comment": 55,
+  "code": 58},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 0,
+  "code": 29},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"SUM": {
+  "blank": 512,
+  "comment": 1660,
+  "code": 1854,
+  "nFiles": 37} }

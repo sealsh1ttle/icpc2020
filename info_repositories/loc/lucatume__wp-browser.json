@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 97.8898499011993,
+  "n_files"            : 420,
+  "n_lines"            : 60022,
+  "files_per_second"   : 4.29053676580266,
+  "lines_per_second"   : 613.158566088113,
+  "report_file"        : "loc/lucatume__wp-browser.json"},
+"PHP" :{
+  "nFiles": 287,
+  "blank": 5132,
+  "comment": 11855,
+  "code": 22986},
+"Markdown" :{
+  "nFiles": 28,
+  "blank": 2254,
+  "comment": 0,
+  "code": 6744},
+"SQL" :{
+  "nFiles": 5,
+  "blank": 719,
+  "comment": 960,
+  "code": 3791},
+"XML" :{
+  "nFiles": 14,
+  "blank": 176,
+  "comment": 161,
+  "code": 2715},
+"JSON" :{
+  "nFiles": 18,
+  "blank": 0,
+  "comment": 0,
+  "code": 690},
+"YAML" :{
+  "nFiles": 23,
+  "blank": 28,
+  "comment": 22,
+  "code": 528},
+"PO File" :{
+  "nFiles": 13,
+  "blank": 53,
+  "comment": 86,
+  "code": 269},
+"Handlebars" :{
+  "nFiles": 11,
+  "blank": 15,
+  "comment": 0,
+  "code": 246},
+"make" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 33,
+  "code": 219},
+"Python" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 15,
+  "code": 69},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 2,
+  "code": 33},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 34,
+  "comment": 114,
+  "code": 0},
+"SUM": {
+  "blank": 8483,
+  "comment": 13248,
+  "code": 38291,
+  "nFiles": 420} }

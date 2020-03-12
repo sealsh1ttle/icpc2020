@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.294832944869995,
+  "n_files"            : 21,
+  "n_lines"            : 1625,
+  "files_per_second"   : 71.226775587307,
+  "lines_per_second"   : 5511.59572997018,
+  "report_file"        : "loc/nickdiego__compiledb.json"},
+"Python" :{
+  "nFiles": 13,
+  "blank": 201,
+  "comment": 202,
+  "code": 874},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 97},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 85},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 40},
+"INI" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 28},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 254,
+  "comment": 222,
+  "code": 1149,
+  "nFiles": 21} }

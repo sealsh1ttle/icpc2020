@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.6958570480347,
+  "n_files"            : 112,
+  "n_lines"            : 15811,
+  "files_per_second"   : 2.89436669824809,
+  "lines_per_second"   : 408.59671308929,
+  "report_file"        : "loc/ePages-de__restdocs-api-spec.json"},
+"Kotlin" :{
+  "nFiles": 56,
+  "blank": 1138,
+  "comment": 85,
+  "code": 7153},
+"Java" :{
+  "nFiles": 31,
+  "blank": 488,
+  "comment": 1278,
+  "code": 2092},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2070},
+"Gradle" :{
+  "nFiles": 15,
+  "blank": 131,
+  "comment": 4,
+  "code": 511},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 119,
+  "comment": 0,
+  "code": 452},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 23,
+  "code": 131},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 1920,
+  "comment": 1392,
+  "code": 12499,
+  "nFiles": 112} }

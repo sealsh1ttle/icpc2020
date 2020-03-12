@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.7452878952026,
+  "n_files"            : 92,
+  "n_lines"            : 13661,
+  "files_per_second"   : 6.69320284168873,
+  "lines_per_second"   : 993.867869785976,
+  "report_file"        : "loc/Hananel-Hazan__bindsnet.json"},
+"Python" :{
+  "nFiles": 67,
+  "blank": 2131,
+  "comment": 2976,
+  "code": 7450},
+"reStructuredText" :{
+  "nFiles": 17,
+  "blank": 191,
+  "comment": 261,
+  "code": 278},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 85,
+  "comment": 0,
+  "code": 181},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 8,
+  "code": 19},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 2430,
+  "comment": 3252,
+  "code": 7979,
+  "nFiles": 92} }

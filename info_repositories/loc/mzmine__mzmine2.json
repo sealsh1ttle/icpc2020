@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 301.587220907211,
+  "n_files"            : 1422,
+  "n_lines"            : 205371,
+  "files_per_second"   : 4.71505389294165,
+  "lines_per_second"   : 680.967182171111,
+  "report_file"        : "loc/mzmine__mzmine2.json"},
+"Java" :{
+  "nFiles": 1280,
+  "blank": 31993,
+  "comment": 47347,
+  "code": 114905},
+"HTML" :{
+  "nFiles": 116,
+  "blank": 1736,
+  "comment": 83,
+  "code": 6252},
+"C/C++ Header" :{
+  "nFiles": 9,
+  "blank": 123,
+  "comment": 587,
+  "code": 400},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 308},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 31,
+  "code": 245},
+"FXML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 159},
+"C++" :{
+  "nFiles": 1,
+  "blank": 62,
+  "comment": 69,
+  "code": 155},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 139},
+"C#" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 78,
+  "code": 135},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 37,
+  "code": 129},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 32,
+  "comment": 0,
+  "code": 86},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 73},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 34066,
+  "comment": 48241,
+  "code": 123064,
+  "nFiles": 1422} }

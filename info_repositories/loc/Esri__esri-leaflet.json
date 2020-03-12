@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.97000408172607,
+  "n_files"            : 54,
+  "n_lines"            : 18345,
+  "files_per_second"   : 6.7754043092416,
+  "lines_per_second"   : 2301.75540838958,
+  "report_file"        : "loc/Esri__esri-leaflet.json"},
+"JavaScript" :{
+  "nFiles": 42,
+  "blank": 1626,
+  "comment": 458,
+  "code": 7614},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 7492},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 324,
+  "comment": 0,
+  "code": 722},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 2,
+  "code": 49},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 10,
+  "code": 14},
+"SUM": {
+  "blank": 1969,
+  "comment": 470,
+  "code": 15906,
+  "nFiles": 54} }

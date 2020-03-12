@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.695540189743042,
+  "n_files"            : 97,
+  "n_lines"            : 16993,
+  "files_per_second"   : 139.459949878432,
+  "lines_per_second"   : 24431.3703946825,
+  "report_file"        : "loc/G-Node__python-odml.json"},
+"Python" :{
+  "nFiles": 56,
+  "blank": 2323,
+  "comment": 2442,
+  "code": 7456},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 271,
+  "comment": 57,
+  "code": 770},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 671},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 12,
+  "comment": 0,
+  "code": 576},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 203,
+  "comment": 0,
+  "code": 520},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 86,
+  "comment": 7,
+  "code": 451},
+"XML" :{
+  "nFiles": 10,
+  "blank": 16,
+  "comment": 0,
+  "code": 311},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 655,
+  "code": 77},
+"make" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 4,
+  "code": 70},
+"SUM": {
+  "blank": 2926,
+  "comment": 3165,
+  "code": 10902,
+  "nFiles": 97} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.0155670642853,
+  "n_files"            : 39,
+  "n_lines"            : 5240,
+  "files_per_second"   : 3.89393828124529,
+  "lines_per_second"   : 523.185553685265,
+  "report_file"        : "loc/JerryC8080__Memeye.json"},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 1108,
+  "comment": 562,
+  "code": 2485},
+"Vuejs Component" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 5,
+  "code": 295},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 237},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 9,
+  "code": 193},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 71,
+  "comment": 0,
+  "code": 152},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1240,
+  "comment": 576,
+  "code": 3424,
+  "nFiles": 39} }

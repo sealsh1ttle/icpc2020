@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.3313770294189,
+  "n_files"            : 47,
+  "n_lines"            : 17324,
+  "files_per_second"   : 4.14777479188777,
+  "lines_per_second"   : 1528.85213818433,
+  "report_file"        : "loc/Haub__movieTracker.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 15175},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 169,
+  "comment": 31,
+  "code": 1219},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 61,
+  "comment": 0,
+  "code": 381},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 8,
+  "code": 208},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 20},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"SUM": {
+  "blank": 245,
+  "comment": 59,
+  "code": 17020,
+  "nFiles": 47} }

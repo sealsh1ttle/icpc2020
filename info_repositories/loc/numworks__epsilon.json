@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 765.479834079742,
+  "n_files"            : 2766,
+  "n_lines"            : 552475,
+  "files_per_second"   : 3.61341981441651,
+  "lines_per_second"   : 721.73684452992,
+  "report_file"        : "loc/numworks__epsilon.json"},
+"C" :{
+  "nFiles": 620,
+  "blank": 29699,
+  "comment": 32335,
+  "code": 182275},
+"C/C++ Header" :{
+  "nFiles": 1211,
+  "blank": 23681,
+  "comment": 25292,
+  "code": 141758},
+"C++" :{
+  "nFiles": 769,
+  "blank": 10528,
+  "comment": 7047,
+  "code": 66613},
+"Objective C" :{
+  "nFiles": 39,
+  "blank": 2497,
+  "comment": 1724,
+  "code": 11076},
+"Python" :{
+  "nFiles": 21,
+  "blank": 1053,
+  "comment": 1619,
+  "code": 4219},
+"Java" :{
+  "nFiles": 9,
+  "blank": 730,
+  "comment": 639,
+  "code": 3766},
+"make" :{
+  "nFiles": 50,
+  "blank": 284,
+  "comment": 125,
+  "code": 2011},
+"SVG" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 905},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 54,
+  "code": 555},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 62,
+  "comment": 0,
+  "code": 484},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 169,
+  "comment": 0,
+  "code": 330},
+"XML" :{
+  "nFiles": 8,
+  "blank": 3,
+  "comment": 0,
+  "code": 155},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 22,
+  "code": 148},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 112},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 93},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 3,
+  "code": 66},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 65},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 4,
+  "code": 57},
+"awk" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 44},
+"Assembly" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 12,
+  "code": 35},
+"SUM": {
+  "blank": 68830,
+  "comment": 68878,
+  "code": 414767,
+  "nFiles": 2766} }

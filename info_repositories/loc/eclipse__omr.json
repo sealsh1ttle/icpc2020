@@ -1,0 +1,159 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 832.096070051193,
+  "n_files"            : 3033,
+  "n_lines"            : 1205486,
+  "files_per_second"   : 3.64501180712631,
+  "lines_per_second"   : 1448.73415869616,
+  "report_file"        : "loc/eclipse__omr.json"},
+"C++" :{
+  "nFiles": 956,
+  "blank": 87751,
+  "comment": 87582,
+  "code": 491759},
+"C/C++ Header" :{
+  "nFiles": 1364,
+  "blank": 39764,
+  "comment": 74877,
+  "code": 185227},
+"XML" :{
+  "nFiles": 10,
+  "blank": 113,
+  "comment": 291,
+  "code": 67373},
+"C" :{
+  "nFiles": 218,
+  "blank": 10893,
+  "comment": 24903,
+  "code": 58078},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 2113,
+  "comment": 1911,
+  "code": 13864},
+"make" :{
+  "nFiles": 196,
+  "blank": 1850,
+  "comment": 5300,
+  "code": 6836},
+"Markdown" :{
+  "nFiles": 38,
+  "blank": 1847,
+  "comment": 0,
+  "code": 6538},
+"CMake" :{
+  "nFiles": 125,
+  "blank": 1287,
+  "comment": 3188,
+  "code": 5730},
+"Assembly" :{
+  "nFiles": 44,
+  "blank": 477,
+  "comment": 2855,
+  "code": 4801},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4099},
+"Pascal" :{
+  "nFiles": 4,
+  "blank": 303,
+  "comment": 58,
+  "code": 3481},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 0,
+  "code": 2761},
+"Python" :{
+  "nFiles": 14,
+  "blank": 573,
+  "comment": 802,
+  "code": 1538},
+"m4" :{
+  "nFiles": 3,
+  "blank": 100,
+  "comment": 0,
+  "code": 774},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 103,
+  "comment": 17,
+  "code": 760},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 101,
+  "comment": 147,
+  "code": 637},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 0,
+  "code": 531},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 71,
+  "code": 194},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 46,
+  "code": 166},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 30,
+  "code": 125},
+"awk" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 31,
+  "code": 113},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 35,
+  "code": 69},
+"Windows Message File" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 78,
+  "code": 59},
+"lex" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 21,
+  "code": 45},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 23,
+  "code": 26},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 35,
+  "code": 20},
+"sed" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 25,
+  "code": 16},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Windows Module Definition" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 60,
+  "code": 7},
+"SUM": {
+  "blank": 147464,
+  "comment": 202386,
+  "code": 855636,
+  "nFiles": 3033} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.34537982940674,
+  "n_files"            : 19,
+  "n_lines"            : 3869,
+  "files_per_second"   : 8.10103325771589,
+  "lines_per_second"   : 1649.62619337383,
+  "report_file"        : "loc/invenia__Dispatcher.jl.json"},
+"Julia" :{
+  "nFiles": 8,
+  "blank": 571,
+  "comment": 118,
+  "code": 2074},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 83,
+  "comment": 0,
+  "code": 602},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 0,
+  "code": 221},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 13,
+  "code": 52},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 13,
+  "code": 44},
+"SUM": {
+  "blank": 732,
+  "comment": 144,
+  "code": 2993,
+  "nFiles": 19} }

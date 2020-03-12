@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.517367839813232,
+  "n_files"            : 65,
+  "n_lines"            : 5463,
+  "files_per_second"   : 125.635949894885,
+  "lines_per_second"   : 10559.2183734732,
+  "report_file"        : "loc/tmpbook__django-with-vuejs.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 839,
+  "comment": 0,
+  "code": 1848},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 154,
+  "comment": 475,
+  "code": 1413},
+"Python" :{
+  "nFiles": 14,
+  "blank": 92,
+  "comment": 96,
+  "code": 204},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 175},
+"Vuejs Component" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 10,
+  "code": 59},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 28},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 21,
+  "code": 27},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1100,
+  "comment": 602,
+  "code": 3761,
+  "nFiles": 65} }

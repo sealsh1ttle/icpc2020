@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.06441688537598,
+  "n_files"            : 236,
+  "n_lines"            : 57952,
+  "files_per_second"   : 114.317995397048,
+  "lines_per_second"   : 28071.8494459735,
+  "report_file"        : "loc/wso2__kubernetes-apim.json"},
+"XML" :{
+  "nFiles": 56,
+  "blank": 2812,
+  "comment": 12934,
+  "code": 13263},
+"YAML" :{
+  "nFiles": 148,
+  "blank": 353,
+  "comment": 2623,
+  "code": 10884},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 359,
+  "comment": 365,
+  "code": 7866},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 485,
+  "comment": 92,
+  "code": 3470},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 796,
+  "comment": 0,
+  "code": 1640},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 4805,
+  "comment": 16014,
+  "code": 37133,
+  "nFiles": 236} }

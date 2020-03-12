@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 49.8586688041687,
+  "n_files"            : 283,
+  "n_lines"            : 149524,
+  "files_per_second"   : 5.67604404184049,
+  "lines_per_second"   : 2998.95692336451,
+  "report_file"        : "loc/nikolas__CloudBot.json"},
+"JSON" :{
+  "nFiles": 75,
+  "blank": 0,
+  "comment": 0,
+  "code": 125047},
+"Python" :{
+  "nFiles": 194,
+  "blank": 4993,
+  "comment": 3065,
+  "code": 15493},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 373,
+  "comment": 0,
+  "code": 523},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 5371,
+  "comment": 3065,
+  "code": 141088,
+  "nFiles": 283} }

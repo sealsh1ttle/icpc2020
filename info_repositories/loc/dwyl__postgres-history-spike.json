@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.496922969818115,
+  "n_files"            : 53,
+  "n_lines"            : 11235,
+  "files_per_second"   : 106.656369737545,
+  "lines_per_second"   : 22609.1380000249,
+  "report_file"        : "loc/dwyl__postgres-history-spike.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 9753},
+"Elixir" :{
+  "nFiles": 36,
+  "blank": 121,
+  "comment": 314,
+  "code": 443},
+"SQL" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 5,
+  "code": 127},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 11,
+  "code": 117},
+"EEx" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 64},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 19,
+  "code": 57},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 63,
+  "code": 50},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 196,
+  "comment": 412,
+  "code": 10627,
+  "nFiles": 53} }

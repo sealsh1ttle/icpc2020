@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.06254696846008,
+  "n_files"            : 218,
+  "n_lines"            : 21714,
+  "files_per_second"   : 105.694562758375,
+  "lines_per_second"   : 10527.7602556667,
+  "report_file"        : "loc/spatialos__online-services.json"},
+"C#" :{
+  "nFiles": 117,
+  "blank": 2039,
+  "comment": 709,
+  "code": 13879},
+"Markdown" :{
+  "nFiles": 26,
+  "blank": 460,
+  "comment": 17,
+  "code": 815},
+"YAML" :{
+  "nFiles": 19,
+  "blank": 33,
+  "comment": 9,
+  "code": 682},
+"Protocol Buffers" :{
+  "nFiles": 12,
+  "blank": 262,
+  "comment": 1172,
+  "code": 624},
+"MSBuild script" :{
+  "nFiles": 22,
+  "blank": 30,
+  "comment": 0,
+  "code": 390},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 42,
+  "comment": 14,
+  "code": 140},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 24,
+  "comment": 16,
+  "code": 105},
+"HCL" :{
+  "nFiles": 6,
+  "blank": 26,
+  "comment": 11,
+  "code": 94},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 3,
+  "code": 82},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 2930,
+  "comment": 1951,
+  "code": 16833,
+  "nFiles": 218} }

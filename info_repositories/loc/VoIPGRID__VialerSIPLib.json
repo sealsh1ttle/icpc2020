@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.5074698925018,
+  "n_files"            : 103,
+  "n_lines"            : 12200,
+  "files_per_second"   : 5.88320303461514,
+  "lines_per_second"   : 696.845407983541,
+  "report_file"        : "loc/VoIPGRID__VialerSIPLib.json"},
+"Objective C" :{
+  "nFiles": 38,
+  "blank": 920,
+  "comment": 441,
+  "code": 3995},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 11,
+  "code": 1578},
+"Swift" :{
+  "nFiles": 14,
+  "blank": 310,
+  "comment": 159,
+  "code": 1241},
+"C/C++ Header" :{
+  "nFiles": 30,
+  "blank": 395,
+  "comment": 1602,
+  "code": 596},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 289,
+  "comment": 0,
+  "code": 526},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 104},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 8,
+  "code": 19},
+"SUM": {
+  "blank": 1920,
+  "comment": 2221,
+  "code": 8059,
+  "nFiles": 103} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.64037299156189,
+  "n_files"            : 4,
+  "n_lines"            : 142,
+  "files_per_second"   : 6.24635962588596,
+  "lines_per_second"   : 221.745766718952,
+  "report_file"        : "loc/irasanchez__webtesting-iv-challenge.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 5,
+  "code": 56},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 33,
+  "comment": 5,
+  "code": 104,
+  "nFiles": 4} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.870617151260376,
+  "n_files"            : 4,
+  "n_lines"            : 163,
+  "files_per_second"   : 4.5944419934862,
+  "lines_per_second"   : 187.223511234563,
+  "report_file"        : "loc/FormidableLabs__provided-as-is.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 74,
+  "comment": 0,
+  "code": 89},
+"SUM": {
+  "blank": 74,
+  "comment": 0,
+  "code": 89,
+  "nFiles": 4} }

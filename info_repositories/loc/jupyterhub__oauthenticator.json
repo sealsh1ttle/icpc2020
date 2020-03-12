@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.7231910228729,
+  "n_files"            : 49,
+  "n_lines"            : 4816,
+  "files_per_second"   : 3.57059811514173,
+  "lines_per_second"   : 350.93878617393,
+  "report_file"        : "loc/jupyterhub__oauthenticator.json"},
+"Python" :{
+  "nFiles": 35,
+  "blank": 821,
+  "comment": 423,
+  "code": 2610},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 222,
+  "comment": 0,
+  "code": 538},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 29},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 113,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 12},
+"SUM": {
+  "blank": 1051,
+  "comment": 541,
+  "code": 3224,
+  "nFiles": 49} }

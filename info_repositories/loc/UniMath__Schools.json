@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.8355388641357,
+  "n_files"            : 51,
+  "n_lines"            : 16051,
+  "files_per_second"   : 2.23336091622072,
+  "lines_per_second"   : 702.895609142328,
+  "report_file"        : "loc/UniMath__Schools.json"},
+"Coq" :{
+  "nFiles": 35,
+  "blank": 2234,
+  "comment": 3306,
+  "code": 5060},
+"TeX" :{
+  "nFiles": 5,
+  "blank": 1089,
+  "comment": 415,
+  "code": 3689},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 58},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 0,
+  "code": 56},
+"make" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 0,
+  "code": 47},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 3377,
+  "comment": 3721,
+  "code": 8953,
+  "nFiles": 51} }

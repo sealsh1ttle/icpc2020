@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.5834898948669,
+  "n_files"            : 102,
+  "n_lines"            : 21937,
+  "files_per_second"   : 4.51657385438837,
+  "lines_per_second"   : 971.373339644291,
+  "report_file"        : "loc/kubernetes__sig-release.json"},
+"Markdown" :{
+  "nFiles": 97,
+  "blank": 6119,
+  "comment": 0,
+  "code": 15631},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 20,
+  "comment": 16,
+  "code": 151},
+"SUM": {
+  "blank": 6139,
+  "comment": 16,
+  "code": 15782,
+  "nFiles": 102} }

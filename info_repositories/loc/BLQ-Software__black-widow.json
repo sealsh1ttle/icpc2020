@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.81856894493103,
+  "n_files"            : 41,
+  "n_lines"            : 5171,
+  "files_per_second"   : 6.01299192413089,
+  "lines_per_second"   : 758.370274138557,
+  "report_file"        : "loc/BLQ-Software__black-widow.json"},
+"Python" :{
+  "nFiles": 25,
+  "blank": 727,
+  "comment": 1927,
+  "code": 1766},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"reStructuredText" :{
+  "nFiles": 7,
+  "blank": 58,
+  "comment": 97,
+  "code": 60},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 857,
+  "comment": 2032,
+  "code": 2282,
+  "nFiles": 41} }

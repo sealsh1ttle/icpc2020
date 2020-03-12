@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 101.858445167542,
+  "n_files"            : 378,
+  "n_lines"            : 23318,
+  "files_per_second"   : 3.7110324959138,
+  "lines_per_second"   : 228.925544284968,
+  "report_file"        : "loc/hmrc__individual-losses-api.json"},
+"Scala" :{
+  "nFiles": 312,
+  "blank": 3470,
+  "comment": 4805,
+  "code": 12635},
+"JSON" :{
+  "nFiles": 30,
+  "blank": 0,
+  "comment": 0,
+  "code": 982},
+"RAML" :{
+  "nFiles": 14,
+  "blank": 13,
+  "comment": 4,
+  "code": 762},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 13,
+  "comment": 0,
+  "code": 387},
+"XML" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 0,
+  "code": 218},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3523,
+  "comment": 4809,
+  "code": 14986,
+  "nFiles": 378} }

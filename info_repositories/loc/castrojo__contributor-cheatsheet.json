@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.725815057754517,
+  "n_files"            : 1,
+  "n_lines"            : 39,
+  "files_per_second"   : 1.37776144117723,
+  "lines_per_second"   : 53.7326962059121,
+  "report_file"        : "loc/castrojo__contributor-cheatsheet.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 11,
+  "comment": 0,
+  "code": 28,
+  "nFiles": 1} }

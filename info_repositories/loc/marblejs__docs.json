@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.55759501457214,
+  "n_files"            : 46,
+  "n_lines"            : 4187,
+  "files_per_second"   : 6.0865923499877,
+  "lines_per_second"   : 554.012221073881,
+  "report_file"        : "loc/marblejs__docs.json"},
+"Markdown" :{
+  "nFiles": 46,
+  "blank": 1110,
+  "comment": 0,
+  "code": 3077},
+"SUM": {
+  "blank": 1110,
+  "comment": 0,
+  "code": 3077,
+  "nFiles": 46} }

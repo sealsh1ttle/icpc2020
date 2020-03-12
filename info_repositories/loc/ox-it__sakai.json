@@ -1,0 +1,204 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7244.7892229557,
+  "n_files"            : 14309,
+  "n_lines"            : 2804276,
+  "files_per_second"   : 1.97507471365223,
+  "lines_per_second"   : 387.074891166526,
+  "report_file"        : "loc/ox-it__sakai.json"},
+"Java" :{
+  "nFiles": 7226,
+  "blank": 230141,
+  "comment": 441689,
+  "code": 1004383},
+"JavaScript" :{
+  "nFiles": 1497,
+  "blank": 48592,
+  "comment": 67762,
+  "code": 293244},
+"XML" :{
+  "nFiles": 1218,
+  "blank": 17046,
+  "comment": 15208,
+  "code": 114463},
+"HTML" :{
+  "nFiles": 1257,
+  "blank": 11834,
+  "comment": 6108,
+  "code": 101297},
+"CSS" :{
+  "nFiles": 395,
+  "blank": 7234,
+  "comment": 7852,
+  "code": 81314},
+"SQL" :{
+  "nFiles": 580,
+  "blank": 6987,
+  "comment": 6494,
+  "code": 63693},
+"JSP" :{
+  "nFiles": 575,
+  "blank": 7231,
+  "comment": 9757,
+  "code": 54331},
+"Maven" :{
+  "nFiles": 611,
+  "blank": 2665,
+  "comment": 2298,
+  "code": 46580},
+"Velocity Template Language" :{
+  "nFiles": 368,
+  "blank": 2965,
+  "comment": 5081,
+  "code": 41277},
+"Sass" :{
+  "nFiles": 161,
+  "blank": 2556,
+  "comment": 2497,
+  "code": 15870},
+"PHP" :{
+  "nFiles": 71,
+  "blank": 2742,
+  "comment": 5515,
+  "code": 14215},
+"JSON" :{
+  "nFiles": 60,
+  "blank": 4,
+  "comment": 0,
+  "code": 13583},
+"LESS" :{
+  "nFiles": 9,
+  "blank": 1269,
+  "comment": 361,
+  "code": 7877},
+"XSLT" :{
+  "nFiles": 35,
+  "blank": 765,
+  "comment": 747,
+  "code": 6435},
+"XSD" :{
+  "nFiles": 12,
+  "blank": 635,
+  "comment": 78,
+  "code": 4880},
+"Markdown" :{
+  "nFiles": 67,
+  "blank": 1142,
+  "comment": 0,
+  "code": 2824},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 2652},
+"ColdFusion CFScript" :{
+  "nFiles": 3,
+  "blank": 236,
+  "comment": 42,
+  "code": 1547},
+"Perl" :{
+  "nFiles": 14,
+  "blank": 355,
+  "comment": 513,
+  "code": 1435},
+"ColdFusion" :{
+  "nFiles": 14,
+  "blank": 312,
+  "comment": 454,
+  "code": 1394},
+"Python" :{
+  "nFiles": 13,
+  "blank": 350,
+  "comment": 610,
+  "code": 1228},
+"DTD" :{
+  "nFiles": 3,
+  "blank": 480,
+  "comment": 613,
+  "code": 1143},
+"Handlebars" :{
+  "nFiles": 24,
+  "blank": 52,
+  "comment": 0,
+  "code": 1089},
+"ASP" :{
+  "nFiles": 11,
+  "blank": 263,
+  "comment": 329,
+  "code": 996},
+"Ant" :{
+  "nFiles": 9,
+  "blank": 166,
+  "comment": 167,
+  "code": 995},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 237,
+  "comment": 37,
+  "code": 797},
+"Vuejs Component" :{
+  "nFiles": 5,
+  "blank": 39,
+  "comment": 62,
+  "code": 712},
+"Bourne Shell" :{
+  "nFiles": 29,
+  "blank": 160,
+  "comment": 194,
+  "code": 701},
+"Smarty" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 425},
+"diff" :{
+  "nFiles": 6,
+  "blank": 39,
+  "comment": 244,
+  "code": 415},
+"ASP.NET" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 4,
+  "code": 174},
+"XHTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 143},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 32,
+  "code": 142},
+"AspectJ" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 34,
+  "code": 127},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 53,
+  "comment": 68,
+  "code": 120},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 26,
+  "code": 105},
+"DOS Batch" :{
+  "nFiles": 6,
+  "blank": 27,
+  "comment": 15,
+  "code": 57},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 24,
+  "code": 11},
+"SUM": {
+  "blank": 346687,
+  "comment": 574915,
+  "code": 1882674,
+  "nFiles": 14309} }

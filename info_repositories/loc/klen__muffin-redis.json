@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.32102608680725,
+  "n_files"            : 8,
+  "n_lines"            : 918,
+  "files_per_second"   : 1.85141210427431,
+  "lines_per_second"   : 212.449538965477,
+  "report_file"        : "loc/klen__muffin-redis.json"},
+"Python" :{
+  "nFiles": 3,
+  "blank": 99,
+  "comment": 91,
+  "code": 341},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 100,
+  "comment": 24,
+  "code": 171},
+"make" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 15,
+  "code": 49},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 219,
+  "comment": 130,
+  "code": 569,
+  "nFiles": 8} }

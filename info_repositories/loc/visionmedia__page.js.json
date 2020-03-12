@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7237319946289,
+  "n_files"            : 53,
+  "n_lines"            : 6742,
+  "files_per_second"   : 4.94230926570578,
+  "lines_per_second"   : 628.699039045064,
+  "report_file"        : "loc/visionmedia__page.js.json"},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 758,
+  "comment": 1148,
+  "code": 2973},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 262,
+  "comment": 0,
+  "code": 659},
+"HTML" :{
+  "nFiles": 21,
+  "blank": 56,
+  "comment": 2,
+  "code": 536},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 35,
+  "comment": 0,
+  "code": 171},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 94},
+"Pug" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 1116,
+  "comment": 1150,
+  "code": 4476,
+  "nFiles": 53} }

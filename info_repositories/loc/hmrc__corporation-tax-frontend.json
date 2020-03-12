@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.22214818000793,
+  "n_files"            : 239,
+  "n_lines"            : 12805,
+  "files_per_second"   : 195.557301405504,
+  "lines_per_second"   : 10477.4529058472,
+  "report_file"        : "loc/hmrc__corporation-tax-frontend.json"},
+"Scala" :{
+  "nFiles": 171,
+  "blank": 1801,
+  "comment": 2096,
+  "code": 6024},
+"HTML" :{
+  "nFiles": 40,
+  "blank": 204,
+  "comment": 0,
+  "code": 1309},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 52,
+  "comment": 10,
+  "code": 438},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 64,
+  "comment": 0,
+  "code": 253},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 71,
+  "code": 218},
+"XML" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 0,
+  "code": 189},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 5},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2190,
+  "comment": 2177,
+  "code": 8438,
+  "nFiles": 239} }

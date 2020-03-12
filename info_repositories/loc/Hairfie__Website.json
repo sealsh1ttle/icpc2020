@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.075630903244,
+  "n_files"            : 1232,
+  "n_lines"            : 236274,
+  "files_per_second"   : 111.235198316256,
+  "lines_per_second"   : 21332.7802329343,
+  "report_file"        : "loc/Hairfie__Website.json"},
+"JavaScript" :{
+  "nFiles": 653,
+  "blank": 17406,
+  "comment": 13381,
+  "code": 87236},
+"CSS" :{
+  "nFiles": 110,
+  "blank": 2875,
+  "comment": 2428,
+  "code": 63841},
+"Sass" :{
+  "nFiles": 111,
+  "blank": 1502,
+  "comment": 1788,
+  "code": 15980},
+"JSX" :{
+  "nFiles": 122,
+  "blank": 722,
+  "comment": 51,
+  "code": 10511},
+"LESS" :{
+  "nFiles": 85,
+  "blank": 1194,
+  "comment": 1571,
+  "code": 6832},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 408,
+  "comment": 3,
+  "code": 2082},
+"JSON" :{
+  "nFiles": 44,
+  "blank": 2,
+  "comment": 0,
+  "code": 2078},
+"SVG" :{
+  "nFiles": 73,
+  "blank": 0,
+  "comment": 15,
+  "code": 1842},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 661,
+  "comment": 0,
+  "code": 1721},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 16,
+  "code": 93},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 10},
+"SUM": {
+  "blank": 24782,
+  "comment": 19254,
+  "code": 192238,
+  "nFiles": 1232} }

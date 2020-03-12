@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.7188930511475,
+  "n_files"            : 90,
+  "n_lines"            : 35113,
+  "files_per_second"   : 3.1338255217467,
+  "lines_per_second"   : 1222.64461716769,
+  "report_file"        : "loc/CounterpartyXCP__counterparty-lib.json"},
+"Python" :{
+  "nFiles": 64,
+  "blank": 2705,
+  "comment": 2449,
+  "code": 16124},
+"SQL" :{
+  "nFiles": 8,
+  "blank": 304,
+  "comment": 576,
+  "code": 11009},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 1185},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 72,
+  "comment": 0,
+  "code": 536},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 10,
+  "code": 69},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 24},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 7,
+  "code": 19},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3097,
+  "comment": 3048,
+  "code": 28968,
+  "nFiles": 90} }

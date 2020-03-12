@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.225948095321655,
+  "n_files"            : 10,
+  "n_lines"            : 9449,
+  "files_per_second"   : 44.2579521892592,
+  "lines_per_second"   : 41819.339023631,
+  "report_file"        : "loc/stm32duino__LSM303AGR.json"},
+"C" :{
+  "nFiles": 2,
+  "blank": 1073,
+  "comment": 2013,
+  "code": 2503},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 372,
+  "comment": 1086,
+  "code": 1232},
+"C++" :{
+  "nFiles": 2,
+  "blank": 147,
+  "comment": 291,
+  "code": 597},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 49,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 1615,
+  "comment": 3439,
+  "code": 4395,
+  "nFiles": 10} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.1741189956665,
+  "n_files"            : 1514,
+  "n_lines"            : 45084,
+  "files_per_second"   : 124.362181816928,
+  "lines_per_second"   : 3703.26592142299,
+  "report_file"        : "loc/Juuxel__Adorn.json"},
+"JSON" :{
+  "nFiles": 1314,
+  "blank": 116,
+  "comment": 0,
+  "code": 35279},
+"Kotlin" :{
+  "nFiles": 176,
+  "blank": 1230,
+  "comment": 225,
+  "code": 7169},
+"Java" :{
+  "nFiles": 10,
+  "blank": 32,
+  "comment": 10,
+  "code": 253},
+"JSON5" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 2,
+  "code": 228},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 10,
+  "code": 155},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 0,
+  "code": 41},
+"Fish Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 1484,
+  "comment": 270,
+  "code": 43330,
+  "nFiles": 1514} }

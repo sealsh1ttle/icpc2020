@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.597970962524414,
+  "n_files"            : 122,
+  "n_lines"            : 10288,
+  "files_per_second"   : 204.02328481798,
+  "lines_per_second"   : 17204.8488049785,
+  "report_file"        : "loc/brianc__node-postgres.json"},
+"JavaScript" :{
+  "nFiles": 113,
+  "blank": 1259,
+  "comment": 423,
+  "code": 7912},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 171,
+  "comment": 0,
+  "code": 274},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 0,
+  "code": 67},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"make" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 47},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 46},
+"SUM": {
+  "blank": 1469,
+  "comment": 423,
+  "code": 8396,
+  "nFiles": 122} }

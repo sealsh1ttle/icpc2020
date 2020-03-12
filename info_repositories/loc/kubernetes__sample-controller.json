@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.5989701747894,
+  "n_files"            : 46,
+  "n_lines"            : 3492,
+  "files_per_second"   : 3.96586932346648,
+  "lines_per_second"   : 301.061210381412,
+  "report_file"        : "loc/kubernetes__sample-controller.json"},
+"Go" :{
+  "nFiles": 34,
+  "blank": 466,
+  "comment": 737,
+  "code": 1462},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 430},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 80,
+  "comment": 0,
+  "code": 183},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 51},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 32,
+  "code": 38},
+"SUM": {
+  "blank": 559,
+  "comment": 769,
+  "code": 2164,
+  "nFiles": 46} }

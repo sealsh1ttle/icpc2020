@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.5506241321564,
+  "n_files"            : 210,
+  "n_lines"            : 10376,
+  "files_per_second"   : 4.416345817383,
+  "lines_per_second"   : 218.209543815076,
+  "report_file"        : "loc/jcpny1__recipe-cat.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 886,
+  "comment": 520,
+  "code": 4055},
+"Ruby" :{
+  "nFiles": 136,
+  "blank": 426,
+  "comment": 788,
+  "code": 1818},
+"ERB" :{
+  "nFiles": 39,
+  "blank": 87,
+  "comment": 0,
+  "code": 804},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 20,
+  "comment": 4,
+  "code": 243},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 20,
+  "comment": 48,
+  "code": 196},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 69},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 7,
+  "comment": 22,
+  "code": 42},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 3,
+  "code": 5},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 1},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 1462,
+  "comment": 1392,
+  "code": 7522,
+  "nFiles": 210} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.7517509460449,
+  "n_files"            : 48,
+  "n_lines"            : 3178,
+  "files_per_second"   : 3.04728027788252,
+  "lines_per_second"   : 201.755348398138,
+  "report_file"        : "loc/src-d__infrastructure-dockerfiles.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1858},
+"Dockerfile" :{
+  "nFiles": 18,
+  "blank": 76,
+  "comment": 53,
+  "code": 504},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 60,
+  "comment": 39,
+  "code": 276},
+"Python" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 14,
+  "code": 68},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 26,
+  "comment": 0,
+  "code": 58},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 1,
+  "code": 53},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 27},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 18},
+"diff" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 7},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 195,
+  "comment": 113,
+  "code": 2870,
+  "nFiles": 48} }

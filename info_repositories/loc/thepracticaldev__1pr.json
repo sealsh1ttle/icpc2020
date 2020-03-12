@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.66851806640625,
+  "n_files"            : 31,
+  "n_lines"            : 3289,
+  "files_per_second"   : 3.20628247132423,
+  "lines_per_second"   : 340.176227360819,
+  "report_file"        : "loc/thepracticaldev__1pr.json"},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 372,
+  "comment": 209,
+  "code": 1121},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 162,
+  "comment": 29,
+  "code": 805},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 63,
+  "comment": 6,
+  "code": 251},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 64,
+  "comment": 0,
+  "code": 135},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 661,
+  "comment": 245,
+  "code": 2383,
+  "nFiles": 31} }

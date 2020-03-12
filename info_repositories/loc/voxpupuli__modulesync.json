@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.37733197212219,
+  "n_files"            : 26,
+  "n_lines"            : 2615,
+  "files_per_second"   : 4.83511156365133,
+  "lines_per_second"   : 486.300643805701,
+  "report_file"        : "loc/voxpupuli__modulesync.json"},
+"Cucumber" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 0,
+  "code": 949},
+"Ruby" :{
+  "nFiles": 17,
+  "blank": 97,
+  "comment": 27,
+  "code": 774},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 182,
+  "comment": 0,
+  "code": 422},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 28,
+  "code": 74},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 335,
+  "comment": 55,
+  "code": 2225,
+  "nFiles": 26} }

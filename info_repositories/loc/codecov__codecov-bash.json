@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.15763592720032,
+  "n_files"            : 13,
+  "n_lines"            : 2526,
+  "files_per_second"   : 3.12677690582542,
+  "lines_per_second"   : 607.556804931923,
+  "report_file"        : "loc/codecov__codecov-bash.json"},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 223,
+  "comment": 129,
+  "code": 1904},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 0,
+  "code": 80},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 44},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 37},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"C++" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 7},
+"Go" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 4,
+  "code": 6},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 6},
+"Kotlin" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 5},
+"SUM": {
+  "blank": 285,
+  "comment": 141,
+  "code": 2100,
+  "nFiles": 13} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.10416483879089,
+  "n_files"            : 36,
+  "n_lines"            : 2361,
+  "files_per_second"   : 5.06744998418802,
+  "lines_per_second"   : 332.340261462998,
+  "report_file"        : "loc/oxinabox__DataDeps.jl.json"},
+"Julia" :{
+  "nFiles": 22,
+  "blank": 296,
+  "comment": 69,
+  "code": 1251},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 148,
+  "comment": 0,
+  "code": 448},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 10,
+  "code": 77},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 2,
+  "code": 20},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 468,
+  "comment": 81,
+  "code": 1812,
+  "nFiles": 36} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.6682250499725,
+  "n_files"            : 51,
+  "n_lines"            : 487872,
+  "files_per_second"   : 1.66295897192934,
+  "lines_per_second"   : 15908.0611677081,
+  "report_file"        : "loc/GWGweb-projectgroup__practice-project.json"},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 3177,
+  "comment": 3343,
+  "code": 327200},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 148279},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 327,
+  "comment": 447,
+  "code": 3519},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 126,
+  "comment": 54,
+  "code": 655},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 167,
+  "comment": 0,
+  "code": 308},
+"PHP" :{
+  "nFiles": 6,
+  "blank": 36,
+  "comment": 7,
+  "code": 227},
+"SUM": {
+  "blank": 3833,
+  "comment": 3851,
+  "code": 480188,
+  "nFiles": 51} }

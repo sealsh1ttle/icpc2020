@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.0899970531464,
+  "n_files"            : 45,
+  "n_lines"            : 110366,
+  "files_per_second"   : 2.63311923694658,
+  "lines_per_second"   : 6457.92972677435,
+  "report_file"        : "loc/decibelcooper__eicio.json"},
+"Java" :{
+  "nFiles": 6,
+  "blank": 3238,
+  "comment": 8642,
+  "code": 40348},
+"C++" :{
+  "nFiles": 9,
+  "blank": 2675,
+  "comment": 2956,
+  "code": 18911},
+"Go" :{
+  "nFiles": 10,
+  "blank": 926,
+  "comment": 149,
+  "code": 17785},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 1402,
+  "comment": 1683,
+  "code": 7282},
+"Python" :{
+  "nFiles": 7,
+  "blank": 210,
+  "comment": 52,
+  "code": 3500},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 9,
+  "code": 347},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 41},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 26},
+"make" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 2,
+  "code": 24},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 8534,
+  "comment": 13493,
+  "code": 88339,
+  "nFiles": 45} }

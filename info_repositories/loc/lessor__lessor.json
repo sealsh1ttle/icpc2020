@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.2208030223846,
+  "n_files"            : 65,
+  "n_lines"            : 2942,
+  "files_per_second"   : 5.792811786316,
+  "lines_per_second"   : 262.191573466795,
+  "report_file"        : "loc/lessor__lessor.json"},
+"Go" :{
+  "nFiles": 42,
+  "blank": 353,
+  "comment": 333,
+  "code": 1671},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 132,
+  "comment": 0,
+  "code": 249},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 124},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 31},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 507,
+  "comment": 333,
+  "code": 2102,
+  "nFiles": 65} }

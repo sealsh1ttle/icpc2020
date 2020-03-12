@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.0443909168243,
+  "n_files"            : 82,
+  "n_lines"            : 29432,
+  "files_per_second"   : 3.0320520159686,
+  "lines_per_second"   : 1088.28481626814,
+  "report_file"        : "loc/CounterpartyXCP__counterwallet.json"},
+"JavaScript" :{
+  "nFiles": 44,
+  "blank": 2766,
+  "comment": 1558,
+  "code": 14420},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 52,
+  "comment": 0,
+  "code": 4116},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 316,
+  "comment": 114,
+  "code": 3850},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 250,
+  "comment": 82,
+  "code": 1198},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 105,
+  "comment": 0,
+  "code": 352},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 16,
+  "code": 76},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 11,
+  "code": 54},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 9,
+  "code": 49},
+"SUM": {
+  "blank": 3527,
+  "comment": 1790,
+  "code": 24115,
+  "nFiles": 82} }

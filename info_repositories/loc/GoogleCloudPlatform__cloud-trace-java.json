@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 71.1280529499054,
+  "n_files"            : 187,
+  "n_lines"            : 10960,
+  "files_per_second"   : 2.62906114035909,
+  "lines_per_second"   : 154.088289295912,
+  "report_file"        : "loc/GoogleCloudPlatform__cloud-trace-java.json"},
+"Java" :{
+  "nFiles": 147,
+  "blank": 1102,
+  "comment": 3179,
+  "code": 4665},
+"Maven" :{
+  "nFiles": 36,
+  "blank": 154,
+  "comment": 11,
+  "code": 1617},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 131},
+"XML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 43},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 13,
+  "code": 6},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1292,
+  "comment": 3203,
+  "code": 6465,
+  "nFiles": 187} }

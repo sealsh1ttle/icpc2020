@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0874509811401367,
+  "n_files"            : 2,
+  "n_lines"            : 59,
+  "files_per_second"   : 22.8699549613409,
+  "lines_per_second"   : 674.663671359557,
+  "report_file"        : "loc/AndriySikora__JumpingButton.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 28},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 11,
+  "comment": 0,
+  "code": 48,
+  "nFiles": 2} }

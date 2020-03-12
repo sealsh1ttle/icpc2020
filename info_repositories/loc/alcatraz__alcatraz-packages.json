@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.505435943603516,
+  "n_files"            : 4,
+  "n_lines"            : 2703,
+  "files_per_second"   : 7.91396031608263,
+  "lines_per_second"   : 5347.85868359284,
+  "report_file"        : "loc/alcatraz__alcatraz-packages.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2589},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 49},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 21,
+  "comment": 0,
+  "code": 2682,
+  "nFiles": 4} }

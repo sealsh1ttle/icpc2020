@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.950660943984985,
+  "n_files"            : 99,
+  "n_lines"            : 30873,
+  "files_per_second"   : 104.138074280207,
+  "lines_per_second"   : 32475.3006793215,
+  "report_file"        : "loc/YosefLab__scVI.json"},
+"Python" :{
+  "nFiles": 60,
+  "blank": 1783,
+  "comment": 2055,
+  "code": 9686},
+"Jupyter Notebook" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 13992,
+  "code": 2347},
+"reStructuredText" :{
+  "nFiles": 14,
+  "blank": 181,
+  "comment": 184,
+  "code": 276},
+"RobotFramework" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 146},
+"make" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 6,
+  "code": 86},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 2,
+  "code": 38},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 2014,
+  "comment": 16240,
+  "code": 12619,
+  "nFiles": 99} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.98807716369629,
+  "n_files"            : 31,
+  "n_lines"            : 1871,
+  "files_per_second"   : 3.88078374366322,
+  "lines_per_second"   : 234.224076915932,
+  "report_file"        : "loc/octavm__v-leaflet-shramov-parent.json"},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 77,
+  "code": 519},
+"Java" :{
+  "nFiles": 17,
+  "blank": 136,
+  "comment": 54,
+  "code": 497},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 13,
+  "code": 263},
+"XML" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 19,
+  "code": 98},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 0,
+  "code": 57},
+"SUM": {
+  "blank": 274,
+  "comment": 163,
+  "code": 1434,
+  "nFiles": 31} }

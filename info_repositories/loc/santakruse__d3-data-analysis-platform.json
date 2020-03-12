@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.3139050006866,
+  "n_files"            : 78,
+  "n_lines"            : 2028,
+  "files_per_second"   : 4.25905889525339,
+  "lines_per_second"   : 110.735531276588,
+  "report_file"        : "loc/santakruse__d3-data-analysis-platform.json"},
+"Ruby" :{
+  "nFiles": 47,
+  "blank": 153,
+  "comment": 287,
+  "code": 379},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 36,
+  "code": 236},
+"ERB" :{
+  "nFiles": 14,
+  "blank": 23,
+  "comment": 0,
+  "code": 231},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 38,
+  "code": 216},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 39,
+  "code": 88},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 287,
+  "comment": 406,
+  "code": 1335,
+  "nFiles": 78} }

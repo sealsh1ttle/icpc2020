@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.9945809841156,
+  "n_files"            : 14,
+  "n_lines"            : 6092,
+  "files_per_second"   : 4.67511150116205,
+  "lines_per_second"   : 2034.34137607708,
+  "report_file"        : "loc/tylrhas__g5-auth-js.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5712},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 25,
+  "comment": 15,
+  "code": 300},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 33,
+  "comment": 15,
+  "code": 6044,
+  "nFiles": 14} }

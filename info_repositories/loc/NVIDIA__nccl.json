@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.0557370185852,
+  "n_files"            : 81,
+  "n_lines"            : 13273,
+  "files_per_second"   : 5.04492568022502,
+  "lines_per_second"   : 826.682698192922,
+  "report_file"        : "loc/NVIDIA__nccl.json"},
+"C++" :{
+  "nFiles": 23,
+  "blank": 775,
+  "comment": 592,
+  "code": 5589},
+"C/C++ Header" :{
+  "nFiles": 36,
+  "blank": 712,
+  "comment": 565,
+  "code": 4123},
+"make" :{
+  "nFiles": 13,
+  "blank": 107,
+  "comment": 92,
+  "code": 424},
+"CUDA" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 38,
+  "code": 75},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 64},
+"C" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 5,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 5,
+  "code": 20},
+"SUM": {
+  "blank": 1647,
+  "comment": 1297,
+  "code": 10329,
+  "nFiles": 81} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.29358696937561,
+  "n_files"            : 1,
+  "n_lines"            : 271,
+  "files_per_second"   : 3.40614572277088,
+  "lines_per_second"   : 923.065490870908,
+  "report_file"        : "loc/learn-co-curriculum__activerecord-validations-readme.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 88,
+  "comment": 0,
+  "code": 183},
+"SUM": {
+  "blank": 88,
+  "comment": 0,
+  "code": 183,
+  "nFiles": 1} }

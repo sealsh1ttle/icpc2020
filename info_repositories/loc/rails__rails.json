@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 990.043851137161,
+  "n_files"            : 3564,
+  "n_lines"            : 473501,
+  "files_per_second"   : 3.59984054838218,
+  "lines_per_second"   : 478.262654180558,
+  "report_file"        : "loc/rails__rails.json"},
+"Ruby" :{
+  "nFiles": 2816,
+  "blank": 64008,
+  "comment": 50867,
+  "code": 274754},
+"Markdown" :{
+  "nFiles": 87,
+  "blank": 15802,
+  "comment": 0,
+  "code": 39906},
+"JavaScript" :{
+  "nFiles": 80,
+  "blank": 2872,
+  "comment": 2227,
+  "code": 13078},
+"YAML" :{
+  "nFiles": 149,
+  "blank": 364,
+  "comment": 278,
+  "code": 3215},
+"ERB" :{
+  "nFiles": 360,
+  "blank": 289,
+  "comment": 11,
+  "code": 2082},
+"CSS" :{
+  "nFiles": 22,
+  "blank": 312,
+  "comment": 159,
+  "code": 1923},
+"CoffeeScript" :{
+  "nFiles": 12,
+  "blank": 97,
+  "comment": 125,
+  "code": 412},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 342},
+"HTML" :{
+  "nFiles": 20,
+  "blank": 15,
+  "comment": 3,
+  "code": 199},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 46},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 43},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 9,
+  "code": 24},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 12},
+"builder" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 83774,
+  "comment": 53680,
+  "code": 336047,
+  "nFiles": 3564} }

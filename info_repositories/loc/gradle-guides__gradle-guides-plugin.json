@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.889622926712,
+  "n_files"            : 75,
+  "n_lines"            : 6144,
+  "files_per_second"   : 5.81863413898419,
+  "lines_per_second"   : 476.662508665585,
+  "report_file"        : "loc/gradle-guides__gradle-guides-plugin.json"},
+"Groovy" :{
+  "nFiles": 45,
+  "blank": 690,
+  "comment": 490,
+  "code": 3034},
+"Java" :{
+  "nFiles": 15,
+  "blank": 151,
+  "comment": 97,
+  "code": 702},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 1,
+  "code": 291},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 28,
+  "comment": 3,
+  "code": 159},
+"AsciiDoc" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 0,
+  "code": 129},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 37,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 18},
+"SUM": {
+  "blank": 977,
+  "comment": 631,
+  "code": 4536,
+  "nFiles": 75} }

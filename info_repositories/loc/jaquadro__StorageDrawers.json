@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.13826012611389,
+  "n_files"            : 470,
+  "n_lines"            : 31156,
+  "files_per_second"   : 113.574300714963,
+  "lines_per_second"   : 7528.7679001604,
+  "report_file"        : "loc/jaquadro__StorageDrawers.json"},
+"Java" :{
+  "nFiles": 291,
+  "blank": 5030,
+  "comment": 2932,
+  "code": 19839},
+"JSON" :{
+  "nFiles": 165,
+  "blank": 0,
+  "comment": 0,
+  "code": 1926},
+"C#" :{
+  "nFiles": 6,
+  "blank": 59,
+  "comment": 87,
+  "code": 465},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 11,
+  "code": 147},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"XML" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 96,
+  "code": 119},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 81},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 5197,
+  "comment": 3156,
+  "code": 22803,
+  "nFiles": 470} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.46628713607788,
+  "n_files"            : 12,
+  "n_lines"            : 26980,
+  "files_per_second"   : 3.46191747218554,
+  "lines_per_second"   : 7783.54444996383,
+  "report_file"        : "loc/hbalenda__kele.json"},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 26834},
+"Ruby" :{
+  "nFiles": 6,
+  "blank": 16,
+  "comment": 0,
+  "code": 130},
+"SUM": {
+  "blank": 16,
+  "comment": 0,
+  "code": 26964,
+  "nFiles": 12} }

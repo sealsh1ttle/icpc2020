@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 63.6489551067352,
+  "n_files"            : 316,
+  "n_lines"            : 23423,
+  "files_per_second"   : 4.96473193424917,
+  "lines_per_second"   : 368.002899037716,
+  "report_file"        : "loc/jenkinsci__kubernetes-plugin.json"},
+"Java" :{
+  "nFiles": 107,
+  "blank": 2360,
+  "comment": 1994,
+  "code": 11693},
+"XML" :{
+  "nFiles": 48,
+  "blank": 181,
+  "comment": 123,
+  "code": 1910},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 535,
+  "comment": 0,
+  "code": 1679},
+"Groovy" :{
+  "nFiles": 62,
+  "blank": 72,
+  "comment": 102,
+  "code": 1575},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 7,
+  "comment": 15,
+  "code": 392},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 9,
+  "code": 310},
+"HTML" :{
+  "nFiles": 81,
+  "blank": 19,
+  "comment": 75,
+  "code": 283},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 51},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 6},
+"SUM": {
+  "blank": 3199,
+  "comment": 2325,
+  "code": 17899,
+  "nFiles": 316} }

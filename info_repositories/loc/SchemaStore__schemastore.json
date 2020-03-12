@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 117.157102823257,
+  "n_files"            : 531,
+  "n_lines"            : 1034657,
+  "files_per_second"   : 4.53237564948208,
+  "lines_per_second"   : 8831.3638274316,
+  "report_file"        : "loc/SchemaStore__schemastore.json"},
+"JSON" :{
+  "nFiles": 468,
+  "blank": 4781,
+  "comment": 0,
+  "code": 1010099},
+"XML" :{
+  "nFiles": 46,
+  "blank": 802,
+  "comment": 2,
+  "code": 12859},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 488,
+  "comment": 2917,
+  "code": 2038},
+"Razor" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 2,
+  "code": 226},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 150},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 50},
+"ASP" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 45},
+"ASP.NET" :{
+  "nFiles": 1,
+  "blank": 91,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 6260,
+  "comment": 2921,
+  "code": 1025476,
+  "nFiles": 531} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.8368110656738,
+  "n_files"            : 74,
+  "n_lines"            : 1761,
+  "files_per_second"   : 2.97944852116192,
+  "lines_per_second"   : 70.9028222400831,
+  "report_file"        : "loc/umijs__create-umi.json"},
+"JavaScript" :{
+  "nFiles": 29,
+  "blank": 82,
+  "comment": 30,
+  "code": 806},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 260},
+"TypeScript" :{
+  "nFiles": 19,
+  "blank": 26,
+  "comment": 5,
+  "code": 223},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 81,
+  "comment": 0,
+  "code": 173},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 0,
+  "code": 47},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 198,
+  "comment": 35,
+  "code": 1528,
+  "nFiles": 74} }

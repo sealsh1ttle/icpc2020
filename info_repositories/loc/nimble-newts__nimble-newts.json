@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 219.162722826004,
+  "n_files"            : 286,
+  "n_lines"            : 178935,
+  "files_per_second"   : 1.30496644827259,
+  "lines_per_second"   : 816.44815182397,
+  "report_file"        : "loc/nimble-newts__nimble-newts.json"},
+"JavaScript" :{
+  "nFiles": 112,
+  "blank": 5747,
+  "comment": 2924,
+  "code": 66098},
+"CSS" :{
+  "nFiles": 93,
+  "blank": 10388,
+  "comment": 8986,
+  "code": 50919},
+"LESS" :{
+  "nFiles": 47,
+  "blank": 3198,
+  "comment": 3709,
+  "code": 19126},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 3,
+  "code": 5688},
+"JSX" :{
+  "nFiles": 16,
+  "blank": 128,
+  "comment": 51,
+  "code": 1080},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 182,
+  "comment": 0,
+  "code": 493},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 163},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 41},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 19651,
+  "comment": 15673,
+  "code": 143611,
+  "nFiles": 286} }

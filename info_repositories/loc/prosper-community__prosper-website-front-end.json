@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.6816120147705,
+  "n_files"            : 54,
+  "n_lines"            : 3708,
+  "files_per_second"   : 3.23709722730552,
+  "lines_per_second"   : 222.280676274979,
+  "report_file"        : "loc/prosper-community__prosper-website-front-end.json"},
+"Sass" :{
+  "nFiles": 22,
+  "blank": 156,
+  "comment": 181,
+  "code": 1246},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 68,
+  "comment": 48,
+  "code": 1144},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 129,
+  "comment": 0,
+  "code": 342},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 48,
+  "code": 117},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 27,
+  "comment": 9,
+  "code": 88},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 66},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 401,
+  "comment": 286,
+  "code": 3021,
+  "nFiles": 54} }

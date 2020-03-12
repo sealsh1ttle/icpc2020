@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.3641059398651,
+  "n_files"            : 125,
+  "n_lines"            : 10106,
+  "files_per_second"   : 10.10991013891,
+  "lines_per_second"   : 817.366014910598,
+  "report_file"        : "loc/swagger-api__swagger-node.json"},
+"JavaScript" :{
+  "nFiles": 78,
+  "blank": 1175,
+  "comment": 2756,
+  "code": 3678},
+"Markdown" :{
+  "nFiles": 26,
+  "blank": 488,
+  "comment": 0,
+  "code": 1184},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 200},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 40,
+  "code": 173},
+"EJS" :{
+  "nFiles": 5,
+  "blank": 69,
+  "comment": 134,
+  "code": 171},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 27,
+  "code": 0},
+"SUM": {
+  "blank": 1743,
+  "comment": 2957,
+  "code": 5406,
+  "nFiles": 125} }

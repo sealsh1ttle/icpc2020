@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 192.350248098373,
+  "n_files"            : 356,
+  "n_lines"            : 124402,
+  "files_per_second"   : 1.85079043837745,
+  "lines_per_second"   : 646.747281221999,
+  "report_file"        : "loc/mozilla__pdf.js.json"},
+"JavaScript" :{
+  "nFiles": 268,
+  "blank": 8541,
+  "comment": 12496,
+  "code": 79411},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 2,
+  "comment": 0,
+  "code": 18223},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 378,
+  "comment": 162,
+  "code": 2441},
+"HTML" :{
+  "nFiles": 34,
+  "blank": 191,
+  "comment": 252,
+  "code": 1327},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 221,
+  "comment": 0,
+  "code": 488},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 191},
+"Pug" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 45},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 9339,
+  "comment": 12913,
+  "code": 102150,
+  "nFiles": 356} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.3326480388641,
+  "n_files"            : 94,
+  "n_lines"            : 9700,
+  "files_per_second"   : 4.62310663226585,
+  "lines_per_second"   : 477.065258861476,
+  "report_file"        : "loc/chaoskagami__corbenik.json"},
+"C" :{
+  "nFiles": 35,
+  "blank": 1197,
+  "comment": 393,
+  "code": 4945},
+"C/C++ Header" :{
+  "nFiles": 31,
+  "blank": 310,
+  "comment": 281,
+  "code": 782},
+"Assembly" :{
+  "nFiles": 6,
+  "blank": 100,
+  "comment": 81,
+  "code": 351},
+"Python" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 18,
+  "code": 308},
+"make" :{
+  "nFiles": 11,
+  "blank": 88,
+  "comment": 47,
+  "code": 258},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 106,
+  "comment": 0,
+  "code": 211},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 65},
+"m4" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 42},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 4,
+  "code": 29},
+"SUM": {
+  "blank": 1884,
+  "comment": 825,
+  "code": 6991,
+  "nFiles": 94} }

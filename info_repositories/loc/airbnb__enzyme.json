@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.7939260005951,
+  "n_files"            : 338,
+  "n_lines"            : 43111,
+  "files_per_second"   : 5.55976595419568,
+  "lines_per_second"   : 709.13334334713,
+  "report_file"        : "loc/airbnb__enzyme.json"},
+"JSX" :{
+  "nFiles": 93,
+  "blank": 3013,
+  "comment": 165,
+  "code": 19663},
+"JavaScript" :{
+  "nFiles": 65,
+  "blank": 849,
+  "comment": 1793,
+  "code": 7496},
+"Markdown" :{
+  "nFiles": 160,
+  "blank": 2869,
+  "comment": 0,
+  "code": 6139},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 0,
+  "code": 1013},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 96},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 6735,
+  "comment": 1959,
+  "code": 34417,
+  "nFiles": 338} }

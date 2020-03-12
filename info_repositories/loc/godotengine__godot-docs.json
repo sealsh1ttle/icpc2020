@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.72939991950989,
+  "n_files"            : 978,
+  "n_lines"            : 183762,
+  "files_per_second"   : 112.03519245512,
+  "lines_per_second"   : 21050.9315295887,
+  "report_file"        : "loc/godotengine__godot-docs.json"},
+"reStructuredText" :{
+  "nFiles": 939,
+  "blank": 57933,
+  "comment": 25150,
+  "code": 91734},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 19,
+  "comment": 19,
+  "code": 7448},
+"Python" :{
+  "nFiles": 5,
+  "blank": 144,
+  "comment": 106,
+  "code": 518},
+"make" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 7,
+  "code": 159},
+"GDScript" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 113},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 0,
+  "code": 81},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 20,
+  "code": 62},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 17,
+  "code": 37},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 28},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 3},
+"SUM": {
+  "blank": 58234,
+  "comment": 25325,
+  "code": 100203,
+  "nFiles": 978} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.11930894851685,
+  "n_files"            : 182,
+  "n_lines"            : 28161,
+  "files_per_second"   : 85.8770497465077,
+  "lines_per_second"   : 13287.8219665462,
+  "report_file"        : "loc/nhsuk__nhsuk-frontend.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 11327},
+"Markdown" :{
+  "nFiles": 56,
+  "blank": 1682,
+  "comment": 0,
+  "code": 6666},
+"Sass" :{
+  "nFiles": 80,
+  "blank": 1244,
+  "comment": 817,
+  "code": 4652},
+"JavaScript" :{
+  "nFiles": 25,
+  "blank": 147,
+  "comment": 227,
+  "code": 1184},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 15,
+  "code": 136},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 51},
+"SUM": {
+  "blank": 3086,
+  "comment": 1059,
+  "code": 24016,
+  "nFiles": 182} }

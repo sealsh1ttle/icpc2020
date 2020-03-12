@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.800742149353,
+  "n_files"            : 108,
+  "n_lines"            : 13164,
+  "files_per_second"   : 5.74445408282548,
+  "lines_per_second"   : 700.185125428839,
+  "report_file"        : "loc/poanetwork__token-wizard-test-automation.json"},
+"JSON" :{
+  "nFiles": 80,
+  "blank": 129,
+  "comment": 0,
+  "code": 7534},
+"JavaScript" :{
+  "nFiles": 26,
+  "blank": 1001,
+  "comment": 249,
+  "code": 4074},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 103},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 20,
+  "code": 28},
+"SUM": {
+  "blank": 1156,
+  "comment": 269,
+  "code": 11739,
+  "nFiles": 108} }

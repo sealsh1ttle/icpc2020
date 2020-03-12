@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7724919319153,
+  "n_files"            : 54,
+  "n_lines"            : 8524,
+  "files_per_second"   : 5.01276773668459,
+  "lines_per_second"   : 791.274670138879,
+  "report_file"        : "loc/apiaryio__metamorphoses.json"},
+"JSON" :{
+  "nFiles": 25,
+  "blank": 3,
+  "comment": 0,
+  "code": 4620},
+"CoffeeScript" :{
+  "nFiles": 26,
+  "blank": 547,
+  "comment": 137,
+  "code": 2953},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 87,
+  "comment": 0,
+  "code": 150},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 642,
+  "comment": 137,
+  "code": 7745,
+  "nFiles": 54} }

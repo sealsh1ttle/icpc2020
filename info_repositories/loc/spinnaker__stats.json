@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.92739105224609,
+  "n_files"            : 12,
+  "n_lines"            : 1121,
+  "files_per_second"   : 6.22603284684535,
+  "lines_per_second"   : 581.61523510947,
+  "report_file"        : "loc/spinnaker__stats.json"},
+"Go" :{
+  "nFiles": 5,
+  "blank": 123,
+  "comment": 27,
+  "code": 768},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 2,
+  "code": 68},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 2,
+  "code": 63},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 15},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 13},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 158,
+  "comment": 32,
+  "code": 931,
+  "nFiles": 12} }

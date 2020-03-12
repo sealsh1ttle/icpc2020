@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.8501040935516,
+  "n_files"            : 54,
+  "n_lines"            : 4317,
+  "files_per_second"   : 3.89888766432748,
+  "lines_per_second"   : 311.694408275958,
+  "report_file"        : "loc/StepicOrg__Stepik-API.json"},
+"Python" :{
+  "nFiles": 36,
+  "blank": 626,
+  "comment": 341,
+  "code": 2244},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 32,
+  "code": 381},
+"TeX" :{
+  "nFiles": 8,
+  "blank": 96,
+  "comment": 18,
+  "code": 312},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 69,
+  "comment": 0,
+  "code": 125},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 5},
+"SUM": {
+  "blank": 847,
+  "comment": 393,
+  "code": 3077,
+  "nFiles": 54} }

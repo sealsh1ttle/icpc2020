@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.4231128692627,
+  "n_files"            : 63,
+  "n_lines"            : 3470,
+  "files_per_second"   : 4.08477850963245,
+  "lines_per_second"   : 224.987006800391,
+  "report_file"        : "loc/arc42__arc42-template.json"},
+"AsciiDoc" :{
+  "nFiles": 62,
+  "blank": 1035,
+  "comment": 126,
+  "code": 2288},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 1036,
+  "comment": 126,
+  "code": 2308,
+  "nFiles": 63} }

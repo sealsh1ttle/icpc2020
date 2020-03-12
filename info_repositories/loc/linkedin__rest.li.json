@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1041.70365595818,
+  "n_files"            : 2972,
+  "n_lines"            : 478121,
+  "files_per_second"   : 2.85301869010559,
+  "lines_per_second"   : 458.979861753693,
+  "report_file"        : "loc/linkedin__rest.li.json"},
+"Java" :{
+  "nFiles": 2562,
+  "blank": 59472,
+  "comment": 85574,
+  "code": 310116},
+"JSON" :{
+  "nFiles": 252,
+  "blank": 5,
+  "comment": 0,
+  "code": 16174},
+"Gradle" :{
+  "nFiles": 83,
+  "blank": 289,
+  "comment": 173,
+  "code": 1958},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 139,
+  "comment": 62,
+  "code": 691},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 25,
+  "comment": 0,
+  "code": 612},
+"Velocity Template Language" :{
+  "nFiles": 17,
+  "blank": 54,
+  "comment": 22,
+  "code": 597},
+"Python" :{
+  "nFiles": 4,
+  "blank": 88,
+  "comment": 22,
+  "code": 310},
+"R" :{
+  "nFiles": 2,
+  "blank": 119,
+  "comment": 62,
+  "code": 290},
+"XML" :{
+  "nFiles": 13,
+  "blank": 43,
+  "comment": 21,
+  "code": 249},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 84,
+  "comment": 0,
+  "code": 248},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 12,
+  "code": 198},
+"ANTLR Grammar" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 42,
+  "code": 139},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 60452,
+  "comment": 85992,
+  "code": 331677,
+  "nFiles": 2972} }

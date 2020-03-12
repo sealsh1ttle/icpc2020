@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 199.763980150223,
+  "n_files"            : 603,
+  "n_lines"            : 36775,
+  "files_per_second"   : 3.01856220298846,
+  "lines_per_second"   : 184.092247122555,
+  "report_file"        : "loc/ant-design__ant-design-mobile.json"},
+"Markdown" :{
+  "nFiles": 196,
+  "blank": 2791,
+  "comment": 0,
+  "code": 12869},
+"TypeScript" :{
+  "nFiles": 186,
+  "blank": 670,
+  "comment": 176,
+  "code": 7579},
+"LESS" :{
+  "nFiles": 82,
+  "blank": 1111,
+  "comment": 101,
+  "code": 6870},
+"JSX" :{
+  "nFiles": 14,
+  "blank": 139,
+  "comment": 27,
+  "code": 1773},
+"JavaScript" :{
+  "nFiles": 112,
+  "blank": 205,
+  "comment": 201,
+  "code": 1691},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 277},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 20,
+  "code": 152},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 8,
+  "code": 94},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 4927,
+  "comment": 533,
+  "code": 31315,
+  "nFiles": 603} }

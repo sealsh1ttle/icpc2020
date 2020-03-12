@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5611.98746490479,
+  "n_files"            : 20015,
+  "n_lines"            : 12262363,
+  "files_per_second"   : 3.56647268461773,
+  "lines_per_second"   : 2185.03036164712,
+  "report_file"        : "loc/odoo__odoo.json"},
+"PO File" :{
+  "nFiles": 12686,
+  "blank": 1651690,
+  "comment": 4441510,
+  "code": 4863066},
+"JavaScript" :{
+  "nFiles": 1129,
+  "blank": 54949,
+  "comment": 85722,
+  "code": 382119},
+"XML" :{
+  "nFiles": 2010,
+  "blank": 15414,
+  "comment": 3934,
+  "code": 272137},
+"Python" :{
+  "nFiles": 2828,
+  "blank": 48614,
+  "comment": 55942,
+  "code": 243620},
+"CSS" :{
+  "nFiles": 50,
+  "blank": 2554,
+  "comment": 530,
+  "code": 33663},
+"Sass" :{
+  "nFiles": 342,
+  "blank": 5332,
+  "comment": 2554,
+  "code": 29506},
+"reStructuredText" :{
+  "nFiles": 76,
+  "blank": 7721,
+  "comment": 7731,
+  "code": 12459},
+"SVG" :{
+  "nFiles": 160,
+  "blank": 25,
+  "comment": 6,
+  "code": 11988},
+"LESS" :{
+  "nFiles": 84,
+  "blank": 1702,
+  "comment": 1689,
+  "code": 10761},
+"Markdown" :{
+  "nFiles": 567,
+  "blank": 3353,
+  "comment": 0,
+  "code": 6240},
+"HTML" :{
+  "nFiles": 38,
+  "blank": 131,
+  "comment": 54,
+  "code": 2833},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 175,
+  "comment": 100,
+  "code": 740},
+"make" :{
+  "nFiles": 5,
+  "blank": 82,
+  "comment": 16,
+  "code": 417},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 2,
+  "code": 314},
+"XSLT" :{
+  "nFiles": 4,
+  "blank": 43,
+  "comment": 36,
+  "code": 241},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 74,
+  "comment": 67,
+  "code": 181},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 31,
+  "code": 133},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 1,
+  "comment": 0,
+  "code": 87},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1791928,
+  "comment": 4599924,
+  "code": 5870511,
+  "nFiles": 20015} }

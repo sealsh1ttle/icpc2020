@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.5381031036377,
+  "n_files"            : 24,
+  "n_lines"            : 11071,
+  "files_per_second"   : 4.33361379354524,
+  "lines_per_second"   : 1999.05992951414,
+  "report_file"        : "loc/ironhack-labs__lab-angular-cinema-billboard.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 10502},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 5,
+  "code": 159},
+"TypeScript" :{
+  "nFiles": 10,
+  "blank": 35,
+  "comment": 62,
+  "code": 113},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 63,
+  "comment": 0,
+  "code": 110},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 16},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 103,
+  "comment": 68,
+  "code": 10900,
+  "nFiles": 24} }

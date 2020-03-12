@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.297907114028931,
+  "n_files"            : 2,
+  "n_lines"            : 115,
+  "files_per_second"   : 6.71350198037155,
+  "lines_per_second"   : 386.026363871364,
+  "report_file"        : "loc/ironhack-labs__lab-mongo-compass-crud.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 0,
+  "code": 69},
+"SUM": {
+  "blank": 46,
+  "comment": 0,
+  "code": 69,
+  "nFiles": 2} }

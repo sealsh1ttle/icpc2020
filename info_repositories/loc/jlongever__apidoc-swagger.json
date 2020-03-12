@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.135224103927612,
+  "n_files"            : 6,
+  "n_lines"            : 806,
+  "files_per_second"   : 44.3707876460538,
+  "lines_per_second"   : 5960.4758071199,
+  "report_file"        : "loc/jlongever__apidoc-swagger.json"},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 113,
+  "comment": 74,
+  "code": 511},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 61},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 131,
+  "comment": 74,
+  "code": 601,
+  "nFiles": 6} }

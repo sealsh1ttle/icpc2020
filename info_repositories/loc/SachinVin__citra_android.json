@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 55.911248922348,
+  "n_files"            : 155,
+  "n_lines"            : 14198,
+  "files_per_second"   : 2.77225071854987,
+  "lines_per_second"   : 253.938165819168,
+  "report_file"        : "loc/SachinVin__citra_android.json"},
+"Java" :{
+  "nFiles": 88,
+  "blank": 1588,
+  "comment": 1387,
+  "code": 7904},
+"XML" :{
+  "nFiles": 57,
+  "blank": 280,
+  "comment": 141,
+  "code": 2282},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 33,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 46},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 1,
+  "code": 45},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 21,
+  "code": 11},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 1989,
+  "comment": 1612,
+  "code": 10597,
+  "nFiles": 155} }

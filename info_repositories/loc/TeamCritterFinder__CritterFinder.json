@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.556049108505249,
+  "n_files"            : 72,
+  "n_lines"            : 4434,
+  "files_per_second"   : 129.484966163416,
+  "lines_per_second"   : 7974.11583289706,
+  "report_file"        : "loc/TeamCritterFinder__CritterFinder.json"},
+"Java" :{
+  "nFiles": 24,
+  "blank": 436,
+  "comment": 271,
+  "code": 2102},
+"XML" :{
+  "nFiles": 40,
+  "blank": 172,
+  "comment": 40,
+  "code": 956},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 76},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 9,
+  "code": 65},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 3},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 698,
+  "comment": 346,
+  "code": 3390,
+  "nFiles": 72} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 871.41176199913,
+  "n_files"            : 1953,
+  "n_lines"            : 237046,
+  "files_per_second"   : 2.24119077245362,
+  "lines_per_second"   : 272.025247233508,
+  "report_file"        : "loc/apache__dubbo.json"},
+"Java" :{
+  "nFiles": 1744,
+  "blank": 31308,
+  "comment": 47803,
+  "code": 141974},
+"Maven" :{
+  "nFiles": 102,
+  "blank": 412,
+  "comment": 1509,
+  "code": 6344},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 79,
+  "comment": 0,
+  "code": 2930},
+"XML" :{
+  "nFiles": 66,
+  "blank": 383,
+  "comment": 984,
+  "code": 942},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 269,
+  "comment": 0,
+  "code": 730},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 88,
+  "comment": 145,
+  "code": 472},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 22,
+  "comment": 191,
+  "code": 178},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 14,
+  "code": 135},
+"Thrift" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 2,
+  "code": 34},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 16,
+  "code": 29},
+"SUM": {
+  "blank": 32614,
+  "comment": 50664,
+  "code": 153768,
+  "nFiles": 1953} }

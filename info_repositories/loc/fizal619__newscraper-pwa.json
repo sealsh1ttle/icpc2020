@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.2941329479218,
+  "n_files"            : 45,
+  "n_lines"            : 14466,
+  "files_per_second"   : 4.37142207387995,
+  "lines_per_second"   : 1405.26648268327,
+  "report_file"        : "loc/fizal619__newscraper-pwa.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 13108},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 108,
+  "comment": 49,
+  "code": 742},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 54,
+  "comment": 11,
+  "code": 316},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 184,
+  "comment": 60,
+  "code": 14222,
+  "nFiles": 45} }

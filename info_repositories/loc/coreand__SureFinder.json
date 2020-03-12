@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.52463698387146,
+  "n_files"            : 111,
+  "n_lines"            : 1035260,
+  "files_per_second"   : 11.6539874630353,
+  "lines_per_second"   : 108692.856405242,
+  "report_file"        : "loc/coreand__SureFinder.json"},
+"JSON" :{
+  "nFiles": 34,
+  "blank": 0,
+  "comment": 0,
+  "code": 1000626},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 330,
+  "comment": 4,
+  "code": 29311},
+"Python" :{
+  "nFiles": 48,
+  "blank": 1080,
+  "comment": 176,
+  "code": 2798},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 44,
+  "comment": 192,
+  "code": 384},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 45,
+  "comment": 75,
+  "code": 160},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1503,
+  "comment": 448,
+  "code": 1033309,
+  "nFiles": 111} }

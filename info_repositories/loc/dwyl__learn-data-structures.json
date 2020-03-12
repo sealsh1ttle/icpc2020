@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0189809799194336,
+  "n_files"            : 1,
+  "n_lines"            : 440,
+  "files_per_second"   : 52.6843189468924,
+  "lines_per_second"   : 23181.1003366327,
+  "report_file"        : "loc/dwyl__learn-data-structures.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 99,
+  "comment": 0,
+  "code": 341},
+"SUM": {
+  "blank": 99,
+  "comment": 0,
+  "code": 341,
+  "nFiles": 1} }

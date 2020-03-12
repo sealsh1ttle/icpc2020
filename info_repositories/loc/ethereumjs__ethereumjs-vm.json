@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.605843067169189,
+  "n_files"            : 112,
+  "n_lines"            : 13045,
+  "files_per_second"   : 184.866355776458,
+  "lines_per_second"   : 21531.9786705705,
+  "report_file"        : "loc/ethereumjs__ethereumjs-vm.json"},
+"TypeScript" :{
+  "nFiles": 35,
+  "blank": 668,
+  "comment": 1119,
+  "code": 4096},
+"JavaScript" :{
+  "nFiles": 32,
+  "blank": 453,
+  "comment": 195,
+  "code": 2463},
+"Markdown" :{
+  "nFiles": 27,
+  "blank": 1291,
+  "comment": 0,
+  "code": 2113},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 1,
+  "comment": 0,
+  "code": 423},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 130},
+"Python" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 3,
+  "code": 56},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 13},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2433,
+  "comment": 1317,
+  "code": 9295,
+  "nFiles": 112} }

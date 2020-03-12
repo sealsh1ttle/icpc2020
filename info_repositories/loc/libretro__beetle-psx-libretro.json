@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.4841468334198,
+  "n_files"            : 757,
+  "n_lines"            : 266505,
+  "files_per_second"   : 79.8174061722155,
+  "lines_per_second"   : 28100.0499761246,
+  "report_file"        : "loc/libretro__beetle-psx-libretro.json"},
+"C" :{
+  "nFiles": 204,
+  "blank": 13279,
+  "comment": 12628,
+  "code": 83003},
+"C/C++ Header" :{
+  "nFiles": 385,
+  "blank": 11173,
+  "comment": 20338,
+  "code": 54732},
+"C++" :{
+  "nFiles": 87,
+  "blank": 10349,
+  "comment": 4872,
+  "code": 46066},
+"MSBuild script" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 2199},
+"XML" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 2143},
+"Assembly" :{
+  "nFiles": 3,
+  "blank": 255,
+  "comment": 417,
+  "code": 1785},
+"make" :{
+  "nFiles": 20,
+  "blank": 142,
+  "comment": 277,
+  "code": 968},
+"GLSL" :{
+  "nFiles": 13,
+  "blank": 85,
+  "comment": 35,
+  "code": 637},
+"Python" :{
+  "nFiles": 2,
+  "blank": 57,
+  "comment": 34,
+  "code": 215},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 68,
+  "comment": 0,
+  "code": 203},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 61,
+  "comment": 58,
+  "code": 110},
+"m4" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 8,
+  "code": 100},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 15,
+  "code": 90},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 1,
+  "code": 51},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 35511,
+  "comment": 38683,
+  "code": 192311,
+  "nFiles": 757} }

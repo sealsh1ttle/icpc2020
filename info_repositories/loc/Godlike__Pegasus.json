@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.9617321491241,
+  "n_files"            : 55,
+  "n_lines"            : 38976,
+  "files_per_second"   : 4.24326003401609,
+  "lines_per_second"   : 3007.00551065111,
+  "report_file"        : "loc/Godlike__Pegasus.json"},
+"C/C++ Header" :{
+  "nFiles": 21,
+  "blank": 657,
+  "comment": 1624,
+  "code": 16622},
+"C++" :{
+  "nFiles": 16,
+  "blank": 2310,
+  "comment": 1889,
+  "code": 14984},
+"CMake" :{
+  "nFiles": 13,
+  "blank": 112,
+  "comment": 59,
+  "code": 401},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 0,
+  "code": 141},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 101},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 3141,
+  "comment": 3572,
+  "code": 32263,
+  "nFiles": 55} }

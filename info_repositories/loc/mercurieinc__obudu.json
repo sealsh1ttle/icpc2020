@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.62970185279846,
+  "n_files"            : 116,
+  "n_lines"            : 37295,
+  "files_per_second"   : 71.1786636315159,
+  "lines_per_second"   : 22884.5539667016,
+  "report_file"        : "loc/mercurieinc__obudu.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 21853},
+"Sass" :{
+  "nFiles": 32,
+  "blank": 758,
+  "comment": 30,
+  "code": 6780},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 490,
+  "comment": 304,
+  "code": 2716},
+"Vuejs Component" :{
+  "nFiles": 36,
+  "blank": 311,
+  "comment": 163,
+  "code": 2063},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 108,
+  "comment": 76,
+  "code": 1421},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 2,
+  "code": 135},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 10},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 20,
+  "code": 6},
+"SUM": {
+  "blank": 1688,
+  "comment": 597,
+  "code": 35010,
+  "nFiles": 116} }

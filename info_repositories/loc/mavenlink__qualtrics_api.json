@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.4666891098022,
+  "n_files"            : 102,
+  "n_lines"            : 5624,
+  "files_per_second"   : 6.59481801669861,
+  "lines_per_second"   : 363.620162018755,
+  "report_file"        : "loc/mavenlink__qualtrics_api.json"},
+"Ruby" :{
+  "nFiles": 76,
+  "blank": 543,
+  "comment": 3,
+  "code": 3262},
+"YAML" :{
+  "nFiles": 25,
+  "blank": 25,
+  "comment": 3,
+  "code": 1550},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 65,
+  "comment": 0,
+  "code": 173},
+"SUM": {
+  "blank": 633,
+  "comment": 6,
+  "code": 4985,
+  "nFiles": 102} }

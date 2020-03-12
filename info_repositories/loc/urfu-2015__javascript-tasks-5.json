@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.894166946411133,
+  "n_files"            : 6,
+  "n_lines"            : 367,
+  "files_per_second"   : 6.71015633499075,
+  "lines_per_second"   : 410.437895823601,
+  "report_file"        : "loc/urfu-2015__javascript-tasks-5.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 61,
+  "comment": 2,
+  "code": 158},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 0,
+  "code": 89},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 101,
+  "comment": 2,
+  "code": 264,
+  "nFiles": 6} }

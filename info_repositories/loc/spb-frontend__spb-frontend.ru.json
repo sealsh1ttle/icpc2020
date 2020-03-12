@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.741158962249756,
+  "n_files"            : 101,
+  "n_lines"            : 25067,
+  "files_per_second"   : 136.273060361328,
+  "lines_per_second"   : 33821.3544958159,
+  "report_file"        : "loc/spb-frontend__spb-frontend.ru.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 20140},
+"JavaScript" :{
+  "nFiles": 57,
+  "blank": 259,
+  "comment": 31,
+  "code": 2575},
+"CSS" :{
+  "nFiles": 22,
+  "blank": 219,
+  "comment": 8,
+  "code": 1408},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 3,
+  "comment": 0,
+  "code": 269},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 5,
+  "code": 26},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 524,
+  "comment": 44,
+  "code": 24499,
+  "nFiles": 101} }

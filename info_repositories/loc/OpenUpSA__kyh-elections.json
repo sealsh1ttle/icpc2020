@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.95909404754639,
+  "n_files"            : 15,
+  "n_lines"            : 373,
+  "files_per_second"   : 3.78874556144887,
+  "lines_per_second"   : 94.2134729613618,
+  "report_file"        : "loc/OpenUpSA__kyh-elections.json"},
+"Python" :{
+  "nFiles": 6,
+  "blank": 35,
+  "comment": 10,
+  "code": 139},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 9,
+  "code": 125},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 12},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 55,
+  "comment": 19,
+  "code": 299,
+  "nFiles": 15} }

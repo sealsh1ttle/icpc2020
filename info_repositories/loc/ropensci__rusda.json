@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.13918995857239,
+  "n_files"            : 20,
+  "n_lines"            : 1454,
+  "files_per_second"   : 4.83186328730321,
+  "lines_per_second"   : 351.276460986943,
+  "report_file"        : "loc/ropensci__rusda.json"},
+"R" :{
+  "nFiles": 13,
+  "blank": 108,
+  "comment": 307,
+  "code": 462},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 1,
+  "code": 136},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 0,
+  "code": 117},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"Rmd" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 195,
+  "code": 5},
+"SUM": {
+  "blank": 221,
+  "comment": 503,
+  "code": 730,
+  "nFiles": 20} }

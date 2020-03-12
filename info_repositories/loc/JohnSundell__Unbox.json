@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.50808596611023,
+  "n_files"            : 52,
+  "n_lines"            : 4109,
+  "files_per_second"   : 5.46902922263683,
+  "lines_per_second"   : 432.158482227207,
+  "report_file"        : "loc/JohnSundell__Unbox.json"},
+"Swift" :{
+  "nFiles": 44,
+  "blank": 548,
+  "comment": 353,
+  "code": 2460},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 166,
+  "comment": 0,
+  "code": 494},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 60},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 715,
+  "comment": 353,
+  "code": 3041,
+  "nFiles": 52} }

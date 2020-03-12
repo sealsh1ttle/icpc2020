@@ -1,0 +1,154 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.6307830810547,
+  "n_files"            : 4167,
+  "n_lines"            : 1034557,
+  "files_per_second"   : 95.5059640405444,
+  "lines_per_second"   : 23711.630343147,
+  "report_file"        : "loc/espressif__esp-idf.json"},
+"C" :{
+  "nFiles": 1161,
+  "blank": 69961,
+  "comment": 87766,
+  "code": 395603},
+"C/C++ Header" :{
+  "nFiles": 1158,
+  "blank": 32715,
+  "comment": 108991,
+  "code": 145386},
+"YAML" :{
+  "nFiles": 46,
+  "blank": 298,
+  "comment": 183,
+  "code": 37054},
+"reStructuredText" :{
+  "nFiles": 421,
+  "blank": 16965,
+  "comment": 6260,
+  "code": 27269},
+"Python" :{
+  "nFiles": 171,
+  "blank": 7082,
+  "comment": 9492,
+  "code": 26660},
+"Markdown" :{
+  "nFiles": 217,
+  "blank": 4684,
+  "comment": 0,
+  "code": 13589},
+"C++" :{
+  "nFiles": 48,
+  "blank": 2064,
+  "comment": 856,
+  "code": 10573},
+"CMake" :{
+  "nFiles": 491,
+  "blank": 1040,
+  "comment": 1352,
+  "code": 5931},
+"make" :{
+  "nFiles": 331,
+  "blank": 1387,
+  "comment": 1697,
+  "code": 3156},
+"Bourne Shell" :{
+  "nFiles": 47,
+  "blank": 439,
+  "comment": 455,
+  "code": 2095},
+"Assembly" :{
+  "nFiles": 13,
+  "blank": 747,
+  "comment": 1751,
+  "code": 1977},
+"Pascal" :{
+  "nFiles": 15,
+  "blank": 307,
+  "comment": 452,
+  "code": 1698},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 4,
+  "code": 1330},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 1069},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 104,
+  "comment": 26,
+  "code": 615},
+"Glade" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 0,
+  "code": 603},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 107,
+  "comment": 123,
+  "code": 417},
+"lex" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 16,
+  "code": 342},
+"PowerShell" :{
+  "nFiles": 4,
+  "blank": 85,
+  "comment": 105,
+  "code": 298},
+"Protocol Buffers" :{
+  "nFiles": 9,
+  "blank": 59,
+  "comment": 16,
+  "code": 262},
+"Vuejs Component" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 194},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 175},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 0,
+  "code": 173},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 8,
+  "comment": 0,
+  "code": 110},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 95},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 5,
+  "code": 47},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 3,
+  "code": 33},
+"TTCN" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 138240,
+  "comment": 219554,
+  "code": 676763,
+  "nFiles": 4167} }

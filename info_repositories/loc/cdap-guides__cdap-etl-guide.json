@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.90518808364868,
+  "n_files"            : 16,
+  "n_lines"            : 1446,
+  "files_per_second"   : 5.50738869199315,
+  "lines_per_second"   : 497.730253038881,
+  "report_file"        : "loc/cdap-guides__cdap-etl-guide.json"},
+"reStructuredText" :{
+  "nFiles": 7,
+  "blank": 281,
+  "comment": 12,
+  "code": 613},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 540},
+"SUM": {
+  "blank": 281,
+  "comment": 12,
+  "code": 1153,
+  "nFiles": 16} }

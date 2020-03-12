@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 304.288600921631,
+  "n_files"            : 2147,
+  "n_lines"            : 539161,
+  "files_per_second"   : 7.0558016090552,
+  "lines_per_second"   : 1771.87380127611,
+  "report_file"        : "loc/apache__calcite.json"},
+"Java" :{
+  "nFiles": 1937,
+  "blank": 50199,
+  "comment": 117025,
+  "code": 321332},
+"XML" :{
+  "nFiles": 12,
+  "blank": 93,
+  "comment": 289,
+  "code": 19069},
+"Markdown" :{
+  "nFiles": 68,
+  "blank": 2503,
+  "comment": 0,
+  "code": 15371},
+"Maven" :{
+  "nFiles": 21,
+  "blank": 179,
+  "comment": 563,
+  "code": 4101},
+"JSON" :{
+  "nFiles": 37,
+  "blank": 0,
+  "comment": 0,
+  "code": 1969},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 195,
+  "comment": 0,
+  "code": 1068},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 15,
+  "code": 849},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 58,
+  "comment": 96,
+  "code": 749},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 16,
+  "code": 657},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 85,
+  "comment": 770,
+  "code": 528},
+"Freemarker Template" :{
+  "nFiles": 4,
+  "blank": 37,
+  "comment": 80,
+  "code": 490},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 60,
+  "code": 195},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 0,
+  "code": 179},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 71,
+  "code": 61},
+"Pig Latin" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 19,
+  "code": 18},
+"Kotlin" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 16,
+  "code": 11},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 16,
+  "code": 3},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 6,
+  "code": 2},
+"SUM": {
+  "blank": 53467,
+  "comment": 119042,
+  "code": 366652,
+  "nFiles": 2147} }

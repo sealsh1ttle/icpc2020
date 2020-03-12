@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.30354380607605,
+  "n_files"            : 8,
+  "n_lines"            : 340,
+  "files_per_second"   : 6.13711634600278,
+  "lines_per_second"   : 260.827444705118,
+  "report_file"        : "loc/irasanchez__Sprint-Challenge-RDBMS.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 19,
+  "comment": 7,
+  "code": 160},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 48,
+  "comment": 0,
+  "code": 89},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 67,
+  "comment": 7,
+  "code": 266,
+  "nFiles": 8} }

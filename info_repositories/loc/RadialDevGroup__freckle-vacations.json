@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.9930579662323,
+  "n_files"            : 18,
+  "n_lines"            : 761,
+  "files_per_second"   : 9.03134796125745,
+  "lines_per_second"   : 381.825322139829,
+  "report_file"        : "loc/RadialDevGroup__freckle-vacations.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 38,
+  "comment": 26,
+  "code": 423},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 72},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 0,
+  "code": 57},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 98,
+  "comment": 46,
+  "code": 617,
+  "nFiles": 18} }

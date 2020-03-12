@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.413083076477051,
+  "n_files"            : 182,
+  "n_lines"            : 18509,
+  "files_per_second"   : 440.589339926907,
+  "lines_per_second"   : 44806.9675423469,
+  "report_file"        : "loc/powerbot__RSBot-API.json"},
+"Java" :{
+  "nFiles": 176,
+  "blank": 2262,
+  "comment": 3731,
+  "code": 12353},
+"XML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 76},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 58},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 13},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2275,
+  "comment": 3731,
+  "code": 12503,
+  "nFiles": 182} }

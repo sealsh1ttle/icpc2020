@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 116.387063026428,
+  "n_files"            : 565,
+  "n_lines"            : 59663,
+  "files_per_second"   : 4.85449142978807,
+  "lines_per_second"   : 512.625702965391,
+  "report_file"        : "loc/FEMR__femr.json"},
+"Java" :{
+  "nFiles": 294,
+  "blank": 7394,
+  "comment": 7751,
+  "code": 21992},
+"JavaScript" :{
+  "nFiles": 42,
+  "blank": 1222,
+  "comment": 963,
+  "code": 7633},
+"HTML" :{
+  "nFiles": 72,
+  "blank": 670,
+  "comment": 32,
+  "code": 3629},
+"CSS" :{
+  "nFiles": 24,
+  "blank": 738,
+  "comment": 202,
+  "code": 3380},
+"SQL" :{
+  "nFiles": 113,
+  "blank": 684,
+  "comment": 12,
+  "code": 2531},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 63,
+  "comment": 0,
+  "code": 253},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 228},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 16,
+  "comment": 0,
+  "code": 116},
+"Scala" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 6,
+  "code": 50},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 0,
+  "code": 40},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 15},
+"SUM": {
+  "blank": 10828,
+  "comment": 8968,
+  "code": 39867,
+  "nFiles": 565} }

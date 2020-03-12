@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.8519740104675,
+  "n_files"            : 139,
+  "n_lines"            : 16469,
+  "files_per_second"   : 6.36098138929766,
+  "lines_per_second"   : 753.661888491677,
+  "report_file"        : "loc/quasarframework__quasar-play.json"},
+"Vuejs Component" :{
+  "nFiles": 96,
+  "blank": 983,
+  "comment": 59,
+  "code": 12404},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 43,
+  "comment": 37,
+  "code": 1099},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 844},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 2,
+  "code": 554},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 88,
+  "comment": 0,
+  "code": 210},
+"Stylus" :{
+  "nFiles": 7,
+  "blank": 14,
+  "comment": 22,
+  "code": 61},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 17},
+"SUM": {
+  "blank": 1132,
+  "comment": 122,
+  "code": 15215,
+  "nFiles": 139} }

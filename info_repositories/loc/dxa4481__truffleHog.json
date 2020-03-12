@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.137444019317627,
+  "n_files"            : 9,
+  "n_lines"            : 712,
+  "files_per_second"   : 65.4812049639017,
+  "lines_per_second"   : 5180.29088158867,
+  "report_file"        : "loc/dxa4481__truffleHog.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 51,
+  "comment": 35,
+  "code": 494},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 93},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 76,
+  "comment": 35,
+  "code": 601,
+  "nFiles": 9} }

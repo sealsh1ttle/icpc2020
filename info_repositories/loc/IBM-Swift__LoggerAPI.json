@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.38706684112549,
+  "n_files"            : 25,
+  "n_lines"            : 5080,
+  "files_per_second"   : 3.3842931893914,
+  "lines_per_second"   : 687.688376084332,
+  "report_file"        : "loc/IBM-Swift__LoggerAPI.json"},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 159,
+  "comment": 0,
+  "code": 1877},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 9,
+  "code": 1762},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 59,
+  "code": 458},
+"Swift" :{
+  "nFiles": 3,
+  "blank": 29,
+  "comment": 217,
+  "code": 189},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 73},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 68},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 292,
+  "comment": 290,
+  "code": 4498,
+  "nFiles": 25} }

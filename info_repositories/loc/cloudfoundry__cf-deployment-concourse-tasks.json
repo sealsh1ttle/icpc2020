@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.62360095977783,
+  "n_files"            : 36,
+  "n_lines"            : 2692,
+  "files_per_second"   : 4.72217790384573,
+  "lines_per_second"   : 353.113969920909,
+  "report_file"        : "loc/cloudfoundry__cf-deployment-concourse-tasks.json"},
+"Bourne Again Shell" :{
+  "nFiles": 16,
+  "blank": 237,
+  "comment": 51,
+  "code": 980},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 182,
+  "comment": 444,
+  "code": 388},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 0,
+  "code": 184},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 7,
+  "code": 95},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 1,
+  "code": 32},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 500,
+  "comment": 503,
+  "code": 1689,
+  "nFiles": 36} }

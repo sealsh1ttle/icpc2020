@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.149523019790649,
+  "n_files"            : 6,
+  "n_lines"            : 1047,
+  "files_per_second"   : 40.1276004751692,
+  "lines_per_second"   : 7002.26628291703,
+  "report_file"        : "loc/opensourcedesign__organization.json"},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 787},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 91,
+  "comment": 0,
+  "code": 167},
+"SUM": {
+  "blank": 92,
+  "comment": 1,
+  "code": 954,
+  "nFiles": 6} }

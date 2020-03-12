@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.9071431159973,
+  "n_files"            : 131,
+  "n_lines"            : 32004,
+  "files_per_second"   : 5.47953385163542,
+  "lines_per_second"   : 1338.67939990641,
+  "report_file"        : "loc/FCCVienna__FCCVienna.json"},
+"JavaScript" :{
+  "nFiles": 107,
+  "blank": 5515,
+  "comment": 4828,
+  "code": 19441},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 337,
+  "comment": 0,
+  "code": 838},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 173,
+  "comment": 0,
+  "code": 746},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 125},
+"SUM": {
+  "blank": 6026,
+  "comment": 4828,
+  "code": 21150,
+  "nFiles": 131} }

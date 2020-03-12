@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.30831694602966,
+  "n_files"            : 204,
+  "n_lines"            : 22041,
+  "files_per_second"   : 38.4302599249619,
+  "lines_per_second"   : 4152.16352453964,
+  "report_file"        : "loc/Hairfie__HairfieApi.json"},
+"JSON" :{
+  "nFiles": 69,
+  "blank": 0,
+  "comment": 0,
+  "code": 10204},
+"JavaScript" :{
+  "nFiles": 118,
+  "blank": 1561,
+  "comment": 295,
+  "code": 8521},
+"EJS" :{
+  "nFiles": 13,
+  "blank": 130,
+  "comment": 67,
+  "code": 533},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 189,
+  "code": 390},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 0,
+  "code": 79},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1758,
+  "comment": 551,
+  "code": 19732,
+  "nFiles": 204} }

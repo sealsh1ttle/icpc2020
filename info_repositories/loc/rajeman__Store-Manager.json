@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.72149109840393,
+  "n_files"            : 23,
+  "n_lines"            : 2948,
+  "files_per_second"   : 13.3605105604811,
+  "lines_per_second"   : 1712.46891879558,
+  "report_file"        : "loc/rajeman__Store-Manager.json"},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 133,
+  "comment": 46,
+  "code": 1290},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1248},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 0,
+  "code": 138},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 167,
+  "comment": 46,
+  "code": 2735,
+  "nFiles": 23} }

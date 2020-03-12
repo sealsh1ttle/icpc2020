@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.18538904190063,
+  "n_files"            : 240,
+  "n_lines"            : 57100,
+  "files_per_second"   : 75.3440150772913,
+  "lines_per_second"   : 17925.5969204722,
+  "report_file"        : "loc/wesbos__Advanced-React.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 33619},
+"GraphQL" :{
+  "nFiles": 36,
+  "blank": 3050,
+  "comment": 41,
+  "code": 9923},
+"JavaScript" :{
+  "nFiles": 188,
+  "blank": 655,
+  "comment": 570,
+  "code": 9094},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 3,
+  "code": 58},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 0,
+  "code": 35},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 2,
+  "code": 21},
+"SUM": {
+  "blank": 3734,
+  "comment": 616,
+  "code": 52750,
+  "nFiles": 240} }

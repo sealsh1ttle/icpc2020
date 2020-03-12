@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 350.876657009125,
+  "n_files"            : 749,
+  "n_lines"            : 8021,
+  "files_per_second"   : 2.13465326073408,
+  "lines_per_second"   : 22.8598849190227,
+  "report_file"        : "loc/symfony__recipes-contrib.json"},
+"JSON" :{
+  "nFiles": 295,
+  "blank": 10,
+  "comment": 0,
+  "code": 2914},
+"YAML" :{
+  "nFiles": 384,
+  "blank": 169,
+  "comment": 566,
+  "code": 2198},
+"PHP" :{
+  "nFiles": 65,
+  "blank": 325,
+  "comment": 772,
+  "code": 977},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 5,
+  "code": 24},
+"XML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 14},
+"Cucumber" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 7},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 0},
+"SUM": {
+  "blank": 527,
+  "comment": 1353,
+  "code": 6141,
+  "nFiles": 749} }

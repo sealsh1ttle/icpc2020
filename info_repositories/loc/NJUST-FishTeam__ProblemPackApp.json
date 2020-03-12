@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.1267168521881,
+  "n_files"            : 229,
+  "n_lines"            : 19024,
+  "files_per_second"   : 5.30993353342596,
+  "lines_per_second"   : 441.118670479893,
+  "report_file"        : "loc/NJUST-FishTeam__ProblemPackApp.json"},
+"JavaScript" :{
+  "nFiles": 214,
+  "blank": 1244,
+  "comment": 4591,
+  "code": 11174},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 132,
+  "comment": 105,
+  "code": 956},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 1,
+  "code": 553},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 229},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1379,
+  "comment": 4697,
+  "code": 12948,
+  "nFiles": 229} }

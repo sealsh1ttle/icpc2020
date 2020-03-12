@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.3107619285583,
+  "n_files"            : 64,
+  "n_lines"            : 3960,
+  "files_per_second"   : 4.18006630229317,
+  "lines_per_second"   : 258.64160245439,
+  "report_file"        : "loc/SandJS__http.json"},
+"JavaScript" :{
+  "nFiles": 53,
+  "blank": 620,
+  "comment": 755,
+  "code": 2298},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 134},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 74},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"EJS" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 685,
+  "comment": 755,
+  "code": 2520,
+  "nFiles": 64} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.1540040969849,
+  "n_files"            : 84,
+  "n_lines"            : 101702,
+  "files_per_second"   : 1.58031368336303,
+  "lines_per_second"   : 1913.34597887366,
+  "report_file"        : "loc/Toxantron__scrumonline.json"},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 167,
+  "comment": 297,
+  "code": 7931},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 719,
+  "comment": 365,
+  "code": 2277},
+"PHP" :{
+  "nFiles": 30,
+  "blank": 33584,
+  "comment": 52767,
+  "code": 1490},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 558},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 151,
+  "comment": 0,
+  "code": 518},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 9,
+  "comment": 6,
+  "code": 255},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 33,
+  "comment": 13,
+  "code": 170},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 10,
+  "code": 31},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 9,
+  "code": 16},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 34675,
+  "comment": 53467,
+  "code": 13560,
+  "nFiles": 84} }

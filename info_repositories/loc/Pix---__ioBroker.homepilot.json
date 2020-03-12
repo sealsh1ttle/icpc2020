@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.281155109405518,
+  "n_files"            : 16,
+  "n_lines"            : 3244,
+  "files_per_second"   : 56.9080890396438,
+  "lines_per_second"   : 11538.1150527878,
+  "report_file"        : "loc/Pix---__ioBroker.homepilot.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 159,
+  "comment": 92,
+  "code": 1944},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 341},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 124,
+  "comment": 0,
+  "code": 307},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 9,
+  "code": 194},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 309,
+  "comment": 101,
+  "code": 2834,
+  "nFiles": 16} }

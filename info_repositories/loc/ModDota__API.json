@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.53850293159485,
+  "n_files"            : 47,
+  "n_lines"            : 66041,
+  "files_per_second"   : 5.5044778196523,
+  "lines_per_second"   : 7734.49403590761,
+  "report_file"        : "loc/ModDota__API.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 41,
+  "comment": 0,
+  "code": 42323},
+"Lua" :{
+  "nFiles": 5,
+  "blank": 1883,
+  "comment": 4110,
+  "code": 5116},
+"TypeScript" :{
+  "nFiles": 9,
+  "blank": 118,
+  "comment": 5258,
+  "code": 4860},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 265,
+  "comment": 0,
+  "code": 1093},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 102,
+  "comment": 36,
+  "code": 411},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 67,
+  "comment": 0,
+  "code": 305},
+"Python" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 4,
+  "code": 32},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2479,
+  "comment": 9408,
+  "code": 54154,
+  "nFiles": 47} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.93635892868042,
+  "n_files"            : 201,
+  "n_lines"            : 41328,
+  "files_per_second"   : 40.718270876168,
+  "lines_per_second"   : 8372.16268044912,
+  "report_file"        : "loc/python-trio__trio.json"},
+"Python" :{
+  "nFiles": 157,
+  "blank": 5932,
+  "comment": 8249,
+  "code": 17486},
+"reStructuredText" :{
+  "nFiles": 21,
+  "blank": 1648,
+  "comment": 1090,
+  "code": 4390},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 10,
+  "comment": 10,
+  "code": 1879},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 50,
+  "code": 113},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 59,
+  "code": 100},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 40,
+  "code": 58},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 26},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 22},
+"INI" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 21},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 7679,
+  "comment": 9513,
+  "code": 24136,
+  "nFiles": 201} }

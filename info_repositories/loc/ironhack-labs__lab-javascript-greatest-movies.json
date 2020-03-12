@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.4874279499054,
+  "n_files"            : 12,
+  "n_lines"            : 8923,
+  "files_per_second"   : 4.82426033705073,
+  "lines_per_second"   : 3587.23958229197,
+  "report_file"        : "loc/ironhack-labs__lab-javascript-greatest-movies.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 1045,
+  "comment": 938,
+  "code": 6664},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 0,
+  "code": 89},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 69},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 2,
+  "code": 30},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 1112,
+  "comment": 940,
+  "code": 6871,
+  "nFiles": 12} }

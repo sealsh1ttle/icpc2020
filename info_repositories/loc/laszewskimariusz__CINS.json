@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.8265869617462,
+  "n_files"            : 78,
+  "n_lines"            : 18676,
+  "files_per_second"   : 3.27365392807747,
+  "lines_per_second"   : 783.830266163781,
+  "report_file"        : "loc/laszewskimariusz__CINS.json"},
+"JavaScript" :{
+  "nFiles": 25,
+  "blank": 2124,
+  "comment": 2811,
+  "code": 9564},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 529,
+  "comment": 71,
+  "code": 2206},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 6,
+  "code": 283},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 147,
+  "code": 184},
+"C++" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 0,
+  "code": 175},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 0,
+  "code": 123},
+"Python" :{
+  "nFiles": 10,
+  "blank": 57,
+  "comment": 51,
+  "code": 117},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 63},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 20},
+"m4" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2842,
+  "comment": 3087,
+  "code": 12747,
+  "nFiles": 78} }

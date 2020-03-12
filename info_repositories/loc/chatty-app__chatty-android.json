@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.925420999527,
+  "n_files"            : 173,
+  "n_lines"            : 7254,
+  "files_per_second"   : 2.58496692910191,
+  "lines_per_second"   : 108.389306957834,
+  "report_file"        : "loc/chatty-app__chatty-android.json"},
+"Java" :{
+  "nFiles": 86,
+  "blank": 704,
+  "comment": 57,
+  "code": 3147},
+"XML" :{
+  "nFiles": 81,
+  "blank": 32,
+  "comment": 18,
+  "code": 2934},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 3,
+  "code": 69},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 796,
+  "comment": 120,
+  "code": 6338,
+  "nFiles": 173} }

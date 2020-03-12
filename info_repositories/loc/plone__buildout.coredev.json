@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.9527909755707,
+  "n_files"            : 43,
+  "n_lines"            : 4929,
+  "files_per_second"   : 3.92593998149951,
+  "lines_per_second"   : 450.022282995607,
+  "report_file"        : "loc/plone__buildout.coredev.json"},
+"reStructuredText" :{
+  "nFiles": 27,
+  "blank": 1227,
+  "comment": 81,
+  "code": 2477},
+"Python" :{
+  "nFiles": 7,
+  "blank": 147,
+  "comment": 181,
+  "code": 523},
+"INI" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 0,
+  "code": 92},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 16,
+  "code": 67},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 4,
+  "code": 41},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 1,
+  "code": 31},
+"SUM": {
+  "blank": 1415,
+  "comment": 283,
+  "code": 3231,
+  "nFiles": 43} }

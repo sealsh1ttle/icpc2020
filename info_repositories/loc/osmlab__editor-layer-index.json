@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.72094202041626,
+  "n_files"            : 815,
+  "n_lines"            : 331310,
+  "files_per_second"   : 93.453207015026,
+  "lines_per_second"   : 37990.161983004,
+  "report_file"        : "loc/osmlab__editor-layer-index.json"},
+"JSON" :{
+  "nFiles": 736,
+  "blank": 11,
+  "comment": 0,
+  "code": 305720},
+"YAML" :{
+  "nFiles": 54,
+  "blank": 4,
+  "comment": 2,
+  "code": 10142},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 2705,
+  "comment": 3212,
+  "code": 7740},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 66,
+  "comment": 22,
+  "code": 604},
+"Python" :{
+  "nFiles": 10,
+  "blank": 123,
+  "comment": 35,
+  "code": 583},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 91,
+  "comment": 0,
+  "code": 181},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 4,
+  "code": 30},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 21},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3012,
+  "comment": 3275,
+  "code": 325023,
+  "nFiles": 815} }

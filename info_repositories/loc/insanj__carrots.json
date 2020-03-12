@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.476546049118042,
+  "n_files"            : 62,
+  "n_lines"            : 1188,
+  "files_per_second"   : 130.102851791018,
+  "lines_per_second"   : 2492.93851496338,
+  "report_file"        : "loc/insanj__carrots.json"},
+"JSON" :{
+  "nFiles": 37,
+  "blank": 4,
+  "comment": 0,
+  "code": 495},
+"Java" :{
+  "nFiles": 19,
+  "blank": 41,
+  "comment": 10,
+  "code": 230},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 13,
+  "code": 62},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 37},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 119,
+  "comment": 47,
+  "code": 1022,
+  "nFiles": 62} }

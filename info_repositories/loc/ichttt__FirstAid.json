@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.650253057479858,
+  "n_files"            : 84,
+  "n_lines"            : 7736,
+  "files_per_second"   : 129.180476790918,
+  "lines_per_second"   : 11896.9067673159,
+  "report_file"        : "loc/ichttt__FirstAid.json"},
+"Java" :{
+  "nFiles": 68,
+  "blank": 831,
+  "comment": 1557,
+  "code": 4570},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 18,
+  "comment": 0,
+  "code": 354},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 31,
+  "code": 61},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 23},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 913,
+  "comment": 1613,
+  "code": 5210,
+  "nFiles": 84} }

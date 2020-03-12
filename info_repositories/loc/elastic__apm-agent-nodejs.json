@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 94.4072909355164,
+  "n_files"            : 326,
+  "n_lines"            : 35797,
+  "files_per_second"   : 3.45312313031702,
+  "lines_per_second"   : 379.176222993737,
+  "report_file"        : "loc/elastic__apm-agent-nodejs.json"},
+"JavaScript" :{
+  "nFiles": 213,
+  "blank": 3952,
+  "comment": 696,
+  "code": 21153},
+"AsciiDoc" :{
+  "nFiles": 33,
+  "blank": 1468,
+  "comment": 165,
+  "code": 3747},
+"YAML" :{
+  "nFiles": 31,
+  "blank": 77,
+  "comment": 21,
+  "code": 1203},
+"Groovy" :{
+  "nFiles": 5,
+  "blank": 23,
+  "comment": 79,
+  "code": 664},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 121,
+  "comment": 42,
+  "code": 649},
+"TypeScript" :{
+  "nFiles": 5,
+  "blank": 78,
+  "comment": 22,
+  "code": 482},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 145,
+  "comment": 0,
+  "code": 386},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 232},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 184},
+"Python" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 17,
+  "code": 53},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 47},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 8,
+  "code": 41},
+"SUM": {
+  "blank": 5903,
+  "comment": 1053,
+  "code": 28841,
+  "nFiles": 326} }

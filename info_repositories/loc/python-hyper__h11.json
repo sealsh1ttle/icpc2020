@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.401793956756592,
+  "n_files"            : 50,
+  "n_lines"            : 8850,
+  "files_per_second"   : 124.441891569539,
+  "lines_per_second"   : 22026.2148078085,
+  "report_file"        : "loc/python-hyper__h11.json"},
+"Python" :{
+  "nFiles": 30,
+  "blank": 872,
+  "comment": 1536,
+  "code": 3335},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 496,
+  "comment": 366,
+  "code": 1203},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 137,
+  "code": 203},
+"make" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 7,
+  "code": 194},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 0,
+  "code": 136},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 69},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 57},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 8,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 19},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 1538,
+  "comment": 2057,
+  "code": 5255,
+  "nFiles": 50} }

@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 144.475080013275,
+  "n_files"            : 664,
+  "n_lines"            : 133753,
+  "files_per_second"   : 4.59594831121733,
+  "lines_per_second"   : 925.785955527487,
+  "report_file"        : "loc/CodeChain-io__codechain.json"},
+"Rust" :{
+  "nFiles": 370,
+  "blank": 9332,
+  "comment": 8789,
+  "code": 63016},
+"TypeScript" :{
+  "nFiles": 93,
+  "blank": 1992,
+  "comment": 1461,
+  "code": 19516},
+"C/C++ Header" :{
+  "nFiles": 55,
+  "blank": 1112,
+  "comment": 2277,
+  "code": 7777},
+"C" :{
+  "nFiles": 15,
+  "blank": 688,
+  "comment": 514,
+  "code": 5961},
+"Markdown" :{
+  "nFiles": 37,
+  "blank": 1200,
+  "comment": 0,
+  "code": 4061},
+"JSON" :{
+  "nFiles": 34,
+  "blank": 0,
+  "comment": 0,
+  "code": 1521},
+"m4" :{
+  "nFiles": 4,
+  "blank": 81,
+  "comment": 12,
+  "code": 752},
+"TOML" :{
+  "nFiles": 37,
+  "blank": 76,
+  "comment": 20,
+  "code": 744},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 84,
+  "comment": 105,
+  "code": 730},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 0,
+  "code": 615},
+"Java" :{
+  "nFiles": 4,
+  "blank": 151,
+  "comment": 187,
+  "code": 462},
+"make" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 0,
+  "code": 159},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 48,
+  "code": 114},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 0,
+  "code": 79},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 7,
+  "code": 34},
+"SUM": {
+  "blank": 14792,
+  "comment": 13420,
+  "code": 105541,
+  "nFiles": 664} }

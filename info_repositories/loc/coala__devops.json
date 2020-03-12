@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.126598119735718,
+  "n_files"            : 18,
+  "n_lines"            : 1217,
+  "files_per_second"   : 142.182206478076,
+  "lines_per_second"   : 9613.09696021213,
+  "report_file"        : "loc/coala__devops.json"},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 834},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 5,
+  "comment": 0,
+  "code": 123},
+"INI" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 0,
+  "code": 111},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 0,
+  "code": 34},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 9},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 73,
+  "comment": 3,
+  "code": 1141,
+  "nFiles": 18} }

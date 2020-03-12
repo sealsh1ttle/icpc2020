@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0903780460357666,
+  "n_files"            : 10,
+  "n_lines"            : 1529,
+  "files_per_second"   : 110.64633988704,
+  "lines_per_second"   : 16917.8253687285,
+  "report_file"        : "loc/reportportal__agent-python-pytest.json"},
+"Python" :{
+  "nFiles": 7,
+  "blank": 201,
+  "comment": 75,
+  "code": 897},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 107,
+  "comment": 79,
+  "code": 142},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 309,
+  "comment": 154,
+  "code": 1066,
+  "nFiles": 10} }

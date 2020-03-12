@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.829050064086914,
+  "n_files"            : 138,
+  "n_lines"            : 36331,
+  "files_per_second"   : 166.4555688226,
+  "lines_per_second"   : 43822.4439919846,
+  "report_file"        : "loc/ciena-frost__ember-frost-list.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 28809},
+"JavaScript" :{
+  "nFiles": 72,
+  "blank": 850,
+  "comment": 400,
+  "code": 3884},
+"Sass" :{
+  "nFiles": 19,
+  "blank": 84,
+  "comment": 22,
+  "code": 507},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 234,
+  "comment": 0,
+  "code": 483},
+"Handlebars" :{
+  "nFiles": 22,
+  "blank": 19,
+  "comment": 10,
+  "code": 477},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 83,
+  "comment": 166,
+  "code": 137},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 1,
+  "code": 65},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 48},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 8,
+  "code": 5},
+"SUM": {
+  "blank": 1298,
+  "comment": 607,
+  "code": 34426,
+  "nFiles": 138} }

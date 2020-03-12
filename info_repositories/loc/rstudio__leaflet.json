@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 73.9210150241852,
+  "n_files"            : 265,
+  "n_lines"            : 178626,
+  "files_per_second"   : 3.58490748420187,
+  "lines_per_second"   : 2416.44409159639,
+  "report_file"        : "loc/rstudio__leaflet.json"},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 1038,
+  "comment": 69,
+  "code": 76437},
+"JavaScript" :{
+  "nFiles": 71,
+  "blank": 11256,
+  "comment": 9581,
+  "code": 45351},
+"CSS" :{
+  "nFiles": 38,
+  "blank": 215,
+  "comment": 229,
+  "code": 9140},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 2,
+  "comment": 0,
+  "code": 6420},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 3,
+  "code": 5187},
+"R" :{
+  "nFiles": 85,
+  "blank": 869,
+  "comment": 2109,
+  "code": 5101},
+"XML" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 9,
+  "code": 2580},
+"Rmd" :{
+  "nFiles": 17,
+  "blank": 509,
+  "comment": 692,
+  "code": 766},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 245,
+  "comment": 0,
+  "code": 732},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 0,
+  "code": 55},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 14152,
+  "comment": 12692,
+  "code": 151782,
+  "nFiles": 265} }

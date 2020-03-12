@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.87694096565247,
+  "n_files"            : 4,
+  "n_lines"            : 632,
+  "files_per_second"   : 2.13112722946484,
+  "lines_per_second"   : 336.718102255445,
+  "report_file"        : "loc/ga-wdi-lessons__http-mvc-intro-rails.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 222,
+  "comment": 0,
+  "code": 404},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 222,
+  "comment": 0,
+  "code": 410,
+  "nFiles": 4} }

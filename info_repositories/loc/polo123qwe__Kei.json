@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.292087078094482,
+  "n_files"            : 39,
+  "n_lines"            : 8311,
+  "files_per_second"   : 133.521825937759,
+  "lines_per_second"   : 28453.8434709926,
+  "report_file"        : "loc/polo123qwe__Kei.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 1,
+  "comment": 0,
+  "code": 3643},
+"JavaScript" :{
+  "nFiles": 29,
+  "blank": 574,
+  "comment": 369,
+  "code": 3631},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 83},
+"SUM": {
+  "blank": 585,
+  "comment": 369,
+  "code": 7357,
+  "nFiles": 39} }

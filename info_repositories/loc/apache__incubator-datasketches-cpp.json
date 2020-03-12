@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.822176933288574,
+  "n_files"            : 144,
+  "n_lines"            : 32474,
+  "files_per_second"   : 175.144782308625,
+  "lines_per_second"   : 39497.5809770158,
+  "report_file"        : "loc/apache__incubator-datasketches-cpp.json"},
+"C/C++ Header" :{
+  "nFiles": 66,
+  "blank": 1819,
+  "comment": 2155,
+  "code": 15802},
+"C++" :{
+  "nFiles": 39,
+  "blank": 1207,
+  "comment": 1433,
+  "code": 6054},
+"CMake" :{
+  "nFiles": 15,
+  "blank": 117,
+  "comment": 287,
+  "code": 449},
+"Python" :{
+  "nFiles": 7,
+  "blank": 116,
+  "comment": 206,
+  "code": 342},
+"make" :{
+  "nFiles": 9,
+  "blank": 98,
+  "comment": 151,
+  "code": 245},
+"Jupyter Notebook" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 1755,
+  "code": 149},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 60},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 3381,
+  "comment": 5987,
+  "code": 23106,
+  "nFiles": 144} }

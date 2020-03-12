@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.5794560909271,
+  "n_files"            : 61,
+  "n_lines"            : 18399,
+  "files_per_second"   : 4.4920797704671,
+  "lines_per_second"   : 1354.91435568564,
+  "report_file"        : "loc/file-icons__atom.json"},
+"JavaScript" :{
+  "nFiles": 46,
+  "blank": 1100,
+  "comment": 1008,
+  "code": 6758},
+"CSON" :{
+  "nFiles": 1,
+  "blank": 815,
+  "comment": 6,
+  "code": 5193},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 663,
+  "comment": 0,
+  "code": 1477},
+"LESS" :{
+  "nFiles": 4,
+  "blank": 69,
+  "comment": 83,
+  "code": 908},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 225},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 48},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 2670,
+  "comment": 1097,
+  "code": 14632,
+  "nFiles": 61} }

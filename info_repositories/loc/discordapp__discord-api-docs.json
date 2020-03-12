@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.656522035598755,
+  "n_files"            : 54,
+  "n_lines"            : 14864,
+  "files_per_second"   : 82.2516184864251,
+  "lines_per_second"   : 22640.5195774486,
+  "report_file"        : "loc/discordapp__discord-api-docs.json"},
+"Markdown" :{
+  "nFiles": 52,
+  "blank": 3956,
+  "comment": 0,
+  "code": 10888},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3956,
+  "comment": 0,
+  "code": 10908,
+  "nFiles": 54} }

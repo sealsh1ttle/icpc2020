@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.5582790374756,
+  "n_files"            : 596,
+  "n_lines"            : 615448,
+  "files_per_second"   : 51.5647699858759,
+  "lines_per_second"   : 53247.3734199117,
+  "report_file"        : "loc/rollbar__rollbar.js.json"},
+"JavaScript" :{
+  "nFiles": 521,
+  "blank": 84674,
+  "comment": 97144,
+  "code": 383509},
+"JSON" :{
+  "nFiles": 24,
+  "blank": 0,
+  "comment": 0,
+  "code": 47958},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 292,
+  "comment": 0,
+  "code": 847},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 41,
+  "comment": 6,
+  "code": 510},
+"TypeScript" :{
+  "nFiles": 14,
+  "blank": 53,
+  "comment": 81,
+  "code": 291},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 85066,
+  "comment": 97232,
+  "code": 433150,
+  "nFiles": 596} }

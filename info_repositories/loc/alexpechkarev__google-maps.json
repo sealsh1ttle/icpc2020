@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.2181670665741,
+  "n_files"            : 11,
+  "n_lines"            : 1966,
+  "files_per_second"   : 9.02996009482982,
+  "lines_per_second"   : 1613.90014058504,
+  "report_file"        : "loc/alexpechkarev__google-maps.json"},
+"PHP" :{
+  "nFiles": 8,
+  "blank": 308,
+  "comment": 356,
+  "code": 844},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 114,
+  "comment": 0,
+  "code": 295},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 422,
+  "comment": 356,
+  "code": 1188,
+  "nFiles": 11} }

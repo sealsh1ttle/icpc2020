@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.29655003547668,
+  "n_files"            : 16,
+  "n_lines"            : 2027,
+  "files_per_second"   : 4.8535589715951,
+  "lines_per_second"   : 614.885252213954,
+  "report_file"        : "loc/txn2__kubefwd.json"},
+"Go" :{
+  "nFiles": 9,
+  "blank": 235,
+  "comment": 147,
+  "code": 965},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 133,
+  "comment": 0,
+  "code": 340},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 33,
+  "comment": 35,
+  "code": 131},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 404,
+  "comment": 182,
+  "code": 1441,
+  "nFiles": 16} }

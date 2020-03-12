@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.4233350753784,
+  "n_files"            : 54,
+  "n_lines"            : 53910,
+  "files_per_second"   : 3.09929182710315,
+  "lines_per_second"   : 3094.12634072465,
+  "report_file"        : "loc/mantl__nginx-mantlui.json"},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 5636,
+  "comment": 14324,
+  "code": 30186},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 174,
+  "comment": 2,
+  "code": 1934},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 97,
+  "comment": 42,
+  "code": 1060},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 240},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 89},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 42},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 5964,
+  "comment": 14368,
+  "code": 33578,
+  "nFiles": 54} }

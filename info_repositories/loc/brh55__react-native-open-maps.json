@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.93098402023315,
+  "n_files"            : 34,
+  "n_lines"            : 16375,
+  "files_per_second"   : 4.28698379838628,
+  "lines_per_second"   : 2064.6870499581,
+  "report_file"        : "loc/brh55__react-native-open-maps.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 14778},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 78,
+  "comment": 32,
+  "code": 445},
+"XML" :{
+  "nFiles": 7,
+  "blank": 6,
+  "comment": 4,
+  "code": 209},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 97},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 24,
+  "code": 75},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 89,
+  "code": 71},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Java" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 4,
+  "code": 40},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 25,
+  "code": 31},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 10},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 8,
+  "code": 4},
+"SUM": {
+  "blank": 218,
+  "comment": 210,
+  "code": 15947,
+  "nFiles": 34} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.9368350505829,
+  "n_files"            : 126,
+  "n_lines"            : 30873,
+  "files_per_second"   : 3.41122892168347,
+  "lines_per_second"   : 835.83230554868,
+  "report_file"        : "loc/NeurodataWithoutBorders__pynwb.json"},
+"Python" :{
+  "nFiles": 89,
+  "blank": 2930,
+  "comment": 3716,
+  "code": 10455},
+"Jupyter Notebook" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 8095,
+  "code": 2542},
+"reStructuredText" :{
+  "nFiles": 19,
+  "blank": 699,
+  "comment": 489,
+  "code": 874},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 5,
+  "code": 374},
+"make" :{
+  "nFiles": 2,
+  "blank": 45,
+  "comment": 5,
+  "code": 196},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"INI" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 87},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 0,
+  "code": 57},
+"Korn Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 12},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 8},
+"SUM": {
+  "blank": 3787,
+  "comment": 12315,
+  "code": 14771,
+  "nFiles": 126} }

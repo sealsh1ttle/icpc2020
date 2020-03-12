@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.451172113418579,
+  "n_files"            : 54,
+  "n_lines"            : 4681,
+  "files_per_second"   : 119.688248439905,
+  "lines_per_second"   : 10375.1979805036,
+  "report_file"        : "loc/onosproject__onos-ztp.json"},
+"Go" :{
+  "nFiles": 31,
+  "blank": 462,
+  "comment": 681,
+  "code": 2720},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 166},
+"Python" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 31,
+  "code": 153},
+"make" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 66},
+"Protocol Buffers" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 39,
+  "code": 53},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 8,
+  "code": 51},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 47},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 33},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 33},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 597,
+  "comment": 759,
+  "code": 3325,
+  "nFiles": 54} }

@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 99.4893219470978,
+  "n_files"            : 458,
+  "n_lines"            : 54551,
+  "files_per_second"   : 4.60350911069166,
+  "lines_per_second"   : 548.310099339172,
+  "report_file"        : "loc/HubTurbo__HubTurbo.json"},
+"Java" :{
+  "nFiles": 393,
+  "blank": 6959,
+  "comment": 4732,
+  "code": 29703},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 6972},
+"Markdown" :{
+  "nFiles": 31,
+  "blank": 734,
+  "comment": 0,
+  "code": 1418},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 279,
+  "comment": 195,
+  "code": 937},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 513},
+"XML" :{
+  "nFiles": 6,
+  "blank": 111,
+  "comment": 155,
+  "code": 364},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 241},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 239},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 23,
+  "code": 179},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 31,
+  "code": 140},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 31,
+  "code": 128},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"FXML" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 0,
+  "code": 105},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 29},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 9,
+  "code": 27},
+"SUM": {
+  "blank": 8232,
+  "comment": 5201,
+  "code": 41118,
+  "nFiles": 458} }

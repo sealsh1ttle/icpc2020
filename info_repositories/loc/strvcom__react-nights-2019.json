@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.7664520740509,
+  "n_files"            : 106,
+  "n_lines"            : 3587,
+  "files_per_second"   : 4.86987955774239,
+  "lines_per_second"   : 164.794886543603,
+  "report_file"        : "loc/strvcom__react-nights-2019.json"},
+"TypeScript" :{
+  "nFiles": 70,
+  "blank": 287,
+  "comment": 34,
+  "code": 1627},
+"JavaScript" :{
+  "nFiles": 21,
+  "blank": 88,
+  "comment": 112,
+  "code": 625},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 187,
+  "comment": 0,
+  "code": 458},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 169},
+"SUM": {
+  "blank": 562,
+  "comment": 146,
+  "code": 2879,
+  "nFiles": 106} }

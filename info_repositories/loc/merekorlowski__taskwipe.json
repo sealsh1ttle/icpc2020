@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.0174558162689,
+  "n_files"            : 83,
+  "n_lines"            : 19856,
+  "files_per_second"   : 5.18184666479285,
+  "lines_per_second"   : 1239.64755874852,
+  "report_file"        : "loc/merekorlowski__taskwipe.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 15453},
+"JavaScript" :{
+  "nFiles": 56,
+  "blank": 421,
+  "comment": 413,
+  "code": 2612},
+"Sass" :{
+  "nFiles": 16,
+  "blank": 134,
+  "comment": 7,
+  "code": 623},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 0,
+  "code": 59},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 8,
+  "code": 41},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 600,
+  "comment": 428,
+  "code": 18828,
+  "nFiles": 83} }

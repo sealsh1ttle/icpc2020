@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.21825790405273,
+  "n_files"            : 618,
+  "n_lines"            : 69459,
+  "files_per_second"   : 118.430328926448,
+  "lines_per_second"   : 13310.7641050196,
+  "report_file"        : "loc/openshift__svt.json"},
+"JSON" :{
+  "nFiles": 134,
+  "blank": 51,
+  "comment": 0,
+  "code": 36613},
+"YAML" :{
+  "nFiles": 194,
+  "blank": 709,
+  "comment": 231,
+  "code": 8597},
+"Bourne Shell" :{
+  "nFiles": 101,
+  "blank": 1451,
+  "comment": 601,
+  "code": 6252},
+"Python" :{
+  "nFiles": 47,
+  "blank": 1037,
+  "comment": 447,
+  "code": 4549},
+"Markdown" :{
+  "nFiles": 54,
+  "blank": 913,
+  "comment": 0,
+  "code": 2480},
+"Java" :{
+  "nFiles": 43,
+  "blank": 452,
+  "comment": 372,
+  "code": 2460},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 52,
+  "code": 508},
+"Dockerfile" :{
+  "nFiles": 17,
+  "blank": 97,
+  "comment": 49,
+  "code": 334},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 55,
+  "comment": 35,
+  "code": 273},
+"XML" :{
+  "nFiles": 8,
+  "blank": 12,
+  "comment": 16,
+  "code": 228},
+"awk" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 200},
+"Go" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 5,
+  "code": 104},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 49},
+"diff" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 25,
+  "code": 48},
+"Groovy" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 31},
+"INI" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 8},
+"SUM": {
+  "blank": 4860,
+  "comment": 1841,
+  "code": 62758,
+  "nFiles": 618} }

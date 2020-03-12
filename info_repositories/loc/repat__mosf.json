@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.181443929672241,
+  "n_files"            : 14,
+  "n_lines"            : 324,
+  "files_per_second"   : 77.1588227023604,
+  "lines_per_second"   : 1785.67561111177,
+  "report_file"        : "loc/repat__mosf.json"},
+"XML" :{
+  "nFiles": 12,
+  "blank": 29,
+  "comment": 31,
+  "code": 125},
+"Java" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 9,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 54,
+  "comment": 40,
+  "code": 230,
+  "nFiles": 14} }

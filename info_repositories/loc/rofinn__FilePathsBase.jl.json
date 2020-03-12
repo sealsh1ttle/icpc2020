@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.54985785484314,
+  "n_files"            : 28,
+  "n_lines"            : 4010,
+  "files_per_second"   : 6.15403841027586,
+  "lines_per_second"   : 881.346215185935,
+  "report_file"        : "loc/rofinn__FilePathsBase.jl.json"},
+"Julia" :{
+  "nFiles": 20,
+  "blank": 531,
+  "comment": 189,
+  "code": 2723},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 47,
+  "comment": 0,
+  "code": 338},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 0,
+  "code": 89},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 5,
+  "code": 54},
+"SUM": {
+  "blank": 612,
+  "comment": 194,
+  "code": 3204,
+  "nFiles": 28} }

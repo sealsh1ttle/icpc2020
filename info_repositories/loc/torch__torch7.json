@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.5568950176239,
+  "n_files"            : 161,
+  "n_lines"            : 44451,
+  "files_per_second"   : 4.40409394513354,
+  "lines_per_second"   : 1215.94024816852,
+  "report_file"        : "loc/torch__torch7.json"},
+"C" :{
+  "nFiles": 50,
+  "blank": 2668,
+  "comment": 955,
+  "code": 17270},
+"Lua" :{
+  "nFiles": 21,
+  "blank": 1227,
+  "comment": 505,
+  "code": 8620},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 2042,
+  "comment": 0,
+  "code": 6184},
+"C/C++ Header" :{
+  "nFiles": 51,
+  "blank": 465,
+  "comment": 281,
+  "code": 2287},
+"CMake" :{
+  "nFiles": 18,
+  "blank": 207,
+  "comment": 201,
+  "code": 1456},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 83},
+"SUM": {
+  "blank": 6609,
+  "comment": 1942,
+  "code": 35900,
+  "nFiles": 161} }

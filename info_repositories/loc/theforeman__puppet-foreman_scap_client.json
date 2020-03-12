@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.29039716720581,
+  "n_files"            : 12,
+  "n_lines"            : 462,
+  "files_per_second"   : 9.29946244843707,
+  "lines_per_second"   : 358.029304264827,
+  "report_file"        : "loc/theforeman__puppet-foreman_scap_client.json"},
+"Puppet" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 68,
+  "code": 117},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 62},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 1,
+  "code": 61},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 47},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 44,
+  "comment": 69,
+  "code": 349,
+  "nFiles": 12} }

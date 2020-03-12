@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.88480591773987,
+  "n_files"            : 302,
+  "n_lines"            : 44435,
+  "files_per_second"   : 160.228698964474,
+  "lines_per_second"   : 23575.3716506172,
+  "report_file"        : "loc/istio__proxy.json"},
+"C++" :{
+  "nFiles": 115,
+  "blank": 3331,
+  "comment": 3591,
+  "code": 19569},
+"C/C++ Header" :{
+  "nFiles": 107,
+  "blank": 1808,
+  "comment": 3263,
+  "code": 5725},
+"Go" :{
+  "nFiles": 19,
+  "blank": 276,
+  "comment": 400,
+  "code": 1929},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 230,
+  "comment": 401,
+  "code": 762},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 32,
+  "comment": 75,
+  "code": 645},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 199,
+  "comment": 0,
+  "code": 567},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 386},
+"Python" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 75,
+  "code": 129},
+"make" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 37,
+  "code": 106},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 50,
+  "code": 97},
+"Starlark" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 273,
+  "code": 85},
+"Protocol Buffers" :{
+  "nFiles": 5,
+  "blank": 36,
+  "comment": 128,
+  "code": 62},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 12,
+  "code": 26},
+"SUM": {
+  "blank": 6042,
+  "comment": 8305,
+  "code": 30088,
+  "nFiles": 302} }

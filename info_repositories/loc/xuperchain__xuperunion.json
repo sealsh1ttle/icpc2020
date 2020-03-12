@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 665.271229028702,
+  "n_files"            : 2923,
+  "n_lines"            : 1008977,
+  "files_per_second"   : 4.39369669460618,
+  "lines_per_second"   : 1516.6400649448,
+  "report_file"        : "loc/xuperchain__xuperunion.json"},
+"Go" :{
+  "nFiles": 2288,
+  "blank": 64409,
+  "comment": 96269,
+  "code": 677384},
+"C++" :{
+  "nFiles": 76,
+  "blank": 5930,
+  "comment": 2299,
+  "code": 51368},
+"WebAssembly" :{
+  "nFiles": 75,
+  "blank": 2680,
+  "comment": 1270,
+  "code": 42160},
+"C/C++ Header" :{
+  "nFiles": 69,
+  "blank": 2615,
+  "comment": 2139,
+  "code": 12810},
+"YAML" :{
+  "nFiles": 69,
+  "blank": 639,
+  "comment": 134,
+  "code": 11045},
+"Assembly" :{
+  "nFiles": 63,
+  "blank": 1135,
+  "comment": 1736,
+  "code": 8914},
+"Markdown" :{
+  "nFiles": 140,
+  "blank": 3265,
+  "comment": 0,
+  "code": 8825},
+"Protocol Buffers" :{
+  "nFiles": 32,
+  "blank": 488,
+  "comment": 1800,
+  "code": 1706},
+"C" :{
+  "nFiles": 14,
+  "blank": 298,
+  "comment": 234,
+  "code": 1564},
+"Bourne Shell" :{
+  "nFiles": 22,
+  "blank": 164,
+  "comment": 405,
+  "code": 1234},
+"JSON" :{
+  "nFiles": 31,
+  "blank": 32,
+  "comment": 0,
+  "code": 1063},
+"Windows Module Definition" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 0,
+  "code": 629},
+"make" :{
+  "nFiles": 28,
+  "blank": 193,
+  "comment": 93,
+  "code": 553},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 45,
+  "comment": 57,
+  "code": 401},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 56,
+  "comment": 29,
+  "code": 295},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 108,
+  "comment": 62,
+  "code": 170},
+"Python" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 21,
+  "code": 146},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 10,
+  "code": 43},
+"SUM": {
+  "blank": 82109,
+  "comment": 106558,
+  "code": 820310,
+  "nFiles": 2923} }

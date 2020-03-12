@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.320845127105713,
+  "n_files"            : 2,
+  "n_lines"            : 212,
+  "files_per_second"   : 6.23353709012708,
+  "lines_per_second"   : 660.754931553471,
+  "report_file"        : "loc/wix-playground__tomono.json"},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 25,
+  "code": 119},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 34},
+"SUM": {
+  "blank": 34,
+  "comment": 25,
+  "code": 153,
+  "nFiles": 2} }

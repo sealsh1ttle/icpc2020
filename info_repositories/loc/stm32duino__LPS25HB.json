@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.167535066604614,
+  "n_files"            : 6,
+  "n_lines"            : 3166,
+  "files_per_second"   : 35.8133978849939,
+  "lines_per_second"   : 18897.5362839818,
+  "report_file"        : "loc/stm32duino__LPS25HB.json"},
+"C" :{
+  "nFiles": 1,
+  "blank": 372,
+  "comment": 504,
+  "code": 750},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 137,
+  "comment": 514,
+  "code": 423},
+"C++" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 113,
+  "code": 181},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 48,
+  "code": 30},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 585,
+  "comment": 1179,
+  "code": 1402,
+  "nFiles": 6} }

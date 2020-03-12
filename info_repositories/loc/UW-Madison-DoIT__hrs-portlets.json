@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 84.9804580211639,
+  "n_files"            : 300,
+  "n_lines"            : 25748,
+  "files_per_second"   : 3.53022338294866,
+  "lines_per_second"   : 302.987305547207,
+  "report_file"        : "loc/UW-Madison-DoIT__hrs-portlets.json"},
+"Java" :{
+  "nFiles": 149,
+  "blank": 2295,
+  "comment": 2909,
+  "code": 7292},
+"XML" :{
+  "nFiles": 60,
+  "blank": 455,
+  "comment": 1204,
+  "code": 2922},
+"JSP" :{
+  "nFiles": 25,
+  "blank": 384,
+  "comment": 488,
+  "code": 2522},
+"XSD" :{
+  "nFiles": 54,
+  "blank": 262,
+  "comment": 870,
+  "code": 1203},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 71,
+  "comment": 36,
+  "code": 1150},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 408,
+  "comment": 0,
+  "code": 999},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 18,
+  "code": 151},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 23,
+  "code": 44},
+"SUM": {
+  "blank": 3917,
+  "comment": 5548,
+  "code": 16283,
+  "nFiles": 300} }

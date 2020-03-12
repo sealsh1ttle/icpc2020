@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.8600680828094,
+  "n_files"            : 187,
+  "n_lines"            : 17962,
+  "files_per_second"   : 4.93924098580552,
+  "lines_per_second"   : 474.431265171331,
+  "report_file"        : "loc/getgridea__gridea.json"},
+"LESS" :{
+  "nFiles": 36,
+  "blank": 450,
+  "comment": 360,
+  "code": 5111},
+"Vuejs Component" :{
+  "nFiles": 24,
+  "blank": 454,
+  "comment": 383,
+  "code": 3393},
+"TypeScript" :{
+  "nFiles": 50,
+  "blank": 377,
+  "comment": 282,
+  "code": 2654},
+"EJS" :{
+  "nFiles": 44,
+  "blank": 168,
+  "comment": 0,
+  "code": 1251},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 855},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 727},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 40,
+  "comment": 44,
+  "code": 485},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 196,
+  "comment": 0,
+  "code": 469},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 1,
+  "code": 228},
+"SUM": {
+  "blank": 1719,
+  "comment": 1070,
+  "code": 15173,
+  "nFiles": 187} }

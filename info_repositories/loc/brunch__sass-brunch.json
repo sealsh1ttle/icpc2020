@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.301435947418213,
+  "n_files"            : 7,
+  "n_lines"            : 3973,
+  "files_per_second"   : 23.2221805659037,
+  "lines_per_second"   : 13180.2461983336,
+  "report_file"        : "loc/brunch__sass-brunch.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2970},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 91,
+  "comment": 109,
+  "code": 444},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 76,
+  "comment": 0,
+  "code": 276},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 167,
+  "comment": 109,
+  "code": 3697,
+  "nFiles": 7} }

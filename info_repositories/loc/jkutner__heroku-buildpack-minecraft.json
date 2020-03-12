@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.1961190700531,
+  "n_files"            : 8,
+  "n_lines"            : 337,
+  "files_per_second"   : 6.68829734454852,
+  "lines_per_second"   : 281.744525639106,
+  "report_file"        : "loc/jkutner__heroku-buildpack-minecraft.json"},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 0,
+  "code": 88},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 74},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 4,
+  "code": 60},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"Ruby HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 63,
+  "comment": 4,
+  "code": 270,
+  "nFiles": 8} }

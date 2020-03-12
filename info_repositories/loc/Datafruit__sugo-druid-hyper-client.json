@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.7061879634857,
+  "n_files"            : 44,
+  "n_lines"            : 4416,
+  "files_per_second"   : 3.75869583994773,
+  "lines_per_second"   : 377.236382482027,
+  "report_file"        : "loc/Datafruit__sugo-druid-hyper-client.json"},
+"Java" :{
+  "nFiles": 42,
+  "blank": 637,
+  "comment": 323,
+  "code": 3296},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 151},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 644,
+  "comment": 323,
+  "code": 3449,
+  "nFiles": 44} }

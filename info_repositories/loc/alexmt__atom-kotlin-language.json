@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0895750522613525,
+  "n_files"            : 5,
+  "n_lines"            : 684,
+  "files_per_second"   : 55.8191134001411,
+  "lines_per_second"   : 7636.0547131393,
+  "report_file"        : "loc/alexmt__atom-kotlin-language.json"},
+"CSON" :{
+  "nFiles": 1,
+  "blank": 48,
+  "comment": 0,
+  "code": 595},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 24},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 54,
+  "comment": 0,
+  "code": 630,
+  "nFiles": 5} }

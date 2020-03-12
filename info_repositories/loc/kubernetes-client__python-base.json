@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.37280988693237,
+  "n_files"            : 31,
+  "n_lines"            : 5594,
+  "files_per_second"   : 4.86441625436942,
+  "lines_per_second"   : 877.791758933631,
+  "report_file"        : "loc/kubernetes-client__python-base.json"},
+"Python" :{
+  "nFiles": 24,
+  "blank": 759,
+  "comment": 698,
+  "code": 3957},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 28,
+  "code": 45},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 31},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 31},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 794,
+  "comment": 727,
+  "code": 4073,
+  "nFiles": 31} }

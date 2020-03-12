@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 130.336966991425,
+  "n_files"            : 10569,
+  "n_lines"            : 2147811,
+  "files_per_second"   : 81.0898108492534,
+  "lines_per_second"   : 16478.9088589219,
+  "report_file"        : "loc/SFML__SFML-Website.json"},
+"PHP" :{
+  "nFiles": 10513,
+  "blank": 96420,
+  "comment": 4469,
+  "code": 2032827},
+"CSS" :{
+  "nFiles": 34,
+  "blank": 1032,
+  "comment": 202,
+  "code": 5692},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 572,
+  "comment": 1118,
+  "code": 3806},
+"LESS" :{
+  "nFiles": 2,
+  "blank": 147,
+  "comment": 6,
+  "code": 887},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 323},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 98,
+  "comment": 0,
+  "code": 206},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 98270,
+  "comment": 5796,
+  "code": 2043745,
+  "nFiles": 10569} }

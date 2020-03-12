@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 42.4747149944305,
+  "n_files"            : 118,
+  "n_lines"            : 14331,
+  "files_per_second"   : 2.77812340860845,
+  "lines_per_second"   : 337.400733633625,
+  "report_file"        : "loc/TinkoffCreditSystems__tinkoff-request.json"},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 9451},
+"TypeScript" :{
+  "nFiles": 68,
+  "blank": 674,
+  "comment": 210,
+  "code": 2991},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 128,
+  "comment": 0,
+  "code": 533},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 43,
+  "code": 215},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 17},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 10},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 851,
+  "comment": 254,
+  "code": 13226,
+  "nFiles": 118} }

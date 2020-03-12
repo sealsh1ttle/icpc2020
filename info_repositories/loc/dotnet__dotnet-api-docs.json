@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1806.12160801888,
+  "n_files"            : 16878,
+  "n_lines"            : 9878949,
+  "files_per_second"   : 9.34488570706675,
+  "lines_per_second"   : 5469.70312305613,
+  "report_file"        : "loc/dotnet__dotnet-api-docs.json"},
+"XML" :{
+  "nFiles": 16609,
+  "blank": 443381,
+  "comment": 310,
+  "code": 9430980},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 3324},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 520},
+"Markdown" :{
+  "nFiles": 257,
+  "blank": 33,
+  "comment": 0,
+  "code": 329},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 1,
+  "code": 37},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 443432,
+  "comment": 315,
+  "code": 9435202,
+  "nFiles": 16878} }

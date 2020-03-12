@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.6641981601715,
+  "n_files"            : 135,
+  "n_lines"            : 59499,
+  "files_per_second"   : 6.23147918985483,
+  "lines_per_second"   : 2746.42059494202,
+  "report_file"        : "loc/ohler55__ox.json"},
+"XML" :{
+  "nFiles": 18,
+  "blank": 6,
+  "comment": 4,
+  "code": 39683},
+"C" :{
+  "nFiles": 19,
+  "blank": 755,
+  "comment": 607,
+  "code": 8474},
+"Ruby" :{
+  "nFiles": 75,
+  "blank": 935,
+  "comment": 665,
+  "code": 6104},
+"C/C++ Header" :{
+  "nFiles": 15,
+  "blank": 174,
+  "comment": 97,
+  "code": 949},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 273,
+  "comment": 0,
+  "code": 583},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 48},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 4,
+  "code": 48},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 1,
+  "code": 30},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 21},
+"SUM": {
+  "blank": 2178,
+  "comment": 1381,
+  "code": 55940,
+  "nFiles": 135} }

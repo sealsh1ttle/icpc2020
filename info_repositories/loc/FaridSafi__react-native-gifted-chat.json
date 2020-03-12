@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.5581359863281,
+  "n_files"            : 71,
+  "n_lines"            : 6344,
+  "files_per_second"   : 4.87699799388313,
+  "lines_per_second"   : 435.770074270346,
+  "report_file"        : "loc/FaridSafi__react-native-gifted-chat.json"},
+"TypeScript" :{
+  "nFiles": 45,
+  "blank": 358,
+  "comment": 84,
+  "code": 3834},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 100,
+  "comment": 43,
+  "code": 1120},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 91,
+  "comment": 0,
+  "code": 423},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 203},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 7,
+  "code": 69},
+"SUM": {
+  "blank": 561,
+  "comment": 134,
+  "code": 5649,
+  "nFiles": 71} }

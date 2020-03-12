@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.59593892097473,
+  "n_files"            : 10,
+  "n_lines"            : 13771,
+  "files_per_second"   : 6.26590395695872,
+  "lines_per_second"   : 8628.77633912785,
+  "report_file"        : "loc/ironhack-labs__lab-es6-javascript-koans.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 2379,
+  "comment": 1770,
+  "code": 9432},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 61},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 0,
+  "code": 52},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 2418,
+  "comment": 1770,
+  "code": 9583,
+  "nFiles": 10} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.52058291435242,
+  "n_files"            : 35,
+  "n_lines"            : 1062,
+  "files_per_second"   : 4.65389457155048,
+  "lines_per_second"   : 141.212458142475,
+  "report_file"        : "loc/vschool-slc-fall-2016__personal-trainer.json"},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 69,
+  "comment": 12,
+  "code": 455},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 43,
+  "comment": 3,
+  "code": 413},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 28},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 119,
+  "comment": 15,
+  "code": 928,
+  "nFiles": 35} }

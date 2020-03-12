@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.573034048080444,
+  "n_files"            : 2,
+  "n_lines"            : 443,
+  "files_per_second"   : 3.49019400627174,
+  "lines_per_second"   : 773.077972389191,
+  "report_file"        : "loc/tomcat-slf4j-logback__tomcat-slf4j-logback.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 134,
+  "comment": 0,
+  "code": 309},
+"SUM": {
+  "blank": 134,
+  "comment": 0,
+  "code": 309,
+  "nFiles": 2} }

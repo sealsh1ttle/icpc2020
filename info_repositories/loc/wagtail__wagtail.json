@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 650.547909975052,
+  "n_files"            : 2188,
+  "n_lines"            : 331978,
+  "files_per_second"   : 3.36331877552863,
+  "lines_per_second"   : 510.30522873055,
+  "report_file"        : "loc/wagtail__wagtail.json"},
+"PO File" :{
+  "nFiles": 665,
+  "blank": 37095,
+  "comment": 6624,
+  "code": 105531},
+"Python" :{
+  "nFiles": 695,
+  "blank": 18883,
+  "comment": 11354,
+  "code": 66039},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 52,
+  "comment": 0,
+  "code": 21970},
+"JavaScript" :{
+  "nFiles": 159,
+  "blank": 2204,
+  "comment": 4601,
+  "code": 12848},
+"reStructuredText" :{
+  "nFiles": 200,
+  "blank": 7882,
+  "comment": 6809,
+  "code": 9153},
+"HTML" :{
+  "nFiles": 314,
+  "blank": 958,
+  "comment": 11,
+  "code": 7575},
+"Sass" :{
+  "nFiles": 94,
+  "blank": 1449,
+  "comment": 433,
+  "code": 6860},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 194,
+  "comment": 273,
+  "code": 1723},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 122,
+  "comment": 0,
+  "code": 261},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 21,
+  "comment": 13,
+  "code": 196},
+"make" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 8,
+  "code": 177},
+"SVG" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 1,
+  "code": 171},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 36,
+  "comment": 23,
+  "code": 169},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 9,
+  "code": 91},
+"INI" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 68},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 5,
+  "code": 16},
+"SUM": {
+  "blank": 68966,
+  "comment": 30164,
+  "code": 232848,
+  "nFiles": 2188} }

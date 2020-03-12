@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.919799089431763,
+  "n_files"            : 117,
+  "n_lines"            : 16202,
+  "files_per_second"   : 127.201691482735,
+  "lines_per_second"   : 17614.7162854981,
+  "report_file"        : "loc/istio__old_mixerclient_repo.json"},
+"C++" :{
+  "nFiles": 47,
+  "blank": 1333,
+  "comment": 1706,
+  "code": 7016},
+"C/C++ Header" :{
+  "nFiles": 56,
+  "blank": 856,
+  "comment": 1875,
+  "code": 2594},
+"Starlark" :{
+  "nFiles": 5,
+  "blank": 43,
+  "comment": 253,
+  "code": 144},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 36,
+  "code": 59},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 0,
+  "code": 36},
+"Python" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 19,
+  "code": 35},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 29},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 20,
+  "code": 25},
+"SUM": {
+  "blank": 2311,
+  "comment": 3910,
+  "code": 9981,
+  "nFiles": 117} }

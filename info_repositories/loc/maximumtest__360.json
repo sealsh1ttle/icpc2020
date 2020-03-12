@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 55.0842730998993,
+  "n_files"            : 264,
+  "n_lines"            : 24214,
+  "files_per_second"   : 4.79265650871378,
+  "lines_per_second"   : 439.581002659074,
+  "report_file"        : "loc/maximumtest__360.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 11277},
+"PHP" :{
+  "nFiles": 188,
+  "blank": 1380,
+  "comment": 1705,
+  "code": 5034},
+"Vuejs Component" :{
+  "nFiles": 25,
+  "blank": 292,
+  "comment": 2,
+  "code": 1679},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 123,
+  "comment": 15,
+  "code": 1568},
+"TypeScript" :{
+  "nFiles": 22,
+  "blank": 125,
+  "comment": 2,
+  "code": 706},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 1,
+  "code": 68},
+"make" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 46},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 32},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 10,
+  "code": 31},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 24},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"Blade" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1985,
+  "comment": 1735,
+  "code": 20494,
+  "nFiles": 264} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.05716490745544,
+  "n_files"            : 30,
+  "n_lines"            : 2078,
+  "files_per_second"   : 9.81301333364112,
+  "lines_per_second"   : 679.714723576875,
+  "report_file"        : "loc/theforeman__ldap_fluff.json"},
+"Ruby" :{
+  "nFiles": 27,
+  "blank": 305,
+  "comment": 65,
+  "code": 1592},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 4,
+  "code": 69},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 8},
+"SUM": {
+  "blank": 339,
+  "comment": 70,
+  "code": 1669,
+  "nFiles": 30} }

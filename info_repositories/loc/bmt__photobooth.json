@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.5638830661774,
+  "n_files"            : 138,
+  "n_lines"            : 7010,
+  "files_per_second"   : 4.23782384058903,
+  "lines_per_second"   : 215.269167554559,
+  "report_file"        : "loc/bmt__photobooth.json"},
+"JavaScript" :{
+  "nFiles": 77,
+  "blank": 502,
+  "comment": 615,
+  "code": 3070},
+"C++" :{
+  "nFiles": 6,
+  "blank": 254,
+  "comment": 112,
+  "code": 920},
+"C/C++ Header" :{
+  "nFiles": 7,
+  "blank": 95,
+  "comment": 65,
+  "code": 341},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 15,
+  "comment": 23,
+  "code": 340},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 26,
+  "comment": 3,
+  "code": 158},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 137},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 40,
+  "comment": 0,
+  "code": 126},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 2,
+  "code": 21},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 14},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 4,
+  "code": 7},
+"diff" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 11,
+  "code": 5},
+"SUM": {
+  "blank": 950,
+  "comment": 842,
+  "code": 5218,
+  "nFiles": 138} }

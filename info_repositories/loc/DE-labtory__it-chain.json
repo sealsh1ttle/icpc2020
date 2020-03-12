@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 206.089736938477,
+  "n_files"            : 891,
+  "n_lines"            : 407500,
+  "files_per_second"   : 4.32335939302978,
+  "lines_per_second"   : 1977.29399849566,
+  "report_file"        : "loc/DE-labtory__it-chain.json"},
+"Go" :{
+  "nFiles": 774,
+  "blank": 27680,
+  "comment": 44143,
+  "code": 326182},
+"Markdown" :{
+  "nFiles": 40,
+  "blank": 1288,
+  "comment": 0,
+  "code": 2521},
+"Assembly" :{
+  "nFiles": 27,
+  "blank": 389,
+  "comment": 721,
+  "code": 1013},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 142,
+  "comment": 132,
+  "code": 867},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 108,
+  "comment": 294,
+  "code": 688},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 23,
+  "comment": 7,
+  "code": 413},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 12,
+  "code": 100},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 50,
+  "code": 76},
+"Protocol Buffers" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 344,
+  "code": 58},
+"make" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 5,
+  "code": 51},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 33},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 6,
+  "code": 24},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 29737,
+  "comment": 45714,
+  "code": 332049,
+  "nFiles": 891} }

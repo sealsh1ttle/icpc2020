@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 585.104079008102,
+  "n_files"            : 4287,
+  "n_lines"            : 2912857,
+  "files_per_second"   : 7.32690157837822,
+  "lines_per_second"   : 4978.35702143458,
+  "report_file"        : "loc/cncf__devstats.json"},
+"JSON" :{
+  "nFiles": 3083,
+  "blank": 32,
+  "comment": 0,
+  "code": 2830997},
+"YAML" :{
+  "nFiles": 114,
+  "blank": 0,
+  "comment": 336,
+  "code": 35474},
+"SQL" :{
+  "nFiles": 324,
+  "blank": 1531,
+  "comment": 1460,
+  "code": 22224},
+"Bourne Shell" :{
+  "nFiles": 546,
+  "blank": 196,
+  "comment": 410,
+  "code": 11761},
+"Markdown" :{
+  "nFiles": 150,
+  "blank": 538,
+  "comment": 0,
+  "code": 4322},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 3,
+  "comment": 1,
+  "code": 1483},
+"Go" :{
+  "nFiles": 1,
+  "blank": 62,
+  "comment": 114,
+  "code": 1027},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 81,
+  "code": 463},
+"SVG" :{
+  "nFiles": 54,
+  "blank": 6,
+  "comment": 5,
+  "code": 225},
+"make" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 59},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 2409,
+  "comment": 2407,
+  "code": 2908041,
+  "nFiles": 4287} }

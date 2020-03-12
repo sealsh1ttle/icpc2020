@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.70850801467896,
+  "n_files"            : 920,
+  "n_lines"            : 63814,
+  "files_per_second"   : 137.139286110554,
+  "lines_per_second"   : 9512.398265064,
+  "report_file"        : "loc/foretold-app__foretold.json"},
+"ReasonML" :{
+  "nFiles": 269,
+  "blank": 1861,
+  "comment": 192,
+  "code": 22798},
+"JavaScript" :{
+  "nFiles": 609,
+  "blank": 2913,
+  "comment": 3687,
+  "code": 20700},
+"JSON" :{
+  "nFiles": 24,
+  "blank": 4,
+  "comment": 0,
+  "code": 9132},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1415},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 74,
+  "comment": 3,
+  "code": 463},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 75,
+  "comment": 0,
+  "code": 286},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 19,
+  "code": 92},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 1,
+  "code": 52},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 10},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 4955,
+  "comment": 3902,
+  "code": 54957,
+  "nFiles": 920} }

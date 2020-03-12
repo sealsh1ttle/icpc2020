@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.3348610401154,
+  "n_files"            : 39,
+  "n_lines"            : 3511,
+  "files_per_second"   : 3.16177051960005,
+  "lines_per_second"   : 284.640417802969,
+  "report_file"        : "loc/gjtorikian__markdowntutorial.com.json"},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 144,
+  "comment": 3,
+  "code": 1353},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 193,
+  "comment": 151,
+  "code": 1198},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 34,
+  "comment": 0,
+  "code": 115},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 0,
+  "code": 112},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 2,
+  "code": 108},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 5,
+  "code": 54},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 404,
+  "comment": 161,
+  "code": 2946,
+  "nFiles": 39} }

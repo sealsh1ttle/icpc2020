@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.23631405830383,
+  "n_files"            : 227,
+  "n_lines"            : 70049,
+  "files_per_second"   : 101.506315339345,
+  "lines_per_second"   : 31323.4179876908,
+  "report_file"        : "loc/Sn0wCh1ld__App-Installer.json"},
+"C/C++ Header" :{
+  "nFiles": 143,
+  "blank": 5725,
+  "comment": 11690,
+  "code": 27633},
+"C" :{
+  "nFiles": 30,
+  "blank": 1998,
+  "comment": 1214,
+  "code": 10929},
+"C++" :{
+  "nFiles": 13,
+  "blank": 637,
+  "comment": 522,
+  "code": 2752},
+"Objective C" :{
+  "nFiles": 20,
+  "blank": 739,
+  "comment": 475,
+  "code": 2744},
+"Objective C++" :{
+  "nFiles": 2,
+  "blank": 364,
+  "comment": 255,
+  "code": 856},
+"XML" :{
+  "nFiles": 9,
+  "blank": 11,
+  "comment": 8,
+  "code": 842},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 49,
+  "comment": 0,
+  "code": 217},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 23,
+  "code": 191},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 146},
+"SUM": {
+  "blank": 9552,
+  "comment": 14187,
+  "code": 46310,
+  "nFiles": 227} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.708926200866699,
+  "n_files"            : 85,
+  "n_lines"            : 2893,
+  "files_per_second"   : 119.899645260795,
+  "lines_per_second"   : 4080.81969105269,
+  "report_file"        : "loc/ppy__osu-templates.json"},
+"C#" :{
+  "nFiles": 62,
+  "blank": 331,
+  "comment": 137,
+  "code": 1784},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 298},
+"MSBuild script" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 0,
+  "code": 194},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 32,
+  "code": 36},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 7,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 361,
+  "comment": 176,
+  "code": 2356,
+  "nFiles": 85} }

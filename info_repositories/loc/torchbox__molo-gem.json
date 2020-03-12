@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 222.874662160873,
+  "n_files"            : 753,
+  "n_lines"            : 61821,
+  "files_per_second"   : 3.37858055599194,
+  "lines_per_second"   : 277.380117598908,
+  "report_file"        : "loc/torchbox__molo-gem.json"},
+"PO File" :{
+  "nFiles": 18,
+  "blank": 5595,
+  "comment": 13287,
+  "code": 13004},
+"HTML" :{
+  "nFiles": 327,
+  "blank": 542,
+  "comment": 42,
+  "code": 7801},
+"Sass" :{
+  "nFiles": 145,
+  "blank": 769,
+  "comment": 66,
+  "code": 7295},
+"JSON" :{
+  "nFiles": 142,
+  "blank": 1,
+  "comment": 0,
+  "code": 6835},
+"Python" :{
+  "nFiles": 65,
+  "blank": 1035,
+  "comment": 313,
+  "code": 4305},
+"SVG" :{
+  "nFiles": 24,
+  "blank": 0,
+  "comment": 20,
+  "code": 387},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 39,
+  "comment": 1,
+  "code": 222},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 84},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 66},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 0,
+  "comment": 10,
+  "code": 20},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 2,
+  "code": 11},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 8027,
+  "comment": 13744,
+  "code": 40050,
+  "nFiles": 753} }

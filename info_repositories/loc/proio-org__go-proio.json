@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.97544598579407,
+  "n_files"            : 22,
+  "n_lines"            : 4254,
+  "files_per_second"   : 3.15392020020001,
+  "lines_per_second"   : 609.853478711402,
+  "report_file"        : "loc/proio-org__go-proio.json"},
+"Go" :{
+  "nFiles": 16,
+  "blank": 570,
+  "comment": 203,
+  "code": 3300},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 7,
+  "code": 66},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 61},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 594,
+  "comment": 210,
+  "code": 3450,
+  "nFiles": 22} }

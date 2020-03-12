@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.222476005554199,
+  "n_files"            : 37,
+  "n_lines"            : 1794,
+  "files_per_second"   : 166.310069743616,
+  "lines_per_second"   : 8063.79094919047,
+  "report_file"        : "loc/comp354-group-i-j__team_j_iteration_1.json"},
+"XML" :{
+  "nFiles": 18,
+  "blank": 31,
+  "comment": 5,
+  "code": 625},
+"Java" :{
+  "nFiles": 13,
+  "blank": 143,
+  "comment": 73,
+  "code": 567},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 3,
+  "code": 59},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 232,
+  "comment": 123,
+  "code": 1439,
+  "nFiles": 37} }

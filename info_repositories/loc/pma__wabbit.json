@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.32175612449646,
+  "n_files"            : 13,
+  "n_lines"            : 1524,
+  "files_per_second"   : 5.5992099526902,
+  "lines_per_second"   : 656.399689838451,
+  "report_file"        : "loc/pma__wabbit.json"},
+"Elixir" :{
+  "nFiles": 12,
+  "blank": 223,
+  "comment": 263,
+  "code": 1014},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 231,
+  "comment": 263,
+  "code": 1030,
+  "nFiles": 13} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.33958101272583,
+  "n_files"            : 50,
+  "n_lines"            : 3581,
+  "files_per_second"   : 147.24026999816,
+  "lines_per_second"   : 10545.3481372683,
+  "report_file"        : "loc/dwyl__phoenix-ecto-encryption-example.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 377,
+  "comment": 0,
+  "code": 1437},
+"Elixir" :{
+  "nFiles": 38,
+  "blank": 190,
+  "comment": 408,
+  "code": 754},
+"EEx" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 64},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 19,
+  "code": 57},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 19,
+  "code": 50},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 65,
+  "code": 49},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 614,
+  "comment": 512,
+  "code": 2455,
+  "nFiles": 50} }

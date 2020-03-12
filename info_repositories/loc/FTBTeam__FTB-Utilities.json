@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.40809106826782,
+  "n_files"            : 158,
+  "n_lines"            : 14779,
+  "files_per_second"   : 112.208651528743,
+  "lines_per_second"   : 10495.7700059702,
+  "report_file"        : "loc/FTBTeam__FTB-Utilities.json"},
+"Java" :{
+  "nFiles": 150,
+  "blank": 2105,
+  "comment": 317,
+  "code": 11915},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 87},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 81},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 2164,
+  "comment": 340,
+  "code": 12275,
+  "nFiles": 158} }

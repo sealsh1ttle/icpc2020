@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.78025698661804,
+  "n_files"            : 18,
+  "n_lines"            : 1051,
+  "files_per_second"   : 10.1108997944137,
+  "lines_per_second"   : 590.364204662714,
+  "report_file"        : "loc/mafintosh__hypervision.json"},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 153,
+  "comment": 66,
+  "code": 717},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 40},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 15},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 166,
+  "comment": 69,
+  "code": 816,
+  "nFiles": 18} }

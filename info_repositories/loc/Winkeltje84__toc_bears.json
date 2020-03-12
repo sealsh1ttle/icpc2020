@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.921288967132568,
+  "n_files"            : 190,
+  "n_lines"            : 4100,
+  "files_per_second"   : 206.232796417131,
+  "lines_per_second"   : 4450.28665952757,
+  "report_file"        : "loc/Winkeltje84__toc_bears.json"},
+"Ruby" :{
+  "nFiles": 109,
+  "blank": 322,
+  "comment": 610,
+  "code": 1275},
+"ERB" :{
+  "nFiles": 55,
+  "blank": 95,
+  "comment": 0,
+  "code": 809},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 46,
+  "comment": 21,
+  "code": 363},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 92,
+  "code": 90},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 6,
+  "comment": 28,
+  "code": 58},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 27},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 26},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 512,
+  "comment": 758,
+  "code": 2830,
+  "nFiles": 190} }

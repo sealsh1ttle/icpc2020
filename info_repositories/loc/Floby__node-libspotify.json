@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.4693939685822,
+  "n_files"            : 51,
+  "n_lines"            : 5145,
+  "files_per_second"   : 4.87134213814544,
+  "lines_per_second"   : 491.432456877614,
+  "report_file"        : "loc/Floby__node-libspotify.json"},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 214,
+  "comment": 208,
+  "code": 1383},
+"C++" :{
+  "nFiles": 11,
+  "blank": 484,
+  "comment": 657,
+  "code": 1091},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 116,
+  "comment": 278,
+  "code": 481},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 0,
+  "code": 78},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"Python" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 851,
+  "comment": 1144,
+  "code": 3150,
+  "nFiles": 51} }

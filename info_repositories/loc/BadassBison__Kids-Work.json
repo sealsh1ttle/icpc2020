@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.70207691192627,
+  "n_files"            : 124,
+  "n_lines"            : 21209,
+  "files_per_second"   : 176.618826076739,
+  "lines_per_second"   : 30208.9409859803,
+  "report_file"        : "loc/BadassBison__Kids-Work.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 16714},
+"JavaScript" :{
+  "nFiles": 63,
+  "blank": 291,
+  "comment": 71,
+  "code": 1588},
+"JSX" :{
+  "nFiles": 40,
+  "blank": 214,
+  "comment": 120,
+  "code": 1486},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 93,
+  "comment": 35,
+  "code": 470},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 0,
+  "code": 44},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 20,
+  "code": 22},
+"SUM": {
+  "blank": 639,
+  "comment": 246,
+  "code": 20324,
+  "nFiles": 124} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.324672937393188,
+  "n_files"            : 1,
+  "n_lines"            : 32,
+  "files_per_second"   : 3.08002264687978,
+  "lines_per_second"   : 98.5607247001528,
+  "report_file"        : "loc/flathub__org.fedoraproject.MediaWriter.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 32,
+  "nFiles": 1} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.44386196136475,
+  "n_files"            : 19,
+  "n_lines"            : 667,
+  "files_per_second"   : 2.25015521178997,
+  "lines_per_second"   : 78.9922908559954,
+  "report_file"        : "loc/alexkahriman__tripple-a-project.json"},
+"XML" :{
+  "nFiles": 9,
+  "blank": 7,
+  "comment": 2,
+  "code": 271},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 3,
+  "code": 45},
+"Java" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 11,
+  "code": 34},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 73,
+  "comment": 56,
+  "code": 538,
+  "nFiles": 19} }

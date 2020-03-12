@@ -1,0 +1,209 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 72.4084510803223,
+  "n_files"            : 4066,
+  "n_lines"            : 1791727,
+  "files_per_second"   : 56.1536663101605,
+  "lines_per_second"   : 24744.722104502,
+  "report_file"        : "loc/python__cpython.json"},
+"Python" :{
+  "nFiles": 1890,
+  "blank": 119117,
+  "comment": 143402,
+  "code": 548636},
+"C" :{
+  "nFiles": 317,
+  "blank": 52237,
+  "comment": 48652,
+  "code": 318885},
+"C/C++ Header" :{
+  "nFiles": 381,
+  "blank": 15369,
+  "comment": 10062,
+  "code": 156219},
+"reStructuredText" :{
+  "nFiles": 1045,
+  "blank": 92254,
+  "comment": 118103,
+  "code": 105667},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 2863,
+  "comment": 2480,
+  "code": 18002},
+"XML" :{
+  "nFiles": 163,
+  "blank": 245,
+  "comment": 114,
+  "code": 9972},
+"m4" :{
+  "nFiles": 4,
+  "blank": 532,
+  "comment": 150,
+  "code": 5459},
+"C++" :{
+  "nFiles": 5,
+  "blank": 726,
+  "comment": 256,
+  "code": 3241},
+"YAML" :{
+  "nFiles": 34,
+  "blank": 385,
+  "comment": 72,
+  "code": 1964},
+"RobotFramework" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1931},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 108,
+  "comment": 11,
+  "code": 1925},
+"WiX source" :{
+  "nFiles": 51,
+  "blank": 161,
+  "comment": 41,
+  "code": 1713},
+"DOS Batch" :{
+  "nFiles": 32,
+  "blank": 350,
+  "comment": 99,
+  "code": 1663},
+"Assembly" :{
+  "nFiles": 6,
+  "blank": 229,
+  "comment": 384,
+  "code": 1365},
+"Windows Module Definition" :{
+  "nFiles": 8,
+  "blank": 23,
+  "comment": 14,
+  "code": 1363},
+"MSBuild script" :{
+  "nFiles": 27,
+  "blank": 40,
+  "comment": 3,
+  "code": 645},
+"Objective C" :{
+  "nFiles": 7,
+  "blank": 98,
+  "comment": 61,
+  "code": 635},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 109,
+  "comment": 81,
+  "code": 502},
+"Pascal" :{
+  "nFiles": 3,
+  "blank": 113,
+  "comment": 261,
+  "code": 349},
+"PowerShell" :{
+  "nFiles": 6,
+  "blank": 84,
+  "comment": 171,
+  "code": 345},
+"Windows Resource File" :{
+  "nFiles": 7,
+  "blank": 40,
+  "comment": 47,
+  "code": 295},
+"make" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 40,
+  "code": 238},
+"WiX string localization" :{
+  "nFiles": 11,
+  "blank": 28,
+  "comment": 0,
+  "code": 188},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 14,
+  "code": 176},
+"INI" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 27,
+  "code": 102},
+"D" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 1,
+  "code": 74},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 0,
+  "code": 65},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 0,
+  "code": 65},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 2,
+  "code": 46},
+"Fish Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 13,
+  "code": 38},
+"IDL" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 35},
+"C Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 5,
+  "code": 11},
+"diff" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 7,
+  "code": 9},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 2},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 4,
+  "code": 0},
+"SUM": {
+  "blank": 285307,
+  "comment": 324578,
+  "code": 1181842,
+  "nFiles": 4066} }

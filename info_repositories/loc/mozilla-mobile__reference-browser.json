@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 61.7047910690308,
+  "n_files"            : 171,
+  "n_lines"            : 20408,
+  "files_per_second"   : 2.77125968725342,
+  "lines_per_second"   : 330.736068406245,
+  "report_file"        : "loc/mozilla-mobile__reference-browser.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1544,
+  "comment": 1596,
+  "code": 6649},
+"Kotlin" :{
+  "nFiles": 76,
+  "blank": 751,
+  "comment": 675,
+  "code": 3699},
+"Python" :{
+  "nFiles": 26,
+  "blank": 343,
+  "comment": 150,
+  "code": 1411},
+"YAML" :{
+  "nFiles": 20,
+  "blank": 88,
+  "comment": 164,
+  "code": 1125},
+"XML" :{
+  "nFiles": 21,
+  "blank": 115,
+  "comment": 105,
+  "code": 499},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 92,
+  "comment": 68,
+  "code": 369},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 47,
+  "code": 231},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 13,
+  "comment": 3,
+  "code": 125},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 3,
+  "code": 119},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 50,
+  "comment": 0,
+  "code": 90},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 20,
+  "code": 52},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 7},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 3122,
+  "comment": 2851,
+  "code": 14435,
+  "nFiles": 171} }

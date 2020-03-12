@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.98122000694275,
+  "n_files"            : 49,
+  "n_lines"            : 2229,
+  "files_per_second"   : 4.909219510833,
+  "lines_per_second"   : 223.31939366626,
+  "report_file"        : "loc/sorrycc__roadhog.json"},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 127,
+  "comment": 140,
+  "code": 987},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 254,
+  "comment": 0,
+  "code": 581},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 95},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 18},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 390,
+  "comment": 140,
+  "code": 1699,
+  "nFiles": 49} }

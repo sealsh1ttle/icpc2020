@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.52575922012329,
+  "n_files"            : 808,
+  "n_lines"            : 107470,
+  "files_per_second"   : 107.364582943269,
+  "lines_per_second"   : 14280.2867932093,
+  "report_file"        : "loc/trustedanalytics__spark-tk.json"},
+"Scala" :{
+  "nFiles": 404,
+  "blank": 6567,
+  "comment": 18604,
+  "code": 30436},
+"Python" :{
+  "nFiles": 345,
+  "blank": 8000,
+  "comment": 17780,
+  "code": 18111},
+"Maven" :{
+  "nFiles": 5,
+  "blank": 88,
+  "comment": 87,
+  "code": 2161},
+"Mako" :{
+  "nFiles": 3,
+  "blank": 240,
+  "comment": 2,
+  "code": 1382},
+"RobotFramework" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 879},
+"Java" :{
+  "nFiles": 2,
+  "blank": 76,
+  "comment": 146,
+  "code": 557},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 191,
+  "comment": 0,
+  "code": 421},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 184,
+  "comment": 344,
+  "code": 392},
+"XML" :{
+  "nFiles": 8,
+  "blank": 57,
+  "comment": 200,
+  "code": 201},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 76},
+"INI" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 48},
+"R" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 16,
+  "code": 45},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 15,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 15474,
+  "comment": 37194,
+  "code": 54802,
+  "nFiles": 808} }

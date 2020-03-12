@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.5564680099487,
+  "n_files"            : 138,
+  "n_lines"            : 8902,
+  "files_per_second"   : 10.1796426546152,
+  "lines_per_second"   : 656.660716749161,
+  "report_file"        : "loc/andela__pippin-ah-frontend.json"},
+"JavaScript" :{
+  "nFiles": 88,
+  "blank": 346,
+  "comment": 12,
+  "code": 4399},
+"JSX" :{
+  "nFiles": 17,
+  "blank": 82,
+  "comment": 6,
+  "code": 1736},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 287,
+  "comment": 0,
+  "code": 1717},
+"SVG" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 6,
+  "code": 117},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 107},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 3,
+  "code": 55},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 726,
+  "comment": 27,
+  "code": 8149,
+  "nFiles": 138} }

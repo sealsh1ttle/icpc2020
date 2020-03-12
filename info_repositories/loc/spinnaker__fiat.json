@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.5328221321106,
+  "n_files"            : 138,
+  "n_lines"            : 10394,
+  "files_per_second"   : 3.49077026524522,
+  "lines_per_second"   : 262.920769108398,
+  "report_file"        : "loc/spinnaker__fiat.json"},
+"Java" :{
+  "nFiles": 77,
+  "blank": 874,
+  "comment": 1323,
+  "code": 4335},
+"Groovy" :{
+  "nFiles": 23,
+  "blank": 514,
+  "comment": 335,
+  "code": 2000},
+"Gradle" :{
+  "nFiles": 11,
+  "blank": 51,
+  "comment": 124,
+  "code": 224},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 34,
+  "comment": 42,
+  "code": 180},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 0,
+  "code": 65},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 8,
+  "comment": 2,
+  "code": 64},
+"XML" :{
+  "nFiles": 8,
+  "blank": 6,
+  "comment": 17,
+  "code": 64},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1533,
+  "comment": 1845,
+  "code": 7016,
+  "nFiles": 138} }

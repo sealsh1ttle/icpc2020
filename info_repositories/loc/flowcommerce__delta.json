@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 44.3347208499908,
+  "n_files"            : 225,
+  "n_lines"            : 41856,
+  "files_per_second"   : 5.07502913486928,
+  "lines_per_second"   : 944.090753195949,
+  "report_file"        : "loc/flowcommerce__delta.json"},
+"Scala" :{
+  "nFiles": 173,
+  "blank": 5676,
+  "comment": 2348,
+  "code": 30326},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 136,
+  "comment": 0,
+  "code": 1103},
+"HTML" :{
+  "nFiles": 33,
+  "blank": 151,
+  "comment": 0,
+  "code": 1070},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 80,
+  "comment": 0,
+  "code": 358},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 14,
+  "code": 187},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 1,
+  "code": 97},
+"XML" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 15,
+  "code": 95},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 37},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 23,
+  "code": 30},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 6131,
+  "comment": 2402,
+  "code": 33323,
+  "nFiles": 225} }

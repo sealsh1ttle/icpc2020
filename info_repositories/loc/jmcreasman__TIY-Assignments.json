@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 268.005339860916,
+  "n_files"            : 757,
+  "n_lines"            : 170284,
+  "files_per_second"   : 2.82457058651463,
+  "lines_per_second"   : 635.375399939309,
+  "report_file"        : "loc/jmcreasman__TIY-Assignments.json"},
+"JavaScript" :{
+  "nFiles": 487,
+  "blank": 15903,
+  "comment": 24716,
+  "code": 86925},
+"Markdown" :{
+  "nFiles": 108,
+  "blank": 5645,
+  "comment": 0,
+  "code": 15708},
+"JSON" :{
+  "nFiles": 84,
+  "blank": 0,
+  "comment": 0,
+  "code": 13859},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 490,
+  "comment": 345,
+  "code": 2276},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 82,
+  "comment": 41,
+  "code": 1920},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 1018},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 140,
+  "comment": 170,
+  "code": 833},
+"Pug" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 61},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"make" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 30},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 9,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 22283,
+  "comment": 25285,
+  "code": 122716,
+  "nFiles": 757} }

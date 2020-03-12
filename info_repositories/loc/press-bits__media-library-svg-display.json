@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.469351053237915,
+  "n_files"            : 3,
+  "n_lines"            : 157,
+  "files_per_second"   : 6.39180412892201,
+  "lines_per_second"   : 334.504416080252,
+  "report_file"        : "loc/press-bits__media-library-svg-display.json"},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 37,
+  "code": 47},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 29,
+  "comment": 37,
+  "code": 91,
+  "nFiles": 3} }

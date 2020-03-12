@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.7959699630737,
+  "n_files"            : 160,
+  "n_lines"            : 5655,
+  "files_per_second"   : 4.59823365090255,
+  "lines_per_second"   : 162.518820599087,
+  "report_file"        : "loc/camsys__transam_audit.json"},
+"Ruby" :{
+  "nFiles": 118,
+  "blank": 719,
+  "comment": 688,
+  "code": 3023},
+"Haml" :{
+  "nFiles": 26,
+  "blank": 78,
+  "comment": 70,
+  "code": 615},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 40,
+  "code": 60},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 59},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 6,
+  "code": 25},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 13,
+  "code": 0},
+"SUM": {
+  "blank": 841,
+  "comment": 835,
+  "code": 3979,
+  "nFiles": 160} }

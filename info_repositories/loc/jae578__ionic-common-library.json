@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.36712694168091,
+  "n_files"            : 38,
+  "n_lines"            : 13981,
+  "files_per_second"   : 5.96815492262953,
+  "lines_per_second"   : 2195.8098414022,
+  "report_file"        : "loc/jae578__ionic-common-library.json"},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 13188},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 143,
+  "code": 249},
+"TypeScript" :{
+  "nFiles": 13,
+  "blank": 41,
+  "comment": 95,
+  "code": 151},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 1,
+  "code": 31},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 104,
+  "comment": 239,
+  "code": 13638,
+  "nFiles": 38} }

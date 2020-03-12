@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.7076528072357,
+  "n_files"            : 837,
+  "n_lines"            : 625256,
+  "files_per_second"   : 56.9091486568286,
+  "lines_per_second"   : 42512.2899074958,
+  "report_file"        : "loc/aviabird__angularspree.json"},
+"HTML" :{
+  "nFiles": 296,
+  "blank": 29497,
+  "comment": 1523,
+  "code": 518705},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 42365},
+"TypeScript" :{
+  "nFiles": 345,
+  "blank": 1592,
+  "comment": 996,
+  "code": 11711},
+"Sass" :{
+  "nFiles": 98,
+  "blank": 675,
+  "comment": 224,
+  "code": 6798},
+"SVG" :{
+  "nFiles": 30,
+  "blank": 6,
+  "comment": 639,
+  "code": 6554},
+"CSS" :{
+  "nFiles": 16,
+  "blank": 309,
+  "comment": 84,
+  "code": 1865},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 135,
+  "comment": 120,
+  "code": 1167},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 74,
+  "comment": 0,
+  "code": 192},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 32290,
+  "comment": 3587,
+  "code": 589379,
+  "nFiles": 837} }

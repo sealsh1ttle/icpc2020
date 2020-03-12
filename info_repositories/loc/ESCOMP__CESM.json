@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.5792129039764,
+  "n_files"            : 47,
+  "n_lines"            : 12691,
+  "files_per_second"   : 1.5889537072057,
+  "lines_per_second"   : 429.051308471224,
+  "report_file"        : "loc/ESCOMP__CESM.json"},
+"Python" :{
+  "nFiles": 22,
+  "blank": 1454,
+  "comment": 2534,
+  "code": 4273},
+"XML" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 23,
+  "code": 2045},
+"reStructuredText" :{
+  "nFiles": 9,
+  "blank": 394,
+  "comment": 148,
+  "code": 809},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 134,
+  "comment": 0,
+  "code": 292},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 81,
+  "comment": 0,
+  "code": 253},
+"make" :{
+  "nFiles": 3,
+  "blank": 33,
+  "comment": 41,
+  "code": 90},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 6,
+  "code": 25},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 6},
+"SUM": {
+  "blank": 2143,
+  "comment": 2755,
+  "code": 7793,
+  "nFiles": 47} }

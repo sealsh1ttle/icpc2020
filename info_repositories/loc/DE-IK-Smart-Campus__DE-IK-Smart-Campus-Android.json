@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 50.3305418491364,
+  "n_files"            : 141,
+  "n_lines"            : 8677,
+  "files_per_second"   : 2.80147987324757,
+  "lines_per_second"   : 172.400289788434,
+  "report_file"        : "loc/DE-IK-Smart-Campus__DE-IK-Smart-Campus-Android.json"},
+"Java" :{
+  "nFiles": 85,
+  "blank": 1100,
+  "comment": 1711,
+  "code": 3604},
+"XML" :{
+  "nFiles": 49,
+  "blank": 226,
+  "comment": 58,
+  "code": 1566},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 18,
+  "code": 104},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 15,
+  "code": 1},
+"SUM": {
+  "blank": 1392,
+  "comment": 1824,
+  "code": 5461,
+  "nFiles": 141} }

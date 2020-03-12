@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.8067510128021,
+  "n_files"            : 61,
+  "n_lines"            : 4348,
+  "files_per_second"   : 4.76311282533892,
+  "lines_per_second"   : 339.508435484814,
+  "report_file"        : "loc/morajabi__subdl-client-web.json"},
+"JavaScript" :{
+  "nFiles": 49,
+  "blank": 601,
+  "comment": 190,
+  "code": 3168},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 161},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 158},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 33},
+"GraphQL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Pug" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 615,
+  "comment": 190,
+  "code": 3543,
+  "nFiles": 61} }

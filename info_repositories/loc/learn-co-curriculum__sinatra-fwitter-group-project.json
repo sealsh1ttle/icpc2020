@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.64808106422424,
+  "n_files"            : 17,
+  "n_lines"            : 842,
+  "files_per_second"   : 4.6599841672145,
+  "lines_per_second"   : 230.806274634977,
+  "report_file"        : "loc/learn-co-curriculum__sinatra-fwitter-group-project.json"},
+"Ruby" :{
+  "nFiles": 11,
+  "blank": 111,
+  "comment": 3,
+  "code": 421},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 72,
+  "comment": 0,
+  "code": 200},
+"ERB" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 189,
+  "comment": 3,
+  "code": 650,
+  "nFiles": 17} }

@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 634.507788896561,
+  "n_files"            : 2166,
+  "n_lines"            : 694402,
+  "files_per_second"   : 3.41366967892826,
+  "lines_per_second"   : 1094.39476102823,
+  "report_file"        : "loc/etcd-io__etcd.json"},
+"Go" :{
+  "nFiles": 1866,
+  "blank": 59602,
+  "comment": 86353,
+  "code": 507654},
+"Markdown" :{
+  "nFiles": 154,
+  "blank": 7773,
+  "comment": 0,
+  "code": 17600},
+"JSON" :{
+  "nFiles": 32,
+  "blank": 65,
+  "comment": 0,
+  "code": 5349},
+"Assembly" :{
+  "nFiles": 35,
+  "blank": 271,
+  "comment": 320,
+  "code": 1599},
+"Bourne Shell" :{
+  "nFiles": 34,
+  "blank": 312,
+  "comment": 117,
+  "code": 1556},
+"Protocol Buffers" :{
+  "nFiles": 12,
+  "blank": 330,
+  "comment": 784,
+  "code": 1279},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 173,
+  "comment": 152,
+  "code": 945},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 40,
+  "comment": 20,
+  "code": 841},
+"make" :{
+  "nFiles": 2,
+  "blank": 83,
+  "comment": 98,
+  "code": 392},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 7,
+  "code": 301},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 23,
+  "comment": 0,
+  "code": 204},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 66},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 11,
+  "code": 19},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 68695,
+  "comment": 87877,
+  "code": 537830,
+  "nFiles": 2166} }

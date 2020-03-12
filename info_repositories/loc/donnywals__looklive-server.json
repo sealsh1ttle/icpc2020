@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 124.207275152206,
+  "n_files"            : 623,
+  "n_lines"            : 1558,
+  "files_per_second"   : 5.01580925301325,
+  "lines_per_second"   : 12.5435486616286,
+  "report_file"        : "loc/donnywals__looklive-server.json"},
+"JSON" :{
+  "nFiles": 604,
+  "blank": 0,
+  "comment": 0,
+  "code": 627},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 62,
+  "comment": 26,
+  "code": 387},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 0,
+  "code": 171},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 6,
+  "code": 105},
+"Handlebars" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 0,
+  "code": 85},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 120,
+  "comment": 32,
+  "code": 1406,
+  "nFiles": 623} }

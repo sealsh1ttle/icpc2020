@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 74.5573489665985,
+  "n_files"            : 4019,
+  "n_lines"            : 1386786,
+  "files_per_second"   : 53.9048136193858,
+  "lines_per_second"   : 18600.2589848155,
+  "report_file"        : "loc/openebs__maya.json"},
+"Go" :{
+  "nFiles": 3648,
+  "blank": 99629,
+  "comment": 158643,
+  "code": 1090831},
+"Markdown" :{
+  "nFiles": 90,
+  "blank": 2021,
+  "comment": 0,
+  "code": 5737},
+"Protocol Buffers" :{
+  "nFiles": 56,
+  "blank": 2995,
+  "comment": 9222,
+  "code": 5118},
+"YAML" :{
+  "nFiles": 98,
+  "blank": 177,
+  "comment": 445,
+  "code": 2314},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 2294},
+"Bourne Shell" :{
+  "nFiles": 42,
+  "blank": 367,
+  "comment": 604,
+  "code": 2044},
+"Assembly" :{
+  "nFiles": 39,
+  "blank": 282,
+  "comment": 337,
+  "code": 1613},
+"make" :{
+  "nFiles": 15,
+  "blank": 126,
+  "comment": 133,
+  "code": 499},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 63,
+  "comment": 74,
+  "code": 468},
+"Dockerfile" :{
+  "nFiles": 14,
+  "blank": 82,
+  "comment": 60,
+  "code": 235},
+"Python" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 13,
+  "code": 99},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 72,
+  "code": 52},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"HCL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"SUM": {
+  "blank": 105788,
+  "comment": 169629,
+  "code": 1111369,
+  "nFiles": 4019} }

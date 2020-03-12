@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.8333749771118,
+  "n_files"            : 50,
+  "n_lines"            : 28134,
+  "files_per_second"   : 2.97028968153947,
+  "lines_per_second"   : 1671.32259800863,
+  "report_file"        : "loc/Sustainsys__owin-cookie-saver.json"},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 2722,
+  "comment": 5102,
+  "code": 11476},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 1017,
+  "comment": 46,
+  "code": 5797},
+"C#" :{
+  "nFiles": 20,
+  "blank": 153,
+  "comment": 131,
+  "code": 733},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 20,
+  "code": 390},
+"Razor" :{
+  "nFiles": 7,
+  "blank": 17,
+  "comment": 0,
+  "code": 243},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 228},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 30},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"ASP.NET" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3919,
+  "comment": 5299,
+  "code": 18916,
+  "nFiles": 50} }

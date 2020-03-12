@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.10045099258423,
+  "n_files"            : 30,
+  "n_lines"            : 3513,
+  "files_per_second"   : 5.88183281118049,
+  "lines_per_second"   : 688.762622189235,
+  "report_file"        : "loc/nus-oss__cs3281-AY1516S2-website.json"},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 378,
+  "comment": 0,
+  "code": 2176},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 159,
+  "comment": 11,
+  "code": 549},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 31,
+  "comment": 0,
+  "code": 100},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 2,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 7,
+  "code": 21},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 580,
+  "comment": 20,
+  "code": 2913,
+  "nFiles": 30} }

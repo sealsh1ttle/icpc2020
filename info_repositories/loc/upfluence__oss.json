@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.432039022445679,
+  "n_files"            : 94,
+  "n_lines"            : 4231,
+  "files_per_second"   : 217.572939286564,
+  "lines_per_second"   : 9793.09687363246,
+  "report_file"        : "loc/upfluence__oss.json"},
+"LESS" :{
+  "nFiles": 49,
+  "blank": 624,
+  "comment": 1033,
+  "code": 2068},
+"SVG" :{
+  "nFiles": 39,
+  "blank": 0,
+  "comment": 16,
+  "code": 371},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 37},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 21},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 1},
+"SUM": {
+  "blank": 651,
+  "comment": 1053,
+  "code": 2527,
+  "nFiles": 94} }

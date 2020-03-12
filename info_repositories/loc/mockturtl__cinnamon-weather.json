@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.4199419021606,
+  "n_files"            : 41,
+  "n_lines"            : 16779,
+  "files_per_second"   : 2.84328468714958,
+  "lines_per_second"   : 1163.59692111422,
+  "report_file"        : "loc/mockturtl__cinnamon-weather.json"},
+"PO File" :{
+  "nFiles": 33,
+  "blank": 3661,
+  "comment": 4033,
+  "code": 7446},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 135,
+  "comment": 122,
+  "code": 821},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 10,
+  "code": 147},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 71,
+  "comment": 0,
+  "code": 127},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 114},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 1,
+  "code": 49},
+"SUM": {
+  "blank": 3909,
+  "comment": 4166,
+  "code": 8704,
+  "nFiles": 41} }

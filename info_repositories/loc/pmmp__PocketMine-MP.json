@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7688009738922,
+  "n_files"            : 1018,
+  "n_lines"            : 106220,
+  "files_per_second"   : 94.5323441735092,
+  "lines_per_second"   : 9863.67936945987,
+  "report_file"        : "loc/pmmp__PocketMine-MP.json"},
+"PHP" :{
+  "nFiles": 982,
+  "blank": 15966,
+  "comment": 31705,
+  "code": 53997},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 624,
+  "comment": 0,
+  "code": 3361},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 3,
+  "code": 138},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 42,
+  "comment": 91,
+  "code": 123},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 72},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 41},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 22},
+"SUM": {
+  "blank": 16666,
+  "comment": 31800,
+  "code": 57754,
+  "nFiles": 1018} }

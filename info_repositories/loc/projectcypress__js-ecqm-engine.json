@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 125.096937894821,
+  "n_files"            : 589,
+  "n_lines"            : 742823,
+  "files_per_second"   : 4.70834866074195,
+  "lines_per_second"   : 5937.97907846913,
+  "report_file"        : "loc/projectcypress__js-ecqm-engine.json"},
+"JSON" :{
+  "nFiles": 569,
+  "blank": 3981,
+  "comment": 0,
+  "code": 737091},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 192,
+  "comment": 267,
+  "code": 1232},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 35},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 4185,
+  "comment": 267,
+  "code": 738371,
+  "nFiles": 589} }

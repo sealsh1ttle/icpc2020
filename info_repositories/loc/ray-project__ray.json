@@ -1,0 +1,139 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 214.245056152344,
+  "n_files"            : 1300,
+  "n_lines"            : 202584,
+  "files_per_second"   : 6.06781796204252,
+  "lines_per_second"   : 945.571410786479,
+  "report_file"        : "loc/ray-project__ray.json"},
+"Python" :{
+  "nFiles": 537,
+  "blank": 17134,
+  "comment": 16942,
+  "code": 66706},
+"C++" :{
+  "nFiles": 79,
+  "blank": 2701,
+  "comment": 2737,
+  "code": 16849},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 38,
+  "comment": 0,
+  "code": 13898},
+"Java" :{
+  "nFiles": 206,
+  "blank": 1879,
+  "comment": 1752,
+  "code": 11829},
+"C/C++ Header" :{
+  "nFiles": 112,
+  "blank": 2409,
+  "comment": 5117,
+  "code": 7328},
+"C" :{
+  "nFiles": 21,
+  "blank": 909,
+  "comment": 1269,
+  "code": 4570},
+"reStructuredText" :{
+  "nFiles": 70,
+  "blank": 3362,
+  "comment": 4089,
+  "code": 3504},
+"YAML" :{
+  "nFiles": 111,
+  "blank": 477,
+  "comment": 909,
+  "code": 2485},
+"Cython" :{
+  "nFiles": 17,
+  "blank": 687,
+  "comment": 495,
+  "code": 2189},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 511,
+  "comment": 0,
+  "code": 1756},
+"Bourne Shell" :{
+  "nFiles": 35,
+  "blank": 423,
+  "comment": 251,
+  "code": 1598},
+"TypeScript" :{
+  "nFiles": 8,
+  "blank": 56,
+  "comment": 6,
+  "code": 813},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 39,
+  "comment": 32,
+  "code": 594},
+"Starlark" :{
+  "nFiles": 7,
+  "blank": 79,
+  "comment": 148,
+  "code": 524},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 31,
+  "comment": 5,
+  "code": 517},
+"XML" :{
+  "nFiles": 9,
+  "blank": 30,
+  "comment": 14,
+  "code": 499},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 89,
+  "comment": 13,
+  "code": 453},
+"make" :{
+  "nFiles": 2,
+  "blank": 70,
+  "comment": 16,
+  "code": 324},
+"Protocol Buffers" :{
+  "nFiles": 8,
+  "blank": 71,
+  "comment": 268,
+  "code": 319},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 1,
+  "code": 270},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 19,
+  "code": 70},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 25},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 71,
+  "code": 11},
+"SUM": {
+  "blank": 31054,
+  "comment": 34158,
+  "code": 137372,
+  "nFiles": 1300} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.1411798000336,
+  "n_files"            : 153,
+  "n_lines"            : 20669,
+  "files_per_second"   : 3.90892662872336,
+  "lines_per_second"   : 528.062774438451,
+  "report_file"        : "loc/ethz-asl__asctec_mav_framework.json"},
+"C" :{
+  "nFiles": 35,
+  "blank": 1122,
+  "comment": 1787,
+  "code": 5012},
+"C/C++ Header" :{
+  "nFiles": 54,
+  "blank": 1078,
+  "comment": 2033,
+  "code": 2930},
+"C++" :{
+  "nFiles": 11,
+  "blank": 491,
+  "comment": 352,
+  "code": 2007},
+"Assembly" :{
+  "nFiles": 4,
+  "blank": 263,
+  "comment": 472,
+  "code": 894},
+"make" :{
+  "nFiles": 2,
+  "blank": 192,
+  "comment": 363,
+  "code": 567},
+"Python" :{
+  "nFiles": 4,
+  "blank": 50,
+  "comment": 101,
+  "code": 213},
+"XML" :{
+  "nFiles": 7,
+  "blank": 38,
+  "comment": 25,
+  "code": 165},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 29,
+  "code": 104},
+"Gencat NLS" :{
+  "nFiles": 11,
+  "blank": 25,
+  "comment": 0,
+  "code": 103},
+"MATLAB" :{
+  "nFiles": 5,
+  "blank": 25,
+  "comment": 14,
+  "code": 57},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 45},
+"Bourne Again Shell" :{
+  "nFiles": 11,
+  "blank": 11,
+  "comment": 0,
+  "code": 33},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 3340,
+  "comment": 5177,
+  "code": 12152,
+  "nFiles": 153} }

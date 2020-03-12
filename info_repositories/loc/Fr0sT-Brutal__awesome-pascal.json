@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.108910083770752,
+  "n_files"            : 4,
+  "n_lines"            : 1045,
+  "files_per_second"   : 36.7275449757225,
+  "lines_per_second"   : 9595.07112490751,
+  "report_file"        : "loc/Fr0sT-Brutal__awesome-pascal.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 458,
+  "comment": 0,
+  "code": 578},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 458,
+  "comment": 0,
+  "code": 587,
+  "nFiles": 4} }

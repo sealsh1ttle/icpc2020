@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.997798919677734,
+  "n_files"            : 5,
+  "n_lines"            : 170,
+  "files_per_second"   : 5.01102967882034,
+  "lines_per_second"   : 170.375009079892,
+  "report_file"        : "loc/jtyr__ansible-grub_cmdline.json"},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 13,
+  "code": 67},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 54},
+"SUM": {
+  "blank": 36,
+  "comment": 13,
+  "code": 121,
+  "nFiles": 5} }

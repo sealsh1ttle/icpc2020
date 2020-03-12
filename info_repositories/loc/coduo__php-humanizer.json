@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.8550958633423,
+  "n_files"            : 98,
+  "n_lines"            : 5155,
+  "files_per_second"   : 6.5970627790988,
+  "lines_per_second"   : 347.018965574024,
+  "report_file"        : "loc/coduo__php-humanizer.json"},
+"PHP" :{
+  "nFiles": 54,
+  "blank": 572,
+  "comment": 1071,
+  "code": 2266},
+"YAML" :{
+  "nFiles": 38,
+  "blank": 27,
+  "comment": 0,
+  "code": 810},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 93,
+  "comment": 0,
+  "code": 237},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 692,
+  "comment": 1071,
+  "code": 3392,
+  "nFiles": 98} }

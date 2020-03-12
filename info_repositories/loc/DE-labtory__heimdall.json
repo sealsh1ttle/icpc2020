@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.62245488166809,
+  "n_files"            : 42,
+  "n_lines"            : 4280,
+  "files_per_second"   : 5.51003589421165,
+  "lines_per_second"   : 561.49889588633,
+  "report_file"        : "loc/DE-labtory__heimdall.json"},
+"Go" :{
+  "nFiles": 38,
+  "blank": 698,
+  "comment": 888,
+  "code": 2416},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 0,
+  "code": 113},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 6,
+  "code": 34},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 25,
+  "code": 24},
+"SUM": {
+  "blank": 774,
+  "comment": 919,
+  "code": 2587,
+  "nFiles": 42} }

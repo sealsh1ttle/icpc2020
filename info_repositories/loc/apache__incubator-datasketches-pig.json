@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.73413896560669,
+  "n_files"            : 188,
+  "n_lines"            : 27375,
+  "files_per_second"   : 108.411150276084,
+  "lines_per_second"   : 15785.9321213181,
+  "report_file"        : "loc/apache__incubator-datasketches-pig.json"},
+"Java" :{
+  "nFiles": 180,
+  "blank": 3238,
+  "comment": 7177,
+  "code": 15070},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 76,
+  "code": 564},
+"XML" :{
+  "nFiles": 2,
+  "blank": 82,
+  "comment": 115,
+  "code": 281},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 32,
+  "code": 234},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 75,
+  "code": 187},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 69},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 15,
+  "code": 19},
+"SUM": {
+  "blank": 3461,
+  "comment": 7490,
+  "code": 16424,
+  "nFiles": 188} }

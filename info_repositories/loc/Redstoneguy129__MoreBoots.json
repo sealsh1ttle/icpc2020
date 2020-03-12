@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.559156894683838,
+  "n_files"            : 30,
+  "n_lines"            : 981,
+  "files_per_second"   : 53.652204390617,
+  "lines_per_second"   : 1754.42708357318,
+  "report_file"        : "loc/Redstoneguy129__MoreBoots.json"},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 0,
+  "code": 310},
+"Java" :{
+  "nFiles": 6,
+  "blank": 29,
+  "comment": 1,
+  "code": 213},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 37,
+  "code": 86},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 20},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 101,
+  "comment": 62,
+  "code": 818,
+  "nFiles": 30} }

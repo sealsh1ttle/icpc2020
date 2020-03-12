@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.7877190113068,
+  "n_files"            : 88,
+  "n_lines"            : 9865,
+  "files_per_second"   : 6.88160256901105,
+  "lines_per_second"   : 771.443287991977,
+  "report_file"        : "loc/mavenlink__jquery_query_builder-rails.json"},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 906,
+  "comment": 1989,
+  "code": 5372},
+"Ruby" :{
+  "nFiles": 56,
+  "blank": 100,
+  "comment": 4,
+  "code": 1029},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 10,
+  "code": 232},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 0,
+  "code": 152},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1073,
+  "comment": 2003,
+  "code": 6789,
+  "nFiles": 88} }

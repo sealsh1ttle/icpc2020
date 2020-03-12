@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.335318803787231,
+  "n_files"            : 47,
+  "n_lines"            : 1893,
+  "files_per_second"   : 140.165118893311,
+  "lines_per_second"   : 5645.373831171,
+  "report_file"        : "loc/cloud-bulldozer__stockpile.json"},
+"YAML" :{
+  "nFiles": 39,
+  "blank": 202,
+  "comment": 55,
+  "code": 1027},
+"Python" :{
+  "nFiles": 3,
+  "blank": 37,
+  "comment": 35,
+  "code": 202},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 0,
+  "code": 180},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 9,
+  "code": 64},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 314,
+  "comment": 99,
+  "code": 1480,
+  "nFiles": 47} }

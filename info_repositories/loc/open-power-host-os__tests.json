@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.28279781341553,
+  "n_files"            : 6,
+  "n_lines"            : 1632,
+  "files_per_second"   : 1.82770927148797,
+  "lines_per_second"   : 497.136921844728,
+  "report_file"        : "loc/open-power-host-os__tests.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 218,
+  "comment": 324,
+  "code": 1072},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 223,
+  "comment": 324,
+  "code": 1085,
+  "nFiles": 6} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.3442370891571,
+  "n_files"            : 46,
+  "n_lines"            : 3004,
+  "files_per_second"   : 4.44692050303231,
+  "lines_per_second"   : 290.40324328498,
+  "report_file"        : "loc/theforeman__foreman-discovery-image.json"},
+"Ruby" :{
+  "nFiles": 17,
+  "blank": 120,
+  "comment": 146,
+  "code": 1069},
+"Bourne Again Shell" :{
+  "nFiles": 18,
+  "blank": 129,
+  "comment": 109,
+  "code": 628},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 75,
+  "comment": 0,
+  "code": 218},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 24,
+  "comment": 15,
+  "code": 168},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 66,
+  "comment": 2,
+  "code": 167},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 6,
+  "code": 50},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 423,
+  "comment": 278,
+  "code": 2303,
+  "nFiles": 46} }

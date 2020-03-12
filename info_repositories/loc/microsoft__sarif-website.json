@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 67.3996441364288,
+  "n_files"            : 265,
+  "n_lines"            : 168602,
+  "files_per_second"   : 3.93177150110159,
+  "lines_per_second"   : 2501.52656086314,
+  "report_file"        : "loc/microsoft__sarif-website.json"},
+"JavaScript" :{
+  "nFiles": 98,
+  "blank": 14175,
+  "comment": 15298,
+  "code": 75855},
+"CSS" :{
+  "nFiles": 126,
+  "blank": 2970,
+  "comment": 2240,
+  "code": 54268},
+"Razor" :{
+  "nFiles": 5,
+  "blank": 113,
+  "comment": 32,
+  "code": 996},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 977},
+"C#" :{
+  "nFiles": 23,
+  "blank": 109,
+  "comment": 122,
+  "code": 640},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 0,
+  "code": 290},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 67,
+  "comment": 0,
+  "code": 167},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 5,
+  "code": 108},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 12,
+  "code": 47},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"ASP.NET" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 17508,
+  "comment": 17709,
+  "code": 133385,
+  "nFiles": 265} }

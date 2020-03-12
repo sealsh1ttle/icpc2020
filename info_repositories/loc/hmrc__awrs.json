@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.075966835022,
+  "n_files"            : 140,
+  "n_lines"            : 20373,
+  "files_per_second"   : 4.98647119875366,
+  "lines_per_second"   : 725.638412372916,
+  "report_file"        : "loc/hmrc__awrs.json"},
+"JSON" :{
+  "nFiles": 57,
+  "blank": 1,
+  "comment": 0,
+  "code": 10354},
+"Scala" :{
+  "nFiles": 73,
+  "blank": 1657,
+  "comment": 1130,
+  "code": 6720},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 56,
+  "comment": 0,
+  "code": 248},
+"XML" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 0,
+  "code": 176},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 1734,
+  "comment": 1130,
+  "code": 17509,
+  "nFiles": 140} }

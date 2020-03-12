@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 103.364492893219,
+  "n_files"            : 472,
+  "n_lines"            : 40801,
+  "files_per_second"   : 4.56636497493971,
+  "lines_per_second"   : 394.729358776515,
+  "report_file"        : "loc/kiegroup__kie-cloud-tests.json"},
+"Java" :{
+  "nFiles": 414,
+  "blank": 5901,
+  "comment": 8403,
+  "code": 22864},
+"Maven" :{
+  "nFiles": 31,
+  "blank": 214,
+  "comment": 57,
+  "code": 2637},
+"XML" :{
+  "nFiles": 13,
+  "blank": 17,
+  "comment": 18,
+  "code": 175},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 46,
+  "comment": 0,
+  "code": 167},
+"Drools" :{
+  "nFiles": 4,
+  "blank": 25,
+  "comment": 63,
+  "code": 100},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 3,
+  "code": 27},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 5,
+  "code": 19},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 18},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 6213,
+  "comment": 8549,
+  "code": 26039,
+  "nFiles": 472} }

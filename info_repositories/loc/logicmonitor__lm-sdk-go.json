@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.60109901428223,
+  "n_files"            : 211,
+  "n_lines"            : 15063,
+  "files_per_second"   : 37.6711783637411,
+  "lines_per_second"   : 2689.29364783427,
+  "report_file"        : "loc/logicmonitor__lm-sdk-go.json"},
+"Go" :{
+  "nFiles": 106,
+  "blank": 1764,
+  "comment": 2697,
+  "code": 5750},
+"Markdown" :{
+  "nFiles": 105,
+  "blank": 1807,
+  "comment": 0,
+  "code": 3045},
+"SUM": {
+  "blank": 3571,
+  "comment": 2697,
+  "code": 8795,
+  "nFiles": 211} }

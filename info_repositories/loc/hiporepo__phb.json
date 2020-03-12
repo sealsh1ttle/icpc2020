@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.249035120010376,
+  "n_files"            : 6,
+  "n_lines"            : 145,
+  "files_per_second"   : 24.0929873655973,
+  "lines_per_second"   : 582.247194668602,
+  "report_file"        : "loc/hiporepo__phb.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 105},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 24},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 4,
+  "comment": 0,
+  "code": 141,
+  "nFiles": 6} }

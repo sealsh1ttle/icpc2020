@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7630341053009,
+  "n_files"            : 31,
+  "n_lines"            : 8324,
+  "files_per_second"   : 2.88022872516331,
+  "lines_per_second"   : 773.387868008366,
+  "report_file"        : "loc/mezoistvan__ng2-flatpickr.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 4451},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 21,
+  "comment": 287,
+  "code": 2361},
+"TypeScript" :{
+  "nFiles": 12,
+  "blank": 91,
+  "comment": 483,
+  "code": 500},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 0,
+  "code": 87},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 152,
+  "comment": 770,
+  "code": 7402,
+  "nFiles": 31} }

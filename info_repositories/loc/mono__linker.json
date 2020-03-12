@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.389358997345,
+  "n_files"            : 1039,
+  "n_lines"            : 58750,
+  "files_per_second"   : 32.0784366274482,
+  "lines_per_second"   : 1813.867326143,
+  "report_file"        : "loc/mono__linker.json"},
+"C#" :{
+  "nFiles": 834,
+  "blank": 6926,
+  "comment": 3060,
+  "code": 35891},
+"PowerShell" :{
+  "nFiles": 31,
+  "blank": 593,
+  "comment": 367,
+  "code": 2621},
+"YAML" :{
+  "nFiles": 31,
+  "blank": 276,
+  "comment": 135,
+  "code": 2233},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 376,
+  "comment": 114,
+  "code": 2005},
+"XML" :{
+  "nFiles": 86,
+  "blank": 130,
+  "comment": 263,
+  "code": 1165},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 214,
+  "comment": 0,
+  "code": 599},
+"MSBuild script" :{
+  "nFiles": 9,
+  "blank": 48,
+  "comment": 40,
+  "code": 486},
+"SKILL" :{
+  "nFiles": 6,
+  "blank": 64,
+  "comment": 0,
+  "code": 319},
+"C" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 11,
+  "code": 294},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 10,
+  "code": 184},
+"diff" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 83,
+  "code": 95},
+"make" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 2,
+  "code": 20},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 1,
+  "code": 9},
+"SUM": {
+  "blank": 8728,
+  "comment": 4086,
+  "code": 45936,
+  "nFiles": 1039} }

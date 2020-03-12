@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.5572090148926,
+  "n_files"            : 50,
+  "n_lines"            : 1980,
+  "files_per_second"   : 3.68807473168519,
+  "lines_per_second"   : 146.047759374734,
+  "report_file"        : "loc/barbar__vortigern.json"},
+"TypeScript" :{
+  "nFiles": 29,
+  "blank": 150,
+  "comment": 38,
+  "code": 667},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 62,
+  "comment": 4,
+  "code": 562},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 255},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 148},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 0,
+  "code": 25},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 260,
+  "comment": 42,
+  "code": 1678,
+  "nFiles": 50} }

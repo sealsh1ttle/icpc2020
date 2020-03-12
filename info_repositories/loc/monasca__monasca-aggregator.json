@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.29103899002075,
+  "n_files"            : 27,
+  "n_lines"            : 1771,
+  "files_per_second"   : 6.29218239750122,
+  "lines_per_second"   : 412.72055651758,
+  "report_file"        : "loc/monasca__monasca-aggregator.json"},
+"Go" :{
+  "nFiles": 18,
+  "blank": 187,
+  "comment": 283,
+  "code": 855},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 92,
+  "comment": 0,
+  "code": 260},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 2,
+  "code": 80},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 286,
+  "comment": 285,
+  "code": 1200,
+  "nFiles": 27} }

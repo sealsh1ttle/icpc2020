@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 138.614562034607,
+  "n_files"            : 640,
+  "n_lines"            : 184154,
+  "files_per_second"   : 4.61711951908931,
+  "lines_per_second"   : 1328.53285612246,
+  "report_file"        : "loc/linuxmint__cinnamon.json"},
+"JavaScript" :{
+  "nFiles": 150,
+  "blank": 9173,
+  "comment": 7253,
+  "code": 47272},
+"SVG" :{
+  "nFiles": 137,
+  "blank": 47,
+  "comment": 55,
+  "code": 35679},
+"C" :{
+  "nFiles": 63,
+  "blank": 7017,
+  "comment": 6887,
+  "code": 29804},
+"Python" :{
+  "nFiles": 100,
+  "blank": 4803,
+  "comment": 1728,
+  "code": 18861},
+"C/C++ Header" :{
+  "nFiles": 67,
+  "blank": 956,
+  "comment": 1114,
+  "code": 2827},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 161,
+  "comment": 115,
+  "code": 1908},
+"Glade" :{
+  "nFiles": 8,
+  "blank": 23,
+  "comment": 8,
+  "code": 1780},
+"XML" :{
+  "nFiles": 13,
+  "blank": 230,
+  "comment": 2,
+  "code": 1774},
+"JSON" :{
+  "nFiles": 61,
+  "blank": 4,
+  "comment": 0,
+  "code": 1654},
+"make" :{
+  "nFiles": 17,
+  "blank": 217,
+  "comment": 229,
+  "code": 918},
+"Qt" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 2,
+  "code": 752},
+"INI" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 477},
+"m4" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 1,
+  "code": 167},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 68},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 2,
+  "code": 45},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 0,
+  "code": 27},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 12},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 22721,
+  "comment": 17396,
+  "code": 144037,
+  "nFiles": 640} }

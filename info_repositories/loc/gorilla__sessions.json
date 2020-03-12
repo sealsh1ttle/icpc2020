@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.456111907958984,
+  "n_files"            : 16,
+  "n_lines"            : 1499,
+  "files_per_second"   : 35.0791104568986,
+  "lines_per_second"   : 3286.47416093069,
+  "report_file"        : "loc/gorilla__sessions.json"},
+"Go" :{
+  "nFiles": 12,
+  "blank": 167,
+  "comment": 359,
+  "code": 799},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 74},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 5,
+  "code": 66},
+"SUM": {
+  "blank": 196,
+  "comment": 364,
+  "code": 939,
+  "nFiles": 16} }

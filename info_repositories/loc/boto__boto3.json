@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.73794293403625,
+  "n_files"            : 617,
+  "n_lines"            : 51718,
+  "files_per_second"   : 165.064050170974,
+  "lines_per_second"   : 13835.9522637641,
+  "report_file"        : "loc/boto__boto3.json"},
+"JSON" :{
+  "nFiles": 438,
+  "blank": 0,
+  "comment": 0,
+  "code": 20517},
+"Python" :{
+  "nFiles": 92,
+  "blank": 2873,
+  "comment": 3740,
+  "code": 11256},
+"reStructuredText" :{
+  "nFiles": 78,
+  "blank": 3959,
+  "comment": 2307,
+  "code": 6594},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 1,
+  "code": 63},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 4,
+  "code": 44},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 6887,
+  "comment": 6058,
+  "code": 38773,
+  "nFiles": 617} }

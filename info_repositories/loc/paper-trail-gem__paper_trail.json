@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.2595269680023,
+  "n_files"            : 211,
+  "n_lines"            : 13380,
+  "files_per_second"   : 6.74994219253485,
+  "lines_per_second"   : 428.029509649841,
+  "report_file"        : "loc/paper-trail-gem__paper_trail.json"},
+"Ruby" :{
+  "nFiles": 191,
+  "blank": 1284,
+  "comment": 1429,
+  "code": 6987},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 840,
+  "comment": 0,
+  "code": 2396},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 56,
+  "comment": 84,
+  "code": 171},
+"ERB" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 128},
+"SUM": {
+  "blank": 2185,
+  "comment": 1513,
+  "code": 9682,
+  "nFiles": 211} }

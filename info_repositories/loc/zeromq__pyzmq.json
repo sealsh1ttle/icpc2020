@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.88784313201904,
+  "n_files"            : 265,
+  "n_lines"            : 33578,
+  "files_per_second"   : 140.371832545527,
+  "lines_per_second"   : 17786.4354460894,
+  "report_file"        : "loc/zeromq__pyzmq.json"},
+"Python" :{
+  "nFiles": 170,
+  "blank": 4072,
+  "comment": 4400,
+  "code": 13550},
+"Cython" :{
+  "nFiles": 23,
+  "blank": 524,
+  "comment": 1056,
+  "code": 2086},
+"reStructuredText" :{
+  "nFiles": 29,
+  "blank": 892,
+  "comment": 638,
+  "code": 1269},
+"C/C++ Header" :{
+  "nFiles": 14,
+  "blank": 829,
+  "comment": 903,
+  "code": 1194},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 98,
+  "comment": 15,
+  "code": 440},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 100,
+  "comment": 0,
+  "code": 334},
+"make" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 17,
+  "code": 168},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 31,
+  "code": 160},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 86},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 458,
+  "code": 48},
+"C++" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 7,
+  "code": 29},
+"C" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 2,
+  "code": 27},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 5,
+  "code": 24},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 6607,
+  "comment": 7532,
+  "code": 19439,
+  "nFiles": 265} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.1339840888977,
+  "n_files"            : 83,
+  "n_lines"            : 3356,
+  "files_per_second"   : 5.14442059336819,
+  "lines_per_second"   : 208.008138690887,
+  "report_file"        : "loc/ManageIQ__more_core_extensions.json"},
+"Ruby" :{
+  "nFiles": 77,
+  "blank": 398,
+  "comment": 366,
+  "code": 2321},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 0,
+  "code": 185},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 27},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 5},
+"SUM": {
+  "blank": 450,
+  "comment": 368,
+  "code": 2538,
+  "nFiles": 83} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.383535861968994,
+  "n_files"            : 27,
+  "n_lines"            : 3388,
+  "files_per_second"   : 70.3975890582632,
+  "lines_per_second"   : 8833.5937677554,
+  "report_file"        : "loc/chuckfairy__node-webcam.json"},
+"JavaScript" :{
+  "nFiles": 19,
+  "blank": 978,
+  "comment": 486,
+  "code": 938},
+"C++" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 137,
+  "code": 334},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 152,
+  "comment": 0,
+  "code": 183},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 41},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 3},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1223,
+  "comment": 624,
+  "code": 1541,
+  "nFiles": 27} }

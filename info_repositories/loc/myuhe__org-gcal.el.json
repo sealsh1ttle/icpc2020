@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.289294004440308,
+  "n_files"            : 1,
+  "n_lines"            : 782,
+  "files_per_second"   : 3.4566910639392,
+  "lines_per_second"   : 2703.13241200046,
+  "report_file"        : "loc/myuhe__org-gcal.el.json"},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 68,
+  "comment": 47,
+  "code": 667},
+"SUM": {
+  "blank": 68,
+  "comment": 47,
+  "code": 667,
+  "nFiles": 1} }

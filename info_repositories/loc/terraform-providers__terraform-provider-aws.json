@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1901.41455101967,
+  "n_files"            : 6112,
+  "n_lines"            : 2990805,
+  "files_per_second"   : 3.21444894629755,
+  "lines_per_second"   : 1572.93684241352,
+  "report_file"        : "loc/terraform-providers__terraform-provider-aws.json"},
+"Go" :{
+  "nFiles": 4949,
+  "blank": 345832,
+  "comment": 780188,
+  "code": 1756966},
+"Markdown" :{
+  "nFiles": 863,
+  "blank": 19304,
+  "comment": 0,
+  "code": 58063},
+"Assembly" :{
+  "nFiles": 50,
+  "blank": 824,
+  "comment": 1403,
+  "code": 6413},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 4691},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3315},
+"HCL" :{
+  "nFiles": 69,
+  "blank": 452,
+  "comment": 375,
+  "code": 2918},
+"Bourne Shell" :{
+  "nFiles": 28,
+  "blank": 230,
+  "comment": 457,
+  "code": 1870},
+"Protocol Buffers" :{
+  "nFiles": 23,
+  "blank": 636,
+  "comment": 1756,
+  "code": 1591},
+"YAML" :{
+  "nFiles": 78,
+  "blank": 214,
+  "comment": 26,
+  "code": 1296},
+"make" :{
+  "nFiles": 17,
+  "blank": 135,
+  "comment": 53,
+  "code": 465},
+"TOML" :{
+  "nFiles": 9,
+  "blank": 167,
+  "comment": 178,
+  "code": 256},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 75,
+  "code": 206},
+"diff" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 27,
+  "code": 100},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 22,
+  "code": 63},
+"C" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 30,
+  "code": 40},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 22},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"Python" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 367892,
+  "comment": 784595,
+  "code": 1838318,
+  "nFiles": 6112} }

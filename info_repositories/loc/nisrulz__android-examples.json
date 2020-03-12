@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1259.90756011009,
+  "n_files"            : 1183,
+  "n_lines"            : 37934,
+  "files_per_second"   : 0.938957775518569,
+  "lines_per_second"   : 30.1085581204746,
+  "report_file"        : "loc/nisrulz__android-examples.json"},
+"Java" :{
+  "nFiles": 461,
+  "blank": 3306,
+  "comment": 2370,
+  "code": 12365},
+"XML" :{
+  "nFiles": 512,
+  "blank": 1076,
+  "comment": 110,
+  "code": 8702},
+"Gradle" :{
+  "nFiles": 147,
+  "blank": 1006,
+  "comment": 231,
+  "code": 3811},
+"Python" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 4,
+  "code": 1965},
+"CMake" :{
+  "nFiles": 15,
+  "blank": 184,
+  "comment": 15,
+  "code": 755},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 154,
+  "comment": 0,
+  "code": 411},
+"C++" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 402},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 42,
+  "comment": 69,
+  "code": 200},
+"Kotlin" :{
+  "nFiles": 11,
+  "blank": 87,
+  "comment": 123,
+  "code": 161},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"C" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 36},
+"ProGuard" :{
+  "nFiles": 8,
+  "blank": 27,
+  "comment": 137,
+  "code": 16},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 3},
+"SUM": {
+  "blank": 5928,
+  "comment": 3062,
+  "code": 28944,
+  "nFiles": 1183} }

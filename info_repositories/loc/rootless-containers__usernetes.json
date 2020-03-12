@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.24553608894348,
+  "n_files"            : 35,
+  "n_lines"            : 1891,
+  "files_per_second"   : 4.24472097659385,
+  "lines_per_second"   : 229.336210478256,
+  "report_file"        : "loc/rootless-containers__usernetes.json"},
+"Bourne Shell" :{
+  "nFiles": 25,
+  "blank": 59,
+  "comment": 62,
+  "code": 398},
+"diff" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 249,
+  "code": 284},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 88,
+  "comment": 0,
+  "code": 235},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 7,
+  "code": 189},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 42,
+  "code": 166},
+"make" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 1,
+  "code": 40},
+"SUM": {
+  "blank": 218,
+  "comment": 361,
+  "code": 1312,
+  "nFiles": 35} }

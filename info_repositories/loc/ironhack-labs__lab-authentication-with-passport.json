@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.75987505912781,
+  "n_files"            : 17,
+  "n_lines"            : 4734,
+  "files_per_second"   : 2.95145290921887,
+  "lines_per_second"   : 821.89282777895,
+  "report_file"        : "loc/ironhack-labs__lab-authentication-with-passport.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4511},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 8,
+  "code": 65},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 43},
+"Handlebars" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 29},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 5},
+"SUM": {
+  "blank": 65,
+  "comment": 9,
+  "code": 4660,
+  "nFiles": 17} }

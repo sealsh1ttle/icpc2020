@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.8378109931946,
+  "n_files"            : 133,
+  "n_lines"            : 22489,
+  "files_per_second"   : 5.82367548446883,
+  "lines_per_second"   : 984.726601279846,
+  "report_file"        : "loc/forCrowd__WealthFramework.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 11481},
+"TypeScript" :{
+  "nFiles": 73,
+  "blank": 1073,
+  "comment": 464,
+  "code": 3310},
+"HTML" :{
+  "nFiles": 36,
+  "blank": 56,
+  "comment": 213,
+  "code": 2682},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 611,
+  "comment": 0,
+  "code": 1328},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 240,
+  "comment": 22,
+  "code": 797},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 153},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 4,
+  "code": 52},
+"SUM": {
+  "blank": 1983,
+  "comment": 703,
+  "code": 19803,
+  "nFiles": 133} }

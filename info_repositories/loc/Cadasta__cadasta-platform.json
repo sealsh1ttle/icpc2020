@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 222.809949159622,
+  "n_files"            : 677,
+  "n_lines"            : 161513,
+  "files_per_second"   : 3.0384639579761,
+  "lines_per_second"   : 724.891328278574,
+  "report_file"        : "loc/Cadasta__cadasta-platform.json"},
+"Python" :{
+  "nFiles": 427,
+  "blank": 10195,
+  "comment": 3066,
+  "code": 56021},
+"PO File" :{
+  "nFiles": 24,
+  "blank": 10633,
+  "comment": 14631,
+  "code": 25305},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 3864,
+  "comment": 2604,
+  "code": 17087},
+"HTML" :{
+  "nFiles": 110,
+  "blank": 743,
+  "comment": 195,
+  "code": 5986},
+"Sass" :{
+  "nFiles": 14,
+  "blank": 274,
+  "comment": 16,
+  "code": 3196},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 525,
+  "comment": 0,
+  "code": 2033},
+"XML" :{
+  "nFiles": 8,
+  "blank": 28,
+  "comment": 0,
+  "code": 1278},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1265},
+"YAML" :{
+  "nFiles": 25,
+  "blank": 100,
+  "comment": 14,
+  "code": 780},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 11,
+  "comment": 0,
+  "code": 759},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 70,
+  "code": 324},
+"INI" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 0,
+  "code": 112},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 26,
+  "comment": 44,
+  "code": 93},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 8,
+  "code": 71},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 4,
+  "code": 47},
+"SUM": {
+  "blank": 26504,
+  "comment": 20652,
+  "code": 114357,
+  "nFiles": 677} }

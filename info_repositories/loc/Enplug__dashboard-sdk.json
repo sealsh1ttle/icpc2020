@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.40395903587341,
+  "n_files"            : 39,
+  "n_lines"            : 11961,
+  "files_per_second"   : 4.64066993110311,
+  "lines_per_second"   : 1423.25777040831,
+  "report_file"        : "loc/Enplug__dashboard-sdk.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 6863},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 457,
+  "comment": 1232,
+  "code": 2426},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 89,
+  "comment": 205,
+  "code": 307},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 91,
+  "comment": 0,
+  "code": 255},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 23},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 644,
+  "comment": 1438,
+  "code": 9879,
+  "nFiles": 39} }

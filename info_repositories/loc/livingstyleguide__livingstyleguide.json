@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.39395403862,
+  "n_files"            : 126,
+  "n_lines"            : 8105,
+  "files_per_second"   : 4.5995550632218,
+  "lines_per_second"   : 295.868204662006,
+  "report_file"        : "loc/livingstyleguide__livingstyleguide.json"},
+"Ruby" :{
+  "nFiles": 65,
+  "blank": 371,
+  "comment": 40,
+  "code": 2616},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 1348},
+"Sass" :{
+  "nFiles": 21,
+  "blank": 238,
+  "comment": 29,
+  "code": 1338},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 418,
+  "comment": 0,
+  "code": 836},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 457},
+"ERB" :{
+  "nFiles": 18,
+  "blank": 28,
+  "comment": 0,
+  "code": 236},
+"Haml" :{
+  "nFiles": 10,
+  "blank": 2,
+  "comment": 0,
+  "code": 142},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1057,
+  "comment": 69,
+  "code": 6979,
+  "nFiles": 126} }

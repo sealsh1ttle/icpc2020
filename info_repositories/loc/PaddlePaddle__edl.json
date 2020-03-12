@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.6861259937286,
+  "n_files"            : 79,
+  "n_lines"            : 7829,
+  "files_per_second"   : 6.22727537461424,
+  "lines_per_second"   : 617.130872251328,
+  "report_file"        : "loc/PaddlePaddle__edl.json"},
+"Go" :{
+  "nFiles": 43,
+  "blank": 686,
+  "comment": 980,
+  "code": 3382},
+"Python" :{
+  "nFiles": 8,
+  "blank": 180,
+  "comment": 83,
+  "code": 971},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 212,
+  "comment": 0,
+  "code": 485},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 1,
+  "code": 265},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 12,
+  "code": 215},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 29,
+  "comment": 38,
+  "code": 111},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 16,
+  "code": 44},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 3,
+  "code": 30},
+"SUM": {
+  "blank": 1193,
+  "comment": 1133,
+  "code": 5503,
+  "nFiles": 79} }

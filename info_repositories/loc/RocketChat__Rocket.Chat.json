@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 657.994869947433,
+  "n_files"            : 2773,
+  "n_lines"            : 472842,
+  "files_per_second"   : 4.21431857093587,
+  "lines_per_second"   : 718.610465819855,
+  "report_file"        : "loc/RocketChat__Rocket.Chat.json"},
+"JSON" :{
+  "nFiles": 76,
+  "blank": 1,
+  "comment": 0,
+  "code": 233283},
+"JavaScript" :{
+  "nFiles": 2123,
+  "blank": 23171,
+  "comment": 5842,
+  "code": 147319},
+"CSS" :{
+  "nFiles": 119,
+  "blank": 7519,
+  "comment": 225,
+  "code": 28619},
+"HTML" :{
+  "nFiles": 235,
+  "blank": 346,
+  "comment": 88,
+  "code": 13457},
+"Markdown" :{
+  "nFiles": 40,
+  "blank": 1465,
+  "comment": 0,
+  "code": 6010},
+"SVG" :{
+  "nFiles": 132,
+  "blank": 485,
+  "comment": 0,
+  "code": 1589},
+"LESS" :{
+  "nFiles": 4,
+  "blank": 268,
+  "comment": 140,
+  "code": 1081},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 104,
+  "comment": 79,
+  "code": 755},
+"Bourne Again Shell" :{
+  "nFiles": 11,
+  "blank": 88,
+  "comment": 54,
+  "code": 382},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 70,
+  "comment": 29,
+  "code": 268},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 2,
+  "code": 50},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 15},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Standard ML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 33541,
+  "comment": 6459,
+  "code": 432842,
+  "nFiles": 2773} }

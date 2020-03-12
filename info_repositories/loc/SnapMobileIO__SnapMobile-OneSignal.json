@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.153823852539062,
+  "n_files"            : 8,
+  "n_lines"            : 429,
+  "files_per_second"   : 52.0075389346295,
+  "lines_per_second"   : 2788.90427536951,
+  "report_file"        : "loc/SnapMobileIO__SnapMobile-OneSignal.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 88,
+  "comment": 38,
+  "code": 252},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 96,
+  "comment": 38,
+  "code": 295,
+  "nFiles": 8} }

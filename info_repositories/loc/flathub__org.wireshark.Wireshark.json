@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.687510967254639,
+  "n_files"            : 6,
+  "n_lines"            : 308,
+  "files_per_second"   : 8.72713350880661,
+  "lines_per_second"   : 447.992853452073,
+  "report_file"        : "loc/flathub__org.wireshark.Wireshark.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 14,
+  "code": 123},
+"diff" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 57,
+  "code": 70},
+"SUM": {
+  "blank": 44,
+  "comment": 71,
+  "code": 193,
+  "nFiles": 6} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.69193196296692,
+  "n_files"            : 21,
+  "n_lines"            : 3295,
+  "files_per_second"   : 5.68807881907009,
+  "lines_per_second"   : 892.486652801712,
+  "report_file"        : "loc/e-oj__Fawn.json"},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 349,
+  "comment": 509,
+  "code": 1323},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 606},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 144,
+  "comment": 0,
+  "code": 347},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 496,
+  "comment": 509,
+  "code": 2290,
+  "nFiles": 21} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.1582498550415,
+  "n_files"            : 808,
+  "n_lines"            : 624241,
+  "files_per_second"   : 79.5412607024026,
+  "lines_per_second"   : 61451.6288640204,
+  "report_file"        : "loc/nearprotocol__assemblyscript.json"},
+"WebAssembly" :{
+  "nFiles": 267,
+  "blank": 1,
+  "comment": 0,
+  "code": 527750},
+"TypeScript" :{
+  "nFiles": 351,
+  "blank": 7232,
+  "comment": 9016,
+  "code": 66532},
+"JSON" :{
+  "nFiles": 68,
+  "blank": 4,
+  "comment": 0,
+  "code": 6002},
+"JavaScript" :{
+  "nFiles": 79,
+  "blank": 562,
+  "comment": 356,
+  "code": 4689},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 328,
+  "comment": 0,
+  "code": 753},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 57,
+  "comment": 0,
+  "code": 630},
+"Rust" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 8,
+  "code": 158},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 1,
+  "code": 117},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 8207,
+  "comment": 9381,
+  "code": 606653,
+  "nFiles": 808} }

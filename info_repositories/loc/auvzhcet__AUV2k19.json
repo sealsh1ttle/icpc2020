@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.193988084793091,
+  "n_files"            : 13,
+  "n_lines"            : 1003,
+  "files_per_second"   : 67.0144252100117,
+  "lines_per_second"   : 5170.42065274167,
+  "report_file"        : "loc/auvzhcet__AUV2k19.json"},
+"Python" :{
+  "nFiles": 13,
+  "blank": 227,
+  "comment": 26,
+  "code": 750},
+"SUM": {
+  "blank": 227,
+  "comment": 26,
+  "code": 750,
+  "nFiles": 13} }

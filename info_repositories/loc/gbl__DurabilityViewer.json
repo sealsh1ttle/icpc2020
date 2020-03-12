@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.407876968383789,
+  "n_files"            : 23,
+  "n_lines"            : 930,
+  "files_per_second"   : 56.3895531810423,
+  "lines_per_second"   : 2280.09932427693,
+  "report_file"        : "loc/gbl__DurabilityViewer.json"},
+"Java" :{
+  "nFiles": 13,
+  "blank": 115,
+  "comment": 23,
+  "code": 650},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 70},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 4,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 133,
+  "comment": 27,
+  "code": 770,
+  "nFiles": 23} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.357634782791138,
+  "n_files"            : 56,
+  "n_lines"            : 12145,
+  "files_per_second"   : 156.584322036441,
+  "lines_per_second"   : 33959.2248416531,
+  "report_file"        : "loc/dwyl__ecto-postgres-pubsub-spike.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 9871},
+"Elixir" :{
+  "nFiles": 40,
+  "blank": 210,
+  "comment": 431,
+  "code": 745},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 0,
+  "code": 277},
+"EEx" :{
+  "nFiles": 7,
+  "blank": 25,
+  "comment": 0,
+  "code": 159},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 11,
+  "code": 117},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 19,
+  "code": 57},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 63,
+  "code": 50},
+"SUM": {
+  "blank": 345,
+  "comment": 524,
+  "code": 11276,
+  "nFiles": 56} }

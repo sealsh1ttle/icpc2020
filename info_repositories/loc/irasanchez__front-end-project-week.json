@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 339.297133207321,
+  "n_files"            : 1068,
+  "n_lines"            : 146304,
+  "files_per_second"   : 3.14768353597441,
+  "lines_per_second"   : 431.197277197752,
+  "report_file"        : "loc/irasanchez__front-end-project-week.json"},
+"JavaScript" :{
+  "nFiles": 701,
+  "blank": 17513,
+  "comment": 12512,
+  "code": 78783},
+"CSS" :{
+  "nFiles": 93,
+  "blank": 1493,
+  "comment": 51,
+  "code": 15458},
+"Sass" :{
+  "nFiles": 89,
+  "blank": 1299,
+  "comment": 1115,
+  "code": 5363},
+"Markdown" :{
+  "nFiles": 44,
+  "blank": 2313,
+  "comment": 0,
+  "code": 4408},
+"Stylus" :{
+  "nFiles": 99,
+  "blank": 525,
+  "comment": 868,
+  "code": 1833},
+"JSON" :{
+  "nFiles": 28,
+  "blank": 0,
+  "comment": 0,
+  "code": 1340},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 95,
+  "comment": 32,
+  "code": 532},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 13,
+  "code": 298},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 113,
+  "comment": 2,
+  "code": 205},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 6,
+  "code": 28},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 26},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 23413,
+  "comment": 14599,
+  "code": 108292,
+  "nFiles": 1068} }

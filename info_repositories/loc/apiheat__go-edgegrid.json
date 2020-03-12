@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.4874849319458,
+  "n_files"            : 23,
+  "n_lines"            : 2615,
+  "files_per_second"   : 6.5950105731833,
+  "lines_per_second"   : 749.824028211927,
+  "report_file"        : "loc/apiheat__go-edgegrid.json"},
+"Go" :{
+  "nFiles": 22,
+  "blank": 472,
+  "comment": 310,
+  "code": 1691},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 97},
+"SUM": {
+  "blank": 517,
+  "comment": 310,
+  "code": 1788,
+  "nFiles": 23} }

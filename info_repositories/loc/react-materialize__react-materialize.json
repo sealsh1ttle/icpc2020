@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.92377710342407,
+  "n_files"            : 222,
+  "n_lines"            : 31986,
+  "files_per_second"   : 115.397984311628,
+  "lines_per_second"   : 16626.666334197,
+  "report_file"        : "loc/react-materialize__react-materialize.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 20609},
+"JavaScript" :{
+  "nFiles": 206,
+  "blank": 1131,
+  "comment": 1245,
+  "code": 8306},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 200,
+  "comment": 0,
+  "code": 352},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 73},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 40},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 1339,
+  "comment": 1246,
+  "code": 29401,
+  "nFiles": 222} }

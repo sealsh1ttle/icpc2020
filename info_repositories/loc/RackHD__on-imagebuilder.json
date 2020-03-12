@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.56948494911194,
+  "n_files"            : 25,
+  "n_lines"            : 924,
+  "files_per_second"   : 3.80547336566765,
+  "lines_per_second"   : 140.650295595076,
+  "report_file"        : "loc/RackHD__on-imagebuilder.json"},
+"Dockerfile" :{
+  "nFiles": 9,
+  "blank": 55,
+  "comment": 18,
+  "code": 269},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 33,
+  "comment": 25,
+  "code": 129},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 75},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 17,
+  "code": 72},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 45},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 26},
+"diff" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 24,
+  "code": 23},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 26,
+  "code": 9},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 7},
+"SUM": {
+  "blank": 155,
+  "comment": 114,
+  "code": 655,
+  "nFiles": 25} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.345239877700806,
+  "n_files"            : 60,
+  "n_lines"            : 9417,
+  "files_per_second"   : 173.792206159908,
+  "lines_per_second"   : 27276.6867567976,
+  "report_file"        : "loc/xanyah__xanyah-desktop.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 7706},
+"JavaScript" :{
+  "nFiles": 43,
+  "blank": 164,
+  "comment": 37,
+  "code": 1146},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 43,
+  "comment": 1,
+  "code": 276},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 220,
+  "comment": 38,
+  "code": 9159,
+  "nFiles": 60} }

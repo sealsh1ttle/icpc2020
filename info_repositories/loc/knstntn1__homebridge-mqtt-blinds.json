@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0650050640106201,
+  "n_files"            : 3,
+  "n_lines"            : 352,
+  "files_per_second"   : 46.1502506867754,
+  "lines_per_second"   : 5414.96274724831,
+  "report_file"        : "loc/knstntn1__homebridge-mqtt-blinds.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 14,
+  "code": 147},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 121},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 41,
+  "comment": 14,
+  "code": 297,
+  "nFiles": 3} }

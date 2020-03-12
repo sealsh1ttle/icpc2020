@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.15189790725708,
+  "n_files"            : 11,
+  "n_lines"            : 6607,
+  "files_per_second"   : 9.54945740477418,
+  "lines_per_second"   : 5735.75137030391,
+  "report_file"        : "loc/backend-br__meetup-awards.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 6290},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 15,
+  "code": 113},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 81},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 8},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 52,
+  "comment": 18,
+  "code": 6537,
+  "nFiles": 11} }

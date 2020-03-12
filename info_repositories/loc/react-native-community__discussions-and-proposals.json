@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.85804486274719,
+  "n_files"            : 17,
+  "n_lines"            : 908,
+  "files_per_second"   : 5.9481221661648,
+  "lines_per_second"   : 317.699701581037,
+  "report_file"        : "loc/react-native-community__discussions-and-proposals.json"},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 347,
+  "comment": 0,
+  "code": 561},
+"SUM": {
+  "blank": 347,
+  "comment": 0,
+  "code": 561,
+  "nFiles": 17} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 281.150939941406,
+  "n_files"            : 1016,
+  "n_lines"            : 278077,
+  "files_per_second"   : 3.61371724459374,
+  "lines_per_second"   : 989.066584867022,
+  "report_file"        : "loc/ARMmbed__DAPLink.json"},
+"C/C++ Header" :{
+  "nFiles": 303,
+  "blank": 16189,
+  "comment": 48744,
+  "code": 100316},
+"C" :{
+  "nFiles": 469,
+  "blank": 12509,
+  "comment": 30732,
+  "code": 54068},
+"Python" :{
+  "nFiles": 36,
+  "blank": 1035,
+  "comment": 1366,
+  "code": 5143},
+"Assembly" :{
+  "nFiles": 11,
+  "blank": 399,
+  "comment": 768,
+  "code": 3005},
+"YAML" :{
+  "nFiles": 175,
+  "blank": 20,
+  "comment": 1,
+  "code": 2240},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 252,
+  "comment": 0,
+  "code": 853},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 42,
+  "comment": 0,
+  "code": 255},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 55,
+  "code": 68},
+"SUM": {
+  "blank": 30463,
+  "comment": 81666,
+  "code": 165948,
+  "nFiles": 1016} }

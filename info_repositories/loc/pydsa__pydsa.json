@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.246959209442139,
+  "n_files"            : 51,
+  "n_lines"            : 1939,
+  "files_per_second"   : 206.511836975851,
+  "lines_per_second"   : 7851.49905678775,
+  "report_file"        : "loc/pydsa__pydsa.json"},
+"Python" :{
+  "nFiles": 41,
+  "blank": 250,
+  "comment": 467,
+  "code": 533},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 6,
+  "code": 148},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 55,
+  "comment": 17,
+  "code": 73},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 53},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 9},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 399,
+  "comment": 494,
+  "code": 1046,
+  "nFiles": 51} }

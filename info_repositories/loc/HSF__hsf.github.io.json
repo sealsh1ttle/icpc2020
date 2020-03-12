@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 245.395634889603,
+  "n_files"            : 687,
+  "n_lines"            : 38728,
+  "files_per_second"   : 2.79956080029322,
+  "lines_per_second"   : 157.81861815685,
+  "report_file"        : "loc/HSF__hsf.github.io.json"},
+"Markdown" :{
+  "nFiles": 665,
+  "blank": 8269,
+  "comment": 0,
+  "code": 29301},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 3,
+  "code": 433},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 85,
+  "comment": 8,
+  "code": 288},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 29,
+  "code": 178},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 2,
+  "code": 53},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 8410,
+  "comment": 42,
+  "code": 30276,
+  "nFiles": 687} }

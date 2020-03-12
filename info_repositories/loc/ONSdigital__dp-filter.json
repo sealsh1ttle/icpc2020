@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.678247928619385,
+  "n_files"            : 117,
+  "n_lines"            : 13244,
+  "files_per_second"   : 172.503291293732,
+  "lines_per_second"   : 19526.7828196084,
+  "report_file"        : "loc/ONSdigital__dp-filter.json"},
+"Go" :{
+  "nFiles": 102,
+  "blank": 1799,
+  "comment": 1720,
+  "code": 8412},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 299,
+  "comment": 0,
+  "code": 904},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 110},
+"SUM": {
+  "blank": 2098,
+  "comment": 1720,
+  "code": 9426,
+  "nFiles": 117} }

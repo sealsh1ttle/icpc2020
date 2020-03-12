@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.79777908325195,
+  "n_files"            : 159,
+  "n_lines"            : 39141,
+  "files_per_second"   : 88.4424574082758,
+  "lines_per_second"   : 21771.8630529391,
+  "report_file"        : "loc/translation-gang__ru.vuejs.org.json"},
+"Markdown" :{
+  "nFiles": 86,
+  "blank": 5047,
+  "comment": 0,
+  "code": 17805},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 1219,
+  "comment": 1563,
+  "code": 10036},
+"Stylus" :{
+  "nFiles": 27,
+  "blank": 120,
+  "comment": 33,
+  "code": 1792},
+"EJS" :{
+  "nFiles": 31,
+  "blank": 82,
+  "comment": 10,
+  "code": 1001},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 36,
+  "code": 264},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 80},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 25},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 6484,
+  "comment": 1643,
+  "code": 31014,
+  "nFiles": 159} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.242468118667603,
+  "n_files"            : 45,
+  "n_lines"            : 5077,
+  "files_per_second"   : 185.591409902801,
+  "lines_per_second"   : 20938.8352905893,
+  "report_file"        : "loc/lybros__appa.json"},
+"C++" :{
+  "nFiles": 18,
+  "blank": 479,
+  "comment": 116,
+  "code": 1882},
+"Qt" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1105},
+"C/C++ Header" :{
+  "nFiles": 17,
+  "blank": 322,
+  "comment": 225,
+  "code": 621},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 25,
+  "comment": 8,
+  "code": 95},
+"Python" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 18,
+  "code": 93},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 33},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 874,
+  "comment": 367,
+  "code": 3836,
+  "nFiles": 45} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.1349790096283,
+  "n_files"            : 93,
+  "n_lines"            : 10268,
+  "files_per_second"   : 4.61882776016447,
+  "lines_per_second"   : 509.958316573857,
+  "report_file"        : "loc/mltframework__webvfx.json"},
+"C++" :{
+  "nFiles": 26,
+  "blank": 425,
+  "comment": 239,
+  "code": 2180},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 377,
+  "comment": 216,
+  "code": 1741},
+"QML" :{
+  "nFiles": 5,
+  "blank": 43,
+  "comment": 45,
+  "code": 918},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 714},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 97,
+  "comment": 7,
+  "code": 657},
+"C/C++ Header" :{
+  "nFiles": 18,
+  "blank": 206,
+  "comment": 255,
+  "code": 576},
+"Qt" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 559},
+"Python" :{
+  "nFiles": 4,
+  "blank": 118,
+  "comment": 90,
+  "code": 394},
+"Qt Project" :{
+  "nFiles": 7,
+  "blank": 49,
+  "comment": 25,
+  "code": 192},
+"Bourne Again Shell" :{
+  "nFiles": 11,
+  "blank": 11,
+  "comment": 0,
+  "code": 72},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 25},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 1352,
+  "comment": 877,
+  "code": 8039,
+  "nFiles": 93} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 303.68163394928,
+  "n_files"            : 1139,
+  "n_lines"            : 754427,
+  "files_per_second"   : 3.75063840768926,
+  "lines_per_second"   : 2484.26943107795,
+  "report_file"        : "loc/projectcypress__health-data-standards.json"},
+"XML" :{
+  "nFiles": 407,
+  "blank": 6754,
+  "comment": 9765,
+  "code": 579529},
+"JSON" :{
+  "nFiles": 85,
+  "blank": 178,
+  "comment": 0,
+  "code": 51147},
+"XSD" :{
+  "nFiles": 27,
+  "blank": 70,
+  "comment": 232,
+  "code": 39844},
+"Scheme" :{
+  "nFiles": 8,
+  "blank": 23,
+  "comment": 0,
+  "code": 20050},
+"Ruby" :{
+  "nFiles": 323,
+  "blank": 3026,
+  "comment": 1598,
+  "code": 16072},
+"ERB" :{
+  "nFiles": 246,
+  "blank": 281,
+  "comment": 0,
+  "code": 8728},
+"XSLT" :{
+  "nFiles": 15,
+  "blank": 1471,
+  "comment": 2543,
+  "code": 7203},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 515,
+  "comment": 0,
+  "code": 2906},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 86,
+  "comment": 0,
+  "code": 2027},
+"XHTML" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 19,
+  "code": 261},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 4,
+  "code": 72},
+"SUM": {
+  "blank": 12427,
+  "comment": 14161,
+  "code": 727839,
+  "nFiles": 1139} }

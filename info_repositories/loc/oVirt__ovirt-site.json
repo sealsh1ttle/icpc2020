@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.8921568393707,
+  "n_files"            : 1696,
+  "n_lines"            : 279288,
+  "files_per_second"   : 100.401625211478,
+  "lines_per_second"   : 16533.5902724429,
+  "report_file"        : "loc/oVirt__ovirt-site.json"},
+"Markdown" :{
+  "nFiles": 1047,
+  "blank": 46468,
+  "comment": 0,
+  "code": 105758},
+"JavaScript" :{
+  "nFiles": 552,
+  "blank": 10998,
+  "comment": 6691,
+  "code": 80547},
+"SVG" :{
+  "nFiles": 28,
+  "blank": 50,
+  "comment": 18,
+  "code": 20370},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 579,
+  "comment": 25,
+  "code": 2383},
+"Sass" :{
+  "nFiles": 20,
+  "blank": 806,
+  "comment": 462,
+  "code": 2188},
+"Haml" :{
+  "nFiles": 13,
+  "blank": 136,
+  "comment": 23,
+  "code": 492},
+"Ruby" :{
+  "nFiles": 10,
+  "blank": 128,
+  "comment": 35,
+  "code": 402},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 8,
+  "code": 172},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 28,
+  "comment": 8,
+  "code": 135},
+"CoffeeScript" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 84,
+  "code": 96},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 22,
+  "comment": 1,
+  "code": 85},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 9,
+  "code": 15},
+"SUM": {
+  "blank": 59281,
+  "comment": 7364,
+  "code": 212643,
+  "nFiles": 1696} }

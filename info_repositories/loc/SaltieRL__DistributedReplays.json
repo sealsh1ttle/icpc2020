@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.45873403549194,
+  "n_files"            : 346,
+  "n_lines"            : 46855,
+  "files_per_second"   : 140.72282524481,
+  "lines_per_second"   : 19056.5548463745,
+  "report_file"        : "loc/SaltieRL__DistributedReplays.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 14929},
+"TypeScript" :{
+  "nFiles": 186,
+  "blank": 1204,
+  "comment": 153,
+  "code": 12351},
+"Python" :{
+  "nFiles": 125,
+  "blank": 2113,
+  "comment": 682,
+  "code": 8204},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 46,
+  "comment": 47,
+  "code": 3883},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 804,
+  "comment": 0,
+  "code": 1826},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 36,
+  "code": 201},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 22,
+  "comment": 7,
+  "code": 139},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 129},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 18},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 4222,
+  "comment": 926,
+  "code": 41707,
+  "nFiles": 346} }

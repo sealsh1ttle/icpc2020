@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.3653268814087,
+  "n_files"            : 116,
+  "n_lines"            : 151150,
+  "files_per_second"   : 2.39841240573915,
+  "lines_per_second"   : 3125.17271661615,
+  "report_file"        : "loc/WizardDuel__app.json"},
+"JavaScript" :{
+  "nFiles": 42,
+  "blank": 14430,
+  "comment": 54032,
+  "code": 60086},
+"Sass" :{
+  "nFiles": 41,
+  "blank": 1126,
+  "comment": 310,
+  "code": 8704},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 1412,
+  "comment": 396,
+  "code": 7742},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 2227},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 21,
+  "comment": 63,
+  "code": 265},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 155},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 0,
+  "code": 107},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 17025,
+  "comment": 54804,
+  "code": 79321,
+  "nFiles": 116} }

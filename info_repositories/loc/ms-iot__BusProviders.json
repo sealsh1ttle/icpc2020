@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.3054702281952,
+  "n_files"            : 125,
+  "n_lines"            : 101275,
+  "files_per_second"   : 3.02623355476715,
+  "lines_per_second"   : 2451.85442607235,
+  "report_file"        : "loc/ms-iot__BusProviders.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 91357},
+"C#" :{
+  "nFiles": 36,
+  "blank": 413,
+  "comment": 463,
+  "code": 2246},
+"MSBuild script" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 112,
+  "code": 1832},
+"XML" :{
+  "nFiles": 14,
+  "blank": 9,
+  "comment": 17,
+  "code": 1631},
+"C++" :{
+  "nFiles": 20,
+  "blank": 276,
+  "comment": 147,
+  "code": 1301},
+"C/C++ Header" :{
+  "nFiles": 21,
+  "blank": 203,
+  "comment": 126,
+  "code": 775},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 0,
+  "code": 116},
+"XAML" :{
+  "nFiles": 8,
+  "blank": 23,
+  "comment": 78,
+  "code": 103},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 965,
+  "comment": 943,
+  "code": 99367,
+  "nFiles": 125} }

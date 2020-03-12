@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.6158339977264,
+  "n_files"            : 118,
+  "n_lines"            : 25626,
+  "files_per_second"   : 3.1369768381882,
+  "lines_per_second"   : 681.255664876362,
+  "report_file"        : "loc/nashdev__jobs.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 17633},
+"JavaScript" :{
+  "nFiles": 99,
+  "blank": 642,
+  "comment": 144,
+  "code": 6384},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 61,
+  "comment": 1,
+  "code": 438},
+"GraphQL" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 8,
+  "code": 179},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 72},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 757,
+  "comment": 153,
+  "code": 24716,
+  "nFiles": 118} }

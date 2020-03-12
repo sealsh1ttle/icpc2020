@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.38158011436462,
+  "n_files"            : 25,
+  "n_lines"            : 1389,
+  "files_per_second"   : 4.64547576524402,
+  "lines_per_second"   : 258.102633516958,
+  "report_file"        : "loc/xiachufang__cnregion.json"},
+"Python" :{
+  "nFiles": 14,
+  "blank": 287,
+  "comment": 42,
+  "code": 920},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 52},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 31},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 17},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 320,
+  "comment": 43,
+  "code": 1026,
+  "nFiles": 25} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.96286916732788,
+  "n_files"            : 104,
+  "n_lines"            : 14588,
+  "files_per_second"   : 35.1011111617171,
+  "lines_per_second"   : 4923.60586179931,
+  "report_file"        : "loc/zrlio__disni.json"},
+"Java" :{
+  "nFiles": 91,
+  "blank": 1729,
+  "comment": 3943,
+  "code": 6529},
+"C++" :{
+  "nFiles": 1,
+  "blank": 155,
+  "comment": 293,
+  "code": 892},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 199},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 254,
+  "code": 171},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 0,
+  "code": 133},
+"m4" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 67},
+"make" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 3,
+  "code": 31},
+"C" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 22,
+  "code": 28},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2020,
+  "comment": 4515,
+  "code": 8053,
+  "nFiles": 104} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.06364607810974,
+  "n_files"            : 291,
+  "n_lines"            : 38750,
+  "files_per_second"   : 141.01255204892,
+  "lines_per_second"   : 18777.4446456895,
+  "report_file"        : "loc/AllenFang__react-bootstrap-table.json"},
+"JavaScript" :{
+  "nFiles": 275,
+  "blank": 4401,
+  "comment": 1422,
+  "code": 30475},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 329,
+  "comment": 0,
+  "code": 1500},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 85,
+  "comment": 15,
+  "code": 414},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 85},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 5,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 4816,
+  "comment": 1442,
+  "code": 32492,
+  "nFiles": 291} }

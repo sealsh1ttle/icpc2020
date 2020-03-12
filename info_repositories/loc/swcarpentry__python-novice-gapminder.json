@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.0361540317535,
+  "n_files"            : 124,
+  "n_lines"            : 20191,
+  "files_per_second"   : 4.76260817357166,
+  "lines_per_second"   : 775.498561553107,
+  "report_file"        : "loc/swcarpentry__python-novice-gapminder.json"},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 14,
+  "code": 7476},
+"Markdown" :{
+  "nFiles": 47,
+  "blank": 811,
+  "comment": 0,
+  "code": 6453},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 12,
+  "comment": 9,
+  "code": 1845},
+"HTML" :{
+  "nFiles": 36,
+  "blank": 76,
+  "comment": 72,
+  "code": 932},
+"Python" :{
+  "nFiles": 6,
+  "blank": 320,
+  "comment": 212,
+  "code": 896},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 235},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 24,
+  "code": 207},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 29,
+  "comment": 52,
+  "code": 142},
+"R" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 23,
+  "code": 73},
+"make" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 28,
+  "code": 67},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 12,
+  "code": 49},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 4},
+"SUM": {
+  "blank": 1356,
+  "comment": 449,
+  "code": 18386,
+  "nFiles": 124} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.51526689529419,
+  "n_files"            : 8,
+  "n_lines"            : 905,
+  "files_per_second"   : 1.77176680482334,
+  "lines_per_second"   : 200.431119795641,
+  "report_file"        : "loc/max-lt__nginx-jwt-module.json"},
+"C" :{
+  "nFiles": 1,
+  "blank": 92,
+  "comment": 34,
+  "code": 380},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 10,
+  "code": 139},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 84},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 4,
+  "code": 53},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 192,
+  "comment": 48,
+  "code": 665,
+  "nFiles": 8} }

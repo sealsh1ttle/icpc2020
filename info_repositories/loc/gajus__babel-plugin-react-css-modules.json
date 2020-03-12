@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.0654239654541,
+  "n_files"            : 98,
+  "n_lines"            : 2637,
+  "files_per_second"   : 3.15463262658123,
+  "lines_per_second"   : 84.8853697581092,
+  "report_file"        : "loc/gajus__babel-plugin-react-css-modules.json"},
+"JavaScript" :{
+  "nFiles": 63,
+  "blank": 311,
+  "comment": 78,
+  "code": 1300},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 0,
+  "code": 364},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 151,
+  "comment": 0,
+  "code": 360},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 7,
+  "comment": 0,
+  "code": 30},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 471,
+  "comment": 78,
+  "code": 2088,
+  "nFiles": 98} }

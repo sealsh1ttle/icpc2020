@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.785552978515625,
+  "n_files"            : 103,
+  "n_lines"            : 21378,
+  "files_per_second"   : 131.117827590226,
+  "lines_per_second"   : 27213.9506623674,
+  "report_file"        : "loc/probot__probot.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 4,
+  "comment": 0,
+  "code": 14945},
+"TypeScript" :{
+  "nFiles": 51,
+  "blank": 676,
+  "comment": 356,
+  "code": 3311},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 464,
+  "comment": 0,
+  "code": 1149},
+"Handlebars" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 110},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 22,
+  "comment": 34,
+  "code": 91},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 69},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 2,
+  "code": 51},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 10,
+  "code": 27},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 20,
+  "code": 1},
+"SUM": {
+  "blank": 1202,
+  "comment": 422,
+  "code": 19754,
+  "nFiles": 103} }

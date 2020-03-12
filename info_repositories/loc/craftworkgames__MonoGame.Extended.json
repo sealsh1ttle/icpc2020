@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.00095176696777,
+  "n_files"            : 684,
+  "n_lines"            : 56007,
+  "files_per_second"   : 85.4898292005608,
+  "lines_per_second"   : 7000.04219888276,
+  "report_file"        : "loc/craftworkgames__MonoGame.Extended.json"},
+"C#" :{
+  "nFiles": 596,
+  "blank": 6661,
+  "comment": 12140,
+  "code": 30160},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 4,
+  "comment": 0,
+  "code": 3710},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 471,
+  "comment": 0,
+  "code": 1299},
+"MSBuild script" :{
+  "nFiles": 29,
+  "blank": 66,
+  "comment": 7,
+  "code": 863},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 46,
+  "code": 151},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 17,
+  "code": 80},
+"HLSL" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 10,
+  "code": 73},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 68},
+"XML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 37},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 0,
+  "code": 18},
+"TypeScript" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 7302,
+  "comment": 12222,
+  "code": 36483,
+  "nFiles": 684} }

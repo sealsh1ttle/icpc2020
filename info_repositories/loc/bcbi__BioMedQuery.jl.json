@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.2625248432159,
+  "n_files"            : 56,
+  "n_lines"            : 7542,
+  "files_per_second"   : 4.56675935143823,
+  "lines_per_second"   : 615.04462550977,
+  "report_file"        : "loc/bcbi__BioMedQuery.jl.json"},
+"Julia" :{
+  "nFiles": 30,
+  "blank": 850,
+  "comment": 395,
+  "code": 2672},
+"XML" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 1357},
+"Jupyter Notebook" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 182,
+  "code": 1039},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 258,
+  "comment": 0,
+  "code": 590},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 1,
+  "code": 63},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 2,
+  "code": 43},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 30},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 12},
+"SUM": {
+  "blank": 1155,
+  "comment": 581,
+  "code": 5806,
+  "nFiles": 56} }

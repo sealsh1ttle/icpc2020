@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 180.398102045059,
+  "n_files"            : 682,
+  "n_lines"            : 50674,
+  "files_per_second"   : 3.78052757910753,
+  "lines_per_second"   : 280.900959741488,
+  "report_file"        : "loc/RedHatInsights__insights-frontend.json"},
+"JavaScript" :{
+  "nFiles": 305,
+  "blank": 3906,
+  "comment": 1916,
+  "code": 18773},
+"Sass" :{
+  "nFiles": 188,
+  "blank": 3222,
+  "comment": 861,
+  "code": 13192},
+"Pug" :{
+  "nFiles": 166,
+  "blank": 251,
+  "comment": 60,
+  "code": 4563},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 640,
+  "comment": 766,
+  "code": 1684},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 0,
+  "code": 307},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 32,
+  "comment": 0,
+  "code": 127},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 20,
+  "code": 120},
+"Python" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 11,
+  "code": 74},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 10,
+  "code": 42},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 15},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 7,
+  "code": 2},
+"SUM": {
+  "blank": 8100,
+  "comment": 3653,
+  "code": 38921,
+  "nFiles": 682} }

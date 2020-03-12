@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.8917350769043,
+  "n_files"            : 104,
+  "n_lines"            : 18856,
+  "files_per_second"   : 4.17809363946252,
+  "lines_per_second"   : 757.520516016397,
+  "report_file"        : "loc/caltechlibrary__feeds.library.caltech.edu.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 725,
+  "comment": 2308,
+  "code": 4545},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 904,
+  "comment": 0,
+  "code": 3676},
+"Python" :{
+  "nFiles": 34,
+  "blank": 511,
+  "comment": 621,
+  "code": 3455},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 115,
+  "comment": 82,
+  "code": 599},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 80,
+  "comment": 14,
+  "code": 545},
+"Bourne Again Shell" :{
+  "nFiles": 10,
+  "blank": 48,
+  "comment": 44,
+  "code": 470},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 57},
+"make" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 4,
+  "code": 40},
+"SUM": {
+  "blank": 2396,
+  "comment": 3073,
+  "code": 13387,
+  "nFiles": 104} }

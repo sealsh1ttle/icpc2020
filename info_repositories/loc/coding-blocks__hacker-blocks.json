@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.42712211608887,
+  "n_files"            : 291,
+  "n_lines"            : 48703,
+  "files_per_second"   : 84.910893205083,
+  "lines_per_second"   : 14211.0489064164,
+  "report_file"        : "loc/coding-blocks__hacker-blocks.json"},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 6223,
+  "comment": 50,
+  "code": 26385},
+"JavaScript" :{
+  "nFiles": 189,
+  "blank": 675,
+  "comment": 232,
+  "code": 4925},
+"Handlebars" :{
+  "nFiles": 72,
+  "blank": 141,
+  "comment": 51,
+  "code": 3285},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 366,
+  "comment": 20,
+  "code": 1663},
+"SVG" :{
+  "nFiles": 11,
+  "blank": 2,
+  "comment": 2,
+  "code": 1157},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2300,
+  "code": 910},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 115},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 1,
+  "code": 74},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 27},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 22},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 8,
+  "code": 5},
+"SUM": {
+  "blank": 7449,
+  "comment": 2664,
+  "code": 38590,
+  "nFiles": 291} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 357.110007047653,
+  "n_files"            : 1315,
+  "n_lines"            : 782271,
+  "files_per_second"   : 3.68233870249546,
+  "lines_per_second"   : 2190.56028831926,
+  "report_file"        : "loc/cloudfoundry__bosh-softlayer-cpi-release.json"},
+"Go" :{
+  "nFiles": 952,
+  "blank": 45322,
+  "comment": 51016,
+  "code": 436928},
+"JSON" :{
+  "nFiles": 149,
+  "blank": 4,
+  "comment": 0,
+  "code": 233835},
+"YAML" :{
+  "nFiles": 78,
+  "blank": 199,
+  "comment": 19,
+  "code": 3900},
+"Markdown" :{
+  "nFiles": 50,
+  "blank": 994,
+  "comment": 0,
+  "code": 3283},
+"Assembly" :{
+  "nFiles": 28,
+  "blank": 218,
+  "comment": 265,
+  "code": 1960},
+"Bourne Shell" :{
+  "nFiles": 22,
+  "blank": 277,
+  "comment": 306,
+  "code": 1690},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 153,
+  "comment": 139,
+  "code": 907},
+"Bourne Again Shell" :{
+  "nFiles": 14,
+  "blank": 87,
+  "comment": 2,
+  "code": 242},
+"ERB" :{
+  "nFiles": 4,
+  "blank": 37,
+  "comment": 0,
+  "code": 155},
+"make" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 48,
+  "code": 94},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 9,
+  "code": 49},
+"C" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 7,
+  "code": 24},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 18},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 47368,
+  "comment": 51817,
+  "code": 683086,
+  "nFiles": 1315} }

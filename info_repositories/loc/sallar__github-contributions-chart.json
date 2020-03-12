@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.90437293052673,
+  "n_files"            : 15,
+  "n_lines"            : 11975,
+  "files_per_second"   : 5.16462601697628,
+  "lines_per_second"   : 4123.09310355273,
+  "report_file"        : "loc/sallar__github-contributions-chart.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 11436},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 0,
+  "code": 246},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 145},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 34},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 27},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 72,
+  "comment": 1,
+  "code": 11902,
+  "nFiles": 15} }

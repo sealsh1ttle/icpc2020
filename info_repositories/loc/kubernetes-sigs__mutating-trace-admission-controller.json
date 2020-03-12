@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 116.964679956436,
+  "n_files"            : 648,
+  "n_lines"            : 342108,
+  "files_per_second"   : 5.54013399806975,
+  "lines_per_second"   : 2924.88296575872,
+  "report_file"        : "loc/kubernetes-sigs__mutating-trace-admission-controller.json"},
+"Go" :{
+  "nFiles": 569,
+  "blank": 18237,
+  "comment": 43116,
+  "code": 271368},
+"Markdown" :{
+  "nFiles": 26,
+  "blank": 633,
+  "comment": 0,
+  "code": 1687},
+"Protocol Buffers" :{
+  "nFiles": 10,
+  "blank": 1020,
+  "comment": 3739,
+  "code": 1475},
+"YAML" :{
+  "nFiles": 25,
+  "blank": 37,
+  "comment": 2,
+  "code": 284},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 32,
+  "comment": 10,
+  "code": 153},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 20,
+  "comment": 74,
+  "code": 54},
+"make" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 37,
+  "code": 46},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 9,
+  "code": 44},
+"SUM": {
+  "blank": 20010,
+  "comment": 46987,
+  "code": 275111,
+  "nFiles": 648} }

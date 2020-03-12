@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.9375140666962,
+  "n_files"            : 2132,
+  "n_lines"            : 191445,
+  "files_per_second"   : 106.934093832757,
+  "lines_per_second"   : 9602.25027852353,
+  "report_file"        : "loc/patternfly__patternfly-react.json"},
+"JavaScript" :{
+  "nFiles": 955,
+  "blank": 5568,
+  "comment": 2588,
+  "code": 57592},
+"TypeScript" :{
+  "nFiles": 847,
+  "blank": 3576,
+  "comment": 8337,
+  "code": 39069},
+"Markdown" :{
+  "nFiles": 143,
+  "blank": 30125,
+  "comment": 0,
+  "code": 36457},
+"Sass" :{
+  "nFiles": 70,
+  "blank": 380,
+  "comment": 9,
+  "code": 2154},
+"LESS" :{
+  "nFiles": 34,
+  "blank": 297,
+  "comment": 13,
+  "code": 1575},
+"JSON" :{
+  "nFiles": 36,
+  "blank": 0,
+  "comment": 0,
+  "code": 1505},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 33,
+  "comment": 4,
+  "code": 1042},
+"SVG" :{
+  "nFiles": 13,
+  "blank": 2,
+  "comment": 11,
+  "code": 466},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 11,
+  "code": 267},
+"Handlebars" :{
+  "nFiles": 11,
+  "blank": 17,
+  "comment": 0,
+  "code": 135},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 16,
+  "code": 83},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 20,
+  "code": 65},
+"SUM": {
+  "blank": 40026,
+  "comment": 11009,
+  "code": 140410,
+  "nFiles": 2132} }

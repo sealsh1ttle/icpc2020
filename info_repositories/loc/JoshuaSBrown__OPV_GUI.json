@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.273955821990967,
+  "n_files"            : 12,
+  "n_lines"            : 2089,
+  "files_per_second"   : 43.8026829026312,
+  "lines_per_second"   : 7625.31704863305,
+  "report_file"        : "loc/JoshuaSBrown__OPV_GUI.json"},
+"Python" :{
+  "nFiles": 9,
+  "blank": 366,
+  "comment": 225,
+  "code": 1148},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 88,
+  "code": 188},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 9},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 429,
+  "comment": 313,
+  "code": 1347,
+  "nFiles": 12} }

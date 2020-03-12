@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.1979281902313,
+  "n_files"            : 153,
+  "n_lines"            : 64496,
+  "files_per_second"   : 5.2400978248583,
+  "lines_per_second"   : 2208.92385171282,
+  "report_file"        : "loc/datacharmer__dbdeployer.json"},
+"Markdown" :{
+  "nFiles": 46,
+  "blank": 9681,
+  "comment": 0,
+  "code": 23160},
+"Go" :{
+  "nFiles": 80,
+  "blank": 1961,
+  "comment": 1982,
+  "code": 19823},
+"Bourne Shell" :{
+  "nFiles": 23,
+  "blank": 854,
+  "comment": 516,
+  "code": 5824},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 671},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 12503,
+  "comment": 2498,
+  "code": 49495,
+  "nFiles": 153} }

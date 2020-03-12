@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 92.0688588619232,
+  "n_files"            : 329,
+  "n_lines"            : 561173,
+  "files_per_second"   : 3.57341237924329,
+  "lines_per_second"   : 6095.14451397294,
+  "report_file"        : "loc/projecttacoma__cqm-converter.json"},
+"JSON" :{
+  "nFiles": 302,
+  "blank": 3549,
+  "comment": 0,
+  "code": 555417},
+"Ruby" :{
+  "nFiles": 20,
+  "blank": 253,
+  "comment": 272,
+  "code": 1516},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 0,
+  "code": 64},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 52},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 3847,
+  "comment": 272,
+  "code": 557054,
+  "nFiles": 329} }

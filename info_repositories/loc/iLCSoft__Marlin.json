@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.977462053299,
+  "n_files"            : 149,
+  "n_lines"            : 25160,
+  "files_per_second"   : 4.38525984566682,
+  "lines_per_second"   : 740.490857160921,
+  "report_file"        : "loc/iLCSoft__Marlin.json"},
+"C++" :{
+  "nFiles": 53,
+  "blank": 3688,
+  "comment": 1584,
+  "code": 9797},
+"C/C++ Header" :{
+  "nFiles": 59,
+  "blank": 1780,
+  "comment": 2169,
+  "code": 3118},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 284,
+  "comment": 0,
+  "code": 512},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 88,
+  "comment": 0,
+  "code": 362},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 68,
+  "comment": 0,
+  "code": 336},
+"XML" :{
+  "nFiles": 7,
+  "blank": 17,
+  "comment": 3,
+  "code": 324},
+"CMake" :{
+  "nFiles": 13,
+  "blank": 210,
+  "comment": 193,
+  "code": 297},
+"Python" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 15,
+  "code": 154},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 53},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 44},
+"SUM": {
+  "blank": 6190,
+  "comment": 3973,
+  "code": 14997,
+  "nFiles": 149} }

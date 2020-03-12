@@ -1,0 +1,249 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11517.6399350166,
+  "n_files"            : 51158,
+  "n_lines"            : 11356030,
+  "files_per_second"   : 4.44170856951921,
+  "lines_per_second"   : 985.968485216724,
+  "report_file"        : "loc/Unity-Technologies__mono.json"},
+"C#" :{
+  "nFiles": 36171,
+  "blank": 989582,
+  "comment": 1168764,
+  "code": 5377620},
+"XML" :{
+  "nFiles": 10240,
+  "blank": 4353,
+  "comment": 2754,
+  "code": 2716341},
+"C" :{
+  "nFiles": 610,
+  "blank": 73276,
+  "comment": 62274,
+  "code": 395848},
+"C/C++ Header" :{
+  "nFiles": 410,
+  "blank": 14390,
+  "comment": 15672,
+  "code": 78056},
+"MSBuild script" :{
+  "nFiles": 488,
+  "blank": 2566,
+  "comment": 4279,
+  "code": 74654},
+"SQL" :{
+  "nFiles": 42,
+  "blank": 3747,
+  "comment": 1513,
+  "code": 74350},
+"ASP.NET" :{
+  "nFiles": 1172,
+  "blank": 4915,
+  "comment": 85,
+  "code": 53453},
+"JavaScript" :{
+  "nFiles": 254,
+  "blank": 4081,
+  "comment": 3219,
+  "code": 32634},
+"SKILL" :{
+  "nFiles": 475,
+  "blank": 5009,
+  "comment": 169,
+  "code": 26195},
+"HTML" :{
+  "nFiles": 161,
+  "blank": 1897,
+  "comment": 1,
+  "code": 22043},
+"make" :{
+  "nFiles": 547,
+  "blank": 5099,
+  "comment": 707,
+  "code": 21105},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 18522},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3464,
+  "comment": 215,
+  "code": 13300},
+"Bourne Shell" :{
+  "nFiles": 149,
+  "blank": 2971,
+  "comment": 1007,
+  "code": 12439},
+"PO File" :{
+  "nFiles": 5,
+  "blank": 2755,
+  "comment": 3262,
+  "code": 9975},
+"m4" :{
+  "nFiles": 10,
+  "blank": 669,
+  "comment": 243,
+  "code": 6738},
+"Markdown" :{
+  "nFiles": 37,
+  "blank": 1179,
+  "comment": 0,
+  "code": 6516},
+"Perl" :{
+  "nFiles": 34,
+  "blank": 1072,
+  "comment": 581,
+  "code": 5105},
+"XSD" :{
+  "nFiles": 128,
+  "blank": 237,
+  "comment": 202,
+  "code": 4979},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 5,
+  "code": 3152},
+"Python" :{
+  "nFiles": 30,
+  "blank": 530,
+  "comment": 321,
+  "code": 2631},
+"C++" :{
+  "nFiles": 10,
+  "blank": 259,
+  "comment": 178,
+  "code": 1142},
+"XSLT" :{
+  "nFiles": 16,
+  "blank": 256,
+  "comment": 46,
+  "code": 1109},
+"NAnt script" :{
+  "nFiles": 17,
+  "blank": 87,
+  "comment": 6,
+  "code": 1039},
+"Glade" :{
+  "nFiles": 1,
+  "blank": 67,
+  "comment": 0,
+  "code": 1019},
+"Windows Module Definition" :{
+  "nFiles": 7,
+  "blank": 103,
+  "comment": 1,
+  "code": 994},
+"diff" :{
+  "nFiles": 12,
+  "blank": 99,
+  "comment": 448,
+  "code": 779},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 83,
+  "comment": 15,
+  "code": 766},
+"Bourne Again Shell" :{
+  "nFiles": 17,
+  "blank": 85,
+  "comment": 22,
+  "code": 663},
+"Assembly" :{
+  "nFiles": 12,
+  "blank": 69,
+  "comment": 90,
+  "code": 508},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 4,
+  "code": 490},
+"DOS Batch" :{
+  "nFiles": 34,
+  "blank": 153,
+  "comment": 12,
+  "code": 447},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 51,
+  "comment": 44,
+  "code": 400},
+"Objective C" :{
+  "nFiles": 8,
+  "blank": 119,
+  "comment": 92,
+  "code": 354},
+"DTD" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 176},
+"Groovy" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 15,
+  "code": 140},
+"Visual Basic" :{
+  "nFiles": 6,
+  "blank": 34,
+  "comment": 56,
+  "code": 110},
+"WiX source" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 93},
+"Java" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 1,
+  "code": 79},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 76},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 39,
+  "code": 69},
+"ASP" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 42},
+"D" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 11,
+  "code": 36},
+"sed" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"XAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1123427,
+  "comment": 1266356,
+  "code": 8966247,
+  "nFiles": 51158} }

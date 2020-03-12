@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.62645983695984,
+  "n_files"            : 15,
+  "n_lines"            : 1810,
+  "files_per_second"   : 5.71110960423545,
+  "lines_per_second"   : 689.140558911077,
+  "report_file"        : "loc/ropensci__rdopa.json"},
+"R" :{
+  "nFiles": 7,
+  "blank": 110,
+  "comment": 481,
+  "code": 400},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 70,
+  "comment": 6,
+  "code": 262},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 76,
+  "comment": 0,
+  "code": 200},
+"Rmd" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 102,
+  "code": 34},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 293,
+  "comment": 589,
+  "code": 928,
+  "nFiles": 15} }

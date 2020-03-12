@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.24245500564575,
+  "n_files"            : 15,
+  "n_lines"            : 975,
+  "files_per_second"   : 3.53568864726635,
+  "lines_per_second"   : 229.819762072313,
+  "report_file"        : "loc/Syntaf__travis-sphinx.json"},
+"Python" :{
+  "nFiles": 9,
+  "blank": 150,
+  "comment": 225,
+  "code": 377},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 0,
+  "code": 112},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 14,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 13},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 208,
+  "comment": 239,
+  "code": 528,
+  "nFiles": 15} }

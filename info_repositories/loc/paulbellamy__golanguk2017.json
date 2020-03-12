@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.673299074173,
+  "n_files"            : 292,
+  "n_lines"            : 205923,
+  "files_per_second"   : 21.3554898796552,
+  "lines_per_second"   : 15060.2278852337,
+  "report_file"        : "loc/paulbellamy__golanguk2017.json"},
+"Go" :{
+  "nFiles": 250,
+  "blank": 12780,
+  "comment": 10592,
+  "code": 123891},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 9878,
+  "comment": 10947,
+  "code": 32570},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1854},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 807,
+  "comment": 0,
+  "code": 1735},
+"Assembly" :{
+  "nFiles": 27,
+  "blank": 227,
+  "comment": 266,
+  "code": 300},
+"C" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 14,
+  "code": 37},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 3},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 2},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 23708,
+  "comment": 21822,
+  "code": 160393,
+  "nFiles": 292} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.2333478927612,
+  "n_files"            : 202,
+  "n_lines"            : 21590,
+  "files_per_second"   : 11.7214601165714,
+  "lines_per_second"   : 1252.80358374642,
+  "report_file"        : "loc/OpenZeppelin__ethernaut.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 1,
+  "comment": 0,
+  "code": 14020},
+"JavaScript" :{
+  "nFiles": 72,
+  "blank": 778,
+  "comment": 541,
+  "code": 4048},
+"Solidity" :{
+  "nFiles": 67,
+  "blank": 354,
+  "comment": 97,
+  "code": 1074},
+"Markdown" :{
+  "nFiles": 49,
+  "blank": 121,
+  "comment": 0,
+  "code": 378},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 0,
+  "code": 101},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 15},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 3},
+"SUM": {
+  "blank": 1276,
+  "comment": 643,
+  "code": 19671,
+  "nFiles": 202} }

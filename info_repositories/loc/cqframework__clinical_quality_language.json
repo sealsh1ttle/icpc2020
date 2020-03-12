@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 279.743345022202,
+  "n_files"            : 1132,
+  "n_lines"            : 488568,
+  "files_per_second"   : 4.04656632639522,
+  "lines_per_second"   : 1746.48658741542,
+  "report_file"        : "loc/cqframework__clinical_quality_language.json"},
+"XSD" :{
+  "nFiles": 377,
+  "blank": 3196,
+  "comment": 10719,
+  "code": 221489},
+"XML" :{
+  "nFiles": 77,
+  "blank": 158,
+  "comment": 240,
+  "code": 119958},
+"Scheme" :{
+  "nFiles": 263,
+  "blank": 0,
+  "comment": 0,
+  "code": 47777},
+"Java" :{
+  "nFiles": 180,
+  "blank": 4514,
+  "comment": 4715,
+  "code": 22247},
+"XMI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15866},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 18,
+  "comment": 0,
+  "code": 12578},
+"SQL" :{
+  "nFiles": 146,
+  "blank": 2109,
+  "comment": 864,
+  "code": 10050},
+"C#" :{
+  "nFiles": 30,
+  "blank": 1040,
+  "comment": 522,
+  "code": 6092},
+"ANTLR Grammar" :{
+  "nFiles": 3,
+  "blank": 216,
+  "comment": 70,
+  "code": 1193},
+"MSBuild script" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 57,
+  "code": 789},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 569},
+"Gradle" :{
+  "nFiles": 12,
+  "blank": 88,
+  "comment": 40,
+  "code": 369},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 139,
+  "comment": 0,
+  "code": 323},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 6,
+  "code": 140},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 37,
+  "code": 129},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 11572,
+  "comment": 17291,
+  "code": 459705,
+  "nFiles": 1132} }

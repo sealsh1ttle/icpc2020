@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 45.1816630363464,
+  "n_files"            : 168,
+  "n_lines"            : 315092,
+  "files_per_second"   : 3.71832262714306,
+  "lines_per_second"   : 6973.89115018905,
+  "report_file"        : "loc/formio__formio-viewer.json"},
+"CSS" :{
+  "nFiles": 56,
+  "blank": 28080,
+  "comment": 631,
+  "code": 220152},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 9607,
+  "comment": 12866,
+  "code": 20737},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 8162},
+"Sass" :{
+  "nFiles": 56,
+  "blank": 1942,
+  "comment": 626,
+  "code": 7191},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2671},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 44,
+  "code": 1758},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 285},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 82,
+  "comment": 0,
+  "code": 161},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 2},
+"SUM": {
+  "blank": 39775,
+  "comment": 14186,
+  "code": 261131,
+  "nFiles": 168} }

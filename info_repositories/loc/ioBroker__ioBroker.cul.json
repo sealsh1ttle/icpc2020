@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.253170013427734,
+  "n_files"            : 15,
+  "n_lines"            : 2200,
+  "files_per_second"   : 59.2487230099296,
+  "lines_per_second"   : 8689.81270812301,
+  "report_file"        : "loc/ioBroker__ioBroker.cul.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 175,
+  "comment": 69,
+  "code": 1408},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 255},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 7,
+  "code": 165},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 213,
+  "comment": 76,
+  "code": 1911,
+  "nFiles": 15} }

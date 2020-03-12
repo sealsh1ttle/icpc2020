@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.470628976821899,
+  "n_files"            : 58,
+  "n_lines"            : 15543,
+  "files_per_second"   : 123.239330462963,
+  "lines_per_second"   : 33026.0157480315,
+  "report_file"        : "loc/jinzhu__gorm.json"},
+"Go" :{
+  "nFiles": 52,
+  "blank": 2385,
+  "comment": 594,
+  "code": 12280},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 8,
+  "code": 159},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 0,
+  "code": 70},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 2428,
+  "comment": 602,
+  "code": 12513,
+  "nFiles": 58} }

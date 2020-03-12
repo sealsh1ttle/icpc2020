@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 115.419663906097,
+  "n_files"            : 535,
+  "n_lines"            : 72513,
+  "files_per_second"   : 4.63525868898096,
+  "lines_per_second"   : 628.25516507304,
+  "report_file"        : "loc/avocado-framework__avocado.json"},
+"Python" :{
+  "nFiles": 318,
+  "blank": 8625,
+  "comment": 12593,
+  "code": 31554},
+"reStructuredText" :{
+  "nFiles": 97,
+  "blank": 3546,
+  "comment": 679,
+  "code": 11213},
+"YAML" :{
+  "nFiles": 46,
+  "blank": 18,
+  "comment": 86,
+  "code": 837},
+"Bourne Shell" :{
+  "nFiles": 29,
+  "blank": 88,
+  "comment": 158,
+  "code": 546},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 15,
+  "comment": 0,
+  "code": 446},
+"make" :{
+  "nFiles": 5,
+  "blank": 55,
+  "comment": 20,
+  "code": 343},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 38,
+  "comment": 40,
+  "code": 327},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 29,
+  "code": 284},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 2,
+  "code": 212},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 196},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 11,
+  "code": 168},
+"C" :{
+  "nFiles": 8,
+  "blank": 22,
+  "comment": 10,
+  "code": 106},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 25,
+  "code": 81},
+"Go" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 22},
+"RobotFramework" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 7},
+"SUM": {
+  "blank": 12516,
+  "comment": 13655,
+  "code": 46342,
+  "nFiles": 535} }

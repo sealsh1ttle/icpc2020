@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.7005178928375,
+  "n_files"            : 170,
+  "n_lines"            : 4939,
+  "files_per_second"   : 4.39270607361724,
+  "lines_per_second"   : 127.621031162327,
+  "report_file"        : "loc/darth-dodo__gringotts-backend.json"},
+"Ruby" :{
+  "nFiles": 122,
+  "blank": 621,
+  "comment": 1260,
+  "code": 1905},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 59,
+  "comment": 0,
+  "code": 282},
+"ERB" :{
+  "nFiles": 18,
+  "blank": 56,
+  "comment": 0,
+  "code": 220},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 19,
+  "comment": 123,
+  "code": 97},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 26,
+  "code": 4},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 2,
+  "comment": 37,
+  "code": 2},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 775,
+  "comment": 1467,
+  "code": 2697,
+  "nFiles": 170} }

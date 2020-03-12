@@ -1,0 +1,184 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.10568594932556,
+  "n_files"            : 171,
+  "n_lines"            : 74996,
+  "files_per_second"   : 81.208691189097,
+  "lines_per_second"   : 35615.9473942545,
+  "report_file"        : "loc/kucherenko__jscpd.json"},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 471,
+  "comment": 0,
+  "code": 51671},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 0,
+  "code": 12652},
+"TypeScript" :{
+  "nFiles": 68,
+  "blank": 459,
+  "comment": 169,
+  "code": 3025},
+"Pug" :{
+  "nFiles": 4,
+  "blank": 184,
+  "comment": 0,
+  "code": 815},
+"APL" :{
+  "nFiles": 4,
+  "blank": 103,
+  "comment": 0,
+  "code": 729},
+"Vuejs Component" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 20,
+  "code": 479},
+"Perl" :{
+  "nFiles": 4,
+  "blank": 147,
+  "comment": 82,
+  "code": 341},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 48,
+  "comment": 17,
+  "code": 300},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 2,
+  "code": 244},
+"C#" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 144,
+  "code": 183},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 39,
+  "comment": 36,
+  "code": 162},
+"Haxe" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 12,
+  "code": 146},
+"D" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 18,
+  "code": 133},
+"Java" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 299,
+  "code": 126},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 10,
+  "comment": 2,
+  "code": 126},
+"Objective C" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 33,
+  "code": 94},
+"Puppet" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 33,
+  "code": 89},
+"Erlang" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 24,
+  "code": 84},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 79},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 37,
+  "code": 76},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 6,
+  "code": 73},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 72},
+"Brainfuck" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 8,
+  "code": 64},
+"Twig" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 61},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 3,
+  "code": 60},
+"Slim" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 55},
+"LESS" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 53},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 7,
+  "code": 51},
+"Go" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 48},
+"Swift" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 7,
+  "code": 40},
+"Python" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 2,
+  "code": 34},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 31},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 24},
+"Scala" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 16,
+  "code": 10},
+"SUM": {
+  "blank": 1789,
+  "comment": 977,
+  "code": 72230,
+  "nFiles": 171} }

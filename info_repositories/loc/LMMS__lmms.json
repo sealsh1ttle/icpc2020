@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.8362679481506,
+  "n_files"            : 1036,
+  "n_lines"            : 498469,
+  "files_per_second"   : 61.5338270447162,
+  "lines_per_second"   : 29606.8583331589,
+  "report_file"        : "loc/LMMS__lmms.json"},
+"Qt Linguist" :{
+  "nFiles": 25,
+  "blank": 1044,
+  "comment": 0,
+  "code": 269367},
+"C++" :{
+  "nFiles": 388,
+  "blank": 25972,
+  "comment": 16099,
+  "code": 95042},
+"C/C++ Header" :{
+  "nFiles": 425,
+  "blank": 11000,
+  "comment": 12637,
+  "code": 50781},
+"CMake" :{
+  "nFiles": 125,
+  "blank": 689,
+  "comment": 574,
+  "code": 3535},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 12,
+  "comment": 12,
+  "code": 2790},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 335,
+  "comment": 0,
+  "code": 2191},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 328,
+  "comment": 119,
+  "code": 1382},
+"Qt" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 0,
+  "code": 1332},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 160,
+  "comment": 40,
+  "code": 486},
+"C" :{
+  "nFiles": 3,
+  "blank": 72,
+  "comment": 58,
+  "code": 413},
+"diff" :{
+  "nFiles": 3,
+  "blank": 46,
+  "comment": 310,
+  "code": 380},
+"XML" :{
+  "nFiles": 3,
+  "blank": 45,
+  "comment": 49,
+  "code": 372},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 36,
+  "code": 334},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 5,
+  "code": 222},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 58},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 31},
+"Python" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 39786,
+  "comment": 29942,
+  "code": 428741,
+  "nFiles": 1036} }

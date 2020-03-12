@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.143525838851929,
+  "n_files"            : 22,
+  "n_lines"            : 1661,
+  "files_per_second"   : 153.282504223485,
+  "lines_per_second"   : 11572.8290688731,
+  "report_file"        : "loc/keatonjwhitehead__L1_Cashe.json"},
+"PHP" :{
+  "nFiles": 12,
+  "blank": 85,
+  "comment": 77,
+  "code": 822},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 36,
+  "code": 181},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 4,
+  "code": 137},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 12,
+  "code": 128},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 0,
+  "code": 67},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 5,
+  "code": 26},
+"SUM": {
+  "blank": 166,
+  "comment": 134,
+  "code": 1361,
+  "nFiles": 22} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.714889049530029,
+  "n_files"            : 123,
+  "n_lines"            : 4974,
+  "files_per_second"   : 172.054670694509,
+  "lines_per_second"   : 6957.72302467065,
+  "report_file"        : "loc/TD-Simulation__KlinikMobil.json"},
+"XML" :{
+  "nFiles": 81,
+  "blank": 249,
+  "comment": 8,
+  "code": 2229},
+"Java" :{
+  "nFiles": 35,
+  "blank": 415,
+  "comment": 186,
+  "code": 1543},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 3,
+  "code": 48},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 726,
+  "comment": 234,
+  "code": 4014,
+  "nFiles": 123} }

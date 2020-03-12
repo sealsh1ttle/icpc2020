@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.7596039772034,
+  "n_files"            : 124,
+  "n_lines"            : 4549,
+  "files_per_second"   : 5.69863312447734,
+  "lines_per_second"   : 209.057113574576,
+  "report_file"        : "loc/theforeman__foreman_templates.json"},
+"JavaScript" :{
+  "nFiles": 69,
+  "blank": 302,
+  "comment": 4,
+  "code": 2003},
+"Ruby" :{
+  "nFiles": 34,
+  "blank": 277,
+  "comment": 47,
+  "code": 1430},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 32,
+  "code": 90},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 73},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 1,
+  "code": 48},
+"ERB" :{
+  "nFiles": 13,
+  "blank": 7,
+  "comment": 89,
+  "code": 41},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 33},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 652,
+  "comment": 173,
+  "code": 3724,
+  "nFiles": 124} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.20342898368835,
+  "n_files"            : 91,
+  "n_lines"            : 21947,
+  "files_per_second"   : 75.6172580463342,
+  "lines_per_second"   : 18237.0545312406,
+  "report_file"        : "loc/sendgrid__sendgrid-go.json"},
+"Go" :{
+  "nFiles": 36,
+  "blank": 964,
+  "comment": 679,
+  "code": 10145},
+"Markdown" :{
+  "nFiles": 47,
+  "blank": 2120,
+  "comment": 0,
+  "code": 7877},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 2,
+  "code": 76},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 36},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 13},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 3113,
+  "comment": 683,
+  "code": 18151,
+  "nFiles": 91} }

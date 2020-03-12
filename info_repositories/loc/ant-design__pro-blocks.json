@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 140.425593137741,
+  "n_files"            : 339,
+  "n_lines"            : 23997,
+  "files_per_second"   : 2.41408985659388,
+  "lines_per_second"   : 170.887652768977,
+  "report_file"        : "loc/ant-design__pro-blocks.json"},
+"TypeScript" :{
+  "nFiles": 214,
+  "blank": 1269,
+  "comment": 77,
+  "code": 15627},
+"JSON" :{
+  "nFiles": 36,
+  "blank": 0,
+  "comment": 0,
+  "code": 3462},
+"LESS" :{
+  "nFiles": 52,
+  "blank": 215,
+  "comment": 8,
+  "code": 2518},
+"Markdown" :{
+  "nFiles": 29,
+  "blank": 214,
+  "comment": 0,
+  "code": 315},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 15,
+  "comment": 13,
+  "code": 235},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 20},
+"SUM": {
+  "blank": 1718,
+  "comment": 102,
+  "code": 22177,
+  "nFiles": 339} }

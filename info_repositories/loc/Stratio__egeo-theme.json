@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.6167349815369,
+  "n_files"            : 82,
+  "n_lines"            : 95374,
+  "files_per_second"   : 4.18010438929709,
+  "lines_per_second"   : 4861.86921981488,
+  "report_file"        : "loc/Stratio__egeo-theme.json"},
+"SVG" :{
+  "nFiles": 28,
+  "blank": 0,
+  "comment": 0,
+  "code": 91805},
+"Sass" :{
+  "nFiles": 46,
+  "blank": 321,
+  "comment": 118,
+  "code": 2562},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 107,
+  "comment": 0,
+  "code": 208},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 112},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 82},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 436,
+  "comment": 121,
+  "code": 94817,
+  "nFiles": 82} }

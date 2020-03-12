@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 97.5110838413239,
+  "n_files"            : 241,
+  "n_lines"            : 12855,
+  "files_per_second"   : 2.47151390904618,
+  "lines_per_second"   : 131.831167223189,
+  "report_file"        : "loc/supercollider__supercollider.github.io.json"},
+"Markdown" :{
+  "nFiles": 178,
+  "blank": 1878,
+  "comment": 0,
+  "code": 6174},
+"CSS" :{
+  "nFiles": 29,
+  "blank": 347,
+  "comment": 124,
+  "code": 3274},
+"ActionScript" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 52,
+  "code": 374},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 38,
+  "comment": 10,
+  "code": 196},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 7,
+  "code": 94},
+"SVG" :{
+  "nFiles": 18,
+  "blank": 6,
+  "comment": 16,
+  "code": 87},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 40,
+  "code": 52},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 26},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 3},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2324,
+  "comment": 250,
+  "code": 10281,
+  "nFiles": 241} }

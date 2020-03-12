@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 353.723357915878,
+  "n_files"            : 1432,
+  "n_lines"            : 154407,
+  "files_per_second"   : 4.04836143261016,
+  "lines_per_second"   : 436.519094780053,
+  "report_file"        : "loc/aristotle-mdr__aristotle-metadata-registry.json"},
+"Python" :{
+  "nFiles": 633,
+  "blank": 13518,
+  "comment": 5118,
+  "code": 51813},
+"HTML" :{
+  "nFiles": 457,
+  "blank": 1898,
+  "comment": 57,
+  "code": 18478},
+"PO File" :{
+  "nFiles": 14,
+  "blank": 4071,
+  "comment": 5620,
+  "code": 13776},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 14,
+  "comment": 0,
+  "code": 13095},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 105,
+  "comment": 104,
+  "code": 7885},
+"JavaScript" :{
+  "nFiles": 102,
+  "blank": 1297,
+  "comment": 932,
+  "code": 5702},
+"Vuejs Component" :{
+  "nFiles": 52,
+  "blank": 178,
+  "comment": 119,
+  "code": 3371},
+"YAML" :{
+  "nFiles": 46,
+  "blank": 143,
+  "comment": 35,
+  "code": 1832},
+"LESS" :{
+  "nFiles": 15,
+  "blank": 172,
+  "comment": 107,
+  "code": 1385},
+"reStructuredText" :{
+  "nFiles": 51,
+  "blank": 588,
+  "comment": 201,
+  "code": 1380},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 49,
+  "code": 384},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 52,
+  "comment": 0,
+  "code": 289},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 36,
+  "comment": 29,
+  "code": 216},
+"make" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 6,
+  "code": 155},
+"INI" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 99},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 24},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 22143,
+  "comment": 12377,
+  "code": 119887,
+  "nFiles": 1432} }

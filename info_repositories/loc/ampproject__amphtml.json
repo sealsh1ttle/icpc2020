@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 957.340032100677,
+  "n_files"            : 3917,
+  "n_lines"            : 763714,
+  "files_per_second"   : 4.09154518630646,
+  "lines_per_second"   : 797.745810675224,
+  "report_file"        : "loc/ampproject__amphtml.json"},
+"JavaScript" :{
+  "nFiles": 2233,
+  "blank": 54534,
+  "comment": 128062,
+  "code": 389192},
+"HTML" :{
+  "nFiles": 911,
+  "blank": 8470,
+  "comment": 7812,
+  "code": 84703},
+"Markdown" :{
+  "nFiles": 495,
+  "blank": 12457,
+  "comment": 0,
+  "code": 42148},
+"CSS" :{
+  "nFiles": 102,
+  "blank": 1933,
+  "comment": 2612,
+  "code": 11444},
+"Go" :{
+  "nFiles": 3,
+  "blank": 411,
+  "comment": 480,
+  "code": 3319},
+"RobotFramework" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3219},
+"Maven" :{
+  "nFiles": 26,
+  "blank": 53,
+  "comment": 543,
+  "code": 2562},
+"JSON" :{
+  "nFiles": 78,
+  "blank": 16,
+  "comment": 0,
+  "code": 2266},
+"Python" :{
+  "nFiles": 6,
+  "blank": 460,
+  "comment": 854,
+  "code": 1825},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 92,
+  "comment": 218,
+  "code": 622},
+"DOS Batch" :{
+  "nFiles": 7,
+  "blank": 117,
+  "comment": 73,
+  "code": 489},
+"diff" :{
+  "nFiles": 21,
+  "blank": 16,
+  "comment": 269,
+  "code": 412},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 94,
+  "comment": 463,
+  "code": 405},
+"Java" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 99,
+  "code": 221},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 30,
+  "code": 210},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 35,
+  "comment": 134,
+  "code": 138},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 45},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 2,
+  "code": 28},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 43,
+  "code": 18},
+"SUM": {
+  "blank": 78751,
+  "comment": 141697,
+  "code": 543266,
+  "nFiles": 3917} }

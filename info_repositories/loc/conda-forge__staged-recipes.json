@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.43105697631836,
+  "n_files"            : 26,
+  "n_lines"            : 1908,
+  "files_per_second"   : 2.75684900062493,
+  "lines_per_second"   : 202.310303584321,
+  "report_file"        : "loc/conda-forge__staged-recipes.json"},
+"Python" :{
+  "nFiles": 4,
+  "blank": 196,
+  "comment": 193,
+  "code": 680},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 71,
+  "comment": 61,
+  "code": 275},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 63,
+  "comment": 0,
+  "code": 143},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 22,
+  "code": 79},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 13,
+  "code": 64},
+"SUM": {
+  "blank": 378,
+  "comment": 289,
+  "code": 1241,
+  "nFiles": 26} }

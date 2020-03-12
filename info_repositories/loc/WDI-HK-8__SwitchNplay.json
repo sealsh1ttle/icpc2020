@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.48437404632568,
+  "n_files"            : 14,
+  "n_lines"            : 1159,
+  "files_per_second"   : 9.4315850069291,
+  "lines_per_second"   : 780.800501645059,
+  "report_file"        : "loc/WDI-HK-8__SwitchNplay.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 87,
+  "comment": 3,
+  "code": 695},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 168},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 1,
+  "code": 147},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 120,
+  "comment": 4,
+  "code": 1035,
+  "nFiles": 14} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.1617999076843,
+  "n_files"            : 66,
+  "n_lines"            : 19540,
+  "files_per_second"   : 4.35304517945457,
+  "lines_per_second"   : 1288.76519403852,
+  "report_file"        : "loc/mateoconlechuga__convpng.json"},
+"C" :{
+  "nFiles": 22,
+  "blank": 2111,
+  "comment": 1507,
+  "code": 12077},
+"C/C++ Header" :{
+  "nFiles": 21,
+  "blank": 633,
+  "comment": 1428,
+  "code": 1305},
+"INI" :{
+  "nFiles": 16,
+  "blank": 17,
+  "comment": 0,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 90,
+  "comment": 0,
+  "code": 100},
+"make" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 18,
+  "code": 31},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 2,
+  "code": 29},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 17,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2881,
+  "comment": 2972,
+  "code": 13687,
+  "nFiles": 66} }

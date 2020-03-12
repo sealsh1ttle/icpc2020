@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.0608160495758,
+  "n_files"            : 56,
+  "n_lines"            : 13237,
+  "files_per_second"   : 4.64313523809772,
+  "lines_per_second"   : 1097.52109190535,
+  "report_file"        : "loc/codedokode__pasta.json"},
+"Markdown" :{
+  "nFiles": 40,
+  "blank": 2928,
+  "comment": 0,
+  "code": 5558},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 70,
+  "comment": 12,
+  "code": 4371},
+"PHP" :{
+  "nFiles": 3,
+  "blank": 47,
+  "comment": 13,
+  "code": 187},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 3,
+  "code": 38},
+"SUM": {
+  "blank": 3055,
+  "comment": 28,
+  "code": 10154,
+  "nFiles": 56} }

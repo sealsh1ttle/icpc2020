@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.385363817215,
+  "n_files"            : 116,
+  "n_lines"            : 18553,
+  "files_per_second"   : 5.69035711307937,
+  "lines_per_second"   : 910.113754473806,
+  "report_file"        : "loc/antvis__g.json"},
+"JavaScript" :{
+  "nFiles": 108,
+  "blank": 1211,
+  "comment": 741,
+  "code": 15848},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 119,
+  "comment": 0,
+  "code": 521},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 79},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1336,
+  "comment": 741,
+  "code": 16476,
+  "nFiles": 116} }

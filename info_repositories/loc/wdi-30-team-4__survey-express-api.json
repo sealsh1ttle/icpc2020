@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.219382047653198,
+  "n_files"            : 37,
+  "n_lines"            : 6694,
+  "files_per_second"   : 168.65555042357,
+  "lines_per_second"   : 30512.9798523075,
+  "report_file"        : "loc/wdi-30-team-4__survey-express-api.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 0,
+  "code": 5193},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 131,
+  "comment": 202,
+  "code": 868},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 48,
+  "comment": 0,
+  "code": 183},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 200,
+  "comment": 202,
+  "code": 6292,
+  "nFiles": 37} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 72.8049831390381,
+  "n_files"            : 322,
+  "n_lines"            : 23106,
+  "files_per_second"   : 4.42277418545742,
+  "lines_per_second"   : 317.368386115463,
+  "report_file"        : "loc/hmrc__individual-calculations.json"},
+"Scala" :{
+  "nFiles": 316,
+  "blank": 3143,
+  "comment": 4803,
+  "code": 14896},
+"XML" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 0,
+  "code": 224},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 4},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3178,
+  "comment": 4803,
+  "code": 15125,
+  "nFiles": 322} }

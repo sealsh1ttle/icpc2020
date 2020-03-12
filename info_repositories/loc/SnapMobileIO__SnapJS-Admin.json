@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.573783159255981,
+  "n_files"            : 98,
+  "n_lines"            : 15540,
+  "files_per_second"   : 170.796229235929,
+  "lines_per_second"   : 27083.4020645544,
+  "report_file"        : "loc/SnapMobileIO__SnapJS-Admin.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 11521},
+"TypeScript" :{
+  "nFiles": 39,
+  "blank": 267,
+  "comment": 194,
+  "code": 1733},
+"HTML" :{
+  "nFiles": 25,
+  "blank": 110,
+  "comment": 81,
+  "code": 1140},
+"Sass" :{
+  "nFiles": 26,
+  "blank": 74,
+  "comment": 9,
+  "code": 344},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 23,
+  "code": 35},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 456,
+  "comment": 307,
+  "code": 14777,
+  "nFiles": 98} }

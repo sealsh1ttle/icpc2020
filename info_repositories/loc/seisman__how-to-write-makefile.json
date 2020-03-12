@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.59343099594116,
+  "n_files"            : 16,
+  "n_lines"            : 3530,
+  "files_per_second"   : 6.16943347443627,
+  "lines_per_second"   : 1361.1312602975,
+  "report_file"        : "loc/seisman__how-to-write-makefile.json"},
+"reStructuredText" :{
+  "nFiles": 13,
+  "blank": 1026,
+  "comment": 597,
+  "code": 1651},
+"Python" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 99,
+  "code": 61},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 28},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 9},
+"SUM": {
+  "blank": 1077,
+  "comment": 704,
+  "code": 1749,
+  "nFiles": 16} }

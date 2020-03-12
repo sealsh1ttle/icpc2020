@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 336.71070098877,
+  "n_files"            : 1323,
+  "n_lines"            : 275874,
+  "files_per_second"   : 3.92918905195153,
+  "lines_per_second"   : 819.320559726438,
+  "report_file"        : "loc/mlpack__mlpack.json"},
+"C/C++ Header" :{
+  "nFiles": 900,
+  "blank": 20559,
+  "comment": 57113,
+  "code": 87363},
+"C++" :{
+  "nFiles": 254,
+  "blank": 16005,
+  "comment": 17360,
+  "code": 61827},
+"CMake" :{
+  "nFiles": 132,
+  "blank": 743,
+  "comment": 1570,
+  "code": 7512},
+"Python" :{
+  "nFiles": 6,
+  "blank": 314,
+  "comment": 331,
+  "code": 1244},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 406,
+  "comment": 0,
+  "code": 976},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 195,
+  "comment": 68,
+  "code": 783},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 12,
+  "code": 276},
+"Cython" :{
+  "nFiles": 5,
+  "blank": 95,
+  "comment": 167,
+  "code": 249},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 205},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 96},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 30,
+  "code": 84},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 20,
+  "code": 82},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 52},
+"WiX source" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 38},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 15},
+"WiX string localization" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 38384,
+  "comment": 76682,
+  "code": 160808,
+  "nFiles": 1323} }

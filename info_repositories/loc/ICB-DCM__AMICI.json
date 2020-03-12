@@ -1,0 +1,154 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.1362900733948,
+  "n_files"            : 1242,
+  "n_lines"            : 305799,
+  "files_per_second"   : 122.530037223376,
+  "lines_per_second"   : 30168.7301552908,
+  "report_file"        : "loc/ICB-DCM__AMICI.json"},
+"C" :{
+  "nFiles": 257,
+  "blank": 27312,
+  "comment": 34402,
+  "code": 93989},
+"C/C++ Header" :{
+  "nFiles": 225,
+  "blank": 8573,
+  "comment": 19910,
+  "code": 21407},
+"C++" :{
+  "nFiles": 283,
+  "blank": 4128,
+  "comment": 1412,
+  "code": 18903},
+"MATLAB" :{
+  "nFiles": 150,
+  "blank": 2336,
+  "comment": 3608,
+  "code": 11454},
+"Python" :{
+  "nFiles": 39,
+  "blank": 2454,
+  "comment": 2434,
+  "code": 6326},
+"CMake" :{
+  "nFiles": 109,
+  "blank": 1735,
+  "comment": 2992,
+  "code": 6008},
+"TeX" :{
+  "nFiles": 22,
+  "blank": 923,
+  "comment": 276,
+  "code": 4396},
+"CUDA" :{
+  "nFiles": 4,
+  "blank": 921,
+  "comment": 660,
+  "code": 3045},
+"Fortran 90" :{
+  "nFiles": 17,
+  "blank": 737,
+  "comment": 1045,
+  "code": 2763},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 2174},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 739,
+  "comment": 1286,
+  "code": 1907},
+"make" :{
+  "nFiles": 23,
+  "blank": 624,
+  "comment": 553,
+  "code": 1627},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 626,
+  "comment": 0,
+  "code": 1344},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 249,
+  "comment": 40,
+  "code": 1241},
+"Fortran 77" :{
+  "nFiles": 6,
+  "blank": 365,
+  "comment": 1407,
+  "code": 941},
+"Bourne Shell" :{
+  "nFiles": 26,
+  "blank": 125,
+  "comment": 113,
+  "code": 466},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 378},
+"SWIG" :{
+  "nFiles": 23,
+  "blank": 86,
+  "comment": 55,
+  "code": 289},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 20,
+  "comment": 3,
+  "code": 276},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 3678,
+  "code": 244},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 79,
+  "code": 226},
+"Mathematica" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 150},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 84},
+"C Shell" :{
+  "nFiles": 5,
+  "blank": 40,
+  "comment": 40,
+  "code": 48},
+"diff" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 12,
+  "code": 10},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"sed" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 52089,
+  "comment": 74006,
+  "code": 179704,
+  "nFiles": 1242} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.4353179931641,
+  "n_files"            : 49,
+  "n_lines"            : 4881,
+  "files_per_second"   : 2.81038751453869,
+  "lines_per_second"   : 279.949009356395,
+  "report_file"        : "loc/react-navigation__react-navigation.json"},
+"TypeScript" :{
+  "nFiles": 22,
+  "blank": 348,
+  "comment": 268,
+  "code": 3468},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 45,
+  "comment": 30,
+  "code": 246},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 187},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 83,
+  "comment": 0,
+  "code": 139},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 64},
+"SUM": {
+  "blank": 479,
+  "comment": 298,
+  "code": 4104,
+  "nFiles": 49} }

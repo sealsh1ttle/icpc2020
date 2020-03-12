@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.24425196647644,
+  "n_files"            : 7,
+  "n_lines"            : 491,
+  "files_per_second"   : 28.6589299606527,
+  "lines_per_second"   : 2010.21923009721,
+  "report_file"        : "loc/alif-type__xits.json"},
+"Python" :{
+  "nFiles": 4,
+  "blank": 84,
+  "comment": 41,
+  "code": 248},
+"make" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 107,
+  "comment": 41,
+  "code": 343,
+  "nFiles": 7} }

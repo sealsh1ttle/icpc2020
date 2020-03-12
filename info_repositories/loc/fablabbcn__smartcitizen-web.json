@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 74.578323841095,
+  "n_files"            : 271,
+  "n_lines"            : 48381,
+  "files_per_second"   : 3.63376361980759,
+  "lines_per_second"   : 648.727371549487,
+  "report_file"        : "loc/fablabbcn__smartcitizen-web.json"},
+"JavaScript" :{
+  "nFiles": 117,
+  "blank": 1998,
+  "comment": 1132,
+  "code": 23497},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 12037},
+"Sass" :{
+  "nFiles": 14,
+  "blank": 415,
+  "comment": 153,
+  "code": 3689},
+"HTML" :{
+  "nFiles": 47,
+  "blank": 227,
+  "comment": 109,
+  "code": 3253},
+"SVG" :{
+  "nFiles": 77,
+  "blank": 1,
+  "comment": 63,
+  "code": 1330},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 0,
+  "code": 70},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 15,
+  "code": 47},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 60,
+  "comment": 167,
+  "code": 39},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 6},
+"SUM": {
+  "blank": 2758,
+  "comment": 1642,
+  "code": 43981,
+  "nFiles": 271} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.90678811073303,
+  "n_files"            : 58,
+  "n_lines"            : 3414,
+  "files_per_second"   : 8.39753573877111,
+  "lines_per_second"   : 494.296327795941,
+  "report_file"        : "loc/ygorshenin__clib.json"},
+"C++" :{
+  "nFiles": 31,
+  "blank": 340,
+  "comment": 55,
+  "code": 1420},
+"C/C++ Header" :{
+  "nFiles": 20,
+  "blank": 270,
+  "comment": 71,
+  "code": 1136},
+"CMake" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 0,
+  "code": 93},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 629,
+  "comment": 126,
+  "code": 2659,
+  "nFiles": 58} }

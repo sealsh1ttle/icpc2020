@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.8378620147705,
+  "n_files"            : 152,
+  "n_lines"            : 5571,
+  "files_per_second"   : 14.0249063692493,
+  "lines_per_second"   : 514.031272257157,
+  "report_file"        : "loc/fluent__fluentd-kubernetes-daemonset.json"},
+"ERB" :{
+  "nFiles": 9,
+  "blank": 122,
+  "comment": 0,
+  "code": 1059},
+"Bourne Again Shell" :{
+  "nFiles": 97,
+  "blank": 291,
+  "comment": 388,
+  "code": 776},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 14,
+  "comment": 60,
+  "code": 706},
+"Dockerfile" :{
+  "nFiles": 18,
+  "blank": 139,
+  "comment": 149,
+  "code": 615},
+"Ruby" :{
+  "nFiles": 6,
+  "blank": 74,
+  "comment": 218,
+  "code": 284},
+"make" :{
+  "nFiles": 1,
+  "blank": 61,
+  "comment": 111,
+  "code": 183},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 71,
+  "comment": 0,
+  "code": 164},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 27,
+  "comment": 4,
+  "code": 46},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 799,
+  "comment": 930,
+  "code": 3842,
+  "nFiles": 152} }

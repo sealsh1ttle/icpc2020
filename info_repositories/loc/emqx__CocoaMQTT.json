@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.509524822235107,
+  "n_files"            : 38,
+  "n_lines"            : 3901,
+  "files_per_second"   : 74.5792910212053,
+  "lines_per_second"   : 7656.15300720321,
+  "report_file"        : "loc/emqx__CocoaMQTT.json"},
+"Swift" :{
+  "nFiles": 14,
+  "blank": 462,
+  "comment": 335,
+  "code": 1832},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 9,
+  "code": 712},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 366},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 56,
+  "comment": 0,
+  "code": 94},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 16},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 10,
+  "code": 3},
+"SUM": {
+  "blank": 523,
+  "comment": 355,
+  "code": 3023,
+  "nFiles": 38} }

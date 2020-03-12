@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0880300998687744,
+  "n_files"            : 10,
+  "n_lines"            : 766,
+  "files_per_second"   : 113.5975082944,
+  "lines_per_second"   : 8701.56913535107,
+  "report_file"        : "loc/ruiii__plugin-Hairstrength.json"},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 272},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 207},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 129},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 68},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 0,
+  "code": 50},
+"SUM": {
+  "blank": 39,
+  "comment": 1,
+  "code": 726,
+  "nFiles": 10} }

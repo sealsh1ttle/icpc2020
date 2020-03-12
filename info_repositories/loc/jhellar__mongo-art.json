@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.77855396270752,
+  "n_files"            : 18,
+  "n_lines"            : 8285,
+  "files_per_second"   : 4.76372712356399,
+  "lines_per_second"   : 2192.63773437376,
+  "report_file"        : "loc/jhellar__mongo-art.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 7176},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 152,
+  "comment": 141,
+  "code": 807},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 155,
+  "comment": 141,
+  "code": 7989,
+  "nFiles": 18} }

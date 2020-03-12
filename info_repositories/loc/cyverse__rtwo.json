@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.220402002334595,
+  "n_files"            : 31,
+  "n_lines"            : 7672,
+  "files_per_second"   : 140.652079707237,
+  "lines_per_second"   : 34809.1211456103,
+  "report_file"        : "loc/cyverse__rtwo.json"},
+"Python" :{
+  "nFiles": 26,
+  "blank": 1116,
+  "comment": 1358,
+  "code": 5024},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 43,
+  "comment": 0,
+  "code": 117},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 1159,
+  "comment": 1358,
+  "code": 5155,
+  "nFiles": 31} }

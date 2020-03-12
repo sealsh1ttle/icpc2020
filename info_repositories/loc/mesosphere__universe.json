@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1289.75770306587,
+  "n_files"            : 3597,
+  "n_lines"            : 435321,
+  "files_per_second"   : 2.78889592320294,
+  "lines_per_second"   : 337.521535219524,
+  "report_file"        : "loc/mesosphere__universe.json"},
+"JSON" :{
+  "nFiles": 2825,
+  "blank": 414,
+  "comment": 0,
+  "code": 316723},
+"Mustache" :{
+  "nFiles": 743,
+  "blank": 4192,
+  "comment": 49,
+  "code": 109775},
+"Python" :{
+  "nFiles": 8,
+  "blank": 401,
+  "comment": 345,
+  "code": 1427},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 356,
+  "comment": 0,
+  "code": 1172},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 57,
+  "comment": 7,
+  "code": 110},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 35,
+  "comment": 13,
+  "code": 97},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 45},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 9,
+  "code": 31},
+"SUM": {
+  "blank": 5480,
+  "comment": 423,
+  "code": 429418,
+  "nFiles": 3597} }

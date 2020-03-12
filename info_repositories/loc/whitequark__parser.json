@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.885500907897949,
+  "n_files"            : 106,
+  "n_lines"            : 52090,
+  "files_per_second"   : 119.706257841823,
+  "lines_per_second"   : 58825.4619903825,
+  "report_file"        : "loc/whitequark__parser.json"},
+"yacc" :{
+  "nFiles": 12,
+  "blank": 2206,
+  "comment": 0,
+  "code": 25423},
+"Ruby" :{
+  "nFiles": 85,
+  "blank": 3274,
+  "comment": 1996,
+  "code": 15862},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 822,
+  "comment": 0,
+  "code": 2380},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 55},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 6315,
+  "comment": 2000,
+  "code": 43775,
+  "nFiles": 106} }

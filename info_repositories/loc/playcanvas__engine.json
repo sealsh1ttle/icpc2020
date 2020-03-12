@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.80773401260376,
+  "n_files"            : 596,
+  "n_lines"            : 114605,
+  "files_per_second"   : 102.621779631536,
+  "lines_per_second"   : 19733.1695548191,
+  "report_file"        : "loc/playcanvas__engine.json"},
+"JavaScript" :{
+  "nFiles": 339,
+  "blank": 14162,
+  "comment": 20203,
+  "code": 65779},
+"JSON" :{
+  "nFiles": 37,
+  "blank": 1,
+  "comment": 0,
+  "code": 6018},
+"HTML" :{
+  "nFiles": 30,
+  "blank": 720,
+  "comment": 45,
+  "code": 3787},
+"GLSL" :{
+  "nFiles": 181,
+  "blank": 678,
+  "comment": 79,
+  "code": 2248},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 182,
+  "comment": 0,
+  "code": 452},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 182},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 3,
+  "code": 35},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 15772,
+  "comment": 20331,
+  "code": 78502,
+  "nFiles": 596} }

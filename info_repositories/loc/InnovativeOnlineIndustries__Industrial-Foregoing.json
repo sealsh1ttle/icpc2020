@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.72855806350708,
+  "n_files"            : 937,
+  "n_lines"            : 64268,
+  "files_per_second"   : 107.348773208884,
+  "lines_per_second"   : 7362.95726423541,
+  "report_file"        : "loc/InnovativeOnlineIndustries__Industrial-Foregoing.json"},
+"JSON" :{
+  "nFiles": 591,
+  "blank": 0,
+  "comment": 0,
+  "code": 30432},
+"Java" :{
+  "nFiles": 334,
+  "blank": 3754,
+  "comment": 7251,
+  "code": 21745},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 92,
+  "comment": 0,
+  "code": 451},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 14,
+  "code": 212},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 7,
+  "code": 22},
+"SUM": {
+  "blank": 3922,
+  "comment": 7296,
+  "code": 53050,
+  "nFiles": 937} }

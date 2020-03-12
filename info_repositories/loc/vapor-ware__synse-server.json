@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 71.5020830631256,
+  "n_files"            : 203,
+  "n_lines"            : 25375,
+  "files_per_second"   : 2.83907812616846,
+  "lines_per_second"   : 354.884765771057,
+  "report_file"        : "loc/vapor-ware__synse-server.json"},
+"Python" :{
+  "nFiles": 116,
+  "blank": 3043,
+  "comment": 2810,
+  "code": 7308},
+"Markdown" :{
+  "nFiles": 28,
+  "blank": 1281,
+  "comment": 0,
+  "code": 4863},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 90,
+  "comment": 0,
+  "code": 2088},
+"reStructuredText" :{
+  "nFiles": 14,
+  "blank": 401,
+  "comment": 609,
+  "code": 681},
+"YAML" :{
+  "nFiles": 20,
+  "blank": 15,
+  "comment": 160,
+  "code": 489},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 121,
+  "comment": 127,
+  "code": 263},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 87,
+  "comment": 190,
+  "code": 214},
+"make" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 30,
+  "code": 155},
+"INI" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 5,
+  "code": 94},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 136,
+  "code": 26},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 5100,
+  "comment": 4067,
+  "code": 16208,
+  "nFiles": 203} }

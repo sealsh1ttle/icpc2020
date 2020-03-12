@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.0425679683685,
+  "n_files"            : 63,
+  "n_lines"            : 20049,
+  "files_per_second"   : 1.96613455145642,
+  "lines_per_second"   : 625.698914637297,
+  "report_file"        : "loc/lm-sensors__lm-sensors.json"},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 681,
+  "comment": 1111,
+  "code": 6473},
+"C" :{
+  "nFiles": 19,
+  "blank": 814,
+  "comment": 693,
+  "code": 4824},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 201,
+  "comment": 237,
+  "code": 1612},
+"C/C++ Header" :{
+  "nFiles": 16,
+  "blank": 186,
+  "comment": 368,
+  "code": 476},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 120,
+  "comment": 197,
+  "code": 468},
+"make" :{
+  "nFiles": 10,
+  "blank": 147,
+  "comment": 277,
+  "code": 445},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 16,
+  "code": 296},
+"lex" :{
+  "nFiles": 1,
+  "blank": 86,
+  "comment": 60,
+  "code": 226},
+"SUM": {
+  "blank": 2270,
+  "comment": 2959,
+  "code": 14820,
+  "nFiles": 63} }

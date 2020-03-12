@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.424211978912354,
+  "n_files"            : 3,
+  "n_lines"            : 49,
+  "files_per_second"   : 7.07193608179516,
+  "lines_per_second"   : 115.508289335988,
+  "report_file"        : "loc/womenwhogo__wikis.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 0,
+  "code": 34},
+"SUM": {
+  "blank": 15,
+  "comment": 0,
+  "code": 34,
+  "nFiles": 3} }

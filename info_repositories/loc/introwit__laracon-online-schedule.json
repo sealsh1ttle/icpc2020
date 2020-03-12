@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.906702041626,
+  "n_files"            : 56,
+  "n_lines"            : 1285,
+  "files_per_second"   : 5.13445767439811,
+  "lines_per_second"   : 117.817466278599,
+  "report_file"        : "loc/introwit__laracon-online-schedule.json"},
+"Markdown" :{
+  "nFiles": 56,
+  "blank": 95,
+  "comment": 0,
+  "code": 1190},
+"SUM": {
+  "blank": 95,
+  "comment": 0,
+  "code": 1190,
+  "nFiles": 56} }

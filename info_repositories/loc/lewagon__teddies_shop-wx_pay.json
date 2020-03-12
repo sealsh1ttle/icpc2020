@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.2954580783844,
+  "n_files"            : 126,
+  "n_lines"            : 4235,
+  "files_per_second"   : 3.78429993975064,
+  "lines_per_second"   : 127.19452575273,
+  "report_file"        : "loc/lewagon__teddies_shop-wx_pay.json"},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 168,
+  "comment": 24,
+  "code": 1321},
+"Ruby" :{
+  "nFiles": 62,
+  "blank": 282,
+  "comment": 640,
+  "code": 676},
+"ERB" :{
+  "nFiles": 28,
+  "blank": 64,
+  "comment": 0,
+  "code": 418},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 27,
+  "comment": 130,
+  "code": 147},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 0,
+  "code": 76},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 13,
+  "code": 16},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 584,
+  "comment": 810,
+  "code": 2841,
+  "nFiles": 126} }

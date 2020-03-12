@@ -1,0 +1,159 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5909.7092089653,
+  "n_files"            : 9775,
+  "n_lines"            : 1996578,
+  "files_per_second"   : 1.6540576963027,
+  "lines_per_second"   : 337.847080017253,
+  "report_file"        : "loc/soprasteria__docktor.json"},
+"JavaScript" :{
+  "nFiles": 6790,
+  "blank": 172213,
+  "comment": 255912,
+  "code": 957395},
+"JSON" :{
+  "nFiles": 1283,
+  "blank": 37,
+  "comment": 0,
+  "code": 244081},
+"HTML" :{
+  "nFiles": 181,
+  "blank": 9893,
+  "comment": 171,
+  "code": 150452},
+"Markdown" :{
+  "nFiles": 915,
+  "blank": 40113,
+  "comment": 0,
+  "code": 105107},
+"ActionScript" :{
+  "nFiles": 112,
+  "blank": 1231,
+  "comment": 2594,
+  "code": 16450},
+"C/C++ Header" :{
+  "nFiles": 29,
+  "blank": 1958,
+  "comment": 633,
+  "code": 9118},
+"CSS" :{
+  "nFiles": 22,
+  "blank": 1172,
+  "comment": 53,
+  "code": 6722},
+"C++" :{
+  "nFiles": 16,
+  "blank": 636,
+  "comment": 531,
+  "code": 2591},
+"make" :{
+  "nFiles": 81,
+  "blank": 693,
+  "comment": 1031,
+  "code": 2156},
+"TypeScript" :{
+  "nFiles": 23,
+  "blank": 469,
+  "comment": 589,
+  "code": 1825},
+"CoffeeScript" :{
+  "nFiles": 57,
+  "blank": 326,
+  "comment": 256,
+  "code": 1699},
+"YAML" :{
+  "nFiles": 165,
+  "blank": 171,
+  "comment": 105,
+  "code": 1519},
+"diff" :{
+  "nFiles": 2,
+  "blank": 97,
+  "comment": 280,
+  "code": 1150},
+"Bourne Shell" :{
+  "nFiles": 27,
+  "blank": 224,
+  "comment": 166,
+  "code": 1010},
+"C" :{
+  "nFiles": 5,
+  "blank": 167,
+  "comment": 320,
+  "code": 739},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 93,
+  "comment": 170,
+  "code": 605},
+"Python" :{
+  "nFiles": 13,
+  "blank": 2,
+  "comment": 3,
+  "code": 534},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 1,
+  "code": 330},
+"XML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 2,
+  "code": 126},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 2,
+  "code": 116},
+"Pug" :{
+  "nFiles": 7,
+  "blank": 9,
+  "comment": 0,
+  "code": 102},
+"D" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 89},
+"EJS" :{
+  "nFiles": 18,
+  "blank": 4,
+  "comment": 0,
+  "code": 58},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 33,
+  "code": 49},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 3,
+  "code": 46},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"zsh" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 20,
+  "code": 13},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 229573,
+  "comment": 262875,
+  "code": 1504130,
+  "nFiles": 9775} }

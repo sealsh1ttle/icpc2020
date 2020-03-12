@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.128869771957397,
+  "n_files"            : 4,
+  "n_lines"            : 5497,
+  "files_per_second"   : 31.0390865075973,
+  "lines_per_second"   : 42655.4646330656,
+  "report_file"        : "loc/vuejs__awesome-vue.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 391,
+  "comment": 0,
+  "code": 5105},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 391,
+  "comment": 0,
+  "code": 5106,
+  "nFiles": 4} }

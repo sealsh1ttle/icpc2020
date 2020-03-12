@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 123.087217092514,
+  "n_files"            : 700,
+  "n_lines"            : 293734,
+  "files_per_second"   : 5.68702434367226,
+  "lines_per_second"   : 2386.38915509176,
+  "report_file"        : "loc/lightningnetwork__lnd.json"},
+"Go" :{
+  "nFiles": 635,
+  "blank": 38768,
+  "comment": 56074,
+  "code": 184462},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 4529},
+"Markdown" :{
+  "nFiles": 33,
+  "blank": 881,
+  "comment": 0,
+  "code": 3721},
+"Protocol Buffers" :{
+  "nFiles": 9,
+  "blank": 739,
+  "comment": 1815,
+  "code": 1488},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 97,
+  "comment": 77,
+  "code": 372},
+"make" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 29,
+  "code": 205},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 36,
+  "code": 146},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 41,
+  "comment": 49,
+  "code": 90},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 40631,
+  "comment": 58080,
+  "code": 195023,
+  "nFiles": 700} }

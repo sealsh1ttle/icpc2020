@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.56991386413574,
+  "n_files"            : 557,
+  "n_lines"            : 98057,
+  "files_per_second"   : 121.88413536003,
+  "lines_per_second"   : 21457.0783859937,
+  "report_file"        : "loc/iview__iview.json"},
+"JavaScript" :{
+  "nFiles": 216,
+  "blank": 8379,
+  "comment": 3926,
+  "code": 41147},
+"Vuejs Component" :{
+  "nFiles": 173,
+  "blank": 1097,
+  "comment": 1866,
+  "code": 20808},
+"LESS" :{
+  "nFiles": 91,
+  "blank": 1338,
+  "comment": 592,
+  "code": 12646},
+"TypeScript" :{
+  "nFiles": 61,
+  "blank": 112,
+  "comment": 3372,
+  "code": 1299},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 884},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 333},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 45,
+  "comment": 0,
+  "code": 188},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 11},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 10971,
+  "comment": 9760,
+  "code": 77326,
+  "nFiles": 557} }

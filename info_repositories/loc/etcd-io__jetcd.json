@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.9726390838623,
+  "n_files"            : 192,
+  "n_lines"            : 19389,
+  "files_per_second"   : 97.3315400524641,
+  "lines_per_second"   : 9828.96473998555,
+  "report_file"        : "loc/etcd-io__jetcd.json"},
+"Java" :{
+  "nFiles": 148,
+  "blank": 2009,
+  "comment": 3770,
+  "code": 7797},
+"Maven" :{
+  "nFiles": 16,
+  "blank": 271,
+  "comment": 230,
+  "code": 2245},
+"Protocol Buffers" :{
+  "nFiles": 4,
+  "blank": 173,
+  "comment": 352,
+  "code": 513},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 74,
+  "comment": 126,
+  "code": 368},
+"XML" :{
+  "nFiles": 9,
+  "blank": 75,
+  "comment": 178,
+  "code": 334},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 154,
+  "comment": 0,
+  "code": 329},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 63,
+  "comment": 0,
+  "code": 241},
+"AsciiDoc" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 27},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2841,
+  "comment": 4656,
+  "code": 11892,
+  "nFiles": 192} }

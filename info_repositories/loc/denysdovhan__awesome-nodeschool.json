@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.29124116897583,
+  "n_files"            : 2,
+  "n_lines"            : 151,
+  "files_per_second"   : 6.86716100966474,
+  "lines_per_second"   : 518.470656229688,
+  "report_file"        : "loc/denysdovhan__awesome-nodeschool.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 68},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 38},
+"SUM": {
+  "blank": 45,
+  "comment": 0,
+  "code": 106,
+  "nFiles": 2} }

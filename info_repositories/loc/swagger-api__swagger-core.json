@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 213.014565944672,
+  "n_files"            : 822,
+  "n_lines"            : 75196,
+  "files_per_second"   : 3.85889104040663,
+  "lines_per_second"   : 353.008723448196,
+  "report_file"        : "loc/swagger-api__swagger-core.json"},
+"Java" :{
+  "nFiles": 694,
+  "blank": 8203,
+  "comment": 5965,
+  "code": 46751},
+"YAML" :{
+  "nFiles": 61,
+  "blank": 1,
+  "comment": 12,
+  "code": 6486},
+"JSON" :{
+  "nFiles": 39,
+  "blank": 1,
+  "comment": 0,
+  "code": 4612},
+"Maven" :{
+  "nFiles": 8,
+  "blank": 10,
+  "comment": 9,
+  "code": 1615},
+"XML" :{
+  "nFiles": 10,
+  "blank": 25,
+  "comment": 4,
+  "code": 363},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 82,
+  "code": 342},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 54,
+  "comment": 0,
+  "code": 264},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 57,
+  "comment": 2,
+  "code": 197},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 18,
+  "code": 56},
+"SUM": {
+  "blank": 8418,
+  "comment": 6092,
+  "code": 60686,
+  "nFiles": 822} }

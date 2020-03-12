@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.72677803039551,
+  "n_files"            : 16,
+  "n_lines"            : 11078,
+  "files_per_second"   : 9.26581165521043,
+  "lines_per_second"   : 6415.41634477632,
+  "report_file"        : "loc/petethepig__devtools-terminal.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 1521,
+  "comment": 2578,
+  "code": 6229},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 92,
+  "comment": 153,
+  "code": 305},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 61},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 53},
+"Python" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 3,
+  "code": 28},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 12},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 5},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1643,
+  "comment": 2737,
+  "code": 6698,
+  "nFiles": 16} }

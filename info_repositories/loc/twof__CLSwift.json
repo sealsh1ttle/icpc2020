@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.7580349445343,
+  "n_files"            : 17,
+  "n_lines"            : 785,
+  "files_per_second"   : 2.95239611495184,
+  "lines_per_second"   : 136.331232366894,
+  "report_file"        : "loc/twof__CLSwift.json"},
+"Swift" :{
+  "nFiles": 12,
+  "blank": 85,
+  "comment": 43,
+  "code": 428},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 115},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 76},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 10,
+  "code": 3},
+"SUM": {
+  "blank": 110,
+  "comment": 53,
+  "code": 622,
+  "nFiles": 17} }

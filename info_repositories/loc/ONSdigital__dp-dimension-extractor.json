@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.44028997421265,
+  "n_files"            : 561,
+  "n_lines"            : 136659,
+  "files_per_second"   : 66.4669107002254,
+  "lines_per_second"   : 16191.2683589699,
+  "report_file"        : "loc/ONSdigital__dp-dimension-extractor.json"},
+"Go" :{
+  "nFiles": 490,
+  "blank": 15392,
+  "comment": 30047,
+  "code": 83654},
+"Markdown" :{
+  "nFiles": 46,
+  "blank": 1273,
+  "comment": 0,
+  "code": 3944},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 649},
+"Assembly" :{
+  "nFiles": 2,
+  "blank": 166,
+  "comment": 469,
+  "code": 585},
+"make" :{
+  "nFiles": 9,
+  "blank": 58,
+  "comment": 8,
+  "code": 141},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 24,
+  "comment": 6,
+  "code": 74},
+"HCL" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 1,
+  "code": 62},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 9,
+  "code": 33},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 2,
+  "code": 17},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 16948,
+  "comment": 30542,
+  "code": 89169,
+  "nFiles": 561} }

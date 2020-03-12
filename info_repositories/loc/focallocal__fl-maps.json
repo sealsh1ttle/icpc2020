@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.9828200340271,
+  "n_files"            : 290,
+  "n_lines"            : 43349,
+  "files_per_second"   : 146.256339467688,
+  "lines_per_second"   : 21862.296757189,
+  "report_file"        : "loc/focallocal__fl-maps.json"},
+"JSON" :{
+  "nFiles": 18,
+  "blank": 15,
+  "comment": 0,
+  "code": 25185},
+"JavaScript" :{
+  "nFiles": 209,
+  "blank": 2406,
+  "comment": 456,
+  "code": 11797},
+"Sass" :{
+  "nFiles": 50,
+  "blank": 570,
+  "comment": 30,
+  "code": 2351},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 128,
+  "comment": 0,
+  "code": 211},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 61},
+"XML" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 3,
+  "code": 29},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3151,
+  "comment": 491,
+  "code": 39707,
+  "nFiles": 290} }

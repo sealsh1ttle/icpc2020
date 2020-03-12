@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 242.911492109299,
+  "n_files"            : 898,
+  "n_lines"            : 252874,
+  "files_per_second"   : 3.69681974369472,
+  "lines_per_second"   : 1041.01291299227,
+  "report_file"        : "loc/pypa__pipenv.json"},
+"Python" :{
+  "nFiles": 731,
+  "blank": 34322,
+  "comment": 44362,
+  "code": 165479},
+"reStructuredText" :{
+  "nFiles": 91,
+  "blank": 840,
+  "comment": 187,
+  "code": 1808},
+"diff" :{
+  "nFiles": 17,
+  "blank": 207,
+  "comment": 778,
+  "code": 1236},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 922},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 301,
+  "comment": 0,
+  "code": 676},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 49,
+  "comment": 10,
+  "code": 395},
+"C" :{
+  "nFiles": 1,
+  "blank": 55,
+  "comment": 23,
+  "code": 345},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 41,
+  "comment": 24,
+  "code": 241},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 11,
+  "code": 133},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 0,
+  "code": 107},
+"make" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 7,
+  "code": 61},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 5,
+  "code": 54},
+"INI" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 41},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 4,
+  "code": 36},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 13,
+  "code": 14},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 35895,
+  "comment": 45425,
+  "code": 171554,
+  "nFiles": 898} }

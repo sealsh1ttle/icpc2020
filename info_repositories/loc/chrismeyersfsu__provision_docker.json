@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.157340049743652,
+  "n_files"            : 25,
+  "n_lines"            : 798,
+  "files_per_second"   : 158.891522156828,
+  "lines_per_second"   : 5071.81738724596,
+  "report_file"        : "loc/chrismeyersfsu__provision_docker.json"},
+"YAML" :{
+  "nFiles": 23,
+  "blank": 61,
+  "comment": 16,
+  "code": 537},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 107},
+"make" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 42},
+"SUM": {
+  "blank": 96,
+  "comment": 16,
+  "code": 686,
+  "nFiles": 25} }

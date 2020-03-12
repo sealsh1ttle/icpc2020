@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.5943989753723,
+  "n_files"            : 2647,
+  "n_lines"            : 445598,
+  "files_per_second"   : 99.5322361844405,
+  "lines_per_second"   : 16755.332595132,
+  "report_file"        : "loc/netty__netty.json"},
+"Java" :{
+  "nFiles": 2530,
+  "blank": 53853,
+  "comment": 98933,
+  "code": 277900},
+"Maven" :{
+  "nFiles": 39,
+  "blank": 372,
+  "comment": 895,
+  "code": 6051},
+"C" :{
+  "nFiles": 11,
+  "blank": 550,
+  "comment": 415,
+  "code": 3316},
+"XML" :{
+  "nFiles": 11,
+  "blank": 51,
+  "comment": 98,
+  "code": 946},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 2,
+  "comment": 0,
+  "code": 553},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 47,
+  "comment": 61,
+  "code": 283},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 90,
+  "comment": 0,
+  "code": 259},
+"C/C++ Header" :{
+  "nFiles": 10,
+  "blank": 58,
+  "comment": 192,
+  "code": 153},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 114},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 51,
+  "comment": 0,
+  "code": 113},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 22,
+  "code": 43},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 38},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 36},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 23,
+  "code": 17},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 55133,
+  "comment": 100639,
+  "code": 289826,
+  "nFiles": 2647} }

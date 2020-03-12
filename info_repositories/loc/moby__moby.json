@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.9932808876038,
+  "n_files"            : 5373,
+  "n_lines"            : 1401913,
+  "files_per_second"   : 85.2948111971944,
+  "lines_per_second"   : 22254.960850529,
+  "report_file"        : "loc/moby__moby.json"},
+"Go" :{
+  "nFiles": 4864,
+  "blank": 130765,
+  "comment": 148565,
+  "code": 1030818},
+"Markdown" :{
+  "nFiles": 222,
+  "blank": 12049,
+  "comment": 0,
+  "code": 38046},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 369,
+  "comment": 63,
+  "code": 10241},
+"Assembly" :{
+  "nFiles": 57,
+  "blank": 547,
+  "comment": 757,
+  "code": 5768},
+"Protocol Buffers" :{
+  "nFiles": 92,
+  "blank": 1821,
+  "comment": 5190,
+  "code": 4886},
+"Bourne Shell" :{
+  "nFiles": 35,
+  "blank": 446,
+  "comment": 288,
+  "code": 2208},
+"C" :{
+  "nFiles": 17,
+  "blank": 400,
+  "comment": 494,
+  "code": 1810},
+"Bourne Again Shell" :{
+  "nFiles": 51,
+  "blank": 271,
+  "comment": 223,
+  "code": 1401},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 1094},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 217,
+  "comment": 386,
+  "code": 1027},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 48,
+  "comment": 278,
+  "code": 561},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 51,
+  "comment": 66,
+  "code": 307},
+"make" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 29,
+  "code": 183},
+"Windows Message File" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 32},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 3,
+  "code": 30},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 6,
+  "code": 29},
+"vim script" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 18},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 5,
+  "code": 12},
+"SUM": {
+  "blank": 147068,
+  "comment": 156358,
+  "code": 1098487,
+  "nFiles": 5373} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.3946688175201,
+  "n_files"            : 115,
+  "n_lines"            : 10172,
+  "files_per_second"   : 4.35694044108126,
+  "lines_per_second"   : 385.380853623292,
+  "report_file"        : "loc/appnexus__cmp.json"},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 525,
+  "comment": 231,
+  "code": 3615},
+"JSX" :{
+  "nFiles": 48,
+  "blank": 341,
+  "comment": 13,
+  "code": 3049},
+"LESS" :{
+  "nFiles": 24,
+  "blank": 261,
+  "comment": 165,
+  "code": 1232},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 450},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 11,
+  "comment": 0,
+  "code": 204},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 1159,
+  "comment": 409,
+  "code": 8604,
+  "nFiles": 115} }

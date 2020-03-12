@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 51.7251379489899,
+  "n_files"            : 264,
+  "n_lines"            : 46862,
+  "files_per_second"   : 5.10390132280267,
+  "lines_per_second"   : 905.981150716586,
+  "report_file"        : "loc/Metaswitch__cpp-common.json"},
+"C++" :{
+  "nFiles": 100,
+  "blank": 3521,
+  "comment": 3980,
+  "code": 17971},
+"C/C++ Header" :{
+  "nFiles": 155,
+  "blank": 3055,
+  "comment": 5623,
+  "code": 12166},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 93,
+  "code": 226},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 0,
+  "code": 115},
+"make" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 3,
+  "code": 19},
+"SUM": {
+  "blank": 6666,
+  "comment": 9699,
+  "code": 30497,
+  "nFiles": 264} }

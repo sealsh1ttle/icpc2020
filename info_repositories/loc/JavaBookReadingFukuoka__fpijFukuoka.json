@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.28911995887756,
+  "n_files"            : 37,
+  "n_lines"            : 2249,
+  "files_per_second"   : 5.07605859263394,
+  "lines_per_second"   : 308.542047968479,
+  "report_file"        : "loc/JavaBookReadingFukuoka__fpijFukuoka.json"},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 462,
+  "comment": 0,
+  "code": 1310},
+"Java" :{
+  "nFiles": 12,
+  "blank": 84,
+  "comment": 43,
+  "code": 350},
+"SUM": {
+  "blank": 546,
+  "comment": 43,
+  "code": 1660,
+  "nFiles": 37} }

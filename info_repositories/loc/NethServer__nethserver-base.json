@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 96.5407280921936,
+  "n_files"            : 245,
+  "n_lines"            : 18638,
+  "files_per_second"   : 2.53778902274315,
+  "lines_per_second"   : 193.058415534232,
+  "report_file"        : "loc/NethServer__nethserver-base.json"},
+"PHP" :{
+  "nFiles": 154,
+  "blank": 1710,
+  "comment": 2408,
+  "code": 7658},
+"Perl" :{
+  "nFiles": 33,
+  "blank": 732,
+  "comment": 960,
+  "code": 2039},
+"Bourne Again Shell" :{
+  "nFiles": 33,
+  "blank": 182,
+  "comment": 565,
+  "code": 516},
+"reStructuredText" :{
+  "nFiles": 14,
+  "blank": 248,
+  "comment": 12,
+  "code": 477},
+"Python" :{
+  "nFiles": 5,
+  "blank": 116,
+  "comment": 105,
+  "code": 442},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 26,
+  "code": 144},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 121},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 7,
+  "code": 79},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 3042,
+  "comment": 4083,
+  "code": 11513,
+  "nFiles": 245} }

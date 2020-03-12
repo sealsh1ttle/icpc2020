@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.1978271007538,
+  "n_files"            : 292,
+  "n_lines"            : 24644,
+  "files_per_second"   : 4.15967291381964,
+  "lines_per_second"   : 351.06499756223,
+  "report_file"        : "loc/joshwcomeau__Tello.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 12756},
+"JavaScript" :{
+  "nFiles": 240,
+  "blank": 1649,
+  "comment": 900,
+  "code": 8992},
+"CSS" :{
+  "nFiles": 44,
+  "blank": 0,
+  "comment": 0,
+  "code": 240},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 35},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 12,
+  "code": 30},
+"SUM": {
+  "blank": 1679,
+  "comment": 912,
+  "code": 22053,
+  "nFiles": 292} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0823061466217041,
+  "n_files"            : 7,
+  "n_lines"            : 424,
+  "files_per_second"   : 85.0483261253067,
+  "lines_per_second"   : 5151.49861101858,
+  "report_file"        : "loc/shrinerb__shrine-uploadcare.json"},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 57,
+  "comment": 1,
+  "code": 216},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 0,
+  "code": 113},
+"SUM": {
+  "blank": 94,
+  "comment": 1,
+  "code": 329,
+  "nFiles": 7} }

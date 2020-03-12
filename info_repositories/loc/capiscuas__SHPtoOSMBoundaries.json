@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.05900406837463,
+  "n_files"            : 12,
+  "n_lines"            : 489283,
+  "files_per_second"   : 3.92284538751073,
+  "lines_per_second"   : 159948.463311451,
+  "report_file"        : "loc/capiscuas__SHPtoOSMBoundaries.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 313752},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 174500},
+"Python" :{
+  "nFiles": 6,
+  "blank": 220,
+  "comment": 238,
+  "code": 521},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 240,
+  "comment": 238,
+  "code": 488805,
+  "nFiles": 12} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.453262090682983,
+  "n_files"            : 29,
+  "n_lines"            : 1122,
+  "files_per_second"   : 63.9806429792138,
+  "lines_per_second"   : 2475.3890145751,
+  "report_file"        : "loc/toyhippogriff__Sodden.json"},
+"Java" :{
+  "nFiles": 5,
+  "blank": 83,
+  "comment": 0,
+  "code": 379},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 0,
+  "code": 354},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 135,
+  "comment": 24,
+  "code": 963,
+  "nFiles": 29} }

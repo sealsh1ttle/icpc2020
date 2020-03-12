@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.48187804222107,
+  "n_files"            : 36,
+  "n_lines"            : 7598,
+  "files_per_second"   : 4.81162614477916,
+  "lines_per_second"   : 1015.520429112,
+  "report_file"        : "loc/PDXCapstoneF__SPECtate.json"},
+"Python" :{
+  "nFiles": 17,
+  "blank": 572,
+  "comment": 413,
+  "code": 3455},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 305,
+  "comment": 870,
+  "code": 1050},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 144,
+  "comment": 0,
+  "code": 401},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 333},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 14,
+  "code": 3},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1025,
+  "comment": 1297,
+  "code": 5276,
+  "nFiles": 36} }

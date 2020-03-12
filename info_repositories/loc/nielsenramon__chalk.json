@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.161484003067,
+  "n_files"            : 77,
+  "n_lines"            : 3686,
+  "files_per_second"   : 4.23974164154188,
+  "lines_per_second"   : 202.956982996408,
+  "report_file"        : "loc/nielsenramon__chalk.json"},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 483,
+  "comment": 249,
+  "code": 1497},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 31,
+  "comment": 0,
+  "code": 488},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 112,
+  "comment": 0,
+  "code": 365},
+"SVG" :{
+  "nFiles": 27,
+  "blank": 0,
+  "comment": 0,
+  "code": 168},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 4,
+  "code": 103},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 12,
+  "comment": 12,
+  "code": 58},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 12,
+  "code": 27},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 667,
+  "comment": 277,
+  "code": 2742,
+  "nFiles": 77} }

@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.1798388957977,
+  "n_files"            : 3712,
+  "n_lines"            : 1359833,
+  "files_per_second"   : 61.6817869258072,
+  "lines_per_second"   : 22596.1555389766,
+  "report_file"        : "loc/InfraSIM__qemu.json"},
+"C" :{
+  "nFiles": 2073,
+  "blank": 130704,
+  "comment": 97193,
+  "code": 841232},
+"C/C++ Header" :{
+  "nFiles": 1005,
+  "blank": 21483,
+  "comment": 39172,
+  "code": 127739},
+"Python" :{
+  "nFiles": 85,
+  "blank": 3375,
+  "comment": 3193,
+  "code": 13027},
+"JSON" :{
+  "nFiles": 138,
+  "blank": 551,
+  "comment": 0,
+  "code": 11631},
+"Assembly" :{
+  "nFiles": 173,
+  "blank": 2246,
+  "comment": 520,
+  "code": 10914},
+"Haxe" :{
+  "nFiles": 6,
+  "blank": 2063,
+  "comment": 12,
+  "code": 9503},
+"Bourne Again Shell" :{
+  "nFiles": 132,
+  "blank": 2694,
+  "comment": 3587,
+  "code": 9125},
+"C++" :{
+  "nFiles": 10,
+  "blank": 773,
+  "comment": 442,
+  "code": 5716},
+"Bourne Shell" :{
+  "nFiles": 19,
+  "blank": 604,
+  "comment": 890,
+  "code": 5604},
+"Perl" :{
+  "nFiles": 7,
+  "blank": 825,
+  "comment": 479,
+  "code": 4254},
+"make" :{
+  "nFiles": 20,
+  "blank": 415,
+  "comment": 125,
+  "code": 2419},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 1982},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 175,
+  "comment": 169,
+  "code": 1106},
+"Windows Module Definition" :{
+  "nFiles": 5,
+  "blank": 50,
+  "comment": 0,
+  "code": 1084},
+"XML" :{
+  "nFiles": 20,
+  "blank": 53,
+  "comment": 87,
+  "code": 708},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 3,
+  "code": 425},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 110,
+  "comment": 0,
+  "code": 395},
+"PO File" :{
+  "nFiles": 7,
+  "blank": 120,
+  "comment": 149,
+  "code": 335},
+"WiX source" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 172},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 85},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 19},
+"GLSL" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 14},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 166315,
+  "comment": 146027,
+  "code": 1047491,
+  "nFiles": 3712} }

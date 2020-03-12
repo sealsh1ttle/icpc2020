@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 270.284054040909,
+  "n_files"            : 1003,
+  "n_lines"            : 555386,
+  "files_per_second"   : 3.71091074373256,
+  "lines_per_second"   : 2054.82340410633,
+  "report_file"        : "loc/OpenUpSA__municipal-data.json"},
+"JSON" :{
+  "nFiles": 417,
+  "blank": 3,
+  "comment": 0,
+  "code": 373725},
+"JavaScript" :{
+  "nFiles": 206,
+  "blank": 16140,
+  "comment": 33029,
+  "code": 77584},
+"Sass" :{
+  "nFiles": 98,
+  "blank": 1743,
+  "comment": 1694,
+  "code": 9574},
+"TypeScript" :{
+  "nFiles": 51,
+  "blank": 1686,
+  "comment": 2006,
+  "code": 7909},
+"CSS" :{
+  "nFiles": 15,
+  "blank": 2302,
+  "comment": 317,
+  "code": 7795},
+"Python" :{
+  "nFiles": 45,
+  "blank": 717,
+  "comment": 375,
+  "code": 4825},
+"HTML" :{
+  "nFiles": 38,
+  "blank": 408,
+  "comment": 20,
+  "code": 3317},
+"Markdown" :{
+  "nFiles": 62,
+  "blank": 1273,
+  "comment": 0,
+  "code": 3202},
+"SQL" :{
+  "nFiles": 38,
+  "blank": 356,
+  "comment": 193,
+  "code": 2318},
+"LESS" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 33,
+  "code": 1343},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 882},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 281},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 37,
+  "comment": 28,
+  "code": 119},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 1,
+  "code": 78},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 7,
+  "code": 18},
+"SUM": {
+  "blank": 24713,
+  "comment": 37703,
+  "code": 492970,
+  "nFiles": 1003} }

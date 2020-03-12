@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.172539949417114,
+  "n_files"            : 33,
+  "n_lines"            : 4224,
+  "files_per_second"   : 191.260053752669,
+  "lines_per_second"   : 24481.2868803416,
+  "report_file"        : "loc/puppetlabs__puppetlabs_spec_helper.json"},
+"Ruby" :{
+  "nFiles": 25,
+  "blank": 311,
+  "comment": 185,
+  "code": 1770},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 426,
+  "comment": 0,
+  "code": 1236},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 43,
+  "code": 205},
+"SUM": {
+  "blank": 785,
+  "comment": 228,
+  "code": 3211,
+  "nFiles": 33} }

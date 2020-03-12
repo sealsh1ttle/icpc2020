@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 81.6983568668365,
+  "n_files"            : 264,
+  "n_lines"            : 26347,
+  "files_per_second"   : 3.23139913854454,
+  "lines_per_second"   : 322.491185997095,
+  "report_file"        : "loc/redbrick__static-site.json"},
+"Markdown" :{
+  "nFiles": 241,
+  "blank": 5206,
+  "comment": 0,
+  "code": 17226},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2850},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 67,
+  "comment": 34,
+  "code": 472},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 20,
+  "comment": 19,
+  "code": 427},
+"EJS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 5293,
+  "comment": 53,
+  "code": 21001,
+  "nFiles": 264} }

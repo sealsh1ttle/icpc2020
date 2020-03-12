@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 158.770642995834,
+  "n_files"            : 976,
+  "n_lines"            : 344598,
+  "files_per_second"   : 6.14723214307073,
+  "lines_per_second"   : 2170.41383405521,
+  "report_file"        : "loc/pingcap__tidb.json"},
+"Go" :{
+  "nFiles": 874,
+  "blank": 33614,
+  "comment": 31594,
+  "code": 271043},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 1263,
+  "comment": 0,
+  "code": 3856},
+"JSON" :{
+  "nFiles": 41,
+  "blank": 0,
+  "comment": 0,
+  "code": 2339},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 44,
+  "comment": 9,
+  "code": 273},
+"make" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 5,
+  "code": 200},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 24,
+  "code": 60},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 51},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 20,
+  "code": 47},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 4,
+  "code": 22},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 12,
+  "code": 0},
+"SUM": {
+  "blank": 35030,
+  "comment": 31668,
+  "code": 277900,
+  "nFiles": 976} }

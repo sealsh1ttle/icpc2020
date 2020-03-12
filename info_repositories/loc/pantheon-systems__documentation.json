@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 141.938423871994,
+  "n_files"            : 632,
+  "n_lines"            : 88827,
+  "files_per_second"   : 4.45263504243195,
+  "lines_per_second"   : 625.813628028644,
+  "report_file"        : "loc/pantheon-systems__documentation.json"},
+"Markdown" :{
+  "nFiles": 435,
+  "blank": 12739,
+  "comment": 0,
+  "code": 27636},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 116,
+  "comment": 0,
+  "code": 23657},
+"CSS" :{
+  "nFiles": 40,
+  "blank": 922,
+  "comment": 1590,
+  "code": 9961},
+"JavaScript" :{
+  "nFiles": 78,
+  "blank": 1239,
+  "comment": 574,
+  "code": 5750},
+"SVG" :{
+  "nFiles": 42,
+  "blank": 0,
+  "comment": 36,
+  "code": 2021},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 1,
+  "code": 1560},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 7,
+  "comment": 6,
+  "code": 341},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 68,
+  "comment": 74,
+  "code": 324},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 16,
+  "code": 102},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 64},
+"SUM": {
+  "blank": 15114,
+  "comment": 2297,
+  "code": 71416,
+  "nFiles": 632} }

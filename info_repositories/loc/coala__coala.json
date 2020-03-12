@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.77455902099609,
+  "n_files"            : 391,
+  "n_lines"            : 55196,
+  "files_per_second"   : 140.923295212378,
+  "lines_per_second"   : 19893.6117712083,
+  "report_file"        : "loc/coala__coala.json"},
+"Python" :{
+  "nFiles": 329,
+  "blank": 7539,
+  "comment": 9291,
+  "code": 26678},
+"reStructuredText" :{
+  "nFiles": 29,
+  "blank": 1667,
+  "comment": 785,
+  "code": 4015},
+"PowerShell" :{
+  "nFiles": 8,
+  "blank": 659,
+  "comment": 302,
+  "code": 2168},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 578},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 65,
+  "comment": 36,
+  "code": 384},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 2,
+  "code": 311},
+"make" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 6,
+  "code": 181},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 8,
+  "code": 119},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 15,
+  "code": 54},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 28},
+"C" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 39,
+  "code": 21},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 17},
+"C++" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 19,
+  "code": 14},
+"Go" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 8,
+  "code": 10},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"Java" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 7,
+  "code": 5},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 10085,
+  "comment": 10519,
+  "code": 34592,
+  "nFiles": 391} }

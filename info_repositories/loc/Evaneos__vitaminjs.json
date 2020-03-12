@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.716318130493164,
+  "n_files"            : 100,
+  "n_lines"            : 3762,
+  "files_per_second"   : 139.602776675711,
+  "lines_per_second"   : 5251.85645854025,
+  "report_file"        : "loc/Evaneos__vitaminjs.json"},
+"JavaScript" :{
+  "nFiles": 64,
+  "blank": 259,
+  "comment": 208,
+  "code": 1840},
+"JSX" :{
+  "nFiles": 18,
+  "blank": 68,
+  "comment": 25,
+  "code": 490},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 0,
+  "code": 306},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 122,
+  "comment": 0,
+  "code": 299},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 92},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 470,
+  "comment": 233,
+  "code": 3059,
+  "nFiles": 100} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.7960438728333,
+  "n_files"            : 131,
+  "n_lines"            : 7429,
+  "files_per_second"   : 3.87619333472648,
+  "lines_per_second"   : 219.818628119718,
+  "report_file"        : "loc/EugenMayer__docker-sync.json"},
+"Ruby" :{
+  "nFiles": 68,
+  "blank": 694,
+  "comment": 222,
+  "code": 3366},
+"reStructuredText" :{
+  "nFiles": 16,
+  "blank": 781,
+  "comment": 595,
+  "code": 882},
+"XML" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 213},
+"YAML" :{
+  "nFiles": 20,
+  "blank": 38,
+  "comment": 100,
+  "code": 175},
+"Python" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 95,
+  "code": 44},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 0,
+  "code": 39},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 1,
+  "code": 30},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"make" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 6,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"C" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1606,
+  "comment": 1020,
+  "code": 4803,
+  "nFiles": 131} }

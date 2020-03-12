@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0690639019012451,
+  "n_files"            : 4,
+  "n_lines"            : 308,
+  "files_per_second"   : 57.9173763700699,
+  "lines_per_second"   : 4459.63798049538,
+  "report_file"        : "loc/marihachi__corekey.json"},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 154},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 57},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 56},
+"SUM": {
+  "blank": 41,
+  "comment": 0,
+  "code": 267,
+  "nFiles": 4} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.7469601631165,
+  "n_files"            : 54,
+  "n_lines"            : 3213,
+  "files_per_second"   : 3.92814115697256,
+  "lines_per_second"   : 233.724398839867,
+  "report_file"        : "loc/emilyfreeman__bartleby.json"},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 411,
+  "comment": 293,
+  "code": 1664},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 105,
+  "comment": 55,
+  "code": 324},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 124},
+"Handlebars" :{
+  "nFiles": 6,
+  "blank": 7,
+  "comment": 0,
+  "code": 72},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 51},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 19,
+  "comment": 0,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 8,
+  "code": 5},
+"SUM": {
+  "blank": 559,
+  "comment": 356,
+  "code": 2298,
+  "nFiles": 54} }

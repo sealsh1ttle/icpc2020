@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.99856901168823,
+  "n_files"            : 6,
+  "n_lines"            : 805,
+  "files_per_second"   : 3.00214801936295,
+  "lines_per_second"   : 402.788192597863,
+  "report_file"        : "loc/ironhack-labs__lab-ironbeers.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 666},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 0,
+  "code": 64},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 13},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 7,
+  "code": 0},
+"SUM": {
+  "blank": 53,
+  "comment": 7,
+  "code": 745,
+  "nFiles": 6} }

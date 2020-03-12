@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 45.4460029602051,
+  "n_files"            : 124,
+  "n_lines"            : 35678,
+  "files_per_second"   : 2.72851278271009,
+  "lines_per_second"   : 785.063540818794,
+  "report_file"        : "loc/LSSTScienceCollaborations__ObservingStrategy.json"},
+"TeX" :{
+  "nFiles": 93,
+  "blank": 4017,
+  "comment": 5626,
+  "code": 22014},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 250,
+  "comment": 0,
+  "code": 478},
+"C Shell" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 120,
+  "code": 210},
+"Python" :{
+  "nFiles": 3,
+  "blank": 61,
+  "comment": 87,
+  "code": 127},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2523,
+  "code": 51},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 25},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 4390,
+  "comment": 8359,
+  "code": 22929,
+  "nFiles": 124} }

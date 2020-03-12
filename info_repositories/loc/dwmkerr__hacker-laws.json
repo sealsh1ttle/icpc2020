@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.37727117538452,
+  "n_files"            : 7,
+  "n_lines"            : 1903,
+  "files_per_second"   : 5.08251397771805,
+  "lines_per_second"   : 1381.71772851392,
+  "report_file"        : "loc/dwmkerr__hacker-laws.json"},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 784,
+  "comment": 0,
+  "code": 1119},
+"SUM": {
+  "blank": 784,
+  "comment": 0,
+  "code": 1119,
+  "nFiles": 7} }

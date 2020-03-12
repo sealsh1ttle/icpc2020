@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 876.885128974915,
+  "n_files"            : 3579,
+  "n_lines"            : 634019,
+  "files_per_second"   : 4.08149241187826,
+  "lines_per_second"   : 723.03541142404,
+  "report_file"        : "loc/coq__coq.json"},
+"OCaml" :{
+  "nFiles": 1003,
+  "blank": 38908,
+  "comment": 38608,
+  "code": 205270},
+"Coq" :{
+  "nFiles": 2167,
+  "blank": 41454,
+  "comment": 25756,
+  "code": 204239},
+"reStructuredText" :{
+  "nFiles": 88,
+  "blank": 11901,
+  "comment": 14534,
+  "code": 16029},
+"TeX" :{
+  "nFiles": 25,
+  "blank": 1140,
+  "comment": 355,
+  "code": 5722},
+"Markdown" :{
+  "nFiles": 31,
+  "blank": 1304,
+  "comment": 0,
+  "code": 4907},
+"Bourne Shell" :{
+  "nFiles": 132,
+  "blank": 996,
+  "comment": 944,
+  "code": 3468},
+"Python" :{
+  "nFiles": 25,
+  "blank": 886,
+  "comment": 945,
+  "code": 2776},
+"CSS" :{
+  "nFiles": 16,
+  "blank": 498,
+  "comment": 241,
+  "code": 2416},
+"C" :{
+  "nFiles": 8,
+  "blank": 201,
+  "comment": 210,
+  "code": 1837},
+"diff" :{
+  "nFiles": 9,
+  "blank": 165,
+  "comment": 973,
+  "code": 1741},
+"make" :{
+  "nFiles": 8,
+  "blank": 181,
+  "comment": 176,
+  "code": 837},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 223,
+  "comment": 0,
+  "code": 708},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 109,
+  "comment": 46,
+  "code": 692},
+"DOS Batch" :{
+  "nFiles": 8,
+  "blank": 164,
+  "comment": 120,
+  "code": 524},
+"C/C++ Header" :{
+  "nFiles": 7,
+  "blank": 83,
+  "comment": 64,
+  "code": 372},
+"Nix" :{
+  "nFiles": 28,
+  "blank": 63,
+  "comment": 28,
+  "code": 323},
+"Lisp" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 44,
+  "code": 224},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 65,
+  "comment": 0,
+  "code": 197},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 32,
+  "code": 86},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 21,
+  "code": 32},
+"ANTLR Grammar" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 15,
+  "code": 26},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 24},
+"Verilog-SystemVerilog" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 98446,
+  "comment": 83112,
+  "code": 452461,
+  "nFiles": 3579} }

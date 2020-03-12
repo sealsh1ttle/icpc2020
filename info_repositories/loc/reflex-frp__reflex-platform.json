@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.704824924469,
+  "n_files"            : 117,
+  "n_lines"            : 20157,
+  "files_per_second"   : 4.07596981719492,
+  "lines_per_second"   : 702.216441070068,
+  "report_file"        : "loc/reflex-frp__reflex-platform.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 4090,
+  "comment": 4090,
+  "code": 4090},
+"Nix" :{
+  "nFiles": 43,
+  "blank": 427,
+  "comment": 314,
+  "code": 3040},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 302,
+  "comment": 0,
+  "code": 1022},
+"diff" :{
+  "nFiles": 9,
+  "blank": 47,
+  "comment": 276,
+  "code": 498},
+"Bourne Again Shell" :{
+  "nFiles": 20,
+  "blank": 121,
+  "comment": 5,
+  "code": 404},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 71,
+  "comment": 16,
+  "code": 328},
+"Haskell" :{
+  "nFiles": 4,
+  "blank": 31,
+  "comment": 80,
+  "code": 242},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 85,
+  "comment": 55,
+  "code": 182},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 1,
+  "comment": 0,
+  "code": 139},
+"C" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 6,
+  "code": 85},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 51},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 33},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 5195,
+  "comment": 4842,
+  "code": 10120,
+  "nFiles": 117} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.8490149974823,
+  "n_files"            : 48,
+  "n_lines"            : 1794,
+  "files_per_second"   : 4.05096963842135,
+  "lines_per_second"   : 151.404990235998,
+  "report_file"        : "loc/marteinn__wagtail-text-analysis.json"},
+"Python" :{
+  "nFiles": 35,
+  "blank": 292,
+  "comment": 88,
+  "code": 775},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 173},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 0,
+  "code": 148},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 66,
+  "comment": 0,
+  "code": 111},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 5,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 19},
+"SUM": {
+  "blank": 432,
+  "comment": 94,
+  "code": 1268,
+  "nFiles": 48} }

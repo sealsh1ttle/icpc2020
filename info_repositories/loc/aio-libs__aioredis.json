@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.0191149711609,
+  "n_files"            : 103,
+  "n_lines"            : 19761,
+  "files_per_second"   : 5.14508259472907,
+  "lines_per_second"   : 987.106574314962,
+  "report_file"        : "loc/aio-libs__aioredis.json"},
+"Python" :{
+  "nFiles": 81,
+  "blank": 3350,
+  "comment": 1892,
+  "code": 11631},
+"reStructuredText" :{
+  "nFiles": 13,
+  "blank": 831,
+  "comment": 1005,
+  "code": 539},
+"make" :{
+  "nFiles": 3,
+  "blank": 62,
+  "comment": 7,
+  "code": 242},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 4,
+  "code": 118},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 25},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 19},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 4271,
+  "comment": 2908,
+  "code": 12582,
+  "nFiles": 103} }

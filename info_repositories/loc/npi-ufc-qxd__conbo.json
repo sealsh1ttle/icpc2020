@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.56253910064697,
+  "n_files"            : 179,
+  "n_lines"            : 86502,
+  "files_per_second"   : 69.8525926706083,
+  "lines_per_second"   : 33756.3629675584,
+  "report_file"        : "loc/npi-ufc-qxd__conbo.json"},
+"JavaScript" :{
+  "nFiles": 58,
+  "blank": 7508,
+  "comment": 15495,
+  "code": 32806},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 2776,
+  "comment": 494,
+  "code": 10997},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5179},
+"Sass" :{
+  "nFiles": 39,
+  "blank": 879,
+  "comment": 608,
+  "code": 5034},
+"HTML" :{
+  "nFiles": 25,
+  "blank": 645,
+  "comment": 93,
+  "code": 1471},
+"Java" :{
+  "nFiles": 39,
+  "blank": 514,
+  "comment": 0,
+  "code": 1470},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 65,
+  "code": 138},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 113},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 2,
+  "code": 86},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 40},
+"SUM": {
+  "blank": 12411,
+  "comment": 16757,
+  "code": 57334,
+  "nFiles": 179} }

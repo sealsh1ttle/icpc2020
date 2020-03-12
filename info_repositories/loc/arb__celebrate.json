@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.88200998306274,
+  "n_files"            : 16,
+  "n_lines"            : 8680,
+  "files_per_second"   : 5.55168097752272,
+  "lines_per_second"   : 3011.78693030607,
+  "report_file"        : "loc/arb__celebrate.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7314},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 133,
+  "comment": 6,
+  "code": 912},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 0,
+  "code": 139},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 36,
+  "code": 33},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 194,
+  "comment": 43,
+  "code": 8443,
+  "nFiles": 16} }

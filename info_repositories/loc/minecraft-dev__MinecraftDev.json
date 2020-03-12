@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.41951489448547,
+  "n_files"            : 607,
+  "n_lines"            : 37999,
+  "files_per_second"   : 137.345390725438,
+  "lines_per_second"   : 8598.00247475439,
+  "report_file"        : "loc/minecraft-dev__MinecraftDev.json"},
+"Kotlin" :{
+  "nFiles": 527,
+  "blank": 5389,
+  "comment": 5479,
+  "code": 23479},
+"Forth" :{
+  "nFiles": 29,
+  "blank": 163,
+  "comment": 148,
+  "code": 858},
+"XML" :{
+  "nFiles": 3,
+  "blank": 89,
+  "comment": 94,
+  "code": 728},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 35,
+  "code": 240},
+"HTML" :{
+  "nFiles": 31,
+  "blank": 124,
+  "comment": 186,
+  "code": 155},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 107},
+"Groovy" :{
+  "nFiles": 4,
+  "blank": 28,
+  "comment": 39,
+  "code": 94},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 84},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 7,
+  "code": 57},
+"Java" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 27,
+  "code": 18},
+"SUM": {
+  "blank": 5951,
+  "comment": 6040,
+  "code": 26008,
+  "nFiles": 607} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.4246990680695,
+  "n_files"            : 137,
+  "n_lines"            : 52325,
+  "files_per_second"   : 3.66068407793525,
+  "lines_per_second"   : 1398.14083487563,
+  "report_file"        : "loc/NCAR__PyConform.json"},
+"Python" :{
+  "nFiles": 51,
+  "blank": 2524,
+  "comment": 2791,
+  "code": 11135},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 2189,
+  "comment": 2198,
+  "code": 8748},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 3817,
+  "comment": 24,
+  "code": 8219},
+"JSON" :{
+  "nFiles": 25,
+  "blank": 6,
+  "comment": 0,
+  "code": 5845},
+"Windows Module Definition" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 2335},
+"reStructuredText" :{
+  "nFiles": 17,
+  "blank": 257,
+  "comment": 83,
+  "code": 723},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 685},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 138,
+  "comment": 33,
+  "code": 544},
+"C Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 21},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 8938,
+  "comment": 5129,
+  "code": 38258,
+  "nFiles": 137} }

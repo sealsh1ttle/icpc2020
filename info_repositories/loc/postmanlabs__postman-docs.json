@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 98.8793749809265,
+  "n_files"            : 405,
+  "n_lines"            : 31185,
+  "files_per_second"   : 4.09589967653136,
+  "lines_per_second"   : 315.384275092915,
+  "report_file"        : "loc/postmanlabs__postman-docs.json"},
+"Markdown" :{
+  "nFiles": 377,
+  "blank": 10337,
+  "comment": 0,
+  "code": 17585},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 4,
+  "comment": 0,
+  "code": 1922},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 80,
+  "comment": 11,
+  "code": 1055},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 5,
+  "code": 173},
+"SUM": {
+  "blank": 10434,
+  "comment": 16,
+  "code": 20735,
+  "nFiles": 405} }

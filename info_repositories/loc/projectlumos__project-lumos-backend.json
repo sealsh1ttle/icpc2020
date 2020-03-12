@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.8194389343262,
+  "n_files"            : 74,
+  "n_lines"            : 5004,
+  "files_per_second"   : 4.67778916225843,
+  "lines_per_second"   : 316.319688755962,
+  "report_file"        : "loc/projectlumos__project-lumos-backend.json"},
+"Python" :{
+  "nFiles": 72,
+  "blank": 786,
+  "comment": 1154,
+  "code": 2356},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 186,
+  "comment": 0,
+  "code": 521},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 972,
+  "comment": 1154,
+  "code": 2878,
+  "nFiles": 74} }

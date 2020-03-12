@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.27660202980042,
+  "n_files"            : 558,
+  "n_lines"            : 85528,
+  "files_per_second"   : 76.6841442908078,
+  "lines_per_second"   : 11753.8378009036,
+  "report_file"        : "loc/composer__composer.json"},
+"PHP" :{
+  "nFiles": 451,
+  "blank": 10706,
+  "comment": 13870,
+  "code": 51277},
+"Markdown" :{
+  "nFiles": 33,
+  "blank": 1632,
+  "comment": 0,
+  "code": 5279},
+"JSON" :{
+  "nFiles": 58,
+  "blank": 0,
+  "comment": 0,
+  "code": 2335},
+"XML" :{
+  "nFiles": 14,
+  "blank": 7,
+  "comment": 3,
+  "code": 311},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 9,
+  "code": 83},
+"SUM": {
+  "blank": 12361,
+  "comment": 13882,
+  "code": 59285,
+  "nFiles": 558} }

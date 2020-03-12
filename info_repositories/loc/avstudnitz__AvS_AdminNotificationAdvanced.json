@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.146910905838013,
+  "n_files"            : 11,
+  "n_lines"            : 428,
+  "files_per_second"   : 74.8753126070086,
+  "lines_per_second"   : 2913.3303450727,
+  "report_file"        : "loc/avstudnitz__AvS_AdminNotificationAdvanced.json"},
+"PHP" :{
+  "nFiles": 6,
+  "blank": 24,
+  "comment": 77,
+  "code": 154},
+"XML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 20,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 43},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 43,
+  "comment": 97,
+  "code": 288,
+  "nFiles": 11} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.9161751270294,
+  "n_files"            : 124,
+  "n_lines"            : 73787,
+  "files_per_second"   : 4.97668680557166,
+  "lines_per_second"   : 2961.40959131222,
+  "report_file"        : "loc/asmjit__asmjit.json"},
+"C/C++ Header" :{
+  "nFiles": 62,
+  "blank": 4671,
+  "comment": 6960,
+  "code": 24058},
+"C++" :{
+  "nFiles": 49,
+  "blank": 5629,
+  "comment": 2935,
+  "code": 23550},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 583,
+  "comment": 361,
+  "code": 2385},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 523,
+  "comment": 0,
+  "code": 1366},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 36,
+  "code": 299},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 0,
+  "code": 224},
+"XML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 49},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 0,
+  "code": 37},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 11512,
+  "comment": 10293,
+  "code": 51982,
+  "nFiles": 124} }

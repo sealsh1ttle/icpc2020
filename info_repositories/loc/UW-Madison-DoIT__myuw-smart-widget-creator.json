@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.62305903434753,
+  "n_files"            : 33,
+  "n_lines"            : 1032,
+  "files_per_second"   : 7.13813078198284,
+  "lines_per_second"   : 223.228817182009,
+  "report_file"        : "loc/UW-Madison-DoIT__myuw-smart-widget-creator.json"},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 46,
+  "comment": 194,
+  "code": 275},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 28,
+  "comment": 82,
+  "code": 204},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 1,
+  "comment": 0,
+  "code": 129},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 4,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 82,
+  "comment": 299,
+  "code": 651,
+  "nFiles": 33} }

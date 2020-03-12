@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.955869913101196,
+  "n_files"            : 8,
+  "n_lines"            : 499,
+  "files_per_second"   : 8.36933968770398,
+  "lines_per_second"   : 522.037563020536,
+  "report_file"        : "loc/getlantern__measured.json"},
+"Go" :{
+  "nFiles": 6,
+  "blank": 64,
+  "comment": 41,
+  "code": 381},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 64,
+  "comment": 41,
+  "code": 394,
+  "nFiles": 8} }

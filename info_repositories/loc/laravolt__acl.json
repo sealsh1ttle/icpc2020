@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.3340380191803,
+  "n_files"            : 16,
+  "n_lines"            : 770,
+  "files_per_second"   : 6.85507256887748,
+  "lines_per_second"   : 329.900367377229,
+  "report_file"        : "loc/laravolt__acl.json"},
+"PHP" :{
+  "nFiles": 14,
+  "blank": 111,
+  "comment": 120,
+  "code": 430},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 47},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 132,
+  "comment": 120,
+  "code": 518,
+  "nFiles": 16} }

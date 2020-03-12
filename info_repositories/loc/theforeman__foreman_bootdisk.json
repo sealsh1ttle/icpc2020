@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.0555260181427,
+  "n_files"            : 67,
+  "n_lines"            : 5675,
+  "files_per_second"   : 3.03778744360422,
+  "lines_per_second"   : 257.305130484387,
+  "report_file"        : "loc/theforeman__foreman_bootdisk.json"},
+"PO File" :{
+  "nFiles": 14,
+  "blank": 899,
+  "comment": 93,
+  "code": 1978},
+"Ruby" :{
+  "nFiles": 42,
+  "blank": 311,
+  "comment": 63,
+  "code": 1464},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 137,
+  "comment": 0,
+  "code": 402},
+"ERB" :{
+  "nFiles": 5,
+  "blank": 25,
+  "comment": 0,
+  "code": 167},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 11,
+  "code": 40},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 27},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1390,
+  "comment": 167,
+  "code": 4118,
+  "nFiles": 67} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.1037170886993,
+  "n_files"            : 98,
+  "n_lines"            : 6648,
+  "files_per_second"   : 9.69940064034548,
+  "lines_per_second"   : 657.975667928743,
+  "report_file"        : "loc/newdevtech__newdev_api.json"},
+"JavaScript" :{
+  "nFiles": 92,
+  "blank": 466,
+  "comment": 123,
+  "code": 5928},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 88},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 477,
+  "comment": 123,
+  "code": 6048,
+  "nFiles": 98} }

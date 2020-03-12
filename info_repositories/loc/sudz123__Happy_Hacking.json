@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.70842409133911,
+  "n_files"            : 187,
+  "n_lines"            : 55830,
+  "files_per_second"   : 109.457599519932,
+  "lines_per_second"   : 32679.239471646,
+  "report_file"        : "loc/sudz123__Happy_Hacking.json"},
+"CSS" :{
+  "nFiles": 21,
+  "blank": 1966,
+  "comment": 318,
+  "code": 16314},
+"JavaScript" :{
+  "nFiles": 24,
+  "blank": 3200,
+  "comment": 3329,
+  "code": 12090},
+"Sass" :{
+  "nFiles": 75,
+  "blank": 1283,
+  "comment": 1585,
+  "code": 7011},
+"HTML" :{
+  "nFiles": 50,
+  "blank": 737,
+  "comment": 109,
+  "code": 5071},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 20,
+  "code": 1630},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 259,
+  "comment": 0,
+  "code": 887},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 7456,
+  "comment": 5361,
+  "code": 43013,
+  "nFiles": 187} }

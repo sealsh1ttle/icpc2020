@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.97192001342773,
+  "n_files"            : 37,
+  "n_lines"            : 8153,
+  "files_per_second"   : 6.19566235261127,
+  "lines_per_second"   : 1365.22257191459,
+  "report_file"        : "loc/LisaDziuba__Awesome-Design-Tools.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5187},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 241,
+  "comment": 0,
+  "code": 850},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 202,
+  "comment": 132,
+  "code": 761},
+"JavaScript" :{
+  "nFiles": 24,
+  "blank": 62,
+  "comment": 1,
+  "code": 568},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 1,
+  "code": 75},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 64},
+"SUM": {
+  "blank": 514,
+  "comment": 134,
+  "code": 7505,
+  "nFiles": 37} }

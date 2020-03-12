@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.53289103508,
+  "n_files"            : 65,
+  "n_lines"            : 20143,
+  "files_per_second"   : 4.47261318089435,
+  "lines_per_second"   : 1386.02842004238,
+  "report_file"        : "loc/kiegroup__droolsjbpm-build-bootstrap.json"},
+"Maven" :{
+  "nFiles": 12,
+  "blank": 727,
+  "comment": 530,
+  "code": 12939},
+"Bourne Shell" :{
+  "nFiles": 36,
+  "blank": 407,
+  "comment": 274,
+  "code": 1450},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 879,
+  "comment": 0,
+  "code": 1277},
+"XML" :{
+  "nFiles": 7,
+  "blank": 7,
+  "comment": 22,
+  "code": 623},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 110,
+  "comment": 46,
+  "code": 575},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 34,
+  "code": 124},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 5,
+  "code": 60},
+"SUM": {
+  "blank": 2184,
+  "comment": 911,
+  "code": 17048,
+  "nFiles": 65} }

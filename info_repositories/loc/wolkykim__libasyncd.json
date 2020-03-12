@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.142893075943,
+  "n_files"            : 63,
+  "n_lines"            : 22736,
+  "files_per_second"   : 5.18821994116155,
+  "lines_per_second"   : 1872.37092987697,
+  "report_file"        : "loc/wolkykim__libasyncd.json"},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 487,
+  "comment": 84,
+  "code": 9553},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 690,
+  "comment": 808,
+  "code": 5147},
+"C" :{
+  "nFiles": 7,
+  "blank": 254,
+  "comment": 662,
+  "code": 1299},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 255,
+  "comment": 39,
+  "code": 1275},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 58,
+  "comment": 71,
+  "code": 1134},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 73,
+  "comment": 199,
+  "code": 348},
+"m4" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 150},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 99},
+"SUM": {
+  "blank": 1868,
+  "comment": 1863,
+  "code": 19005,
+  "nFiles": 63} }

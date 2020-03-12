@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.8980619907379,
+  "n_files"            : 49,
+  "n_lines"            : 5977,
+  "files_per_second"   : 2.89974081210364,
+  "lines_per_second"   : 353.709200692724,
+  "report_file"        : "loc/Metaswitch__ralf.json"},
+"C++" :{
+  "nFiles": 13,
+  "blank": 548,
+  "comment": 413,
+  "code": 2977},
+"C/C++ Header" :{
+  "nFiles": 11,
+  "blank": 113,
+  "comment": 244,
+  "code": 428},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 69,
+  "comment": 172,
+  "code": 300},
+"make" :{
+  "nFiles": 10,
+  "blank": 86,
+  "comment": 27,
+  "code": 252},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 119},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 50,
+  "comment": 0,
+  "code": 90},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 38,
+  "code": 35},
+"SUM": {
+  "blank": 882,
+  "comment": 894,
+  "code": 4201,
+  "nFiles": 49} }

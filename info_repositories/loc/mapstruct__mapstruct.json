@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 830.289803981781,
+  "n_files"            : 2648,
+  "n_lines"            : 142203,
+  "files_per_second"   : 3.18924788345119,
+  "lines_per_second"   : 171.269115094566,
+  "report_file"        : "loc/mapstruct__mapstruct.json"},
+"Java" :{
+  "nFiles": 2516,
+  "blank": 22616,
+  "comment": 26850,
+  "code": 83172},
+"Maven" :{
+  "nFiles": 36,
+  "blank": 267,
+  "comment": 187,
+  "code": 2387},
+"AsciiDoc" :{
+  "nFiles": 14,
+  "blank": 732,
+  "comment": 58,
+  "code": 2365},
+"Freemarker Template" :{
+  "nFiles": 63,
+  "blank": 267,
+  "comment": 419,
+  "code": 1301},
+"XML" :{
+  "nFiles": 10,
+  "blank": 79,
+  "comment": 131,
+  "code": 996},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 0,
+  "code": 151},
+"XSD" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 12,
+  "code": 72},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 10,
+  "code": 36},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 5,
+  "code": 12},
+"SUM": {
+  "blank": 24039,
+  "comment": 27672,
+  "code": 90492,
+  "nFiles": 2648} }

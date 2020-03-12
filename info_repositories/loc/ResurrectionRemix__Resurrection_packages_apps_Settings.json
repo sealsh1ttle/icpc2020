@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1048.2332239151,
+  "n_files"            : 4408,
+  "n_lines"            : 926388,
+  "files_per_second"   : 4.20517104345952,
+  "lines_per_second"   : 883.761341335839,
+  "report_file"        : "loc/ResurrectionRemix__Resurrection_packages_apps_Settings.json"},
+"XML" :{
+  "nFiles": 1796,
+  "blank": 13378,
+  "comment": 33330,
+  "code": 503927},
+"Java" :{
+  "nFiles": 2603,
+  "blank": 54556,
+  "comment": 55342,
+  "code": 265501},
+"make" :{
+  "nFiles": 7,
+  "blank": 56,
+  "comment": 71,
+  "code": 160},
+"Python" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 4,
+  "code": 29},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 68007,
+  "comment": 88747,
+  "code": 769634,
+  "nFiles": 4408} }

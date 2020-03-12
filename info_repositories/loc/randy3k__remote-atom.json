@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.829736948013306,
+  "n_files"            : 8,
+  "n_lines"            : 383,
+  "files_per_second"   : 9.64160993331071,
+  "lines_per_second"   : 461.59207555725,
+  "report_file"        : "loc/randy3k__remote-atom.json"},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 5,
+  "code": 197},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 0,
+  "code": 83},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"CSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 62,
+  "comment": 5,
+  "code": 316,
+  "nFiles": 8} }

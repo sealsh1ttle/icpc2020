@@ -1,0 +1,154 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 210.761991977692,
+  "n_files"            : 10234,
+  "n_lines"            : 3143382,
+  "files_per_second"   : 48.5571421297025,
+  "lines_per_second"   : 14914.3684328658,
+  "report_file"        : "loc/jayunit100__kubernetes.json"},
+"Go" :{
+  "nFiles": 8103,
+  "blank": 260987,
+  "comment": 384934,
+  "code": 1928962},
+"HTML" :{
+  "nFiles": 54,
+  "blank": 3077,
+  "comment": 4,
+  "code": 201890},
+"JSON" :{
+  "nFiles": 139,
+  "blank": 6,
+  "comment": 0,
+  "code": 199803},
+"Bourne Shell" :{
+  "nFiles": 370,
+  "blank": 6057,
+  "comment": 11666,
+  "code": 28174},
+"Markdown" :{
+  "nFiles": 622,
+  "blank": 9254,
+  "comment": 0,
+  "code": 28173},
+"YAML" :{
+  "nFiles": 549,
+  "blank": 621,
+  "comment": 1823,
+  "code": 18336},
+"JavaScript" :{
+  "nFiles": 21,
+  "blank": 1581,
+  "comment": 4298,
+  "code": 8038},
+"Protocol Buffers" :{
+  "nFiles": 55,
+  "blank": 2885,
+  "comment": 7922,
+  "code": 6126},
+"PO File" :{
+  "nFiles": 5,
+  "blank": 490,
+  "comment": 828,
+  "code": 5721},
+"Python" :{
+  "nFiles": 25,
+  "blank": 727,
+  "comment": 945,
+  "code": 2449},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 7,
+  "comment": 7,
+  "code": 2337},
+"Assembly" :{
+  "nFiles": 29,
+  "blank": 216,
+  "comment": 266,
+  "code": 2075},
+"SaltStack" :{
+  "nFiles": 46,
+  "blank": 207,
+  "comment": 160,
+  "code": 1697},
+"make" :{
+  "nFiles": 79,
+  "blank": 541,
+  "comment": 1239,
+  "code": 1533},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 5,
+  "code": 1516},
+"Bourne Again Shell" :{
+  "nFiles": 19,
+  "blank": 191,
+  "comment": 214,
+  "code": 925},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 153,
+  "comment": 139,
+  "code": 907},
+"Dockerfile" :{
+  "nFiles": 71,
+  "blank": 285,
+  "comment": 1083,
+  "code": 763},
+"Java" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 71,
+  "code": 200},
+"XML" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 24,
+  "code": 187},
+"sed" :{
+  "nFiles": 6,
+  "blank": 5,
+  "comment": 41,
+  "code": 173},
+"C" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 33,
+  "code": 71},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 26,
+  "code": 57},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 4,
+  "code": 40},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 35},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 287429,
+  "comment": 415732,
+  "code": 2440221,
+  "nFiles": 10234} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.9585819244385,
+  "n_files"            : 154,
+  "n_lines"            : 9795,
+  "files_per_second"   : 6.42775939267571,
+  "lines_per_second"   : 408.830540592588,
+  "report_file"        : "loc/theforeman__kafo.json"},
+"Ruby" :{
+  "nFiles": 130,
+  "blank": 1225,
+  "comment": 216,
+  "code": 6863},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 247,
+  "comment": 0,
+  "code": 899},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 82},
+"Puppet" :{
+  "nFiles": 7,
+  "blank": 4,
+  "comment": 81,
+  "code": 68},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 3,
+  "code": 48},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 1496,
+  "comment": 300,
+  "code": 7999,
+  "nFiles": 154} }

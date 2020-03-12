@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.64042592048645,
+  "n_files"            : 17,
+  "n_lines"            : 1166,
+  "files_per_second"   : 3.66345682299307,
+  "lines_per_second"   : 251.27003856529,
+  "report_file"        : "loc/semantic-release__commit-analyzer.json"},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 123,
+  "comment": 91,
+  "code": 636},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 0,
+  "code": 146},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 101},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 21},
+"SUM": {
+  "blank": 168,
+  "comment": 94,
+  "code": 904,
+  "nFiles": 17} }

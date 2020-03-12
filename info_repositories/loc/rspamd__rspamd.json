@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 246.24299287796,
+  "n_files"            : 973,
+  "n_lines"            : 386252,
+  "files_per_second"   : 3.95138147334907,
+  "lines_per_second"   : 1568.58067507094,
+  "report_file"        : "loc/rspamd__rspamd.json"},
+"C" :{
+  "nFiles": 250,
+  "blank": 34296,
+  "comment": 20865,
+  "code": 185055},
+"Lua" :{
+  "nFiles": 202,
+  "blank": 7409,
+  "comment": 6001,
+  "code": 48333},
+"C/C++ Header" :{
+  "nFiles": 203,
+  "blank": 5506,
+  "comment": 14045,
+  "code": 25548},
+"C++" :{
+  "nFiles": 13,
+  "blank": 603,
+  "comment": 686,
+  "code": 4900},
+"Softbridge Basic" :{
+  "nFiles": 31,
+  "blank": 867,
+  "comment": 1382,
+  "code": 3641},
+"RobotFramework" :{
+  "nFiles": 68,
+  "blank": 627,
+  "comment": 272,
+  "code": 3017},
+"CMake" :{
+  "nFiles": 37,
+  "blank": 422,
+  "comment": 399,
+  "code": 2759},
+"Assembly" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 63,
+  "code": 2453},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 639,
+  "comment": 313,
+  "code": 2442},
+"JavaScript" :{
+  "nFiles": 19,
+  "blank": 212,
+  "comment": 256,
+  "code": 2339},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 837,
+  "comment": 0,
+  "code": 2262},
+"Pascal" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 3,
+  "code": 1606},
+"Python" :{
+  "nFiles": 15,
+  "blank": 304,
+  "comment": 132,
+  "code": 1147},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 38,
+  "code": 603},
+"Java" :{
+  "nFiles": 4,
+  "blank": 61,
+  "comment": 53,
+  "code": 433},
+"JSON" :{
+  "nFiles": 51,
+  "blank": 2,
+  "comment": 0,
+  "code": 427},
+"diff" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 227,
+  "code": 426},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 14,
+  "code": 375},
+"make" :{
+  "nFiles": 3,
+  "blank": 67,
+  "comment": 8,
+  "code": 363},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 47,
+  "comment": 68,
+  "code": 337},
+"SQL" :{
+  "nFiles": 9,
+  "blank": 14,
+  "comment": 0,
+  "code": 313},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 34,
+  "comment": 25,
+  "code": 186},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 38,
+  "code": 92},
+"XML" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 80,
+  "code": 65},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 19},
+"Mathematica" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 52141,
+  "comment": 44969,
+  "code": 289142,
+  "nFiles": 973} }

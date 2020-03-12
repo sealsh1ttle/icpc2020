@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0351381301879883,
+  "n_files"            : 2,
+  "n_lines"            : 233,
+  "files_per_second"   : 56.9182249966074,
+  "lines_per_second"   : 6630.97321210476,
+  "report_file"        : "loc/dzharii__awesome-typescript.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 0,
+  "code": 195},
+"SUM": {
+  "blank": 38,
+  "comment": 0,
+  "code": 195,
+  "nFiles": 2} }

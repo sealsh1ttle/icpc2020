@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.869232892990112,
+  "n_files"            : 68,
+  "n_lines"            : 5380,
+  "files_per_second"   : 78.2298973593646,
+  "lines_per_second"   : 6189.3654087262,
+  "report_file"        : "loc/gigaherz__ToolBelt.json"},
+"Java" :{
+  "nFiles": 51,
+  "blank": 740,
+  "comment": 247,
+  "code": 3875},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 138},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 10,
+  "code": 64},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 804,
+  "comment": 282,
+  "code": 4294,
+  "nFiles": 68} }

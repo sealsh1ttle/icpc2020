@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.253298997879028,
+  "n_files"            : 26,
+  "n_lines"            : 2283,
+  "files_per_second"   : 102.645490971967,
+  "lines_per_second"   : 9013.06368803846,
+  "report_file"        : "loc/polo123qwe__Chii-discontinued.json"},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 236,
+  "comment": 274,
+  "code": 1644},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 236,
+  "comment": 274,
+  "code": 1773,
+  "nFiles": 26} }

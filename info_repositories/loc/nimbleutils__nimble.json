@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.487551212310791,
+  "n_files"            : 94,
+  "n_lines"            : 3655,
+  "files_per_second"   : 192.800258980957,
+  "lines_per_second"   : 7496.64836782338,
+  "report_file"        : "loc/nimbleutils__nimble.json"},
+"Sass" :{
+  "nFiles": 37,
+  "blank": 347,
+  "comment": 1,
+  "code": 1042},
+"Vuejs Component" :{
+  "nFiles": 5,
+  "blank": 71,
+  "comment": 3,
+  "code": 503},
+"TypeScript" :{
+  "nFiles": 21,
+  "blank": 61,
+  "comment": 19,
+  "code": 480},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 151,
+  "comment": 0,
+  "code": 407},
+"SVG" :{
+  "nFiles": 11,
+  "blank": 3,
+  "comment": 7,
+  "code": 358},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 87},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 1,
+  "code": 56},
+"Stylus" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 5,
+  "code": 35},
+"SUM": {
+  "blank": 651,
+  "comment": 36,
+  "code": 2968,
+  "nFiles": 94} }

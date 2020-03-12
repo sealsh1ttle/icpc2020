@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.05752897262573,
+  "n_files"            : 13,
+  "n_lines"            : 4937,
+  "files_per_second"   : 6.31825853874123,
+  "lines_per_second"   : 2399.48018505888,
+  "report_file"        : "loc/ironhack-labs__lab-javascript-advanced-algorithms.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 875,
+  "comment": 168,
+  "code": 3612},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 70,
+  "comment": 0,
+  "code": 88},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 57},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 36},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 952,
+  "comment": 170,
+  "code": 3815,
+  "nFiles": 13} }

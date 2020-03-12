@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 80.3847720623016,
+  "n_files"            : 437,
+  "n_lines"            : 70209,
+  "files_per_second"   : 5.43635304036573,
+  "lines_per_second"   : 873.4116947621,
+  "report_file"        : "loc/ocaml-sf__learn-ocaml.json"},
+"JavaScript" :{
+  "nFiles": 217,
+  "blank": 2982,
+  "comment": 3769,
+  "code": 26065},
+"OCaml" :{
+  "nFiles": 127,
+  "blank": 2789,
+  "comment": 2364,
+  "code": 19768},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 157,
+  "comment": 88,
+  "code": 3433},
+"SVG" :{
+  "nFiles": 27,
+  "blank": 27,
+  "comment": 27,
+  "code": 2733},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 557,
+  "comment": 0,
+  "code": 1782},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 1009},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 12,
+  "comment": 164,
+  "code": 600},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 230,
+  "comment": 312,
+  "code": 471},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 73,
+  "comment": 18,
+  "code": 408},
+"make" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 2,
+  "code": 117},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 71},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 7,
+  "code": 55},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 6905,
+  "comment": 6751,
+  "code": 56553,
+  "nFiles": 437} }

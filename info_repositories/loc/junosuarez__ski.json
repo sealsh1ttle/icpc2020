@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0775301456451416,
+  "n_files"            : 8,
+  "n_lines"            : 142,
+  "files_per_second"   : 103.185669695712,
+  "lines_per_second"   : 1831.54563709888,
+  "report_file"        : "loc/junosuarez__ski.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 0,
+  "code": 52},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 37},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 31,
+  "comment": 0,
+  "code": 111,
+  "nFiles": 8} }

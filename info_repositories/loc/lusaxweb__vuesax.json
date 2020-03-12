@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 83.7911639213562,
+  "n_files"            : 429,
+  "n_lines"            : 137910,
+  "files_per_second"   : 5.1198715941295,
+  "lines_per_second"   : 1645.87760267226,
+  "report_file"        : "loc/lusaxweb__vuesax.json"},
+"JavaScript" :{
+  "nFiles": 58,
+  "blank": 11275,
+  "comment": 11719,
+  "code": 63830},
+"Vuejs Component" :{
+  "nFiles": 255,
+  "blank": 1894,
+  "comment": 503,
+  "code": 26038},
+"Markdown" :{
+  "nFiles": 48,
+  "blank": 2375,
+  "comment": 0,
+  "code": 12587},
+"Stylus" :{
+  "nFiles": 50,
+  "blank": 499,
+  "comment": 291,
+  "code": 4842},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 78,
+  "comment": 7,
+  "code": 1025},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 4,
+  "code": 495},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 101},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 56,
+  "comment": 26,
+  "code": 85},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 66},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 4,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 16239,
+  "comment": 12555,
+  "code": 109116,
+  "nFiles": 429} }

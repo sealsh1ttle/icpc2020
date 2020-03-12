@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 429.61811709404,
+  "n_files"            : 1973,
+  "n_lines"            : 1887510,
+  "files_per_second"   : 4.59245064743889,
+  "lines_per_second"   : 4393.45997037373,
+  "report_file"        : "loc/libretro__fbalpha.json"},
+"C++" :{
+  "nFiles": 1016,
+  "blank": 255067,
+  "comment": 45755,
+  "code": 986111},
+"C" :{
+  "nFiles": 272,
+  "blank": 38996,
+  "comment": 25593,
+  "code": 197029},
+"Assembly" :{
+  "nFiles": 13,
+  "blank": 15040,
+  "comment": 11031,
+  "code": 124388},
+"C/C++ Header" :{
+  "nFiles": 590,
+  "blank": 17296,
+  "comment": 26215,
+  "code": 117593},
+"XML" :{
+  "nFiles": 5,
+  "blank": 4,
+  "comment": 5,
+  "code": 8424},
+"HTML" :{
+  "nFiles": 29,
+  "blank": 669,
+  "comment": 25,
+  "code": 5805},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3112},
+"Windows Resource File" :{
+  "nFiles": 5,
+  "blank": 151,
+  "comment": 75,
+  "code": 2027},
+"Qt" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 1842},
+"ProGuard" :{
+  "nFiles": 2,
+  "blank": 200,
+  "comment": 223,
+  "code": 1821},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 249,
+  "comment": 66,
+  "code": 849},
+"make" :{
+  "nFiles": 11,
+  "blank": 150,
+  "comment": 37,
+  "code": 510},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 5,
+  "code": 436},
+"Python" :{
+  "nFiles": 3,
+  "blank": 87,
+  "comment": 52,
+  "code": 325},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 0,
+  "code": 76},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 56},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 328009,
+  "comment": 109082,
+  "code": 1450419,
+  "nFiles": 1973} }

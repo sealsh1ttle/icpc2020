@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.4059729576111,
+  "n_files"            : 129,
+  "n_lines"            : 15849,
+  "files_per_second"   : 3.86158487776088,
+  "lines_per_second"   : 474.436114167692,
+  "report_file"        : "loc/hunkim__DeepLearningZeroToAll.json"},
+"Python" :{
+  "nFiles": 109,
+  "blank": 1812,
+  "comment": 2536,
+  "code": 5002},
+"Jupyter Notebook" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 5433,
+  "code": 844},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 63,
+  "comment": 0,
+  "code": 147},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 9},
+"SUM": {
+  "blank": 1876,
+  "comment": 7971,
+  "code": 6002,
+  "nFiles": 129} }

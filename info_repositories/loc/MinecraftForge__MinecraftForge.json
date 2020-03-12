@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 532.386955976486,
+  "n_files"            : 1843,
+  "n_lines"            : 149177,
+  "files_per_second"   : 3.46176775991747,
+  "lines_per_second"   : 280.204085252961,
+  "report_file"        : "loc/MinecraftForge__MinecraftForge.json"},
+"Java" :{
+  "nFiles": 807,
+  "blank": 12258,
+  "comment": 36631,
+  "code": 55335},
+"JSON" :{
+  "nFiles": 481,
+  "blank": 11,
+  "comment": 0,
+  "code": 20684},
+"diff" :{
+  "nFiles": 528,
+  "blank": 1720,
+  "comment": 10382,
+  "code": 9400},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 140,
+  "comment": 82,
+  "code": 1248},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 135,
+  "comment": 0,
+  "code": 317},
+"TOML" :{
+  "nFiles": 6,
+  "blank": 7,
+  "comment": 68,
+  "code": 139},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"SAS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 96},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 9,
+  "code": 83},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 20,
+  "code": 68},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 66},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 14325,
+  "comment": 47216,
+  "code": 87636,
+  "nFiles": 1843} }

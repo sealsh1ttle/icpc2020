@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.7104380130768,
+  "n_files"            : 71,
+  "n_lines"            : 102871,
+  "files_per_second"   : 1.32190320218044,
+  "lines_per_second"   : 1915.28879311977,
+  "report_file"        : "loc/HazWard__COMP353.json"},
+"SQL" :{
+  "nFiles": 7,
+  "blank": 85,
+  "comment": 16,
+  "code": 11410},
+"PHP" :{
+  "nFiles": 37,
+  "blank": 33762,
+  "comment": 53901,
+  "code": 2146},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 59,
+  "comment": 0,
+  "code": 552},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 35,
+  "comment": 15,
+  "code": 515},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 0,
+  "code": 221},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 0,
+  "code": 96},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 22},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 33972,
+  "comment": 53932,
+  "code": 14967,
+  "nFiles": 71} }

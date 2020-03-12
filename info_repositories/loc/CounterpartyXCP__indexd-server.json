@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.11335778236389,
+  "n_files"            : 9,
+  "n_lines"            : 4304,
+  "files_per_second"   : 4.25862581106975,
+  "lines_per_second"   : 2036.56949898269,
+  "report_file"        : "loc/CounterpartyXCP__indexd-server.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3601},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 87,
+  "comment": 16,
+  "code": 391},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 137},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 130,
+  "comment": 19,
+  "code": 4155,
+  "nFiles": 9} }

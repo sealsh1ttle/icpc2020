@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.56691288948059,
+  "n_files"            : 25,
+  "n_lines"            : 8274,
+  "files_per_second"   : 5.47415740238552,
+  "lines_per_second"   : 1811.72713389351,
+  "report_file"        : "loc/lappis-unb__hubot-natural.json"},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 336,
+  "comment": 2640,
+  "code": 3946},
+"CoffeeScript" :{
+  "nFiles": 10,
+  "blank": 121,
+  "comment": 7,
+  "code": 443},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 155,
+  "comment": 0,
+  "code": 411},
+"Python" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 3,
+  "code": 98},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 46},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 657,
+  "comment": 2650,
+  "code": 4967,
+  "nFiles": 25} }

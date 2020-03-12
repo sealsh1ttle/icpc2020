@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.4543669223785,
+  "n_files"            : 49,
+  "n_lines"            : 9166,
+  "files_per_second"   : 3.93436296725406,
+  "lines_per_second"   : 735.966754241851,
+  "report_file"        : "loc/IBM-Swift__Kitura-WebSocket.json"},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 365,
+  "comment": 0,
+  "code": 2725},
+"Swift" :{
+  "nFiles": 23,
+  "blank": 562,
+  "comment": 569,
+  "code": 2080},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 16,
+  "code": 1622},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 59,
+  "code": 454},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 122,
+  "comment": 0,
+  "code": 407},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 73},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1129,
+  "comment": 649,
+  "code": 7388,
+  "nFiles": 49} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.75932288169861,
+  "n_files"            : 212,
+  "n_lines"            : 64560,
+  "files_per_second"   : 120.500905322914,
+  "lines_per_second"   : 36695.9360738081,
+  "report_file"        : "loc/Azure__Azurite.json"},
+"TypeScript" :{
+  "nFiles": 192,
+  "blank": 3900,
+  "comment": 8964,
+  "code": 34908},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 1,
+  "comment": 0,
+  "code": 15712},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 223,
+  "comment": 0,
+  "code": 470},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 5,
+  "code": 311},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 11},
+"SUM": {
+  "blank": 4176,
+  "comment": 8972,
+  "code": 51412,
+  "nFiles": 212} }

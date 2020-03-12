@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.4468700885773,
+  "n_files"            : 594,
+  "n_lines"            : 42904,
+  "files_per_second"   : 25.333871760111,
+  "lines_per_second"   : 1829.83911447105,
+  "report_file"        : "loc/sigmavirus24__github3.py.json"},
+"Python" :{
+  "nFiles": 122,
+  "blank": 7421,
+  "comment": 10891,
+  "code": 17176},
+"reStructuredText" :{
+  "nFiles": 61,
+  "blank": 1236,
+  "comment": 643,
+  "code": 1879},
+"JSON" :{
+  "nFiles": 394,
+  "blank": 0,
+  "comment": 0,
+  "code": 745},
+"INI" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 84},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 3,
+  "code": 76},
+"Jupyter Notebook" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 2604,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 29},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 15},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 8709,
+  "comment": 14144,
+  "code": 20051,
+  "nFiles": 594} }

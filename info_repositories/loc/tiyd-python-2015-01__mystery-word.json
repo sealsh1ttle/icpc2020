@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.314177989959717,
+  "n_files"            : 1,
+  "n_lines"            : 135,
+  "files_per_second"   : 3.18290915327397,
+  "lines_per_second"   : 429.692735691986,
+  "report_file"        : "loc/tiyd-python-2015-01__mystery-word.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 0,
+  "code": 88},
+"SUM": {
+  "blank": 47,
+  "comment": 0,
+  "code": 88,
+  "nFiles": 1} }

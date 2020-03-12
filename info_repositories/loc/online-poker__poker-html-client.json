@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.42508006095886,
+  "n_files"            : 205,
+  "n_lines"            : 37652,
+  "files_per_second"   : 143.851567091652,
+  "lines_per_second"   : 26420.9717274873,
+  "report_file"        : "loc/online-poker__poker-html-client.json"},
+"TypeScript" :{
+  "nFiles": 164,
+  "blank": 2442,
+  "comment": 1955,
+  "code": 23676},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 8637},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 1,
+  "comment": 113,
+  "code": 587},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 6,
+  "comment": 7,
+  "code": 139},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 46},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 2469,
+  "comment": 2075,
+  "code": 33108,
+  "nFiles": 205} }

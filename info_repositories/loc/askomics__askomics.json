@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.4657990932465,
+  "n_files"            : 236,
+  "n_lines"            : 48490,
+  "files_per_second"   : 5.07900444209301,
+  "lines_per_second"   : 1043.56324320801,
+  "report_file"        : "loc/askomics__askomics.json"},
+"JavaScript" :{
+  "nFiles": 75,
+  "blank": 2749,
+  "comment": 2513,
+  "code": 15930},
+"Python" :{
+  "nFiles": 57,
+  "blank": 2628,
+  "comment": 2257,
+  "code": 7085},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 0,
+  "code": 6043},
+"CSS" :{
+  "nFiles": 22,
+  "blank": 757,
+  "comment": 112,
+  "code": 3075},
+"RobotFramework" :{
+  "nFiles": 35,
+  "blank": 5,
+  "comment": 0,
+  "code": 1281},
+"Handlebars" :{
+  "nFiles": 21,
+  "blank": 55,
+  "comment": 9,
+  "code": 1103},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 973},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 318,
+  "comment": 4,
+  "code": 604},
+"XML" :{
+  "nFiles": 2,
+  "blank": 52,
+  "comment": 56,
+  "code": 360},
+"INI" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 1,
+  "code": 112},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 15,
+  "code": 104},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 13,
+  "code": 69},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 12,
+  "code": 37},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 21,
+  "code": 8},
+"SUM": {
+  "blank": 6649,
+  "comment": 5020,
+  "code": 36821,
+  "nFiles": 236} }

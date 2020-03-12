@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.65165495872498,
+  "n_files"            : 54,
+  "n_lines"            : 6236,
+  "files_per_second"   : 9.55472342072746,
+  "lines_per_second"   : 1103.39361577142,
+  "report_file"        : "loc/StylishThemes__StackOverflow-Dark.json"},
+"CSS" :{
+  "nFiles": 27,
+  "blank": 398,
+  "comment": 486,
+  "code": 4824},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 149},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 10,
+  "code": 134},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 114},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 465,
+  "comment": 497,
+  "code": 5274,
+  "nFiles": 54} }

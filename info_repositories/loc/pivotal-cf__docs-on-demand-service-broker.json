@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.70611810684204,
+  "n_files"            : 24,
+  "n_lines"            : 6969,
+  "files_per_second"   : 4.20601178430259,
+  "lines_per_second"   : 1221.32067186686,
+  "report_file"        : "loc/pivotal-cf__docs-on-demand-service-broker.json"},
+"ERB" :{
+  "nFiles": 20,
+  "blank": 1562,
+  "comment": 55,
+  "code": 5247},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 55},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1591,
+  "comment": 55,
+  "code": 5323,
+  "nFiles": 24} }

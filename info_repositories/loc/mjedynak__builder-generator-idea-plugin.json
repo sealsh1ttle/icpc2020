@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.0993981361389,
+  "n_files"            : 89,
+  "n_lines"            : 7542,
+  "files_per_second"   : 2.8617917173316,
+  "lines_per_second"   : 242.512731821516,
+  "report_file"        : "loc/mjedynak__builder-generator-idea-plugin.json"},
+"Java" :{
+  "nFiles": 81,
+  "blank": 1166,
+  "comment": 342,
+  "code": 5310},
+"XML" :{
+  "nFiles": 3,
+  "blank": 51,
+  "comment": 81,
+  "code": 241},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 5,
+  "code": 62},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1279,
+  "comment": 451,
+  "code": 5812,
+  "nFiles": 89} }

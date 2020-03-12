@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.730223894119263,
+  "n_files"            : 140,
+  "n_lines"            : 17834,
+  "files_per_second"   : 191.722019955067,
+  "lines_per_second"   : 24422.6464562762,
+  "report_file"        : "loc/puppetlabs__puppetlabs-postgresql.json"},
+"Ruby" :{
+  "nFiles": 76,
+  "blank": 819,
+  "comment": 135,
+  "code": 5289},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 2936,
+  "comment": 0,
+  "code": 4523},
+"Puppet" :{
+  "nFiles": 38,
+  "blank": 268,
+  "comment": 658,
+  "code": 2474},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 7,
+  "comment": 18,
+  "code": 431},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 136},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 59},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 24},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 17},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 4042,
+  "comment": 815,
+  "code": 12977,
+  "nFiles": 140} }

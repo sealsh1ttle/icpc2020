@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 75.7225399017334,
+  "n_files"            : 397,
+  "n_lines"            : 21398,
+  "files_per_second"   : 5.24282466640969,
+  "lines_per_second"   : 282.584287687241,
+  "report_file"        : "loc/kubernetes__examples.json"},
+"Markdown" :{
+  "nFiles": 67,
+  "blank": 2360,
+  "comment": 0,
+  "code": 6964},
+"YAML" :{
+  "nFiles": 221,
+  "blank": 142,
+  "comment": 1010,
+  "code": 5221},
+"Bourne Shell" :{
+  "nFiles": 35,
+  "blank": 323,
+  "comment": 616,
+  "code": 1203},
+"Go" :{
+  "nFiles": 7,
+  "blank": 91,
+  "comment": 111,
+  "code": 723},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 0,
+  "code": 684},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 45,
+  "code": 222},
+"make" :{
+  "nFiles": 8,
+  "blank": 67,
+  "comment": 118,
+  "code": 179},
+"Dockerfile" :{
+  "nFiles": 15,
+  "blank": 68,
+  "comment": 219,
+  "code": 160},
+"Java" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 67,
+  "code": 102},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 0,
+  "code": 81},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 12,
+  "code": 72},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 61},
+"Python" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 42,
+  "code": 56},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 53},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 11,
+  "code": 42},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 35},
+"XML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 12,
+  "code": 27},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 3238,
+  "comment": 2268,
+  "code": 15892,
+  "nFiles": 397} }

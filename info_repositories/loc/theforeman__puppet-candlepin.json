@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.98244214057922,
+  "n_files"            : 28,
+  "n_lines"            : 2208,
+  "files_per_second"   : 5.61973410026291,
+  "lines_per_second"   : 443.15617476359,
+  "report_file"        : "loc/theforeman__puppet-candlepin.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 245,
+  "comment": 0,
+  "code": 496},
+"Ruby" :{
+  "nFiles": 5,
+  "blank": 70,
+  "comment": 27,
+  "code": 389},
+"Puppet" :{
+  "nFiles": 10,
+  "blank": 47,
+  "comment": 212,
+  "code": 347},
+"ERB" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 0,
+  "code": 220},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 3,
+  "code": 53},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 399,
+  "comment": 242,
+  "code": 1567,
+  "nFiles": 28} }

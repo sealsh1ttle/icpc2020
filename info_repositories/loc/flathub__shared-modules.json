@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.0544528961182,
+  "n_files"            : 56,
+  "n_lines"            : 4724,
+  "files_per_second"   : 3.98450230783919,
+  "lines_per_second"   : 336.121230397006,
+  "report_file"        : "loc/flathub__shared-modules.json"},
+"diff" :{
+  "nFiles": 30,
+  "blank": 140,
+  "comment": 782,
+  "code": 2437},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 3,
+  "comment": 0,
+  "code": 1175},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 142},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 16},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 165,
+  "comment": 782,
+  "code": 3777,
+  "nFiles": 56} }

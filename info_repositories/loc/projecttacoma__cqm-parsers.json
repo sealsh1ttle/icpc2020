@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 124.734699010849,
+  "n_files"            : 422,
+  "n_lines"            : 764547,
+  "files_per_second"   : 3.38318048904175,
+  "lines_per_second"   : 6129.38505534456,
+  "report_file"        : "loc/projecttacoma__cqm-parsers.json"},
+"XML" :{
+  "nFiles": 229,
+  "blank": 2909,
+  "comment": 5442,
+  "code": 548351},
+"YAML" :{
+  "nFiles": 54,
+  "blank": 139,
+  "comment": 369,
+  "code": 144087},
+"XSD" :{
+  "nFiles": 19,
+  "blank": 26,
+  "comment": 139,
+  "code": 32294},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 16205},
+"Ruby" :{
+  "nFiles": 106,
+  "blank": 1807,
+  "comment": 1366,
+  "code": 8878},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 117,
+  "code": 1627},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 86,
+  "comment": 0,
+  "code": 581},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 37,
+  "comment": 0,
+  "code": 71},
+"SUM": {
+  "blank": 5020,
+  "comment": 7433,
+  "code": 752094,
+  "nFiles": 422} }

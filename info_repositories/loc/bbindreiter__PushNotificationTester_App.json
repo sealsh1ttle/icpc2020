@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.9623680114746,
+  "n_files"            : 28,
+  "n_lines"            : 1856,
+  "files_per_second"   : 2.16009914046675,
+  "lines_per_second"   : 143.183714453796,
+  "report_file"        : "loc/bbindreiter__PushNotificationTester_App.json"},
+"XML" :{
+  "nFiles": 15,
+  "blank": 182,
+  "comment": 9,
+  "code": 714},
+"Kotlin" :{
+  "nFiles": 4,
+  "blank": 114,
+  "comment": 8,
+  "code": 433},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 3,
+  "code": 66},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Java" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 12},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 366,
+  "comment": 61,
+  "code": 1429,
+  "nFiles": 28} }

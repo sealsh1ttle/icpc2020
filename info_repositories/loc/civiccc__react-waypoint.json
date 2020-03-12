@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.83812880516052,
+  "n_files"            : 32,
+  "n_lines"            : 3584,
+  "files_per_second"   : 5.48120828915493,
+  "lines_per_second"   : 613.895328385352,
+  "report_file"        : "loc/civiccc__react-waypoint.json"},
+"JSX" :{
+  "nFiles": 3,
+  "blank": 291,
+  "comment": 83,
+  "code": 1609},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 238,
+  "comment": 0,
+  "code": 573},
+"JavaScript" :{
+  "nFiles": 19,
+  "blank": 85,
+  "comment": 88,
+  "code": 336},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 104},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 39},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 62,
+  "code": 28},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 637,
+  "comment": 233,
+  "code": 2714,
+  "nFiles": 32} }

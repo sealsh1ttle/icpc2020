@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 199.757082939148,
+  "n_files"            : 1067,
+  "n_lines"            : 231406,
+  "files_per_second"   : 5.34148769245414,
+  "lines_per_second"   : 1158.43702058111,
+  "report_file"        : "loc/apache__incubator-iceberg.json"},
+"HTML" :{
+  "nFiles": 388,
+  "blank": 11,
+  "comment": 19010,
+  "code": 104228},
+"Java" :{
+  "nFiles": 482,
+  "blank": 12315,
+  "comment": 14163,
+  "code": 59342},
+"Python" :{
+  "nFiles": 155,
+  "blank": 3379,
+  "comment": 2518,
+  "code": 9805},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 587,
+  "comment": 0,
+  "code": 1334},
+"XML" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 26,
+  "code": 1072},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 49,
+  "code": 585},
+"INI" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 453},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 224,
+  "comment": 33,
+  "code": 448},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 67,
+  "code": 387},
+"Scala" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 69,
+  "code": 289},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 36,
+  "code": 79},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 20,
+  "code": 51},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 374,
+  "code": 50},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 16738,
+  "comment": 36387,
+  "code": 178281,
+  "nFiles": 1067} }

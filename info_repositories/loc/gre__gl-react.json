@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 114.972728013992,
+  "n_files"            : 436,
+  "n_lines"            : 35219,
+  "files_per_second"   : 3.79220366021878,
+  "lines_per_second"   : 306.324818140471,
+  "report_file"        : "loc/gre__gl-react.json"},
+"JavaScript" :{
+  "nFiles": 347,
+  "blank": 2071,
+  "comment": 2187,
+  "code": 26346},
+"JSON" :{
+  "nFiles": 25,
+  "blank": 0,
+  "comment": 0,
+  "code": 1859},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 56,
+  "comment": 9,
+  "code": 823},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 44,
+  "comment": 42,
+  "code": 258},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 125,
+  "comment": 0,
+  "code": 250},
+"XML" :{
+  "nFiles": 9,
+  "blank": 7,
+  "comment": 2,
+  "code": 237},
+"GLSL" :{
+  "nFiles": 8,
+  "blank": 25,
+  "comment": 16,
+  "code": 181},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 113,
+  "code": 117},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 18,
+  "code": 82},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"Java" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 6,
+  "code": 46},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 16},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 5},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 9,
+  "code": 0},
+"SUM": {
+  "blank": 2418,
+  "comment": 2411,
+  "code": 30390,
+  "nFiles": 436} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 72.3084859848022,
+  "n_files"            : 305,
+  "n_lines"            : 131370,
+  "files_per_second"   : 4.21803880756271,
+  "lines_per_second"   : 1816.79920704758,
+  "report_file"        : "loc/feedhenry__fh-js-sdk.json"},
+"JavaScript" :{
+  "nFiles": 245,
+  "blank": 12756,
+  "comment": 20107,
+  "code": 67369},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 12,
+  "comment": 0,
+  "code": 15269},
+"HTML" :{
+  "nFiles": 26,
+  "blank": 92,
+  "comment": 4,
+  "code": 9431},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 574,
+  "comment": 117,
+  "code": 2666},
+"XML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 1506},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 328,
+  "comment": 0,
+  "code": 532},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 59,
+  "comment": 380,
+  "code": 141},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 13824,
+  "comment": 20609,
+  "code": 96937,
+  "nFiles": 305} }

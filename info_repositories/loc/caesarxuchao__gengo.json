@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.9031929969788,
+  "n_files"            : 71,
+  "n_lines"            : 11416,
+  "files_per_second"   : 4.76407975219763,
+  "lines_per_second"   : 766.010344381523,
+  "report_file"        : "loc/caesarxuchao__gengo.json"},
+"Go" :{
+  "nFiles": 66,
+  "blank": 1233,
+  "comment": 2191,
+  "code": 7788},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 0,
+  "code": 75},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 13,
+  "code": 33},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 16,
+  "code": 4},
+"SUM": {
+  "blank": 1285,
+  "comment": 2220,
+  "code": 7911,
+  "nFiles": 71} }

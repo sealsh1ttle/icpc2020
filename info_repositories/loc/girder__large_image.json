@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 51.5755178928375,
+  "n_files"            : 155,
+  "n_lines"            : 21895,
+  "files_per_second"   : 3.00530186283453,
+  "lines_per_second"   : 424.523124430722,
+  "report_file"        : "loc/girder__large_image.json"},
+"Python" :{
+  "nFiles": 71,
+  "blank": 1596,
+  "comment": 3230,
+  "code": 10966},
+"JavaScript" :{
+  "nFiles": 61,
+  "blank": 443,
+  "comment": 415,
+  "code": 4306},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 373},
+"Pug" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 1,
+  "code": 158},
+"Stylus" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 0,
+  "code": 108},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 14,
+  "code": 90},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 10,
+  "code": 41},
+"INI" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 41},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2104,
+  "comment": 3670,
+  "code": 16121,
+  "nFiles": 155} }

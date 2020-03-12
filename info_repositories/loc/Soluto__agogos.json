@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.07725095748901,
+  "n_files"            : 181,
+  "n_lines"            : 10150,
+  "files_per_second"   : 168.020273030805,
+  "lines_per_second"   : 9422.13133294292,
+  "report_file"        : "loc/Soluto__agogos.json"},
+"Go" :{
+  "nFiles": 41,
+  "blank": 606,
+  "comment": 56,
+  "code": 2915},
+"TypeScript" :{
+  "nFiles": 47,
+  "blank": 308,
+  "comment": 29,
+  "code": 1922},
+"YAML" :{
+  "nFiles": 43,
+  "blank": 98,
+  "comment": 1,
+  "code": 1559},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 187,
+  "comment": 410,
+  "code": 661},
+"JSON" :{
+  "nFiles": 24,
+  "blank": 0,
+  "comment": 0,
+  "code": 481},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 79,
+  "comment": 0,
+  "code": 239},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 23,
+  "code": 177},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 40,
+  "comment": 8,
+  "code": 133},
+"GraphQL" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 0,
+  "code": 110},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 1397,
+  "comment": 527,
+  "code": 8226,
+  "nFiles": 181} }

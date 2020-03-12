@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0230319499969482,
+  "n_files"            : 2,
+  "n_lines"            : 64,
+  "files_per_second"   : 86.8358953655684,
+  "lines_per_second"   : 2778.74865169819,
+  "report_file"        : "loc/ivysrono__UpgradeMixedContentBlacklist.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 19,
+  "comment": 0,
+  "code": 45,
+  "nFiles": 2} }

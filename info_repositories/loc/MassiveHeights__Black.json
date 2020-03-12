@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.3158960342407,
+  "n_files"            : 260,
+  "n_lines"            : 93155,
+  "files_per_second"   : 4.3106381086074,
+  "lines_per_second"   : 1544.45189618201,
+  "report_file"        : "loc/MassiveHeights__Black.json"},
+"JavaScript" :{
+  "nFiles": 178,
+  "blank": 12459,
+  "comment": 35558,
+  "code": 43037},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 122,
+  "comment": 55,
+  "code": 525},
+"Handlebars" :{
+  "nFiles": 65,
+  "blank": 57,
+  "comment": 2,
+  "code": 437},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 70,
+  "comment": 0,
+  "code": 404},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 229},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 176},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 12708,
+  "comment": 35615,
+  "code": 44832,
+  "nFiles": 260} }

@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 862.559690952301,
+  "n_files"            : 2568,
+  "n_lines"            : 531791,
+  "files_per_second"   : 2.97718526258145,
+  "lines_per_second"   : 616.526607466297,
+  "report_file"        : "loc/ocaml__ocaml.json"},
+"OCaml" :{
+  "nFiles": 2060,
+  "blank": 41573,
+  "comment": 81002,
+  "code": 280460},
+"C" :{
+  "nFiles": 264,
+  "blank": 6166,
+  "comment": 7075,
+  "code": 38683},
+"Bourne Shell" :{
+  "nFiles": 48,
+  "blank": 4780,
+  "comment": 5352,
+  "code": 27096},
+"m4" :{
+  "nFiles": 9,
+  "blank": 1289,
+  "comment": 79,
+  "code": 10555},
+"C/C++ Header" :{
+  "nFiles": 69,
+  "blank": 1482,
+  "comment": 2266,
+  "code": 4455},
+"make" :{
+  "nFiles": 30,
+  "blank": 1031,
+  "comment": 691,
+  "code": 3597},
+"Assembly" :{
+  "nFiles": 15,
+  "blank": 409,
+  "comment": 1330,
+  "code": 3167},
+"MUMPS" :{
+  "nFiles": 7,
+  "blank": 256,
+  "comment": 0,
+  "code": 2903},
+"AsciiDoc" :{
+  "nFiles": 10,
+  "blank": 329,
+  "comment": 0,
+  "code": 1043},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 223,
+  "comment": 0,
+  "code": 809},
+"TeX" :{
+  "nFiles": 16,
+  "blank": 138,
+  "comment": 286,
+  "code": 800},
+"MATLAB" :{
+  "nFiles": 5,
+  "blank": 42,
+  "comment": 0,
+  "code": 603},
+"awk" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 93,
+  "code": 382},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 330},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 39,
+  "comment": 88,
+  "code": 248},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 12,
+  "code": 82},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 74},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 33,
+  "code": 62},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 51},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 14,
+  "code": 46},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"diff" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 45,
+  "code": 40},
+"Fortran 77" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 21},
+"C#" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 57868,
+  "comment": 98367,
+  "code": 375556,
+  "nFiles": 2568} }

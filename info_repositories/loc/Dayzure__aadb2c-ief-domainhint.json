@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.414222955703735,
+  "n_files"            : 2,
+  "n_lines"            : 196,
+  "files_per_second"   : 4.82831763054305,
+  "lines_per_second"   : 473.175127793219,
+  "report_file"        : "loc/Dayzure__aadb2c-ief-domainhint.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 116},
+"XML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 61},
+"SUM": {
+  "blank": 19,
+  "comment": 0,
+  "code": 177,
+  "nFiles": 2} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.1625509262085,
+  "n_files"            : 30,
+  "n_lines"            : 9859,
+  "files_per_second"   : 1.4175984787754,
+  "lines_per_second"   : 465.870113408221,
+  "report_file"        : "loc/TurboROM-Legacy__vendor_turbo.json"},
+"XML" :{
+  "nFiles": 9,
+  "blank": 22,
+  "comment": 325,
+  "code": 5443},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 323,
+  "comment": 205,
+  "code": 2916},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 34,
+  "comment": 29,
+  "code": 198},
+"make" :{
+  "nFiles": 8,
+  "blank": 48,
+  "comment": 79,
+  "code": 185},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 438,
+  "comment": 638,
+  "code": 8783,
+  "nFiles": 30} }

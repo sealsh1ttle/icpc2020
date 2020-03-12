@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.97552013397217,
+  "n_files"            : 342,
+  "n_lines"            : 42228,
+  "files_per_second"   : 68.7365322199926,
+  "lines_per_second"   : 8487.15287305804,
+  "report_file"        : "loc/highlightjs__highlight.js.json"},
+"JavaScript" :{
+  "nFiles": 227,
+  "blank": 1409,
+  "comment": 2316,
+  "code": 22152},
+"CSS" :{
+  "nFiles": 92,
+  "blank": 1235,
+  "comment": 698,
+  "code": 5817},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4142},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 595,
+  "comment": 1,
+  "code": 1841},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 392,
+  "comment": 27,
+  "code": 870},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 57,
+  "comment": 22,
+  "code": 229},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"Python" :{
+  "nFiles": 1,
+  "blank": 65,
+  "comment": 148,
+  "code": 29},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 3781,
+  "comment": 3217,
+  "code": 35230,
+  "nFiles": 342} }

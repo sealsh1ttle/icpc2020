@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.1218020915985,
+  "n_files"            : 82,
+  "n_lines"            : 5639,
+  "files_per_second"   : 5.80662435772162,
+  "lines_per_second"   : 399.311643331612,
+  "report_file"        : "loc/dowinterfor6__brochella.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 561,
+  "comment": 0,
+  "code": 1205},
+"JavaScript" :{
+  "nFiles": 48,
+  "blank": 233,
+  "comment": 97,
+  "code": 1137},
+"JSX" :{
+  "nFiles": 17,
+  "blank": 128,
+  "comment": 80,
+  "code": 1044},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 132,
+  "comment": 30,
+  "code": 890},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 16},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1057,
+  "comment": 225,
+  "code": 4357,
+  "nFiles": 82} }

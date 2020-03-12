@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.692533016204834,
+  "n_files"            : 7,
+  "n_lines"            : 959,
+  "files_per_second"   : 10.1078213402169,
+  "lines_per_second"   : 1384.77152360972,
+  "report_file"        : "loc/invenia__DeferredFutures.jl.json"},
+"Julia" :{
+  "nFiles": 2,
+  "blank": 162,
+  "comment": 12,
+  "code": 644},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 57},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 11,
+  "code": 35},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 186,
+  "comment": 23,
+  "code": 750,
+  "nFiles": 7} }

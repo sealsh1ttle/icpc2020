@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.6420669555664,
+  "n_files"            : 56,
+  "n_lines"            : 10376,
+  "files_per_second"   : 5.26213565783936,
+  "lines_per_second"   : 974.998564031094,
+  "report_file"        : "loc/gregariousToaster__Snippit.json"},
+"JavaScript" :{
+  "nFiles": 33,
+  "blank": 1163,
+  "comment": 436,
+  "code": 7126},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 164,
+  "comment": 7,
+  "code": 706},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 6,
+  "code": 667},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 8},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1366,
+  "comment": 449,
+  "code": 8561,
+  "nFiles": 56} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.84471893310547,
+  "n_files"            : 34,
+  "n_lines"            : 113604,
+  "files_per_second"   : 4.96733325828094,
+  "lines_per_second"   : 16597.3213962867,
+  "report_file"        : "loc/sukrat-kashyap__xam.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 19752,
+  "comment": 0,
+  "code": 88933},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 372,
+  "comment": 1969,
+  "code": 1528},
+"C#" :{
+  "nFiles": 10,
+  "blank": 62,
+  "comment": 25,
+  "code": 431},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 85},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 13,
+  "code": 78},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 10,
+  "code": 19},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 20206,
+  "comment": 2024,
+  "code": 91374,
+  "nFiles": 34} }

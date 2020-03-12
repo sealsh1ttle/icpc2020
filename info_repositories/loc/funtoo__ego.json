@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 97.6564350128174,
+  "n_files"            : 65,
+  "n_lines"            : 9965,
+  "files_per_second"   : 0.665598739002389,
+  "lines_per_second"   : 102.041406679366,
+  "report_file"        : "loc/funtoo__ego.json"},
+"Python" :{
+  "nFiles": 37,
+  "blank": 1359,
+  "comment": 1520,
+  "code": 5441},
+"reStructuredText" :{
+  "nFiles": 17,
+  "blank": 403,
+  "comment": 48,
+  "code": 1042},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 51},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 39},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 34},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 1774,
+  "comment": 1574,
+  "code": 6617,
+  "nFiles": 65} }

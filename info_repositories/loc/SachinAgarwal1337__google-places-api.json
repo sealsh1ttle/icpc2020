@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.113276958465576,
+  "n_files"            : 9,
+  "n_lines"            : 758,
+  "files_per_second"   : 79.4512857858469,
+  "lines_per_second"   : 6691.56384729688,
+  "report_file"        : "loc/SachinAgarwal1337__google-places-api.json"},
+"PHP" :{
+  "nFiles": 6,
+  "blank": 94,
+  "comment": 162,
+  "code": 244},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 59,
+  "comment": 0,
+  "code": 149},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 48},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 154,
+  "comment": 162,
+  "code": 442,
+  "nFiles": 9} }

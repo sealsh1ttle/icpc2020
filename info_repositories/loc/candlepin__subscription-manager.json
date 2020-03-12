@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 94.0581681728363,
+  "n_files"            : 546,
+  "n_lines"            : 254261,
+  "files_per_second"   : 5.80491849465641,
+  "lines_per_second"   : 2703.23146771032,
+  "report_file"        : "loc/candlepin__subscription-manager.json"},
+"PO File" :{
+  "nFiles": 33,
+  "blank": 24198,
+  "comment": 59869,
+  "code": 64344},
+"Python" :{
+  "nFiles": 332,
+  "blank": 14625,
+  "comment": 16454,
+  "code": 47714},
+"Glade" :{
+  "nFiles": 42,
+  "blank": 4,
+  "comment": 92,
+  "code": 9706},
+"C" :{
+  "nFiles": 8,
+  "blank": 494,
+  "comment": 606,
+  "code": 3061},
+"Qt" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 18,
+  "code": 2080},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 137,
+  "comment": 231,
+  "code": 1038},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 249,
+  "comment": 208,
+  "code": 998},
+"JSX" :{
+  "nFiles": 5,
+  "blank": 95,
+  "comment": 170,
+  "code": 984},
+"XML" :{
+  "nFiles": 7,
+  "blank": 83,
+  "comment": 53,
+  "code": 921},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 242,
+  "comment": 0,
+  "code": 659},
+"make" :{
+  "nFiles": 5,
+  "blank": 133,
+  "comment": 86,
+  "code": 611},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 7,
+  "comment": 7,
+  "code": 586},
+"YAML" :{
+  "nFiles": 16,
+  "blank": 99,
+  "comment": 38,
+  "code": 575},
+"Elixir" :{
+  "nFiles": 11,
+  "blank": 86,
+  "comment": 103,
+  "code": 515},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 234,
+  "comment": 424,
+  "code": 250},
+"LESS" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 109,
+  "code": 180},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 129},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 0,
+  "code": 122},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 55,
+  "code": 87},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 19,
+  "code": 72},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 11,
+  "code": 66},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 19,
+  "code": 58},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 22,
+  "code": 33},
+"INI" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 40854,
+  "comment": 78594,
+  "code": 134813,
+  "nFiles": 546} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.241618871688843,
+  "n_files"            : 28,
+  "n_lines"            : 1697,
+  "files_per_second"   : 115.884987808645,
+  "lines_per_second"   : 7023.45801111678,
+  "report_file"        : "loc/jenkinsci__lsf-cloud-plugin.json"},
+"Java" :{
+  "nFiles": 6,
+  "blank": 123,
+  "comment": 402,
+  "code": 837},
+"XML" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 57,
+  "code": 90},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 62},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 32},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 167,
+  "comment": 459,
+  "code": 1071,
+  "nFiles": 28} }

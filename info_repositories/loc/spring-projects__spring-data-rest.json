@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 114.539802074432,
+  "n_files"            : 490,
+  "n_lines"            : 52066,
+  "files_per_second"   : 4.27798888356363,
+  "lines_per_second"   : 454.56687594209,
+  "report_file"        : "loc/spring-projects__spring-data-rest.json"},
+"Java" :{
+  "nFiles": 424,
+  "blank": 8382,
+  "comment": 14277,
+  "code": 23409},
+"AsciiDoc" :{
+  "nFiles": 29,
+  "blank": 784,
+  "comment": 9,
+  "code": 2219},
+"Maven" :{
+  "nFiles": 14,
+  "blank": 206,
+  "comment": 95,
+  "code": 974},
+"XML" :{
+  "nFiles": 8,
+  "blank": 18,
+  "comment": 0,
+  "code": 383},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 60,
+  "code": 195},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 129},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 66,
+  "code": 104},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 65,
+  "comment": 452,
+  "code": 69},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 53},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 9554,
+  "comment": 14959,
+  "code": 27553,
+  "nFiles": 490} }

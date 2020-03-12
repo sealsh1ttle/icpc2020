@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.0720348358154,
+  "n_files"            : 1626,
+  "n_lines"            : 516434,
+  "files_per_second"   : 95.243479505373,
+  "lines_per_second"   : 30250.2897262471,
+  "report_file"        : "loc/fabianopecorelli__CrowdMine.json"},
+"JavaScript" :{
+  "nFiles": 441,
+  "blank": 35908,
+  "comment": 48374,
+  "code": 179923},
+"HTML" :{
+  "nFiles": 210,
+  "blank": 5635,
+  "comment": 4047,
+  "code": 103648},
+"CSS" :{
+  "nFiles": 154,
+  "blank": 2525,
+  "comment": 1195,
+  "code": 59338},
+"SVG" :{
+  "nFiles": 501,
+  "blank": 0,
+  "comment": 0,
+  "code": 37747},
+"PHP" :{
+  "nFiles": 213,
+  "blank": 3646,
+  "comment": 3081,
+  "code": 18086},
+"LESS" :{
+  "nFiles": 83,
+  "blank": 848,
+  "comment": 1059,
+  "code": 5961},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 582,
+  "comment": 0,
+  "code": 2265},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 332,
+  "comment": 665,
+  "code": 969},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 451},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 10,
+  "code": 114},
+"SUM": {
+  "blank": 49501,
+  "comment": 58431,
+  "code": 408502,
+  "nFiles": 1626} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.833585977554321,
+  "n_files"            : 149,
+  "n_lines"            : 18072,
+  "files_per_second"   : 178.745809085171,
+  "lines_per_second"   : 21679.8272603168,
+  "report_file"        : "loc/Tendrl__ui.json"},
+"JavaScript" :{
+  "nFiles": 59,
+  "blank": 1829,
+  "comment": 654,
+  "code": 9425},
+"Sass" :{
+  "nFiles": 33,
+  "blank": 175,
+  "comment": 2,
+  "code": 2091},
+"HTML" :{
+  "nFiles": 36,
+  "blank": 3,
+  "comment": 68,
+  "code": 1695},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 3,
+  "comment": 0,
+  "code": 1469},
+"AsciiDoc" :{
+  "nFiles": 3,
+  "blank": 111,
+  "comment": 3,
+  "code": 227},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 106,
+  "comment": 0,
+  "code": 163},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 30},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 2236,
+  "comment": 728,
+  "code": 15108,
+  "nFiles": 149} }

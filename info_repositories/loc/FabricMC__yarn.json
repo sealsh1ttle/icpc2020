@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.5706961154938,
+  "n_files"            : 7,
+  "n_lines"            : 1100,
+  "files_per_second"   : 0.376937943331042,
+  "lines_per_second"   : 59.2331053805924,
+  "report_file"        : "loc/FabricMC__yarn.json"},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 110,
+  "comment": 7,
+  "code": 483},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 37,
+  "code": 129},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 65,
+  "comment": 0,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 224,
+  "comment": 46,
+  "code": 830,
+  "nFiles": 7} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.34197402000427,
+  "n_files"            : 429,
+  "n_lines"            : 70217,
+  "files_per_second"   : 98.8029863890291,
+  "lines_per_second"   : 16171.6766789708,
+  "report_file"        : "loc/eleven-labs__blog.eleven-labs.com.json"},
+"Markdown" :{
+  "nFiles": 328,
+  "blank": 17276,
+  "comment": 0,
+  "code": 48356},
+"Sass" :{
+  "nFiles": 27,
+  "blank": 266,
+  "comment": 112,
+  "code": 1702},
+"HTML" :{
+  "nFiles": 34,
+  "blank": 66,
+  "comment": 31,
+  "code": 1044},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 76,
+  "comment": 83,
+  "code": 364},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 20,
+  "comment": 14,
+  "code": 233},
+"liquid" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 232},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 12,
+  "code": 81},
+"SVG" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 1,
+  "code": 76},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 7,
+  "code": 29},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 17786,
+  "comment": 260,
+  "code": 52171,
+  "nFiles": 429} }

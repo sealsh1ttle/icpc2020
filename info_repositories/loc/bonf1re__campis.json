@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 71.8271231651306,
+  "n_files"            : 327,
+  "n_lines"            : 60712,
+  "files_per_second"   : 4.55259775959879,
+  "lines_per_second"   : 845.251728381534,
+  "report_file"        : "loc/bonf1re__campis.json"},
+"Java" :{
+  "nFiles": 195,
+  "blank": 4463,
+  "comment": 3446,
+  "code": 28027},
+"XML" :{
+  "nFiles": 6,
+  "blank": 440,
+  "comment": 410,
+  "code": 8781},
+"FXML" :{
+  "nFiles": 111,
+  "blank": 242,
+  "comment": 0,
+  "code": 5178},
+"SQL" :{
+  "nFiles": 8,
+  "blank": 2395,
+  "comment": 2203,
+  "code": 5069},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 3,
+  "code": 33},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 7552,
+  "comment": 6062,
+  "code": 47098,
+  "nFiles": 327} }

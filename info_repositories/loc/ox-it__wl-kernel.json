@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 179.668894052505,
+  "n_files"            : 849,
+  "n_lines"            : 208203,
+  "files_per_second"   : 4.72535885789942,
+  "lines_per_second"   : 1158.8149473395,
+  "report_file"        : "loc/ox-it__wl-kernel.json"},
+"Java" :{
+  "nFiles": 722,
+  "blank": 22931,
+  "comment": 62281,
+  "code": 91019},
+"XML" :{
+  "nFiles": 46,
+  "blank": 1413,
+  "comment": 858,
+  "code": 14590},
+"SQL" :{
+  "nFiles": 62,
+  "blank": 1016,
+  "comment": 586,
+  "code": 11455},
+"Maven" :{
+  "nFiles": 14,
+  "blank": 44,
+  "comment": 105,
+  "code": 1814},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 33},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 24},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 3},
+"SUM": {
+  "blank": 25418,
+  "comment": 63847,
+  "code": 118938,
+  "nFiles": 849} }

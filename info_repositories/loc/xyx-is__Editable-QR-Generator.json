@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.206488847732544,
+  "n_files"            : 12,
+  "n_lines"            : 2421,
+  "files_per_second"   : 58.1145186859829,
+  "lines_per_second"   : 11724.604144897,
+  "report_file"        : "loc/xyx-is__Editable-QR-Generator.json"},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 234,
+  "comment": 410,
+  "code": 902},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 0,
+  "code": 420},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 72,
+  "comment": 5,
+  "code": 260},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 46},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 342,
+  "comment": 415,
+  "code": 1664,
+  "nFiles": 12} }

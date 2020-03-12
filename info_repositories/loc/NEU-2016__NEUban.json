@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.4125938415527,
+  "n_files"            : 161,
+  "n_lines"            : 19391,
+  "files_per_second"   : 2.28652278259047,
+  "lines_per_second"   : 275.391076255974,
+  "report_file"        : "loc/NEU-2016__NEUban.json"},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 24,
+  "code": 7325},
+"Java" :{
+  "nFiles": 135,
+  "blank": 1805,
+  "comment": 650,
+  "code": 5779},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 582,
+  "comment": 204,
+  "code": 1611},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 2,
+  "comment": 0,
+  "code": 330},
+"Maven" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 1,
+  "code": 329},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 86,
+  "comment": 25,
+  "code": 130},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 0,
+  "code": 100},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 2559,
+  "comment": 904,
+  "code": 15928,
+  "nFiles": 161} }

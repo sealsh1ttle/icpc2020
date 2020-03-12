@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.259485960006714,
+  "n_files"            : 2,
+  "n_lines"            : 415,
+  "files_per_second"   : 7.70754610364373,
+  "lines_per_second"   : 1599.31581650607,
+  "report_file"        : "loc/mbakholdina__srt-stats-plotting.json"},
+"Python" :{
+  "nFiles": 1,
+  "blank": 67,
+  "comment": 34,
+  "code": 271},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 80,
+  "comment": 34,
+  "code": 301,
+  "nFiles": 2} }

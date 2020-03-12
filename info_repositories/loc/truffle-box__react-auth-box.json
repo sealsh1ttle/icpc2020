@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.944676876068115,
+  "n_files"            : 56,
+  "n_lines"            : 4800,
+  "files_per_second"   : 59.2795287136489,
+  "lines_per_second"   : 5081.10246116991,
+  "report_file"        : "loc/truffle-box__react-auth-box.json"},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 2319},
+"JavaScript" :{
+  "nFiles": 39,
+  "blank": 224,
+  "comment": 386,
+  "code": 1369},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 122},
+"Solidity" :{
+  "nFiles": 5,
+  "blank": 38,
+  "comment": 17,
+  "code": 98},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 12,
+  "code": 97},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 51},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 16,
+  "code": 12},
+"SUM": {
+  "blank": 301,
+  "comment": 431,
+  "code": 4068,
+  "nFiles": 56} }

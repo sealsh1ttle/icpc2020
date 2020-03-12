@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 69.0614829063416,
+  "n_files"            : 351,
+  "n_lines"            : 22794,
+  "files_per_second"   : 5.08242779084272,
+  "lines_per_second"   : 330.053729528402,
+  "report_file"        : "loc/stone-payments__pos-mamba-sdk.json"},
+"HTML" :{
+  "nFiles": 63,
+  "blank": 820,
+  "comment": 4,
+  "code": 6128},
+"JavaScript" :{
+  "nFiles": 158,
+  "blank": 1236,
+  "comment": 707,
+  "code": 5810},
+"Markdown" :{
+  "nFiles": 58,
+  "blank": 3888,
+  "comment": 0,
+  "code": 3265},
+"JSON" :{
+  "nFiles": 28,
+  "blank": 8,
+  "comment": 0,
+  "code": 736},
+"SVG" :{
+  "nFiles": 44,
+  "blank": 0,
+  "comment": 5,
+  "code": 187},
+"SUM": {
+  "blank": 5952,
+  "comment": 716,
+  "code": 16126,
+  "nFiles": 351} }

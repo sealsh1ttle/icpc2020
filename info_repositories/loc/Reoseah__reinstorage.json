@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.484907150268555,
+  "n_files"            : 28,
+  "n_lines"            : 1725,
+  "files_per_second"   : 57.7430132438609,
+  "lines_per_second"   : 3557.38206591643,
+  "report_file"        : "loc/Reoseah__reinstorage.json"},
+"Java" :{
+  "nFiles": 8,
+  "blank": 146,
+  "comment": 5,
+  "code": 955},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 6,
+  "comment": 0,
+  "code": 281},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 61},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 208,
+  "comment": 29,
+  "code": 1488,
+  "nFiles": 28} }

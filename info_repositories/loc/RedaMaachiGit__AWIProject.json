@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.25417590141296,
+  "n_files"            : 404,
+  "n_lines"            : 90480,
+  "files_per_second"   : 94.9655137357666,
+  "lines_per_second"   : 21268.5140663667,
+  "report_file"        : "loc/RedaMaachiGit__AWIProject.json"},
+"JSP" :{
+  "nFiles": 206,
+  "blank": 613,
+  "comment": 357,
+  "code": 19245},
+"Java" :{
+  "nFiles": 162,
+  "blank": 7315,
+  "comment": 17608,
+  "code": 18648},
+"CSS" :{
+  "nFiles": 15,
+  "blank": 1220,
+  "comment": 66,
+  "code": 15202},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 1285,
+  "comment": 956,
+  "code": 6150},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 551},
+"XML" :{
+  "nFiles": 10,
+  "blank": 96,
+  "comment": 70,
+  "code": 422},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 65,
+  "code": 138},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 113},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 10593,
+  "comment": 19122,
+  "code": 60765,
+  "nFiles": 404} }

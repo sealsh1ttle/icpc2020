@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.235661029815674,
+  "n_files"            : 33,
+  "n_lines"            : 7799,
+  "files_per_second"   : 140.031637924232,
+  "lines_per_second"   : 33094.1437627601,
+  "report_file"        : "loc/wso2-attic__docker-iot.json"},
+"XML" :{
+  "nFiles": 15,
+  "blank": 609,
+  "comment": 2766,
+  "code": 1698},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 190,
+  "comment": 24,
+  "code": 1395},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 122,
+  "code": 283},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 198},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 56,
+  "comment": 0,
+  "code": 170},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 68},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 87,
+  "code": 49},
+"SUM": {
+  "blank": 939,
+  "comment": 2999,
+  "code": 3861,
+  "nFiles": 33} }

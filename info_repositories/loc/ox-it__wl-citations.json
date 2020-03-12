@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 68.1374139785767,
+  "n_files"            : 320,
+  "n_lines"            : 72593,
+  "files_per_second"   : 4.69639191326827,
+  "lines_per_second"   : 1065.39118174964,
+  "report_file"        : "loc/ox-it__wl-citations.json"},
+"Java" :{
+  "nFiles": 251,
+  "blank": 8129,
+  "comment": 15195,
+  "code": 37511},
+"Velocity Template Language" :{
+  "nFiles": 32,
+  "blank": 244,
+  "comment": 158,
+  "code": 2885},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 57,
+  "code": 2637},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 361,
+  "comment": 513,
+  "code": 2432},
+"Maven" :{
+  "nFiles": 10,
+  "blank": 7,
+  "comment": 51,
+  "code": 767},
+"XML" :{
+  "nFiles": 10,
+  "blank": 85,
+  "comment": 109,
+  "code": 468},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 106,
+  "comment": 90,
+  "code": 382},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 1,
+  "code": 369},
+"SUM": {
+  "blank": 8968,
+  "comment": 16174,
+  "code": 47451,
+  "nFiles": 320} }

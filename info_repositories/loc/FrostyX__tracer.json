@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.6011910438538,
+  "n_files"            : 81,
+  "n_lines"            : 6155,
+  "files_per_second"   : 6.98204173121632,
+  "lines_per_second"   : 530.548973526376,
+  "report_file"        : "loc/FrostyX__tracer.json"},
+"Python" :{
+  "nFiles": 64,
+  "blank": 914,
+  "comment": 1039,
+  "code": 2832},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 200,
+  "comment": 63,
+  "code": 326},
+"make" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 12,
+  "code": 202},
+"XML" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 131,
+  "code": 112},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 29,
+  "code": 74},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 54},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 25},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 18,
+  "code": 2},
+"SUM": {
+  "blank": 1236,
+  "comment": 1292,
+  "code": 3627,
+  "nFiles": 81} }

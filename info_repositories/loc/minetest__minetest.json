@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 208.049339056015,
+  "n_files"            : 865,
+  "n_lines"            : 532980,
+  "files_per_second"   : 4.15766761829081,
+  "lines_per_second"   : 2561.79617016952,
+  "report_file"        : "loc/minetest__minetest.json"},
+"PO File" :{
+  "nFiles": 45,
+  "blank": 57468,
+  "comment": 58218,
+  "code": 170270},
+"C++" :{
+  "nFiles": 275,
+  "blank": 21632,
+  "comment": 16287,
+  "code": 105483},
+"C/C++ Header" :{
+  "nFiles": 305,
+  "blank": 9197,
+  "comment": 13343,
+  "code": 26773},
+"C" :{
+  "nFiles": 34,
+  "blank": 2742,
+  "comment": 954,
+  "code": 14676},
+"Lua" :{
+  "nFiles": 75,
+  "blank": 2336,
+  "comment": 1938,
+  "code": 14587},
+"SVG" :{
+  "nFiles": 23,
+  "blank": 23,
+  "comment": 23,
+  "code": 8327},
+"CMake" :{
+  "nFiles": 37,
+  "blank": 309,
+  "comment": 274,
+  "code": 1817},
+"make" :{
+  "nFiles": 5,
+  "blank": 121,
+  "comment": 53,
+  "code": 1054},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 174,
+  "comment": 105,
+  "code": 1023},
+"Java" :{
+  "nFiles": 4,
+  "blank": 93,
+  "comment": 34,
+  "code": 531},
+"GLSL" :{
+  "nFiles": 11,
+  "blank": 90,
+  "comment": 61,
+  "code": 478},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 153,
+  "comment": 0,
+  "code": 468},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 56,
+  "comment": 65,
+  "code": 410},
+"diff" :{
+  "nFiles": 9,
+  "blank": 35,
+  "comment": 127,
+  "code": 262},
+"XML" :{
+  "nFiles": 9,
+  "blank": 15,
+  "comment": 0,
+  "code": 187},
+"Python" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 46,
+  "code": 187},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 3,
+  "code": 142},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 3,
+  "code": 79},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 51},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 94546,
+  "comment": 91540,
+  "code": 346894,
+  "nFiles": 865} }

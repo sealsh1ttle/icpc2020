@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 52.4570698738098,
+  "n_files"            : 207,
+  "n_lines"            : 11990,
+  "files_per_second"   : 3.94608392153731,
+  "lines_per_second"   : 228.567856131557,
+  "report_file"        : "loc/it-projects-llc__mail-addons.json"},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 202,
+  "comment": 133,
+  "code": 1965},
+"PO File" :{
+  "nFiles": 40,
+  "blank": 578,
+  "comment": 1836,
+  "code": 1920},
+"Python" :{
+  "nFiles": 70,
+  "blank": 358,
+  "comment": 314,
+  "code": 1670},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 61,
+  "comment": 34,
+  "code": 1136},
+"reStructuredText" :{
+  "nFiles": 38,
+  "blank": 353,
+  "comment": 15,
+  "code": 707},
+"XML" :{
+  "nFiles": 26,
+  "blank": 24,
+  "comment": 49,
+  "code": 504},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 2,
+  "code": 48},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 0,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 1598,
+  "comment": 2383,
+  "code": 8009,
+  "nFiles": 207} }

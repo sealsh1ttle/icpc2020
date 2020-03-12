@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.594457864761353,
+  "n_files"            : 3,
+  "n_lines"            : 25,
+  "files_per_second"   : 5.04661503840034,
+  "lines_per_second"   : 42.0551253200029,
+  "report_file"        : "loc/fidals__docker-images.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 3,
+  "comment": 1,
+  "code": 21,
+  "nFiles": 3} }

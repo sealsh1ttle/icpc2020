@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.689472913742065,
+  "n_files"            : 136,
+  "n_lines"            : 3466,
+  "files_per_second"   : 197.252128820942,
+  "lines_per_second"   : 5027.02851833371,
+  "report_file"        : "loc/Winkeltje84__bidding-heroes.json"},
+"Ruby" :{
+  "nFiles": 86,
+  "blank": 296,
+  "comment": 608,
+  "code": 1112},
+"ERB" :{
+  "nFiles": 31,
+  "blank": 84,
+  "comment": 0,
+  "code": 643},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 29,
+  "comment": 13,
+  "code": 190},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 92,
+  "code": 92},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 48},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 15,
+  "code": 4},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 460,
+  "comment": 734,
+  "code": 2272,
+  "nFiles": 136} }

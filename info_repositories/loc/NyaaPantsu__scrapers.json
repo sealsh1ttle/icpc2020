@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.170263051986694,
+  "n_files"            : 10,
+  "n_lines"            : 1076,
+  "files_per_second"   : 58.7326485888522,
+  "lines_per_second"   : 6319.6329881605,
+  "report_file"        : "loc/NyaaPantsu__scrapers.json"},
+"Go" :{
+  "nFiles": 7,
+  "blank": 106,
+  "comment": 157,
+  "code": 786},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 17},
+"Python" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 111,
+  "comment": 157,
+  "code": 808,
+  "nFiles": 10} }

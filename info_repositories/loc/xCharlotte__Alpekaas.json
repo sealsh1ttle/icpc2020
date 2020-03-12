@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.462202072143555,
+  "n_files"            : 63,
+  "n_lines"            : 2823,
+  "files_per_second"   : 136.304018949601,
+  "lines_per_second"   : 6107.71818245594,
+  "report_file"        : "loc/xCharlotte__Alpekaas.json"},
+"PHP" :{
+  "nFiles": 50,
+  "blank": 364,
+  "comment": 1135,
+  "code": 938},
+"Blade" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 80},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 77},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 30},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 11,
+  "code": 25},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 46,
+  "code": 23},
+"Vuejs Component" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 21},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 8},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 4,
+  "code": 3},
+"SUM": {
+  "blank": 420,
+  "comment": 1198,
+  "code": 1205,
+  "nFiles": 63} }

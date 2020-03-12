@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 549.269883871078,
+  "n_files"            : 617,
+  "n_lines"            : 2577737,
+  "files_per_second"   : 1.12330935687131,
+  "lines_per_second"   : 4693.02445972995,
+  "report_file"        : "loc/conda__conda.json"},
+"JSON" :{
+  "nFiles": 154,
+  "blank": 0,
+  "comment": 0,
+  "code": 2473676},
+"Python" :{
+  "nFiles": 261,
+  "blank": 12013,
+  "comment": 14818,
+  "code": 52437},
+"reStructuredText" :{
+  "nFiles": 123,
+  "blank": 5169,
+  "comment": 1938,
+  "code": 10330},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 1051,
+  "comment": 0,
+  "code": 3311},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 164,
+  "comment": 87,
+  "code": 667},
+"YAML" :{
+  "nFiles": 25,
+  "blank": 59,
+  "comment": 94,
+  "code": 616},
+"DOS Batch" :{
+  "nFiles": 19,
+  "blank": 29,
+  "comment": 4,
+  "code": 251},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 81,
+  "code": 171},
+"make" :{
+  "nFiles": 3,
+  "blank": 50,
+  "comment": 30,
+  "code": 131},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 124},
+"Fish Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 12,
+  "code": 105},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 83},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 15,
+  "code": 53},
+"C Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 46},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 14,
+  "code": 0},
+"SUM": {
+  "blank": 18627,
+  "comment": 17097,
+  "code": 2542013,
+  "nFiles": 617} }

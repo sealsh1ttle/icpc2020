@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.24731397628784,
+  "n_files"            : 11,
+  "n_lines"            : 6294,
+  "files_per_second"   : 3.38741497752386,
+  "lines_per_second"   : 1938.21726077593,
+  "report_file"        : "loc/khaiql__react-native-progressive-input.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 5857},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 0,
+  "code": 300},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 88},
+"SUM": {
+  "blank": 49,
+  "comment": 0,
+  "code": 6245,
+  "nFiles": 11} }

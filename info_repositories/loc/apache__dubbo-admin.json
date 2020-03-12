@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 129.570065975189,
+  "n_files"            : 180,
+  "n_lines"            : 21900,
+  "files_per_second"   : 1.38920975801978,
+  "lines_per_second"   : 169.020520559074,
+  "report_file"        : "loc/apache__dubbo-admin.json"},
+"Java" :{
+  "nFiles": 106,
+  "blank": 1752,
+  "comment": 2102,
+  "code": 8011},
+"Vuejs Component" :{
+  "nFiles": 25,
+  "blank": 180,
+  "comment": 450,
+  "code": 5374},
+"JavaScript" :{
+  "nFiles": 24,
+  "blank": 121,
+  "comment": 491,
+  "code": 1254},
+"Maven" :{
+  "nFiles": 4,
+  "blank": 53,
+  "comment": 68,
+  "code": 656},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 74,
+  "code": 230},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 29,
+  "code": 217},
+"XML" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 63,
+  "code": 154},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 129},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 40,
+  "comment": 0,
+  "code": 109},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 88},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 32,
+  "code": 42},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 28,
+  "code": 18},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 17,
+  "code": 14},
+"SUM": {
+  "blank": 2250,
+  "comment": 3354,
+  "code": 16296,
+  "nFiles": 180} }

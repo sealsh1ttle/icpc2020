@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 340.676585912704,
+  "n_files"            : 1201,
+  "n_lines"            : 125164,
+  "files_per_second"   : 3.52533766528865,
+  "lines_per_second"   : 367.398304361522,
+  "report_file"        : "loc/fossasia__open-event-frontend.json"},
+"PO File" :{
+  "nFiles": 16,
+  "blank": 20003,
+  "comment": 24374,
+  "code": 38341},
+"JavaScript" :{
+  "nFiles": 756,
+  "blank": 2481,
+  "comment": 566,
+  "code": 24955},
+"Handlebars" :{
+  "nFiles": 349,
+  "blank": 106,
+  "comment": 228,
+  "code": 11713},
+"Sass" :{
+  "nFiles": 46,
+  "blank": 222,
+  "comment": 1,
+  "code": 1225},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 102,
+  "comment": 0,
+  "code": 249},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 193},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 18,
+  "comment": 8,
+  "code": 163},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 13,
+  "code": 64},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 47},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 2,
+  "code": 26},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 8,
+  "code": 5},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 22973,
+  "comment": 25200,
+  "code": 76991,
+  "nFiles": 1201} }

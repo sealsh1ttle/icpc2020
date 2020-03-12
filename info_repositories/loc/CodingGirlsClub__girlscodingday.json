@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.3892300128937,
+  "n_files"            : 87,
+  "n_lines"            : 51345,
+  "files_per_second"   : 3.71966071358655,
+  "lines_per_second"   : 2195.24114182875,
+  "report_file"        : "loc/CodingGirlsClub__girlscodingday.json"},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 4662,
+  "comment": 4343,
+  "code": 18059},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 171,
+  "comment": 112,
+  "code": 11942},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 461,
+  "comment": 806,
+  "code": 6190},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 1,
+  "code": 3195},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 77,
+  "comment": 8,
+  "code": 1123},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 86},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 26},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 8},
+"SUM": {
+  "blank": 5406,
+  "comment": 5271,
+  "code": 40668,
+  "nFiles": 87} }

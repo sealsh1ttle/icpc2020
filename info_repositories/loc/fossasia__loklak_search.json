@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 63.5552840232849,
+  "n_files"            : 340,
+  "n_lines"            : 34170,
+  "files_per_second"   : 5.34967320538499,
+  "lines_per_second"   : 537.642157141191,
+  "report_file"        : "loc/fossasia__loklak_search.json"},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 1,
+  "comment": 0,
+  "code": 13519},
+"TypeScript" :{
+  "nFiles": 226,
+  "blank": 1937,
+  "comment": 1571,
+  "code": 10749},
+"Sass" :{
+  "nFiles": 48,
+  "blank": 508,
+  "comment": 5,
+  "code": 3247},
+"HTML" :{
+  "nFiles": 41,
+  "blank": 32,
+  "comment": 15,
+  "code": 1935},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 60,
+  "comment": 0,
+  "code": 224},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 10,
+  "code": 170},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 13,
+  "code": 56},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 5,
+  "code": 36},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 2603,
+  "comment": 1619,
+  "code": 29948,
+  "nFiles": 340} }

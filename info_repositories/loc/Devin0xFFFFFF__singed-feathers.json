@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 50.9345731735229,
+  "n_files"            : 162,
+  "n_lines"            : 20476,
+  "files_per_second"   : 3.18055084997181,
+  "lines_per_second"   : 402.005921012487,
+  "report_file"        : "loc/Devin0xFFFFFF__singed-feathers.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 4,
+  "comment": 0,
+  "code": 8084},
+"C#" :{
+  "nFiles": 111,
+  "blank": 1432,
+  "comment": 270,
+  "code": 7137},
+"Unity-Prefab" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 1677},
+"Python" :{
+  "nFiles": 22,
+  "blank": 391,
+  "comment": 0,
+  "code": 799},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 21,
+  "code": 388},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 33,
+  "comment": 0,
+  "code": 88},
+"XML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 61},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 3,
+  "code": 32},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 1884,
+  "comment": 294,
+  "code": 18298,
+  "nFiles": 162} }

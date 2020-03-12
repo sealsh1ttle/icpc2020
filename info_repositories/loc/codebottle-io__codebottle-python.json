@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0504541397094727,
+  "n_files"            : 8,
+  "n_lines"            : 150,
+  "files_per_second"   : 158.559833664115,
+  "lines_per_second"   : 2972.99688120215,
+  "report_file"        : "loc/codebottle-io__codebottle-python.json"},
+"Python" :{
+  "nFiles": 6,
+  "blank": 28,
+  "comment": 5,
+  "code": 79},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 19},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 37,
+  "comment": 5,
+  "code": 108,
+  "nFiles": 8} }

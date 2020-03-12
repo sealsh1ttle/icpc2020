@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 217.986233949661,
+  "n_files"            : 883,
+  "n_lines"            : 162765,
+  "files_per_second"   : 4.05071450614587,
+  "lines_per_second"   : 746.675590705359,
+  "report_file"        : "loc/keystonejs__keystone.json"},
+"JavaScript" :{
+  "nFiles": 735,
+  "blank": 10077,
+  "comment": 59223,
+  "code": 68245},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 11333},
+"Markdown" :{
+  "nFiles": 95,
+  "blank": 2666,
+  "comment": 0,
+  "code": 5803},
+"LESS" :{
+  "nFiles": 25,
+  "blank": 664,
+  "comment": 398,
+  "code": 1941},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 127,
+  "comment": 121,
+  "code": 852},
+"Pug" :{
+  "nFiles": 4,
+  "blank": 146,
+  "comment": 23,
+  "code": 670},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 2,
+  "code": 218},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 126},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 101},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 13685,
+  "comment": 59768,
+  "code": 89312,
+  "nFiles": 883} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1784.53894305229,
+  "n_files"            : 4166,
+  "n_lines"            : 248076,
+  "files_per_second"   : 2.33449654669594,
+  "lines_per_second"   : 139.014057925622,
+  "report_file"        : "loc/ComplianceAsCode__content.json"},
+"XML" :{
+  "nFiles": 695,
+  "blank": 9407,
+  "comment": 954,
+  "code": 121804},
+"YAML" :{
+  "nFiles": 2061,
+  "blank": 14554,
+  "comment": 849,
+  "code": 52122},
+"Python" :{
+  "nFiles": 142,
+  "blank": 4526,
+  "comment": 2898,
+  "code": 16450},
+"Bourne Shell" :{
+  "nFiles": 1126,
+  "blank": 2610,
+  "comment": 3354,
+  "code": 7503},
+"XSLT" :{
+  "nFiles": 93,
+  "blank": 699,
+  "comment": 393,
+  "code": 3253},
+"CMake" :{
+  "nFiles": 31,
+  "blank": 245,
+  "comment": 223,
+  "code": 1844},
+"AsciiDoc" :{
+  "nFiles": 2,
+  "blank": 469,
+  "comment": 0,
+  "code": 1588},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 328,
+  "comment": 0,
+  "code": 1151},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 92,
+  "comment": 29,
+  "code": 345},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 319},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"Puppet" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 2,
+  "code": 14},
+"SUM": {
+  "blank": 32932,
+  "comment": 8702,
+  "code": 206442,
+  "nFiles": 4166} }

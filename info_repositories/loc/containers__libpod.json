@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 56.2514638900757,
+  "n_files"            : 4002,
+  "n_lines"            : 1189336,
+  "files_per_second"   : 71.1448151433098,
+  "lines_per_second"   : 21143.2008653882,
+  "report_file"        : "loc/containers__libpod.json"},
+"Go" :{
+  "nFiles": 3452,
+  "blank": 94463,
+  "comment": 125262,
+  "code": 899572},
+"Markdown" :{
+  "nFiles": 275,
+  "blank": 8463,
+  "comment": 0,
+  "code": 22913},
+"YAML" :{
+  "nFiles": 68,
+  "blank": 756,
+  "comment": 303,
+  "code": 11994},
+"Bourne Shell" :{
+  "nFiles": 72,
+  "blank": 656,
+  "comment": 862,
+  "code": 3501},
+"Assembly" :{
+  "nFiles": 41,
+  "blank": 523,
+  "comment": 866,
+  "code": 2526},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 2,
+  "comment": 0,
+  "code": 2437},
+"Protocol Buffers" :{
+  "nFiles": 15,
+  "blank": 1242,
+  "comment": 4344,
+  "code": 2192},
+"C" :{
+  "nFiles": 5,
+  "blank": 258,
+  "comment": 137,
+  "code": 1401},
+"make" :{
+  "nFiles": 25,
+  "blank": 324,
+  "comment": 97,
+  "code": 1199},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 168,
+  "comment": 281,
+  "code": 862},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 531},
+"Dockerfile" :{
+  "nFiles": 14,
+  "blank": 60,
+  "comment": 93,
+  "code": 319},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 45,
+  "comment": 14,
+  "code": 219},
+"Python" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 9,
+  "code": 118},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 57},
+"WiX source" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 42},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 45,
+  "code": 35},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"awk" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 12},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 8,
+  "code": 1},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 107038,
+  "comment": 132343,
+  "code": 949955,
+  "nFiles": 4002} }

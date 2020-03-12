@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.675712108612061,
+  "n_files"            : 107,
+  "n_lines"            : 10183,
+  "files_per_second"   : 158.351461571086,
+  "lines_per_second"   : 15070.0274128819,
+  "report_file"        : "loc/percona__percona-docker.json"},
+"Bourne Shell" :{
+  "nFiles": 59,
+  "blank": 730,
+  "comment": 393,
+  "code": 4032},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 337,
+  "comment": 460,
+  "code": 1567},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 580,
+  "comment": 0,
+  "code": 978},
+"Dockerfile" :{
+  "nFiles": 17,
+  "blank": 201,
+  "comment": 63,
+  "code": 656},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 12,
+  "comment": 62,
+  "code": 108},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1860,
+  "comment": 978,
+  "code": 7345,
+  "nFiles": 107} }

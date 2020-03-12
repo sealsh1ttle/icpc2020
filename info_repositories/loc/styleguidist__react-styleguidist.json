@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 185.110507011414,
+  "n_files"            : 525,
+  "n_lines"            : 153234,
+  "files_per_second"   : 2.83614370937696,
+  "lines_per_second"   : 827.797419357464,
+  "report_file"        : "loc/styleguidist__react-styleguidist.json"},
+"JSON" :{
+  "nFiles": 34,
+  "blank": 0,
+  "comment": 0,
+  "code": 123066},
+"JavaScript" :{
+  "nFiles": 412,
+  "blank": 2958,
+  "comment": 1911,
+  "code": 20849},
+"Markdown" :{
+  "nFiles": 55,
+  "blank": 990,
+  "comment": 0,
+  "code": 2844},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 11,
+  "comment": 2,
+  "code": 265},
+"TypeScript" :{
+  "nFiles": 6,
+  "blank": 17,
+  "comment": 7,
+  "code": 170},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 17,
+  "code": 73},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 16,
+  "code": 12},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 3995,
+  "comment": 1953,
+  "code": 147286,
+  "nFiles": 525} }

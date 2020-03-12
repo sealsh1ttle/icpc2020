@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 126.575098991394,
+  "n_files"            : 476,
+  "n_lines"            : 109144,
+  "files_per_second"   : 3.76061329434444,
+  "lines_per_second"   : 862.286507138508,
+  "report_file"        : "loc/mitreid-connect__OpenID-Connect-Java-Spring-Server.json"},
+"Java" :{
+  "nFiles": 305,
+  "blank": 8114,
+  "comment": 13238,
+  "code": 31957},
+"JavaScript" :{
+  "nFiles": 25,
+  "blank": 5303,
+  "comment": 4497,
+  "code": 26523},
+"LESS" :{
+  "nFiles": 41,
+  "blank": 811,
+  "comment": 944,
+  "code": 4414},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 2668},
+"HTML" :{
+  "nFiles": 10,
+  "blank": 443,
+  "comment": 146,
+  "code": 2298},
+"SQL" :{
+  "nFiles": 32,
+  "blank": 518,
+  "comment": 244,
+  "code": 2052},
+"XML" :{
+  "nFiles": 24,
+  "blank": 364,
+  "comment": 572,
+  "code": 1238},
+"Maven" :{
+  "nFiles": 7,
+  "blank": 49,
+  "comment": 104,
+  "code": 1092},
+"JSP" :{
+  "nFiles": 14,
+  "blank": 134,
+  "comment": 95,
+  "code": 917},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 22,
+  "code": 209},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 36,
+  "comment": 0,
+  "code": 88},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 15820,
+  "comment": 19862,
+  "code": 73462,
+  "nFiles": 476} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.75945210456848,
+  "n_files"            : 11,
+  "n_lines"            : 1518,
+  "files_per_second"   : 6.25194625726844,
+  "lines_per_second"   : 862.768583503045,
+  "report_file"        : "loc/ardumont__markdown-toc.json"},
+"Lisp" :{
+  "nFiles": 4,
+  "blank": 115,
+  "comment": 80,
+  "code": 861},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 95,
+  "comment": 0,
+  "code": 241},
+"make" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 2,
+  "code": 31},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 25},
+"SUM": {
+  "blank": 241,
+  "comment": 85,
+  "code": 1192,
+  "nFiles": 11} }

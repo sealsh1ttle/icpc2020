@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 191.253720998764,
+  "n_files"            : 327,
+  "n_lines"            : 84184,
+  "files_per_second"   : 1.7097706559242,
+  "lines_per_second"   : 440.169213756338,
+  "report_file"        : "loc/bids-standard__pybids.json"},
+"JSON" :{
+  "nFiles": 95,
+  "blank": 4,
+  "comment": 0,
+  "code": 51894},
+"Python" :{
+  "nFiles": 57,
+  "blank": 3304,
+  "comment": 4873,
+  "code": 11186},
+"RobotFramework" :{
+  "nFiles": 142,
+  "blank": 0,
+  "comment": 0,
+  "code": 9049},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 82,
+  "comment": 0,
+  "code": 521},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 219},
+"reStructuredText" :{
+  "nFiles": 15,
+  "blank": 193,
+  "comment": 382,
+  "code": 198},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 10,
+  "code": 160},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1907,
+  "code": 61},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"make" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 7,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 16,
+  "code": 10},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 8},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3632,
+  "comment": 7199,
+  "code": 73353,
+  "nFiles": 327} }

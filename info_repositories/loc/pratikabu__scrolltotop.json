@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.376438140869141,
+  "n_files"            : 33,
+  "n_lines"            : 3698,
+  "files_per_second"   : 87.6638055958087,
+  "lines_per_second"   : 9823.65918464547,
+  "report_file"        : "loc/pratikabu__scrolltotop.json"},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 273,
+  "comment": 208,
+  "code": 1726},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 1,
+  "code": 455},
+"XML" :{
+  "nFiles": 10,
+  "blank": 42,
+  "comment": 17,
+  "code": 324},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 62,
+  "comment": 1,
+  "code": 315},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 149},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 41},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 12},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 446,
+  "comment": 228,
+  "code": 3024,
+  "nFiles": 33} }

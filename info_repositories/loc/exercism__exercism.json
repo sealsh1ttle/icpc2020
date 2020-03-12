@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0683140754699707,
+  "n_files"            : 1,
+  "n_lines"            : 33,
+  "files_per_second"   : 14.6382717341989,
+  "lines_per_second"   : 483.062967228562,
+  "report_file"        : "loc/exercism__exercism.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 14,
+  "comment": 0,
+  "code": 19,
+  "nFiles": 1} }

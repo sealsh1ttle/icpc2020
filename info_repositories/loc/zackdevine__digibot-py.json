@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0376648902893066,
+  "n_files"            : 2,
+  "n_lines"            : 19,
+  "files_per_second"   : 53.0998493461115,
+  "lines_per_second"   : 504.448568788059,
+  "report_file"        : "loc/zackdevine__digibot-py.json"},
+"Python" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 5,
+  "comment": 1,
+  "code": 13,
+  "nFiles": 2} }

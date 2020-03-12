@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 322.923913002014,
+  "n_files"            : 960,
+  "n_lines"            : 749936,
+  "files_per_second"   : 2.97283651456934,
+  "lines_per_second"   : 2322.33033790632,
+  "report_file"        : "loc/qbittorrent__qBittorrent.json"},
+"Qt Linguist" :{
+  "nFiles": 100,
+  "blank": 167,
+  "comment": 0,
+  "code": 609615},
+"C++" :{
+  "nFiles": 169,
+  "blank": 7457,
+  "comment": 7168,
+  "code": 39053},
+"SVG" :{
+  "nFiles": 343,
+  "blank": 0,
+  "comment": 0,
+  "code": 17898},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 1742,
+  "comment": 1667,
+  "code": 10839},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 1080,
+  "comment": 1349,
+  "code": 10282},
+"Qt" :{
+  "nFiles": 29,
+  "blank": 2,
+  "comment": 0,
+  "code": 9620},
+"C/C++ Header" :{
+  "nFiles": 183,
+  "blank": 2314,
+  "comment": 5375,
+  "code": 8636},
+"HTML" :{
+  "nFiles": 30,
+  "blank": 584,
+  "comment": 11,
+  "code": 6057},
+"Python" :{
+  "nFiles": 13,
+  "blank": 360,
+  "comment": 800,
+  "code": 1642},
+"CMake" :{
+  "nFiles": 29,
+  "blank": 215,
+  "comment": 277,
+  "code": 1391},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 329,
+  "comment": 125,
+  "code": 1309},
+"m4" :{
+  "nFiles": 6,
+  "blank": 106,
+  "comment": 3,
+  "code": 914},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 179,
+  "comment": 0,
+  "code": 584},
+"XML" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 2,
+  "code": 248},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 41,
+  "code": 219},
+"Qt Project" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 6,
+  "code": 76},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 27,
+  "code": 62},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 15},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 14607,
+  "comment": 16853,
+  "code": 718476,
+  "nFiles": 960} }

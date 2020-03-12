@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 402.279718160629,
+  "n_files"            : 1994,
+  "n_lines"            : 16073,
+  "files_per_second"   : 4.95675001741898,
+  "lines_per_second"   : 39.9547858726054,
+  "report_file"        : "loc/jenkins-infra__repository-permissions-updater.json"},
+"YAML" :{
+  "nFiles": 1989,
+  "blank": 55,
+  "comment": 7,
+  "code": 15405},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 61,
+  "code": 215},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 103},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 0,
+  "code": 99},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 170,
+  "comment": 69,
+  "code": 15834,
+  "nFiles": 1994} }

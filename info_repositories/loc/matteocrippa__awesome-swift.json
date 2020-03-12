@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.8974769115448,
+  "n_files"            : 15,
+  "n_lines"            : 9128,
+  "files_per_second"   : 5.17691786955524,
+  "lines_per_second"   : 3150.32708755335,
+  "report_file"        : "loc/matteocrippa__awesome-swift.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 0,
+  "code": 5893},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 305,
+  "comment": 0,
+  "code": 1468},
+"Swift" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1200},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 0,
+  "code": 119},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 18,
+  "code": 33},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 363,
+  "comment": 18,
+  "code": 8747,
+  "nFiles": 15} }

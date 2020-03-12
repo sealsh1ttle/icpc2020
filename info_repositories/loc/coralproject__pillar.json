@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 95.3887910842896,
+  "n_files"            : 542,
+  "n_lines"            : 170973,
+  "files_per_second"   : 5.68200932037252,
+  "lines_per_second"   : 1792.38040504068,
+  "report_file"        : "loc/coralproject__pillar.json"},
+"Go" :{
+  "nFiles": 444,
+  "blank": 17193,
+  "comment": 18240,
+  "code": 127339},
+"Markdown" :{
+  "nFiles": 29,
+  "blank": 976,
+  "comment": 0,
+  "code": 2399},
+"JSON" :{
+  "nFiles": 26,
+  "blank": 7,
+  "comment": 0,
+  "code": 1659},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 153,
+  "comment": 139,
+  "code": 907},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 82,
+  "comment": 290,
+  "code": 550},
+"C" :{
+  "nFiles": 4,
+  "blank": 49,
+  "comment": 18,
+  "code": 265},
+"Assembly" :{
+  "nFiles": 22,
+  "blank": 185,
+  "comment": 220,
+  "code": 202},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 8,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 6,
+  "code": 6},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 18666,
+  "comment": 18921,
+  "code": 133386,
+  "nFiles": 542} }

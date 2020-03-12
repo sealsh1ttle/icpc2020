@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 189.83483505249,
+  "n_files"            : 255,
+  "n_lines"            : 58044,
+  "files_per_second"   : 1.34327295582758,
+  "lines_per_second"   : 305.760531168848,
+  "report_file"        : "loc/MicrosoftDocs__mixed-reality.json"},
+"Markdown" :{
+  "nFiles": 250,
+  "blank": 16804,
+  "comment": 0,
+  "code": 41008},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 206},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 12},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 16806,
+  "comment": 3,
+  "code": 41235,
+  "nFiles": 255} }

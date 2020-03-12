@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.289643049240112,
+  "n_files"            : 51,
+  "n_lines"            : 2908,
+  "files_per_second"   : 176.078798140677,
+  "lines_per_second"   : 10039.9440194723,
+  "report_file"        : "loc/quest-friends__dev-quest.json"},
+"JavaScript" :{
+  "nFiles": 46,
+  "blank": 294,
+  "comment": 9,
+  "code": 2182},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 240},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 47},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"Cucumber" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 350,
+  "comment": 9,
+  "code": 2549,
+  "nFiles": 51} }

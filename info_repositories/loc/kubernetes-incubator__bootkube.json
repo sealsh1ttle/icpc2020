@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 401.824584007263,
+  "n_files"            : 1535,
+  "n_lines"            : 782959,
+  "files_per_second"   : 3.8200748811632,
+  "lines_per_second"   : 1948.50945203952,
+  "report_file"        : "loc/kubernetes-incubator__bootkube.json"},
+"Go" :{
+  "nFiles": 1436,
+  "blank": 50382,
+  "comment": 79733,
+  "code": 646507},
+"Assembly" :{
+  "nFiles": 29,
+  "blank": 250,
+  "comment": 285,
+  "code": 2178},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 399,
+  "comment": 0,
+  "code": 869},
+"Bourne Shell" :{
+  "nFiles": 23,
+  "blank": 152,
+  "comment": 94,
+  "code": 796},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 330},
+"HCL" :{
+  "nFiles": 5,
+  "blank": 67,
+  "comment": 3,
+  "code": 310},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 124},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 36,
+  "comment": 14,
+  "code": 121},
+"Groovy" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 9,
+  "code": 79},
+"make" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 2,
+  "code": 72},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 1,
+  "code": 39},
+"C" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 7,
+  "code": 29},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 51334,
+  "comment": 80153,
+  "code": 651472,
+  "nFiles": 1535} }

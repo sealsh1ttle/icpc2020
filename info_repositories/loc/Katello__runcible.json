@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.323096036911,
+  "n_files"            : 434,
+  "n_lines"            : 222903,
+  "files_per_second"   : 42.0416509202472,
+  "lines_per_second"   : 21592.650034737,
+  "report_file"        : "loc/Katello__runcible.json"},
+"YAML" :{
+  "nFiles": 315,
+  "blank": 39,
+  "comment": 11,
+  "code": 214534},
+"Ruby" :{
+  "nFiles": 110,
+  "blank": 1248,
+  "comment": 922,
+  "code": 5570},
+"XML" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 0,
+  "code": 227},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 97,
+  "comment": 0,
+  "code": 158},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 4,
+  "code": 70},
+"SUM": {
+  "blank": 1407,
+  "comment": 937,
+  "code": 220559,
+  "nFiles": 434} }

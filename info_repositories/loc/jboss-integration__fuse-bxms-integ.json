@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 300.647112846375,
+  "n_files"            : 701,
+  "n_lines"            : 62917,
+  "files_per_second"   : 2.33163722532802,
+  "lines_per_second"   : 209.27192483019,
+  "report_file"        : "loc/jboss-integration__fuse-bxms-integ.json"},
+"Java" :{
+  "nFiles": 436,
+  "blank": 5445,
+  "comment": 11767,
+  "code": 22848},
+"Maven" :{
+  "nFiles": 52,
+  "blank": 21,
+  "comment": 798,
+  "code": 9295},
+"XML" :{
+  "nFiles": 152,
+  "blank": 582,
+  "comment": 1321,
+  "code": 5942},
+"XSD" :{
+  "nFiles": 8,
+  "blank": 179,
+  "comment": 96,
+  "code": 1796},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 803,
+  "comment": 0,
+  "code": 1323},
+"Drools" :{
+  "nFiles": 24,
+  "blank": 70,
+  "comment": 180,
+  "code": 295},
+"XHTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 15,
+  "code": 82},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 32,
+  "code": 10},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 7106,
+  "comment": 14209,
+  "code": 41602,
+  "nFiles": 701} }

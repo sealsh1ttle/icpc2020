@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.7654781341553,
+  "n_files"            : 63,
+  "n_lines"            : 1363,
+  "files_per_second"   : 2.26900468616463,
+  "lines_per_second"   : 49.0897363054349,
+  "report_file"        : "loc/RFT-LEV-KondiBazis-WEB__KondiBazis-Shared.json"},
+"Java" :{
+  "nFiles": 60,
+  "blank": 360,
+  "comment": 172,
+  "code": 719},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 98},
+"SUM": {
+  "blank": 374,
+  "comment": 172,
+  "code": 817,
+  "nFiles": 63} }

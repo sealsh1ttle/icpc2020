@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.606611967086792,
+  "n_files"            : 4,
+  "n_lines"            : 21921,
+  "files_per_second"   : 6.59400113586565,
+  "lines_per_second"   : 36136.7747248277,
+  "report_file"        : "loc/mapsme__osmctools.json"},
+"C" :{
+  "nFiles": 3,
+  "blank": 1236,
+  "comment": 3805,
+  "code": 16868},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1239,
+  "comment": 3805,
+  "code": 16877,
+  "nFiles": 4} }

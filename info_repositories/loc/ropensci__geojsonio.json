@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.7175419330597,
+  "n_files"            : 106,
+  "n_lines"            : 45539,
+  "files_per_second"   : 5.11643709193378,
+  "lines_per_second"   : 2198.08895027898,
+  "report_file"        : "loc/ropensci__geojsonio.json"},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1747,
+  "comment": 0,
+  "code": 24418},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 1,
+  "comment": 0,
+  "code": 6676},
+"R" :{
+  "nFiles": 73,
+  "blank": 828,
+  "comment": 2761,
+  "code": 4408},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 239,
+  "comment": 322,
+  "code": 1756},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 266,
+  "comment": 0,
+  "code": 646},
+"Rmd" :{
+  "nFiles": 7,
+  "blank": 357,
+  "comment": 820,
+  "code": 216},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 39},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 3455,
+  "comment": 3903,
+  "code": 38181,
+  "nFiles": 106} }

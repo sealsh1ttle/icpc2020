@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.403303861618042,
+  "n_files"            : 64,
+  "n_lines"            : 10840,
+  "files_per_second"   : 158.689281434683,
+  "lines_per_second"   : 26877.9970429995,
+  "report_file"        : "loc/ntwigs__Magoon.json"},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 491,
+  "comment": 0,
+  "code": 3814},
+"LESS" :{
+  "nFiles": 39,
+  "blank": 990,
+  "comment": 649,
+  "code": 3716},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 202,
+  "comment": 0,
+  "code": 697},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 155},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 1,
+  "code": 62},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 42},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1698,
+  "comment": 650,
+  "code": 8492,
+  "nFiles": 64} }

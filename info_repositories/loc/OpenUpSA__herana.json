@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 111.257565021515,
+  "n_files"            : 274,
+  "n_lines"            : 56096,
+  "files_per_second"   : 2.46275388057445,
+  "lines_per_second"   : 504.19942220695,
+  "report_file"        : "loc/OpenUpSA__herana.json"},
+"JavaScript" :{
+  "nFiles": 107,
+  "blank": 4484,
+  "comment": 13292,
+  "code": 17644},
+"Sass" :{
+  "nFiles": 92,
+  "blank": 1416,
+  "comment": 1629,
+  "code": 7721},
+"Python" :{
+  "nFiles": 19,
+  "blank": 506,
+  "comment": 259,
+  "code": 2395},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 12,
+  "code": 1905},
+"LESS" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 33,
+  "code": 1343},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 175,
+  "comment": 57,
+  "code": 1120},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 853},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 246,
+  "comment": 0,
+  "code": 502},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 436},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 5,
+  "code": 12},
+"SUM": {
+  "blank": 6878,
+  "comment": 15287,
+  "code": 33931,
+  "nFiles": 274} }

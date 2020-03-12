@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 89.9325110912323,
+  "n_files"            : 427,
+  "n_lines"            : 190002,
+  "files_per_second"   : 4.74800486296695,
+  "lines_per_second"   : 2112.71761117903,
+  "report_file"        : "loc/projecttacoma__cql_qdm_patientapi.json"},
+"JavaScript" :{
+  "nFiles": 318,
+  "blank": 24441,
+  "comment": 14336,
+  "code": 142995},
+"CoffeeScript" :{
+  "nFiles": 60,
+  "blank": 671,
+  "comment": 946,
+  "code": 4270},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 240,
+  "comment": 0,
+  "code": 473},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 78,
+  "comment": 98,
+  "code": 360},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 191},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Ruby" :{
+  "nFiles": 30,
+  "blank": 121,
+  "comment": 316,
+  "code": 176},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 30,
+  "code": 24},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 25575,
+  "comment": 15744,
+  "code": 148683,
+  "nFiles": 427} }

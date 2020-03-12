@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 73.6152410507202,
+  "n_files"            : 209,
+  "n_lines"            : 46409,
+  "files_per_second"   : 2.83908599655336,
+  "lines_per_second"   : 630.426516813612,
+  "report_file"        : "loc/DataDog__dd-agent.json"},
+"Python" :{
+  "nFiles": 148,
+  "blank": 5514,
+  "comment": 4728,
+  "code": 23436},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 1012,
+  "comment": 0,
+  "code": 4761},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 376,
+  "comment": 331,
+  "code": 1771},
+"YAML" :{
+  "nFiles": 18,
+  "blank": 211,
+  "comment": 1297,
+  "code": 992},
+"Ruby" :{
+  "nFiles": 13,
+  "blank": 152,
+  "comment": 76,
+  "code": 851},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 549},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 4,
+  "code": 243},
+"XML" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 3,
+  "code": 50},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 8},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 7304,
+  "comment": 6440,
+  "code": 32665,
+  "nFiles": 209} }

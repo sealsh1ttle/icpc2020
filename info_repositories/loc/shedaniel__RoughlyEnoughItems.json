@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.904376029968262,
+  "n_files"            : 144,
+  "n_lines"            : 14830,
+  "files_per_second"   : 159.225803458163,
+  "lines_per_second"   : 16398.0462866983,
+  "report_file"        : "loc/shedaniel__RoughlyEnoughItems.json"},
+"Java" :{
+  "nFiles": 115,
+  "blank": 1804,
+  "comment": 1149,
+  "code": 9565},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 1837},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 101},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 49},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 1884,
+  "comment": 1172,
+  "code": 11774,
+  "nFiles": 144} }

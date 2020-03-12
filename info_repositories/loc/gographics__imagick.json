@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.517637014389,
+  "n_files"            : 118,
+  "n_lines"            : 11546,
+  "files_per_second"   : 6.37230332943176,
+  "lines_per_second"   : 623.513680013721,
+  "report_file"        : "loc/gographics__imagick.json"},
+"Go" :{
+  "nFiles": 113,
+  "blank": 1492,
+  "comment": 3283,
+  "code": 6449},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 75,
+  "comment": 0,
+  "code": 161},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 37},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1583,
+  "comment": 3290,
+  "code": 6673,
+  "nFiles": 118} }

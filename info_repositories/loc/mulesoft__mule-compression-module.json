@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.1648690700531,
+  "n_files"            : 43,
+  "n_lines"            : 2737,
+  "files_per_second"   : 3.8513662569798,
+  "lines_per_second"   : 245.143940589622,
+  "report_file"        : "loc/mulesoft__mule-compression-module.json"},
+"Java" :{
+  "nFiles": 33,
+  "blank": 264,
+  "comment": 541,
+  "code": 1021},
+"XML" :{
+  "nFiles": 7,
+  "blank": 31,
+  "comment": 1,
+  "code": 663},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 154},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 2,
+  "code": 24},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 319,
+  "comment": 545,
+  "code": 1873,
+  "nFiles": 43} }

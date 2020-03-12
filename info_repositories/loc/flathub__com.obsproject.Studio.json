@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.0057578086853,
+  "n_files"            : 4,
+  "n_lines"            : 247,
+  "files_per_second"   : 1.99425871991088,
+  "lines_per_second"   : 123.145475954497,
+  "report_file"        : "loc/flathub__com.obsproject.Studio.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 246},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 247,
+  "nFiles": 4} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 105.742498159409,
+  "n_files"            : 457,
+  "n_lines"            : 32371,
+  "files_per_second"   : 4.32181958961349,
+  "lines_per_second"   : 306.130463753563,
+  "report_file"        : "loc/angular__flex-layout.json"},
+"TypeScript" :{
+  "nFiles": 295,
+  "blank": 3383,
+  "comment": 3055,
+  "code": 16465},
+"Markdown" :{
+  "nFiles": 58,
+  "blank": 1193,
+  "comment": 0,
+  "code": 3162},
+"JSON" :{
+  "nFiles": 37,
+  "blank": 12,
+  "comment": 0,
+  "code": 1947},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 14,
+  "comment": 0,
+  "code": 760},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 142,
+  "comment": 21,
+  "code": 725},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 82,
+  "comment": 138,
+  "code": 482},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 118,
+  "comment": 85,
+  "code": 245},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 112,
+  "code": 181},
+"SUM": {
+  "blank": 4993,
+  "comment": 3411,
+  "code": 23967,
+  "nFiles": 457} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.5120751857758,
+  "n_files"            : 58,
+  "n_lines"            : 76122,
+  "files_per_second"   : 2.36618073175857,
+  "lines_per_second"   : 3105.48982177459,
+  "report_file"        : "loc/bonjurmrfirst__angular4-carousel.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 1311,
+  "comment": 25022,
+  "code": 38044},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 1,
+  "comment": 0,
+  "code": 10153},
+"TypeScript" :{
+  "nFiles": 31,
+  "blank": 269,
+  "comment": 50,
+  "code": 827},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 47,
+  "comment": 3,
+  "code": 192},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 0,
+  "code": 92},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 0,
+  "code": 71},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 1667,
+  "comment": 25076,
+  "code": 49379,
+  "nFiles": 58} }

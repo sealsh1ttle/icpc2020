@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 256.610515117645,
+  "n_files"            : 1062,
+  "n_lines"            : 580088,
+  "files_per_second"   : 4.13856774151721,
+  "lines_per_second"   : 2260.57766858873,
+  "report_file"        : "loc/kelseyhightower__confd.json"},
+"Go" :{
+  "nFiles": 910,
+  "blank": 40678,
+  "comment": 77435,
+  "code": 448754},
+"Markdown" :{
+  "nFiles": 45,
+  "blank": 1194,
+  "comment": 0,
+  "code": 3613},
+"Assembly" :{
+  "nFiles": 27,
+  "blank": 389,
+  "comment": 721,
+  "code": 1013},
+"Protocol Buffers" :{
+  "nFiles": 11,
+  "blank": 254,
+  "comment": 746,
+  "code": 968},
+"Bourne Shell" :{
+  "nFiles": 18,
+  "blank": 135,
+  "comment": 296,
+  "code": 880},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 142,
+  "comment": 132,
+  "code": 867},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 678},
+"TOML" :{
+  "nFiles": 6,
+  "blank": 11,
+  "comment": 0,
+  "code": 265},
+"make" :{
+  "nFiles": 14,
+  "blank": 80,
+  "comment": 96,
+  "code": 244},
+"YAML" :{
+  "nFiles": 16,
+  "blank": 37,
+  "comment": 7,
+  "code": 214},
+"Python" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 13,
+  "code": 99},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 9,
+  "code": 33},
+"C" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 7,
+  "code": 29},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 42958,
+  "comment": 79462,
+  "code": 457668,
+  "nFiles": 1062} }

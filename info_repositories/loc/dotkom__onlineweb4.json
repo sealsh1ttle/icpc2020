@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 235.941574811935,
+  "n_files"            : 1071,
+  "n_lines"            : 76601,
+  "files_per_second"   : 4.53925935203948,
+  "lines_per_second"   : 324.660882937046,
+  "report_file"        : "loc/dotkom__onlineweb4.json"},
+"Python" :{
+  "nFiles": 649,
+  "blank": 8471,
+  "comment": 3353,
+  "code": 26583},
+"JavaScript" :{
+  "nFiles": 150,
+  "blank": 2215,
+  "comment": 4013,
+  "code": 15374},
+"HTML" :{
+  "nFiles": 131,
+  "blank": 599,
+  "comment": 37,
+  "code": 9138},
+"LESS" :{
+  "nFiles": 47,
+  "blank": 718,
+  "comment": 187,
+  "code": 3160},
+"reStructuredText" :{
+  "nFiles": 55,
+  "blank": 404,
+  "comment": 219,
+  "code": 496},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 3,
+  "code": 403},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 1,
+  "comment": 0,
+  "code": 264},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 0,
+  "code": 208},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 33,
+  "code": 198},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 93,
+  "comment": 0,
+  "code": 168},
+"make" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 7,
+  "code": 60},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"INI" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 34},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"SUM": {
+  "blank": 12598,
+  "comment": 7853,
+  "code": 56150,
+  "nFiles": 1071} }

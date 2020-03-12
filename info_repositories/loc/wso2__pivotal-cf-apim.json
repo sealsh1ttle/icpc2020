@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.885791063308716,
+  "n_files"            : 64,
+  "n_lines"            : 19997,
+  "files_per_second"   : 72.2518014134612,
+  "lines_per_second"   : 22575.3011385154,
+  "report_file"        : "loc/wso2__pivotal-cf-apim.json"},
+"SQL" :{
+  "nFiles": 8,
+  "blank": 716,
+  "comment": 96,
+  "code": 5197},
+"XML" :{
+  "nFiles": 21,
+  "blank": 944,
+  "comment": 4351,
+  "code": 4286},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 77,
+  "comment": 359,
+  "code": 1294},
+"ERB" :{
+  "nFiles": 8,
+  "blank": 287,
+  "comment": 0,
+  "code": 791},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 227,
+  "comment": 0,
+  "code": 652},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 86,
+  "comment": 111,
+  "code": 354},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 166},
+"SUM": {
+  "blank": 2340,
+  "comment": 4917,
+  "code": 12740,
+  "nFiles": 64} }

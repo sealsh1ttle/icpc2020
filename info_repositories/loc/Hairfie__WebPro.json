@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.852106094360352,
+  "n_files"            : 124,
+  "n_lines"            : 9399,
+  "files_per_second"   : 145.521785163481,
+  "lines_per_second"   : 11030.3166028351,
+  "report_file"        : "loc/Hairfie__WebPro.json"},
+"JavaScript" :{
+  "nFiles": 103,
+  "blank": 1133,
+  "comment": 82,
+  "code": 6423},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 219,
+  "comment": 200,
+  "code": 996},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 50,
+  "comment": 1,
+  "code": 138},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 101},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"SUM": {
+  "blank": 1402,
+  "comment": 283,
+  "code": 7714,
+  "nFiles": 124} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.66321802139282,
+  "n_files"            : 50,
+  "n_lines"            : 3003,
+  "files_per_second"   : 5.77152737891748,
+  "lines_per_second"   : 346.637934377784,
+  "report_file"        : "loc/OpenNeuroOrg__datalad-service.json"},
+"Python" :{
+  "nFiles": 43,
+  "blank": 479,
+  "comment": 310,
+  "code": 2082},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 10,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 23},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 22},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 10},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 505,
+  "comment": 321,
+  "code": 2177,
+  "nFiles": 50} }

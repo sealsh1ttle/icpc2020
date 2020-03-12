@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.47093915939331,
+  "n_files"            : 25,
+  "n_lines"            : 892,
+  "files_per_second"   : 3.34629950353259,
+  "lines_per_second"   : 119.395966286043,
+  "report_file"        : "loc/bmeck__vscode-code-cover.json"},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 29,
+  "comment": 30,
+  "code": 628},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 151},
+"make" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 16},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 0},
+"SUM": {
+  "blank": 43,
+  "comment": 32,
+  "code": 817,
+  "nFiles": 25} }

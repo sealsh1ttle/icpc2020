@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 69.4731659889221,
+  "n_files"            : 481,
+  "n_lines"            : 102084,
+  "files_per_second"   : 6.92353649287695,
+  "lines_per_second"   : 1469.40186972734,
+  "report_file"        : "loc/CMU-Perceptual-Computing-Lab__openpose.json"},
+"C++" :{
+  "nFiles": 145,
+  "blank": 2263,
+  "comment": 5249,
+  "code": 28058},
+"XML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 32,
+  "code": 24307},
+"C/C++ Header" :{
+  "nFiles": 204,
+  "blank": 3752,
+  "comment": 5078,
+  "code": 18045},
+"Markdown" :{
+  "nFiles": 31,
+  "blank": 1052,
+  "comment": 0,
+  "code": 2792},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 831,
+  "comment": 2,
+  "code": 2785},
+"CMake" :{
+  "nFiles": 40,
+  "blank": 364,
+  "comment": 381,
+  "code": 1996},
+"CUDA" :{
+  "nFiles": 9,
+  "blank": 237,
+  "comment": 745,
+  "code": 1777},
+"Bourne Shell" :{
+  "nFiles": 31,
+  "blank": 281,
+  "comment": 255,
+  "code": 613},
+"Python" :{
+  "nFiles": 10,
+  "blank": 90,
+  "comment": 161,
+  "code": 508},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 70,
+  "code": 130},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 0,
+  "code": 105},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 16,
+  "code": 39},
+"SUM": {
+  "blank": 8940,
+  "comment": 11989,
+  "code": 81155,
+  "nFiles": 481} }

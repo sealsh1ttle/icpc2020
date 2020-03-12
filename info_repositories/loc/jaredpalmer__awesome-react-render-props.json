@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0736229419708252,
+  "n_files"            : 2,
+  "n_lines"            : 226,
+  "files_per_second"   : 27.1654452601547,
+  "lines_per_second"   : 3069.69531439748,
+  "report_file"        : "loc/jaredpalmer__awesome-react-render-props.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 107},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 90},
+"SUM": {
+  "blank": 29,
+  "comment": 0,
+  "code": 197,
+  "nFiles": 2} }

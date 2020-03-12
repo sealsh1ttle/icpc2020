@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.94642090797424,
+  "n_files"            : 344,
+  "n_lines"            : 69221,
+  "files_per_second"   : 176.734640791555,
+  "lines_per_second"   : 35563.2225878844,
+  "report_file"        : "loc/cisco__cisco-network-node-utils.json"},
+"Ruby" :{
+  "nFiles": 230,
+  "blank": 7401,
+  "comment": 8240,
+  "code": 42862},
+"YAML" :{
+  "nFiles": 91,
+  "blank": 1121,
+  "comment": 294,
+  "code": 5885},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 638,
+  "comment": 0,
+  "code": 2159},
+"Bourne Again Shell" :{
+  "nFiles": 12,
+  "blank": 82,
+  "comment": 69,
+  "code": 322},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 12,
+  "code": 99},
+"SUM": {
+  "blank": 9279,
+  "comment": 8615,
+  "code": 51327,
+  "nFiles": 344} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.0437359809875,
+  "n_files"            : 71,
+  "n_lines"            : 11092,
+  "files_per_second"   : 3.72826004681452,
+  "lines_per_second"   : 582.44873858122,
+  "report_file"        : "loc/imperugo__StackExchange.Redis.Extensions.json"},
+"C#" :{
+  "nFiles": 47,
+  "blank": 1384,
+  "comment": 3521,
+  "code": 4899},
+"MSBuild script" :{
+  "nFiles": 12,
+  "blank": 57,
+  "comment": 8,
+  "code": 618},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 88,
+  "comment": 0,
+  "code": 258},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 138},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 25,
+  "code": 36},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1551,
+  "comment": 3554,
+  "code": 5987,
+  "nFiles": 71} }

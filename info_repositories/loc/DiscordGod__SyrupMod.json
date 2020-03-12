@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.68822884559631,
+  "n_files"            : 81,
+  "n_lines"            : 3310,
+  "files_per_second"   : 47.9792773422192,
+  "lines_per_second"   : 1960.63466670056,
+  "report_file"        : "loc/DiscordGod__SyrupMod.json"},
+"Java" :{
+  "nFiles": 55,
+  "blank": 302,
+  "comment": 3,
+  "code": 1531},
+"Gradle" :{
+  "nFiles": 7,
+  "blank": 96,
+  "comment": 117,
+  "code": 434},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 42,
+  "code": 251},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 2,
+  "comment": 0,
+  "code": 139},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 4,
+  "code": 123},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 508,
+  "comment": 188,
+  "code": 2614,
+  "nFiles": 81} }

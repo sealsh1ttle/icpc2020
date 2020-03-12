@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 262.393556118011,
+  "n_files"            : 1179,
+  "n_lines"            : 76018,
+  "files_per_second"   : 4.49325058680079,
+  "lines_per_second"   : 289.709858445651,
+  "report_file"        : "loc/GoogleCloudPlatform__php-docs-samples.json"},
+"PHP" :{
+  "nFiles": 812,
+  "blank": 7789,
+  "comment": 22554,
+  "code": 33441},
+"Markdown" :{
+  "nFiles": 94,
+  "blank": 1645,
+  "comment": 0,
+  "code": 4082},
+"XML" :{
+  "nFiles": 86,
+  "blank": 252,
+  "comment": 1032,
+  "code": 1330},
+"JSON" :{
+  "nFiles": 88,
+  "blank": 1,
+  "comment": 0,
+  "code": 1166},
+"YAML" :{
+  "nFiles": 58,
+  "blank": 131,
+  "comment": 244,
+  "code": 714},
+"Twig" :{
+  "nFiles": 14,
+  "blank": 68,
+  "comment": 62,
+  "code": 464},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 64,
+  "comment": 140,
+  "code": 305},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 4,
+  "code": 206},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 15,
+  "code": 102},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 18,
+  "code": 65},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 12,
+  "code": 34},
+"INI" :{
+  "nFiles": 11,
+  "blank": 5,
+  "comment": 16,
+  "code": 17},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 3},
+"SUM": {
+  "blank": 9988,
+  "comment": 24101,
+  "code": 41929,
+  "nFiles": 1179} }

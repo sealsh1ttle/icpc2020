@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.470215797424316,
+  "n_files"            : 34,
+  "n_lines"            : 41174,
+  "files_per_second"   : 72.3072261422107,
+  "lines_per_second"   : 87564.0508582172,
+  "report_file"        : "loc/prakhar1989__react-tags.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 21744},
+"JavaScript" :{
+  "nFiles": 22,
+  "blank": 2489,
+  "comment": 2442,
+  "code": 13719},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 116,
+  "comment": 0,
+  "code": 442},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 58},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 4,
+  "code": 53},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 30},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 25},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 25},
+"SUM": {
+  "blank": 2627,
+  "comment": 2451,
+  "code": 36096,
+  "nFiles": 34} }

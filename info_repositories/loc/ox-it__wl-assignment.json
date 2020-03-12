@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.3599240779877,
+  "n_files"            : 86,
+  "n_lines"            : 54084,
+  "files_per_second"   : 3.84616690557832,
+  "lines_per_second"   : 2418.79175489881,
+  "report_file"        : "loc/ox-it__wl-assignment.json"},
+"Java" :{
+  "nFiles": 42,
+  "blank": 5422,
+  "comment": 9934,
+  "code": 26863},
+"Velocity Template Language" :{
+  "nFiles": 24,
+  "blank": 205,
+  "comment": 574,
+  "code": 9119},
+"XML" :{
+  "nFiles": 8,
+  "blank": 71,
+  "comment": 14,
+  "code": 460},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 27,
+  "comment": 6,
+  "code": 440},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 27,
+  "code": 386},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 1,
+  "code": 173},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 27,
+  "code": 138},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 17,
+  "code": 75},
+"SUM": {
+  "blank": 5830,
+  "comment": 10600,
+  "code": 37654,
+  "nFiles": 86} }

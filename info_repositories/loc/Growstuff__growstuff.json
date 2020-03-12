@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 203.111392974854,
+  "n_files"            : 937,
+  "n_lines"            : 32402,
+  "files_per_second"   : 4.61323211010623,
+  "lines_per_second"   : 159.52822500711,
+  "report_file"        : "loc/Growstuff__growstuff.json"},
+"Ruby" :{
+  "nFiles": 568,
+  "blank": 3661,
+  "comment": 1442,
+  "code": 18623},
+"Haml" :{
+  "nFiles": 242,
+  "blank": 561,
+  "comment": 31,
+  "code": 4434},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 108,
+  "comment": 361,
+  "code": 793},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 150,
+  "comment": 21,
+  "code": 725},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 7,
+  "comment": 36,
+  "code": 435},
+"ERB" :{
+  "nFiles": 11,
+  "blank": 33,
+  "comment": 0,
+  "code": 204},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 42,
+  "comment": 0,
+  "code": 174},
+"SVG" :{
+  "nFiles": 48,
+  "blank": 0,
+  "comment": 0,
+  "code": 136},
+"CoffeeScript" :{
+  "nFiles": 7,
+  "blank": 26,
+  "comment": 19,
+  "code": 112},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 3,
+  "code": 92},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 90},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 16,
+  "comment": 12,
+  "code": 49},
+"SUM": {
+  "blank": 4610,
+  "comment": 1925,
+  "code": 25867,
+  "nFiles": 937} }

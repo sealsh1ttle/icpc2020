@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0214929580688477,
+  "n_files"            : 1,
+  "n_lines"            : 59,
+  "files_per_second"   : 46.5268669299374,
+  "lines_per_second"   : 2745.08514886631,
+  "report_file"        : "loc/Investak__Interview-Challenge.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 34},
+"SUM": {
+  "blank": 25,
+  "comment": 0,
+  "code": 34,
+  "nFiles": 1} }

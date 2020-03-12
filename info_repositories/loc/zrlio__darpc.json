@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.216778993606567,
+  "n_files"            : 23,
+  "n_lines"            : 2581,
+  "files_per_second"   : 106.098841116233,
+  "lines_per_second"   : 11906.1351704781,
+  "report_file"        : "loc/zrlio__darpc.json"},
+"Java" :{
+  "nFiles": 21,
+  "blank": 290,
+  "comment": 434,
+  "code": 1508},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 184},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 125},
+"SUM": {
+  "blank": 330,
+  "comment": 434,
+  "code": 1817,
+  "nFiles": 23} }

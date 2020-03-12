@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 112.842119932175,
+  "n_files"            : 374,
+  "n_lines"            : 139793,
+  "files_per_second"   : 3.31436524078773,
+  "lines_per_second"   : 1238.83705910545,
+  "report_file"        : "loc/nltk__nltk.json"},
+"Python" :{
+  "nFiles": 347,
+  "blank": 20561,
+  "comment": 40333,
+  "code": 74794},
+"reStructuredText" :{
+  "nFiles": 9,
+  "blank": 381,
+  "comment": 111,
+  "code": 827},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 78,
+  "comment": 0,
+  "code": 451},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 359},
+"make" :{
+  "nFiles": 3,
+  "blank": 51,
+  "comment": 24,
+  "code": 176},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 46,
+  "comment": 45,
+  "code": 169},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1114,
+  "code": 111},
+"INI" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 7,
+  "code": 83},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 5,
+  "code": 36},
+"SUM": {
+  "blank": 21148,
+  "comment": 41639,
+  "code": 77006,
+  "nFiles": 374} }

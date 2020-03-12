@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.489841938018799,
+  "n_files"            : 2,
+  "n_lines"            : 175,
+  "files_per_second"   : 4.08294971249123,
+  "lines_per_second"   : 357.258099842982,
+  "report_file"        : "loc/ironhack-labs__lab-advance-querying-mongo.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 70,
+  "comment": 0,
+  "code": 105},
+"SUM": {
+  "blank": 70,
+  "comment": 0,
+  "code": 105,
+  "nFiles": 2} }

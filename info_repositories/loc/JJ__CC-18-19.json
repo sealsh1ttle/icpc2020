@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.40214896202087,
+  "n_files"            : 226,
+  "n_lines"            : 52320,
+  "files_per_second"   : 161.181162716316,
+  "lines_per_second"   : 37314.1523598126,
+  "report_file"        : "loc/JJ__CC-18-19.json"},
+"Perl" :{
+  "nFiles": 169,
+  "blank": 13415,
+  "comment": 14761,
+  "code": 19880},
+"Markdown" :{
+  "nFiles": 55,
+  "blank": 1314,
+  "comment": 0,
+  "code": 2927},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 14732,
+  "comment": 14761,
+  "code": 22827,
+  "nFiles": 226} }

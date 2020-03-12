@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.5487220287323,
+  "n_files"            : 20,
+  "n_lines"            : 1799,
+  "files_per_second"   : 4.39683934821005,
+  "lines_per_second"   : 395.495699371494,
+  "report_file"        : "loc/snjoetw__py-august.json"},
+"Python" :{
+  "nFiles": 12,
+  "blank": 304,
+  "comment": 8,
+  "code": 1079},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 293},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 51},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 335,
+  "comment": 8,
+  "code": 1456,
+  "nFiles": 20} }

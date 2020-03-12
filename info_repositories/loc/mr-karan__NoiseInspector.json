@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0747029781341553,
+  "n_files"            : 5,
+  "n_lines"            : 339,
+  "files_per_second"   : 66.9317358542354,
+  "lines_per_second"   : 4537.97169091716,
+  "report_file"        : "loc/mr-karan__NoiseInspector.json"},
+"Arduino Sketch" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 25,
+  "code": 155},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 2,
+  "code": 41},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 26},
+"Python" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 17},
+"SUM": {
+  "blank": 72,
+  "comment": 28,
+  "code": 239,
+  "nFiles": 5} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.388001918792725,
+  "n_files"            : 44,
+  "n_lines"            : 3339,
+  "files_per_second"   : 113.401501046456,
+  "lines_per_second"   : 8605.62754532081,
+  "report_file"        : "loc/aio-libs__aiohttp-devtools.json"},
+"Python" :{
+  "nFiles": 31,
+  "blank": 483,
+  "comment": 163,
+  "code": 2095},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 104,
+  "comment": 40,
+  "code": 223},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 7,
+  "code": 78},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 41},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 26},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 15},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 621,
+  "comment": 212,
+  "code": 2506,
+  "nFiles": 44} }

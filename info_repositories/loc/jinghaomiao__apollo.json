@@ -1,0 +1,149 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1210.59760689735,
+  "n_files"            : 4785,
+  "n_lines"            : 692029,
+  "files_per_second"   : 3.95259330824509,
+  "lines_per_second"   : 571.642464892694,
+  "report_file"        : "loc/jinghaomiao__apollo.json"},
+"C++" :{
+  "nFiles": 1826,
+  "blank": 41318,
+  "comment": 50040,
+  "code": 249609},
+"C/C++ Header" :{
+  "nFiles": 1540,
+  "blank": 26946,
+  "comment": 55525,
+  "code": 97627},
+"Markdown" :{
+  "nFiles": 305,
+  "blank": 10913,
+  "comment": 1,
+  "code": 26427},
+"Python" :{
+  "nFiles": 260,
+  "blank": 5008,
+  "comment": 6705,
+  "code": 21741},
+"XML" :{
+  "nFiles": 133,
+  "blank": 439,
+  "comment": 43,
+  "code": 21693},
+"Protocol Buffers" :{
+  "nFiles": 253,
+  "blank": 2139,
+  "comment": 3157,
+  "code": 12774},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 5,
+  "comment": 0,
+  "code": 12204},
+"JavaScript" :{
+  "nFiles": 115,
+  "blank": 1383,
+  "comment": 383,
+  "code": 9473},
+"C" :{
+  "nFiles": 5,
+  "blank": 631,
+  "comment": 1870,
+  "code": 8757},
+"Bourne Shell" :{
+  "nFiles": 171,
+  "blank": 1340,
+  "comment": 2699,
+  "code": 5375},
+"YAML" :{
+  "nFiles": 93,
+  "blank": 34,
+  "comment": 56,
+  "code": 3697},
+"CUDA" :{
+  "nFiles": 14,
+  "blank": 249,
+  "comment": 325,
+  "code": 2124},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 365,
+  "comment": 3,
+  "code": 1660},
+"diff" :{
+  "nFiles": 2,
+  "blank": 314,
+  "comment": 1449,
+  "code": 1486},
+"Qt" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 24,
+  "code": 1001},
+"reStructuredText" :{
+  "nFiles": 8,
+  "blank": 248,
+  "comment": 180,
+  "code": 797},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 56,
+  "comment": 0,
+  "code": 478},
+"Starlark" :{
+  "nFiles": 4,
+  "blank": 29,
+  "comment": 46,
+  "code": 221},
+"make" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 4,
+  "code": 156},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 37,
+  "comment": 43,
+  "code": 126},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 4,
+  "code": 103},
+"GLSL" :{
+  "nFiles": 7,
+  "blank": 28,
+  "comment": 107,
+  "code": 77},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 62},
+"Assembly" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 15,
+  "code": 52},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"INI" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 91560,
+  "comment": 122680,
+  "code": 477789,
+  "nFiles": 4785} }

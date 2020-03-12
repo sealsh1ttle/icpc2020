@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 201.810117959976,
+  "n_files"            : 869,
+  "n_lines"            : 201158,
+  "files_per_second"   : 4.3060279077402,
+  "lines_per_second"   : 996.768655771236,
+  "report_file"        : "loc/apiaryio__drafter.json"},
+"JSON" :{
+  "nFiles": 290,
+  "blank": 0,
+  "comment": 0,
+  "code": 73075},
+"C/C++ Header" :{
+  "nFiles": 283,
+  "blank": 8370,
+  "comment": 10811,
+  "code": 31144},
+"C++" :{
+  "nFiles": 156,
+  "blank": 7036,
+  "comment": 1539,
+  "code": 30019},
+"Python" :{
+  "nFiles": 55,
+  "blank": 4318,
+  "comment": 7713,
+  "code": 20746},
+"YAML" :{
+  "nFiles": 33,
+  "blank": 41,
+  "comment": 0,
+  "code": 3448},
+"CMake" :{
+  "nFiles": 20,
+  "blank": 162,
+  "comment": 11,
+  "code": 731},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 292,
+  "comment": 0,
+  "code": 541},
+"Lisp" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 38,
+  "code": 258},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 1,
+  "code": 188},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 47,
+  "comment": 18,
+  "code": 174},
+"C" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 2,
+  "code": 97},
+"make" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 2,
+  "code": 65},
+"Cucumber" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 2,
+  "code": 63},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 0,
+  "code": 19},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 20436,
+  "comment": 20137,
+  "code": 160585,
+  "nFiles": 869} }

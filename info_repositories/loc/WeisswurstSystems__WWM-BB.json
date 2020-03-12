@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.368200063705444,
+  "n_files"            : 73,
+  "n_lines"            : 3616,
+  "files_per_second"   : 198.261779928423,
+  "lines_per_second"   : 9820.74789344077,
+  "report_file"        : "loc/WeisswurstSystems__WWM-BB.json"},
+"Go" :{
+  "nFiles": 66,
+  "blank": 535,
+  "comment": 224,
+  "code": 2759},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 27},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 11},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 558,
+  "comment": 224,
+  "code": 2834,
+  "nFiles": 73} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.6775288581848,
+  "n_files"            : 91,
+  "n_lines"            : 4431,
+  "files_per_second"   : 1.90865596811186,
+  "lines_per_second"   : 92.9368636780622,
+  "report_file"        : "loc/budtmo__docker-android.json"},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 133,
+  "comment": 35,
+  "code": 854},
+"YAML" :{
+  "nFiles": 23,
+  "blank": 22,
+  "comment": 79,
+  "code": 838},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 606},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 237,
+  "comment": 0,
+  "code": 533},
+"Python" :{
+  "nFiles": 11,
+  "blank": 134,
+  "comment": 47,
+  "code": 477},
+"HCL" :{
+  "nFiles": 5,
+  "blank": 33,
+  "comment": 10,
+  "code": 141},
+"INI" :{
+  "nFiles": 12,
+  "blank": 68,
+  "comment": 0,
+  "code": 113},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 71},
+"SUM": {
+  "blank": 627,
+  "comment": 171,
+  "code": 3633,
+  "nFiles": 91} }

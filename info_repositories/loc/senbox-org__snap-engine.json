@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.4090750217438,
+  "n_files"            : 3212,
+  "n_lines"            : 529268,
+  "files_per_second"   : 67.7507417836531,
+  "lines_per_second"   : 11163.8541725873,
+  "report_file"        : "loc/senbox-org__snap-engine.json"},
+"Java" :{
+  "nFiles": 2795,
+  "blank": 59785,
+  "comment": 90474,
+  "code": 298259},
+"JSON" :{
+  "nFiles": 159,
+  "blank": 4,
+  "comment": 0,
+  "code": 62033},
+"XML" :{
+  "nFiles": 146,
+  "blank": 292,
+  "comment": 173,
+  "code": 5955},
+"Maven" :{
+  "nFiles": 47,
+  "blank": 371,
+  "comment": 402,
+  "code": 4606},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 379,
+  "comment": 314,
+  "code": 1983},
+"XSD" :{
+  "nFiles": 4,
+  "blank": 109,
+  "comment": 22,
+  "code": 1088},
+"Python" :{
+  "nFiles": 19,
+  "blank": 333,
+  "comment": 169,
+  "code": 977},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 0,
+  "code": 322},
+"Velocity Template Language" :{
+  "nFiles": 6,
+  "blank": 28,
+  "comment": 0,
+  "code": 265},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 0,
+  "code": 192},
+"make" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 164},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 33,
+  "code": 154},
+"Haskell" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 0,
+  "code": 92},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 87},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 5,
+  "code": 20},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 3,
+  "code": 6},
+"SUM": {
+  "blank": 61462,
+  "comment": 91595,
+  "code": 376211,
+  "nFiles": 3212} }

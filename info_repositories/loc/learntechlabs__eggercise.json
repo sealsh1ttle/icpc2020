@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.5103139877319,
+  "n_files"            : 155,
+  "n_lines"            : 45695,
+  "files_per_second"   : 3.73401174575093,
+  "lines_per_second"   : 1100.81075304573,
+  "report_file"        : "loc/learntechlabs__eggercise.json"},
+"JavaScript" :{
+  "nFiles": 123,
+  "blank": 4038,
+  "comment": 20976,
+  "code": 18664},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 38,
+  "comment": 23,
+  "code": 577},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 181,
+  "comment": 0,
+  "code": 524},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 224},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 28,
+  "code": 206},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 18,
+  "code": 94},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 4336,
+  "comment": 21046,
+  "code": 20313,
+  "nFiles": 155} }

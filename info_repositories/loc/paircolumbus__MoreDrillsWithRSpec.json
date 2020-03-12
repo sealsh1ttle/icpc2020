@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.959509134292603,
+  "n_files"            : 5,
+  "n_lines"            : 129,
+  "files_per_second"   : 5.21099781263286,
+  "lines_per_second"   : 134.443743565928,
+  "report_file"        : "loc/paircolumbus__MoreDrillsWithRSpec.json"},
+"Ruby" :{
+  "nFiles": 4,
+  "blank": 28,
+  "comment": 14,
+  "code": 52},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 38,
+  "comment": 14,
+  "code": 77,
+  "nFiles": 5} }

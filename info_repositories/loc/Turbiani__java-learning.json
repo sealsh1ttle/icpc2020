@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.39997577667236,
+  "n_files"            : 37,
+  "n_lines"            : 1535,
+  "files_per_second"   : 5.00001636716684,
+  "lines_per_second"   : 207.433111448679,
+  "report_file"        : "loc/Turbiani__java-learning.json"},
+"Java" :{
+  "nFiles": 34,
+  "blank": 312,
+  "comment": 231,
+  "code": 972},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 11},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 318,
+  "comment": 231,
+  "code": 986,
+  "nFiles": 37} }

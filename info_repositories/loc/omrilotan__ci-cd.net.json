@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.3976380825043,
+  "n_files"            : 23,
+  "n_lines"            : 466,
+  "files_per_second"   : 1.40264103185325,
+  "lines_per_second"   : 28.4187269932007,
+  "report_file"        : "loc/omrilotan__ci-cd.net.json"},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 85,
+  "comment": 0,
+  "code": 262},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 59},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 88,
+  "comment": 0,
+  "code": 378,
+  "nFiles": 23} }

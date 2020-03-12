@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 149.310736179352,
+  "n_files"            : 69,
+  "n_lines"            : 42708,
+  "files_per_second"   : 0.462123500061759,
+  "lines_per_second"   : 286.034354212139,
+  "report_file"        : "loc/RoadrunnerWMC__Reggie-Next.json"},
+"Python" :{
+  "nFiles": 15,
+  "blank": 6496,
+  "comment": 11799,
+  "code": 16282},
+"XML" :{
+  "nFiles": 31,
+  "blank": 125,
+  "comment": 30,
+  "code": 4785},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 284,
+  "comment": 47,
+  "code": 1978},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 131,
+  "comment": 21,
+  "code": 481},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 0,
+  "code": 188},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 13,
+  "code": 4},
+"SUM": {
+  "blank": 7080,
+  "comment": 11910,
+  "code": 23718,
+  "nFiles": 69} }

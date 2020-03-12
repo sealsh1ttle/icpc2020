@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.16884207725525,
+  "n_files"            : 33,
+  "n_lines"            : 4536,
+  "files_per_second"   : 4.60325386504187,
+  "lines_per_second"   : 632.73816763121,
+  "report_file"        : "loc/sendgrid__Gridium.json"},
+"Ruby" :{
+  "nFiles": 26,
+  "blank": 653,
+  "comment": 239,
+  "code": 3219},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 0,
+  "code": 209},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 80},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 8,
+  "code": 48},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 729,
+  "comment": 247,
+  "code": 3560,
+  "nFiles": 33} }

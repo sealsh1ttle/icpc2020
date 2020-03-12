@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 199.815802097321,
+  "n_files"            : 729,
+  "n_lines"            : 39793,
+  "files_per_second"   : 3.64836010139448,
+  "lines_per_second"   : 199.148413600536,
+  "report_file"        : "loc/exercism__csharp.json"},
+"C#" :{
+  "nFiles": 522,
+  "blank": 4213,
+  "comment": 177,
+  "code": 26051},
+"Markdown" :{
+  "nFiles": 164,
+  "blank": 2361,
+  "comment": 0,
+  "code": 4720},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1456},
+"MSBuild script" :{
+  "nFiles": 17,
+  "blank": 67,
+  "comment": 0,
+  "code": 240},
+"PowerShell" :{
+  "nFiles": 8,
+  "blank": 72,
+  "comment": 112,
+  "code": 222},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 36},
+"liquid" :{
+  "nFiles": 13,
+  "blank": 3,
+  "comment": 0,
+  "code": 31},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 6723,
+  "comment": 289,
+  "code": 32781,
+  "nFiles": 729} }

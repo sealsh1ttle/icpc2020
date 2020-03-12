@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.316948890686035,
+  "n_files"            : 51,
+  "n_lines"            : 7314,
+  "files_per_second"   : 160.909223848711,
+  "lines_per_second"   : 23076.2757495976,
+  "report_file"        : "loc/cockpit-project__cockpit-podman.json"},
+"JSX" :{
+  "nFiles": 22,
+  "blank": 356,
+  "comment": 234,
+  "code": 2653},
+"LESS" :{
+  "nFiles": 3,
+  "blank": 159,
+  "comment": 160,
+  "code": 761},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 99,
+  "comment": 25,
+  "code": 569},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 107,
+  "comment": 0,
+  "code": 514},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 85,
+  "comment": 81,
+  "code": 428},
+"Python" :{
+  "nFiles": 1,
+  "blank": 114,
+  "comment": 79,
+  "code": 423},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 132},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 25,
+  "code": 105},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 29},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 4,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 6,
+  "code": 19},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 13,
+  "code": 17},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 2},
+"SUM": {
+  "blank": 982,
+  "comment": 629,
+  "code": 5703,
+  "nFiles": 51} }

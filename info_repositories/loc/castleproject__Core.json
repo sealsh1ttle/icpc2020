@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.0710217952728,
+  "n_files"            : 858,
+  "n_lines"            : 105667,
+  "files_per_second"   : 85.1949303101232,
+  "lines_per_second"   : 10492.1826352911,
+  "report_file"        : "loc/castleproject__Core.json"},
+"C#" :{
+  "nFiles": 822,
+  "blank": 11868,
+  "comment": 17855,
+  "code": 73578},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 415,
+  "comment": 0,
+  "code": 1096},
+"MSBuild script" :{
+  "nFiles": 7,
+  "blank": 51,
+  "comment": 0,
+  "code": 293},
+"XML" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 50,
+  "code": 181},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 18,
+  "code": 51},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 15,
+  "code": 48},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 30,
+  "code": 37},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 12410,
+  "comment": 17968,
+  "code": 75289,
+  "nFiles": 858} }

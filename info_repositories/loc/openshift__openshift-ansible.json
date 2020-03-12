@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.694739103317261,
+  "n_files"            : 97,
+  "n_lines"            : 5346,
+  "files_per_second"   : 139.620757687082,
+  "lines_per_second"   : 7694.97495458908,
+  "report_file"        : "loc/openshift__openshift-ansible.json"},
+"YAML" :{
+  "nFiles": 33,
+  "blank": 116,
+  "comment": 53,
+  "code": 1172},
+"Python" :{
+  "nFiles": 5,
+  "blank": 256,
+  "comment": 300,
+  "code": 834},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 261,
+  "comment": 0,
+  "code": 624},
+"AsciiDoc" :{
+  "nFiles": 3,
+  "blank": 169,
+  "comment": 3,
+  "code": 542},
+"HCL" :{
+  "nFiles": 8,
+  "blank": 73,
+  "comment": 9,
+  "code": 298},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 48,
+  "comment": 35,
+  "code": 218},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 43,
+  "comment": 45,
+  "code": 163},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 29},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 24},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 977,
+  "comment": 448,
+  "code": 3921,
+  "nFiles": 97} }

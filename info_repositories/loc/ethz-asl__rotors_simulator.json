@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.8039519786835,
+  "n_files"            : 240,
+  "n_lines"            : 27604,
+  "files_per_second"   : 3.3896413023987,
+  "lines_per_second"   : 389.865243797558,
+  "report_file"        : "loc/ethz-asl__rotors_simulator.json"},
+"C++" :{
+  "nFiles": 38,
+  "blank": 1679,
+  "comment": 1762,
+  "code": 6501},
+"XML" :{
+  "nFiles": 57,
+  "blank": 489,
+  "comment": 628,
+  "code": 4625},
+"C/C++ Header" :{
+  "nFiles": 44,
+  "blank": 994,
+  "comment": 1394,
+  "code": 2814},
+"Python" :{
+  "nFiles": 14,
+  "blank": 429,
+  "comment": 384,
+  "code": 2013},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 121,
+  "comment": 0,
+  "code": 1189},
+"CMake" :{
+  "nFiles": 19,
+  "blank": 172,
+  "comment": 253,
+  "code": 730},
+"YAML" :{
+  "nFiles": 23,
+  "blank": 18,
+  "comment": 58,
+  "code": 324},
+"Protocol Buffers" :{
+  "nFiles": 30,
+  "blank": 80,
+  "comment": 68,
+  "code": 318},
+"Qt" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 315},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 0,
+  "code": 164},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 2,
+  "code": 14},
+"Gencat NLS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 4045,
+  "comment": 4549,
+  "code": 19010,
+  "nFiles": 240} }

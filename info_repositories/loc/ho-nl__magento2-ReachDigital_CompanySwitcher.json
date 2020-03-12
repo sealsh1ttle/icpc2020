@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.331856966018677,
+  "n_files"            : 26,
+  "n_lines"            : 724,
+  "files_per_second"   : 78.3470068804785,
+  "lines_per_second"   : 2181.66280697948,
+  "report_file"        : "loc/ho-nl__magento2-ReachDigital_CompanySwitcher.json"},
+"PHP" :{
+  "nFiles": 11,
+  "blank": 54,
+  "comment": 107,
+  "code": 208},
+"XML" :{
+  "nFiles": 8,
+  "blank": 12,
+  "comment": 32,
+  "code": 122},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 20,
+  "code": 77},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 34},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 9},
+"SUM": {
+  "blank": 92,
+  "comment": 163,
+  "code": 469,
+  "nFiles": 26} }

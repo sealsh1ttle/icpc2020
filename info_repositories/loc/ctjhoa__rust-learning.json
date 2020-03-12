@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.12341594696045,
+  "n_files"            : 18,
+  "n_lines"            : 720,
+  "files_per_second"   : 8.47690723325592,
+  "lines_per_second"   : 339.076289330237,
+  "report_file"        : "loc/ctjhoa__rust-learning.json"},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 153,
+  "comment": 0,
+  "code": 543},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 153,
+  "comment": 0,
+  "code": 567,
+  "nFiles": 18} }

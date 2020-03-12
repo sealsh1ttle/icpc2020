@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 68.3190732002258,
+  "n_files"            : 329,
+  "n_lines"            : 56762,
+  "files_per_second"   : 4.81563909738331,
+  "lines_per_second"   : 830.836797707209,
+  "report_file"        : "loc/iamgreaser__libTAS.json"},
+"C++" :{
+  "nFiles": 145,
+  "blank": 6438,
+  "comment": 4698,
+  "code": 27112},
+"C/C++ Header" :{
+  "nFiles": 167,
+  "blank": 3318,
+  "comment": 6764,
+  "code": 7268},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 23,
+  "code": 245},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 71,
+  "comment": 0,
+  "code": 223},
+"C" :{
+  "nFiles": 7,
+  "blank": 46,
+  "comment": 8,
+  "code": 198},
+"Python" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 33,
+  "code": 173},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 18},
+"make" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 10,
+  "code": 18},
+"SUM": {
+  "blank": 9971,
+  "comment": 11536,
+  "code": 35255,
+  "nFiles": 329} }

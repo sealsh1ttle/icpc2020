@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.80552291870117,
+  "n_files"            : 30,
+  "n_lines"            : 1941,
+  "files_per_second"   : 5.16749316471766,
+  "lines_per_second"   : 334.336807757232,
+  "report_file"        : "loc/TheAlgorithms__Go.json"},
+"Go" :{
+  "nFiles": 29,
+  "blank": 303,
+  "comment": 225,
+  "code": 1246},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 0,
+  "code": 110},
+"SUM": {
+  "blank": 360,
+  "comment": 225,
+  "code": 1356,
+  "nFiles": 30} }

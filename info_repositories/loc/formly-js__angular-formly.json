@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.599833965301514,
+  "n_files"            : 48,
+  "n_lines"            : 8670,
+  "files_per_second"   : 80.0221440876097,
+  "lines_per_second"   : 14453.9997758245,
+  "report_file"        : "loc/formly-js__angular-formly.json"},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 1142,
+  "comment": 206,
+  "code": 6714},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 140,
+  "comment": 0,
+  "code": 280},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 164},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 1282,
+  "comment": 206,
+  "code": 7182,
+  "nFiles": 48} }

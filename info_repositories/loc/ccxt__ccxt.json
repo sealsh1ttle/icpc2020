@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.70175886154175,
+  "n_files"            : 884,
+  "n_lines"            : 503780,
+  "files_per_second"   : 91.1174986531792,
+  "lines_per_second"   : 51926.6668229623,
+  "report_file"        : "loc/ccxt__ccxt.json"},
+"JavaScript" :{
+  "nFiles": 288,
+  "blank": 16003,
+  "comment": 40377,
+  "code": 173360},
+"Python" :{
+  "nFiles": 349,
+  "blank": 8283,
+  "comment": 30760,
+  "code": 122516},
+"PHP" :{
+  "nFiles": 182,
+  "blank": 4821,
+  "comment": 15211,
+  "code": 72377},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 5474},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 1481,
+  "comment": 0,
+  "code": 5055},
+"reStructuredText" :{
+  "nFiles": 8,
+  "blank": 1557,
+  "comment": 2118,
+  "code": 3190},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 50,
+  "comment": 18,
+  "code": 560},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 55,
+  "comment": 0,
+  "code": 172},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 18,
+  "code": 109},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 3,
+  "code": 44},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 10,
+  "code": 27},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"XML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 25},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 32287,
+  "comment": 88522,
+  "code": 382971,
+  "nFiles": 884} }

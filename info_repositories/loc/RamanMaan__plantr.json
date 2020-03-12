@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.4900221824646,
+  "n_files"            : 79,
+  "n_lines"            : 4603,
+  "files_per_second"   : 161.217191439506,
+  "lines_per_second"   : 9393.45230627908,
+  "report_file"        : "loc/RamanMaan__plantr.json"},
+"Java" :{
+  "nFiles": 46,
+  "blank": 662,
+  "comment": 206,
+  "code": 2232},
+"XML" :{
+  "nFiles": 25,
+  "blank": 58,
+  "comment": 5,
+  "code": 834},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 250},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 3,
+  "code": 49},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 21,
+  "code": 0},
+"SUM": {
+  "blank": 796,
+  "comment": 257,
+  "code": 3550,
+  "nFiles": 79} }

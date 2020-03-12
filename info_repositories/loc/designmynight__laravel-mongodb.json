@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.509186983108521,
+  "n_files"            : 75,
+  "n_lines"            : 11155,
+  "files_per_second"   : 147.293631785586,
+  "lines_per_second"   : 21907.4728342429,
+  "report_file"        : "loc/designmynight__laravel-mongodb.json"},
+"PHP" :{
+  "nFiles": 69,
+  "blank": 1773,
+  "comment": 1944,
+  "code": 6198},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 341,
+  "comment": 0,
+  "code": 731},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 53},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 44},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 2126,
+  "comment": 1944,
+  "code": 7085,
+  "nFiles": 75} }

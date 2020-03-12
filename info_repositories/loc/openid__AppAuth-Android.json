@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.1371459960938,
+  "n_files"            : 127,
+  "n_lines"            : 22576,
+  "files_per_second"   : 5.05228397924472,
+  "lines_per_second"   : 898.113095397077,
+  "report_file"        : "loc/openid__AppAuth-Android.json"},
+"Java" :{
+  "nFiles": 94,
+  "blank": 2670,
+  "comment": 4863,
+  "code": 12426},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 197,
+  "comment": 0,
+  "code": 763},
+"XML" :{
+  "nFiles": 12,
+  "blank": 146,
+  "comment": 184,
+  "code": 657},
+"Gradle" :{
+  "nFiles": 10,
+  "blank": 44,
+  "comment": 14,
+  "code": 325},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 16},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3102,
+  "comment": 5087,
+  "code": 14387,
+  "nFiles": 127} }

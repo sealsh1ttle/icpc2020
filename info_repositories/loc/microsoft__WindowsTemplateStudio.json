@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 83.0488920211792,
+  "n_files"            : 6223,
+  "n_lines"            : 209135,
+  "files_per_second"   : 74.9317642722194,
+  "lines_per_second"   : 2518.2154139596,
+  "report_file"        : "loc/microsoft__WindowsTemplateStudio.json"},
+"C#" :{
+  "nFiles": 1025,
+  "blank": 10813,
+  "comment": 5299,
+  "code": 52468},
+"JSON" :{
+  "nFiles": 3183,
+  "blank": 17,
+  "comment": 0,
+  "code": 47847},
+"XAML" :{
+  "nFiles": 398,
+  "blank": 3694,
+  "comment": 855,
+  "code": 22319},
+"Markdown" :{
+  "nFiles": 954,
+  "blank": 5747,
+  "comment": 0,
+  "code": 16168},
+"XML" :{
+  "nFiles": 99,
+  "blank": 551,
+  "comment": 2175,
+  "code": 14600},
+"Visual Basic" :{
+  "nFiles": 395,
+  "blank": 2838,
+  "comment": 1632,
+  "code": 12919},
+"MSBuild script" :{
+  "nFiles": 52,
+  "blank": 32,
+  "comment": 159,
+  "code": 5975},
+"SVG" :{
+  "nFiles": 37,
+  "blank": 4,
+  "comment": 3,
+  "code": 867},
+"PowerShell" :{
+  "nFiles": 18,
+  "blank": 205,
+  "comment": 93,
+  "code": 844},
+"JavaScript" :{
+  "nFiles": 52,
+  "blank": 30,
+  "comment": 519,
+  "code": 173},
+"DOS Batch" :{
+  "nFiles": 7,
+  "blank": 43,
+  "comment": 6,
+  "code": 152},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 77},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 23979,
+  "comment": 10746,
+  "code": 174410,
+  "nFiles": 6223} }

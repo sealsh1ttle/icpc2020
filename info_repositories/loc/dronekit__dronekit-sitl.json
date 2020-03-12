@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.12114596366882,
+  "n_files"            : 37,
+  "n_lines"            : 4065,
+  "files_per_second"   : 17.4434011773538,
+  "lines_per_second"   : 1916.4169131336,
+  "report_file"        : "loc/dronekit__dronekit-sitl.json"},
+"Python" :{
+  "nFiles": 24,
+  "blank": 618,
+  "comment": 471,
+  "code": 2500},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 0,
+  "code": 129},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 16,
+  "code": 101},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 14,
+  "code": 67},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 722,
+  "comment": 501,
+  "code": 2842,
+  "nFiles": 37} }

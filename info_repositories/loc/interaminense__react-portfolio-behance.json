@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.970355987548828,
+  "n_files"            : 34,
+  "n_lines"            : 11496,
+  "files_per_second"   : 35.0386872820622,
+  "lines_per_second"   : 11847.1984998408,
+  "report_file"        : "loc/interaminense__react-portfolio-behance.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 9450},
+"Sass" :{
+  "nFiles": 16,
+  "blank": 104,
+  "comment": 12,
+  "code": 647},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 38,
+  "comment": 0,
+  "code": 616},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 73,
+  "comment": 27,
+  "code": 401},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 0,
+  "code": 48},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 20,
+  "code": 30},
+"SUM": {
+  "blank": 245,
+  "comment": 59,
+  "code": 11192,
+  "nFiles": 34} }

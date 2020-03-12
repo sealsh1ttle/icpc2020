@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 155.490339994431,
+  "n_files"            : 614,
+  "n_lines"            : 132794,
+  "files_per_second"   : 3.94879836279214,
+  "lines_per_second"   : 854.033761870715,
+  "report_file"        : "loc/BVLC__caffe.json"},
+"C++" :{
+  "nFiles": 186,
+  "blank": 4827,
+  "comment": 4965,
+  "code": 42856},
+"C/C++ Header" :{
+  "nFiles": 109,
+  "blank": 3376,
+  "comment": 7535,
+  "code": 18443},
+"Python" :{
+  "nFiles": 39,
+  "blank": 1465,
+  "comment": 3115,
+  "code": 5379},
+"CUDA" :{
+  "nFiles": 65,
+  "blank": 658,
+  "comment": 325,
+  "code": 5059},
+"Markdown" :{
+  "nFiles": 98,
+  "blank": 1348,
+  "comment": 0,
+  "code": 3560},
+"CMake" :{
+  "nFiles": 36,
+  "blank": 452,
+  "comment": 504,
+  "code": 2036},
+"Jupyter Notebook" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 21137,
+  "code": 951},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 150,
+  "comment": 585,
+  "code": 714},
+"MATLAB" :{
+  "nFiles": 22,
+  "blank": 94,
+  "comment": 205,
+  "code": 627},
+"Bourne Shell" :{
+  "nFiles": 40,
+  "blank": 166,
+  "comment": 159,
+  "code": 589},
+"make" :{
+  "nFiles": 1,
+  "blank": 92,
+  "comment": 110,
+  "code": 507},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 71,
+  "comment": 8,
+  "code": 359},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 8,
+  "code": 173},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 4,
+  "code": 77},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 20,
+  "code": 43},
+"SUM": {
+  "blank": 12741,
+  "comment": 38680,
+  "code": 81373,
+  "nFiles": 614} }

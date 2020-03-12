@@ -1,0 +1,179 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1831.15924286842,
+  "n_files"            : 4811,
+  "n_lines"            : 1067936,
+  "files_per_second"   : 2.6272974449037,
+  "lines_per_second"   : 583.202145940693,
+  "report_file"        : "loc/jamshark70__supercollider.json"},
+"C/C++ Header" :{
+  "nFiles": 3750,
+  "blank": 94184,
+  "comment": 112008,
+  "code": 491840},
+"C++" :{
+  "nFiles": 464,
+  "blank": 36974,
+  "comment": 18971,
+  "code": 173564},
+"Scheme" :{
+  "nFiles": 391,
+  "blank": 11369,
+  "comment": 17,
+  "code": 67641},
+"Qt Linguist" :{
+  "nFiles": 9,
+  "blank": 54,
+  "comment": 0,
+  "code": 19829},
+"C" :{
+  "nFiles": 17,
+  "blank": 1517,
+  "comment": 1525,
+  "code": 7796},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 1221,
+  "comment": 0,
+  "code": 6145},
+"CMake" :{
+  "nFiles": 41,
+  "blank": 672,
+  "comment": 406,
+  "code": 3351},
+"Lisp" :{
+  "nFiles": 14,
+  "blank": 511,
+  "comment": 633,
+  "code": 2775},
+"Python" :{
+  "nFiles": 25,
+  "blank": 778,
+  "comment": 1061,
+  "code": 2664},
+"Objective C++" :{
+  "nFiles": 8,
+  "blank": 317,
+  "comment": 271,
+  "code": 1286},
+"Qt" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 1223},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 142,
+  "comment": 42,
+  "code": 1149},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 83,
+  "comment": 2,
+  "code": 1009},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 221,
+  "comment": 548,
+  "code": 788},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 97,
+  "comment": 42,
+  "code": 716},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 78,
+  "comment": 57,
+  "code": 314},
+"Bourne Shell" :{
+  "nFiles": 17,
+  "blank": 52,
+  "comment": 40,
+  "code": 236},
+"XML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 166},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 16,
+  "code": 160},
+"make" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 24,
+  "code": 130},
+"lex" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 18,
+  "code": 130},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 3,
+  "code": 121},
+"R" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 74,
+  "code": 110},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 109},
+"diff" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 109,
+  "code": 85},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 9,
+  "code": 72},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 21,
+  "code": 49},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 3,
+  "code": 26},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Objective C" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 15,
+  "code": 20},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"Expect" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 148488,
+  "comment": 135915,
+  "code": 783533,
+  "nFiles": 4811} }

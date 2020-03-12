@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.44030404090881,
+  "n_files"            : 4,
+  "n_lines"            : 325,
+  "files_per_second"   : 1.1626879346813,
+  "lines_per_second"   : 94.4683946928557,
+  "report_file"        : "loc/flathub__com.makemkv.MakeMKV.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 160},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 141},
+"diff" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 13,
+  "code": 8},
+"SUM": {
+  "blank": 3,
+  "comment": 13,
+  "code": 309,
+  "nFiles": 4} }

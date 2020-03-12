@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.1443748474121,
+  "n_files"            : 57,
+  "n_lines"            : 26874,
+  "files_per_second"   : 4.33645575858043,
+  "lines_per_second"   : 2044.52477291387,
+  "report_file"        : "loc/pyvec__pyworking-materials.json"},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 3,
+  "comment": 4,
+  "code": 5620},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 564,
+  "comment": 0,
+  "code": 1466},
+"Jupyter Notebook" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 18182,
+  "code": 372},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 8,
+  "code": 206},
+"Python" :{
+  "nFiles": 12,
+  "blank": 74,
+  "comment": 62,
+  "code": 202},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 50},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 670,
+  "comment": 18256,
+  "code": 7948,
+  "nFiles": 57} }

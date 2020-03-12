@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.45945501327515,
+  "n_files"            : 30,
+  "n_lines"            : 5573,
+  "files_per_second"   : 4.64435466124395,
+  "lines_per_second"   : 862.766284237084,
+  "report_file"        : "loc/flarum__sticky.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 4832},
+"PHP" :{
+  "nFiles": 12,
+  "blank": 86,
+  "comment": 197,
+  "code": 272},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 20,
+  "comment": 18,
+  "code": 100},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 25},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 115,
+  "comment": 215,
+  "code": 5243,
+  "nFiles": 30} }

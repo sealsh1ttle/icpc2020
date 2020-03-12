@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 45.0147380828857,
+  "n_files"            : 146,
+  "n_lines"            : 13583,
+  "files_per_second"   : 3.24338219476408,
+  "lines_per_second"   : 301.745618845756,
+  "report_file"        : "loc/LibreShift__red-moon.json"},
+"XML" :{
+  "nFiles": 71,
+  "blank": 443,
+  "comment": 617,
+  "code": 4904},
+"Kotlin" :{
+  "nFiles": 48,
+  "blank": 639,
+  "comment": 796,
+  "code": 2703},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 15,
+  "comment": 15,
+  "code": 2690},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 70,
+  "comment": 0,
+  "code": 272},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 6,
+  "code": 109},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 1230,
+  "comment": 1472,
+  "code": 10881,
+  "nFiles": 146} }

@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 137.120074033737,
+  "n_files"            : 11668,
+  "n_lines"            : 6226040,
+  "files_per_second"   : 85.0933029479636,
+  "lines_per_second"   : 45405.751447218,
+  "report_file"        : "loc/alisw__AliPhysics.json"},
+"C++" :{
+  "nFiles": 7792,
+  "blank": 612872,
+  "comment": 709610,
+  "code": 4142427},
+"C/C++ Header" :{
+  "nFiles": 3266,
+  "blank": 81464,
+  "comment": 100131,
+  "code": 331531},
+"XML" :{
+  "nFiles": 15,
+  "blank": 10,
+  "comment": 14,
+  "code": 150454},
+"Bourne Shell" :{
+  "nFiles": 217,
+  "blank": 3586,
+  "comment": 4321,
+  "code": 21362},
+"Python" :{
+  "nFiles": 100,
+  "blank": 2486,
+  "comment": 4645,
+  "code": 12095},
+"CMake" :{
+  "nFiles": 156,
+  "blank": 2288,
+  "comment": 4481,
+  "code": 8881},
+"TeX" :{
+  "nFiles": 17,
+  "blank": 587,
+  "comment": 631,
+  "code": 8684},
+"C" :{
+  "nFiles": 4,
+  "blank": 489,
+  "comment": 1579,
+  "code": 5293},
+"Markdown" :{
+  "nFiles": 35,
+  "blank": 1132,
+  "comment": 0,
+  "code": 4700},
+"Fortran 77" :{
+  "nFiles": 4,
+  "blank": 127,
+  "comment": 892,
+  "code": 2840},
+"YAML" :{
+  "nFiles": 29,
+  "blank": 50,
+  "comment": 145,
+  "code": 1715},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 95,
+  "comment": 12,
+  "code": 1235},
+"SWIG" :{
+  "nFiles": 1,
+  "blank": 733,
+  "comment": 0,
+  "code": 471},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 106,
+  "comment": 44,
+  "code": 341},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 62,
+  "comment": 60,
+  "code": 274},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 11,
+  "code": 258},
+"make" :{
+  "nFiles": 7,
+  "blank": 82,
+  "comment": 57,
+  "code": 242},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 21,
+  "code": 119},
+"INI" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 87},
+"diff" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 47,
+  "code": 56},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 37},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"D" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 706228,
+  "comment": 826702,
+  "code": 4693110,
+  "nFiles": 11668} }

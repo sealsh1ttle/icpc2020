@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.366317987442,
+  "n_files"            : 78,
+  "n_lines"            : 25736,
+  "files_per_second"   : 3.07494371231233,
+  "lines_per_second"   : 1014.57373564192,
+  "report_file"        : "loc/alberthdev__spasm-ng.json"},
+"Pascal" :{
+  "nFiles": 3,
+  "blank": 279,
+  "comment": 0,
+  "code": 10028},
+"C++" :{
+  "nFiles": 24,
+  "blank": 1460,
+  "comment": 998,
+  "code": 8198},
+"C/C++ Header" :{
+  "nFiles": 25,
+  "blank": 682,
+  "comment": 320,
+  "code": 2279},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 548},
+"Python" :{
+  "nFiles": 1,
+  "blank": 55,
+  "comment": 24,
+  "code": 187},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 0,
+  "code": 146},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 115},
+"make" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 3,
+  "code": 75},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 53},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 38},
+"Assembly" :{
+  "nFiles": 15,
+  "blank": 6,
+  "comment": 45,
+  "code": 38},
+"C" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 11,
+  "code": 13},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 2613,
+  "comment": 1401,
+  "code": 21722,
+  "nFiles": 78} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0943191051483154,
+  "n_files"            : 2,
+  "n_lines"            : 32,
+  "files_per_second"   : 21.2046116940468,
+  "lines_per_second"   : 339.273787104749,
+  "report_file"        : "loc/fs__mac-profile.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 15},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 8,
+  "comment": 0,
+  "code": 24,
+  "nFiles": 2} }

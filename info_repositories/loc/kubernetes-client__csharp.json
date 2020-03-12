@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 166.470023155212,
+  "n_files"            : 786,
+  "n_lines"            : 546511,
+  "files_per_second"   : 4.72157079756728,
+  "lines_per_second"   : 3282.93941240368,
+  "report_file"        : "loc/kubernetes-client__csharp.json"},
+"C#" :{
+  "nFiles": 748,
+  "blank": 14510,
+  "comment": 240312,
+  "code": 183247},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 107401},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 23,
+  "comment": 54,
+  "code": 454},
+"MSBuild script" :{
+  "nFiles": 11,
+  "blank": 42,
+  "comment": 2,
+  "code": 193},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 0,
+  "code": 125},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 8,
+  "code": 71},
+"SUM": {
+  "blank": 14644,
+  "comment": 240376,
+  "code": 291491,
+  "nFiles": 786} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.0919580459595,
+  "n_files"            : 217,
+  "n_lines"            : 67247,
+  "files_per_second"   : 4.60800546429219,
+  "lines_per_second"   : 1427.99328782146,
+  "report_file"        : "loc/Harpia-development__device_motorola_msm8916-common.json"},
+"C++" :{
+  "nFiles": 43,
+  "blank": 2486,
+  "comment": 2875,
+  "code": 11795},
+"C" :{
+  "nFiles": 14,
+  "blank": 2068,
+  "comment": 1429,
+  "code": 8284},
+"C/C++ Header" :{
+  "nFiles": 59,
+  "blank": 3150,
+  "comment": 13927,
+  "code": 7265},
+"XML" :{
+  "nFiles": 34,
+  "blank": 331,
+  "comment": 634,
+  "code": 6822},
+"make" :{
+  "nFiles": 21,
+  "blank": 312,
+  "comment": 244,
+  "code": 1245},
+"Java" :{
+  "nFiles": 24,
+  "blank": 277,
+  "comment": 392,
+  "code": 1193},
+"Windows Resource File" :{
+  "nFiles": 7,
+  "blank": 182,
+  "comment": 0,
+  "code": 1124},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 88,
+  "comment": 55,
+  "code": 413},
+"INI" :{
+  "nFiles": 1,
+  "blank": 190,
+  "comment": 0,
+  "code": 231},
+"F#" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 0,
+  "code": 98},
+"Python" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 35,
+  "code": 54},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 9130,
+  "comment": 19591,
+  "code": 38526,
+  "nFiles": 217} }

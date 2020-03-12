@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7969.60268521309,
+  "n_files"            : 9,
+  "n_lines"            : 2196,
+  "files_per_second"   : 0.00112929092647225,
+  "lines_per_second"   : 0.275546986059228,
+  "report_file"        : "loc/JuliaLang__METADATA.jl.json"},
+"Julia" :{
+  "nFiles": 4,
+  "blank": 49,
+  "comment": 54,
+  "code": 1990},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 40},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 23},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 65,
+  "comment": 56,
+  "code": 2075,
+  "nFiles": 9} }

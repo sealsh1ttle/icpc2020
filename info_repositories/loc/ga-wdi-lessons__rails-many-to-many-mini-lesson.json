@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.554463148117065,
+  "n_files"            : 2,
+  "n_lines"            : 224,
+  "files_per_second"   : 3.60709274690648,
+  "lines_per_second"   : 403.994387653526,
+  "report_file"        : "loc/ga-wdi-lessons__rails-many-to-many-mini-lesson.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 70,
+  "comment": 0,
+  "code": 148},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 70,
+  "comment": 0,
+  "code": 154,
+  "nFiles": 2} }

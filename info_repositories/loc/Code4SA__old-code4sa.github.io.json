@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 94.3005449771881,
+  "n_files"            : 261,
+  "n_lines"            : 48347,
+  "files_per_second"   : 2.76774646491319,
+  "lines_per_second"   : 512.690568349265,
+  "report_file"        : "loc/Code4SA__old-code4sa.github.io.json"},
+"XML" :{
+  "nFiles": 2,
+  "blank": 72,
+  "comment": 1,
+  "code": 6498},
+"Sass" :{
+  "nFiles": 73,
+  "blank": 1434,
+  "comment": 1569,
+  "code": 6311},
+"CSS" :{
+  "nFiles": 18,
+  "blank": 949,
+  "comment": 187,
+  "code": 5129},
+"JavaScript" :{
+  "nFiles": 43,
+  "blank": 1004,
+  "comment": 9335,
+  "code": 3650},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2914},
+"Markdown" :{
+  "nFiles": 81,
+  "blank": 1347,
+  "comment": 0,
+  "code": 2875},
+"HTML" :{
+  "nFiles": 34,
+  "blank": 353,
+  "comment": 20,
+  "code": 2549},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 3,
+  "code": 2012},
+"Python" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 65},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 40},
+"SUM": {
+  "blank": 5189,
+  "comment": 11115,
+  "code": 32043,
+  "nFiles": 261} }

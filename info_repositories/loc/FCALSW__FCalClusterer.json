@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.0987977981567,
+  "n_files"            : 133,
+  "n_lines"            : 21576,
+  "files_per_second"   : 3.49092380039442,
+  "lines_per_second"   : 566.317082085038,
+  "report_file"        : "loc/FCALSW__FCalClusterer.json"},
+"C++" :{
+  "nFiles": 50,
+  "blank": 2526,
+  "comment": 1895,
+  "code": 8803},
+"XML" :{
+  "nFiles": 22,
+  "blank": 288,
+  "comment": 556,
+  "code": 3246},
+"C/C++ Header" :{
+  "nFiles": 42,
+  "blank": 851,
+  "comment": 363,
+  "code": 2172},
+"CMake" :{
+  "nFiles": 12,
+  "blank": 98,
+  "comment": 33,
+  "code": 383},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 3,
+  "code": 142},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 0,
+  "code": 132},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 3828,
+  "comment": 2850,
+  "code": 14898,
+  "nFiles": 133} }

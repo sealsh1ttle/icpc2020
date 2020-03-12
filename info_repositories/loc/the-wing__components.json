@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.73855590820312,
+  "n_files"            : 127,
+  "n_lines"            : 8591,
+  "files_per_second"   : 26.8014142832302,
+  "lines_per_second"   : 1812.99960714355,
+  "report_file"        : "loc/the-wing__components.json"},
+"JavaScript" :{
+  "nFiles": 110,
+  "blank": 675,
+  "comment": 20,
+  "code": 6782},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 85,
+  "comment": 4,
+  "code": 532},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 27,
+  "comment": 2,
+  "code": 166},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 120},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 62,
+  "comment": 0,
+  "code": 116},
+"SUM": {
+  "blank": 849,
+  "comment": 26,
+  "code": 7716,
+  "nFiles": 127} }

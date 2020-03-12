@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.345233201980591,
+  "n_files"            : 29,
+  "n_lines"            : 2551,
+  "files_per_second"   : 84.0011905970457,
+  "lines_per_second"   : 7389.20817976082,
+  "report_file"        : "loc/Elikill58__EliPing.json"},
+"Java" :{
+  "nFiles": 14,
+  "blank": 282,
+  "comment": 274,
+  "code": 1517},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 27,
+  "comment": 2,
+  "code": 99},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 9,
+  "comment": 37,
+  "code": 48},
+"SUM": {
+  "blank": 362,
+  "comment": 337,
+  "code": 1852,
+  "nFiles": 29} }

@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.9319000244141,
+  "n_files"            : 301,
+  "n_lines"            : 77683,
+  "files_per_second"   : 4.78294791486081,
+  "lines_per_second"   : 1234.39781684429,
+  "report_file"        : "loc/cornell-cup__cs-reminibot.json"},
+"C" :{
+  "nFiles": 54,
+  "blank": 3581,
+  "comment": 3772,
+  "code": 17771},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 0,
+  "code": 14924},
+"C/C++ Header" :{
+  "nFiles": 65,
+  "blank": 1303,
+  "comment": 4252,
+  "code": 13838},
+"JavaScript" :{
+  "nFiles": 31,
+  "blank": 310,
+  "comment": 345,
+  "code": 7020},
+"C++" :{
+  "nFiles": 10,
+  "blank": 358,
+  "comment": 238,
+  "code": 2102},
+"Python" :{
+  "nFiles": 39,
+  "blank": 512,
+  "comment": 827,
+  "code": 1988},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 145,
+  "comment": 32,
+  "code": 1099},
+"CMake" :{
+  "nFiles": 45,
+  "blank": 247,
+  "comment": 195,
+  "code": 792},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 96,
+  "comment": 89,
+  "code": 522},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 161,
+  "comment": 0,
+  "code": 429},
+"make" :{
+  "nFiles": 7,
+  "blank": 98,
+  "comment": 94,
+  "code": 175},
+"C#" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 98},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 38,
+  "comment": 97,
+  "code": 67},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 11},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 6875,
+  "comment": 9944,
+  "code": 60864,
+  "nFiles": 301} }

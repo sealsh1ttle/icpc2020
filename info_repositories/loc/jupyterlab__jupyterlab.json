@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 466.636442899704,
+  "n_files"            : 1353,
+  "n_lines"            : 318560,
+  "files_per_second"   : 2.89947349931005,
+  "lines_per_second"   : 682.672784878204,
+  "report_file"        : "loc/jupyterlab__jupyterlab.json"},
+"JavaScript" :{
+  "nFiles": 52,
+  "blank": 21352,
+  "comment": 23587,
+  "code": 92812},
+"TypeScript" :{
+  "nFiles": 490,
+  "blank": 15715,
+  "comment": 32688,
+  "code": 86067},
+"JSON" :{
+  "nFiles": 334,
+  "blank": 0,
+  "comment": 0,
+  "code": 13483},
+"CSS" :{
+  "nFiles": 139,
+  "blank": 1256,
+  "comment": 1243,
+  "code": 6107},
+"Python" :{
+  "nFiles": 49,
+  "blank": 1692,
+  "comment": 1483,
+  "code": 5528},
+"reStructuredText" :{
+  "nFiles": 35,
+  "blank": 1697,
+  "comment": 1295,
+  "code": 3946},
+"SVG" :{
+  "nFiles": 131,
+  "blank": 2,
+  "comment": 125,
+  "code": 2715},
+"Markdown" :{
+  "nFiles": 87,
+  "blank": 760,
+  "comment": 0,
+  "code": 2069},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 66,
+  "comment": 11,
+  "code": 431},
+"Jupyter Notebook" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 1517,
+  "code": 264},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 62,
+  "comment": 55,
+  "code": 192},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 23,
+  "code": 116},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 64},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 1,
+  "code": 53},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 10},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 42652,
+  "comment": 62035,
+  "code": 213873,
+  "nFiles": 1353} }

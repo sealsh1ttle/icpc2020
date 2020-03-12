@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.6090590953827,
+  "n_files"            : 31,
+  "n_lines"            : 3830,
+  "files_per_second"   : 2.45854982243297,
+  "lines_per_second"   : 303.749865158655,
+  "report_file"        : "loc/cdimascio__generator-express-no-stress-typescript.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 2639},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 105,
+  "comment": 0,
+  "code": 248},
+"TypeScript" :{
+  "nFiles": 13,
+  "blank": 31,
+  "comment": 9,
+  "code": 210},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 20,
+  "comment": 103,
+  "code": 158},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 144},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 1,
+  "code": 130},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 177,
+  "comment": 114,
+  "code": 3539,
+  "nFiles": 31} }

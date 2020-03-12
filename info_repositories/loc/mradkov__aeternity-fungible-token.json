@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.5046169757843,
+  "n_files"            : 14,
+  "n_lines"            : 1770,
+  "files_per_second"   : 5.58967703858831,
+  "lines_per_second"   : 706.694882735807,
+  "report_file"        : "loc/mradkov__aeternity-fungible-token.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1172},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 1,
+  "code": 159},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 32,
+  "code": 148},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 64,
+  "comment": 0,
+  "code": 103},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 140,
+  "comment": 36,
+  "code": 1594,
+  "nFiles": 14} }

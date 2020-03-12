@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.6855628490448,
+  "n_files"            : 4,
+  "n_lines"            : 658,
+  "files_per_second"   : 5.83462188123705,
+  "lines_per_second"   : 959.795299463494,
+  "report_file"        : "loc/aparraga__braviarc.json"},
+"Python" :{
+  "nFiles": 3,
+  "blank": 98,
+  "comment": 75,
+  "code": 423},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 119,
+  "comment": 75,
+  "code": 464,
+  "nFiles": 4} }

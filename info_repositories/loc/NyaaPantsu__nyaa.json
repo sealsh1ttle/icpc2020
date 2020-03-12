@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.88138604164124,
+  "n_files"            : 421,
+  "n_lines"            : 82162,
+  "files_per_second"   : 146.110237890997,
+  "lines_per_second"   : 28514.7490869362,
+  "report_file"        : "loc/NyaaPantsu__nyaa.json"},
+"JSON" :{
+  "nFiles": 27,
+  "blank": 0,
+  "comment": 0,
+  "code": 45865},
+"Go" :{
+  "nFiles": 217,
+  "blank": 2233,
+  "comment": 1894,
+  "code": 15177},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 703,
+  "comment": 107,
+  "code": 4217},
+"JavaScript" :{
+  "nFiles": 78,
+  "blank": 464,
+  "comment": 976,
+  "code": 4210},
+"HTML" :{
+  "nFiles": 65,
+  "blank": 163,
+  "comment": 34,
+  "code": 4163},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 15,
+  "comment": 2,
+  "code": 1146},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 69,
+  "comment": 0,
+  "code": 368},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 113,
+  "code": 210},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 16},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 3654,
+  "comment": 3129,
+  "code": 75379,
+  "nFiles": 421} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.2673380374908,
+  "n_files"            : 396,
+  "n_lines"            : 97723,
+  "files_per_second"   : 5.63561977812104,
+  "lines_per_second"   : 1390.73149388213,
+  "report_file"        : "loc/gpujs__gpu.js.json"},
+"JavaScript" :{
+  "nFiles": 377,
+  "blank": 8731,
+  "comment": 2300,
+  "code": 72173},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 8637},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 326,
+  "comment": 7,
+  "code": 3983},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 177,
+  "comment": 0,
+  "code": 864},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 62,
+  "comment": 3,
+  "code": 460},
+"SUM": {
+  "blank": 9296,
+  "comment": 2310,
+  "code": 86117,
+  "nFiles": 396} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.270771980285645,
+  "n_files"            : 32,
+  "n_lines"            : 6144,
+  "files_per_second"   : 118.180618120983,
+  "lines_per_second"   : 22690.6786792287,
+  "report_file"        : "loc/MAM-Apps__MAM-Events.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 4894},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 102,
+  "comment": 52,
+  "code": 553},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 60,
+  "comment": 10,
+  "code": 236},
+"Handlebars" :{
+  "nFiles": 12,
+  "blank": 31,
+  "comment": 6,
+  "code": 119},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 42},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 204,
+  "comment": 69,
+  "code": 5871,
+  "nFiles": 32} }

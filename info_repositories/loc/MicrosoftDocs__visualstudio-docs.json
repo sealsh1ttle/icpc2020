@@ -1,0 +1,144 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 273.786088943481,
+  "n_files"            : 19466,
+  "n_lines"            : 1832958,
+  "files_per_second"   : 71.0993026530958,
+  "lines_per_second"   : 6694.85439188396,
+  "report_file"        : "loc/MicrosoftDocs__visualstudio-docs.json"},
+"Markdown" :{
+  "nFiles": 12528,
+  "blank": 245709,
+  "comment": 2,
+  "code": 739560},
+"C#" :{
+  "nFiles": 2129,
+  "blank": 22933,
+  "comment": 30337,
+  "code": 153077},
+"Visual Basic" :{
+  "nFiles": 1675,
+  "blank": 21175,
+  "comment": 21978,
+  "code": 116164},
+"C++" :{
+  "nFiles": 1306,
+  "blank": 27865,
+  "comment": 29045,
+  "code": 111509},
+"XML" :{
+  "nFiles": 576,
+  "blank": 1429,
+  "comment": 6085,
+  "code": 108820},
+"MSBuild script" :{
+  "nFiles": 452,
+  "blank": 434,
+  "comment": 9259,
+  "code": 70880},
+"YAML" :{
+  "nFiles": 86,
+  "blank": 73,
+  "comment": 1033,
+  "code": 24409},
+"XSD" :{
+  "nFiles": 53,
+  "blank": 0,
+  "comment": 2,
+  "code": 19016},
+"Windows Resource File" :{
+  "nFiles": 53,
+  "blank": 2123,
+  "comment": 1733,
+  "code": 13769},
+"C/C++ Header" :{
+  "nFiles": 311,
+  "blank": 3082,
+  "comment": 3833,
+  "code": 11778},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 8811},
+"XAML" :{
+  "nFiles": 128,
+  "blank": 468,
+  "comment": 1594,
+  "code": 6550},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 1805,
+  "comment": 2811,
+  "code": 6230},
+"HTML" :{
+  "nFiles": 25,
+  "blank": 4,
+  "comment": 50,
+  "code": 2800},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 33,
+  "comment": 1,
+  "code": 2667},
+"ASP.NET" :{
+  "nFiles": 23,
+  "blank": 36,
+  "comment": 0,
+  "code": 860},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 14,
+  "code": 241},
+"Cucumber" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 0,
+  "code": 195},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 17,
+  "code": 170},
+"make" :{
+  "nFiles": 54,
+  "blank": 6,
+  "comment": 0,
+  "code": 119},
+"IDL" :{
+  "nFiles": 7,
+  "blank": 20,
+  "comment": 0,
+  "code": 115},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 7,
+  "code": 35},
+"Python" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 15,
+  "code": 33},
+"Windows Module Definition" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 2,
+  "code": 16},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 12},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 2},
+"SUM": {
+  "blank": 327297,
+  "comment": 107823,
+  "code": 1397838,
+  "nFiles": 19466} }

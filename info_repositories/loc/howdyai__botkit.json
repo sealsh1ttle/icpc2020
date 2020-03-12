@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.52930808067322,
+  "n_files"            : 200,
+  "n_lines"            : 88806,
+  "files_per_second"   : 79.073008752167,
+  "lines_per_second"   : 35110.7880762247,
+  "report_file"        : "loc/howdyai__botkit.json"},
+"JSON" :{
+  "nFiles": 29,
+  "blank": 1,
+  "comment": 0,
+  "code": 63779},
+"Markdown" :{
+  "nFiles": 55,
+  "blank": 3560,
+  "comment": 0,
+  "code": 6794},
+"JavaScript" :{
+  "nFiles": 65,
+  "blank": 1022,
+  "comment": 654,
+  "code": 4318},
+"TypeScript" :{
+  "nFiles": 33,
+  "blank": 774,
+  "comment": 3092,
+  "code": 3745},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 67,
+  "comment": 3,
+  "code": 353},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 10,
+  "code": 340},
+"Handlebars" :{
+  "nFiles": 7,
+  "blank": 42,
+  "comment": 0,
+  "code": 134},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 61},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 6,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 10},
+"SUM": {
+  "blank": 5487,
+  "comment": 3766,
+  "code": 79553,
+  "nFiles": 200} }

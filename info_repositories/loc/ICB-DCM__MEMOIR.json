@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.762854814529419,
+  "n_files"            : 70,
+  "n_lines"            : 10143,
+  "files_per_second"   : 91.7605796893093,
+  "lines_per_second"   : 13296.1079969809,
+  "report_file"        : "loc/ICB-DCM__MEMOIR.json"},
+"MATLAB" :{
+  "nFiles": 70,
+  "blank": 1232,
+  "comment": 2725,
+  "code": 6186},
+"SUM": {
+  "blank": 1232,
+  "comment": 2725,
+  "code": 6186,
+  "nFiles": 70} }

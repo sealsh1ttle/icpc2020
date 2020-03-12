@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1307.25177812576,
+  "n_files"            : 4383,
+  "n_lines"            : 157098,
+  "files_per_second"   : 3.35283537061545,
+  "lines_per_second"   : 120.174248472039,
+  "report_file"        : "loc/cmhughes__latexindent.pl.json"},
+"TeX" :{
+  "nFiles": 3319,
+  "blank": 15571,
+  "comment": 5324,
+  "code": 109228},
+"YAML" :{
+  "nFiles": 961,
+  "blank": 130,
+  "comment": 266,
+  "code": 6974},
+"Perl" :{
+  "nFiles": 40,
+  "blank": 1153,
+  "comment": 2026,
+  "code": 5175},
+"reStructuredText" :{
+  "nFiles": 12,
+  "blank": 2149,
+  "comment": 1633,
+  "code": 4269},
+"Bourne Shell" :{
+  "nFiles": 39,
+  "blank": 183,
+  "comment": 566,
+  "code": 1845},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 0,
+  "code": 194},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 0,
+  "code": 76},
+"Python" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 95,
+  "code": 48},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 1,
+  "code": 35},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 14},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 19305,
+  "comment": 9925,
+  "code": 127868,
+  "nFiles": 4383} }

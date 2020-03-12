@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.167461156845093,
+  "n_files"            : 21,
+  "n_lines"            : 2742,
+  "files_per_second"   : 125.402215030831,
+  "lines_per_second"   : 16373.946362597,
+  "report_file"        : "loc/FabianWilms__anwesenheit.json"},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 341,
+  "comment": 17,
+  "code": 1713},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 545},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 81},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 19},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 351,
+  "comment": 17,
+  "code": 2374,
+  "nFiles": 21} }

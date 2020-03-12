@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.3335201740265,
+  "n_files"            : 169,
+  "n_lines"            : 28356,
+  "files_per_second"   : 2.40283721875206,
+  "lines_per_second"   : 403.164805768837,
+  "report_file"        : "loc/MateMasnov__ios-academy-homeworks-MateMasnov.json"},
+"Swift" :{
+  "nFiles": 87,
+  "blank": 3058,
+  "comment": 5278,
+  "code": 13046},
+"Objective C" :{
+  "nFiles": 20,
+  "blank": 414,
+  "comment": 166,
+  "code": 1767},
+"XML" :{
+  "nFiles": 17,
+  "blank": 24,
+  "comment": 9,
+  "code": 1483},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 465,
+  "comment": 0,
+  "code": 1171},
+"C/C++ Header" :{
+  "nFiles": 17,
+  "blank": 239,
+  "comment": 292,
+  "code": 338},
+"JSON" :{
+  "nFiles": 18,
+  "blank": 0,
+  "comment": 0,
+  "code": 325},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 27,
+  "code": 222},
+"SUM": {
+  "blank": 4232,
+  "comment": 5772,
+  "code": 18352,
+  "nFiles": 169} }

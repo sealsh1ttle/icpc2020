@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.534149885177612,
+  "n_files"            : 4,
+  "n_lines"            : 130,
+  "files_per_second"   : 7.48853479331919,
+  "lines_per_second"   : 243.377380782874,
+  "report_file"        : "loc/flathub__org.geogebra.GeoGebra.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 63},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 130,
+  "nFiles": 4} }

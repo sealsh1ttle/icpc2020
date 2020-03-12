@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 253.622421979904,
+  "n_files"            : 677,
+  "n_lines"            : 57695,
+  "files_per_second"   : 2.66932235216034,
+  "lines_per_second"   : 227.483830292305,
+  "report_file"        : "loc/umbraco__UmbracoDocs.json"},
+"Markdown" :{
+  "nFiles": 665,
+  "blank": 16388,
+  "comment": 0,
+  "code": 41204},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 7,
+  "comment": 6,
+  "code": 66},
+"INI" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 16399,
+  "comment": 6,
+  "code": 41290,
+  "nFiles": 677} }

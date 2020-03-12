@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.1780200004578,
+  "n_files"            : 16,
+  "n_lines"            : 6005,
+  "files_per_second"   : 0.482246981579348,
+  "lines_per_second"   : 180.993320273999,
+  "report_file"        : "loc/feedhenry-templates__saml-cloud-app.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2948},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2077},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 82,
+  "comment": 135,
+  "code": 412},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 86,
+  "comment": 0,
+  "code": 183},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 173,
+  "comment": 135,
+  "code": 5697,
+  "nFiles": 16} }

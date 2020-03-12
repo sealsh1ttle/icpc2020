@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.201896905899,
+  "n_files"            : 123,
+  "n_lines"            : 15455,
+  "files_per_second"   : 4.07259187670347,
+  "lines_per_second"   : 511.722824832944,
+  "report_file"        : "loc/instagrambot__instabot.json"},
+"Python" :{
+  "nFiles": 107,
+  "blank": 1881,
+  "comment": 967,
+  "code": 12232},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 58,
+  "comment": 0,
+  "code": 194},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 7,
+  "code": 71},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 13},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1956,
+  "comment": 975,
+  "code": 12524,
+  "nFiles": 123} }

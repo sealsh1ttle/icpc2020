@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.228847980499268,
+  "n_files"            : 30,
+  "n_lines"            : 14324,
+  "files_per_second"   : 131.091390601526,
+  "lines_per_second"   : 62591.7692992088,
+  "report_file"        : "loc/CSSmitty__Spoofity_Server.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 13336},
+"TypeScript" :{
+  "nFiles": 23,
+  "blank": 119,
+  "comment": 34,
+  "code": 743},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 2,
+  "code": 51},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 134,
+  "comment": 36,
+  "code": 14154,
+  "nFiles": 30} }

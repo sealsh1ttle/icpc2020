@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1699.51620197296,
+  "n_files"            : 5880,
+  "n_lines"            : 2245687,
+  "files_per_second"   : 3.45980814609118,
+  "lines_per_second"   : 1321.36839730801,
+  "report_file"        : "loc/openshift__online-archivist.json"},
+"Go" :{
+  "nFiles": 5068,
+  "blank": 134761,
+  "comment": 175991,
+  "code": 1804671},
+"JSON" :{
+  "nFiles": 58,
+  "blank": 23,
+  "comment": 0,
+  "code": 19378},
+"Swift" :{
+  "nFiles": 21,
+  "blank": 2854,
+  "comment": 2459,
+  "code": 17930},
+"Protocol Buffers" :{
+  "nFiles": 217,
+  "blank": 5394,
+  "comment": 13863,
+  "code": 15022},
+"Markdown" :{
+  "nFiles": 182,
+  "blank": 3981,
+  "comment": 0,
+  "code": 12720},
+"YAML" :{
+  "nFiles": 100,
+  "blank": 204,
+  "comment": 234,
+  "code": 10285},
+"Assembly" :{
+  "nFiles": 47,
+  "blank": 865,
+  "comment": 942,
+  "code": 7426},
+"XML" :{
+  "nFiles": 6,
+  "blank": 228,
+  "comment": 20,
+  "code": 5802},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 444,
+  "comment": 16,
+  "code": 2244},
+"Bourne Shell" :{
+  "nFiles": 50,
+  "blank": 361,
+  "comment": 708,
+  "code": 1497},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 180,
+  "comment": 179,
+  "code": 1173},
+"make" :{
+  "nFiles": 96,
+  "blank": 262,
+  "comment": 1806,
+  "code": 912},
+"C" :{
+  "nFiles": 3,
+  "blank": 51,
+  "comment": 22,
+  "code": 189},
+"awk" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 79,
+  "code": 131},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 31,
+  "code": 76},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 21,
+  "code": 74},
+"Python" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 5,
+  "code": 52},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 18},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 149699,
+  "comment": 196387,
+  "code": 1899601,
+  "nFiles": 5880} }

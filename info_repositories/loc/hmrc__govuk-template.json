@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.634533166885376,
+  "n_files"            : 28,
+  "n_lines"            : 8128,
+  "files_per_second"   : 44.1269289948054,
+  "lines_per_second"   : 12809.4171024921,
+  "report_file"        : "loc/hmrc__govuk-template.json"},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 309,
+  "comment": 379,
+  "code": 2068},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 401,
+  "comment": 720,
+  "code": 1643},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 311,
+  "comment": 184,
+  "code": 1563},
+"Scala" :{
+  "nFiles": 11,
+  "blank": 72,
+  "comment": 106,
+  "code": 320},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 1,
+  "code": 15},
+"SUM": {
+  "blank": 1111,
+  "comment": 1390,
+  "code": 5627,
+  "nFiles": 28} }

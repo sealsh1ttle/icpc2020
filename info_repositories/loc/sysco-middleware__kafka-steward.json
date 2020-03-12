@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.1683559417725,
+  "n_files"            : 34,
+  "n_lines"            : 2323,
+  "files_per_second"   : 2.3997138510445,
+  "lines_per_second"   : 163.956919881658,
+  "report_file"        : "loc/sysco-middleware__kafka-steward.json"},
+"Scala" :{
+  "nFiles": 28,
+  "blank": 337,
+  "comment": 104,
+  "code": 1615},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 5,
+  "code": 85},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 1,
+  "code": 54},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 46},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 387,
+  "comment": 110,
+  "code": 1826,
+  "nFiles": 34} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 360.571705102921,
+  "n_files"            : 613,
+  "n_lines"            : 437639,
+  "files_per_second"   : 1.70007793546925,
+  "lines_per_second"   : 1213.73639086595,
+  "report_file"        : "loc/OpenShot__openshot-qt.json"},
+"Python" :{
+  "nFiles": 109,
+  "blank": 5300,
+  "comment": 7340,
+  "code": 316648},
+"SVG" :{
+  "nFiles": 365,
+  "blank": 285,
+  "comment": 352,
+  "code": 45940},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 4375,
+  "comment": 4445,
+  "code": 21183},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 17080},
+"Qt" :{
+  "nFiles": 14,
+  "blank": 1,
+  "comment": 0,
+  "code": 6147},
+"XML" :{
+  "nFiles": 69,
+  "blank": 303,
+  "comment": 25,
+  "code": 3162},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 69,
+  "comment": 102,
+  "code": 1685},
+"reStructuredText" :{
+  "nFiles": 15,
+  "blank": 275,
+  "comment": 1382,
+  "code": 522},
+"make" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 5,
+  "code": 201},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 24,
+  "code": 194},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 67,
+  "comment": 0,
+  "code": 189},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 141},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 8,
+  "code": 80},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 10772,
+  "comment": 13683,
+  "code": 413184,
+  "nFiles": 613} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.3089389801025,
+  "n_files"            : 52,
+  "n_lines"            : 4152,
+  "files_per_second"   : 2.139130796394,
+  "lines_per_second"   : 170.801366665921,
+  "report_file"        : "loc/RackHD__on-skupack.json"},
+"JSON" :{
+  "nFiles": 40,
+  "blank": 14,
+  "comment": 0,
+  "code": 3225},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 60,
+  "code": 320},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 0,
+  "code": 230},
+"Python" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 20,
+  "code": 82},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 35},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 35},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 6},
+"SUM": {
+  "blank": 133,
+  "comment": 86,
+  "code": 3933,
+  "nFiles": 52} }

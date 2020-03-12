@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.3078601360321,
+  "n_files"            : 459,
+  "n_lines"            : 239628,
+  "files_per_second"   : 106.549420247143,
+  "lines_per_second"   : 55625.761383404,
+  "report_file"        : "loc/endlessm__eos-desktop.json"},
+"PO File" :{
+  "nFiles": 80,
+  "blank": 23520,
+  "comment": 33946,
+  "code": 54891},
+"JavaScript" :{
+  "nFiles": 146,
+  "blank": 10009,
+  "comment": 4964,
+  "code": 43705},
+"C" :{
+  "nFiles": 74,
+  "blank": 8288,
+  "comment": 8058,
+  "code": 34973},
+"SVG" :{
+  "nFiles": 37,
+  "blank": 27,
+  "comment": 33,
+  "code": 3807},
+"C/C++ Header" :{
+  "nFiles": 80,
+  "blank": 1151,
+  "comment": 1446,
+  "code": 3110},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 658,
+  "comment": 100,
+  "code": 2637},
+"make" :{
+  "nFiles": 14,
+  "blank": 217,
+  "comment": 127,
+  "code": 886},
+"m4" :{
+  "nFiles": 2,
+  "blank": 96,
+  "comment": 53,
+  "code": 526},
+"XML" :{
+  "nFiles": 9,
+  "blank": 92,
+  "comment": 214,
+  "code": 485},
+"INI" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 485},
+"C++" :{
+  "nFiles": 1,
+  "blank": 97,
+  "comment": 72,
+  "code": 415},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 48,
+  "code": 282},
+"GLSL" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 31,
+  "code": 39},
+"Python" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 14},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 18,
+  "code": 14},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 44232,
+  "comment": 49116,
+  "code": 146280,
+  "nFiles": 459} }

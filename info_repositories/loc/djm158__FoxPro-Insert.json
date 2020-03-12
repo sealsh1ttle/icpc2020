@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.940255880355835,
+  "n_files"            : 7,
+  "n_lines"            : 397,
+  "files_per_second"   : 7.4447819431354,
+  "lines_per_second"   : 422.225490203536,
+  "report_file"        : "loc/djm158__FoxPro-Insert.json"},
+"C#" :{
+  "nFiles": 4,
+  "blank": 45,
+  "comment": 48,
+  "code": 162},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 105},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 50,
+  "comment": 48,
+  "code": 299,
+  "nFiles": 7} }

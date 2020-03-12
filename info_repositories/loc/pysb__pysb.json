@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.01131200790405,
+  "n_files"            : 170,
+  "n_lines"            : 31697,
+  "files_per_second"   : 168.098468792362,
+  "lines_per_second"   : 31342.453913597,
+  "report_file"        : "loc/pysb__pysb.json"},
+"Python" :{
+  "nFiles": 132,
+  "blank": 4838,
+  "comment": 9204,
+  "code": 15467},
+"reStructuredText" :{
+  "nFiles": 31,
+  "blank": 310,
+  "comment": 135,
+  "code": 1074},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 1,
+  "code": 148},
+"Puppet" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 5,
+  "code": 130},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 122},
+"make" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 4,
+  "code": 105},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 10,
+  "code": 57},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 5230,
+  "comment": 9359,
+  "code": 17108,
+  "nFiles": 170} }

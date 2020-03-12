@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 129.074620962143,
+  "n_files"            : 582,
+  "n_lines"            : 58601,
+  "files_per_second"   : 4.5090196326875,
+  "lines_per_second"   : 454.008693290584,
+  "report_file"        : "loc/parallella__pal.json"},
+"C" :{
+  "nFiles": 425,
+  "blank": 4547,
+  "comment": 10533,
+  "code": 23629},
+"C/C++ Header" :{
+  "nFiles": 47,
+  "blank": 1398,
+  "comment": 2213,
+  "code": 7838},
+"make" :{
+  "nFiles": 34,
+  "blank": 191,
+  "comment": 111,
+  "code": 1551},
+"Erlang" :{
+  "nFiles": 16,
+  "blank": 198,
+  "comment": 922,
+  "code": 1040},
+"Bourne Shell" :{
+  "nFiles": 21,
+  "blank": 223,
+  "comment": 97,
+  "code": 939},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 140,
+  "comment": 0,
+  "code": 913},
+"m4" :{
+  "nFiles": 9,
+  "blank": 100,
+  "comment": 32,
+  "code": 860},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 162,
+  "comment": 0,
+  "code": 539},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 223},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 50},
+"Python" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 4,
+  "code": 38},
+"Assembly" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 16,
+  "code": 37},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 30},
+"SUM": {
+  "blank": 6980,
+  "comment": 13934,
+  "code": 37687,
+  "nFiles": 582} }

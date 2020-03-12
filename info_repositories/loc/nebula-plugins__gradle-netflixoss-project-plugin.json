@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.24083399772644,
+  "n_files"            : 18,
+  "n_lines"            : 1615,
+  "files_per_second"   : 3.43456785843793,
+  "lines_per_second"   : 308.15706063207,
+  "report_file"        : "loc/nebula-plugins__gradle-netflixoss-project-plugin.json"},
+"Groovy" :{
+  "nFiles": 9,
+  "blank": 126,
+  "comment": 145,
+  "code": 601},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 104,
+  "comment": 0,
+  "code": 223},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 38,
+  "code": 156},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 74},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 15,
+  "code": 46},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 289,
+  "comment": 200,
+  "code": 1126,
+  "nFiles": 18} }

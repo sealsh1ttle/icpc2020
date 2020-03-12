@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.62929105758667,
+  "n_files"            : 116,
+  "n_lines"            : 3927,
+  "files_per_second"   : 184.334416644755,
+  "lines_per_second"   : 6240.35563934444,
+  "report_file"        : "loc/fs__react-base.json"},
+"JSX" :{
+  "nFiles": 49,
+  "blank": 240,
+  "comment": 4,
+  "code": 1427},
+"JavaScript" :{
+  "nFiles": 42,
+  "blank": 196,
+  "comment": 3,
+  "code": 1167},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 0,
+  "code": 284},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 171},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 8,
+  "comment": 0,
+  "code": 67},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 8},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 489,
+  "comment": 10,
+  "code": 3428,
+  "nFiles": 116} }

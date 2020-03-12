@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.9294860363007,
+  "n_files"            : 155,
+  "n_lines"            : 14086,
+  "files_per_second"   : 4.31400548962484,
+  "lines_per_second"   : 392.045685979713,
+  "report_file"        : "loc/ionic-team__stencil-site.json"},
+"Markdown" :{
+  "nFiles": 61,
+  "blank": 1691,
+  "comment": 0,
+  "code": 4512},
+"CSS" :{
+  "nFiles": 38,
+  "blank": 604,
+  "comment": 11,
+  "code": 3105},
+"TypeScript" :{
+  "nFiles": 37,
+  "blank": 395,
+  "comment": 21,
+  "code": 2924},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 569},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 1,
+  "code": 89},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 70},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 4,
+  "code": 64},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2713,
+  "comment": 37,
+  "code": 11336,
+  "nFiles": 155} }

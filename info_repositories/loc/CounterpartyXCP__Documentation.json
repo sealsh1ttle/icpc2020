@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.3772411346436,
+  "n_files"            : 43,
+  "n_lines"            : 6389,
+  "files_per_second"   : 3.21441465898684,
+  "lines_per_second"   : 477.602215262022,
+  "report_file"        : "loc/CounterpartyXCP__Documentation.json"},
+"Markdown" :{
+  "nFiles": 43,
+  "blank": 2202,
+  "comment": 0,
+  "code": 4187},
+"SUM": {
+  "blank": 2202,
+  "comment": 0,
+  "code": 4187,
+  "nFiles": 43} }

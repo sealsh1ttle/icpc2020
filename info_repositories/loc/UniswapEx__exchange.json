@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.873260021209717,
+  "n_files"            : 108,
+  "n_lines"            : 46534,
+  "files_per_second"   : 123.67450401587,
+  "lines_per_second"   : 53287.6793506898,
+  "report_file"        : "loc/UniswapEx__exchange.json"},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 5,
+  "comment": 0,
+  "code": 36635},
+"JavaScript" :{
+  "nFiles": 47,
+  "blank": 706,
+  "comment": 205,
+  "code": 5187},
+"Solidity" :{
+  "nFiles": 12,
+  "blank": 259,
+  "comment": 774,
+  "code": 1205},
+"JSX" :{
+  "nFiles": 1,
+  "blank": 105,
+  "comment": 32,
+  "code": 972},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 50,
+  "comment": 0,
+  "code": 101},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 1,
+  "code": 72},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 62},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 5,
+  "code": 47},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 4,
+  "code": 35},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 15},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 1157,
+  "comment": 1042,
+  "code": 44335,
+  "nFiles": 108} }

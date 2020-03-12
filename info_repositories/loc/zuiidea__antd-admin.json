@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.2240779399872,
+  "n_files"            : 188,
+  "n_lines"            : 29084,
+  "files_per_second"   : 4.06714440565112,
+  "lines_per_second"   : 629.195893052963,
+  "report_file"        : "loc/zuiidea__antd-admin.json"},
+"JavaScript" :{
+  "nFiles": 105,
+  "blank": 623,
+  "comment": 220,
+  "code": 24037},
+"LESS" :{
+  "nFiles": 35,
+  "blank": 201,
+  "comment": 5,
+  "code": 1289},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 471,
+  "comment": 0,
+  "code": 1106},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 46,
+  "comment": 8,
+  "code": 634},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 362},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 50},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 1346,
+  "comment": 233,
+  "code": 27505,
+  "nFiles": 188} }

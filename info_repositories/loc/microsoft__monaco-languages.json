@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 52.1897659301758,
+  "n_files"            : 189,
+  "n_lines"            : 47765,
+  "files_per_second"   : 3.62139964859895,
+  "lines_per_second"   : 915.217747171052,
+  "report_file"        : "loc/microsoft__monaco-languages.json"},
+"TypeScript" :{
+  "nFiles": 177,
+  "blank": 3700,
+  "comment": 3922,
+  "code": 37849},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 1923},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 5,
+  "code": 207},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 0,
+  "code": 100},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 4,
+  "code": 18},
+"SUM": {
+  "blank": 3737,
+  "comment": 3931,
+  "code": 40097,
+  "nFiles": 189} }

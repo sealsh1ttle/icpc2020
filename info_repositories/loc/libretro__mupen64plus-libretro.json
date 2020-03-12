@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 211.54910492897,
+  "n_files"            : 995,
+  "n_lines"            : 426456,
+  "files_per_second"   : 4.70339971579686,
+  "lines_per_second"   : 2015.87239115565,
+  "report_file"        : "loc/libretro__mupen64plus-libretro.json"},
+"C" :{
+  "nFiles": 274,
+  "blank": 24047,
+  "comment": 25947,
+  "code": 152180},
+"C/C++ Header" :{
+  "nFiles": 515,
+  "blank": 12945,
+  "comment": 37925,
+  "code": 91071},
+"C++" :{
+  "nFiles": 110,
+  "blank": 4917,
+  "comment": 2786,
+  "code": 30660},
+"INI" :{
+  "nFiles": 3,
+  "blank": 3081,
+  "comment": 86,
+  "code": 13386},
+"Qt Linguist" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 6343},
+"Qt" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4723},
+"XML" :{
+  "nFiles": 13,
+  "blank": 4,
+  "comment": 0,
+  "code": 4106},
+"Assembly" :{
+  "nFiles": 8,
+  "blank": 294,
+  "comment": 385,
+  "code": 2689},
+"make" :{
+  "nFiles": 13,
+  "blank": 305,
+  "comment": 308,
+  "code": 2007},
+"Windows Module Definition" :{
+  "nFiles": 7,
+  "blank": 212,
+  "comment": 0,
+  "code": 1934},
+"Python" :{
+  "nFiles": 5,
+  "blank": 125,
+  "comment": 191,
+  "code": 869},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 93,
+  "comment": 250,
+  "code": 767},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 70,
+  "comment": 16,
+  "code": 484},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 92,
+  "comment": 0,
+  "code": 366},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 17,
+  "comment": 22,
+  "code": 181},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 64,
+  "code": 128},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 1,
+  "code": 104},
+"diff" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 71,
+  "code": 101},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 5,
+  "code": 33},
+"SUM": {
+  "blank": 46267,
+  "comment": 68057,
+  "code": 312132,
+  "nFiles": 995} }

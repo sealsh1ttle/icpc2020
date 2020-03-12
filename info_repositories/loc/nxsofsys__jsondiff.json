@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.350542068481445,
+  "n_files"            : 2,
+  "n_lines"            : 417,
+  "files_per_second"   : 5.70544930217374,
+  "lines_per_second"   : 1189.58617950322,
+  "report_file"        : "loc/nxsofsys__jsondiff.json"},
+"Python" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 20,
+  "code": 333},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 54,
+  "comment": 20,
+  "code": 343,
+  "nFiles": 2} }

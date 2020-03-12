@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.92237305641174,
+  "n_files"            : 266,
+  "n_lines"            : 75199,
+  "files_per_second"   : 91.0219177583748,
+  "lines_per_second"   : 25732.1699004211,
+  "report_file"        : "loc/ganglia__monitor-core.json"},
+"C" :{
+  "nFiles": 71,
+  "blank": 5499,
+  "comment": 4019,
+  "code": 27009},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 2542,
+  "comment": 2594,
+  "code": 11448},
+"Python" :{
+  "nFiles": 38,
+  "blank": 1644,
+  "comment": 1623,
+  "code": 8477},
+"C/C++ Header" :{
+  "nFiles": 38,
+  "blank": 496,
+  "comment": 714,
+  "code": 2191},
+"m4" :{
+  "nFiles": 5,
+  "blank": 129,
+  "comment": 158,
+  "code": 1430},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 82,
+  "comment": 14,
+  "code": 687},
+"Bourne Shell" :{
+  "nFiles": 28,
+  "blank": 167,
+  "comment": 499,
+  "code": 678},
+"make" :{
+  "nFiles": 43,
+  "blank": 162,
+  "comment": 65,
+  "code": 599},
+"PO File" :{
+  "nFiles": 15,
+  "blank": 64,
+  "comment": 286,
+  "code": 472},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 60,
+  "comment": 77,
+  "code": 368},
+"Korn Shell" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 24,
+  "code": 150},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 37,
+  "comment": 25,
+  "code": 144},
+"WiX source" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 57,
+  "code": 107},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 17,
+  "code": 65},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 51},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 39},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 39},
+"XML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 28},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 11},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 11005,
+  "comment": 10173,
+  "code": 54021,
+  "nFiles": 266} }

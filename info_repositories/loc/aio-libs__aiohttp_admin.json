@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.06451392173767,
+  "n_files"            : 137,
+  "n_lines"            : 20527,
+  "files_per_second"   : 128.697236553155,
+  "lines_per_second"   : 19282.9793775665,
+  "report_file"        : "loc/aio-libs__aiohttp_admin.json"},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 3080,
+  "comment": 4031,
+  "code": 6125},
+"Python" :{
+  "nFiles": 66,
+  "blank": 1200,
+  "comment": 450,
+  "code": 3741},
+"make" :{
+  "nFiles": 5,
+  "blank": 70,
+  "comment": 9,
+  "code": 311},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 17,
+  "code": 254},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 146,
+  "comment": 71,
+  "code": 224},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 10,
+  "comment": 1,
+  "code": 219},
+"JSX" :{
+  "nFiles": 9,
+  "blank": 59,
+  "comment": 3,
+  "code": 218},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 15,
+  "comment": 1,
+  "code": 96},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 6,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 4641,
+  "comment": 4589,
+  "code": 11297,
+  "nFiles": 137} }

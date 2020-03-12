@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.52522802352905,
+  "n_files"            : 45,
+  "n_lines"            : 1688,
+  "files_per_second"   : 5.9798852419221,
+  "lines_per_second"   : 224.312139741433,
+  "report_file"        : "loc/djoj__planit.json"},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 161,
+  "comment": 129,
+  "code": 860},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 31,
+  "comment": 22,
+  "code": 180},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 0,
+  "code": 122},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 12,
+  "code": 113},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 214,
+  "comment": 163,
+  "code": 1311,
+  "nFiles": 45} }

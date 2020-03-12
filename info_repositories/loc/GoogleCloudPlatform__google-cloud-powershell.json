@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.0719118118286,
+  "n_files"            : 201,
+  "n_lines"            : 51306,
+  "files_per_second"   : 5.27948270613379,
+  "lines_per_second"   : 1347.60766030299,
+  "report_file"        : "loc/GoogleCloudPlatform__google-cloud-powershell.json"},
+"C#" :{
+  "nFiles": 112,
+  "blank": 2695,
+  "comment": 12611,
+  "code": 17970},
+"PowerShell" :{
+  "nFiles": 69,
+  "blank": 2677,
+  "comment": 1148,
+  "code": 12685},
+"MSBuild script" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 22,
+  "code": 649},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 171,
+  "comment": 0,
+  "code": 390},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 213},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 4,
+  "code": 38},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 5552,
+  "comment": 13785,
+  "code": 31969,
+  "nFiles": 201} }

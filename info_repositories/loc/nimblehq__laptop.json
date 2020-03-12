@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.48662805557251,
+  "n_files"            : 2,
+  "n_lines"            : 372,
+  "files_per_second"   : 4.10991511298508,
+  "lines_per_second"   : 764.444211015224,
+  "report_file"        : "loc/nimblehq__laptop.json"},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 18,
+  "code": 150},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 0,
+  "code": 118},
+"SUM": {
+  "blank": 86,
+  "comment": 18,
+  "code": 268,
+  "nFiles": 2} }

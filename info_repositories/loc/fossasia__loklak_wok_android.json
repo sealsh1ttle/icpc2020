@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.0451490879059,
+  "n_files"            : 119,
+  "n_lines"            : 7526,
+  "files_per_second"   : 6.59457006535654,
+  "lines_per_second"   : 417.064994217423,
+  "report_file"        : "loc/fossasia__loklak_wok_android.json"},
+"Java" :{
+  "nFiles": 54,
+  "blank": 838,
+  "comment": 337,
+  "code": 3645},
+"XML" :{
+  "nFiles": 53,
+  "blank": 165,
+  "comment": 30,
+  "code": 1009},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 107,
+  "comment": 0,
+  "code": 490},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 290,
+  "code": 108},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 6,
+  "code": 92},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 2,
+  "code": 43},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 9,
+  "code": 35},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 1205,
+  "comment": 712,
+  "code": 5609,
+  "nFiles": 119} }

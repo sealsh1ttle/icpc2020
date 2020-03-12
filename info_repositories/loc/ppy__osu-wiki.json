@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.6538801193237,
+  "n_files"            : 1790,
+  "n_lines"            : 226775,
+  "files_per_second"   : 56.5491495277149,
+  "lines_per_second"   : 7164.20859449584,
+  "report_file"        : "loc/ppy__osu-wiki.json"},
+"Markdown" :{
+  "nFiles": 1789,
+  "blank": 61955,
+  "comment": 0,
+  "code": 163275},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 121,
+  "comment": 11,
+  "code": 1413},
+"SUM": {
+  "blank": 62076,
+  "comment": 11,
+  "code": 164688,
+  "nFiles": 1790} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.1038618087769,
+  "n_files"            : 47,
+  "n_lines"            : 5948,
+  "files_per_second"   : 2.7479174308975,
+  "lines_per_second"   : 347.757720829326,
+  "report_file"        : "loc/openzipkin-contrib__zipkin-storage-kafka.json"},
+"Java" :{
+  "nFiles": 29,
+  "blank": 398,
+  "comment": 686,
+  "code": 2902},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 53,
+  "comment": 58,
+  "code": 509},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 92,
+  "code": 311},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 112,
+  "comment": 0,
+  "code": 233},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 147},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 43,
+  "code": 142},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 17,
+  "code": 63},
+"XML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 10,
+  "code": 28},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 15,
+  "code": 17},
+"SUM": {
+  "blank": 675,
+  "comment": 921,
+  "code": 4352,
+  "nFiles": 47} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.9451539516449,
+  "n_files"            : 98,
+  "n_lines"            : 11733,
+  "files_per_second"   : 2.3363843201762,
+  "lines_per_second"   : 279.722420700279,
+  "report_file"        : "loc/AIDASoft__aidaTT.json"},
+"C++" :{
+  "nFiles": 35,
+  "blank": 1775,
+  "comment": 784,
+  "code": 3423},
+"C/C++ Header" :{
+  "nFiles": 37,
+  "blank": 680,
+  "comment": 682,
+  "code": 1700},
+"XML" :{
+  "nFiles": 4,
+  "blank": 67,
+  "comment": 9,
+  "code": 1285},
+"TeX" :{
+  "nFiles": 4,
+  "blank": 112,
+  "comment": 28,
+  "code": 391},
+"CMake" :{
+  "nFiles": 10,
+  "blank": 107,
+  "comment": 85,
+  "code": 267},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 62,
+  "comment": 0,
+  "code": 158},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 49},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 0,
+  "code": 27},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 2824,
+  "comment": 1591,
+  "code": 7318,
+  "nFiles": 98} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.535482168197632,
+  "n_files"            : 39,
+  "n_lines"            : 1448,
+  "files_per_second"   : 72.8315568962255,
+  "lines_per_second"   : 2704.1049842496,
+  "report_file"        : "loc/p455w0rd__StoneCraftingTable.json"},
+"Java" :{
+  "nFiles": 16,
+  "blank": 157,
+  "comment": 55,
+  "code": 708},
+"JSON" :{
+  "nFiles": 18,
+  "blank": 0,
+  "comment": 0,
+  "code": 239},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 125},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 18},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 203,
+  "comment": 77,
+  "code": 1168,
+  "nFiles": 39} }

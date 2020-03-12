@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 138.049875974655,
+  "n_files"            : 1401,
+  "n_lines"            : 271262,
+  "files_per_second"   : 10.1485060389132,
+  "lines_per_second"   : 1964.9564918827,
+  "report_file"        : "loc/openmrs__openmrs-core.json"},
+"Java" :{
+  "nFiles": 1094,
+  "blank": 31456,
+  "comment": 69529,
+  "code": 120831},
+"XML" :{
+  "nFiles": 222,
+  "blank": 2771,
+  "comment": 2380,
+  "code": 28186},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 429,
+  "comment": 979,
+  "code": 3770},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 290,
+  "comment": 677,
+  "code": 2048},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 58,
+  "comment": 65,
+  "code": 1853},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 447,
+  "comment": 21,
+  "code": 1625},
+"Velocity Template Language" :{
+  "nFiles": 19,
+  "blank": 109,
+  "comment": 2,
+  "code": 1203},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 157,
+  "comment": 0,
+  "code": 777},
+"DTD" :{
+  "nFiles": 7,
+  "blank": 129,
+  "comment": 21,
+  "code": 564},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 48,
+  "code": 555},
+"HTML" :{
+  "nFiles": 16,
+  "blank": 17,
+  "comment": 0,
+  "code": 212},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 35893,
+  "comment": 73722,
+  "code": 161647,
+  "nFiles": 1401} }

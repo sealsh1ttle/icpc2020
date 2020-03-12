@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.1206450462341,
+  "n_files"            : 199,
+  "n_lines"            : 20477,
+  "files_per_second"   : 5.50931467988132,
+  "lines_per_second"   : 566.905712059948,
+  "report_file"        : "loc/neuroscout__neuroscout.json"},
+"TypeScript" :{
+  "nFiles": 39,
+  "blank": 551,
+  "comment": 305,
+  "code": 6092},
+"Python" :{
+  "nFiles": 95,
+  "blank": 1310,
+  "comment": 944,
+  "code": 4669},
+"JSON" :{
+  "nFiles": 31,
+  "blank": 6,
+  "comment": 0,
+  "code": 3505},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 616,
+  "comment": 0,
+  "code": 1217},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 3,
+  "code": 418},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 33,
+  "comment": 16,
+  "code": 300},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 2,
+  "code": 122},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 0,
+  "code": 113},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 0,
+  "code": 49},
+"INI" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 15,
+  "code": 33},
+"RobotFramework" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 2595,
+  "comment": 1285,
+  "code": 16597,
+  "nFiles": 199} }

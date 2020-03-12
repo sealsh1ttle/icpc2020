@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.24365997314453,
+  "n_files"            : 150,
+  "n_lines"            : 11625,
+  "files_per_second"   : 120.611745363753,
+  "lines_per_second"   : 9347.41026569085,
+  "report_file"        : "loc/cookiecutter__cookiecutter.json"},
+"Python" :{
+  "nFiles": 76,
+  "blank": 1658,
+  "comment": 1266,
+  "code": 4718},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 438,
+  "comment": 0,
+  "code": 1249},
+"reStructuredText" :{
+  "nFiles": 35,
+  "blank": 437,
+  "comment": 265,
+  "code": 715},
+"make" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 6,
+  "code": 226},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 21,
+  "comment": 9,
+  "code": 105},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 97},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 1,
+  "comment": 0,
+  "code": 80},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 29},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 2637,
+  "comment": 1550,
+  "code": 7438,
+  "nFiles": 150} }

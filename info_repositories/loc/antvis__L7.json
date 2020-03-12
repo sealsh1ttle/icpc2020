@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 86.9605832099915,
+  "n_files"            : 387,
+  "n_lines"            : 31600,
+  "files_per_second"   : 4.4502921405837,
+  "lines_per_second"   : 363.383027499858,
+  "report_file"        : "loc/antvis__L7.json"},
+"JavaScript" :{
+  "nFiles": 270,
+  "blank": 1792,
+  "comment": 1607,
+  "code": 19066},
+"HTML" :{
+  "nFiles": 46,
+  "blank": 469,
+  "comment": 0,
+  "code": 5392},
+"GLSL" :{
+  "nFiles": 49,
+  "blank": 207,
+  "comment": 129,
+  "code": 1446},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 77,
+  "comment": 22,
+  "code": 751},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 145,
+  "comment": 0,
+  "code": 280},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 187},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 24},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2695,
+  "comment": 1758,
+  "code": 27147,
+  "nFiles": 387} }

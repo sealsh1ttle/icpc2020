@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.417836904525757,
+  "n_files"            : 51,
+  "n_lines"            : 8135,
+  "files_per_second"   : 122.057193722237,
+  "lines_per_second"   : 19469.3190378509,
+  "report_file"        : "loc/openbaton__openbaton-client.json"},
+"Java" :{
+  "nFiles": 30,
+  "blank": 585,
+  "comment": 1865,
+  "code": 3920},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 136,
+  "comment": 0,
+  "code": 474},
+"Gradle" :{
+  "nFiles": 11,
+  "blank": 62,
+  "comment": 198,
+  "code": 337},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 69,
+  "code": 137},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 21},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 884,
+  "comment": 2159,
+  "code": 5092,
+  "nFiles": 51} }

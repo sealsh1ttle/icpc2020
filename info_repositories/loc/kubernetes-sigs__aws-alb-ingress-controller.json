@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.1344079971313,
+  "n_files"            : 216,
+  "n_lines"            : 83876,
+  "files_per_second"   : 7.16788596014769,
+  "lines_per_second"   : 2783.39630922846,
+  "report_file"        : "loc/kubernetes-sigs__aws-alb-ingress-controller.json"},
+"Go" :{
+  "nFiles": 176,
+  "blank": 11254,
+  "comment": 4330,
+  "code": 65618},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 334,
+  "comment": 0,
+  "code": 1061},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 24,
+  "comment": 77,
+  "code": 532},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 70,
+  "comment": 106,
+  "code": 261},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 118},
+"make" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 17,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 13,
+  "code": 9},
+"SUM": {
+  "blank": 11699,
+  "comment": 4543,
+  "code": 67634,
+  "nFiles": 216} }

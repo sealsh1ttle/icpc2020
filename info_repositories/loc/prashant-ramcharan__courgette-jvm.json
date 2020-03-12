@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.4252598285675,
+  "n_files"            : 50,
+  "n_lines"            : 19470,
+  "files_per_second"   : 3.72432270499565,
+  "lines_per_second"   : 1450.25126132531,
+  "report_file"        : "loc/prashant-ramcharan__courgette-jvm.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 2017,
+  "comment": 7066,
+  "code": 6478},
+"Java" :{
+  "nFiles": 31,
+  "blank": 561,
+  "comment": 21,
+  "code": 2108},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 163,
+  "comment": 0,
+  "code": 298},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 12,
+  "code": 207},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 10,
+  "code": 187},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2831,
+  "comment": 7133,
+  "code": 9506,
+  "nFiles": 50} }

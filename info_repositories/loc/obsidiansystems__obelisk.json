@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.0037739276886,
+  "n_files"            : 75,
+  "n_lines"            : 9498,
+  "files_per_second"   : 2.27246739007258,
+  "lines_per_second"   : 287.785270278792,
+  "report_file"        : "loc/obsidiansystems__obelisk.json"},
+"Haskell" :{
+  "nFiles": 52,
+  "blank": 881,
+  "comment": 614,
+  "code": 6431},
+"Nix" :{
+  "nFiles": 8,
+  "blank": 80,
+  "comment": 85,
+  "code": 659},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 180,
+  "comment": 0,
+  "code": 484},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"C" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 31},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1153,
+  "comment": 699,
+  "code": 7646,
+  "nFiles": 75} }

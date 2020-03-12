@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.5802819728851,
+  "n_files"            : 135,
+  "n_lines"            : 12225,
+  "files_per_second"   : 8.66479825172259,
+  "lines_per_second"   : 784.645619461545,
+  "report_file"        : "loc/sukeesh__Jarvis.json"},
+"Python" :{
+  "nFiles": 123,
+  "blank": 1915,
+  "comment": 1414,
+  "code": 6996},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1261},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 178,
+  "comment": 0,
+  "code": 382},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 19},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 2100,
+  "comment": 1415,
+  "code": 8710,
+  "nFiles": 135} }

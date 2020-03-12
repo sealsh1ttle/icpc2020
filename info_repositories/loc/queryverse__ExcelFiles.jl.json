@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.07229900360107,
+  "n_files"            : 12,
+  "n_lines"            : 594,
+  "files_per_second"   : 5.79067015867274,
+  "lines_per_second"   : 286.638172854301,
+  "report_file"        : "loc/queryverse__ExcelFiles.jl.json"},
+"Julia" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 9,
+  "code": 233},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 46,
+  "comment": 0,
+  "code": 129},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 7,
+  "code": 63},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 114,
+  "comment": 16,
+  "code": 464,
+  "nFiles": 12} }

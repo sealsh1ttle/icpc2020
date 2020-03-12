@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.2889440059662,
+  "n_files"            : 1207,
+  "n_lines"            : 379453,
+  "files_per_second"   : 78.9459363268643,
+  "lines_per_second"   : 24818.7840737677,
+  "report_file"        : "loc/SensitiveMix__commerce.json"},
+"JavaScript" :{
+  "nFiles": 636,
+  "blank": 21108,
+  "comment": 24909,
+  "code": 139559},
+"HTML" :{
+  "nFiles": 141,
+  "blank": 3762,
+  "comment": 222,
+  "code": 64768},
+"CSS" :{
+  "nFiles": 200,
+  "blank": 1692,
+  "comment": 1420,
+  "code": 43998},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 29204},
+"EJS" :{
+  "nFiles": 93,
+  "blank": 2353,
+  "comment": 916,
+  "code": 22147},
+"SVG" :{
+  "nFiles": 18,
+  "blank": 6,
+  "comment": 0,
+  "code": 13414},
+"LESS" :{
+  "nFiles": 83,
+  "blank": 636,
+  "comment": 1033,
+  "code": 5847},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 467,
+  "comment": 0,
+  "code": 1750},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 10,
+  "code": 114},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 27,
+  "code": 20},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"ASP" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 30064,
+  "comment": 28537,
+  "code": 320852,
+  "nFiles": 1207} }

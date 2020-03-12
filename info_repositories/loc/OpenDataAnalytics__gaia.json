@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.9088008403778,
+  "n_files"            : 138,
+  "n_lines"            : 18943,
+  "files_per_second"   : 3.54675541315552,
+  "lines_per_second"   : 486.856433271051,
+  "report_file"        : "loc/OpenDataAnalytics__gaia.json"},
+"Python" :{
+  "nFiles": 38,
+  "blank": 1107,
+  "comment": 2109,
+  "code": 3215},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 356,
+  "comment": 4,
+  "code": 2422},
+"XML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 787,
+  "code": 1614},
+"YAML" :{
+  "nFiles": 36,
+  "blank": 150,
+  "comment": 19,
+  "code": 798},
+"JSON" :{
+  "nFiles": 35,
+  "blank": 8,
+  "comment": 0,
+  "code": 644},
+"Jupyter Notebook" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 3515,
+  "code": 533},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 90,
+  "comment": 90,
+  "code": 311},
+"reStructuredText" :{
+  "nFiles": 7,
+  "blank": 191,
+  "comment": 78,
+  "code": 260},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 119},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 30},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 10,
+  "code": 17},
+"SUM": {
+  "blank": 2006,
+  "comment": 6619,
+  "code": 10318,
+  "nFiles": 138} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.669309854507446,
+  "n_files"            : 105,
+  "n_lines"            : 7963,
+  "files_per_second"   : 156.878012915663,
+  "lines_per_second"   : 11897.3296842612,
+  "report_file"        : "loc/Autodesk__react-base-table.json"},
+"JavaScript" :{
+  "nFiles": 89,
+  "blank": 811,
+  "comment": 454,
+  "code": 5397},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 200,
+  "comment": 0,
+  "code": 508},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 3,
+  "code": 263},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 173},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 76},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 1075,
+  "comment": 458,
+  "code": 6430,
+  "nFiles": 105} }

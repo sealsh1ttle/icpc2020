@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 164.618977069855,
+  "n_files"            : 504,
+  "n_lines"            : 160195,
+  "files_per_second"   : 3.06161542837271,
+  "lines_per_second"   : 973.125959420964,
+  "report_file"        : "loc/openacid__slim.json"},
+"Go" :{
+  "nFiles": 382,
+  "blank": 8913,
+  "comment": 17948,
+  "code": 120910},
+"Assembly" :{
+  "nFiles": 53,
+  "blank": 1346,
+  "comment": 1740,
+  "code": 5196},
+"Markdown" :{
+  "nFiles": 34,
+  "blank": 609,
+  "comment": 0,
+  "code": 1533},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 177,
+  "comment": 95,
+  "code": 634},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 12,
+  "code": 332},
+"YAML" :{
+  "nFiles": 24,
+  "blank": 20,
+  "comment": 13,
+  "code": 313},
+"Python" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 7,
+  "code": 122},
+"make" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 13,
+  "code": 60},
+"Protocol Buffers" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 30,
+  "code": 35},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 11186,
+  "comment": 19858,
+  "code": 129151,
+  "nFiles": 504} }

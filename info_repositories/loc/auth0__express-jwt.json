@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.5289900302887,
+  "n_files"            : 10,
+  "n_lines"            : 1080,
+  "files_per_second"   : 6.54026501278877,
+  "lines_per_second"   : 706.348621381187,
+  "report_file"        : "loc/auth0__express-jwt.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 111,
+  "comment": 2,
+  "code": 546},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 128,
+  "comment": 0,
+  "code": 236},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 52},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 239,
+  "comment": 2,
+  "code": 839,
+  "nFiles": 10} }

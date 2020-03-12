@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.16612386703491,
+  "n_files"            : 758,
+  "n_lines"            : 42133,
+  "files_per_second"   : 92.8224960020386,
+  "lines_per_second"   : 5159.48578371226,
+  "report_file"        : "loc/Soluto__tweek.json"},
+"JavaScript" :{
+  "nFiles": 224,
+  "blank": 1804,
+  "comment": 95,
+  "code": 12746},
+"C#" :{
+  "nFiles": 157,
+  "blank": 1202,
+  "comment": 106,
+  "code": 8148},
+"LESS" :{
+  "nFiles": 59,
+  "blank": 324,
+  "comment": 13,
+  "code": 3315},
+"JSON" :{
+  "nFiles": 119,
+  "blank": 5,
+  "comment": 0,
+  "code": 3026},
+"Go" :{
+  "nFiles": 34,
+  "blank": 404,
+  "comment": 156,
+  "code": 2498},
+"YAML" :{
+  "nFiles": 26,
+  "blank": 101,
+  "comment": 3,
+  "code": 2468},
+"TypeScript" :{
+  "nFiles": 42,
+  "blank": 351,
+  "comment": 41,
+  "code": 2342},
+"Markdown" :{
+  "nFiles": 29,
+  "blank": 334,
+  "comment": 0,
+  "code": 1082},
+"MSBuild script" :{
+  "nFiles": 22,
+  "blank": 6,
+  "comment": 0,
+  "code": 510},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 43,
+  "comment": 13,
+  "code": 175},
+"SVG" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 6,
+  "code": 160},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 60,
+  "comment": 12,
+  "code": 154},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 144},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 23,
+  "comment": 20,
+  "code": 138},
+"XML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 66},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 14},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 4673,
+  "comment": 465,
+  "code": 36995,
+  "nFiles": 758} }

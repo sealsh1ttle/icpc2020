@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.53153014183044,
+  "n_files"            : 18,
+  "n_lines"            : 13171,
+  "files_per_second"   : 3.2540724787669,
+  "lines_per_second"   : 2381.07714543549,
+  "report_file"        : "loc/apollographql__apollo-link-persisted-queries.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 11964},
+"TypeScript" :{
+  "nFiles": 4,
+  "blank": 95,
+  "comment": 50,
+  "code": 702},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 85,
+  "comment": 0,
+  "code": 203},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 14,
+  "code": 31},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 191,
+  "comment": 64,
+  "code": 12916,
+  "nFiles": 18} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.825348854064941,
+  "n_files"            : 7,
+  "n_lines"            : 355,
+  "files_per_second"   : 8.48126215420809,
+  "lines_per_second"   : 430.121152106267,
+  "report_file"        : "loc/smsaladi__genome_size_vs_protein_count.json"},
+"R" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 37,
+  "code": 196},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 21},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 13},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 42,
+  "comment": 38,
+  "code": 275,
+  "nFiles": 7} }

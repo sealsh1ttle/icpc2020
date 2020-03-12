@@ -1,0 +1,244 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3538.18774294853,
+  "n_files"            : 11760,
+  "n_lines"            : 2276937,
+  "files_per_second"   : 3.32373544152291,
+  "lines_per_second"   : 643.531990222352,
+  "report_file"        : "loc/mapsme__omim.json"},
+"C++" :{
+  "nFiles": 2195,
+  "blank": 91964,
+  "comment": 64694,
+  "code": 551167},
+"C/C++ Header" :{
+  "nFiles": 3474,
+  "blank": 88472,
+  "comment": 192929,
+  "code": 332789},
+"C" :{
+  "nFiles": 340,
+  "blank": 38694,
+  "comment": 33186,
+  "code": 151896},
+"XML" :{
+  "nFiles": 840,
+  "blank": 1633,
+  "comment": 11228,
+  "code": 109251},
+"HTML" :{
+  "nFiles": 417,
+  "blank": 6051,
+  "comment": 1276,
+  "code": 106256},
+"JSON" :{
+  "nFiles": 728,
+  "blank": 0,
+  "comment": 0,
+  "code": 93309},
+"Java" :{
+  "nFiles": 689,
+  "blank": 13005,
+  "comment": 2305,
+  "code": 74128},
+"Bourne Shell" :{
+  "nFiles": 109,
+  "blank": 9340,
+  "comment": 10395,
+  "code": 59627},
+"Objective C" :{
+  "nFiles": 337,
+  "blank": 9541,
+  "comment": 5589,
+  "code": 41685},
+"Objective C++" :{
+  "nFiles": 271,
+  "blank": 6479,
+  "comment": 278,
+  "code": 36859},
+"m4" :{
+  "nFiles": 24,
+  "blank": 2717,
+  "comment": 327,
+  "code": 23999},
+"Swift" :{
+  "nFiles": 259,
+  "blank": 2452,
+  "comment": 64,
+  "code": 15914},
+"Python" :{
+  "nFiles": 119,
+  "blank": 3439,
+  "comment": 7532,
+  "code": 13011},
+"CMake" :{
+  "nFiles": 191,
+  "blank": 1555,
+  "comment": 1735,
+  "code": 10881},
+"SVG" :{
+  "nFiles": 1298,
+  "blank": 1,
+  "comment": 29,
+  "code": 8613},
+"Cucumber" :{
+  "nFiles": 106,
+  "blank": 1143,
+  "comment": 121,
+  "code": 7084},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 913,
+  "comment": 0,
+  "code": 2697},
+"AsciiDoc" :{
+  "nFiles": 3,
+  "blank": 898,
+  "comment": 2,
+  "code": 2367},
+"make" :{
+  "nFiles": 112,
+  "blank": 1631,
+  "comment": 2922,
+  "code": 2290},
+"Ruby" :{
+  "nFiles": 33,
+  "blank": 326,
+  "comment": 58,
+  "code": 2000},
+"GLSL" :{
+  "nFiles": 75,
+  "blank": 362,
+  "comment": 98,
+  "code": 1680},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 300,
+  "comment": 112,
+  "code": 1281},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 831,
+  "comment": 762,
+  "code": 1212},
+"Perl" :{
+  "nFiles": 7,
+  "blank": 284,
+  "comment": 324,
+  "code": 1140},
+"Lua" :{
+  "nFiles": 10,
+  "blank": 184,
+  "comment": 154,
+  "code": 1107},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 163,
+  "comment": 60,
+  "code": 836},
+"Jam" :{
+  "nFiles": 27,
+  "blank": 169,
+  "comment": 379,
+  "code": 573},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 91,
+  "comment": 31,
+  "code": 557},
+"Windows Module Definition" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 17,
+  "code": 407},
+"Lisp" :{
+  "nFiles": 2,
+  "blank": 74,
+  "comment": 14,
+  "code": 380},
+"Go" :{
+  "nFiles": 1,
+  "blank": 48,
+  "comment": 39,
+  "code": 375},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 46,
+  "comment": 47,
+  "code": 337},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 41,
+  "code": 244},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 195},
+"WiX source" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 178},
+"DOS Batch" :{
+  "nFiles": 7,
+  "blank": 43,
+  "comment": 3,
+  "code": 174},
+"Qt" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 161},
+"awk" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 0,
+  "code": 143},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 129},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 11,
+  "code": 72},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 54},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 44},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 32},
+"INI" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"sed" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 283027,
+  "comment": 336762,
+  "code": 1657148,
+  "nFiles": 11760} }

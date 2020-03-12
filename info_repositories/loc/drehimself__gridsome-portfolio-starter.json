@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.58990406990051,
+  "n_files"            : 46,
+  "n_lines"            : 14599,
+  "files_per_second"   : 8.22912154211954,
+  "lines_per_second"   : 2611.67272594355,
+  "report_file"        : "loc/drehimself__gridsome-portfolio-starter.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 11668},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 206,
+  "comment": 3,
+  "code": 856},
+"Vuejs Component" :{
+  "nFiles": 14,
+  "blank": 86,
+  "comment": 18,
+  "code": 759},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 110,
+  "comment": 0,
+  "code": 321},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 34,
+  "comment": 41,
+  "code": 264},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 2,
+  "code": 228},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 436,
+  "comment": 64,
+  "code": 14099,
+  "nFiles": 46} }

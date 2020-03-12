@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.90860986709595,
+  "n_files"            : 10,
+  "n_lines"            : 391,
+  "files_per_second"   : 5.23941543654259,
+  "lines_per_second"   : 204.861143568815,
+  "report_file"        : "loc/nodekit-org__express-route-mapper.json"},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 13,
+  "code": 135},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 17,
+  "comment": 19,
+  "code": 109},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 77},
+"SUM": {
+  "blank": 38,
+  "comment": 32,
+  "code": 321,
+  "nFiles": 10} }

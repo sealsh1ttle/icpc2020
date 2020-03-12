@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 121.289614200592,
+  "n_files"            : 76,
+  "n_lines"            : 5438,
+  "files_per_second"   : 0.626599404251622,
+  "lines_per_second"   : 44.8348363200042,
+  "report_file"        : "loc/ros__meta-ros.json"},
+"diff" :{
+  "nFiles": 63,
+  "blank": 535,
+  "comment": 1148,
+  "code": 1875},
+"Python" :{
+  "nFiles": 6,
+  "blank": 195,
+  "comment": 160,
+  "code": 755},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 77,
+  "comment": 104,
+  "code": 509},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 48},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 824,
+  "comment": 1412,
+  "code": 3202,
+  "nFiles": 76} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1113.28356313705,
+  "n_files"            : 3000,
+  "n_lines"            : 181878,
+  "files_per_second"   : 2.69473124308643,
+  "lines_per_second"   : 163.370776343358,
+  "report_file"        : "loc/vuetifyjs__vuetify.json"},
+"Vuejs Component" :{
+  "nFiles": 909,
+  "blank": 3830,
+  "comment": 581,
+  "code": 57431},
+"TypeScript" :{
+  "nFiles": 536,
+  "blank": 9233,
+  "comment": 2283,
+  "code": 50315},
+"JSON" :{
+  "nFiles": 1186,
+  "blank": 12,
+  "comment": 0,
+  "code": 39445},
+"Sass" :{
+  "nFiles": 179,
+  "blank": 1825,
+  "comment": 272,
+  "code": 8471},
+"JavaScript" :{
+  "nFiles": 163,
+  "blank": 404,
+  "comment": 233,
+  "code": 4919},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 314,
+  "comment": 0,
+  "code": 1172},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 639},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 3,
+  "code": 289},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 10,
+  "code": 106},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 15645,
+  "comment": 3382,
+  "code": 162851,
+  "nFiles": 3000} }

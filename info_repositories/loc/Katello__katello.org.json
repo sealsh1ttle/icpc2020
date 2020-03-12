@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.49174904823303,
+  "n_files"            : 47,
+  "n_lines"            : 12982,
+  "files_per_second"   : 4.9516690507899,
+  "lines_per_second"   : 1367.71420462456,
+  "report_file"        : "loc/Katello__katello.org.json"},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 53,
+  "comment": 33,
+  "code": 9804},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 2017},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 37,
+  "comment": 2,
+  "code": 345},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 105,
+  "comment": 0,
+  "code": 230},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 4,
+  "code": 105},
+"Python" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 0,
+  "code": 105},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 10,
+  "code": 42},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 22},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 261,
+  "comment": 49,
+  "code": 12672,
+  "nFiles": 47} }

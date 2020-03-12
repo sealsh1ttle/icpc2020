@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 95.8460330963135,
+  "n_files"            : 209,
+  "n_lines"            : 11347,
+  "files_per_second"   : 2.18058059627758,
+  "lines_per_second"   : 118.387789597903,
+  "report_file"        : "loc/JakeWharton__RxBinding.json"},
+"Kotlin" :{
+  "nFiles": 99,
+  "blank": 854,
+  "comment": 877,
+  "code": 3892},
+"Java" :{
+  "nFiles": 63,
+  "blank": 897,
+  "comment": 64,
+  "code": 3297},
+"Gradle" :{
+  "nFiles": 14,
+  "blank": 124,
+  "comment": 18,
+  "code": 521},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 60,
+  "comment": 0,
+  "code": 325},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 27,
+  "code": 147},
+"XML" :{
+  "nFiles": 27,
+  "blank": 15,
+  "comment": 0,
+  "code": 145},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 4,
+  "code": 44},
+"SUM": {
+  "blank": 1986,
+  "comment": 990,
+  "code": 8371,
+  "nFiles": 209} }

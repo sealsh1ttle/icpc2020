@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.9509479999542,
+  "n_files"            : 51,
+  "n_lines"            : 6743,
+  "files_per_second"   : 4.26744388814974,
+  "lines_per_second"   : 564.22302230968,
+  "report_file"        : "loc/The-Fireplace-Minecraft-Mods__Clans.json"},
+"Java" :{
+  "nFiles": 44,
+  "blank": 686,
+  "comment": 273,
+  "code": 5345},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 4,
+  "code": 106},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 31},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 749,
+  "comment": 301,
+  "code": 5693,
+  "nFiles": 51} }

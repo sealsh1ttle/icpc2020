@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.138012886047363,
+  "n_files"            : 7,
+  "n_lines"            : 326,
+  "files_per_second"   : 50.7199016010559,
+  "lines_per_second"   : 2362.09827456346,
+  "report_file"        : "loc/imranolas__react-prop-transition.json"},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 0,
+  "code": 183},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 0,
+  "code": 54},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 40,
+  "comment": 0,
+  "code": 286,
+  "nFiles": 7} }

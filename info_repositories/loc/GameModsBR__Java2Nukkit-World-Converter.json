@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.717998027801514,
+  "n_files"            : 26,
+  "n_lines"            : 2934,
+  "files_per_second"   : 36.2117986307165,
+  "lines_per_second"   : 4086.36219932778,
+  "report_file"        : "loc/GameModsBR__Java2Nukkit-World-Converter.json"},
+"Kotlin" :{
+  "nFiles": 14,
+  "blank": 159,
+  "comment": 56,
+  "code": 1600},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 80,
+  "comment": 0,
+  "code": 526},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 13,
+  "code": 204},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 316,
+  "comment": 93,
+  "code": 2525,
+  "nFiles": 26} }

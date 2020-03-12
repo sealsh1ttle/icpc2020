@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.2478289604187,
+  "n_files"            : 18,
+  "n_lines"            : 1268,
+  "files_per_second"   : 5.54216377135805,
+  "lines_per_second"   : 390.414647893445,
+  "report_file"        : "loc/JuliaDiffEq__RecursiveArrayTools.jl.json"},
+"Julia" :{
+  "nFiles": 11,
+  "blank": 182,
+  "comment": 129,
+  "code": 708},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 114},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 12,
+  "code": 42},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 17},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 233,
+  "comment": 141,
+  "code": 894,
+  "nFiles": 18} }

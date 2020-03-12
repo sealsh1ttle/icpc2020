@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.506875038147,
+  "n_files"            : 119,
+  "n_lines"            : 5391,
+  "files_per_second"   : 4.85578025818333,
+  "lines_per_second"   : 219.979087158541,
+  "report_file"        : "loc/dfrommi__groovy-pandoc.json"},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 495,
+  "comment": 0,
+  "code": 1862},
+"Groovy" :{
+  "nFiles": 92,
+  "blank": 398,
+  "comment": 777,
+  "code": 1513},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 52},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 11},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 958,
+  "comment": 803,
+  "code": 3630,
+  "nFiles": 119} }

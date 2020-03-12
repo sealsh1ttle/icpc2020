@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.5883991718292,
+  "n_files"            : 76,
+  "n_lines"            : 20268,
+  "files_per_second"   : 6.55828288904234,
+  "lines_per_second"   : 1748.9904946725,
+  "report_file"        : "loc/expfactory__expfactory-python.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 1660,
+  "comment": 1699,
+  "code": 7141},
+"Python" :{
+  "nFiles": 24,
+  "blank": 793,
+  "comment": 1068,
+  "code": 2632},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 215,
+  "comment": 74,
+  "code": 1143},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 71,
+  "comment": 14,
+  "code": 947},
+"reStructuredText" :{
+  "nFiles": 9,
+  "blank": 695,
+  "comment": 91,
+  "code": 773},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 5,
+  "code": 652},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 156},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 93},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 62,
+  "comment": 0,
+  "code": 81},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 69},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 10,
+  "code": 30},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 10},
+"D" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3559,
+  "comment": 2969,
+  "code": 13740,
+  "nFiles": 76} }

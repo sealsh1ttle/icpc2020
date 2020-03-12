@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.4450440406799,
+  "n_files"            : 113,
+  "n_lines"            : 3402,
+  "files_per_second"   : 4.273012358239,
+  "lines_per_second"   : 128.644141971054,
+  "report_file"        : "loc/deepruby__chess.json"},
+"Ruby" :{
+  "nFiles": 65,
+  "blank": 383,
+  "comment": 610,
+  "code": 1229},
+"ERB" :{
+  "nFiles": 18,
+  "blank": 45,
+  "comment": 0,
+  "code": 291},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 272},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 3,
+  "code": 158},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 6,
+  "code": 131},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 11,
+  "comment": 66,
+  "code": 126},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 19,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 2},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 472,
+  "comment": 707,
+  "code": 2223,
+  "nFiles": 113} }

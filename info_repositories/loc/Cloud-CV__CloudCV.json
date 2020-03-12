@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.1992831230164,
+  "n_files"            : 149,
+  "n_lines"            : 6881,
+  "files_per_second"   : 4.233040754815,
+  "lines_per_second"   : 195.486935797866,
+  "report_file"        : "loc/Cloud-CV__CloudCV.json"},
+"JavaScript" :{
+  "nFiles": 50,
+  "blank": 186,
+  "comment": 11,
+  "code": 2136},
+"Sass" :{
+  "nFiles": 17,
+  "blank": 285,
+  "comment": 5,
+  "code": 1504},
+"Python" :{
+  "nFiles": 47,
+  "blank": 376,
+  "comment": 125,
+  "code": 1337},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 236},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 36,
+  "comment": 0,
+  "code": 192},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 0,
+  "code": 121},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 39,
+  "comment": 3,
+  "code": 94},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 22,
+  "comment": 12,
+  "code": 73},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 57},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 955,
+  "comment": 156,
+  "code": 5770,
+  "nFiles": 149} }

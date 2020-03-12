@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.742799043655396,
+  "n_files"            : 91,
+  "n_lines"            : 18430,
+  "files_per_second"   : 122.509581531203,
+  "lines_per_second"   : 24811.5559079128,
+  "report_file"        : "loc/Cyber4All__clark-admin.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 11990},
+"TypeScript" :{
+  "nFiles": 53,
+  "blank": 393,
+  "comment": 555,
+  "code": 2994},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 220,
+  "comment": 14,
+  "code": 1603},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 18,
+  "comment": 8,
+  "code": 452},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 67},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 8,
+  "code": 55},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 6,
+  "code": 11},
+"SUM": {
+  "blank": 653,
+  "comment": 591,
+  "code": 17186,
+  "nFiles": 91} }

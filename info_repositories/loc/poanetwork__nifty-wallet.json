@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 442.011333942413,
+  "n_files"            : 1171,
+  "n_lines"            : 187763,
+  "files_per_second"   : 2.64925333374497,
+  "lines_per_second"   : 424.792274725839,
+  "report_file"        : "loc/poanetwork__nifty-wallet.json"},
+"JSON" :{
+  "nFiles": 81,
+  "blank": 2,
+  "comment": 0,
+  "code": 77831},
+"JavaScript" :{
+  "nFiles": 856,
+  "blank": 10555,
+  "comment": 5225,
+  "code": 70009},
+"CSS" :{
+  "nFiles": 16,
+  "blank": 924,
+  "comment": 231,
+  "code": 8316},
+"Sass" :{
+  "nFiles": 94,
+  "blank": 1351,
+  "comment": 76,
+  "code": 7671},
+"Markdown" :{
+  "nFiles": 39,
+  "blank": 984,
+  "comment": 0,
+  "code": 2333},
+"SVG" :{
+  "nFiles": 60,
+  "blank": 1,
+  "comment": 9,
+  "code": 1048},
+"HTML" :{
+  "nFiles": 17,
+  "blank": 39,
+  "comment": 6,
+  "code": 524},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 45,
+  "code": 408},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 8,
+  "code": 53},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 24},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 19},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 10},
+"SUM": {
+  "blank": 13909,
+  "comment": 5608,
+  "code": 168246,
+  "nFiles": 1171} }

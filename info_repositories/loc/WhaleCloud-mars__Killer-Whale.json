@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.498174905777,
+  "n_files"            : 89,
+  "n_lines"            : 8104,
+  "files_per_second"   : 3.7875281955672,
+  "lines_per_second"   : 344.877848279512,
+  "report_file"        : "loc/WhaleCloud-mars__Killer-Whale.json"},
+"JavaScript" :{
+  "nFiles": 69,
+  "blank": 207,
+  "comment": 450,
+  "code": 4166},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 496,
+  "comment": 0,
+  "code": 1520},
+"LESS" :{
+  "nFiles": 7,
+  "blank": 34,
+  "comment": 12,
+  "code": 669},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 459},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 79},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 737,
+  "comment": 462,
+  "code": 6905,
+  "nFiles": 89} }

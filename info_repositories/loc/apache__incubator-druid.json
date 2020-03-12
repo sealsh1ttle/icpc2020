@@ -1,0 +1,149 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 58.603276014328,
+  "n_files"            : 5157,
+  "n_lines"            : 956633,
+  "files_per_second"   : 87.9984934415468,
+  "lines_per_second"   : 16323.8826403853,
+  "report_file"        : "loc/apache__incubator-druid.json"},
+"Java" :{
+  "nFiles": 4326,
+  "blank": 84467,
+  "comment": 113160,
+  "code": 570160},
+"JSON" :{
+  "nFiles": 136,
+  "blank": 17,
+  "comment": 0,
+  "code": 36864},
+"Markdown" :{
+  "nFiles": 182,
+  "blank": 7372,
+  "comment": 0,
+  "code": 25728},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 5030,
+  "comment": 5605,
+  "code": 25708},
+"TypeScript" :{
+  "nFiles": 196,
+  "blank": 2339,
+  "comment": 3453,
+  "code": 20856},
+"RobotFramework" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 0,
+  "code": 12580},
+"Maven" :{
+  "nFiles": 61,
+  "blank": 411,
+  "comment": 1237,
+  "code": 10849},
+"TeX" :{
+  "nFiles": 10,
+  "blank": 927,
+  "comment": 1284,
+  "code": 7478},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 1069,
+  "comment": 127,
+  "code": 5010},
+"Sass" :{
+  "nFiles": 59,
+  "blank": 331,
+  "comment": 4,
+  "code": 2515},
+"XML" :{
+  "nFiles": 22,
+  "blank": 74,
+  "comment": 293,
+  "code": 1756},
+"Python" :{
+  "nFiles": 16,
+  "blank": 348,
+  "comment": 330,
+  "code": 1579},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 106,
+  "comment": 8,
+  "code": 1254},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 207,
+  "comment": 245,
+  "code": 946},
+"Bourne Shell" :{
+  "nFiles": 28,
+  "blank": 258,
+  "comment": 517,
+  "code": 878},
+"Perl" :{
+  "nFiles": 4,
+  "blank": 79,
+  "comment": 92,
+  "code": 344},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 58,
+  "comment": 163,
+  "code": 313},
+"Stylus" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 24,
+  "code": 277},
+"R" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 31,
+  "code": 270},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 72,
+  "code": 208},
+"Bourne Again Shell" :{
+  "nFiles": 18,
+  "blank": 72,
+  "comment": 287,
+  "code": 175},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 51,
+  "comment": 114,
+  "code": 136},
+"ANTLR Grammar" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 34,
+  "code": 102},
+"Protocol Buffers" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 28,
+  "code": 36},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 14,
+  "code": 36},
+"make" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 0,
+  "code": 34},
+"Thrift" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 14,
+  "code": 11},
+"SUM": {
+  "blank": 103394,
+  "comment": 127136,
+  "code": 726103,
+  "nFiles": 5157} }

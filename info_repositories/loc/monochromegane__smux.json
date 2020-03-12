@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.48316311836243,
+  "n_files"            : 17,
+  "n_lines"            : 1230,
+  "files_per_second"   : 2.62217681240357,
+  "lines_per_second"   : 189.722204662141,
+  "report_file"        : "loc/monochromegane__smux.json"},
+"Go" :{
+  "nFiles": 12,
+  "blank": 135,
+  "comment": 12,
+  "code": 974},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 0,
+  "code": 44},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 19},
+"Python" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 165,
+  "comment": 12,
+  "code": 1053,
+  "nFiles": 17} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 36.6048409938812,
+  "n_files"            : 172,
+  "n_lines"            : 32721,
+  "files_per_second"   : 4.69883204871047,
+  "lines_per_second"   : 893.898159685206,
+  "report_file"        : "loc/camsys__transam_spatial.json"},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 5700,
+  "comment": 3,
+  "code": 8029},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 1108,
+  "comment": 890,
+  "code": 5205},
+"Ruby" :{
+  "nFiles": 106,
+  "blank": 861,
+  "comment": 1182,
+  "code": 4703},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2089},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 119,
+  "comment": 151,
+  "code": 1355},
+"Haml" :{
+  "nFiles": 24,
+  "blank": 153,
+  "comment": 32,
+  "code": 966},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 40,
+  "code": 65},
+"ERB" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 0,
+  "code": 44},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 7964,
+  "comment": 2298,
+  "code": 22459,
+  "nFiles": 172} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.12237405776978,
+  "n_files"            : 12,
+  "n_lines"            : 5278,
+  "files_per_second"   : 3.84322947154233,
+  "lines_per_second"   : 1690.38042923337,
+  "report_file"        : "loc/openacid__learn.json"},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 532,
+  "comment": 4,
+  "code": 4019},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 217,
+  "comment": 0,
+  "code": 505},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 749,
+  "comment": 4,
+  "code": 4525,
+  "nFiles": 12} }

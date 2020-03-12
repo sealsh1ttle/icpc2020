@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.06936812400818,
+  "n_files"            : 281,
+  "n_lines"            : 11700,
+  "files_per_second"   : 55.4309714990323,
+  "lines_per_second"   : 2307.97995209494,
+  "report_file"        : "loc/deis__charts.json"},
+"YAML" :{
+  "nFiles": 193,
+  "blank": 37,
+  "comment": 105,
+  "code": 7631},
+"TOML" :{
+  "nFiles": 38,
+  "blank": 377,
+  "comment": 964,
+  "code": 1824},
+"Markdown" :{
+  "nFiles": 40,
+  "blank": 78,
+  "comment": 0,
+  "code": 374},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 43,
+  "comment": 13,
+  "code": 254},
+"SUM": {
+  "blank": 535,
+  "comment": 1082,
+  "code": 10083,
+  "nFiles": 281} }

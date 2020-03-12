@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 59.5096628665924,
+  "n_files"            : 295,
+  "n_lines"            : 53761,
+  "files_per_second"   : 4.95717814199898,
+  "lines_per_second"   : 903.399505396634,
+  "report_file"        : "loc/phoenixframework__phoenix.json"},
+"Elixir" :{
+  "nFiles": 215,
+  "blank": 5990,
+  "comment": 5740,
+  "code": 19439},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 8941},
+"Markdown" :{
+  "nFiles": 37,
+  "blank": 2634,
+  "comment": 0,
+  "code": 6749},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 725,
+  "comment": 643,
+  "code": 2454},
+"EEx" :{
+  "nFiles": 15,
+  "blank": 9,
+  "comment": 0,
+  "code": 138},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 12,
+  "comment": 11,
+  "code": 131},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 19,
+  "code": 57},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"SUM": {
+  "blank": 9391,
+  "comment": 6413,
+  "code": 37957,
+  "nFiles": 295} }

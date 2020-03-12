@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 590.90629196167,
+  "n_files"            : 1494,
+  "n_lines"            : 284965,
+  "files_per_second"   : 2.52831966814953,
+  "lines_per_second"   : 482.250745806045,
+  "report_file"        : "loc/opencobra__cobratoolbox.json"},
+"MATLAB" :{
+  "nFiles": 1281,
+  "blank": 22953,
+  "comment": 62439,
+  "code": 128519},
+"XML" :{
+  "nFiles": 4,
+  "blank": 123,
+  "comment": 0,
+  "code": 42688},
+"RobotFramework" :{
+  "nFiles": 7,
+  "blank": 1,
+  "comment": 0,
+  "code": 5917},
+"Fortran 77" :{
+  "nFiles": 2,
+  "blank": 1011,
+  "comment": 2361,
+  "code": 3282},
+"C" :{
+  "nFiles": 4,
+  "blank": 319,
+  "comment": 397,
+  "code": 1361},
+"reStructuredText" :{
+  "nFiles": 142,
+  "blank": 1587,
+  "comment": 1962,
+  "code": 1346},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 295,
+  "comment": 0,
+  "code": 1320},
+"Perl" :{
+  "nFiles": 5,
+  "blank": 202,
+  "comment": 220,
+  "code": 1244},
+"Python" :{
+  "nFiles": 4,
+  "blank": 401,
+  "comment": 677,
+  "code": 1168},
+"C++" :{
+  "nFiles": 1,
+  "blank": 174,
+  "comment": 148,
+  "code": 686},
+"Mathematica" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 0,
+  "code": 613},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 99,
+  "comment": 48,
+  "code": 496},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 102,
+  "code": 261},
+"make" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 26,
+  "code": 217},
+"MUMPS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 7,
+  "code": 52},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 5,
+  "code": 31},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 27314,
+  "comment": 68392,
+  "code": 189259,
+  "nFiles": 1494} }

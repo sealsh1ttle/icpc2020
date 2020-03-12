@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 97.7114839553833,
+  "n_files"            : 423,
+  "n_lines"            : 175479,
+  "files_per_second"   : 4.32907149576348,
+  "lines_per_second"   : 1795.88921277796,
+  "report_file"        : "loc/nhibernate__nhibernate.github.io.json"},
+"HTML" :{
+  "nFiles": 191,
+  "blank": 6292,
+  "comment": 8,
+  "code": 108337},
+"XML" :{
+  "nFiles": 5,
+  "blank": 2403,
+  "comment": 761,
+  "code": 35622},
+"Markdown" :{
+  "nFiles": 214,
+  "blank": 1933,
+  "comment": 0,
+  "code": 18581},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 0,
+  "code": 545},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 65,
+  "comment": 3,
+  "code": 268},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 103,
+  "code": 195},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 44,
+  "code": 107},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 6,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 18},
+"SUM": {
+  "blank": 10856,
+  "comment": 928,
+  "code": 163695,
+  "nFiles": 423} }

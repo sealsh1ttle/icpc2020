@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.02940893173218,
+  "n_files"            : 22,
+  "n_lines"            : 7545,
+  "files_per_second"   : 3.64878220221823,
+  "lines_per_second"   : 1251.36644162439,
+  "report_file"        : "loc/pixunil__cinnamon-applet-system-monitor.json"},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 723,
+  "comment": 105,
+  "code": 2306},
+"PO File" :{
+  "nFiles": 5,
+  "blank": 549,
+  "comment": 1094,
+  "code": 1498},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 0,
+  "code": 749},
+"Python" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 6,
+  "code": 205},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 70,
+  "comment": 0,
+  "code": 170},
+"SUM": {
+  "blank": 1412,
+  "comment": 1205,
+  "code": 4928,
+  "nFiles": 22} }

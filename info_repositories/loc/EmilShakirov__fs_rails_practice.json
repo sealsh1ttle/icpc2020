@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.508728981018066,
+  "n_files"            : 79,
+  "n_lines"            : 1269,
+  "files_per_second"   : 155.288971038972,
+  "lines_per_second"   : 2494.45195251209,
+  "report_file"        : "loc/EmilShakirov__fs_rails_practice.json"},
+"Ruby" :{
+  "nFiles": 56,
+  "blank": 143,
+  "comment": 259,
+  "code": 359},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 31,
+  "comment": 12,
+  "code": 143},
+"Slim" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 0,
+  "code": 37},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 6,
+  "code": 21},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 25,
+  "code": 9},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 209,
+  "comment": 305,
+  "code": 755,
+  "nFiles": 79} }

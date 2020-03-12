@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 697.138862133026,
+  "n_files"            : 1075,
+  "n_lines"            : 205532,
+  "files_per_second"   : 1.54201703332222,
+  "lines_per_second"   : 294.822181295612,
+  "report_file"        : "loc/GDG-Lille__devfest-2018.json"},
+"HTML" :{
+  "nFiles": 571,
+  "blank": 11729,
+  "comment": 6989,
+  "code": 64535},
+"JavaScript" :{
+  "nFiles": 174,
+  "blank": 7367,
+  "comment": 29171,
+  "code": 45054},
+"JSON" :{
+  "nFiles": 147,
+  "blank": 22,
+  "comment": 0,
+  "code": 23586},
+"Markdown" :{
+  "nFiles": 115,
+  "blank": 3220,
+  "comment": 0,
+  "code": 10662},
+"SVG" :{
+  "nFiles": 26,
+  "blank": 3,
+  "comment": 20,
+  "code": 1437},
+"YAML" :{
+  "nFiles": 33,
+  "blank": 0,
+  "comment": 1,
+  "code": 790},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 68,
+  "comment": 31,
+  "code": 367},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 0,
+  "code": 359},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 27},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 8,
+  "code": 9},
+"SUM": {
+  "blank": 22475,
+  "comment": 36220,
+  "code": 146837,
+  "nFiles": 1075} }

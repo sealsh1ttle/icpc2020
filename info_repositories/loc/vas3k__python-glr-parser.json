@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.32405591011047,
+  "n_files"            : 12,
+  "n_lines"            : 1257,
+  "files_per_second"   : 5.16338696835808,
+  "lines_per_second"   : 540.864784935509,
+  "report_file"        : "loc/vas3k__python-glr-parser.json"},
+"Python" :{
+  "nFiles": 11,
+  "blank": 183,
+  "comment": 139,
+  "code": 819},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 0,
+  "code": 79},
+"SUM": {
+  "blank": 220,
+  "comment": 139,
+  "code": 898,
+  "nFiles": 12} }

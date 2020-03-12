@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.4912850856781,
+  "n_files"            : 63,
+  "n_lines"            : 36967,
+  "files_per_second"   : 4.66968117565603,
+  "lines_per_second"   : 2740.06514318217,
+  "report_file"        : "loc/moeindanesh__ChatApp.json"},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 1313,
+  "comment": 127,
+  "code": 14283},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7273},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 1261,
+  "comment": 1547,
+  "code": 4758},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2671},
+"Sass" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 34,
+  "code": 1768},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 44,
+  "code": 1758},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 38},
+"SUM": {
+  "blank": 2666,
+  "comment": 1752,
+  "code": 32549,
+  "nFiles": 63} }

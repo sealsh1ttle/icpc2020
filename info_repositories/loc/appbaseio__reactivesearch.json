@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.94160604476929,
+  "n_files"            : 698,
+  "n_lines"            : 63776,
+  "files_per_second"   : 78.0620390235511,
+  "lines_per_second"   : 7132.49942803151,
+  "report_file"        : "loc/appbaseio__reactivesearch.json"},
+"JavaScript" :{
+  "nFiles": 413,
+  "blank": 3924,
+  "comment": 1403,
+  "code": 40775},
+"JSX" :{
+  "nFiles": 23,
+  "blank": 506,
+  "comment": 69,
+  "code": 5973},
+"JSON" :{
+  "nFiles": 91,
+  "blank": 1,
+  "comment": 0,
+  "code": 3293},
+"CSS" :{
+  "nFiles": 16,
+  "blank": 351,
+  "comment": 9,
+  "code": 1607},
+"Vuejs Component" :{
+  "nFiles": 18,
+  "blank": 50,
+  "comment": 0,
+  "code": 1180},
+"TypeScript" :{
+  "nFiles": 34,
+  "blank": 147,
+  "comment": 1,
+  "code": 1114},
+"HTML" :{
+  "nFiles": 47,
+  "blank": 54,
+  "comment": 23,
+  "code": 1062},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 438,
+  "comment": 0,
+  "code": 861},
+"SVG" :{
+  "nFiles": 26,
+  "blank": 0,
+  "comment": 25,
+  "code": 770},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 0,
+  "code": 68},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 10,
+  "code": 44},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 5487,
+  "comment": 1540,
+  "code": 56749,
+  "nFiles": 698} }

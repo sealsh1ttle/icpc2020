@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.16407299041748,
+  "n_files"            : 26,
+  "n_lines"            : 2391,
+  "files_per_second"   : 8.2172567063851,
+  "lines_per_second"   : 755.671568652568,
+  "report_file"        : "loc/feedhenry__fh-system-dump-tool.json"},
+"Go" :{
+  "nFiles": 22,
+  "blank": 234,
+  "comment": 205,
+  "code": 1728},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 55,
+  "comment": 0,
+  "code": 103},
+"make" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 302,
+  "comment": 207,
+  "code": 1882,
+  "nFiles": 26} }

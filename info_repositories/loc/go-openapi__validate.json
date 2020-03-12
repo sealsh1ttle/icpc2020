@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.4512429237366,
+  "n_files"            : 377,
+  "n_lines"            : 173489,
+  "files_per_second"   : 5.35121857833086,
+  "lines_per_second"   : 2462.53994677996,
+  "report_file"        : "loc/go-openapi__validate.json"},
+"JSON" :{
+  "nFiles": 197,
+  "blank": 50,
+  "comment": 0,
+  "code": 140600},
+"YAML" :{
+  "nFiles": 129,
+  "blank": 456,
+  "comment": 318,
+  "code": 21535},
+"Go" :{
+  "nFiles": 47,
+  "blank": 1186,
+  "comment": 1600,
+  "code": 7532},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 0,
+  "code": 145},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1747,
+  "comment": 1918,
+  "code": 169824,
+  "nFiles": 377} }

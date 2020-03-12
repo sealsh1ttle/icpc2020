@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0256538391113281,
+  "n_files"            : 3,
+  "n_lines"            : 317,
+  "files_per_second"   : 116.94156133829,
+  "lines_per_second"   : 12356.8249814126,
+  "report_file"        : "loc/regalstreak__skadoosh.json"},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 81,
+  "comment": 26,
+  "code": 154},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 23},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 12,
+  "code": 5},
+"SUM": {
+  "blank": 97,
+  "comment": 38,
+  "code": 182,
+  "nFiles": 3} }

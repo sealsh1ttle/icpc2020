@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.1732931137085,
+  "n_files"            : 162,
+  "n_lines"            : 21820,
+  "files_per_second"   : 10.0165129550944,
+  "lines_per_second"   : 1349.13773259358,
+  "report_file"        : "loc/laravel__telescope.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 9274},
+"PHP" :{
+  "nFiles": 95,
+  "blank": 1164,
+  "comment": 2225,
+  "code": 4368},
+"Vuejs Component" :{
+  "nFiles": 38,
+  "blank": 562,
+  "comment": 148,
+  "code": 2636},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 70,
+  "comment": 31,
+  "code": 375},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 83,
+  "comment": 1,
+  "code": 356},
+"Blade" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 3,
+  "code": 197},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 42,
+  "comment": 0,
+  "code": 177},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 39},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 10,
+  "code": 4},
+"SUM": {
+  "blank": 1946,
+  "comment": 2418,
+  "code": 17456,
+  "nFiles": 162} }

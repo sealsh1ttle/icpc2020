@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.29601788520813,
+  "n_files"            : 9,
+  "n_lines"            : 6615,
+  "files_per_second"   : 6.94434861024674,
+  "lines_per_second"   : 5104.09622853136,
+  "report_file"        : "loc/ironhack-labs__lab-javascript-clue.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 1010,
+  "comment": 1010,
+  "code": 4394},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 69},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 60},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 16},
+"SUM": {
+  "blank": 1064,
+  "comment": 1012,
+  "code": 4539,
+  "nFiles": 9} }

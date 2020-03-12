@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.6231689453125,
+  "n_files"            : 82,
+  "n_lines"            : 5317,
+  "files_per_second"   : 4.93287412705523,
+  "lines_per_second"   : 319.854777238447,
+  "report_file"        : "loc/jenkinsci__github-pr-coverage-status-plugin.json"},
+"Java" :{
+  "nFiles": 38,
+  "blank": 647,
+  "comment": 462,
+  "code": 1985},
+"XML" :{
+  "nFiles": 18,
+  "blank": 7,
+  "comment": 0,
+  "code": 1427},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 73,
+  "comment": 0,
+  "code": 191},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 1,
+  "comment": 0,
+  "code": 160},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 14,
+  "code": 140},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 19,
+  "comment": 0,
+  "code": 96},
+"Groovy" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 5,
+  "code": 41},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 780,
+  "comment": 481,
+  "code": 4056,
+  "nFiles": 82} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.351416826248169,
+  "n_files"            : 3,
+  "n_lines"            : 804,
+  "files_per_second"   : 8.53687067870055,
+  "lines_per_second"   : 2287.88134189175,
+  "report_file"        : "loc/allburov__zabbix-ibm-server-imm2.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 766},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 20},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 12},
+"SUM": {
+  "blank": 5,
+  "comment": 1,
+  "code": 798,
+  "nFiles": 3} }

@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 668.606451034546,
+  "n_files"            : 1828,
+  "n_lines"            : 995725,
+  "files_per_second"   : 2.73404481391333,
+  "lines_per_second"   : 1489.25425182377,
+  "report_file"        : "loc/gogs__gogs.json"},
+"Go" :{
+  "nFiles": 1231,
+  "blank": 41603,
+  "comment": 43717,
+  "code": 508745},
+"C" :{
+  "nFiles": 4,
+  "blank": 13993,
+  "comment": 63387,
+  "code": 122220},
+"JavaScript" :{
+  "nFiles": 171,
+  "blank": 9151,
+  "comment": 7457,
+  "code": 84297},
+"INI" :{
+  "nFiles": 31,
+  "blank": 2536,
+  "comment": 204,
+  "code": 38135},
+"HTML" :{
+  "nFiles": 131,
+  "blank": 2566,
+  "comment": 26,
+  "code": 13830},
+"Markdown" :{
+  "nFiles": 93,
+  "blank": 2442,
+  "comment": 0,
+  "code": 6587},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 410,
+  "comment": 446,
+  "code": 6370},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 1,
+  "comment": 13,
+  "code": 4334},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 291,
+  "comment": 13,
+  "code": 3183},
+"Assembly" :{
+  "nFiles": 38,
+  "blank": 406,
+  "comment": 464,
+  "code": 2654},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 301,
+  "comment": 8708,
+  "code": 1932},
+"Bourne Shell" :{
+  "nFiles": 41,
+  "blank": 198,
+  "comment": 457,
+  "code": 1069},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 153,
+  "comment": 139,
+  "code": 907},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 890},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 50,
+  "code": 306},
+"make" :{
+  "nFiles": 13,
+  "blank": 87,
+  "comment": 43,
+  "code": 206},
+"Python" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 126,
+  "code": 166},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 16,
+  "comment": 10,
+  "code": 146},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 4,
+  "code": 33},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 45,
+  "code": 32},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 32},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 22},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"diff" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 7,
+  "code": 8},
+"SUM": {
+  "blank": 74289,
+  "comment": 125323,
+  "code": 796113,
+  "nFiles": 1828} }

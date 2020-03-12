@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.4630880355835,
+  "n_files"            : 42,
+  "n_lines"            : 4329,
+  "files_per_second"   : 5.62769724807571,
+  "lines_per_second"   : 580.054794926661,
+  "report_file"        : "loc/sabricot__django-elasticsearch-dsl.json"},
+"Python" :{
+  "nFiles": 33,
+  "blank": 668,
+  "comment": 170,
+  "code": 2501},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 258,
+  "comment": 247,
+  "code": 341},
+"make" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 47},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 5,
+  "code": 42},
+"INI" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 23},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 951,
+  "comment": 422,
+  "code": 2956,
+  "nFiles": 42} }

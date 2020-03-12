@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.179739952087402,
+  "n_files"            : 32,
+  "n_lines"            : 2257,
+  "files_per_second"   : 178.034986814948,
+  "lines_per_second"   : 12557.0301637918,
+  "report_file"        : "loc/puppetlabs__puppetlabs-splunk_hec.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 0,
+  "code": 705},
+"Ruby" :{
+  "nFiles": 10,
+  "blank": 114,
+  "comment": 34,
+  "code": 536},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 9,
+  "comment": 4,
+  "code": 341},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 104,
+  "comment": 0,
+  "code": 276},
+"Puppet" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 11,
+  "code": 100},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 249,
+  "comment": 49,
+  "code": 1959,
+  "nFiles": 32} }

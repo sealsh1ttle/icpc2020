@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.48883390426636,
+  "n_files"            : 28,
+  "n_lines"            : 1827,
+  "files_per_second"   : 8.02560418991569,
+  "lines_per_second"   : 523.670673391999,
+  "report_file"        : "loc/sendgrid__testrail.json"},
+"Go" :{
+  "nFiles": 26,
+  "blank": 237,
+  "comment": 191,
+  "code": 1334},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 29},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 257,
+  "comment": 191,
+  "code": 1379,
+  "nFiles": 28} }

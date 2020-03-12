@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0581369400024414,
+  "n_files"            : 1,
+  "n_lines"            : 200,
+  "files_per_second"   : 17.2007677039419,
+  "lines_per_second"   : 3440.15354078837,
+  "report_file"        : "loc/rehooks__awesome-react-hooks.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 183},
+"SUM": {
+  "blank": 17,
+  "comment": 0,
+  "code": 183,
+  "nFiles": 1} }

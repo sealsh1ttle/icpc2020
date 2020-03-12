@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 106.727494955063,
+  "n_files"            : 323,
+  "n_lines"            : 31258,
+  "files_per_second"   : 3.02639914987228,
+  "lines_per_second"   : 292.876732590426,
+  "report_file"        : "loc/vpulim__node-soap.json"},
+"XSD" :{
+  "nFiles": 58,
+  "blank": 159,
+  "comment": 390,
+  "code": 12165},
+"JSON" :{
+  "nFiles": 108,
+  "blank": 2,
+  "comment": 0,
+  "code": 5160},
+"JavaScript" :{
+  "nFiles": 34,
+  "blank": 681,
+  "comment": 387,
+  "code": 4370},
+"TypeScript" :{
+  "nFiles": 17,
+  "blank": 591,
+  "comment": 455,
+  "code": 3946},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 375,
+  "comment": 0,
+  "code": 1666},
+"XML" :{
+  "nFiles": 100,
+  "blank": 3,
+  "comment": 8,
+  "code": 876},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 1811,
+  "comment": 1240,
+  "code": 28207,
+  "nFiles": 323} }

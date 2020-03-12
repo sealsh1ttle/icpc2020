@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.19712996482849,
+  "n_files"            : 455,
+  "n_lines"            : 154716,
+  "files_per_second"   : 87.5483205306018,
+  "lines_per_second"   : 29769.507602665,
+  "report_file"        : "loc/gonetz__GLideN64.json"},
+"C/C++ Header" :{
+  "nFiles": 261,
+  "blank": 9169,
+  "comment": 25575,
+  "code": 50689},
+"C++" :{
+  "nFiles": 153,
+  "blank": 6998,
+  "comment": 2470,
+  "code": 43523},
+"Qt Linguist" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 6745},
+"Qt" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4634},
+"XML" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 1907},
+"C" :{
+  "nFiles": 3,
+  "blank": 217,
+  "comment": 221,
+  "code": 908},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 74,
+  "comment": 13,
+  "code": 577},
+"make" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 21,
+  "code": 233},
+"INI" :{
+  "nFiles": 2,
+  "blank": 59,
+  "comment": 3,
+  "code": 204},
+"Objective C++" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 1,
+  "code": 90},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 2,
+  "code": 77},
+"ProGuard" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 10,
+  "code": 67},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 0,
+  "code": 57},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 23,
+  "code": 47},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 16608,
+  "comment": 28339,
+  "code": 109769,
+  "nFiles": 455} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.5377440452576,
+  "n_files"            : 232,
+  "n_lines"            : 19196,
+  "files_per_second"   : 3.70975965861681,
+  "lines_per_second"   : 306.950631063829,
+  "report_file"        : "loc/Kitware__minerva.json"},
+"JavaScript" :{
+  "nFiles": 69,
+  "blank": 652,
+  "comment": 557,
+  "code": 6590},
+"Python" :{
+  "nFiles": 31,
+  "blank": 955,
+  "comment": 1716,
+  "code": 3398},
+"Pug" :{
+  "nFiles": 39,
+  "blank": 35,
+  "comment": 25,
+  "code": 1053},
+"Stylus" :{
+  "nFiles": 23,
+  "blank": 147,
+  "comment": 8,
+  "code": 649},
+"YAML" :{
+  "nFiles": 24,
+  "blank": 105,
+  "comment": 37,
+  "code": 587},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 327,
+  "comment": 199,
+  "code": 415},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 31,
+  "comment": 87,
+  "code": 379},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 299},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 1,
+  "comment": 0,
+  "code": 279},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 89,
+  "comment": 0,
+  "code": 210},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 9,
+  "code": 89},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 7,
+  "code": 38},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 2403,
+  "comment": 2651,
+  "code": 14142,
+  "nFiles": 232} }

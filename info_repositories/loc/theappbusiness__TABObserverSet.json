@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.2370760440826,
+  "n_files"            : 37,
+  "n_lines"            : 1710,
+  "files_per_second"   : 2.59884823860152,
+  "lines_per_second"   : 120.10893210834,
+  "report_file"        : "loc/theappbusiness__TABObserverSet.json"},
+"XML" :{
+  "nFiles": 11,
+  "blank": 7,
+  "comment": 4,
+  "code": 534},
+"Swift" :{
+  "nFiles": 7,
+  "blank": 126,
+  "comment": 102,
+  "code": 297},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 10,
+  "code": 168},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 71,
+  "comment": 0,
+  "code": 126},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 79},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 77},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 39},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 15},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"C" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 240,
+  "comment": 116,
+  "code": 1354,
+  "nFiles": 37} }

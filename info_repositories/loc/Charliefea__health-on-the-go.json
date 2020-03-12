@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.2905099391937,
+  "n_files"            : 112,
+  "n_lines"            : 2122,
+  "files_per_second"   : 4.26009233974694,
+  "lines_per_second"   : 80.7135352227054,
+  "report_file"        : "loc/Charliefea__health-on-the-go.json"},
+"Ruby" :{
+  "nFiles": 78,
+  "blank": 229,
+  "comment": 377,
+  "code": 739},
+"ERB" :{
+  "nFiles": 16,
+  "blank": 48,
+  "comment": 0,
+  "code": 195},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 91,
+  "code": 89},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 52},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 12,
+  "code": 16},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 26,
+  "code": 4},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 333,
+  "comment": 512,
+  "code": 1277,
+  "nFiles": 112} }

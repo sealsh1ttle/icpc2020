@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 198.063737869263,
+  "n_files"            : 640,
+  "n_lines"            : 81873,
+  "files_per_second"   : 3.23128305506609,
+  "lines_per_second"   : 413.366933699103,
+  "report_file"        : "loc/spinnaker__spinnaker.github.io.json"},
+"Markdown" :{
+  "nFiles": 410,
+  "blank": 11278,
+  "comment": 0,
+  "code": 32725},
+"HTML" :{
+  "nFiles": 49,
+  "blank": 3394,
+  "comment": 60,
+  "code": 11071},
+"Sass" :{
+  "nFiles": 109,
+  "blank": 1607,
+  "comment": 1154,
+  "code": 9254},
+"SVG" :{
+  "nFiles": 26,
+  "blank": 13,
+  "comment": 14,
+  "code": 3316},
+"Mustache" :{
+  "nFiles": 23,
+  "blank": 396,
+  "comment": 0,
+  "code": 2526},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 64,
+  "comment": 109,
+  "code": 1831},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 473,
+  "comment": 290,
+  "code": 1589},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 116,
+  "comment": 1,
+  "code": 426},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 2,
+  "code": 98},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 10},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 17359,
+  "comment": 1633,
+  "code": 62881,
+  "nFiles": 640} }

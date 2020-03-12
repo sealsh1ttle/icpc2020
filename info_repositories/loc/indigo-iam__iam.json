@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 256.15113401413,
+  "n_files"            : 1035,
+  "n_lines"            : 147024,
+  "files_per_second"   : 4.04058332196534,
+  "lines_per_second"   : 573.973644761963,
+  "report_file"        : "loc/indigo-iam__iam.json"},
+"Java" :{
+  "nFiles": 708,
+  "blank": 15403,
+  "comment": 12335,
+  "code": 44693},
+"JavaScript" :{
+  "nFiles": 99,
+  "blank": 6313,
+  "comment": 5783,
+  "code": 31332},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 1063,
+  "comment": 346,
+  "code": 11575},
+"HTML" :{
+  "nFiles": 69,
+  "blank": 997,
+  "comment": 901,
+  "code": 5315},
+"SQL" :{
+  "nFiles": 41,
+  "blank": 204,
+  "comment": 46,
+  "code": 1911},
+"XML" :{
+  "nFiles": 18,
+  "blank": 292,
+  "comment": 447,
+  "code": 1888},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1478},
+"JSP" :{
+  "nFiles": 23,
+  "blank": 206,
+  "comment": 231,
+  "code": 1214},
+"Maven" :{
+  "nFiles": 6,
+  "blank": 169,
+  "comment": 47,
+  "code": 941},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 106,
+  "comment": 130,
+  "code": 478},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 59,
+  "comment": 39,
+  "code": 307},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 95,
+  "comment": 0,
+  "code": 274},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 184},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 23,
+  "comment": 2,
+  "code": 70},
+"Velocity Template Language" :{
+  "nFiles": 8,
+  "blank": 36,
+  "comment": 0,
+  "code": 46},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 24998,
+  "comment": 20308,
+  "code": 101718,
+  "nFiles": 1035} }

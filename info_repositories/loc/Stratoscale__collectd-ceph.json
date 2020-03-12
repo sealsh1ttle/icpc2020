@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.67102217674255,
+  "n_files"            : 11,
+  "n_lines"            : 1948,
+  "files_per_second"   : 4.1182735567606,
+  "lines_per_second"   : 729.308808051787,
+  "report_file"        : "loc/Stratoscale__collectd-ceph.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 979},
+"Python" :{
+  "nFiles": 6,
+  "blank": 137,
+  "comment": 205,
+  "code": 420},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 0,
+  "code": 138},
+"make" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 11,
+  "code": 6},
+"SUM": {
+  "blank": 189,
+  "comment": 216,
+  "code": 1543,
+  "nFiles": 11} }

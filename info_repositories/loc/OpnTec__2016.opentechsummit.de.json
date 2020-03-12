@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.46340703964233,
+  "n_files"            : 350,
+  "n_lines"            : 149418,
+  "files_per_second"   : 78.4154339703794,
+  "lines_per_second"   : 33476.2208942461,
+  "report_file"        : "loc/OpnTec__2016.opentechsummit.de.json"},
+"CSS" :{
+  "nFiles": 41,
+  "blank": 683,
+  "comment": 2004,
+  "code": 58054},
+"LESS" :{
+  "nFiles": 62,
+  "blank": 5867,
+  "comment": 3455,
+  "code": 18267},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 1812,
+  "comment": 37,
+  "code": 13627},
+"PHP" :{
+  "nFiles": 172,
+  "blank": 2318,
+  "comment": 9421,
+  "code": 10356},
+"JavaScript" :{
+  "nFiles": 42,
+  "blank": 2363,
+  "comment": 3264,
+  "code": 9021},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 6301},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 4,
+  "code": 2561},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 13044,
+  "comment": 18185,
+  "code": 118189,
+  "nFiles": 350} }

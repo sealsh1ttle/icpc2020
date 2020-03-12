@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.05066084861755,
+  "n_files"            : 305,
+  "n_lines"            : 27442,
+  "files_per_second"   : 75.2963556808497,
+  "lines_per_second"   : 6774.69702489796,
+  "report_file"        : "loc/alibaba__p3c.json"},
+"XML" :{
+  "nFiles": 83,
+  "blank": 858,
+  "comment": 163,
+  "code": 8165},
+"Kotlin" :{
+  "nFiles": 87,
+  "blank": 964,
+  "comment": 1847,
+  "code": 5284},
+"Java" :{
+  "nFiles": 91,
+  "blank": 874,
+  "comment": 2262,
+  "code": 4528},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 192,
+  "comment": 0,
+  "code": 1297},
+"Maven" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 18,
+  "code": 531},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 24,
+  "comment": 0,
+  "code": 137},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 17},
+"Freemarker Template" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 2966,
+  "comment": 4314,
+  "code": 20162,
+  "nFiles": 305} }

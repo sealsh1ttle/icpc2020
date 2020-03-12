@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 85.1307861804962,
+  "n_files"            : 129,
+  "n_lines"            : 10390,
+  "files_per_second"   : 1.51531550203814,
+  "lines_per_second"   : 122.047504388963,
+  "report_file"        : "loc/inncaps__CodingHackathons.json"},
+"Java" :{
+  "nFiles": 13,
+  "blank": 468,
+  "comment": 123,
+  "code": 2770},
+"C++" :{
+  "nFiles": 46,
+  "blank": 271,
+  "comment": 65,
+  "code": 2491},
+"Markdown" :{
+  "nFiles": 59,
+  "blank": 990,
+  "comment": 0,
+  "code": 2367},
+"Python" :{
+  "nFiles": 9,
+  "blank": 162,
+  "comment": 84,
+  "code": 492},
+"C" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 3,
+  "code": 85},
+"SUM": {
+  "blank": 1910,
+  "comment": 275,
+  "code": 8205,
+  "nFiles": 129} }

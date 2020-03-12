@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.73108506202698,
+  "n_files"            : 590,
+  "n_lines"            : 66581,
+  "files_per_second"   : 158.130943195241,
+  "lines_per_second"   : 17844.942930309,
+  "report_file"        : "loc/max-red-egg__ac_warcraft.json"},
+"JavaScript" :{
+  "nFiles": 76,
+  "blank": 5691,
+  "comment": 6538,
+  "code": 22805},
+"Sass" :{
+  "nFiles": 160,
+  "blank": 2544,
+  "comment": 1580,
+  "code": 11706},
+"Ruby" :{
+  "nFiles": 201,
+  "blank": 831,
+  "comment": 1109,
+  "code": 4922},
+"ERB" :{
+  "nFiles": 122,
+  "blank": 172,
+  "comment": 1,
+  "code": 3518},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 540,
+  "comment": 43,
+  "code": 3383},
+"YAML" :{
+  "nFiles": 21,
+  "blank": 78,
+  "comment": 104,
+  "code": 440},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 84,
+  "comment": 0,
+  "code": 276},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 9955,
+  "comment": 9381,
+  "code": 47245,
+  "nFiles": 590} }

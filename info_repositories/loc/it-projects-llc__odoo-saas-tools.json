@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 129.383040904999,
+  "n_files"            : 424,
+  "n_lines"            : 58088,
+  "files_per_second"   : 3.27709100848331,
+  "lines_per_second"   : 448.961468162214,
+  "report_file"        : "loc/it-projects-llc__odoo-saas-tools.json"},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 9,
+  "comment": 2352,
+  "code": 17555},
+"LESS" :{
+  "nFiles": 96,
+  "blank": 1634,
+  "comment": 1688,
+  "code": 12208},
+"Python" :{
+  "nFiles": 150,
+  "blank": 1192,
+  "comment": 865,
+  "code": 6364},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 3470},
+"XML" :{
+  "nFiles": 70,
+  "blank": 170,
+  "comment": 49,
+  "code": 2779},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 650,
+  "comment": 233,
+  "code": 2055},
+"Sass" :{
+  "nFiles": 14,
+  "blank": 34,
+  "comment": 34,
+  "code": 1768},
+"reStructuredText" :{
+  "nFiles": 68,
+  "blank": 779,
+  "comment": 45,
+  "code": 1506},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 37,
+  "comment": 101,
+  "code": 251},
+"make" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 5,
+  "code": 129},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 45},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 4558,
+  "comment": 5373,
+  "code": 48157,
+  "nFiles": 424} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.45160412788391,
+  "n_files"            : 18,
+  "n_lines"            : 489,
+  "files_per_second"   : 5.2149665295004,
+  "lines_per_second"   : 141.673257384761,
+  "report_file"        : "loc/learn-co-curriculum__activerecord-tvland.json"},
+"Ruby" :{
+  "nFiles": 14,
+  "blank": 58,
+  "comment": 26,
+  "code": 240},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 0,
+  "code": 121},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 100,
+  "comment": 26,
+  "code": 363,
+  "nFiles": 18} }

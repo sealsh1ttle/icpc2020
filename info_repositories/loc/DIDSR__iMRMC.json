@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.6507267951965,
+  "n_files"            : 125,
+  "n_lines"            : 27307,
+  "files_per_second"   : 3.82839869948591,
+  "lines_per_second"   : 836.336666294893,
+  "report_file"        : "loc/DIDSR__iMRMC.json"},
+"Java" :{
+  "nFiles": 29,
+  "blank": 1780,
+  "comment": 4037,
+  "code": 11391},
+"MATLAB" :{
+  "nFiles": 37,
+  "blank": 418,
+  "comment": 869,
+  "code": 2656},
+"R" :{
+  "nFiles": 20,
+  "blank": 617,
+  "comment": 1208,
+  "code": 2073},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 391,
+  "comment": 0,
+  "code": 1420},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 155,
+  "comment": 0,
+  "code": 248},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 3361,
+  "comment": 6114,
+  "code": 17832,
+  "nFiles": 125} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.93104100227356,
+  "n_files"            : 826,
+  "n_lines"            : 86830,
+  "files_per_second"   : 104.147740474827,
+  "lines_per_second"   : 10948.1214351444,
+  "report_file"        : "loc/SquidDev-CC__CC-Tweaked.json"},
+"Java" :{
+  "nFiles": 398,
+  "blank": 6846,
+  "comment": 6444,
+  "code": 39148},
+"Lua" :{
+  "nFiles": 164,
+  "blank": 2887,
+  "comment": 1967,
+  "code": 21967},
+"JSON" :{
+  "nFiles": 251,
+  "blank": 28,
+  "comment": 0,
+  "code": 4014},
+"XML" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 16,
+  "code": 2691},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 84,
+  "comment": 23,
+  "code": 321},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 0,
+  "code": 88},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 9926,
+  "comment": 8474,
+  "code": 68430,
+  "nFiles": 826} }

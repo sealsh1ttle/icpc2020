@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.0162601470947,
+  "n_files"            : 268,
+  "n_lines"            : 37867,
+  "files_per_second"   : 5.05505290747458,
+  "lines_per_second"   : 714.252568833358,
+  "report_file"        : "loc/kubernetes-sigs__cluster-api.json"},
+"Go" :{
+  "nFiles": 157,
+  "blank": 3538,
+  "comment": 4251,
+  "code": 20440},
+"YAML" :{
+  "nFiles": 38,
+  "blank": 27,
+  "comment": 120,
+  "code": 3927},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 870,
+  "comment": 0,
+  "code": 2408},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 86,
+  "comment": 44,
+  "code": 530},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 114,
+  "comment": 247,
+  "code": 400},
+"make" :{
+  "nFiles": 3,
+  "blank": 74,
+  "comment": 85,
+  "code": 224},
+"Python" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 76,
+  "code": 181},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 70,
+  "code": 36},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 3,
+  "code": 33},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 4787,
+  "comment": 4896,
+  "code": 28184,
+  "nFiles": 268} }

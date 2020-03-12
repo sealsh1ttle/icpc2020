@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.549782037734985,
+  "n_files"            : 14,
+  "n_lines"            : 1252,
+  "files_per_second"   : 25.4646369635461,
+  "lines_per_second"   : 2277.26610559712,
+  "report_file"        : "loc/kubernetes__cluster-bootstrap.json"},
+"Go" :{
+  "nFiles": 9,
+  "blank": 134,
+  "comment": 215,
+  "code": 620},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 250},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 148,
+  "comment": 215,
+  "code": 889,
+  "nFiles": 14} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.2463290691376,
+  "n_files"            : 98,
+  "n_lines"            : 70839,
+  "files_per_second"   : 3.7338554942998,
+  "lines_per_second"   : 2699.00601388473,
+  "report_file"        : "loc/smartcatdev__buildr-features.json"},
+"XML" :{
+  "nFiles": 7,
+  "blank": 1188,
+  "comment": 132,
+  "code": 55859},
+"PHP" :{
+  "nFiles": 64,
+  "blank": 1505,
+  "comment": 685,
+  "code": 6077},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 998,
+  "comment": 154,
+  "code": 2582},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 171,
+  "comment": 7,
+  "code": 985},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 59,
+  "comment": 0,
+  "code": 437},
+"SUM": {
+  "blank": 3921,
+  "comment": 978,
+  "code": 65940,
+  "nFiles": 98} }

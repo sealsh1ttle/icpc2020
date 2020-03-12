@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.3928418159485,
+  "n_files"            : 85,
+  "n_lines"            : 18447,
+  "files_per_second"   : 4.6213630743182,
+  "lines_per_second"   : 1002.94452508174,
+  "report_file"        : "loc/FNNDSC__fnndsc.json"},
+"JavaScript" :{
+  "nFiles": 41,
+  "blank": 649,
+  "comment": 4831,
+  "code": 7724},
+"HTML" :{
+  "nFiles": 20,
+  "blank": 443,
+  "comment": 123,
+  "code": 2841},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 320,
+  "comment": 0,
+  "code": 742},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 5,
+  "code": 363},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 350},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 35},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1423,
+  "comment": 4962,
+  "code": 12062,
+  "nFiles": 85} }

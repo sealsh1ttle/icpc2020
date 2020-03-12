@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.335397005081177,
+  "n_files"            : 45,
+  "n_lines"            : 5280,
+  "files_per_second"   : 134.169355475039,
+  "lines_per_second"   : 15742.5377090713,
+  "report_file"        : "loc/LisaFC__docsysite.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 2873},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 568,
+  "comment": 0,
+  "code": 1296},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 47,
+  "comment": 9,
+  "code": 174},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 14,
+  "comment": 0,
+  "code": 116},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 33,
+  "code": 95},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 14,
+  "code": 3},
+"SUM": {
+  "blank": 655,
+  "comment": 56,
+  "code": 4569,
+  "nFiles": 45} }

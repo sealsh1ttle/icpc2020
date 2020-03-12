@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 100.768615007401,
+  "n_files"            : 1837,
+  "n_lines"            : 782252,
+  "files_per_second"   : 18.2298823881333,
+  "lines_per_second"   : 7762.85354266853,
+  "report_file"        : "loc/kubernetes-sigs__kube-storage-version-migrator.json"},
+"Go" :{
+  "nFiles": 1646,
+  "blank": 53020,
+  "comment": 82013,
+  "code": 618680},
+"Protocol Buffers" :{
+  "nFiles": 51,
+  "blank": 3000,
+  "comment": 9111,
+  "code": 5041},
+"Markdown" :{
+  "nFiles": 47,
+  "blank": 1106,
+  "comment": 0,
+  "code": 2935},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1610},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 262,
+  "comment": 270,
+  "code": 1578},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 147,
+  "comment": 404,
+  "code": 786},
+"Assembly" :{
+  "nFiles": 27,
+  "blank": 231,
+  "comment": 264,
+  "code": 436},
+"YAML" :{
+  "nFiles": 25,
+  "blank": 41,
+  "comment": 1,
+  "code": 419},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 50,
+  "code": 306},
+"make" :{
+  "nFiles": 7,
+  "blank": 28,
+  "comment": 61,
+  "code": 89},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 21,
+  "comment": 51,
+  "code": 52},
+"TOML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 83,
+  "code": 32},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"SUM": {
+  "blank": 57912,
+  "comment": 92334,
+  "code": 632006,
+  "nFiles": 1837} }

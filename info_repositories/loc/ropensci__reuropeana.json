@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.09645700454712,
+  "n_files"            : 13,
+  "n_lines"            : 752,
+  "files_per_second"   : 6.20093804538018,
+  "lines_per_second"   : 358.70041616353,
+  "report_file"        : "loc/ropensci__reuropeana.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 184},
+"R" :{
+  "nFiles": 9,
+  "blank": 22,
+  "comment": 180,
+  "code": 152},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 86},
+"Rmd" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 37,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 79,
+  "comment": 217,
+  "code": 456,
+  "nFiles": 13} }

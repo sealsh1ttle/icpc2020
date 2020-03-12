@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.06564593315125,
+  "n_files"            : 10,
+  "n_lines"            : 1284,
+  "files_per_second"   : 9.38397988385202,
+  "lines_per_second"   : 1204.9030170866,
+  "report_file"        : "loc/ericadamski__vscode-carbon_now_sh.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 1033},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 159},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 0,
+  "code": 60},
+"SUM": {
+  "blank": 32,
+  "comment": 0,
+  "code": 1252,
+  "nFiles": 10} }

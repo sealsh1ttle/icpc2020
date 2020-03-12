@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 189.857403993607,
+  "n_files"            : 676,
+  "n_lines"            : 47439,
+  "files_per_second"   : 3.56056696120613,
+  "lines_per_second"   : 249.866473480263,
+  "report_file"        : "loc/eggjs__egg.json"},
+"Markdown" :{
+  "nFiles": 103,
+  "blank": 7409,
+  "comment": 0,
+  "code": 22804},
+"JavaScript" :{
+  "nFiles": 392,
+  "blank": 1892,
+  "comment": 1426,
+  "code": 10995},
+"TypeScript" :{
+  "nFiles": 23,
+  "blank": 249,
+  "comment": 680,
+  "code": 1015},
+"JSON" :{
+  "nFiles": 134,
+  "blank": 1,
+  "comment": 0,
+  "code": 591},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 14,
+  "comment": 5,
+  "code": 275},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 6,
+  "code": 24},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 9573,
+  "comment": 2117,
+  "code": 35749,
+  "nFiles": 676} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.749145030975342,
+  "n_files"            : 146,
+  "n_lines"            : 10338,
+  "files_per_second"   : 194.888831886019,
+  "lines_per_second"   : 13799.7311235457,
+  "report_file"        : "loc/QADEV-07__sfdc-ui-test.json"},
+"Java" :{
+  "nFiles": 117,
+  "blank": 1983,
+  "comment": 870,
+  "code": 6784},
+"JSON" :{
+  "nFiles": 26,
+  "blank": 28,
+  "comment": 0,
+  "code": 484},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 14,
+  "code": 91},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 2036,
+  "comment": 884,
+  "code": 7418,
+  "nFiles": 146} }

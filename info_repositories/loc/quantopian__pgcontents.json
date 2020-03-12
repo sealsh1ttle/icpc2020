@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.79644703865051,
+  "n_files"            : 39,
+  "n_lines"            : 6039,
+  "files_per_second"   : 6.7282595251797,
+  "lines_per_second"   : 1041.84510955283,
+  "report_file"        : "loc/quantopian__pgcontents.json"},
+"Python" :{
+  "nFiles": 34,
+  "blank": 941,
+  "comment": 1212,
+  "code": 3744},
+"INI" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 49},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 26},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 17},
+"SUM": {
+  "blank": 973,
+  "comment": 1213,
+  "code": 3853,
+  "nFiles": 39} }

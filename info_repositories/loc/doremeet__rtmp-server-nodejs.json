@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.948365926742554,
+  "n_files"            : 7,
+  "n_lines"            : 2379,
+  "files_per_second"   : 7.38111714329889,
+  "lines_per_second"   : 2508.52538341544,
+  "report_file"        : "loc/doremeet__rtmp-server-nodejs.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 244,
+  "comment": 501,
+  "code": 1552},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 41},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 261,
+  "comment": 501,
+  "code": 1617,
+  "nFiles": 7} }

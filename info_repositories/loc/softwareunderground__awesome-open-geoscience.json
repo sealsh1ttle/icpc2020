@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.83528304100037,
+  "n_files"            : 6,
+  "n_lines"            : 473,
+  "files_per_second"   : 0.877798324372224,
+  "lines_per_second"   : 69.199767904677,
+  "report_file"        : "loc/softwareunderground__awesome-open-geoscience.json"},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 113,
+  "comment": 0,
+  "code": 356},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 113,
+  "comment": 0,
+  "code": 360,
+  "nFiles": 6} }

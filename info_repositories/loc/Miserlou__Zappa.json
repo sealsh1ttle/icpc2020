@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 120.767738103867,
+  "n_files"            : 410,
+  "n_lines"            : 36083,
+  "files_per_second"   : 3.39494641894658,
+  "lines_per_second"   : 298.780125938657,
+  "report_file"        : "loc/Miserlou__Zappa.json"},
+"JSON" :{
+  "nFiles": 366,
+  "blank": 0,
+  "comment": 0,
+  "code": 20935},
+"Python" :{
+  "nFiles": 32,
+  "blank": 1875,
+  "comment": 2428,
+  "code": 8407},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 570,
+  "comment": 0,
+  "code": 1763},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 5,
+  "code": 82},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 2},
+"SUM": {
+  "blank": 2447,
+  "comment": 2435,
+  "code": 31201,
+  "nFiles": 410} }

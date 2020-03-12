@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.6413850784302,
+  "n_files"            : 131,
+  "n_lines"            : 12383,
+  "files_per_second"   : 4.0133100873396,
+  "lines_per_second"   : 379.36502909562,
+  "report_file"        : "loc/jest-community__eslint-plugin-jest.json"},
+"TypeScript" :{
+  "nFiles": 83,
+  "blank": 557,
+  "comment": 406,
+  "code": 8765},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 579,
+  "comment": 0,
+  "code": 1774},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 157},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 3,
+  "code": 93},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 42},
+"SUM": {
+  "blank": 1142,
+  "comment": 410,
+  "code": 10831,
+  "nFiles": 131} }

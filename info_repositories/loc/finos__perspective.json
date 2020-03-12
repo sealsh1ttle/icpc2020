@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 159.298357963562,
+  "n_files"            : 711,
+  "n_lines"            : 91203,
+  "files_per_second"   : 4.46332284330661,
+  "lines_per_second"   : 572.529442022634,
+  "report_file"        : "loc/finos__perspective.json"},
+"JavaScript" :{
+  "nFiles": 289,
+  "blank": 3637,
+  "comment": 4046,
+  "code": 23392},
+"C++" :{
+  "nFiles": 98,
+  "blank": 3980,
+  "comment": 1591,
+  "code": 21158},
+"C/C++ Header" :{
+  "nFiles": 102,
+  "blank": 2010,
+  "comment": 1895,
+  "code": 7138},
+"Python" :{
+  "nFiles": 55,
+  "blank": 1084,
+  "comment": 1083,
+  "code": 4415},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 790,
+  "comment": 0,
+  "code": 2437},
+"LESS" :{
+  "nFiles": 16,
+  "blank": 365,
+  "comment": 143,
+  "code": 2312},
+"HTML" :{
+  "nFiles": 49,
+  "blank": 655,
+  "comment": 206,
+  "code": 1749},
+"JSON" :{
+  "nFiles": 30,
+  "blank": 0,
+  "comment": 0,
+  "code": 1377},
+"TypeScript" :{
+  "nFiles": 11,
+  "blank": 176,
+  "comment": 212,
+  "code": 785},
+"CMake" :{
+  "nFiles": 5,
+  "blank": 102,
+  "comment": 171,
+  "code": 582},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 57,
+  "comment": 57,
+  "code": 381},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 88,
+  "comment": 123,
+  "code": 365},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 5,
+  "code": 143},
+"Jupyter Notebook" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 1703,
+  "code": 140},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 22,
+  "code": 136},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 89,
+  "comment": 186,
+  "code": 85},
+"make" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 7,
+  "code": 50},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 13077,
+  "comment": 11452,
+  "code": 66674,
+  "nFiles": 711} }

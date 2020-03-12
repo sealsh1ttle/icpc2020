@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.220466136932373,
+  "n_files"            : 37,
+  "n_lines"            : 2746,
+  "files_per_second"   : 167.826227260242,
+  "lines_per_second"   : 12455.4275690979,
+  "report_file"        : "loc/FabianWilms__WebTech-Backend.json"},
+"Java" :{
+  "nFiles": 31,
+  "blank": 341,
+  "comment": 491,
+  "code": 1523},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 220},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 40},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 38},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 397,
+  "comment": 491,
+  "code": 1858,
+  "nFiles": 37} }

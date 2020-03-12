@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.6384818553925,
+  "n_files"            : 80,
+  "n_lines"            : 26430,
+  "files_per_second"   : 6.32987418230667,
+  "lines_per_second"   : 2091.23218297957,
+  "report_file"        : "loc/ruanyf__weekly.json"},
+"Markdown" :{
+  "nFiles": 80,
+  "blank": 13015,
+  "comment": 0,
+  "code": 13415},
+"SUM": {
+  "blank": 13015,
+  "comment": 0,
+  "code": 13415,
+  "nFiles": 80} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.9796810150146,
+  "n_files"            : 36,
+  "n_lines"            : 2946,
+  "files_per_second"   : 2.77356584945007,
+  "lines_per_second"   : 226.970138679997,
+  "report_file"        : "loc/nikic__FastRoute.json"},
+"PHP" :{
+  "nFiles": 29,
+  "blank": 418,
+  "comment": 417,
+  "code": 1593},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 82,
+  "comment": 0,
+  "code": 233},
+"XML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 1,
+  "code": 101},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 48},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 522,
+  "comment": 418,
+  "code": 2006,
+  "nFiles": 36} }

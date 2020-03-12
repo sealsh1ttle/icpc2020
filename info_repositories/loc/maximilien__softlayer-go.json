@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 61.3981261253357,
+  "n_files"            : 324,
+  "n_lines"            : 41561,
+  "files_per_second"   : 5.27703401466356,
+  "lines_per_second"   : 676.909909516766,
+  "report_file"        : "loc/maximilien__softlayer-go.json"},
+"Go" :{
+  "nFiles": 227,
+  "blank": 5256,
+  "comment": 2670,
+  "code": 24900},
+"JSON" :{
+  "nFiles": 76,
+  "blank": 5,
+  "comment": 0,
+  "code": 7906},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 155,
+  "comment": 0,
+  "code": 348},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 39,
+  "comment": 0,
+  "code": 106},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 0,
+  "code": 101},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 11},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 30,
+  "code": 9},
+"SUM": {
+  "blank": 5480,
+  "comment": 2700,
+  "code": 33381,
+  "nFiles": 324} }

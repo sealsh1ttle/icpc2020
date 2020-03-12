@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.841145992279053,
+  "n_files"            : 115,
+  "n_lines"            : 14115,
+  "files_per_second"   : 136.718240419136,
+  "lines_per_second"   : 16780.6779436183,
+  "report_file"        : "loc/gearbot__GearBot.json"},
+"Python" :{
+  "nFiles": 61,
+  "blank": 1673,
+  "comment": 327,
+  "code": 9337},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 0,
+  "code": 840},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 141,
+  "comment": 0,
+  "code": 616},
+"Twig" :{
+  "nFiles": 9,
+  "blank": 29,
+  "comment": 0,
+  "code": 222},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 67,
+  "code": 169},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 45,
+  "comment": 0,
+  "code": 161},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 22,
+  "code": 138},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 2,
+  "code": 68},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 66},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 1,
+  "code": 59},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 10},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 2003,
+  "comment": 420,
+  "code": 11692,
+  "nFiles": 115} }

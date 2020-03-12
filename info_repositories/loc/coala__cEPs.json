@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.229156017303467,
+  "n_files"            : 27,
+  "n_lines"            : 7684,
+  "files_per_second"   : 117.823657077459,
+  "lines_per_second"   : 33531.7400364147,
+  "report_file"        : "loc/coala__cEPs.json"},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 1455,
+  "comment": 0,
+  "code": 6216},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1456,
+  "comment": 0,
+  "code": 6228,
+  "nFiles": 27} }

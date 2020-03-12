@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.135895967483521,
+  "n_files"            : 27,
+  "n_lines"            : 1442,
+  "files_per_second"   : 198.68139209704,
+  "lines_per_second"   : 10611.0580519975,
+  "report_file"        : "loc/itslukej__zirc.json"},
+"Python" :{
+  "nFiles": 21,
+  "blank": 139,
+  "comment": 43,
+  "code": 748},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 181},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 0,
+  "code": 99},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 64},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 28,
+  "code": 50},
+"SUM": {
+  "blank": 229,
+  "comment": 71,
+  "code": 1142,
+  "nFiles": 27} }

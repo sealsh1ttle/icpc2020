@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.281380891799927,
+  "n_files"            : 34,
+  "n_lines"            : 4633,
+  "files_per_second"   : 120.832654209424,
+  "lines_per_second"   : 16465.2260868313,
+  "report_file"        : "loc/lk-geimfari__awesomo.json"},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 1631,
+  "comment": 0,
+  "code": 3000},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1631,
+  "comment": 0,
+  "code": 3002,
+  "nFiles": 34} }

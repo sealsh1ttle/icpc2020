@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 44.0553669929504,
+  "n_files"            : 141,
+  "n_lines"            : 19389,
+  "files_per_second"   : 3.20051811218738,
+  "lines_per_second"   : 440.105288490788,
+  "report_file"        : "loc/OpenGeoscience__ktile.json"},
+"Python" :{
+  "nFiles": 65,
+  "blank": 3408,
+  "comment": 4171,
+  "code": 6681},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 367,
+  "comment": 74,
+  "code": 1996},
+"reStructuredText" :{
+  "nFiles": 51,
+  "blank": 417,
+  "comment": 250,
+  "code": 1430},
+"XML" :{
+  "nFiles": 7,
+  "blank": 7,
+  "comment": 1,
+  "code": 184},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 54,
+  "comment": 0,
+  "code": 107},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 17,
+  "comment": 9,
+  "code": 46},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 40},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 35},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 35},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 17},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 4297,
+  "comment": 4511,
+  "code": 10581,
+  "nFiles": 141} }

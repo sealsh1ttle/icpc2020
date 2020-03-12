@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.12878704071045,
+  "n_files"            : 21,
+  "n_lines"            : 2832,
+  "files_per_second"   : 3.42645287893144,
+  "lines_per_second"   : 462.081645387325,
+  "report_file"        : "loc/ropensci__paleobioDB.json"},
+"R" :{
+  "nFiles": 18,
+  "blank": 405,
+  "comment": 1131,
+  "code": 928},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 89,
+  "comment": 0,
+  "code": 254},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 18},
+"SUM": {
+  "blank": 498,
+  "comment": 1134,
+  "code": 1200,
+  "nFiles": 21} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.02799797058105,
+  "n_files"            : 93,
+  "n_lines"            : 6715,
+  "files_per_second"   : 11.5844573380315,
+  "lines_per_second"   : 836.447645428836,
+  "report_file"        : "loc/spatie__laravel-permission.json"},
+"PHP" :{
+  "nFiles": 41,
+  "blank": 1066,
+  "comment": 661,
+  "code": 3022},
+"Markdown" :{
+  "nFiles": 33,
+  "blank": 504,
+  "comment": 0,
+  "code": 1255},
+"Blade" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 67},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 64},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 0,
+  "code": 42},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 1579,
+  "comment": 661,
+  "code": 4475,
+  "nFiles": 93} }

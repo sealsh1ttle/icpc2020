@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 76.4694139957428,
+  "n_files"            : 314,
+  "n_lines"            : 31248,
+  "files_per_second"   : 4.10621689892224,
+  "lines_per_second"   : 408.633967062173,
+  "report_file"        : "loc/BuildmLearn__BuildmLearn-Toolkit-Android.json"},
+"Java" :{
+  "nFiles": 159,
+  "blank": 3695,
+  "comment": 2215,
+  "code": 17732},
+"XML" :{
+  "nFiles": 139,
+  "blank": 872,
+  "comment": 166,
+  "code": 5923},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 4,
+  "code": 128},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 28,
+  "comment": 0,
+  "code": 109},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 3,
+  "code": 89},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 6,
+  "code": 34},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 4680,
+  "comment": 2430,
+  "code": 24138,
+  "nFiles": 314} }

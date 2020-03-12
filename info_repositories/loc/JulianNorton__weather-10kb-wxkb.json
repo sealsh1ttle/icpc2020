@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.0073401927948,
+  "n_files"            : 79,
+  "n_lines"            : 3419,
+  "files_per_second"   : 2.54778383146702,
+  "lines_per_second"   : 110.264214174503,
+  "report_file"        : "loc/JulianNorton__weather-10kb-wxkb.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 1421},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 119,
+  "comment": 60,
+  "code": 609},
+"Sass" :{
+  "nFiles": 14,
+  "blank": 84,
+  "comment": 34,
+  "code": 420},
+"EJS" :{
+  "nFiles": 12,
+  "blank": 14,
+  "comment": 22,
+  "code": 303},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 80,
+  "comment": 0,
+  "code": 147},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 34},
+"SVG" :{
+  "nFiles": 28,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 4,
+  "code": 15},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 303,
+  "comment": 120,
+  "code": 2996,
+  "nFiles": 79} }

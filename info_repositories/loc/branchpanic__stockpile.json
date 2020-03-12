@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.02317690849304,
+  "n_files"            : 82,
+  "n_lines"            : 5983,
+  "files_per_second"   : 80.14254360057,
+  "lines_per_second"   : 5847.47363856354,
+  "report_file"        : "loc/branchpanic__stockpile.json"},
+"JSON" :{
+  "nFiles": 31,
+  "blank": 0,
+  "comment": 0,
+  "code": 2474},
+"Kotlin" :{
+  "nFiles": 42,
+  "blank": 483,
+  "comment": 214,
+  "code": 2134},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 79,
+  "comment": 0,
+  "code": 186},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 2,
+  "code": 72},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 34},
+"Java" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 15},
+"SUM": {
+  "blank": 638,
+  "comment": 242,
+  "code": 5103,
+  "nFiles": 82} }

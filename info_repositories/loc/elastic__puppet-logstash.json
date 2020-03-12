@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.57771897315979,
+  "n_files"            : 45,
+  "n_lines"            : 2725,
+  "files_per_second"   : 77.8925430713759,
+  "lines_per_second"   : 4716.82621932221,
+  "report_file"        : "loc/elastic__puppet-logstash.json"},
+"Ruby" :{
+  "nFiles": 9,
+  "blank": 145,
+  "comment": 45,
+  "code": 740},
+"Puppet" :{
+  "nFiles": 8,
+  "blank": 50,
+  "comment": 321,
+  "code": 453},
+"YAML" :{
+  "nFiles": 18,
+  "blank": 27,
+  "comment": 19,
+  "code": 324},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 80,
+  "comment": 0,
+  "code": 305},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 76},
+"ERB" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 11,
+  "code": 45},
+"make" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 4,
+  "code": 37},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 16},
+"SUM": {
+  "blank": 323,
+  "comment": 406,
+  "code": 1996,
+  "nFiles": 45} }

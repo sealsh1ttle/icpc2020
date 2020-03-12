@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 62.1595430374146,
+  "n_files"            : 267,
+  "n_lines"            : 27907,
+  "files_per_second"   : 4.29539837252809,
+  "lines_per_second"   : 448.957611918132,
+  "report_file"        : "loc/django-extensions__django-extensions.json"},
+"Python" :{
+  "nFiles": 197,
+  "blank": 3921,
+  "comment": 2461,
+  "code": 14293},
+"reStructuredText" :{
+  "nFiles": 32,
+  "blank": 969,
+  "comment": 97,
+  "code": 1735},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 112,
+  "comment": 327,
+  "code": 871},
+"PO File" :{
+  "nFiles": 19,
+  "blank": 275,
+  "comment": 380,
+  "code": 867},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 251,
+  "comment": 0,
+  "code": 773},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 139},
+"make" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 4,
+  "code": 96},
+"INI" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 91},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 84},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 64},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 28},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 5574,
+  "comment": 3275,
+  "code": 19058,
+  "nFiles": 267} }

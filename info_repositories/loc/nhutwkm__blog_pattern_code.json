@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.0127148628235,
+  "n_files"            : 115,
+  "n_lines"            : 2515,
+  "files_per_second"   : 10.4424750329471,
+  "lines_per_second"   : 228.372388764018,
+  "report_file"        : "loc/nhutwkm__blog_pattern_code.json"},
+"Ruby" :{
+  "nFiles": 66,
+  "blank": 211,
+  "comment": 476,
+  "code": 600},
+"ERB" :{
+  "nFiles": 32,
+  "blank": 106,
+  "comment": 0,
+  "code": 575},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 39,
+  "code": 156},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 81},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 18,
+  "code": 0},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 16,
+  "code": 0},
+"SUM": {
+  "blank": 366,
+  "comment": 555,
+  "code": 1594,
+  "nFiles": 115} }

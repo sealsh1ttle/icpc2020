@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.407526016235352,
+  "n_files"            : 78,
+  "n_lines"            : 2600,
+  "files_per_second"   : 191.398823369731,
+  "lines_per_second"   : 6379.96077899102,
+  "report_file"        : "loc/upfluence__hypertable.json"},
+"JavaScript" :{
+  "nFiles": 52,
+  "blank": 231,
+  "comment": 74,
+  "code": 1222},
+"LESS" :{
+  "nFiles": 6,
+  "blank": 84,
+  "comment": 30,
+  "code": 348},
+"Handlebars" :{
+  "nFiles": 11,
+  "blank": 28,
+  "comment": 0,
+  "code": 291},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 71},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 37,
+  "comment": 0,
+  "code": 59},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 48},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 7,
+  "code": 47},
+"SUM": {
+  "blank": 403,
+  "comment": 111,
+  "code": 2086,
+  "nFiles": 78} }

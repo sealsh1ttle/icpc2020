@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.48014497756958,
+  "n_files"            : 53,
+  "n_lines"            : 4087,
+  "files_per_second"   : 110.383326861561,
+  "lines_per_second"   : 8512.01239402266,
+  "report_file"        : "loc/ho-nl-fork__magento1-Flagbit_Faq.json"},
+"PHP" :{
+  "nFiles": 44,
+  "blank": 380,
+  "comment": 1296,
+  "code": 1818},
+"XML" :{
+  "nFiles": 7,
+  "blank": 13,
+  "comment": 48,
+  "code": 429},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 62},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 413,
+  "comment": 1344,
+  "code": 2330,
+  "nFiles": 53} }

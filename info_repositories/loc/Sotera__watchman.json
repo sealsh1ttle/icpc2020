@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 51.733717918396,
+  "n_files"            : 226,
+  "n_lines"            : 30722,
+  "files_per_second"   : 4.36852422546721,
+  "lines_per_second"   : 593.8486781186,
+  "report_file"        : "loc/Sotera__watchman.json"},
+"JSON" :{
+  "nFiles": 35,
+  "blank": 2,
+  "comment": 0,
+  "code": 7864},
+"JavaScript" :{
+  "nFiles": 94,
+  "blank": 1517,
+  "comment": 9641,
+  "code": 7129},
+"Python" :{
+  "nFiles": 41,
+  "blank": 379,
+  "comment": 172,
+  "code": 2086},
+"Pug" :{
+  "nFiles": 15,
+  "blank": 32,
+  "comment": 15,
+  "code": 425},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 13,
+  "code": 286},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 60,
+  "comment": 0,
+  "code": 181},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 40,
+  "comment": 22,
+  "code": 180},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 115},
+"Java" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 29,
+  "code": 61},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 65,
+  "comment": 68,
+  "code": 56},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 4,
+  "code": 52},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 5,
+  "code": 27},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 91,
+  "code": 19},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2178,
+  "comment": 10061,
+  "code": 18483,
+  "nFiles": 226} }

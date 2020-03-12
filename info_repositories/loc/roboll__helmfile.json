@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.6691629886627,
+  "n_files"            : 92,
+  "n_lines"            : 17096,
+  "files_per_second"   : 3.88691395821927,
+  "lines_per_second"   : 722.290011192572,
+  "report_file"        : "loc/roboll__helmfile.json"},
+"Go" :{
+  "nFiles": 58,
+  "blank": 1602,
+  "comment": 279,
+  "code": 12257},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 394,
+  "comment": 0,
+  "code": 1274},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 44,
+  "code": 527},
+"YAML" :{
+  "nFiles": 21,
+  "blank": 13,
+  "comment": 10,
+  "code": 356},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 9,
+  "code": 121},
+"make" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 65},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 29},
+"SUM": {
+  "blank": 2121,
+  "comment": 346,
+  "code": 14629,
+  "nFiles": 92} }

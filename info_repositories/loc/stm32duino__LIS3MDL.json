@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.154304981231689,
+  "n_files"            : 6,
+  "n_lines"            : 2899,
+  "files_per_second"   : 38.8840331148544,
+  "lines_per_second"   : 18787.4686666605,
+  "report_file"        : "loc/stm32duino__LIS3MDL.json"},
+"C" :{
+  "nFiles": 1,
+  "blank": 274,
+  "comment": 544,
+  "code": 641},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 127,
+  "comment": 359,
+  "code": 389},
+"C++" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 126,
+  "code": 262},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 48,
+  "code": 28},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 485,
+  "comment": 1077,
+  "code": 1337,
+  "nFiles": 6} }

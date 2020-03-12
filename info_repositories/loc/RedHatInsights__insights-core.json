@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 441.418118953705,
+  "n_files"            : 1456,
+  "n_lines"            : 156321,
+  "files_per_second"   : 3.29845998041757,
+  "lines_per_second"   : 354.133628158555,
+  "report_file"        : "loc/RedHatInsights__insights-core.json"},
+"Python" :{
+  "nFiles": 1045,
+  "blank": 22914,
+  "comment": 65274,
+  "code": 58044},
+"reStructuredText" :{
+  "nFiles": 388,
+  "blank": 791,
+  "comment": 1773,
+  "code": 1649},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 225,
+  "comment": 0,
+  "code": 744},
+"Jupyter Notebook" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 3962,
+  "code": 469},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 6,
+  "code": 154},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 46,
+  "comment": 54,
+  "code": 117},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 1,
+  "code": 40},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 24017,
+  "comment": 71070,
+  "code": 61234,
+  "nFiles": 1456} }

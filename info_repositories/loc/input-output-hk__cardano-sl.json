@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 607.14102602005,
+  "n_files"            : 1592,
+  "n_lines"            : 394101,
+  "files_per_second"   : 2.62212555530291,
+  "lines_per_second"   : 649.109487104542,
+  "report_file"        : "loc/input-output-hk__cardano-sl.json"},
+"Haskell" :{
+  "nFiles": 1111,
+  "blank": 24100,
+  "comment": 24093,
+  "code": 123673},
+"Nix" :{
+  "nFiles": 104,
+  "blank": 5121,
+  "comment": 259,
+  "code": 89980},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 11,
+  "comment": 0,
+  "code": 75661},
+"YAML" :{
+  "nFiles": 44,
+  "blank": 347,
+  "comment": 506,
+  "code": 16566},
+"Markdown" :{
+  "nFiles": 103,
+  "blank": 3681,
+  "comment": 0,
+  "code": 10998},
+"PureScript" :{
+  "nFiles": 67,
+  "blank": 884,
+  "comment": 359,
+  "code": 6410},
+"CSS" :{
+  "nFiles": 18,
+  "blank": 594,
+  "comment": 54,
+  "code": 2352},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 342,
+  "comment": 13,
+  "code": 1933},
+"Bourne Shell" :{
+  "nFiles": 57,
+  "blank": 434,
+  "comment": 336,
+  "code": 1710},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 79,
+  "comment": 34,
+  "code": 929},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 121,
+  "comment": 146,
+  "code": 787},
+"Python" :{
+  "nFiles": 10,
+  "blank": 131,
+  "comment": 93,
+  "code": 666},
+"SVG" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 8,
+  "code": 302},
+"make" :{
+  "nFiles": 13,
+  "blank": 45,
+  "comment": 1,
+  "code": 142},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 60},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 5,
+  "code": 47},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 17},
+"diff" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 14,
+  "code": 10},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 4,
+  "code": 9},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 35919,
+  "comment": 25927,
+  "code": 332255,
+  "nFiles": 1592} }

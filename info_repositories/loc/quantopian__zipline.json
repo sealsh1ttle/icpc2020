@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 68.2772991657257,
+  "n_files"            : 348,
+  "n_lines"            : 130392,
+  "files_per_second"   : 5.09686241623763,
+  "lines_per_second"   : 1909.74162120131,
+  "report_file"        : "loc/quantopian__zipline.json"},
+"Python" :{
+  "nFiles": 272,
+  "blank": 16717,
+  "comment": 27814,
+  "code": 66992},
+"Cython" :{
+  "nFiles": 21,
+  "blank": 934,
+  "comment": 1761,
+  "code": 3287},
+"YAML" :{
+  "nFiles": 19,
+  "blank": 167,
+  "comment": 128,
+  "code": 984},
+"reStructuredText" :{
+  "nFiles": 12,
+  "blank": 819,
+  "comment": 1357,
+  "code": 979},
+"DOS Batch" :{
+  "nFiles": 5,
+  "blank": 42,
+  "comment": 2,
+  "code": 358},
+"make" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 6,
+  "code": 162},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 26,
+  "comment": 41,
+  "code": 120},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 7248,
+  "code": 85},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 7,
+  "code": 76},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 0,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 47,
+  "code": 32},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 27,
+  "code": 18},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 18803,
+  "comment": 38438,
+  "code": 73151,
+  "nFiles": 348} }

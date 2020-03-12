@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.55738806724548,
+  "n_files"            : 12,
+  "n_lines"            : 506,
+  "files_per_second"   : 1.25557316659828,
+  "lines_per_second"   : 52.9433351915607,
+  "report_file"        : "loc/elastic__opbeans-loadgen.json"},
+"Python" :{
+  "nFiles": 3,
+  "blank": 71,
+  "comment": 17,
+  "code": 229},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 2,
+  "code": 89},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 5},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 105,
+  "comment": 20,
+  "code": 381,
+  "nFiles": 12} }

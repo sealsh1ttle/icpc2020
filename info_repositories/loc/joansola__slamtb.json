@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 90.6327040195465,
+  "n_files"            : 409,
+  "n_lines"            : 36358,
+  "files_per_second"   : 4.51271982254653,
+  "lines_per_second"   : 401.15762178031,
+  "report_file"        : "loc/joansola__slamtb.json"},
+"MATLAB" :{
+  "nFiles": 409,
+  "blank": 8020,
+  "comment": 18345,
+  "code": 9993},
+"SUM": {
+  "blank": 8020,
+  "comment": 18345,
+  "code": 9993,
+  "nFiles": 409} }

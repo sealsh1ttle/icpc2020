@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.52337908744812,
+  "n_files"            : 8,
+  "n_lines"            : 1601,
+  "files_per_second"   : 2.27054761961313,
+  "lines_per_second"   : 454.393342375077,
+  "report_file"        : "loc/halleysfifthinc__MAT.jl.json"},
+"Julia" :{
+  "nFiles": 6,
+  "blank": 161,
+  "comment": 163,
+  "code": 1182},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 56},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 185,
+  "comment": 163,
+  "code": 1253,
+  "nFiles": 8} }

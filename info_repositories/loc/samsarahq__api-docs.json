@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.146281003952026,
+  "n_files"            : 3,
+  "n_lines"            : 19218,
+  "files_per_second"   : 20.5084728635296,
+  "lines_per_second"   : 131377.277163771,
+  "report_file"        : "loc/samsarahq__api-docs.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 19218},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 19218,
+  "nFiles": 3} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.177142143249512,
+  "n_files"            : 26,
+  "n_lines"            : 716,
+  "files_per_second"   : 146.774785057094,
+  "lines_per_second"   : 4041.95177311074,
+  "report_file"        : "loc/lirantal__atombundles.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 239},
+"TypeScript" :{
+  "nFiles": 12,
+  "blank": 24,
+  "comment": 16,
+  "code": 135},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 5,
+  "code": 112},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 83},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 52},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 57,
+  "comment": 21,
+  "code": 638,
+  "nFiles": 26} }

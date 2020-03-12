@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.4131960868835,
+  "n_files"            : 985,
+  "n_lines"            : 264038,
+  "files_per_second"   : 63.9062783894785,
+  "lines_per_second"   : 17130.6456176661,
+  "report_file"        : "loc/desktop__desktop.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 22227,
+  "comment": 24034,
+  "code": 100996},
+"TypeScript" :{
+  "nFiles": 720,
+  "blank": 13282,
+  "comment": 13994,
+  "code": 71032},
+"Sass" :{
+  "nFiles": 124,
+  "blank": 1322,
+  "comment": 514,
+  "code": 6416},
+"Markdown" :{
+  "nFiles": 77,
+  "blank": 1471,
+  "comment": 0,
+  "code": 4390},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 2487},
+"SVG" :{
+  "nFiles": 20,
+  "blank": 0,
+  "comment": 5,
+  "code": 1165},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 51,
+  "comment": 39,
+  "code": 439},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 24,
+  "comment": 2,
+  "code": 71},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 0,
+  "code": 22},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 38392,
+  "comment": 38588,
+  "code": 187058,
+  "nFiles": 985} }

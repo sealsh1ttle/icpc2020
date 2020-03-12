@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.204525947570801,
+  "n_files"            : 16,
+  "n_lines"            : 571,
+  "files_per_second"   : 78.2296827861476,
+  "lines_per_second"   : 2791.82180443064,
+  "report_file"        : "loc/designmynight__designmynight-php-sdk.json"},
+"PHP" :{
+  "nFiles": 14,
+  "blank": 70,
+  "comment": 117,
+  "code": 296},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 36},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 90,
+  "comment": 117,
+  "code": 364,
+  "nFiles": 16} }

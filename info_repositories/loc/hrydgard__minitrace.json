@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0920419692993164,
+  "n_files"            : 8,
+  "n_lines"            : 1215,
+  "files_per_second"   : 86.9168713023116,
+  "lines_per_second"   : 13200.4998290386,
+  "report_file"        : "loc/hrydgard__minitrace.json"},
+"C" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 20,
+  "code": 338},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 71,
+  "code": 146},
+"C++" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 2,
+  "code": 109},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 67},
+"make" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 153,
+  "comment": 93,
+  "code": 969,
+  "nFiles": 8} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.136036157608032,
+  "n_files"            : 7,
+  "n_lines"            : 384,
+  "files_per_second"   : 51.4569076566353,
+  "lines_per_second"   : 2822.77893430685,
+  "report_file"        : "loc/hcsp__interface-abstract-class-in-action.json"},
+"Java" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 5,
+  "code": 198},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 62},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 36},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 47,
+  "comment": 5,
+  "code": 332,
+  "nFiles": 7} }

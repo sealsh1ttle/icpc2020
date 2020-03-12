@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.925390958786,
+  "n_files"            : 72,
+  "n_lines"            : 12906,
+  "files_per_second"   : 4.52108210004588,
+  "lines_per_second"   : 810.403966433225,
+  "report_file"        : "loc/ethz-asl__mav_trajectory_generation.json"},
+"C++" :{
+  "nFiles": 29,
+  "blank": 1112,
+  "comment": 985,
+  "code": 5288},
+"C/C++ Header" :{
+  "nFiles": 29,
+  "blank": 708,
+  "comment": 1147,
+  "code": 2534},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 91,
+  "comment": 0,
+  "code": 337},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 194},
+"MATLAB" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 13,
+  "code": 142},
+"XML" :{
+  "nFiles": 5,
+  "blank": 27,
+  "comment": 4,
+  "code": 125},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 26,
+  "comment": 42,
+  "code": 114},
+"SUM": {
+  "blank": 1981,
+  "comment": 2191,
+  "code": 8734,
+  "nFiles": 72} }

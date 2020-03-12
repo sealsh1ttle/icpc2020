@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.433265924453735,
+  "n_files"            : 73,
+  "n_lines"            : 6584,
+  "files_per_second"   : 168.487748239234,
+  "lines_per_second"   : 15196.2100603715,
+  "report_file"        : "loc/lo1tuma__eslint-plugin-mocha.json"},
+"JavaScript" :{
+  "nFiles": 46,
+  "blank": 391,
+  "comment": 153,
+  "code": 4195},
+"Markdown" :{
+  "nFiles": 24,
+  "blank": 566,
+  "comment": 0,
+  "code": 1166},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 99},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 961,
+  "comment": 153,
+  "code": 5470,
+  "nFiles": 73} }

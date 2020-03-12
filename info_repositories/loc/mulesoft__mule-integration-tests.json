@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 146.240000963211,
+  "n_files"            : 777,
+  "n_lines"            : 57365,
+  "files_per_second"   : 5.31318377244449,
+  "lines_per_second"   : 392.266135271915,
+  "report_file"        : "loc/mulesoft__mule-integration-tests.json"},
+"Java" :{
+  "nFiles": 353,
+  "blank": 6089,
+  "comment": 2587,
+  "code": 25105},
+"XML" :{
+  "nFiles": 378,
+  "blank": 2172,
+  "comment": 127,
+  "code": 15043},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 2996},
+"Maven" :{
+  "nFiles": 22,
+  "blank": 169,
+  "comment": 42,
+  "code": 2620},
+"XSD" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 2,
+  "code": 132},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 33,
+  "code": 115},
+"XSLT" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 1,
+  "code": 44},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 8499,
+  "comment": 2792,
+  "code": 46074,
+  "nFiles": 777} }

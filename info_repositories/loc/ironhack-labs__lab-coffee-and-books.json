@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.37379479408264,
+  "n_files"            : 13,
+  "n_lines"            : 4676,
+  "files_per_second"   : 3.85322783199527,
+  "lines_per_second"   : 1385.97641095461,
+  "report_file"        : "loc/ironhack-labs__lab-coffee-and-books.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4505},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 4,
+  "code": 46},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 42},
+"Handlebars" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 20},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 52,
+  "comment": 4,
+  "code": 4620,
+  "nFiles": 13} }

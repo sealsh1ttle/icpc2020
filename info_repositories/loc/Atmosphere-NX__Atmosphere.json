@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 252.858720064163,
+  "n_files"            : 955,
+  "n_lines"            : 191956,
+  "files_per_second"   : 3.77681260016529,
+  "lines_per_second"   : 759.143287410816,
+  "report_file"        : "loc/Atmosphere-NX__Atmosphere.json"},
+"C" :{
+  "nFiles": 169,
+  "blank": 9594,
+  "comment": 8659,
+  "code": 60872},
+"C/C++ Header" :{
+  "nFiles": 493,
+  "blank": 7250,
+  "comment": 11837,
+  "code": 49278},
+"C++" :{
+  "nFiles": 169,
+  "blank": 4736,
+  "comment": 4756,
+  "code": 21124},
+"make" :{
+  "nFiles": 28,
+  "blank": 919,
+  "comment": 931,
+  "code": 2108},
+"Assembly" :{
+  "nFiles": 17,
+  "blank": 305,
+  "comment": 561,
+  "code": 1522},
+"Markdown" :{
+  "nFiles": 29,
+  "blank": 324,
+  "comment": 0,
+  "code": 1297},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 1254},
+"Pascal" :{
+  "nFiles": 22,
+  "blank": 125,
+  "comment": 3458,
+  "code": 604},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 209},
+"Python" :{
+  "nFiles": 3,
+  "blank": 35,
+  "comment": 6,
+  "code": 116},
+"INI" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 30,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 23293,
+  "comment": 30238,
+  "code": 138425,
+  "nFiles": 955} }

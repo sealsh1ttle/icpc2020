@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.134202003479004,
+  "n_files"            : 23,
+  "n_lines"            : 2267,
+  "files_per_second"   : 171.383432465659,
+  "lines_per_second"   : 16892.4452782456,
+  "report_file"        : "loc/gap-packages__xmodalg.json"},
+"XML" :{
+  "nFiles": 5,
+  "blank": 128,
+  "comment": 36,
+  "code": 1249},
+"ANTLR Grammar" :{
+  "nFiles": 10,
+  "blank": 47,
+  "comment": 0,
+  "code": 461},
+"GDScript" :{
+  "nFiles": 3,
+  "blank": 47,
+  "comment": 24,
+  "code": 137},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 0,
+  "code": 50},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 49},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 2},
+"SUM": {
+  "blank": 257,
+  "comment": 62,
+  "code": 1948,
+  "nFiles": 23} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.126060009002686,
+  "n_files"            : 14,
+  "n_lines"            : 467,
+  "files_per_second"   : 111.058218310152,
+  "lines_per_second"   : 3704.5848536315,
+  "report_file"        : "loc/puppetlabs__puppet_pot_generator.json"},
+"Ruby" :{
+  "nFiles": 8,
+  "blank": 36,
+  "comment": 4,
+  "code": 201},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 1,
+  "code": 125},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 0,
+  "code": 65},
+"SUM": {
+  "blank": 71,
+  "comment": 5,
+  "code": 391,
+  "nFiles": 14} }

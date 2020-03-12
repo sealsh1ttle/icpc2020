@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.917196989059448,
+  "n_files"            : 148,
+  "n_lines"            : 6140,
+  "files_per_second"   : 161.361192595899,
+  "lines_per_second"   : 6694.30893607309,
+  "report_file"        : "loc/cyverse__clank.json"},
+"YAML" :{
+  "nFiles": 99,
+  "blank": 458,
+  "comment": 488,
+  "code": 2199},
+"Markdown" :{
+  "nFiles": 40,
+  "blank": 561,
+  "comment": 0,
+  "code": 1475},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 153,
+  "comment": 157,
+  "code": 449},
+"Python" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 40,
+  "code": 101},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 1217,
+  "comment": 685,
+  "code": 4238,
+  "nFiles": 148} }

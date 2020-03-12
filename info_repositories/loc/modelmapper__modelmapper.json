@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.93594098091125,
+  "n_files"            : 426,
+  "n_lines"            : 41375,
+  "files_per_second"   : 145.098284594188,
+  "lines_per_second"   : 14092.585739635,
+  "report_file"        : "loc/modelmapper__modelmapper.json"},
+"Java" :{
+  "nFiles": 401,
+  "blank": 5711,
+  "comment": 7167,
+  "code": 27093},
+"Maven" :{
+  "nFiles": 12,
+  "blank": 51,
+  "comment": 5,
+  "code": 672},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 176,
+  "comment": 0,
+  "code": 317},
+"XML" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 14,
+  "code": 99},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 13},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 12},
+"SUM": {
+  "blank": 5958,
+  "comment": 7189,
+  "code": 28228,
+  "nFiles": 426} }

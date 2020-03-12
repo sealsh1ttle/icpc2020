@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.298235177993774,
+  "n_files"            : 18,
+  "n_lines"            : 905,
+  "files_per_second"   : 60.3550530862451,
+  "lines_per_second"   : 3034.51794683621,
+  "report_file"        : "loc/gravityblast__fresh.json"},
+"Go" :{
+  "nFiles": 16,
+  "blank": 147,
+  "comment": 14,
+  "code": 666},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 44},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 174,
+  "comment": 14,
+  "code": 717,
+  "nFiles": 18} }

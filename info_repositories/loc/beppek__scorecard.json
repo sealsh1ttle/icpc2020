@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.2491369247437,
+  "n_files"            : 43,
+  "n_lines"            : 22567,
+  "files_per_second"   : 3.0177266333465,
+  "lines_per_second"   : 1583.74504499373,
+  "report_file"        : "loc/beppek__scorecard.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 0,
+  "code": 12843},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 2679},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 19,
+  "code": 2370},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 672,
+  "comment": 0,
+  "code": 1487},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 106,
+  "comment": 39,
+  "code": 1189},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 123,
+  "comment": 433,
+  "code": 553},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 21,
+  "code": 19},
+"SUM": {
+  "blank": 915,
+  "comment": 512,
+  "code": 21140,
+  "nFiles": 43} }

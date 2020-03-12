@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.39155411720276,
+  "n_files"            : 15,
+  "n_lines"            : 21798,
+  "files_per_second"   : 4.42275118769784,
+  "lines_per_second"   : 6427.1420259625,
+  "report_file"        : "loc/nardeas__react-fontpicker.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 2599,
+  "comment": 6380,
+  "code": 12445},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 0,
+  "code": 104},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 83},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 50},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 4,
+  "code": 45},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 2660,
+  "comment": 6388,
+  "code": 12750,
+  "nFiles": 15} }

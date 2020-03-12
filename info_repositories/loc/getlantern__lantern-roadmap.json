@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.73698210716248,
+  "n_files"            : 28,
+  "n_lines"            : 1637,
+  "files_per_second"   : 5.91093640773164,
+  "lines_per_second"   : 345.578674980596,
+  "report_file"        : "loc/getlantern__lantern-roadmap.json"},
+"Markdown" :{
+  "nFiles": 28,
+  "blank": 506,
+  "comment": 0,
+  "code": 1131},
+"SUM": {
+  "blank": 506,
+  "comment": 0,
+  "code": 1131,
+  "nFiles": 28} }

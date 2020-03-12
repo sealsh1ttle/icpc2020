@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.2370982170105,
+  "n_files"            : 72,
+  "n_lines"            : 26881,
+  "files_per_second"   : 5.05721031789851,
+  "lines_per_second"   : 1888.09542438097,
+  "report_file"        : "loc/ska-sa__katcp-python.json"},
+"Python" :{
+  "nFiles": 50,
+  "blank": 4306,
+  "comment": 6839,
+  "code": 13552},
+"reStructuredText" :{
+  "nFiles": 14,
+  "blank": 336,
+  "comment": 131,
+  "code": 902},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 141,
+  "code": 516},
+"make" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 4,
+  "code": 69},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 4712,
+  "comment": 7115,
+  "code": 15054,
+  "nFiles": 72} }

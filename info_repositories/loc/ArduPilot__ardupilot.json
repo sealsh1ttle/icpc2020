@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 605.0563788414,
+  "n_files"            : 2212,
+  "n_lines"            : 751934,
+  "files_per_second"   : 3.65585766443067,
+  "lines_per_second"   : 1242.75030607867,
+  "report_file"        : "loc/ArduPilot__ardupilot.json"},
+"m4" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 259398},
+"C++" :{
+  "nFiles": 941,
+  "blank": 39664,
+  "comment": 55213,
+  "code": 192211},
+"C/C++ Header" :{
+  "nFiles": 808,
+  "blank": 18297,
+  "comment": 21964,
+  "code": 56960},
+"Python" :{
+  "nFiles": 149,
+  "blank": 5677,
+  "comment": 4297,
+  "code": 36205},
+"C" :{
+  "nFiles": 70,
+  "blank": 3944,
+  "comment": 3796,
+  "code": 21162},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 3670,
+  "comment": 14,
+  "code": 8523},
+"Markdown" :{
+  "nFiles": 41,
+  "blank": 799,
+  "comment": 0,
+  "code": 3237},
+"MATLAB" :{
+  "nFiles": 54,
+  "blank": 482,
+  "comment": 756,
+  "code": 2990},
+"XML" :{
+  "nFiles": 26,
+  "blank": 192,
+  "comment": 177,
+  "code": 2780},
+"Bourne Shell" :{
+  "nFiles": 53,
+  "blank": 540,
+  "comment": 284,
+  "code": 2102},
+"Lua" :{
+  "nFiles": 4,
+  "blank": 218,
+  "comment": 379,
+  "code": 1545},
+"make" :{
+  "nFiles": 20,
+  "blank": 239,
+  "comment": 463,
+  "code": 839},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 69,
+  "comment": 4,
+  "code": 390},
+"Arduino Sketch" :{
+  "nFiles": 2,
+  "blank": 78,
+  "comment": 91,
+  "code": 386},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 59,
+  "code": 302},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 62,
+  "comment": 53,
+  "code": 272},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 85,
+  "code": 233},
+"DOS Batch" :{
+  "nFiles": 9,
+  "blank": 40,
+  "comment": 14,
+  "code": 197},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 28,
+  "comment": 10,
+  "code": 196},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 2,
+  "code": 99},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 2,
+  "code": 31},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 18},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 74170,
+  "comment": 87663,
+  "code": 590101,
+  "nFiles": 2212} }

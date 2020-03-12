@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.85080909729004,
+  "n_files"            : 168,
+  "n_lines"            : 62562,
+  "files_per_second"   : 90.7711120752465,
+  "lines_per_second"   : 33802.5137717356,
+  "report_file"        : "loc/PatrykLisik__TPA.json"},
+"XML" :{
+  "nFiles": 3,
+  "blank": 219,
+  "comment": 48,
+  "code": 55179},
+"C#" :{
+  "nFiles": 141,
+  "blank": 590,
+  "comment": 445,
+  "code": 4593},
+"MSBuild script" :{
+  "nFiles": 19,
+  "blank": 8,
+  "comment": 7,
+  "code": 1400},
+"XAML" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 68},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 819,
+  "comment": 500,
+  "code": 61243,
+  "nFiles": 168} }

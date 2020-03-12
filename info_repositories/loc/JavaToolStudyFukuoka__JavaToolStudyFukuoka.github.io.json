@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 172.632118940353,
+  "n_files"            : 148,
+  "n_lines"            : 31295,
+  "files_per_second"   : 0.857314391484333,
+  "lines_per_second"   : 181.281445145285,
+  "report_file"        : "loc/JavaToolStudyFukuoka__JavaToolStudyFukuoka.github.io.json"},
+"CSS" :{
+  "nFiles": 36,
+  "blank": 1773,
+  "comment": 949,
+  "code": 7566},
+"JavaScript" :{
+  "nFiles": 28,
+  "blank": 2559,
+  "comment": 2558,
+  "code": 6528},
+"HTML" :{
+  "nFiles": 26,
+  "blank": 656,
+  "comment": 76,
+  "code": 3771},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 424,
+  "comment": 101,
+  "code": 1795},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 518,
+  "comment": 0,
+  "code": 1453},
+"Java" :{
+  "nFiles": 10,
+  "blank": 72,
+  "comment": 31,
+  "code": 277},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 2,
+  "code": 74},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 70},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 7,
+  "code": 9},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 6014,
+  "comment": 3724,
+  "code": 21557,
+  "nFiles": 148} }

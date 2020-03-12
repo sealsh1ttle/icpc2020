@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.199018955230713,
+  "n_files"            : 11,
+  "n_lines"            : 1251,
+  "files_per_second"   : 55.271117202119,
+  "lines_per_second"   : 6285.83341998644,
+  "report_file"        : "loc/stm32duino__X-NUCLEO-IKS01A2.json"},
+"Arduino Sketch" :{
+  "nFiles": 9,
+  "blank": 167,
+  "comment": 466,
+  "code": 556},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 51},
+"SUM": {
+  "blank": 178,
+  "comment": 466,
+  "code": 607,
+  "nFiles": 11} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.61938905715942,
+  "n_files"            : 17,
+  "n_lines"            : 879,
+  "files_per_second"   : 3.02523990189664,
+  "lines_per_second"   : 156.422698456891,
+  "report_file"        : "loc/fossasia__susi_desktop.json"},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 16,
+  "code": 321},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 264},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 57,
+  "comment": 0,
+  "code": 102},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 26},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 10},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 115,
+  "comment": 20,
+  "code": 744,
+  "nFiles": 17} }

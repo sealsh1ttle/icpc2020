@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0488729476928711,
+  "n_files"            : 1,
+  "n_lines"            : 2,
+  "files_per_second"   : 20.4612172419849,
+  "lines_per_second"   : 40.9224344839698,
+  "report_file"        : "loc/you-got-trolled__flaming-octo-hipster.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 2,
+  "nFiles": 1} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.1459090709686,
+  "n_files"            : 111,
+  "n_lines"            : 9365,
+  "files_per_second"   : 2.90987953107868,
+  "lines_per_second"   : 245.504700977944,
+  "report_file"        : "loc/zammad__zammad-user-documentation.json"},
+"PO File" :{
+  "nFiles": 73,
+  "blank": 1138,
+  "comment": 1656,
+  "code": 4685},
+"reStructuredText" :{
+  "nFiles": 34,
+  "blank": 441,
+  "comment": 603,
+  "code": 488},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 5,
+  "code": 190},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 67},
+"Python" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1645,
+  "comment": 2264,
+  "code": 5456,
+  "nFiles": 111} }

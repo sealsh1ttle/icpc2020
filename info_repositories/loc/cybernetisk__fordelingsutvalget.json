@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.74711394309998,
+  "n_files"            : 272,
+  "n_lines"            : 51981,
+  "files_per_second"   : 99.0130026034021,
+  "lines_per_second"   : 18922.0400306156,
+  "report_file"        : "loc/cybernetisk__fordelingsutvalget.json"},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 4328,
+  "comment": 3908,
+  "code": 17724},
+"Sass" :{
+  "nFiles": 52,
+  "blank": 1938,
+  "comment": 2387,
+  "code": 8064},
+"Markdown" :{
+  "nFiles": 93,
+  "blank": 1886,
+  "comment": 0,
+  "code": 5162},
+"HTML" :{
+  "nFiles": 35,
+  "blank": 382,
+  "comment": 6,
+  "code": 2262},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 147,
+  "comment": 61,
+  "code": 1230},
+"SVG" :{
+  "nFiles": 57,
+  "blank": 0,
+  "comment": 57,
+  "code": 801},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 515},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 143,
+  "comment": 274,
+  "code": 405},
+"XSLT" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 136},
+"XML" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 1,
+  "code": 131},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 8837,
+  "comment": 6694,
+  "code": 36450,
+  "nFiles": 272} }

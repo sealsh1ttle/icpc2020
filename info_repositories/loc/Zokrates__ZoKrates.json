@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 64.6305820941925,
+  "n_files"            : 173,
+  "n_lines"            : 32195,
+  "files_per_second"   : 2.67675138292689,
+  "lines_per_second"   : 498.138790597291,
+  "report_file"        : "loc/Zokrates__ZoKrates.json"},
+"Rust" :{
+  "nFiles": 69,
+  "blank": 2550,
+  "comment": 1396,
+  "code": 21525},
+"JSON" :{
+  "nFiles": 45,
+  "blank": 0,
+  "comment": 0,
+  "code": 3966},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 282,
+  "comment": 0,
+  "code": 578},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 111,
+  "comment": 49,
+  "code": 405},
+"C++" :{
+  "nFiles": 3,
+  "blank": 92,
+  "comment": 59,
+  "code": 365},
+"TOML" :{
+  "nFiles": 14,
+  "blank": 35,
+  "comment": 2,
+  "code": 212},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 16,
+  "code": 177},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 7,
+  "code": 167},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 13,
+  "code": 93},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 3141,
+  "comment": 1542,
+  "code": 27512,
+  "nFiles": 173} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.20845794677734,
+  "n_files"            : 18,
+  "n_lines"            : 2332,
+  "files_per_second"   : 4.27710107303879,
+  "lines_per_second"   : 554.122205684803,
+  "report_file"        : "loc/camphor-__advent.json"},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 15,
+  "code": 937},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 142,
+  "comment": 0,
+  "code": 671},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 291},
+"Python" :{
+  "nFiles": 3,
+  "blank": 43,
+  "comment": 2,
+  "code": 114},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 45},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 8},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 218,
+  "comment": 17,
+  "code": 2097,
+  "nFiles": 18} }

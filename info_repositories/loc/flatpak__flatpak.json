@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 56.8584327697754,
+  "n_files"            : 263,
+  "n_lines"            : 199488,
+  "files_per_second"   : 4.6255232018953,
+  "lines_per_second"   : 3508.50331748931,
+  "report_file"        : "loc/flatpak__flatpak.json"},
+"C" :{
+  "nFiles": 89,
+  "blank": 13029,
+  "comment": 6726,
+  "code": 61761},
+"PO File" :{
+  "nFiles": 16,
+  "blank": 17115,
+  "comment": 22889,
+  "code": 42270},
+"XML" :{
+  "nFiles": 54,
+  "blank": 2329,
+  "comment": 525,
+  "code": 9975},
+"C/C++ Header" :{
+  "nFiles": 47,
+  "blank": 1164,
+  "comment": 1692,
+  "code": 9478},
+"Bourne Shell" :{
+  "nFiles": 29,
+  "blank": 1063,
+  "comment": 743,
+  "code": 3300},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 176,
+  "comment": 192,
+  "code": 1236},
+"m4" :{
+  "nFiles": 4,
+  "blank": 144,
+  "comment": 56,
+  "code": 1077},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 809},
+"Python" :{
+  "nFiles": 6,
+  "blank": 131,
+  "comment": 3,
+  "code": 658},
+"make" :{
+  "nFiles": 4,
+  "blank": 78,
+  "comment": 46,
+  "code": 369},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 55,
+  "comment": 0,
+  "code": 138},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 3,
+  "code": 102},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 75},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 4,
+  "code": 32},
+"Apex Trigger" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 35300,
+  "comment": 32879,
+  "code": 131309,
+  "nFiles": 263} }

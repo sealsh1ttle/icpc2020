@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.837167978286743,
+  "n_files"            : 122,
+  "n_lines"            : 16898,
+  "files_per_second"   : 145.729415319578,
+  "lines_per_second"   : 20184.7185251658,
+  "report_file"        : "loc/google__docsy.json"},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 13,
+  "code": 9127},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2868},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 642,
+  "comment": 0,
+  "code": 1430},
+"HTML" :{
+  "nFiles": 45,
+  "blank": 27,
+  "comment": 1,
+  "code": 829},
+"Sass" :{
+  "nFiles": 25,
+  "blank": 239,
+  "comment": 58,
+  "code": 816},
+"TOML" :{
+  "nFiles": 10,
+  "blank": 102,
+  "comment": 83,
+  "code": 267},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 38,
+  "comment": 150,
+  "code": 108},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 65},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 11},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 14,
+  "code": 3},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 2},
+"SUM": {
+  "blank": 1051,
+  "comment": 321,
+  "code": 15526,
+  "nFiles": 122} }

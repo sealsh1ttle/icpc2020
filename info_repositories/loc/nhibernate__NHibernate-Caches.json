@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 55.1481149196625,
+  "n_files"            : 281,
+  "n_lines"            : 65032,
+  "files_per_second"   : 5.09536908758077,
+  "lines_per_second"   : 1179.22435054645,
+  "report_file"        : "loc/nhibernate__NHibernate-Caches.json"},
+"XML" :{
+  "nFiles": 18,
+  "blank": 80,
+  "comment": 7,
+  "code": 34432},
+"C#" :{
+  "nFiles": 189,
+  "blank": 3075,
+  "comment": 4366,
+  "code": 16294},
+"XSD" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 4474},
+"MSBuild script" :{
+  "nFiles": 30,
+  "blank": 4,
+  "comment": 11,
+  "code": 939},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 9,
+  "code": 425},
+"NAnt script" :{
+  "nFiles": 14,
+  "blank": 85,
+  "comment": 9,
+  "code": 415},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 97,
+  "comment": 0,
+  "code": 157},
+"Lua" :{
+  "nFiles": 20,
+  "blank": 0,
+  "comment": 0,
+  "code": 139},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 3351,
+  "comment": 4403,
+  "code": 57278,
+  "nFiles": 281} }

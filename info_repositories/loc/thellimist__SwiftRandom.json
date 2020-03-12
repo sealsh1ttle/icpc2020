@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.27925682067871,
+  "n_files"            : 7,
+  "n_lines"            : 836,
+  "files_per_second"   : 5.47192704924266,
+  "lines_per_second"   : 653.504430452409,
+  "report_file"        : "loc/thellimist__SwiftRandom.json"},
+"Swift" :{
+  "nFiles": 2,
+  "blank": 110,
+  "comment": 58,
+  "code": 385},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 0,
+  "code": 151},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 48},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 13},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 8,
+  "code": 3},
+"SUM": {
+  "blank": 168,
+  "comment": 68,
+  "code": 600,
+  "nFiles": 7} }

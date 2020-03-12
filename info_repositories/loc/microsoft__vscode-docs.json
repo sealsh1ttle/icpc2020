@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 551.239333868027,
+  "n_files"            : 363,
+  "n_lines"            : 83328,
+  "files_per_second"   : 0.658516142984286,
+  "lines_per_second"   : 151.164829649021,
+  "report_file"        : "loc/microsoft__vscode-docs.json"},
+"Markdown" :{
+  "nFiles": 336,
+  "blank": 25123,
+  "comment": 0,
+  "code": 53899},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 3129},
+"XML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 968},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 3,
+  "code": 67},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 14,
+  "code": 54},
+"SVG" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"SUM": {
+  "blank": 25150,
+  "comment": 19,
+  "code": 58159,
+  "nFiles": 363} }

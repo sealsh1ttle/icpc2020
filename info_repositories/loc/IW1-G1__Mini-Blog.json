@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.58413600921631,
+  "n_files"            : 24,
+  "n_lines"            : 6199,
+  "files_per_second"   : 5.23544675632409,
+  "lines_per_second"   : 1352.27226843554,
+  "report_file"        : "loc/IW1-G1__Mini-Blog.json"},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2671},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 15,
+  "code": 2462},
+"PHP" :{
+  "nFiles": 18,
+  "blank": 129,
+  "comment": 9,
+  "code": 721},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 56,
+  "code": 54},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 191,
+  "comment": 80,
+  "code": 5928,
+  "nFiles": 24} }

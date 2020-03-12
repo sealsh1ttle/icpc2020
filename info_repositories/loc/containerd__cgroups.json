@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.382868051528931,
+  "n_files"            : 40,
+  "n_lines"            : 10378,
+  "files_per_second"   : 104.474635165472,
+  "lines_per_second"   : 27105.9440936816,
+  "report_file"        : "loc/containerd__cgroups.json"},
+"Go" :{
+  "nFiles": 35,
+  "blank": 583,
+  "comment": 582,
+  "code": 8865},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 1,
+  "code": 118},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 88},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 23},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 15,
+  "code": 19},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 10,
+  "code": 5},
+"SUM": {
+  "blank": 652,
+  "comment": 608,
+  "code": 9118,
+  "nFiles": 40} }

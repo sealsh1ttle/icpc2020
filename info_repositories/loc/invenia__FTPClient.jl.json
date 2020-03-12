@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.52160596847534,
+  "n_files"            : 17,
+  "n_lines"            : 2732,
+  "files_per_second"   : 4.82734302252448,
+  "lines_per_second"   : 775.78241985511,
+  "report_file"        : "loc/invenia__FTPClient.jl.json"},
+"Julia" :{
+  "nFiles": 12,
+  "blank": 411,
+  "comment": 119,
+  "code": 1828},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 116,
+  "comment": 0,
+  "code": 176},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 5,
+  "code": 51},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 539,
+  "comment": 124,
+  "code": 2069,
+  "nFiles": 17} }

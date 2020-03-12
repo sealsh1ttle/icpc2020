@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.307963848114,
+  "n_files"            : 124,
+  "n_lines"            : 40956,
+  "files_per_second"   : 4.54079991791713,
+  "lines_per_second"   : 1499.78226966302,
+  "report_file"        : "loc/enkidevs__curriculum-processors.json"},
+"JSON" :{
+  "nFiles": 33,
+  "blank": 0,
+  "comment": 0,
+  "code": 36907},
+"JavaScript" :{
+  "nFiles": 72,
+  "blank": 235,
+  "comment": 24,
+  "code": 2473},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 270,
+  "comment": 0,
+  "code": 1022},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 506,
+  "comment": 24,
+  "code": 40426,
+  "nFiles": 124} }

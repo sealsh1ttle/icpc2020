@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.77884411811829,
+  "n_files"            : 43,
+  "n_lines"            : 8682,
+  "files_per_second"   : 4.39724771973095,
+  "lines_per_second"   : 887.834993086141,
+  "report_file"        : "loc/dtpublic__Netlet.json"},
+"Java" :{
+  "nFiles": 38,
+  "blank": 925,
+  "comment": 1081,
+  "code": 5681},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 12,
+  "code": 552},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 74,
+  "comment": 0,
+  "code": 166},
+"XML" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 16,
+  "code": 124},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1044,
+  "comment": 1109,
+  "code": 6529,
+  "nFiles": 43} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.518241167068481,
+  "n_files"            : 3,
+  "n_lines"            : 8,
+  "files_per_second"   : 5.78881067470963,
+  "lines_per_second"   : 15.4368284658923,
+  "report_file"        : "loc/lorecrafting__c19-pr-lab.json"},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1,
+  "comment": 0,
+  "code": 7,
+  "nFiles": 3} }

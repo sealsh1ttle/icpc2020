@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.7509529590607,
+  "n_files"            : 195,
+  "n_lines"            : 36187,
+  "files_per_second"   : 16.5943988270027,
+  "lines_per_second"   : 3079.49492488588,
+  "report_file"        : "loc/Kerbalism__Kerbalism.json"},
+"C#" :{
+  "nFiles": 132,
+  "blank": 4794,
+  "comment": 3708,
+  "code": 21058},
+"reStructuredText" :{
+  "nFiles": 24,
+  "blank": 470,
+  "comment": 154,
+  "code": 1626},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 441,
+  "comment": 0,
+  "code": 1528},
+"HLSL" :{
+  "nFiles": 10,
+  "blank": 97,
+  "comment": 73,
+  "code": 456},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 414},
+"Python" :{
+  "nFiles": 7,
+  "blank": 71,
+  "comment": 174,
+  "code": 404},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 1,
+  "code": 371},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 24,
+  "comment": 6,
+  "code": 101},
+"Unity-Prefab" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 83},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 17,
+  "code": 73},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 5924,
+  "comment": 4139,
+  "code": 26124,
+  "nFiles": 195} }

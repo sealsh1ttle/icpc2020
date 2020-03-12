@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 80.522796869278,
+  "n_files"            : 317,
+  "n_lines"            : 97615,
+  "files_per_second"   : 3.93677334028304,
+  "lines_per_second"   : 1212.26539309694,
+  "report_file"        : "loc/seatly__MovieDash.json"},
+"JavaScript" :{
+  "nFiles": 87,
+  "blank": 6194,
+  "comment": 30485,
+  "code": 28579},
+"HTML" :{
+  "nFiles": 199,
+  "blank": 6517,
+  "comment": 1088,
+  "code": 12472},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 1489,
+  "comment": 483,
+  "code": 7296},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 1729},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 310,
+  "comment": 0,
+  "code": 888},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 14515,
+  "comment": 32058,
+  "code": 51042,
+  "nFiles": 317} }

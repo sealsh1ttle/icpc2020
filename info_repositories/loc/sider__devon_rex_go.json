@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.421911954879761,
+  "n_files"            : 2,
+  "n_lines"            : 30,
+  "files_per_second"   : 4.74032550362308,
+  "lines_per_second"   : 71.1048825543462,
+  "report_file"        : "loc/sider__devon_rex_go.json"},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 18},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 6,
+  "comment": 2,
+  "code": 22,
+  "nFiles": 2} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 348.233923912048,
+  "n_files"            : 939,
+  "n_lines"            : 163925,
+  "files_per_second"   : 2.69646331250932,
+  "lines_per_second"   : 470.732426520863,
+  "report_file"        : "loc/brunobasto__alloy-ui.json"},
+"JavaScript" :{
+  "nFiles": 341,
+  "blank": 16422,
+  "comment": 31665,
+  "code": 58523},
+"JSON" :{
+  "nFiles": 191,
+  "blank": 355,
+  "comment": 0,
+  "code": 32600},
+"HTML" :{
+  "nFiles": 187,
+  "blank": 1086,
+  "comment": 4,
+  "code": 10635},
+"CSS" :{
+  "nFiles": 91,
+  "blank": 610,
+  "comment": 41,
+  "code": 9233},
+"Markdown" :{
+  "nFiles": 126,
+  "blank": 855,
+  "comment": 0,
+  "code": 1637},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 229},
+"Mustache" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 19337,
+  "comment": 31710,
+  "code": 112878,
+  "nFiles": 939} }

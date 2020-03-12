@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.108320951461792,
+  "n_files"            : 10,
+  "n_lines"            : 1533,
+  "files_per_second"   : 92.3182437474,
+  "lines_per_second"   : 14152.3867664764,
+  "report_file"        : "loc/angulartics__angulartics-google-analytics.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 305,
+  "comment": 252,
+  "code": 721},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 74},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 3,
+  "code": 70},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 68},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 344,
+  "comment": 255,
+  "code": 934,
+  "nFiles": 10} }

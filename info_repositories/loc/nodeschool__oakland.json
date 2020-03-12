@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.9729099273682,
+  "n_files"            : 30,
+  "n_lines"            : 16955,
+  "files_per_second"   : 2.31251123826204,
+  "lines_per_second"   : 1306.95426815776,
+  "report_file"        : "loc/nodeschool__oakland.json"},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 9465},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 4690},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 170,
+  "comment": 324,
+  "code": 719},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 56,
+  "comment": 11,
+  "code": 554},
+"Stylus" :{
+  "nFiles": 8,
+  "blank": 81,
+  "comment": 8,
+  "code": 357},
+"Mustache" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 0,
+  "code": 222},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 1,
+  "code": 196},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 0,
+  "code": 49},
+"SUM": {
+  "blank": 359,
+  "comment": 344,
+  "code": 16252,
+  "nFiles": 30} }

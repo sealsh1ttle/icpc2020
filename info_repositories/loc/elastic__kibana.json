@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 237.21156001091,
+  "n_files"            : 19086,
+  "n_lines"            : 2389880,
+  "files_per_second"   : 80.4598224434011,
+  "lines_per_second"   : 10074.8884240299,
+  "report_file"        : "loc/elastic__kibana.json"},
+"JSON" :{
+  "nFiles": 1074,
+  "blank": 1279,
+  "comment": 0,
+  "code": 700148},
+"TypeScript" :{
+  "nFiles": 8368,
+  "blank": 82036,
+  "comment": 103337,
+  "code": 646032},
+"JavaScript" :{
+  "nFiles": 7226,
+  "blank": 86537,
+  "comment": 117537,
+  "code": 546402},
+"Markdown" :{
+  "nFiles": 863,
+  "blank": 9307,
+  "comment": 0,
+  "code": 23632},
+"AsciiDoc" :{
+  "nFiles": 303,
+  "blank": 6134,
+  "comment": 489,
+  "code": 18312},
+"Sass" :{
+  "nFiles": 792,
+  "blank": 3073,
+  "comment": 945,
+  "code": 16692},
+"HTML" :{
+  "nFiles": 212,
+  "blank": 558,
+  "comment": 122,
+  "code": 9264},
+"LESS" :{
+  "nFiles": 65,
+  "blank": 943,
+  "comment": 1261,
+  "code": 4136},
+"CSS" :{
+  "nFiles": 17,
+  "blank": 437,
+  "comment": 1018,
+  "code": 4022},
+"SVG" :{
+  "nFiles": 82,
+  "blank": 6,
+  "comment": 16,
+  "code": 1284},
+"Bourne Shell" :{
+  "nFiles": 43,
+  "blank": 236,
+  "comment": 182,
+  "code": 963},
+"JSON5" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 936},
+"Pug" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 5,
+  "code": 421},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 66,
+  "comment": 52,
+  "code": 325},
+"Handlebars" :{
+  "nFiles": 2,
+  "blank": 64,
+  "comment": 3,
+  "code": 303},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 8,
+  "code": 255},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 33,
+  "comment": 106,
+  "code": 179},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 29,
+  "code": 179},
+"XML" :{
+  "nFiles": 6,
+  "blank": 2,
+  "comment": 1,
+  "code": 178},
+"Python" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 32,
+  "code": 99},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 0,
+  "code": 61},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 5,
+  "code": 23},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 190864,
+  "comment": 225156,
+  "code": 1973860,
+  "nFiles": 19086} }

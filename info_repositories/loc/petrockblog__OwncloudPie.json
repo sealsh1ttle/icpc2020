@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0757780075073242,
+  "n_files"            : 2,
+  "n_lines"            : 512,
+  "files_per_second"   : 26.3928818636026,
+  "lines_per_second"   : 6756.57775708227,
+  "report_file"        : "loc/petrockblog__OwncloudPie.json"},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 80,
+  "comment": 67,
+  "code": 323},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 28},
+"SUM": {
+  "blank": 94,
+  "comment": 67,
+  "code": 351,
+  "nFiles": 2} }

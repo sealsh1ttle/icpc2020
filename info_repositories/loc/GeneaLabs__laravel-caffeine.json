@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.15261912345886,
+  "n_files"            : 30,
+  "n_lines"            : 1007,
+  "files_per_second"   : 5.82228169425834,
+  "lines_per_second"   : 195.434588870605,
+  "report_file"        : "loc/GeneaLabs__laravel-caffeine.json"},
+"PHP" :{
+  "nFiles": 17,
+  "blank": 104,
+  "comment": 82,
+  "code": 405},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 50,
+  "comment": 0,
+  "code": 150},
+"Blade" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 3,
+  "code": 68},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 40},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 35},
+"SUM": {
+  "blank": 177,
+  "comment": 86,
+  "code": 744,
+  "nFiles": 30} }

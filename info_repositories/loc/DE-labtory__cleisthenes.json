@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.7124929428101,
+  "n_files"            : 93,
+  "n_lines"            : 10415,
+  "files_per_second"   : 3.35588718748338,
+  "lines_per_second"   : 375.823280189672,
+  "report_file"        : "loc/DE-labtory__cleisthenes.json"},
+"Go" :{
+  "nFiles": 73,
+  "blank": 1544,
+  "comment": 267,
+  "code": 7613},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 243,
+  "comment": 0,
+  "code": 566},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 10,
+  "code": 49},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 11,
+  "code": 34},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 32},
+"SUM": {
+  "blank": 1833,
+  "comment": 288,
+  "code": 8294,
+  "nFiles": 93} }

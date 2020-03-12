@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.48238492012024,
+  "n_files"            : 32,
+  "n_lines"            : 51697,
+  "files_per_second"   : 4.93645477618544,
+  "lines_per_second"   : 7974.99695513933,
+  "report_file"        : "loc/Diaphanous-Hamburger__Along-The-Road.json"},
+"JavaScript" :{
+  "nFiles": 24,
+  "blank": 7745,
+  "comment": 9391,
+  "code": 33375},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 94,
+  "comment": 85,
+  "code": 479},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 127,
+  "comment": 0,
+  "code": 318},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 60},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 18},
+"SUM": {
+  "blank": 7970,
+  "comment": 9477,
+  "code": 34250,
+  "nFiles": 32} }

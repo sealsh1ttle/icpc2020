@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.099946975708,
+  "n_files"            : 91,
+  "n_lines"            : 3811,
+  "files_per_second"   : 2.11137150705288,
+  "lines_per_second"   : 88.4223825645993,
+  "report_file"        : "loc/thumbs-project__thumbs-android.json"},
+"Kotlin" :{
+  "nFiles": 48,
+  "blank": 344,
+  "comment": 108,
+  "code": 1493},
+"XML" :{
+  "nFiles": 31,
+  "blank": 106,
+  "comment": 8,
+  "code": 1131},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 15,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"Java" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 11,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 13,
+  "code": 21},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 20},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 562,
+  "comment": 197,
+  "code": 3052,
+  "nFiles": 91} }

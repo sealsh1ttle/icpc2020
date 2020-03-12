@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0856449604034424,
+  "n_files"            : 4,
+  "n_lines"            : 58,
+  "files_per_second"   : 46.7044409987167,
+  "lines_per_second"   : 677.214394481392,
+  "report_file"        : "loc/ametiste-oss__ametiste-bintray-gradle.json"},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 50},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 6,
+  "comment": 0,
+  "code": 52,
+  "nFiles": 4} }

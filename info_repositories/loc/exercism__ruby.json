@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 155.193286895752,
+  "n_files"            : 446,
+  "n_lines"            : 28766,
+  "files_per_second"   : 2.87383564663845,
+  "lines_per_second"   : 185.355955630497,
+  "report_file"        : "loc/exercism__ruby.json"},
+"Ruby" :{
+  "nFiles": 314,
+  "blank": 2831,
+  "comment": 285,
+  "code": 14875},
+"Markdown" :{
+  "nFiles": 115,
+  "blank": 2580,
+  "comment": 0,
+  "code": 4691},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 282,
+  "comment": 181,
+  "code": 1462},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 1363},
+"ERB" :{
+  "nFiles": 8,
+  "blank": 27,
+  "comment": 0,
+  "code": 152},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 5727,
+  "comment": 466,
+  "code": 22573,
+  "nFiles": 446} }

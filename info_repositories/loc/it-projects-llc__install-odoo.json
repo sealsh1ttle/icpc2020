@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.52555418014526,
+  "n_files"            : 27,
+  "n_lines"            : 1694,
+  "files_per_second"   : 3.1669495530131,
+  "lines_per_second"   : 198.6967608446,
+  "report_file"        : "loc/it-projects-llc__install-odoo.json"},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 110,
+  "comment": 102,
+  "code": 490},
+"Python" :{
+  "nFiles": 2,
+  "blank": 64,
+  "comment": 64,
+  "code": 218},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 47,
+  "comment": 35,
+  "code": 174},
+"reStructuredText" :{
+  "nFiles": 7,
+  "blank": 63,
+  "comment": 0,
+  "code": 138},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 0,
+  "code": 136},
+"SUM": {
+  "blank": 337,
+  "comment": 201,
+  "code": 1156,
+  "nFiles": 27} }

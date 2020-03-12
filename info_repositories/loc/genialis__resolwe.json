@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.33980798721313,
+  "n_files"            : 306,
+  "n_lines"            : 39057,
+  "files_per_second"   : 130.779962147435,
+  "lines_per_second"   : 16692.395364681,
+  "report_file"        : "loc/genialis__resolwe.json"},
+"Python" :{
+  "nFiles": 254,
+  "blank": 6545,
+  "comment": 5130,
+  "code": 21163},
+"reStructuredText" :{
+  "nFiles": 13,
+  "blank": 674,
+  "comment": 301,
+  "code": 1840},
+"YAML" :{
+  "nFiles": 27,
+  "blank": 135,
+  "comment": 95,
+  "code": 1759},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 0,
+  "code": 1102},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 34,
+  "code": 121},
+"INI" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 72},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 7409,
+  "comment": 5560,
+  "code": 26088,
+  "nFiles": 306} }

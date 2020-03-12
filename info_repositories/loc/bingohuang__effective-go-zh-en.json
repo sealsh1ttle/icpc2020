@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.0436110496521,
+  "n_files"            : 18,
+  "n_lines"            : 3515,
+  "files_per_second"   : 8.80793828310152,
+  "lines_per_second"   : 1719.99461472788,
+  "report_file"        : "loc/bingohuang__effective-go-zh-en.json"},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 806,
+  "comment": 0,
+  "code": 2709},
+"SUM": {
+  "blank": 806,
+  "comment": 0,
+  "code": 2709,
+  "nFiles": 18} }

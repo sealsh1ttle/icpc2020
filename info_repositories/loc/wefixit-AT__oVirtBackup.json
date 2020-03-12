@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0684239864349365,
+  "n_files"            : 7,
+  "n_lines"            : 957,
+  "files_per_second"   : 102.303305678575,
+  "lines_per_second"   : 13986.3233620566,
+  "report_file"        : "loc/wefixit-AT__oVirtBackup.json"},
+"Python" :{
+  "nFiles": 4,
+  "blank": 114,
+  "comment": 82,
+  "code": 657},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 0,
+  "code": 60},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 146,
+  "comment": 82,
+  "code": 729,
+  "nFiles": 7} }

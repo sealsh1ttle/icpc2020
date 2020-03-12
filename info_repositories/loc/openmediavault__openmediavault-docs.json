@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.8496730327606,
+  "n_files"            : 50,
+  "n_lines"            : 3998,
+  "files_per_second"   : 4.21952570857995,
+  "lines_per_second"   : 337.393275658053,
+  "report_file"        : "loc/openmediavault__openmediavault-docs.json"},
+"reStructuredText" :{
+  "nFiles": 45,
+  "blank": 902,
+  "comment": 704,
+  "code": 1794},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 322},
+"Python" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 99,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 32},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 25},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 8,
+  "code": 3},
+"SUM": {
+  "blank": 964,
+  "comment": 819,
+  "code": 2215,
+  "nFiles": 50} }

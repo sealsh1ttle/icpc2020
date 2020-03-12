@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.27725911140442,
+  "n_files"            : 50,
+  "n_lines"            : 535,
+  "files_per_second"   : 6.04064694931562,
+  "lines_per_second"   : 64.6349223576771,
+  "report_file"        : "loc/githubteacher__developers-jun-2016-emea.json"},
+"Markdown" :{
+  "nFiles": 50,
+  "blank": 136,
+  "comment": 0,
+  "code": 399},
+"SUM": {
+  "blank": 136,
+  "comment": 0,
+  "code": 399,
+  "nFiles": 50} }

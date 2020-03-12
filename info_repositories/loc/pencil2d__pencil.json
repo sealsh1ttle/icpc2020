@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 64.7115788459778,
+  "n_files"            : 311,
+  "n_lines"            : 174035,
+  "files_per_second"   : 4.80594053716757,
+  "lines_per_second"   : 2689.39505268797,
+  "report_file"        : "loc/pencil2d__pencil.json"},
+"Qt Linguist" :{
+  "nFiles": 23,
+  "blank": 36,
+  "comment": 0,
+  "code": 102167},
+"C++" :{
+  "nFiles": 106,
+  "blank": 6039,
+  "comment": 3606,
+  "code": 29358},
+"C/C++ Header" :{
+  "nFiles": 103,
+  "blank": 4678,
+  "comment": 2422,
+  "code": 16666},
+"Qt" :{
+  "nFiles": 25,
+  "blank": 4,
+  "comment": 0,
+  "code": 5788},
+"SVG" :{
+  "nFiles": 25,
+  "blank": 0,
+  "comment": 8,
+  "code": 690},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 261,
+  "comment": 0,
+  "code": 633},
+"ProGuard" :{
+  "nFiles": 4,
+  "blank": 66,
+  "comment": 26,
+  "code": 392},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 13,
+  "code": 254},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 1,
+  "code": 203},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 139},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 78},
+"Python" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 19,
+  "code": 69},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 68,
+  "code": 64},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 4,
+  "code": 60},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 51},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 37},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 11214,
+  "comment": 6171,
+  "code": 156650,
+  "nFiles": 311} }

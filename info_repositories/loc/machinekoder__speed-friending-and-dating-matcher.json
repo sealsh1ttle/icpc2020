@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.30261492729187,
+  "n_files"            : 39,
+  "n_lines"            : 1999,
+  "files_per_second"   : 9.06425526314696,
+  "lines_per_second"   : 464.601186436686,
+  "report_file"        : "loc/machinekoder__speed-friending-and-dating-matcher.json"},
+"Python" :{
+  "nFiles": 35,
+  "blank": 347,
+  "comment": 138,
+  "code": 1097},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 68,
+  "comment": 0,
+  "code": 159},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 135},
+"INI" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 5,
+  "code": 9},
+"SUM": {
+  "blank": 435,
+  "comment": 144,
+  "code": 1420,
+  "nFiles": 39} }

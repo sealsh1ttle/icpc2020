@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.5683279037476,
+  "n_files"            : 84,
+  "n_lines"            : 27185,
+  "files_per_second"   : 4.78133152228344,
+  "lines_per_second"   : 1547.38687420566,
+  "report_file"        : "loc/will-gerard__uvahelpr.json"},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 2463,
+  "comment": 2196,
+  "code": 10050},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 522,
+  "comment": 98,
+  "code": 9298},
+"Python" :{
+  "nFiles": 30,
+  "blank": 246,
+  "comment": 166,
+  "code": 1385},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 288},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 20,
+  "comment": 6,
+  "code": 284},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 2,
+  "code": 144},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 3264,
+  "comment": 2468,
+  "code": 21453,
+  "nFiles": 84} }

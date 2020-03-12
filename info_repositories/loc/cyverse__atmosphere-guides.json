@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.383861064910889,
+  "n_files"            : 54,
+  "n_lines"            : 7658,
+  "files_per_second"   : 140.675897964634,
+  "lines_per_second"   : 19949.9264187624,
+  "report_file"        : "loc/cyverse__atmosphere-guides.json"},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 175,
+  "comment": 120,
+  "code": 3606},
+"Markdown" :{
+  "nFiles": 36,
+  "blank": 1052,
+  "comment": 0,
+  "code": 2484},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 5,
+  "comment": 10,
+  "code": 104},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 8,
+  "code": 31},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"make" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 13},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 10,
+  "code": 2},
+"SUM": {
+  "blank": 1247,
+  "comment": 148,
+  "code": 6263,
+  "nFiles": 54} }

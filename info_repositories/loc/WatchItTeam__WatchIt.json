@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.8777420520782,
+  "n_files"            : 138,
+  "n_lines"            : 19797,
+  "files_per_second"   : 4.46923870816881,
+  "lines_per_second"   : 641.141439895782,
+  "report_file"        : "loc/WatchItTeam__WatchIt.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 12420},
+"JavaScript" :{
+  "nFiles": 83,
+  "blank": 529,
+  "comment": 492,
+  "code": 4777},
+"Sass" :{
+  "nFiles": 48,
+  "blank": 208,
+  "comment": 18,
+  "code": 1206},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 0,
+  "code": 89},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 779,
+  "comment": 510,
+  "code": 18508,
+  "nFiles": 138} }

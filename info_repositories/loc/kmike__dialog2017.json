@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.05661916732788,
+  "n_files"            : 9,
+  "n_lines"            : 690,
+  "files_per_second"   : 8.51773304733852,
+  "lines_per_second"   : 653.026200295953,
+  "report_file"        : "loc/kmike__dialog2017.json"},
+"Python" :{
+  "nFiles": 8,
+  "blank": 136,
+  "comment": 36,
+  "code": 422},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 72},
+"SUM": {
+  "blank": 160,
+  "comment": 36,
+  "code": 494,
+  "nFiles": 9} }

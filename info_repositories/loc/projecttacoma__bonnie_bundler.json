@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.1702399253845,
+  "n_files"            : 82,
+  "n_lines"            : 106402,
+  "files_per_second"   : 4.2774634182548,
+  "lines_per_second"   : 5550.3739345018,
+  "report_file"        : "loc/projecttacoma__bonnie_bundler.json"},
+"YAML" :{
+  "nFiles": 45,
+  "blank": 4,
+  "comment": 6,
+  "code": 102209},
+"Ruby" :{
+  "nFiles": 33,
+  "blank": 499,
+  "comment": 394,
+  "code": 3206},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 0,
+  "code": 63},
+"SUM": {
+  "blank": 524,
+  "comment": 400,
+  "code": 105478,
+  "nFiles": 82} }

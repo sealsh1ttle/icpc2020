@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.74533295631409,
+  "n_files"            : 14,
+  "n_lines"            : 807,
+  "files_per_second"   : 2.9502671633129,
+  "lines_per_second"   : 170.061828628108,
+  "report_file"        : "loc/pitermarx__Cake.SonarScanner.json"},
+"C#" :{
+  "nFiles": 7,
+  "blank": 30,
+  "comment": 99,
+  "code": 161},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 14,
+  "code": 152},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 47,
+  "code": 144},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 76},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 74,
+  "comment": 160,
+  "code": 573,
+  "nFiles": 14} }

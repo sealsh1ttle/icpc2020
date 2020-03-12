@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.384668111801147,
+  "n_files"            : 2,
+  "n_lines"            : 96,
+  "files_per_second"   : 5.19928722616314,
+  "lines_per_second"   : 249.565786855831,
+  "report_file"        : "loc/irasanchez__webdb-i-challenge.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 0,
+  "code": 54},
+"SUM": {
+  "blank": 42,
+  "comment": 0,
+  "code": 54,
+  "nFiles": 2} }

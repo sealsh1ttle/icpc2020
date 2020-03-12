@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 239.530850887299,
+  "n_files"            : 749,
+  "n_lines"            : 154128,
+  "files_per_second"   : 3.12694584946142,
+  "lines_per_second"   : 643.457823612536,
+  "report_file"        : "loc/go-hep__hep.json"},
+"Go" :{
+  "nFiles": 711,
+  "blank": 18466,
+  "comment": 10797,
+  "code": 120483},
+"Markdown" :{
+  "nFiles": 23,
+  "blank": 533,
+  "comment": 0,
+  "code": 1829},
+"Oracle PL/SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 819},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 2,
+  "code": 530},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 3,
+  "code": 244},
+"Python" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 7,
+  "code": 182},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 61},
+"make" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 6,
+  "code": 37},
+"SUM": {
+  "blank": 19128,
+  "comment": 10815,
+  "code": 124185,
+  "nFiles": 749} }

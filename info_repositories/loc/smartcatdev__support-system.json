@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 63.0094029903412,
+  "n_files"            : 275,
+  "n_lines"            : 72744,
+  "files_per_second"   : 4.36442795755667,
+  "lines_per_second"   : 1154.49435398001,
+  "report_file"        : "loc/smartcatdev__support-system.json"},
+"JavaScript" :{
+  "nFiles": 65,
+  "blank": 3940,
+  "comment": 3682,
+  "code": 16892},
+"PHP" :{
+  "nFiles": 161,
+  "blank": 4609,
+  "comment": 5962,
+  "code": 12941},
+"CSS" :{
+  "nFiles": 21,
+  "blank": 518,
+  "comment": 387,
+  "code": 10405},
+"PO File" :{
+  "nFiles": 6,
+  "blank": 2762,
+  "comment": 2952,
+  "code": 6284},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 30,
+  "comment": 18,
+  "code": 510},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 346},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 0,
+  "code": 218},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 32,
+  "comment": 0,
+  "code": 166},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"SUM": {
+  "blank": 11937,
+  "comment": 13001,
+  "code": 47806,
+  "nFiles": 275} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.96716094017029,
+  "n_files"            : 3,
+  "n_lines"            : 192,
+  "files_per_second"   : 1.5250404472449,
+  "lines_per_second"   : 97.6025886236738,
+  "report_file"        : "loc/jel04h__stp-archery.json"},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 0,
+  "code": 154},
+"SUM": {
+  "blank": 38,
+  "comment": 0,
+  "code": 154,
+  "nFiles": 3} }

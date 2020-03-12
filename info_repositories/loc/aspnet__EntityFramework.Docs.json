@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 164.975867986679,
+  "n_files"            : 450,
+  "n_lines"            : 45828,
+  "files_per_second"   : 2.727671661872,
+  "lines_per_second"   : 277.786082045044,
+  "report_file"        : "loc/aspnet__EntityFramework.Docs.json"},
+"Markdown" :{
+  "nFiles": 234,
+  "blank": 9921,
+  "comment": 0,
+  "code": 27155},
+"C#" :{
+  "nFiles": 190,
+  "blank": 1076,
+  "comment": 97,
+  "code": 6290},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 569},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 386},
+"MSBuild script" :{
+  "nFiles": 19,
+  "blank": 52,
+  "comment": 0,
+  "code": 220},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 36},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 11060,
+  "comment": 100,
+  "code": 34668,
+  "nFiles": 450} }

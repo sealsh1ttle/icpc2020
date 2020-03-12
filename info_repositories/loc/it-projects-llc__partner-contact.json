@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 533.952680110931,
+  "n_files"            : 2113,
+  "n_lines"            : 280602,
+  "files_per_second"   : 3.9572795094146,
+  "lines_per_second"   : 525.518478419667,
+  "report_file"        : "loc/it-projects-llc__partner-contact.json"},
+"PO File" :{
+  "nFiles": 1781,
+  "blank": 41204,
+  "comment": 105613,
+  "code": 115501},
+"Python" :{
+  "nFiles": 223,
+  "blank": 1047,
+  "comment": 2058,
+  "code": 5570},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 4,
+  "comment": 4,
+  "code": 4311},
+"XML" :{
+  "nFiles": 69,
+  "blank": 217,
+  "comment": 82,
+  "code": 2503},
+"reStructuredText" :{
+  "nFiles": 31,
+  "blank": 695,
+  "comment": 265,
+  "code": 1363},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 65},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 16,
+  "code": 31},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 43196,
+  "comment": 108040,
+  "code": 129366,
+  "nFiles": 2113} }

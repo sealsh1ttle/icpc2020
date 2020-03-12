@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.82124018669128,
+  "n_files"            : 6,
+  "n_lines"            : 4398,
+  "files_per_second"   : 3.29445838272459,
+  "lines_per_second"   : 2414.83799453713,
+  "report_file"        : "loc/ehendrix23__tesla_dashcam.json"},
+"Python" :{
+  "nFiles": 4,
+  "blank": 478,
+  "comment": 253,
+  "code": 2751},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 241,
+  "comment": 278,
+  "code": 385},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 723,
+  "comment": 531,
+  "code": 3144,
+  "nFiles": 6} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 96.3759860992432,
+  "n_files"            : 349,
+  "n_lines"            : 25993,
+  "files_per_second"   : 3.62123402442406,
+  "lines_per_second"   : 269.704114604168,
+  "report_file"        : "loc/parcel-bundler__website.json"},
+"Markdown" :{
+  "nFiles": 283,
+  "blank": 5711,
+  "comment": 0,
+  "code": 13672},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 206,
+  "comment": 7,
+  "code": 4457},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 135,
+  "comment": 3,
+  "code": 917},
+"SVG" :{
+  "nFiles": 21,
+  "blank": 6,
+  "comment": 2,
+  "code": 689},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 103},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 4,
+  "code": 56},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 6072,
+  "comment": 16,
+  "code": 19905,
+  "nFiles": 349} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.44256210327148,
+  "n_files"            : 9,
+  "n_lines"            : 181,
+  "files_per_second"   : 6.23889951052335,
+  "lines_per_second"   : 125.471201267192,
+  "report_file"        : "loc/ropensci__proj.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 61},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 57},
+"R" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 16,
+  "code": 15},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Rmd" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 4,
+  "code": 0},
+"SUM": {
+  "blank": 21,
+  "comment": 20,
+  "code": 140,
+  "nFiles": 9} }

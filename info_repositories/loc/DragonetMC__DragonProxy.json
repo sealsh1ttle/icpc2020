@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.531592845916748,
+  "n_files"            : 91,
+  "n_lines"            : 15965,
+  "files_per_second"   : 171.183643081328,
+  "lines_per_second"   : 30032.3830966308,
+  "report_file"        : "loc/DragonetMC__DragonProxy.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 9707},
+"Java" :{
+  "nFiles": 78,
+  "blank": 611,
+  "comment": 1810,
+  "code": 3156},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 21,
+  "code": 456},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 52},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 33,
+  "code": 34},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 27},
+"SUM": {
+  "blank": 668,
+  "comment": 1865,
+  "code": 13432,
+  "nFiles": 91} }

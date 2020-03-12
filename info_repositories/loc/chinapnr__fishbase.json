@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.9837880134583,
+  "n_files"            : 53,
+  "n_lines"            : 7767,
+  "files_per_second"   : 3.79010322160146,
+  "lines_per_second"   : 555.428900418463,
+  "report_file"        : "loc/chinapnr__fishbase.json"},
+"Python" :{
+  "nFiles": 32,
+  "blank": 1477,
+  "comment": 2483,
+  "code": 2403},
+"reStructuredText" :{
+  "nFiles": 13,
+  "blank": 151,
+  "comment": 209,
+  "code": 289},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 2,
+  "code": 227},
+"make" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 6,
+  "code": 181},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 100},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 2,
+  "code": 66},
+"INI" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 57},
+"SUM": {
+  "blank": 1742,
+  "comment": 2702,
+  "code": 3323,
+  "nFiles": 53} }

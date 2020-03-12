@@ -1,0 +1,354 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.25654411315918,
+  "n_files"            : 725,
+  "n_lines"            : 30755,
+  "files_per_second"   : 137.923316991679,
+  "lines_per_second"   : 5850.802226316,
+  "report_file"        : "loc/AliceWonderland__hacktoberfest.json"},
+"Markdown" :{
+  "nFiles": 313,
+  "blank": 6913,
+  "comment": 0,
+  "code": 19854},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 62,
+  "comment": 5,
+  "code": 333},
+"JavaScript" :{
+  "nFiles": 102,
+  "blank": 138,
+  "comment": 403,
+  "code": 278},
+"Python" :{
+  "nFiles": 73,
+  "blank": 88,
+  "comment": 202,
+  "code": 195},
+"Java" :{
+  "nFiles": 26,
+  "blank": 69,
+  "comment": 102,
+  "code": 160},
+"C" :{
+  "nFiles": 21,
+  "blank": 53,
+  "comment": 73,
+  "code": 152},
+"C#" :{
+  "nFiles": 9,
+  "blank": 19,
+  "comment": 31,
+  "code": 122},
+"C++" :{
+  "nFiles": 17,
+  "blank": 33,
+  "comment": 55,
+  "code": 100},
+"Go" :{
+  "nFiles": 14,
+  "blank": 38,
+  "comment": 40,
+  "code": 97},
+"PHP" :{
+  "nFiles": 20,
+  "blank": 26,
+  "comment": 81,
+  "code": 62},
+"Kotlin" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 30,
+  "code": 43},
+"Brainfuck" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 7,
+  "code": 33},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 32},
+"Swift" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 15,
+  "code": 28},
+"BrightScript" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 4,
+  "code": 28},
+"Elixir" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 13,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 11,
+  "comment": 31,
+  "code": 21},
+"Pascal" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 4,
+  "code": 20},
+"SWIG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 19},
+"Ruby" :{
+  "nFiles": 15,
+  "blank": 11,
+  "comment": 39,
+  "code": 17},
+"Fish Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 16},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 14},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 13},
+"Visual Basic" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 3,
+  "code": 13},
+"Arduino Sketch" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 7,
+  "code": 12},
+"D" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 4,
+  "code": 11},
+"Scala" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 7,
+  "code": 10},
+"Pug" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 10},
+"R" :{
+  "nFiles": 7,
+  "blank": 6,
+  "comment": 19,
+  "code": 9},
+"Rust" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 9,
+  "code": 9},
+"Lua" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 6,
+  "code": 7},
+"F#" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 8,
+  "code": 6},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"Elm" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 7,
+  "code": 6},
+"Crystal" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 3,
+  "code": 5},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"Haxe" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 5},
+"Apex Class" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 5},
+"COBOL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 5},
+"Ada" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 5},
+"Haskell" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 8,
+  "code": 4},
+"Tcl/Tk" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 6,
+  "code": 4},
+"Smalltalk" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"Lisp" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 3,
+  "code": 4},
+"Fortran 90" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 5,
+  "code": 4},
+"Dart" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 3},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 12,
+  "code": 3},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Erlang" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 3},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 2},
+"Clojure" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"C Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"Prolog" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 6,
+  "code": 2},
+"zsh" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"ABAP" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 2},
+"Objective C" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 7,
+  "code": 2},
+"Scheme" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 8,
+  "code": 2},
+"xBase" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 1},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 1},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 5,
+  "code": 1},
+"Nim" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 1},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 1},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 1},
+"OCaml" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 1},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 1},
+"Julia" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 1},
+"SUM": {
+  "blank": 7579,
+  "comment": 1323,
+  "code": 21853,
+  "nFiles": 725} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.6421039104462,
+  "n_files"            : 125,
+  "n_lines"            : 27321,
+  "files_per_second"   : 5.28717750643035,
+  "lines_per_second"   : 1155.60781322547,
+  "report_file"        : "loc/ropensci__RNeXML.json"},
+"XML" :{
+  "nFiles": 26,
+  "blank": 9,
+  "comment": 272,
+  "code": 13690},
+"R" :{
+  "nFiles": 69,
+  "blank": 1014,
+  "comment": 1616,
+  "code": 4368},
+"TeX" :{
+  "nFiles": 5,
+  "blank": 252,
+  "comment": 45,
+  "code": 2167},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 96,
+  "comment": 67,
+  "code": 508},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 199,
+  "comment": 0,
+  "code": 500},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 429},
+"Rmd" :{
+  "nFiles": 8,
+  "blank": 388,
+  "comment": 1021,
+  "code": 293},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 2,
+  "code": 255},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 6,
+  "code": 85},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 10,
+  "code": 6},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1979,
+  "comment": 3039,
+  "code": 22303,
+  "nFiles": 125} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.404474020004272,
+  "n_files"            : 1,
+  "n_lines"            : 1,
+  "files_per_second"   : 2.47234667875439,
+  "lines_per_second"   : 2.47234667875439,
+  "report_file"        : "loc/thiagopbueno__model-aware-policy-optimization.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 1,
+  "nFiles": 1} }

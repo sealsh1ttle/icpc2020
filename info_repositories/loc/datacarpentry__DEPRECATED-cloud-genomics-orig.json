@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.6622078418732,
+  "n_files"            : 99,
+  "n_lines"            : 23842,
+  "files_per_second"   : 5.03503984883971,
+  "lines_per_second"   : 1212.58000076804,
+  "report_file"        : "loc/datacarpentry__DEPRECATED-cloud-genomics-orig.json"},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 1043,
+  "comment": 94,
+  "code": 13849},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 1063,
+  "comment": 0,
+  "code": 2895},
+"HTML" :{
+  "nFiles": 32,
+  "blank": 80,
+  "comment": 25,
+  "code": 1081},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 2,
+  "comment": 0,
+  "code": 1011},
+"Python" :{
+  "nFiles": 7,
+  "blank": 408,
+  "comment": 473,
+  "code": 935},
+"Rmd" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 82,
+  "code": 232},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 18,
+  "code": 110},
+"make" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 29,
+  "code": 66},
+"R" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 20,
+  "code": 54},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 21,
+  "code": 51},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 11,
+  "code": 25},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 7},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 4},
+"SUM": {
+  "blank": 2746,
+  "comment": 776,
+  "code": 20320,
+  "nFiles": 99} }

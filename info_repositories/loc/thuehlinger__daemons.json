@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.35074090957642,
+  "n_files"            : 54,
+  "n_lines"            : 3512,
+  "files_per_second"   : 7.34619824916557,
+  "lines_per_second"   : 477.774967612398,
+  "report_file"        : "loc/thuehlinger__daemons.json"},
+"Ruby" :{
+  "nFiles": 52,
+  "blank": 573,
+  "comment": 529,
+  "code": 2179},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 61,
+  "comment": 0,
+  "code": 151},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 634,
+  "comment": 529,
+  "code": 2349,
+  "nFiles": 54} }

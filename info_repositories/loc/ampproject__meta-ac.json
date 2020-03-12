@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.05326414108276,
+  "n_files"            : 11,
+  "n_lines"            : 1248,
+  "files_per_second"   : 10.4437240108563,
+  "lines_per_second"   : 1184.88796050442,
+  "report_file"        : "loc/ampproject__meta-ac.json"},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 345,
+  "comment": 0,
+  "code": 903},
+"SUM": {
+  "blank": 345,
+  "comment": 0,
+  "code": 903,
+  "nFiles": 11} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.15650701522827,
+  "n_files"            : 162,
+  "n_lines"            : 58692,
+  "files_per_second"   : 140.076971316966,
+  "lines_per_second"   : 50749.3679045391,
+  "report_file"        : "loc/ccache__ccache.json"},
+"C/C++ Header" :{
+  "nFiles": 42,
+  "blank": 4327,
+  "comment": 2830,
+  "code": 19033},
+"C++" :{
+  "nFiles": 53,
+  "blank": 1788,
+  "comment": 1989,
+  "code": 11722},
+"Bourne Again Shell" :{
+  "nFiles": 27,
+  "blank": 1056,
+  "comment": 470,
+  "code": 4114},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 142,
+  "comment": 326,
+  "code": 3110},
+"AsciiDoc" :{
+  "nFiles": 4,
+  "blank": 1026,
+  "comment": 0,
+  "code": 2622},
+"C" :{
+  "nFiles": 3,
+  "blank": 232,
+  "comment": 224,
+  "code": 1169},
+"m4" :{
+  "nFiles": 5,
+  "blank": 271,
+  "comment": 22,
+  "code": 1166},
+"Python" :{
+  "nFiles": 3,
+  "blank": 68,
+  "comment": 35,
+  "code": 364},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 81,
+  "comment": 0,
+  "code": 254},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 11,
+  "code": 131},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 11,
+  "comment": 9,
+  "code": 75},
+"SUM": {
+  "blank": 9016,
+  "comment": 5916,
+  "code": 43760,
+  "nFiles": 162} }

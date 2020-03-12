@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1008.89636898041,
+  "n_files"            : 3267,
+  "n_lines"            : 290380,
+  "files_per_second"   : 3.23819185046888,
+  "lines_per_second"   : 287.819451955664,
+  "report_file"        : "loc/WordPress__gutenberg.json"},
+"JavaScript" :{
+  "nFiles": 1847,
+  "blank": 19823,
+  "comment": 29289,
+  "code": 122374},
+"JSON" :{
+  "nFiles": 437,
+  "blank": 3,
+  "comment": 0,
+  "code": 53756},
+"Markdown" :{
+  "nFiles": 359,
+  "blank": 11851,
+  "comment": 0,
+  "code": 23921},
+"Sass" :{
+  "nFiles": 284,
+  "blank": 2401,
+  "comment": 924,
+  "code": 12690},
+"PHP" :{
+  "nFiles": 67,
+  "blank": 752,
+  "comment": 2108,
+  "code": 4096},
+"HTML" :{
+  "nFiles": 265,
+  "blank": 1062,
+  "comment": 2542,
+  "code": 2053},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 255},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 30,
+  "comment": 19,
+  "code": 192},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 23,
+  "code": 97},
+"XML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 5,
+  "code": 86},
+"SUM": {
+  "blank": 35949,
+  "comment": 34911,
+  "code": 219520,
+  "nFiles": 3267} }

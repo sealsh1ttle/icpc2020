@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.2491290569305,
+  "n_files"            : 69,
+  "n_lines"            : 12809,
+  "files_per_second"   : 4.52484858265662,
+  "lines_per_second"   : 839.982398481864,
+  "report_file"        : "loc/ladybug-tools__butterfly.json"},
+"Python" :{
+  "nFiles": 53,
+  "blank": 1918,
+  "comment": 2392,
+  "code": 5907},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 101,
+  "comment": 1,
+  "code": 2120},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 4,
+  "code": 130},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 45,
+  "comment": 0,
+  "code": 107},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 21},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 11,
+  "code": 9},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 2088,
+  "comment": 2408,
+  "code": 8313,
+  "nFiles": 69} }

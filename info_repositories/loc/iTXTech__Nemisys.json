@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.19231295585632,
+  "n_files"            : 370,
+  "n_lines"            : 31720,
+  "files_per_second"   : 168.771524618152,
+  "lines_per_second"   : 14468.7371915886,
+  "report_file"        : "loc/iTXTech__Nemisys.json"},
+"Java" :{
+  "nFiles": 364,
+  "blank": 5192,
+  "comment": 3461,
+  "code": 21872},
+"INI" :{
+  "nFiles": 3,
+  "blank": 177,
+  "comment": 0,
+  "code": 819},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 145},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 8,
+  "code": 21},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 5387,
+  "comment": 3469,
+  "code": 22864,
+  "nFiles": 370} }

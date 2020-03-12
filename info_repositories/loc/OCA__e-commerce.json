@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.1306262016296,
+  "n_files"            : 109,
+  "n_lines"            : 5708,
+  "files_per_second"   : 3.50137511831657,
+  "lines_per_second"   : 183.356414452761,
+  "report_file"        : "loc/OCA__e-commerce.json"},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 602,
+  "comment": 28,
+  "code": 2482},
+"reStructuredText" :{
+  "nFiles": 34,
+  "blank": 205,
+  "comment": 168,
+  "code": 441},
+"Python" :{
+  "nFiles": 31,
+  "blank": 50,
+  "comment": 66,
+  "code": 369},
+"PO File" :{
+  "nFiles": 18,
+  "blank": 52,
+  "comment": 269,
+  "code": 358},
+"XML" :{
+  "nFiles": 12,
+  "blank": 36,
+  "comment": 29,
+  "code": 238},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 21,
+  "comment": 23,
+  "code": 222},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 31},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 978,
+  "comment": 583,
+  "code": 4147,
+  "nFiles": 109} }

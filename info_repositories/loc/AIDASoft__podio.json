@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 68.9161441326141,
+  "n_files"            : 192,
+  "n_lines"            : 29278,
+  "files_per_second"   : 2.78599452155271,
+  "lines_per_second"   : 424.835143760522,
+  "report_file"        : "loc/AIDASoft__podio.json"},
+"C/C++ Header" :{
+  "nFiles": 88,
+  "blank": 3733,
+  "comment": 1599,
+  "code": 11892},
+"C++" :{
+  "nFiles": 67,
+  "blank": 1539,
+  "comment": 385,
+  "code": 5172},
+"Python" :{
+  "nFiles": 7,
+  "blank": 205,
+  "comment": 189,
+  "code": 1326},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 421,
+  "comment": 0,
+  "code": 1174},
+"XML" :{
+  "nFiles": 2,
+  "blank": 77,
+  "comment": 0,
+  "code": 386},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 46,
+  "comment": 48,
+  "code": 321},
+"CMake" :{
+  "nFiles": 8,
+  "blank": 73,
+  "comment": 67,
+  "code": 282},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 6,
+  "code": 136},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 22,
+  "code": 67},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 10,
+  "code": 53},
+"SUM": {
+  "blank": 6143,
+  "comment": 2326,
+  "code": 20809,
+  "nFiles": 192} }

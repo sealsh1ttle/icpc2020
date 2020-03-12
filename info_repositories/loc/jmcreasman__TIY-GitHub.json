@@ -1,0 +1,164 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2433.83069300652,
+  "n_files"            : 3720,
+  "n_lines"            : 706442,
+  "files_per_second"   : 1.52845471572416,
+  "lines_per_second"   : 290.259302764947,
+  "report_file"        : "loc/jmcreasman__TIY-GitHub.json"},
+"JavaScript" :{
+  "nFiles": 2021,
+  "blank": 56787,
+  "comment": 109582,
+  "code": 273904},
+"JSON" :{
+  "nFiles": 630,
+  "blank": 66,
+  "comment": 0,
+  "code": 69687},
+"Markdown" :{
+  "nFiles": 484,
+  "blank": 20756,
+  "comment": 0,
+  "code": 51645},
+"Python" :{
+  "nFiles": 60,
+  "blank": 4296,
+  "comment": 7774,
+  "code": 20443},
+"C++" :{
+  "nFiles": 71,
+  "blank": 3180,
+  "comment": 2481,
+  "code": 16829},
+"C/C++ Header" :{
+  "nFiles": 94,
+  "blank": 2358,
+  "comment": 1545,
+  "code": 12017},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 4,
+  "comment": 1,
+  "code": 10987},
+"HTML" :{
+  "nFiles": 75,
+  "blank": 736,
+  "comment": 778,
+  "code": 10975},
+"CSS" :{
+  "nFiles": 31,
+  "blank": 1683,
+  "comment": 696,
+  "code": 9976},
+"make" :{
+  "nFiles": 45,
+  "blank": 478,
+  "comment": 483,
+  "code": 1665},
+"XML" :{
+  "nFiles": 14,
+  "blank": 9,
+  "comment": 9,
+  "code": 1367},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 267,
+  "comment": 307,
+  "code": 1326},
+"diff" :{
+  "nFiles": 5,
+  "blank": 113,
+  "comment": 321,
+  "code": 1203},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 422,
+  "comment": 1738,
+  "code": 1039},
+"YAML" :{
+  "nFiles": 84,
+  "blank": 93,
+  "comment": 85,
+  "code": 1010},
+"CoffeeScript" :{
+  "nFiles": 14,
+  "blank": 371,
+  "comment": 388,
+  "code": 762},
+"Sass" :{
+  "nFiles": 18,
+  "blank": 76,
+  "comment": 11,
+  "code": 749},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 88,
+  "comment": 170,
+  "code": 613},
+"C" :{
+  "nFiles": 4,
+  "blank": 71,
+  "comment": 181,
+  "code": 479},
+"Lisp" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 38,
+  "code": 264},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 215},
+"IDL" :{
+  "nFiles": 6,
+  "blank": 38,
+  "comment": 0,
+  "code": 167},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 32,
+  "comment": 11,
+  "code": 116},
+"D" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 106},
+"m4" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 103},
+"Pug" :{
+  "nFiles": 7,
+  "blank": 9,
+  "comment": 0,
+  "code": 102},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 33},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 23},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 12},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 92009,
+  "comment": 126606,
+  "code": 487827,
+  "nFiles": 3720} }

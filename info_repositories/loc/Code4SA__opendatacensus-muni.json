@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.5519959926605,
+  "n_files"            : 128,
+  "n_lines"            : 18320,
+  "files_per_second"   : 4.05679564708917,
+  "lines_per_second"   : 580.628876989637,
+  "report_file"        : "loc/Code4SA__opendatacensus-muni.json"},
+"JavaScript" :{
+  "nFiles": 79,
+  "blank": 1739,
+  "comment": 1576,
+  "code": 8265},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 268,
+  "comment": 28,
+  "code": 1347},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 168,
+  "comment": 10,
+  "code": 1335},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 1021},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 223,
+  "comment": 0,
+  "code": 585},
+"PO File" :{
+  "nFiles": 2,
+  "blank": 183,
+  "comment": 214,
+  "code": 460},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 201,
+  "comment": 0,
+  "code": 359},
+"Python" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 20,
+  "code": 137},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 106},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 3,
+  "code": 12},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 2833,
+  "comment": 1851,
+  "code": 13636,
+  "nFiles": 128} }

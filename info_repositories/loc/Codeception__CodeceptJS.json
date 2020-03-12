@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 114.585342884064,
+  "n_files"            : 613,
+  "n_lines"            : 70678,
+  "files_per_second"   : 5.34972435890188,
+  "lines_per_second"   : 616.815364173682,
+  "report_file"        : "loc/Codeception__CodeceptJS.json"},
+"JavaScript" :{
+  "nFiles": 283,
+  "blank": 4699,
+  "comment": 6477,
+  "code": 27340},
+"Markdown" :{
+  "nFiles": 70,
+  "blank": 8116,
+  "comment": 0,
+  "code": 16888},
+"PHP" :{
+  "nFiles": 91,
+  "blank": 317,
+  "comment": 161,
+  "code": 1984},
+"SVG" :{
+  "nFiles": 13,
+  "blank": 5,
+  "comment": 11,
+  "code": 1590},
+"JSON" :{
+  "nFiles": 44,
+  "blank": 1,
+  "comment": 0,
+  "code": 1018},
+"Mustache" :{
+  "nFiles": 85,
+  "blank": 160,
+  "comment": 0,
+  "code": 674},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 8,
+  "code": 274},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 18,
+  "comment": 1,
+  "code": 273},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 71,
+  "comment": 18,
+  "code": 268},
+"Cucumber" :{
+  "nFiles": 13,
+  "blank": 18,
+  "comment": 0,
+  "code": 138},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 7,
+  "code": 40},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 18,
+  "code": 30},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 13457,
+  "comment": 6701,
+  "code": 50520,
+  "nFiles": 613} }

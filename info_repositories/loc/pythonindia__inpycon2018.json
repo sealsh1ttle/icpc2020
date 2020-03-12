@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.08345913887024,
+  "n_files"            : 78,
+  "n_lines"            : 22692,
+  "files_per_second"   : 37.4377392600537,
+  "lines_per_second"   : 10891.5022985787,
+  "report_file"        : "loc/pythonindia__inpycon2018.json"},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 331,
+  "comment": 93,
+  "code": 11277},
+"JavaScript" :{
+  "nFiles": 18,
+  "blank": 695,
+  "comment": 493,
+  "code": 2929},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 351,
+  "comment": 230,
+  "code": 2681},
+"Sass" :{
+  "nFiles": 13,
+  "blank": 19,
+  "comment": 22,
+  "code": 928},
+"LESS" :{
+  "nFiles": 12,
+  "blank": 18,
+  "comment": 27,
+  "code": 907},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 854},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 1,
+  "code": 719},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 51,
+  "comment": 0,
+  "code": 62},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1467,
+  "comment": 866,
+  "code": 20359,
+  "nFiles": 78} }

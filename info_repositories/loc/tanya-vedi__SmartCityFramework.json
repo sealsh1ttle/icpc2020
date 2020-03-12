@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0594799518585205,
+  "n_files"            : 2,
+  "n_lines"            : 137,
+  "files_per_second"   : 33.6247750293614,
+  "lines_per_second"   : 2303.29708951126,
+  "report_file"        : "loc/tanya-vedi__SmartCityFramework.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 0,
+  "code": 94},
+"SUM": {
+  "blank": 43,
+  "comment": 0,
+  "code": 94,
+  "nFiles": 2} }

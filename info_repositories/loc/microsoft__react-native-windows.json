@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.9396848678589,
+  "n_files"            : 1721,
+  "n_lines"            : 204149,
+  "files_per_second"   : 95.9325658547871,
+  "lines_per_second"   : 11379.7428162051,
+  "report_file"        : "loc/microsoft__react-native-windows.json"},
+"C#" :{
+  "nFiles": 498,
+  "blank": 8686,
+  "comment": 14748,
+  "code": 49163},
+"C++" :{
+  "nFiles": 249,
+  "blank": 7082,
+  "comment": 2896,
+  "code": 42079},
+"C/C++ Header" :{
+  "nFiles": 284,
+  "blank": 3703,
+  "comment": 2300,
+  "code": 15675},
+"JavaScript" :{
+  "nFiles": 205,
+  "blank": 2058,
+  "comment": 5539,
+  "code": 12575},
+"TypeScript" :{
+  "nFiles": 89,
+  "blank": 812,
+  "comment": 800,
+  "code": 8665},
+"XML" :{
+  "nFiles": 92,
+  "blank": 174,
+  "comment": 317,
+  "code": 7908},
+"Markdown" :{
+  "nFiles": 140,
+  "blank": 1753,
+  "comment": 0,
+  "code": 4077},
+"JSON" :{
+  "nFiles": 28,
+  "blank": 0,
+  "comment": 0,
+  "code": 3362},
+"MSBuild script" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 85,
+  "code": 2670},
+"YAML" :{
+  "nFiles": 16,
+  "blank": 270,
+  "comment": 132,
+  "code": 1496},
+"Windows Module Definition" :{
+  "nFiles": 15,
+  "blank": 15,
+  "comment": 48,
+  "code": 1277},
+"PowerShell" :{
+  "nFiles": 14,
+  "blank": 244,
+  "comment": 120,
+  "code": 939},
+"XAML" :{
+  "nFiles": 31,
+  "blank": 72,
+  "comment": 24,
+  "code": 856},
+"IDL" :{
+  "nFiles": 30,
+  "blank": 140,
+  "comment": 0,
+  "code": 686},
+"CMake" :{
+  "nFiles": 11,
+  "blank": 73,
+  "comment": 23,
+  "code": 290},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 0,
+  "code": 153},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 12,
+  "code": 81},
+"SUM": {
+  "blank": 25153,
+  "comment": 27044,
+  "code": 151952,
+  "nFiles": 1721} }

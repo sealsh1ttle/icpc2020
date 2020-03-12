@@ -1,0 +1,139 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 75.7859280109406,
+  "n_files"            : 4590,
+  "n_lines"            : 2047657,
+  "files_per_second"   : 60.5653334394399,
+  "lines_per_second"   : 27018.9605609157,
+  "report_file"        : "loc/arduino-org__Arduino.json"},
+"HTML" :{
+  "nFiles": 1236,
+  "blank": 21435,
+  "comment": 8964,
+  "code": 1032644},
+"C/C++ Header" :{
+  "nFiles": 1447,
+  "blank": 31656,
+  "comment": 108993,
+  "code": 193976},
+"C" :{
+  "nFiles": 727,
+  "blank": 34883,
+  "comment": 76273,
+  "code": 157044},
+"PO File" :{
+  "nFiles": 70,
+  "blank": 32552,
+  "comment": 34278,
+  "code": 81342},
+"C++" :{
+  "nFiles": 240,
+  "blank": 8385,
+  "comment": 12004,
+  "code": 38373},
+"make" :{
+  "nFiles": 127,
+  "blank": 16103,
+  "comment": 22715,
+  "code": 27109},
+"Java" :{
+  "nFiles": 162,
+  "blank": 5822,
+  "comment": 8963,
+  "code": 21501},
+"Arduino Sketch" :{
+  "nFiles": 346,
+  "blank": 7140,
+  "comment": 10986,
+  "code": 19109},
+"Python" :{
+  "nFiles": 69,
+  "blank": 1709,
+  "comment": 2782,
+  "code": 8854},
+"XML" :{
+  "nFiles": 23,
+  "blank": 66,
+  "comment": 250,
+  "code": 6228},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 30,
+  "code": 3059},
+"Assembly" :{
+  "nFiles": 20,
+  "blank": 593,
+  "comment": 726,
+  "code": 1959},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 311,
+  "comment": 120,
+  "code": 1241},
+"C#" :{
+  "nFiles": 21,
+  "blank": 163,
+  "comment": 300,
+  "code": 1062},
+"Ant" :{
+  "nFiles": 3,
+  "blank": 222,
+  "comment": 149,
+  "code": 884},
+"INI" :{
+  "nFiles": 17,
+  "blank": 71,
+  "comment": 0,
+  "code": 678},
+"Bourne Shell" :{
+  "nFiles": 18,
+  "blank": 139,
+  "comment": 79,
+  "code": 642},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 67,
+  "comment": 41,
+  "code": 636},
+"AsciiDoc" :{
+  "nFiles": 21,
+  "blank": 205,
+  "comment": 14,
+  "code": 541},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 185,
+  "comment": 0,
+  "code": 390},
+"MSBuild script" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 28,
+  "code": 345},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 240},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 45,
+  "code": 200},
+"Bourne Again Shell" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 8,
+  "code": 45},
+"DOS Batch" :{
+  "nFiles": 7,
+  "blank": 6,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 161784,
+  "comment": 287748,
+  "code": 1598125,
+  "nFiles": 4590} }

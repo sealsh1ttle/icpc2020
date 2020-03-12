@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2140.19188499451,
+  "n_files"            : 6347,
+  "n_lines"            : 770631,
+  "files_per_second"   : 2.96562193535104,
+  "lines_per_second"   : 360.075657422642,
+  "report_file"        : "loc/kkavita92__vebnb.json"},
+"JavaScript" :{
+  "nFiles": 5086,
+  "blank": 75831,
+  "comment": 135851,
+  "code": 396165},
+"Markdown" :{
+  "nFiles": 544,
+  "blank": 27313,
+  "comment": 2,
+  "code": 69994},
+"JSON" :{
+  "nFiles": 528,
+  "blank": 126,
+  "comment": 0,
+  "code": 56359},
+"XML" :{
+  "nFiles": 11,
+  "blank": 233,
+  "comment": 11,
+  "code": 4099},
+"CoffeeScript" :{
+  "nFiles": 4,
+  "blank": 126,
+  "comment": 71,
+  "code": 662},
+"YAML" :{
+  "nFiles": 58,
+  "blank": 25,
+  "comment": 24,
+  "code": 643},
+"diff" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 13,
+  "code": 588},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 72,
+  "comment": 18,
+  "code": 525},
+"Windows Module Definition" :{
+  "nFiles": 5,
+  "blank": 83,
+  "comment": 0,
+  "code": 411},
+"EJS" :{
+  "nFiles": 49,
+  "blank": 24,
+  "comment": 0,
+  "code": 287},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 50,
+  "comment": 85,
+  "code": 278},
+"make" :{
+  "nFiles": 19,
+  "blank": 89,
+  "comment": 37,
+  "code": 243},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 28,
+  "comment": 3,
+  "code": 151},
+"Handlebars" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 42},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 4,
+  "comment": 1,
+  "code": 24},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 20},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 104017,
+  "comment": 136117,
+  "code": 530497,
+  "nFiles": 6347} }

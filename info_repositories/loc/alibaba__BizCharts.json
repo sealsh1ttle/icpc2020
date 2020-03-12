@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 71.2305998802185,
+  "n_files"            : 249,
+  "n_lines"            : 115390,
+  "files_per_second"   : 3.49568865654254,
+  "lines_per_second"   : 1619.94985573672,
+  "report_file"        : "loc/alibaba__BizCharts.json"},
+"JSON" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 0,
+  "code": 90045},
+"JavaScript" :{
+  "nFiles": 131,
+  "blank": 906,
+  "comment": 253,
+  "code": 10054},
+"Markdown" :{
+  "nFiles": 64,
+  "blank": 2390,
+  "comment": 0,
+  "code": 9583},
+"TypeScript" :{
+  "nFiles": 3,
+  "blank": 84,
+  "comment": 127,
+  "code": 995},
+"JSX" :{
+  "nFiles": 30,
+  "blank": 127,
+  "comment": 82,
+  "code": 664},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 3,
+  "code": 30},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 3526,
+  "comment": 465,
+  "code": 111399,
+  "nFiles": 249} }

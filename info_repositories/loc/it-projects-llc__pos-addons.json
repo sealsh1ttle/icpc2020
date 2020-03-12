@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 254.403963088989,
+  "n_files"            : 877,
+  "n_lines"            : 91826,
+  "files_per_second"   : 3.44727334178057,
+  "lines_per_second"   : 360.945634985567,
+  "report_file"        : "loc/it-projects-llc__pos-addons.json"},
+"JavaScript" :{
+  "nFiles": 140,
+  "blank": 4068,
+  "comment": 2424,
+  "code": 29674},
+"PO File" :{
+  "nFiles": 85,
+  "blank": 2804,
+  "comment": 8089,
+  "code": 8048},
+"Python" :{
+  "nFiles": 250,
+  "blank": 1485,
+  "comment": 1342,
+  "code": 7271},
+"XML" :{
+  "nFiles": 153,
+  "blank": 503,
+  "comment": 300,
+  "code": 6682},
+"HTML" :{
+  "nFiles": 49,
+  "blank": 364,
+  "comment": 306,
+  "code": 5953},
+"CSS" :{
+  "nFiles": 23,
+  "blank": 109,
+  "comment": 112,
+  "code": 4909},
+"reStructuredText" :{
+  "nFiles": 154,
+  "blank": 2019,
+  "comment": 204,
+  "code": 4288},
+"SVG" :{
+  "nFiles": 18,
+  "blank": 2,
+  "comment": 12,
+  "code": 759},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 1,
+  "code": 50},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 11378,
+  "comment": 12791,
+  "code": 67657,
+  "nFiles": 877} }

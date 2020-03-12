@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.45384407043457,
+  "n_files"            : 18,
+  "n_lines"            : 1526,
+  "files_per_second"   : 39.6611990165795,
+  "lines_per_second"   : 3362.38831662779,
+  "report_file"        : "loc/organization__PlayHarder.json"},
+"PHP" :{
+  "nFiles": 15,
+  "blank": 127,
+  "comment": 180,
+  "code": 1142},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 48},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 149,
+  "comment": 180,
+  "code": 1197,
+  "nFiles": 18} }

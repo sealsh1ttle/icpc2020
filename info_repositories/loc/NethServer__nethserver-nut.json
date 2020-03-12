@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.1057460308075,
+  "n_files"            : 32,
+  "n_lines"            : 14899,
+  "files_per_second"   : 1.32748432506936,
+  "lines_per_second"   : 618.068404975264,
+  "report_file"        : "loc/NethServer__nethserver-nut.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 0,
+  "code": 12137},
+"Vuejs Component" :{
+  "nFiles": 6,
+  "blank": 50,
+  "comment": 83,
+  "code": 1390},
+"PHP" :{
+  "nFiles": 7,
+  "blank": 58,
+  "comment": 71,
+  "code": 392},
+"Python" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 42,
+  "code": 158},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 75},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 22,
+  "code": 66},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 48,
+  "code": 51},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 37},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 23,
+  "code": 36},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 237,
+  "comment": 294,
+  "code": 14368,
+  "nFiles": 32} }

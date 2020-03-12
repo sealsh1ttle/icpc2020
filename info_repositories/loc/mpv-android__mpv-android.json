@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.3795390129089,
+  "n_files"            : 104,
+  "n_lines"            : 7069,
+  "files_per_second"   : 3.42335675191806,
+  "lines_per_second"   : 232.689508454892,
+  "report_file"        : "loc/mpv-android__mpv-android.json"},
+"Kotlin" :{
+  "nFiles": 13,
+  "blank": 395,
+  "comment": 175,
+  "code": 1810},
+"XML" :{
+  "nFiles": 46,
+  "blank": 223,
+  "comment": 90,
+  "code": 1312},
+"Java" :{
+  "nFiles": 10,
+  "blank": 191,
+  "comment": 396,
+  "code": 816},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 133,
+  "comment": 66,
+  "code": 584},
+"C++" :{
+  "nFiles": 7,
+  "blank": 101,
+  "comment": 11,
+  "code": 444},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 0,
+  "code": 76},
+"make" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 71},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 1,
+  "code": 48},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 0,
+  "code": 32},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 1118,
+  "comment": 739,
+  "code": 5212,
+  "nFiles": 104} }

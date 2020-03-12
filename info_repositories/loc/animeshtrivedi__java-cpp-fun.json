@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.14501690864563,
+  "n_files"            : 11,
+  "n_lines"            : 945,
+  "files_per_second"   : 75.853223618772,
+  "lines_per_second"   : 6516.48148361269,
+  "report_file"        : "loc/animeshtrivedi__java-cpp-fun.json"},
+"Java" :{
+  "nFiles": 4,
+  "blank": 62,
+  "comment": 95,
+  "code": 377},
+"C++" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 28,
+  "code": 140},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 53},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 17,
+  "code": 46},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 42},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 25},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 18},
+"SUM": {
+  "blank": 100,
+  "comment": 144,
+  "code": 701,
+  "nFiles": 11} }

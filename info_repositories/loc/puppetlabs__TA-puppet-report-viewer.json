@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.64699196815491,
+  "n_files"            : 480,
+  "n_lines"            : 135758,
+  "files_per_second"   : 103.292625270145,
+  "lines_per_second"   : 29214.1671279675,
+  "report_file"        : "loc/puppetlabs__TA-puppet-report-viewer.json"},
+"Python" :{
+  "nFiles": 435,
+  "blank": 19803,
+  "comment": 27142,
+  "code": 73259},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 1775,
+  "comment": 1703,
+  "code": 8382},
+"XML" :{
+  "nFiles": 15,
+  "blank": 0,
+  "comment": 0,
+  "code": 1532},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 1257},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 5,
+  "code": 188},
+"C" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 22,
+  "code": 178},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 55,
+  "comment": 0,
+  "code": 173},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 84,
+  "code": 147},
+"SUM": {
+  "blank": 21686,
+  "comment": 28956,
+  "code": 85116,
+  "nFiles": 480} }

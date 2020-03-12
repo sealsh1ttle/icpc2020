@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.365540027618408,
+  "n_files"            : 3,
+  "n_lines"            : 45,
+  "files_per_second"   : 8.20703554558938,
+  "lines_per_second"   : 123.105533183841,
+  "report_file"        : "loc/kubernetes__cloud-provider-sample.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 18,
+  "comment": 0,
+  "code": 27,
+  "nFiles": 3} }

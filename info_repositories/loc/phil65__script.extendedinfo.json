@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.26203608512878,
+  "n_files"            : 35,
+  "n_lines"            : 16671,
+  "files_per_second"   : 15.4727858808704,
+  "lines_per_second"   : 7369.90895485687,
+  "report_file"        : "loc/phil65__script.extendedinfo.json"},
+"XML" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 17,
+  "code": 5758},
+"PO File" :{
+  "nFiles": 8,
+  "blank": 1341,
+  "comment": 547,
+  "code": 4133},
+"Python" :{
+  "nFiles": 20,
+  "blank": 515,
+  "comment": 189,
+  "code": 3743},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 87,
+  "comment": 0,
+  "code": 341},
+"SUM": {
+  "blank": 1943,
+  "comment": 753,
+  "code": 13975,
+  "nFiles": 35} }

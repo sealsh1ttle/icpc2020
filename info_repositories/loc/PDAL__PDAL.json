@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1037.70881700516,
+  "n_files"            : 4130,
+  "n_lines"            : 816527,
+  "files_per_second"   : 3.97992185507225,
+  "lines_per_second"   : 786.855605945904,
+  "report_file"        : "loc/PDAL__PDAL.json"},
+"C/C++ Header" :{
+  "nFiles": 2757,
+  "blank": 74776,
+  "comment": 93912,
+  "code": 377513},
+"C++" :{
+  "nFiles": 617,
+  "blank": 27846,
+  "comment": 36212,
+  "code": 124163},
+"HTML" :{
+  "nFiles": 128,
+  "blank": 4703,
+  "comment": 874,
+  "code": 15671},
+"reStructuredText" :{
+  "nFiles": 243,
+  "blank": 6027,
+  "comment": 5735,
+  "code": 9529},
+"CMake" :{
+  "nFiles": 158,
+  "blank": 1010,
+  "comment": 1853,
+  "code": 5045},
+"Python" :{
+  "nFiles": 38,
+  "blank": 1704,
+  "comment": 3168,
+  "code": 4811},
+"Markdown" :{
+  "nFiles": 25,
+  "blank": 1301,
+  "comment": 0,
+  "code": 4316},
+"XML" :{
+  "nFiles": 10,
+  "blank": 7,
+  "comment": 12,
+  "code": 2300},
+"CSS" :{
+  "nFiles": 15,
+  "blank": 412,
+  "comment": 234,
+  "code": 2160},
+"JSON" :{
+  "nFiles": 48,
+  "blank": 4,
+  "comment": 0,
+  "code": 1812},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 4,
+  "code": 1694},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 471,
+  "comment": 1018,
+  "code": 1693},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 95,
+  "comment": 5,
+  "code": 842},
+"Bourne Shell" :{
+  "nFiles": 31,
+  "blank": 114,
+  "comment": 118,
+  "code": 598},
+"make" :{
+  "nFiles": 3,
+  "blank": 92,
+  "comment": 46,
+  "code": 584},
+"DOS Batch" :{
+  "nFiles": 14,
+  "blank": 103,
+  "comment": 26,
+  "code": 501},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 25,
+  "comment": 11,
+  "code": 437},
+"m4" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 60,
+  "code": 393},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 227},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 1,
+  "code": 59},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 26},
+"R" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 24},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 20},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 118798,
+  "comment": 143305,
+  "code": 554424,
+  "nFiles": 4130} }

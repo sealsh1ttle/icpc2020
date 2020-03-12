@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.33828997612,
+  "n_files"            : 27,
+  "n_lines"            : 1432,
+  "files_per_second"   : 5.05779943030077,
+  "lines_per_second"   : 268.250695710767,
+  "report_file"        : "loc/theforeman__prprocessor.json"},
+"Ruby" :{
+  "nFiles": 15,
+  "blank": 192,
+  "comment": 8,
+  "code": 747},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 17,
+  "code": 365},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 46},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 10},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 15,
+  "code": 7},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 211,
+  "comment": 40,
+  "code": 1181,
+  "nFiles": 27} }

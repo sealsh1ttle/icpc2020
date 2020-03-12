@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11944.5660409927,
+  "n_files"            : 25162,
+  "n_lines"            : 2792625,
+  "files_per_second"   : 2.10656460131294,
+  "lines_per_second"   : 233.79878267791,
+  "report_file"        : "loc/microsoft__TypeScript.json"},
+"JavaScript" :{
+  "nFiles": 9865,
+  "blank": 50617,
+  "comment": 180414,
+  "code": 1212650},
+"TypeScript" :{
+  "nFiles": 14116,
+  "blank": 80269,
+  "comment": 720756,
+  "code": 497496},
+"JSON" :{
+  "nFiles": 1155,
+  "blank": 99,
+  "comment": 0,
+  "code": 42475},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 2188,
+  "comment": 0,
+  "code": 5466},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 9,
+  "code": 71},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 14,
+  "code": 49},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 21},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 133192,
+  "comment": 901193,
+  "code": 1758240,
+  "nFiles": 25162} }

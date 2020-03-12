@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 210.374321937561,
+  "n_files"            : 818,
+  "n_lines"            : 54366,
+  "files_per_second"   : 3.88830724427852,
+  "lines_per_second"   : 258.425075357513,
+  "report_file"        : "loc/EasyCorp__EasyAdminBundle.json"},
+"PHP" :{
+  "nFiles": 174,
+  "blank": 2614,
+  "comment": 3300,
+  "code": 11130},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 12,
+  "code": 8882},
+"XML" :{
+  "nFiles": 61,
+  "blank": 339,
+  "comment": 361,
+  "code": 7856},
+"YAML" :{
+  "nFiles": 396,
+  "blank": 349,
+  "comment": 834,
+  "code": 5147},
+"reStructuredText" :{
+  "nFiles": 21,
+  "blank": 1556,
+  "comment": 2997,
+  "code": 2228},
+"Twig" :{
+  "nFiles": 58,
+  "blank": 297,
+  "comment": 38,
+  "code": 1964},
+"Sass" :{
+  "nFiles": 14,
+  "blank": 248,
+  "comment": 57,
+  "code": 1749},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 160,
+  "comment": 0,
+  "code": 623},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 417},
+"JavaScript" :{
+  "nFiles": 64,
+  "blank": 134,
+  "comment": 207,
+  "code": 416},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 45,
+  "comment": 0,
+  "code": 264},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 19,
+  "comment": 22,
+  "code": 101},
+"SUM": {
+  "blank": 5761,
+  "comment": 7828,
+  "code": 40777,
+  "nFiles": 818} }

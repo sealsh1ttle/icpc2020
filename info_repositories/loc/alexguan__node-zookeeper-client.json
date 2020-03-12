@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.51208209991455,
+  "n_files"            : 39,
+  "n_lines"            : 9065,
+  "files_per_second"   : 5.19163655046364,
+  "lines_per_second"   : 1206.72270076802,
+  "report_file"        : "loc/alexguan__node-zookeeper-client.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 3358},
+"JavaScript" :{
+  "nFiles": 32,
+  "blank": 792,
+  "comment": 840,
+  "code": 3106},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 279,
+  "comment": 0,
+  "code": 679},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 1078,
+  "comment": 840,
+  "code": 7147,
+  "nFiles": 39} }

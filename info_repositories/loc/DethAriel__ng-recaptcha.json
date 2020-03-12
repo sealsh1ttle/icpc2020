@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.1110520362854,
+  "n_files"            : 61,
+  "n_lines"            : 3052,
+  "files_per_second"   : 2.250004902737,
+  "lines_per_second"   : 112.574015789399,
+  "report_file"        : "loc/DethAriel__ng-recaptcha.json"},
+"TypeScript" :{
+  "nFiles": 34,
+  "blank": 168,
+  "comment": 78,
+  "code": 1286},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 315,
+  "comment": 0,
+  "code": 559},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 2,
+  "comment": 0,
+  "code": 265},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 3,
+  "code": 153},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 8,
+  "comment": 0,
+  "code": 150},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 528,
+  "comment": 81,
+  "code": 2443,
+  "nFiles": 61} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.37844705581665,
+  "n_files"            : 67,
+  "n_lines"            : 4163,
+  "files_per_second"   : 177.039295114665,
+  "lines_per_second"   : 11000.2176949604,
+  "report_file"        : "loc/ONSdigital__dp.json"},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 343,
+  "comment": 0,
+  "code": 955},
+"Go" :{
+  "nFiles": 14,
+  "blank": 169,
+  "comment": 39,
+  "code": 905},
+"Pug" :{
+  "nFiles": 5,
+  "blank": 161,
+  "comment": 0,
+  "code": 641},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 528},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 25,
+  "comment": 0,
+  "code": 169},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 2,
+  "code": 91},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 59},
+"make" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 0,
+  "code": 44},
+"SUM": {
+  "blank": 729,
+  "comment": 42,
+  "code": 3392,
+  "nFiles": 67} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 96.3188760280609,
+  "n_files"            : 504,
+  "n_lines"            : 79265,
+  "files_per_second"   : 5.23261919972123,
+  "lines_per_second"   : 822.943573146633,
+  "report_file"        : "loc/clover__remote-pay-cloud-api.json"},
+"JavaScript" :{
+  "nFiles": 494,
+  "blank": 6986,
+  "comment": 28848,
+  "code": 27125},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 4534,
+  "comment": 381,
+  "code": 5596},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5480},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 28,
+  "code": 150},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 11571,
+  "comment": 29259,
+  "code": 38435,
+  "nFiles": 504} }

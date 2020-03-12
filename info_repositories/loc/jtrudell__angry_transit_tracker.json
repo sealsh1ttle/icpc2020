@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.1745989322662,
+  "n_files"            : 104,
+  "n_lines"            : 2227,
+  "files_per_second"   : 3.82710340120287,
+  "lines_per_second"   : 81.951531485373,
+  "report_file"        : "loc/jtrudell__angry_transit_tracker.json"},
+"Ruby" :{
+  "nFiles": 71,
+  "blank": 228,
+  "comment": 249,
+  "code": 933},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"JSX" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 0,
+  "code": 129},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 45,
+  "comment": 118,
+  "code": 128},
+"ERB" :{
+  "nFiles": 8,
+  "blank": 8,
+  "comment": 0,
+  "code": 66},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 15},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 14},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 7,
+  "comment": 33,
+  "code": 13},
+"SUM": {
+  "blank": 329,
+  "comment": 404,
+  "code": 1494,
+  "nFiles": 104} }

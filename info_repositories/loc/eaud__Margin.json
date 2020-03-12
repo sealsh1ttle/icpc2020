@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 74.5887949466705,
+  "n_files"            : 256,
+  "n_lines"            : 22656,
+  "files_per_second"   : 3.43215090393986,
+  "lines_per_second"   : 303.745354998677,
+  "report_file"        : "loc/eaud__Margin.json"},
+"CSS" :{
+  "nFiles": 24,
+  "blank": 1584,
+  "comment": 281,
+  "code": 8793},
+"Sass" :{
+  "nFiles": 134,
+  "blank": 1593,
+  "comment": 1672,
+  "code": 7155},
+"JavaScript" :{
+  "nFiles": 70,
+  "blank": 152,
+  "comment": 96,
+  "code": 729},
+"Handlebars" :{
+  "nFiles": 19,
+  "blank": 30,
+  "comment": 8,
+  "code": 320},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 82},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 49},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 8,
+  "code": 5},
+"SUM": {
+  "blank": 3400,
+  "comment": 2065,
+  "code": 17191,
+  "nFiles": 256} }

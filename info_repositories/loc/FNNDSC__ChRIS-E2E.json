@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.13610792160034,
+  "n_files"            : 28,
+  "n_lines"            : 2354,
+  "files_per_second"   : 6.76964927674475,
+  "lines_per_second"   : 569.13408562347,
+  "report_file"        : "loc/FNNDSC__ChRIS-E2E.json"},
+"Python" :{
+  "nFiles": 10,
+  "blank": 349,
+  "comment": 200,
+  "code": 895},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 56,
+  "comment": 34,
+  "code": 280},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 17,
+  "comment": 1,
+  "code": 201},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 185},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 114},
+"SUM": {
+  "blank": 444,
+  "comment": 235,
+  "code": 1675,
+  "nFiles": 28} }

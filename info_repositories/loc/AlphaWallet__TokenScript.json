@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.399159908294678,
+  "n_files"            : 50,
+  "n_lines"            : 9545,
+  "files_per_second"   : 125.263081188724,
+  "lines_per_second"   : 23912.7221989275,
+  "report_file"        : "loc/AlphaWallet__TokenScript.json"},
+"XSD" :{
+  "nFiles": 4,
+  "blank": 268,
+  "comment": 44,
+  "code": 3343},
+"XML" :{
+  "nFiles": 21,
+  "blank": 156,
+  "comment": 135,
+  "code": 2247},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 742,
+  "comment": 0,
+  "code": 1074},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 991},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 0,
+  "code": 285},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 79},
+"make" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 43,
+  "code": 70},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 10},
+"SUM": {
+  "blank": 1204,
+  "comment": 223,
+  "code": 8118,
+  "nFiles": 50} }

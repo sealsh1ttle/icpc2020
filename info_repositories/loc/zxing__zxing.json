@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.6647300720215,
+  "n_files"            : 1224,
+  "n_lines"            : 206842,
+  "files_per_second"   : 62.2434173017955,
+  "lines_per_second"   : 10518.4255894918,
+  "report_file"        : "loc/zxing__zxing.json"},
+"HTML" :{
+  "nFiles": 633,
+  "blank": 309,
+  "comment": 22343,
+  "code": 107014},
+"Java" :{
+  "nFiles": 499,
+  "blank": 7633,
+  "comment": 16427,
+  "code": 43584},
+"XML" :{
+  "nFiles": 65,
+  "blank": 385,
+  "comment": 872,
+  "code": 5507},
+"Maven" :{
+  "nFiles": 8,
+  "blank": 79,
+  "comment": 116,
+  "code": 1160},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 13,
+  "comment": 80,
+  "code": 731},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 229},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 45,
+  "comment": 0,
+  "code": 117},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 23,
+  "code": 77},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 46,
+  "code": 33},
+"SUM": {
+  "blank": 8483,
+  "comment": 39907,
+  "code": 158452,
+  "nFiles": 1224} }

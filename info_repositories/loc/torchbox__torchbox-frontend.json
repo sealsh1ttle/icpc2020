@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 45.9524350166321,
+  "n_files"            : 222,
+  "n_lines"            : 35506,
+  "files_per_second"   : 4.83108239899907,
+  "lines_per_second"   : 772.668520985861,
+  "report_file"        : "loc/torchbox__torchbox-frontend.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 18519},
+"JavaScript" :{
+  "nFiles": 148,
+  "blank": 619,
+  "comment": 442,
+  "code": 11806},
+"Sass" :{
+  "nFiles": 48,
+  "blank": 603,
+  "comment": 33,
+  "code": 3123},
+"SVG" :{
+  "nFiles": 19,
+  "blank": 0,
+  "comment": 6,
+  "code": 234},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 0,
+  "code": 69},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 1262,
+  "comment": 481,
+  "code": 33763,
+  "nFiles": 222} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.94409608840942,
+  "n_files"            : 21,
+  "n_lines"            : 1196,
+  "files_per_second"   : 3.5329173162171,
+  "lines_per_second"   : 201.20805286646,
+  "report_file"        : "loc/camphor-__hanreki.json"},
+"Ruby" :{
+  "nFiles": 17,
+  "blank": 188,
+  "comment": 39,
+  "code": 862},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 42},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 5},
+"SUM": {
+  "blank": 209,
+  "comment": 40,
+  "code": 947,
+  "nFiles": 21} }

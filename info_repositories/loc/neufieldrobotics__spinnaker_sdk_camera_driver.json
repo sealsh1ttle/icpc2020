@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.7562000751495,
+  "n_files"            : 30,
+  "n_lines"            : 3209,
+  "files_per_second"   : 1.90401237969271,
+  "lines_per_second"   : 203.665857547797,
+  "report_file"        : "loc/neufieldrobotics__spinnaker_sdk_camera_driver.json"},
+"C++" :{
+  "nFiles": 9,
+  "blank": 498,
+  "comment": 169,
+  "code": 1386},
+"C/C++ Header" :{
+  "nFiles": 7,
+  "blank": 102,
+  "comment": 43,
+  "code": 284},
+"XML" :{
+  "nFiles": 6,
+  "blank": 34,
+  "comment": 29,
+  "code": 174},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 20,
+  "code": 132},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 125},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 25,
+  "code": 88},
+"Python" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 7},
+"Gencat NLS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 724,
+  "comment": 286,
+  "code": 2199,
+  "nFiles": 30} }

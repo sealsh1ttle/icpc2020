@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.045264005661,
+  "n_files"            : 138,
+  "n_lines"            : 6357,
+  "files_per_second"   : 13.7378171367353,
+  "lines_per_second"   : 632.835532885697,
+  "report_file"        : "loc/caseykim__coders_ink.json"},
+"Ruby" :{
+  "nFiles": 93,
+  "blank": 514,
+  "comment": 529,
+  "code": 1971},
+"ERB" :{
+  "nFiles": 30,
+  "blank": 71,
+  "comment": 0,
+  "code": 718},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 107,
+  "comment": 94,
+  "code": 267},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 336,
+  "comment": 1195,
+  "code": 157},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 16,
+  "code": 77},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 0,
+  "code": 63},
+"SUM": {
+  "blank": 1085,
+  "comment": 1837,
+  "code": 3435,
+  "nFiles": 138} }

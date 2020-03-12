@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 116.679023981094,
+  "n_files"            : 324,
+  "n_lines"            : 59894,
+  "files_per_second"   : 2.77684873377496,
+  "lines_per_second"   : 513.322771792338,
+  "report_file"        : "loc/attivio__searchui.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 18857},
+"SVG" :{
+  "nFiles": 126,
+  "blank": 2011,
+  "comment": 102,
+  "code": 17711},
+"LESS" :{
+  "nFiles": 122,
+  "blank": 1618,
+  "comment": 1771,
+  "code": 10678},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 155,
+  "comment": 488,
+  "code": 1508},
+"Java" :{
+  "nFiles": 20,
+  "blank": 277,
+  "comment": 383,
+  "code": 1377},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 376,
+  "comment": 0,
+  "code": 777},
+"Maven" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 13,
+  "code": 500},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 360,
+  "comment": 0,
+  "code": 432},
+"XML" :{
+  "nFiles": 10,
+  "blank": 30,
+  "comment": 12,
+  "code": 269},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 38,
+  "code": 98},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 5,
+  "code": 7},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 4854,
+  "comment": 2812,
+  "code": 52228,
+  "nFiles": 324} }

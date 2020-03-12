@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.540692090988159,
+  "n_files"            : 5,
+  "n_lines"            : 551,
+  "files_per_second"   : 9.24740731987052,
+  "lines_per_second"   : 1019.06428664973,
+  "report_file"        : "loc/aklt__plantuml-syntax.json"},
+"vim script" :{
+  "nFiles": 4,
+  "blank": 53,
+  "comment": 43,
+  "code": 438},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 58,
+  "comment": 43,
+  "code": 450,
+  "nFiles": 5} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.766412019729614,
+  "n_files"            : 4,
+  "n_lines"            : 225,
+  "files_per_second"   : 5.21912482715391,
+  "lines_per_second"   : 293.575771527407,
+  "report_file"        : "loc/dart-lang__homebrew-dart.json"},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 6,
+  "code": 139},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 45,
+  "comment": 6,
+  "code": 174,
+  "nFiles": 4} }

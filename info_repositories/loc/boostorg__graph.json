@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 396.459734916687,
+  "n_files"            : 702,
+  "n_lines"            : 151425,
+  "files_per_second"   : 1.77067161725142,
+  "lines_per_second"   : 381.9429482084,
+  "report_file"        : "loc/boostorg__graph.json"},
+"C/C++ Header" :{
+  "nFiles": 210,
+  "blank": 8620,
+  "comment": 7590,
+  "code": 52498},
+"HTML" :{
+  "nFiles": 181,
+  "blank": 6470,
+  "comment": 1550,
+  "code": 31361},
+"C++" :{
+  "nFiles": 290,
+  "blank": 5213,
+  "comment": 5332,
+  "code": 27836},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 1538},
+"C" :{
+  "nFiles": 1,
+  "blank": 219,
+  "comment": 375,
+  "code": 1016},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 142,
+  "comment": 42,
+  "code": 487},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 55,
+  "comment": 7,
+  "code": 351},
+"TeX" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 37,
+  "code": 271},
+"make" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 16,
+  "code": 91},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 7,
+  "code": 59},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 23,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 27},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 19,
+  "code": 14},
+"C Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 20814,
+  "comment": 15000,
+  "code": 115611,
+  "nFiles": 702} }

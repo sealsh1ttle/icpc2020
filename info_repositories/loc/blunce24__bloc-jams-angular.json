@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.338587045669556,
+  "n_files"            : 25,
+  "n_lines"            : 1659,
+  "files_per_second"   : 73.836256642845,
+  "lines_per_second"   : 4899.7739908192,
+  "report_file"        : "loc/blunce24__bloc-jams-angular.json"},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 160,
+  "comment": 151,
+  "code": 582},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 68,
+  "comment": 72,
+  "code": 411},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 5,
+  "comment": 0,
+  "code": 147},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 30},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 237,
+  "comment": 223,
+  "code": 1199,
+  "nFiles": 25} }

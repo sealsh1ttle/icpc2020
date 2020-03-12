@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 61.4690330028534,
+  "n_files"            : 159,
+  "n_lines"            : 30448,
+  "files_per_second"   : 2.58666831463933,
+  "lines_per_second"   : 495.338848076341,
+  "report_file"        : "loc/iwasrobbed__Down.json"},
+"C" :{
+  "nFiles": 19,
+  "blank": 947,
+  "comment": 440,
+  "code": 19077},
+"Swift" :{
+  "nFiles": 89,
+  "blank": 1292,
+  "comment": 1291,
+  "code": 3303},
+"C/C++ Header" :{
+  "nFiles": 18,
+  "blank": 301,
+  "comment": 370,
+  "code": 1180},
+"XML" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 5,
+  "code": 941},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 313,
+  "comment": 0,
+  "code": 673},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 162},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 57},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 6,
+  "code": 6},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 4},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 3},
+"SUM": {
+  "blank": 2862,
+  "comment": 2114,
+  "code": 25472,
+  "nFiles": 159} }

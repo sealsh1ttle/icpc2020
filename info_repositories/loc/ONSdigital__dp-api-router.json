@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.673621892929077,
+  "n_files"            : 118,
+  "n_lines"            : 13572,
+  "files_per_second"   : 175.172453922046,
+  "lines_per_second"   : 20147.801225678,
+  "report_file"        : "loc/ONSdigital__dp-api-router.json"},
+"Go" :{
+  "nFiles": 95,
+  "blank": 1697,
+  "comment": 2134,
+  "code": 7688},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 424,
+  "comment": 0,
+  "code": 1307},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 117},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 104},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 26},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 14},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 2170,
+  "comment": 2134,
+  "code": 9268,
+  "nFiles": 118} }

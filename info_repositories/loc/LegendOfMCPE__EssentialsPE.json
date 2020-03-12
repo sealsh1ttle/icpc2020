@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.31201195716858,
+  "n_files"            : 113,
+  "n_lines"            : 11222,
+  "files_per_second"   : 86.1272638428254,
+  "lines_per_second"   : 8553.27570658573,
+  "report_file"        : "loc/LegendOfMCPE__EssentialsPE.json"},
+"PHP" :{
+  "nFiles": 104,
+  "blank": 989,
+  "comment": 2758,
+  "code": 6634},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 16,
+  "comment": 38,
+  "code": 673},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 0,
+  "code": 89},
+"SUM": {
+  "blank": 1030,
+  "comment": 2796,
+  "code": 7396,
+  "nFiles": 113} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.16930103302002,
+  "n_files"            : 14,
+  "n_lines"            : 1227,
+  "files_per_second"   : 82.6929390226729,
+  "lines_per_second"   : 7247.44544148711,
+  "report_file"        : "loc/anastop__virgo.json"},
+"Go" :{
+  "nFiles": 12,
+  "blank": 191,
+  "comment": 15,
+  "code": 912},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 47},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 217,
+  "comment": 15,
+  "code": 995,
+  "nFiles": 14} }

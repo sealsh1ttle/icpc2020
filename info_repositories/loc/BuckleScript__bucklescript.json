@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 892.566377878189,
+  "n_files"            : 3796,
+  "n_lines"            : 2072337,
+  "files_per_second"   : 4.25290498732863,
+  "lines_per_second"   : 2321.77354128705,
+  "report_file"        : "loc/BuckleScript__bucklescript.json"},
+"OCaml" :{
+  "nFiles": 1988,
+  "blank": 174159,
+  "comment": 283608,
+  "code": 1123424},
+"JavaScript" :{
+  "nFiles": 861,
+  "blank": 24398,
+  "comment": 5301,
+  "code": 296190},
+"HTML" :{
+  "nFiles": 440,
+  "blank": 13676,
+  "comment": 44,
+  "code": 84415},
+"TeX" :{
+  "nFiles": 39,
+  "blank": 2232,
+  "comment": 1909,
+  "code": 12636},
+"Coq" :{
+  "nFiles": 57,
+  "blank": 4199,
+  "comment": 946,
+  "code": 11101},
+"CSS" :{
+  "nFiles": 100,
+  "blank": 2312,
+  "comment": 1324,
+  "code": 10828},
+"AsciiDoc" :{
+  "nFiles": 39,
+  "blank": 1150,
+  "comment": 33,
+  "code": 3829},
+"Markdown" :{
+  "nFiles": 46,
+  "blank": 1442,
+  "comment": 0,
+  "code": 3627},
+"JSON" :{
+  "nFiles": 98,
+  "blank": 21,
+  "comment": 0,
+  "code": 2755},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 424,
+  "comment": 101,
+  "code": 1795},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1545},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 27,
+  "code": 834},
+"C" :{
+  "nFiles": 5,
+  "blank": 105,
+  "comment": 87,
+  "code": 701},
+"D" :{
+  "nFiles": 28,
+  "blank": 0,
+  "comment": 0,
+  "code": 373},
+"ReasonML" :{
+  "nFiles": 49,
+  "blank": 67,
+  "comment": 22,
+  "code": 347},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 10,
+  "code": 97},
+"Bourne Shell" :{
+  "nFiles": 22,
+  "blank": 20,
+  "comment": 70,
+  "code": 90},
+"C++" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 9,
+  "code": 33},
+"SUM": {
+  "blank": 224226,
+  "comment": 293491,
+  "code": 1554620,
+  "nFiles": 3796} }

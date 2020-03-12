@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 437.048680067062,
+  "n_files"            : 983,
+  "n_lines"            : 113103,
+  "files_per_second"   : 2.24917736818051,
+  "lines_per_second"   : 258.788105669705,
+  "report_file"        : "loc/akka__alpakka.json"},
+"Scala" :{
+  "nFiles": 617,
+  "blank": 13552,
+  "comment": 12456,
+  "code": 55627},
+"Java" :{
+  "nFiles": 149,
+  "blank": 3526,
+  "comment": 1795,
+  "code": 15483},
+"Markdown" :{
+  "nFiles": 159,
+  "blank": 3594,
+  "comment": 0,
+  "code": 5522},
+"XML" :{
+  "nFiles": 40,
+  "blank": 84,
+  "comment": 25,
+  "code": 680},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 23,
+  "comment": 23,
+  "code": 582},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 14,
+  "comment": 6,
+  "code": 59},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 22},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"Smalltalk" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 20794,
+  "comment": 14305,
+  "code": 78004,
+  "nFiles": 983} }

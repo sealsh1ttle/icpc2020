@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.757562160491943,
+  "n_files"            : 90,
+  "n_lines"            : 8727,
+  "files_per_second"   : 118.802132278566,
+  "lines_per_second"   : 11519.8467599449,
+  "report_file"        : "loc/wso2__wso2-jenkins-m2release-plugin.json"},
+"Java" :{
+  "nFiles": 28,
+  "blank": 747,
+  "comment": 1198,
+  "code": 3191},
+"XML" :{
+  "nFiles": 21,
+  "blank": 51,
+  "comment": 167,
+  "code": 2139},
+"HTML" :{
+  "nFiles": 36,
+  "blank": 39,
+  "comment": 0,
+  "code": 872},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 2,
+  "code": 207},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 0,
+  "code": 66},
+"SUM": {
+  "blank": 885,
+  "comment": 1367,
+  "code": 6475,
+  "nFiles": 90} }

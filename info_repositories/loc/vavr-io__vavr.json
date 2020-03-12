@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.0366950035095,
+  "n_files"            : 264,
+  "n_lines"            : 122946,
+  "files_per_second"   : 5.7345558793887,
+  "lines_per_second"   : 2670.60873919441,
+  "report_file"        : "loc/vavr-io__vavr.json"},
+"Java" :{
+  "nFiles": 254,
+  "blank": 15168,
+  "comment": 34162,
+  "code": 68573},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 548,
+  "comment": 0,
+  "code": 3576},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 119,
+  "comment": 0,
+  "code": 296},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 27,
+  "code": 134},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 29,
+  "code": 133},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 41},
+"SUM": {
+  "blank": 15914,
+  "comment": 34220,
+  "code": 72812,
+  "nFiles": 264} }

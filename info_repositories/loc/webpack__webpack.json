@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1219.80180096626,
+  "n_files"            : 2742,
+  "n_lines"            : 108142,
+  "files_per_second"   : 2.24790617445222,
+  "lines_per_second"   : 88.6553864032137,
+  "report_file"        : "loc/webpack__webpack.json"},
+"JavaScript" :{
+  "nFiles": 2478,
+  "blank": 7039,
+  "comment": 7583,
+  "code": 65844},
+"Markdown" :{
+  "nFiles": 104,
+  "blank": 2599,
+  "comment": 0,
+  "code": 17396},
+"JSON" :{
+  "nFiles": 74,
+  "blank": 0,
+  "comment": 0,
+  "code": 3677},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 70,
+  "comment": 28,
+  "code": 941},
+"TypeScript" :{
+  "nFiles": 17,
+  "blank": 38,
+  "comment": 1325,
+  "code": 862},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 37,
+  "comment": 0,
+  "code": 190},
+"WebAssembly" :{
+  "nFiles": 23,
+  "blank": 15,
+  "comment": 0,
+  "code": 171},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 1,
+  "code": 124},
+"CoffeeScript" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 3,
+  "code": 58},
+"LESS" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"Pug" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 8},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 95,
+  "code": 3},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 9816,
+  "comment": 9035,
+  "code": 89291,
+  "nFiles": 2742} }

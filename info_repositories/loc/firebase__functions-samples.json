@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 74.7032849788666,
+  "n_files"            : 323,
+  "n_lines"            : 17323,
+  "files_per_second"   : 4.32377237615958,
+  "lines_per_second"   : 231.890739542453,
+  "report_file"        : "loc/firebase__functions-samples.json"},
+"JavaScript" :{
+  "nFiles": 85,
+  "blank": 660,
+  "comment": 2321,
+  "code": 3758},
+"JSON" :{
+  "nFiles": 99,
+  "blank": 110,
+  "comment": 0,
+  "code": 2383},
+"Markdown" :{
+  "nFiles": 61,
+  "blank": 1106,
+  "comment": 0,
+  "code": 1919},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 153,
+  "comment": 312,
+  "code": 1557},
+"CSS" :{
+  "nFiles": 15,
+  "blank": 50,
+  "comment": 211,
+  "code": 612},
+"XML" :{
+  "nFiles": 12,
+  "blank": 20,
+  "comment": 13,
+  "code": 388},
+"Java" :{
+  "nFiles": 4,
+  "blank": 69,
+  "comment": 82,
+  "code": 313},
+"Objective C" :{
+  "nFiles": 5,
+  "blank": 72,
+  "comment": 117,
+  "code": 271},
+"JSX" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 40,
+  "code": 199},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Handlebars" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 3,
+  "code": 60},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 4,
+  "code": 50},
+"C/C++ Header" :{
+  "nFiles": 5,
+  "blank": 22,
+  "comment": 92,
+  "code": 22},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 21,
+  "code": 5},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 2341,
+  "comment": 3253,
+  "code": 11729,
+  "nFiles": 323} }

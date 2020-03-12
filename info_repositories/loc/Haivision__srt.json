@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.5122938156128,
+  "n_files"            : 159,
+  "n_lines"            : 64731,
+  "files_per_second"   : 7.39112255358859,
+  "lines_per_second"   : 3009.02361016568,
+  "report_file"        : "loc/Haivision__srt.json"},
+"C++" :{
+  "nFiles": 48,
+  "blank": 6069,
+  "comment": 6556,
+  "code": 26432},
+"C/C++ Header" :{
+  "nFiles": 53,
+  "blank": 2462,
+  "comment": 3082,
+  "code": 6720},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 1677,
+  "comment": 0,
+  "code": 5194},
+"C" :{
+  "nFiles": 18,
+  "blank": 535,
+  "comment": 741,
+  "code": 2454},
+"CMake" :{
+  "nFiles": 5,
+  "blank": 234,
+  "comment": 329,
+  "code": 944},
+"Tcl/Tk" :{
+  "nFiles": 6,
+  "blank": 178,
+  "comment": 154,
+  "code": 613},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 48,
+  "comment": 32,
+  "code": 147},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 81},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 28},
+"SUM": {
+  "blank": 11216,
+  "comment": 10902,
+  "code": 42613,
+  "nFiles": 159} }

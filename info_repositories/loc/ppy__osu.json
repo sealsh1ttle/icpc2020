@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.1486420631409,
+  "n_files"            : 1814,
+  "n_lines"            : 163455,
+  "files_per_second"   : 105.780970488561,
+  "lines_per_second"   : 9531.65850672973,
+  "report_file"        : "loc/ppy__osu.json"},
+"C#" :{
+  "nFiles": 1717,
+  "blank": 26097,
+  "comment": 10891,
+  "code": 118865},
+"JSON" :{
+  "nFiles": 31,
+  "blank": 0,
+  "comment": 0,
+  "code": 5666},
+"MSBuild script" :{
+  "nFiles": 25,
+  "blank": 0,
+  "comment": 0,
+  "code": 821},
+"XML" :{
+  "nFiles": 28,
+  "blank": 1,
+  "comment": 4,
+  "code": 812},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 68,
+  "comment": 0,
+  "code": 158},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 24},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 14},
+"INI" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 26171,
+  "comment": 10897,
+  "code": 126387,
+  "nFiles": 1814} }

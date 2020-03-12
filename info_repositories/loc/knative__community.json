@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0998480319976807,
+  "n_files"            : 15,
+  "n_lines"            : 2398,
+  "files_per_second"   : 150.228298944825,
+  "lines_per_second"   : 24016.4973913127,
+  "report_file"        : "loc/knative__community.json"},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 605,
+  "comment": 0,
+  "code": 1793},
+"SUM": {
+  "blank": 605,
+  "comment": 0,
+  "code": 1793,
+  "nFiles": 15} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.6446449756622,
+  "n_files"            : 197,
+  "n_lines"            : 48362,
+  "files_per_second"   : 3.00100640460525,
+  "lines_per_second"   : 736.724222028015,
+  "report_file"        : "loc/xi-editor__xi-editor.json"},
+"Rust" :{
+  "nFiles": 100,
+  "blank": 4173,
+  "comment": 5573,
+  "code": 28798},
+"Markdown" :{
+  "nFiles": 36,
+  "blank": 1435,
+  "comment": 0,
+  "code": 3894},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 186,
+  "comment": 73,
+  "code": 1094},
+"Python" :{
+  "nFiles": 15,
+  "blank": 271,
+  "comment": 334,
+  "code": 889},
+"TOML" :{
+  "nFiles": 21,
+  "blank": 146,
+  "comment": 35,
+  "code": 622},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 28,
+  "comment": 4,
+  "code": 371},
+"C++" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 15,
+  "code": 112},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 2,
+  "code": 93},
+"make" :{
+  "nFiles": 5,
+  "blank": 31,
+  "comment": 13,
+  "code": 84},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 44},
+"SUM": {
+  "blank": 6312,
+  "comment": 6049,
+  "code": 36001,
+  "nFiles": 197} }

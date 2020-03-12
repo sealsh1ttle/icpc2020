@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.50759506225586,
+  "n_files"            : 37,
+  "n_lines"            : 3812,
+  "files_per_second"   : 8.20836820721049,
+  "lines_per_second"   : 845.683773132065,
+  "report_file"        : "loc/caltechlibrary__ames.json"},
+"Python" :{
+  "nFiles": 31,
+  "blank": 323,
+  "comment": 272,
+  "code": 2809},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 103,
+  "comment": 0,
+  "code": 201},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 104},
+"SUM": {
+  "blank": 426,
+  "comment": 272,
+  "code": 3114,
+  "nFiles": 37} }

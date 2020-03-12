@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.12953901290894,
+  "n_files"            : 39,
+  "n_lines"            : 3355,
+  "files_per_second"   : 6.36263182563406,
+  "lines_per_second"   : 547.349481410315,
+  "report_file"        : "loc/SMARTRACTECHNOLOGY__smartcosmos-devkit.json"},
+"AsciiDoc" :{
+  "nFiles": 13,
+  "blank": 292,
+  "comment": 26,
+  "code": 930},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 56,
+  "comment": 12,
+  "code": 791},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 67,
+  "comment": 73,
+  "code": 719},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 154},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 18,
+  "code": 149},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 7,
+  "code": 12},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 462,
+  "comment": 136,
+  "code": 2757,
+  "nFiles": 39} }

@@ -1,0 +1,269 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 269.335050106049,
+  "n_files"            : 913,
+  "n_lines"            : 57485,
+  "files_per_second"   : 3.38982987784365,
+  "lines_per_second"   : 213.433045485041,
+  "report_file"        : "loc/hacktoberfest17__programming.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 10391},
+"Java" :{
+  "nFiles": 172,
+  "blank": 1918,
+  "comment": 747,
+  "code": 7512},
+"C++" :{
+  "nFiles": 95,
+  "blank": 663,
+  "comment": 301,
+  "code": 4428},
+"JavaScript" :{
+  "nFiles": 67,
+  "blank": 529,
+  "comment": 411,
+  "code": 3319},
+"Python" :{
+  "nFiles": 127,
+  "blank": 853,
+  "comment": 645,
+  "code": 3157},
+"XML" :{
+  "nFiles": 74,
+  "blank": 238,
+  "comment": 145,
+  "code": 3067},
+"Markdown" :{
+  "nFiles": 37,
+  "blank": 1611,
+  "comment": 0,
+  "code": 2417},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 407,
+  "comment": 38,
+  "code": 2221},
+"C" :{
+  "nFiles": 49,
+  "blank": 385,
+  "comment": 177,
+  "code": 1817},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 696,
+  "comment": 6,
+  "code": 1777},
+"C#" :{
+  "nFiles": 22,
+  "blank": 127,
+  "comment": 92,
+  "code": 879},
+"Bourne Shell" :{
+  "nFiles": 38,
+  "blank": 165,
+  "comment": 204,
+  "code": 820},
+"Verilog-SystemVerilog" :{
+  "nFiles": 17,
+  "blank": 30,
+  "comment": 13,
+  "code": 498},
+"Go" :{
+  "nFiles": 25,
+  "blank": 98,
+  "comment": 15,
+  "code": 457},
+"Rust" :{
+  "nFiles": 7,
+  "blank": 122,
+  "comment": 49,
+  "code": 451},
+"MATLAB" :{
+  "nFiles": 14,
+  "blank": 141,
+  "comment": 72,
+  "code": 370},
+"Ruby" :{
+  "nFiles": 21,
+  "blank": 59,
+  "comment": 2,
+  "code": 318},
+"Gradle" :{
+  "nFiles": 10,
+  "blank": 58,
+  "comment": 9,
+  "code": 257},
+"PHP" :{
+  "nFiles": 15,
+  "blank": 39,
+  "comment": 32,
+  "code": 229},
+"Swift" :{
+  "nFiles": 11,
+  "blank": 54,
+  "comment": 68,
+  "code": 158},
+"Assembly" :{
+  "nFiles": 5,
+  "blank": 62,
+  "comment": 32,
+  "code": 158},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 4,
+  "code": 137},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"F# Script" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 4,
+  "code": 98},
+"Perl" :{
+  "nFiles": 7,
+  "blank": 24,
+  "comment": 1,
+  "code": 84},
+"Racket" :{
+  "nFiles": 8,
+  "blank": 13,
+  "comment": 2,
+  "code": 78},
+"Kotlin" :{
+  "nFiles": 4,
+  "blank": 27,
+  "comment": 9,
+  "code": 61},
+"Haskell" :{
+  "nFiles": 6,
+  "blank": 6,
+  "comment": 4,
+  "code": 56},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 54},
+"Pascal" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 1,
+  "code": 44},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 31},
+"Visual Basic" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 26},
+"make" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 0,
+  "code": 22},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 6,
+  "code": 22},
+"Lua" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 20},
+"Scala" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 2,
+  "code": 17},
+"Clojure" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 17,
+  "code": 10},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 58,
+  "code": 9},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 7},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 55,
+  "code": 5},
+"Prolog" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"PureScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Fortran 77" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 4},
+"Erlang" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"Elm" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"OCaml" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Elixir" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Crystal" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"ProGuard" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 108,
+  "code": 0},
+"SUM": {
+  "blank": 8500,
+  "comment": 3352,
+  "code": 45633,
+  "nFiles": 913} }

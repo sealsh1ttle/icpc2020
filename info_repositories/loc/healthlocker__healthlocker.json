@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.28983116149902,
+  "n_files"            : 358,
+  "n_lines"            : 28854,
+  "files_per_second"   : 156.343404710082,
+  "lines_per_second"   : 12600.9290488959,
+  "report_file"        : "loc/healthlocker__healthlocker.json"},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 2,
+  "code": 13555},
+"Elixir" :{
+  "nFiles": 250,
+  "blank": 1367,
+  "comment": 463,
+  "code": 8302},
+"EEx" :{
+  "nFiles": 76,
+  "blank": 305,
+  "comment": 1,
+  "code": 3009},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 225,
+  "comment": 0,
+  "code": 739},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 85,
+  "comment": 7,
+  "code": 320},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 34,
+  "comment": 35,
+  "code": 207},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 18,
+  "code": 55},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 47},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 5,
+  "code": 33},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 9,
+  "code": 6},
+"SUM": {
+  "blank": 2041,
+  "comment": 540,
+  "code": 26273,
+  "nFiles": 358} }

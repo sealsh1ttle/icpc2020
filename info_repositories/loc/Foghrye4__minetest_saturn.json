@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.6816430091858,
+  "n_files"            : 14,
+  "n_lines"            : 6735,
+  "files_per_second"   : 1.02326891518807,
+  "lines_per_second"   : 492.265438842261,
+  "report_file"        : "loc/Foghrye4__minetest_saturn.json"},
+"Lua" :{
+  "nFiles": 14,
+  "blank": 399,
+  "comment": 60,
+  "code": 6276},
+"SUM": {
+  "blank": 399,
+  "comment": 60,
+  "code": 6276,
+  "nFiles": 14} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.5870561599731,
+  "n_files"            : 112,
+  "n_lines"            : 10436,
+  "files_per_second"   : 4.55524237107865,
+  "lines_per_second"   : 424.450976648007,
+  "report_file"        : "loc/jreeme__firmament-docker.json"},
+"TypeScript" :{
+  "nFiles": 36,
+  "blank": 205,
+  "comment": 300,
+  "code": 4272},
+"XML" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 1633},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 744},
+"Bourne Shell" :{
+  "nFiles": 29,
+  "blank": 126,
+  "comment": 45,
+  "code": 680},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 469,
+  "comment": 475,
+  "code": 638},
+"Dockerfile" :{
+  "nFiles": 11,
+  "blank": 86,
+  "comment": 89,
+  "code": 341},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 6,
+  "comment": 25,
+  "code": 301},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 892,
+  "comment": 934,
+  "code": 8610,
+  "nFiles": 112} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.01482582092285,
+  "n_files"            : 11,
+  "n_lines"            : 440,
+  "files_per_second"   : 3.64863532866813,
+  "lines_per_second"   : 145.945413146725,
+  "report_file"        : "loc/feedhenry-templates__oauth-ios-swift.json"},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 2,
+  "code": 135},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 100},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 70},
+"Swift" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 34,
+  "code": 35},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 38,
+  "comment": 36,
+  "code": 366,
+  "nFiles": 11} }

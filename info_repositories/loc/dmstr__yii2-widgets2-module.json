@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.0843858718872,
+  "n_files"            : 104,
+  "n_lines"            : 13050,
+  "files_per_second"   : 4.14600542868206,
+  "lines_per_second"   : 520.24395042597,
+  "report_file"        : "loc/dmstr__yii2-widgets2-module.json"},
+"PHP" :{
+  "nFiles": 82,
+  "blank": 1052,
+  "comment": 6385,
+  "code": 4407},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 87,
+  "comment": 0,
+  "code": 379},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 167},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 5,
+  "comment": 12,
+  "code": 139},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 13,
+  "code": 109},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 86},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 71},
+"make" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 8,
+  "code": 60},
+"Twig" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 0,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 4},
+"SUM": {
+  "blank": 1192,
+  "comment": 6420,
+  "code": 5438,
+  "nFiles": 104} }

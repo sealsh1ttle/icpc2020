@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.752939224243164,
+  "n_files"            : 82,
+  "n_lines"            : 14205,
+  "files_per_second"   : 108.90653237308,
+  "lines_per_second"   : 18866.0645409708,
+  "report_file"        : "loc/GoogleCloudPlatform__appengine-gcs-client.json"},
+"Java" :{
+  "nFiles": 53,
+  "blank": 923,
+  "comment": 1502,
+  "code": 5949},
+"Python" :{
+  "nFiles": 18,
+  "blank": 976,
+  "comment": 1086,
+  "code": 2974},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 14,
+  "code": 294},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 5,
+  "code": 225},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 85},
+"XML" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 80},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 21},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1959,
+  "comment": 2609,
+  "code": 9637,
+  "nFiles": 82} }

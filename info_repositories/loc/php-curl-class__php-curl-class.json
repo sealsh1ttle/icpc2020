@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.1429550647736,
+  "n_files"            : 174,
+  "n_lines"            : 15739,
+  "files_per_second"   : 2.48064826808793,
+  "lines_per_second"   : 224.384615468023,
+  "report_file"        : "loc/php-curl-class__php-curl-class.json"},
+"PHP" :{
+  "nFiles": 102,
+  "blank": 1456,
+  "comment": 1594,
+  "code": 10690},
+"Bourne Shell" :{
+  "nFiles": 50,
+  "blank": 80,
+  "comment": 83,
+  "code": 710},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 114,
+  "comment": 0,
+  "code": 496},
+"Dockerfile" :{
+  "nFiles": 9,
+  "blank": 52,
+  "comment": 37,
+  "code": 189},
+"Python" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 8,
+  "code": 124},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 36},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 22},
+"SUM": {
+  "blank": 1716,
+  "comment": 1723,
+  "code": 12300,
+  "nFiles": 174} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.680715799331665,
+  "n_files"            : 131,
+  "n_lines"            : 4259,
+  "files_per_second"   : 192.444482893768,
+  "lines_per_second"   : 6256.64925682868,
+  "report_file"        : "loc/devbootstrap__jobs.json"},
+"ERB" :{
+  "nFiles": 43,
+  "blank": 117,
+  "comment": 0,
+  "code": 892},
+"Ruby" :{
+  "nFiles": 61,
+  "blank": 208,
+  "comment": 431,
+  "code": 676},
+"XML" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 599},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 220,
+  "comment": 287,
+  "code": 464},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 40,
+  "code": 79},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 17,
+  "code": 0},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 571,
+  "comment": 796,
+  "code": 2892,
+  "nFiles": 131} }

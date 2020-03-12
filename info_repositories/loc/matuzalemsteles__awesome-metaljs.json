@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.524111032485962,
+  "n_files"            : 3,
+  "n_lines"            : 249,
+  "files_per_second"   : 5.72397796278092,
+  "lines_per_second"   : 475.090170910816,
+  "report_file"        : "loc/matuzalemsteles__awesome-metaljs.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 67,
+  "comment": 0,
+  "code": 182},
+"SUM": {
+  "blank": 67,
+  "comment": 0,
+  "code": 182,
+  "nFiles": 3} }

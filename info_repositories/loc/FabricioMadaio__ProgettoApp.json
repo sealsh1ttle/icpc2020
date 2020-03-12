@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.38794898986816,
+  "n_files"            : 151,
+  "n_lines"            : 20142,
+  "files_per_second"   : 108.793623614613,
+  "lines_per_second"   : 14512.0607075864,
+  "report_file"        : "loc/FabricioMadaio__ProgettoApp.json"},
+"PHP" :{
+  "nFiles": 97,
+  "blank": 1626,
+  "comment": 1179,
+  "code": 6109},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 1821,
+  "comment": 0,
+  "code": 4344},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 441,
+  "comment": 225,
+  "code": 1260},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 208,
+  "comment": 32,
+  "code": 1208},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 2,
+  "code": 800},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 113,
+  "comment": 40,
+  "code": 486},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 70,
+  "code": 64},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 4244,
+  "comment": 1548,
+  "code": 14350,
+  "nFiles": 151} }

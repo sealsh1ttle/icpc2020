@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.80900287628174,
+  "n_files"            : 593,
+  "n_lines"            : 64574,
+  "files_per_second"   : 123.310385802576,
+  "lines_per_second"   : 13427.731623635,
+  "report_file"        : "loc/kubernetes__minikube.json"},
+"Go" :{
+  "nFiles": 283,
+  "blank": 6039,
+  "comment": 5474,
+  "code": 32828},
+"JSON" :{
+  "nFiles": 19,
+  "blank": 1,
+  "comment": 0,
+  "code": 6598},
+"Markdown" :{
+  "nFiles": 149,
+  "blank": 1578,
+  "comment": 0,
+  "code": 4965},
+"YAML" :{
+  "nFiles": 69,
+  "blank": 27,
+  "comment": 207,
+  "code": 2432},
+"make" :{
+  "nFiles": 15,
+  "blank": 221,
+  "comment": 108,
+  "code": 836},
+"Bourne Shell" :{
+  "nFiles": 23,
+  "blank": 230,
+  "comment": 432,
+  "code": 663},
+"Python" :{
+  "nFiles": 3,
+  "blank": 66,
+  "comment": 93,
+  "code": 255},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 36,
+  "comment": 40,
+  "code": 202},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 46,
+  "comment": 33,
+  "code": 201},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 19,
+  "code": 125},
+"PowerShell" :{
+  "nFiles": 5,
+  "blank": 27,
+  "comment": 42,
+  "code": 122},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 24,
+  "comment": 6,
+  "code": 122},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 4,
+  "code": 114},
+"diff" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 31,
+  "code": 86},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 53,
+  "code": 50},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 23},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 8347,
+  "comment": 6544,
+  "code": 49683,
+  "nFiles": 593} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.86464500427246,
+  "n_files"            : 752,
+  "n_lines"            : 68509,
+  "files_per_second"   : 109.54681553554,
+  "lines_per_second"   : 9979.97710840997,
+  "report_file"        : "loc/puppetlabs__bolt.json"},
+"Ruby" :{
+  "nFiles": 367,
+  "blank": 6701,
+  "comment": 2259,
+  "code": 35614},
+"Markdown" :{
+  "nFiles": 67,
+  "blank": 3497,
+  "comment": 0,
+  "code": 8987},
+"JSON" :{
+  "nFiles": 59,
+  "blank": 1,
+  "comment": 0,
+  "code": 6222},
+"Puppet" :{
+  "nFiles": 120,
+  "blank": 96,
+  "comment": 100,
+  "code": 1102},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 168,
+  "comment": 8,
+  "code": 935},
+"YAML" :{
+  "nFiles": 48,
+  "blank": 91,
+  "comment": 40,
+  "code": 779},
+"Bourne Shell" :{
+  "nFiles": 47,
+  "blank": 290,
+  "comment": 81,
+  "code": 724},
+"PowerShell" :{
+  "nFiles": 16,
+  "blank": 45,
+  "comment": 6,
+  "code": 249},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 12,
+  "comment": 0,
+  "code": 156},
+"Python" :{
+  "nFiles": 11,
+  "blank": 41,
+  "comment": 32,
+  "code": 134},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 6,
+  "code": 46},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 25},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 10960,
+  "comment": 2532,
+  "code": 55017,
+  "nFiles": 752} }

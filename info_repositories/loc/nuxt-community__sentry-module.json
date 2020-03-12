@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.19961595535278,
+  "n_files"            : 13,
+  "n_lines"            : 646,
+  "files_per_second"   : 5.91012261407015,
+  "lines_per_second"   : 293.68763143764,
+  "report_file"        : "loc/nuxt-community__sentry-module.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 24,
+  "comment": 9,
+  "code": 204},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 121,
+  "comment": 0,
+  "code": 194},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 7,
+  "code": 25},
+"Vuejs Component" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 153,
+  "comment": 16,
+  "code": 477,
+  "nFiles": 13} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 125.644575119019,
+  "n_files"            : 694,
+  "n_lines"            : 11982,
+  "files_per_second"   : 5.52351742478813,
+  "lines_per_second"   : 95.3642446452613,
+  "report_file"        : "loc/netsells__code-standards.json"},
+"HTML" :{
+  "nFiles": 108,
+  "blank": 405,
+  "comment": 0,
+  "code": 3901},
+"Markdown" :{
+  "nFiles": 200,
+  "blank": 1776,
+  "comment": 0,
+  "code": 3294},
+"JavaScript" :{
+  "nFiles": 299,
+  "blank": 222,
+  "comment": 87,
+  "code": 1578},
+"CSS" :{
+  "nFiles": 34,
+  "blank": 68,
+  "comment": 3,
+  "code": 285},
+"Vuejs Component" :{
+  "nFiles": 46,
+  "blank": 11,
+  "comment": 6,
+  "code": 256},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 88},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Stylus" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2482,
+  "comment": 96,
+  "code": 9404,
+  "nFiles": 694} }

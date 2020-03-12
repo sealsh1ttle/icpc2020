@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.788676977157593,
+  "n_files"            : 60,
+  "n_lines"            : 4002,
+  "files_per_second"   : 76.0767738095274,
+  "lines_per_second"   : 5074.32081309548,
+  "report_file"        : "loc/yescallop__EssentialsNK.json"},
+"Java" :{
+  "nFiles": 53,
+  "blank": 309,
+  "comment": 43,
+  "code": 2587},
+"INI" :{
+  "nFiles": 4,
+  "blank": 172,
+  "comment": 0,
+  "code": 747},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 119},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 483,
+  "comment": 43,
+  "code": 3476,
+  "nFiles": 60} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.8444359302521,
+  "n_files"            : 121,
+  "n_lines"            : 8228,
+  "files_per_second"   : 2.52902971155088,
+  "lines_per_second"   : 171.97402038546,
+  "report_file"        : "loc/Metaswitch__clearwater-infrastructure.json"},
+"Bourne Again Shell" :{
+  "nFiles": 41,
+  "blank": 461,
+  "comment": 898,
+  "code": 1648},
+"Python" :{
+  "nFiles": 15,
+  "blank": 348,
+  "comment": 428,
+  "code": 955},
+"Bourne Shell" :{
+  "nFiles": 45,
+  "blank": 369,
+  "comment": 849,
+  "code": 888},
+"C++" :{
+  "nFiles": 6,
+  "blank": 147,
+  "comment": 138,
+  "code": 590},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 90,
+  "comment": 0,
+  "code": 169},
+"make" :{
+  "nFiles": 6,
+  "blank": 54,
+  "comment": 21,
+  "code": 148},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 1469,
+  "comment": 2334,
+  "code": 4425,
+  "nFiles": 121} }

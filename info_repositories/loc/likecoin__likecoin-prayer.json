@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.96941614151001,
+  "n_files"            : 16,
+  "n_lines"            : 7407,
+  "files_per_second"   : 5.38826464109664,
+  "lines_per_second"   : 2494.42976228768,
+  "report_file"        : "loc/likecoin__likecoin-prayer.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 5832},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 41,
+  "comment": 5,
+  "code": 1466},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 28},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 48,
+  "comment": 5,
+  "code": 7354,
+  "nFiles": 16} }

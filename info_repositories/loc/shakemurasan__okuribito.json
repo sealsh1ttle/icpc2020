@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.52867102622986,
+  "n_files"            : 18,
+  "n_lines"            : 696,
+  "files_per_second"   : 7.11836368324955,
+  "lines_per_second"   : 275.243395752316,
+  "report_file"        : "loc/shakemurasan__okuribito.json"},
+"Ruby" :{
+  "nFiles": 12,
+  "blank": 89,
+  "comment": 13,
+  "code": 337},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 0,
+  "code": 141},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 0,
+  "code": 54},
+"SUM": {
+  "blank": 151,
+  "comment": 13,
+  "code": 532,
+  "nFiles": 18} }

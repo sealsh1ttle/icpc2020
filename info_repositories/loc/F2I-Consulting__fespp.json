@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.1092898845673,
+  "n_files"            : 92,
+  "n_lines"            : 12920,
+  "files_per_second"   : 5.37719570015497,
+  "lines_per_second"   : 755.145309195676,
+  "report_file"        : "loc/F2I-Consulting__fespp.json"},
+"C++" :{
+  "nFiles": 35,
+  "blank": 1033,
+  "comment": 1287,
+  "code": 5089},
+"C/C++ Header" :{
+  "nFiles": 36,
+  "blank": 798,
+  "comment": 1552,
+  "code": 1198},
+"Qt" :{
+  "nFiles": 6,
+  "blank": 16,
+  "comment": 5,
+  "code": 566},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 176,
+  "comment": 0,
+  "code": 427},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 7,
+  "comment": 0,
+  "code": 407},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 49,
+  "comment": 34,
+  "code": 208},
+"XML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 6,
+  "code": 53},
+"SUM": {
+  "blank": 2088,
+  "comment": 2884,
+  "code": 7948,
+  "nFiles": 92} }

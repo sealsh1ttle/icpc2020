@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.19882321357727,
+  "n_files"            : 14,
+  "n_lines"            : 1237,
+  "files_per_second"   : 2.6929171131339,
+  "lines_per_second"   : 237.938462067617,
+  "report_file"        : "loc/arthurrump__NetCore.Versions.json"},
+"F#" :{
+  "nFiles": 8,
+  "blank": 128,
+  "comment": 4,
+  "code": 813},
+"F# Script" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 15,
+  "code": 127},
+"XML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 63},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 184,
+  "comment": 19,
+  "code": 1034,
+  "nFiles": 14} }

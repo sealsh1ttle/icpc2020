@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.79662609100342,
+  "n_files"            : 22,
+  "n_lines"            : 9817,
+  "files_per_second"   : 5.794618556758,
+  "lines_per_second"   : 2585.71683507697,
+  "report_file"        : "loc/JuliaDiffEq__DiffEqDevTools.jl.json"},
+"Julia" :{
+  "nFiles": 15,
+  "blank": 606,
+  "comment": 52,
+  "code": 9017},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 22,
+  "code": 33},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 31},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 28},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 621,
+  "comment": 74,
+  "code": 9122,
+  "nFiles": 22} }

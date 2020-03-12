@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 50.7926561832428,
+  "n_files"            : 249,
+  "n_lines"            : 9853,
+  "files_per_second"   : 4.90228349353678,
+  "lines_per_second"   : 193.984735991237,
+  "report_file"        : "loc/kentcdodds__glamorous-website.json"},
+"Markdown" :{
+  "nFiles": 163,
+  "blank": 957,
+  "comment": 0,
+  "code": 4336},
+"JavaScript" :{
+  "nFiles": 70,
+  "blank": 431,
+  "comment": 211,
+  "code": 3095},
+"SVG" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 1,
+  "code": 651},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 140},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 1,
+  "code": 30},
+"SUM": {
+  "blank": 1388,
+  "comment": 213,
+  "code": 8252,
+  "nFiles": 249} }

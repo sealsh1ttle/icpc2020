@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.8618719577789,
+  "n_files"            : 235,
+  "n_lines"            : 25479,
+  "files_per_second"   : 3.51470865410999,
+  "lines_per_second"   : 381.069199140717,
+  "report_file"        : "loc/hmrc__cgt-calculator-resident-shares-frontend.json"},
+"Scala" :{
+  "nFiles": 170,
+  "blank": 4217,
+  "comment": 2608,
+  "code": 14427},
+"HTML" :{
+  "nFiles": 54,
+  "blank": 460,
+  "comment": 27,
+  "code": 2765},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 88,
+  "comment": 5,
+  "code": 479},
+"XML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 0,
+  "code": 174},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 3,
+  "code": 73},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 0,
+  "code": 62},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 4842,
+  "comment": 2643,
+  "code": 17994,
+  "nFiles": 235} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.88407301902771,
+  "n_files"            : 112,
+  "n_lines"            : 10355,
+  "files_per_second"   : 12.6068301960284,
+  "lines_per_second"   : 1165.56898821316,
+  "report_file"        : "loc/srmiranda__iadopt.json"},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 517,
+  "comment": 9,
+  "code": 2745},
+"Ruby" :{
+  "nFiles": 70,
+  "blank": 521,
+  "comment": 501,
+  "code": 2397},
+"ERB" :{
+  "nFiles": 24,
+  "blank": 107,
+  "comment": 0,
+  "code": 777},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 360,
+  "comment": 1179,
+  "code": 423},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 107,
+  "comment": 94,
+  "code": 268},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 17,
+  "code": 71},
+"Haml" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 25},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 18},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1645,
+  "comment": 1803,
+  "code": 6907,
+  "nFiles": 112} }

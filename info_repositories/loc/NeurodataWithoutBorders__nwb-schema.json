@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.3744640350342,
+  "n_files"            : 44,
+  "n_lines"            : 11016,
+  "files_per_second"   : 1.73402677350149,
+  "lines_per_second"   : 434.137248565737,
+  "report_file"        : "loc/NeurodataWithoutBorders__nwb-schema.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2692},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 46,
+  "comment": 1,
+  "code": 2342},
+"reStructuredText" :{
+  "nFiles": 16,
+  "blank": 849,
+  "comment": 520,
+  "code": 1771},
+"Python" :{
+  "nFiles": 7,
+  "blank": 391,
+  "comment": 758,
+  "code": 762},
+"make" :{
+  "nFiles": 3,
+  "blank": 77,
+  "comment": 15,
+  "code": 427},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 67,
+  "comment": 0,
+  "code": 95},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 8},
+"SUM": {
+  "blank": 1455,
+  "comment": 1298,
+  "code": 8263,
+  "nFiles": 44} }

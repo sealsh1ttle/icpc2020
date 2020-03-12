@@ -1,0 +1,169 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3386.21407914162,
+  "n_files"            : 36552,
+  "n_lines"            : 16097108,
+  "files_per_second"   : 10.7943559224896,
+  "lines_per_second"   : 4753.71834851047,
+  "report_file"        : "loc/SlimLP-Y300__chil360-kernel.json"},
+"C" :{
+  "nFiles": 18369,
+  "blank": 1772916,
+  "comment": 1707465,
+  "code": 9325945},
+"C/C++ Header" :{
+  "nFiles": 14892,
+  "blank": 353486,
+  "comment": 593167,
+  "code": 1847504},
+"Assembly" :{
+  "nFiles": 1272,
+  "blank": 42102,
+  "comment": 98955,
+  "code": 215736},
+"XML" :{
+  "nFiles": 146,
+  "blank": 2938,
+  "comment": 270,
+  "code": 41667},
+"make" :{
+  "nFiles": 1603,
+  "blank": 6680,
+  "comment": 7112,
+  "code": 26279},
+"Perl" :{
+  "nFiles": 42,
+  "blank": 3663,
+  "comment": 2940,
+  "code": 17924},
+"Bourne Shell" :{
+  "nFiles": 72,
+  "blank": 715,
+  "comment": 1603,
+  "code": 4186},
+"yacc" :{
+  "nFiles": 7,
+  "blank": 506,
+  "comment": 328,
+  "code": 3259},
+"PO File" :{
+  "nFiles": 5,
+  "blank": 791,
+  "comment": 918,
+  "code": 3061},
+"Python" :{
+  "nFiles": 24,
+  "blank": 658,
+  "comment": 452,
+  "code": 3004},
+"C++" :{
+  "nFiles": 3,
+  "blank": 227,
+  "comment": 104,
+  "code": 1583},
+"lex" :{
+  "nFiles": 7,
+  "blank": 236,
+  "comment": 243,
+  "code": 1473},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 1045},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 108,
+  "comment": 3,
+  "code": 911},
+"awk" :{
+  "nFiles": 8,
+  "blank": 89,
+  "comment": 88,
+  "code": 716},
+"Glade" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 0,
+  "code": 603},
+"Bourne Again Shell" :{
+  "nFiles": 31,
+  "blank": 83,
+  "comment": 61,
+  "code": 514},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 0,
+  "code": 378},
+"NAnt script" :{
+  "nFiles": 1,
+  "blank": 93,
+  "comment": 0,
+  "code": 374},
+"Clojure" :{
+  "nFiles": 46,
+  "blank": 50,
+  "comment": 0,
+  "code": 272},
+"Pascal" :{
+  "nFiles": 3,
+  "blank": 49,
+  "comment": 0,
+  "code": 231},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 63,
+  "comment": 0,
+  "code": 218},
+"Objective C++" :{
+  "nFiles": 1,
+  "blank": 55,
+  "comment": 0,
+  "code": 189},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 0,
+  "code": 180},
+"ASP" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 137},
+"m4" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 1,
+  "code": 84},
+"XSLT" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 27,
+  "code": 70},
+"sed" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 30},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 12,
+  "code": 27},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 11},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 2185736,
+  "comment": 2413754,
+  "code": 11497618,
+  "nFiles": 36552} }

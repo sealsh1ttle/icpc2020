@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.79868602752686,
+  "n_files"            : 278,
+  "n_lines"            : 77647,
+  "files_per_second"   : 73.1832001869848,
+  "lines_per_second"   : 20440.4890104993,
+  "report_file"        : "loc/Dogfalo__materialize.json"},
+"JavaScript" :{
+  "nFiles": 59,
+  "blank": 4298,
+  "comment": 4492,
+  "code": 19951},
+"HTML" :{
+  "nFiles": 97,
+  "blank": 1614,
+  "comment": 269,
+  "code": 16323},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 10937},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 1432,
+  "comment": 433,
+  "code": 7880},
+"Sass" :{
+  "nFiles": 42,
+  "blank": 1111,
+  "comment": 273,
+  "code": 6142},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 320,
+  "comment": 0,
+  "code": 897},
+"Pug" :{
+  "nFiles": 58,
+  "blank": 65,
+  "comment": 14,
+  "code": 893},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 257},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 8840,
+  "comment": 5483,
+  "code": 63324,
+  "nFiles": 278} }

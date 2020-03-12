@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7330479621887,
+  "n_files"            : 20,
+  "n_lines"            : 18338,
+  "files_per_second"   : 1.86340358027446,
+  "lines_per_second"   : 1708.55474275366,
+  "report_file"        : "loc/jchancoding__badd_site.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 17573},
+"JSX" :{
+  "nFiles": 5,
+  "blank": 35,
+  "comment": 0,
+  "code": 316},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 28,
+  "comment": 34,
+  "code": 170},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 37},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 20},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 102,
+  "comment": 54,
+  "code": 18182,
+  "nFiles": 20} }

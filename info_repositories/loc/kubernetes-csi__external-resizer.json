@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 493.125669002533,
+  "n_files"            : 1868,
+  "n_lines"            : 808862,
+  "files_per_second"   : 3.78808104590963,
+  "lines_per_second"   : 1640.27559473049,
+  "report_file"        : "loc/kubernetes-csi__external-resizer.json"},
+"Go" :{
+  "nFiles": 1813,
+  "blank": 59792,
+  "comment": 92922,
+  "code": 652092},
+"Assembly" :{
+  "nFiles": 33,
+  "blank": 253,
+  "comment": 300,
+  "code": 1558},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 143,
+  "comment": 468,
+  "code": 808},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 74,
+  "comment": 0,
+  "code": 177},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 25,
+  "code": 124},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 25,
+  "code": 22},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"make" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 13,
+  "code": 3},
+"SUM": {
+  "blank": 60289,
+  "comment": 93760,
+  "code": 654813,
+  "nFiles": 1868} }

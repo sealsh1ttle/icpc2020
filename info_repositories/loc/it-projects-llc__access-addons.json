@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.244530916214,
+  "n_files"            : 160,
+  "n_lines"            : 6943,
+  "files_per_second"   : 3.45986859051265,
+  "lines_per_second"   : 150.136672649558,
+  "report_file"        : "loc/it-projects-llc__access-addons.json"},
+"PO File" :{
+  "nFiles": 29,
+  "blank": 396,
+  "comment": 1015,
+  "code": 1438},
+"Python" :{
+  "nFiles": 61,
+  "blank": 256,
+  "comment": 179,
+  "code": 1091},
+"reStructuredText" :{
+  "nFiles": 37,
+  "blank": 310,
+  "comment": 8,
+  "code": 628},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 126,
+  "comment": 0,
+  "code": 570},
+"XML" :{
+  "nFiles": 20,
+  "blank": 31,
+  "comment": 9,
+  "code": 356},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 25,
+  "comment": 34,
+  "code": 269},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 7,
+  "code": 108},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 1,
+  "code": 49},
+"SUM": {
+  "blank": 1181,
+  "comment": 1253,
+  "code": 4509,
+  "nFiles": 160} }

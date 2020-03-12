@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.35710191726685,
+  "n_files"            : 41,
+  "n_lines"            : 3965,
+  "files_per_second"   : 5.572846544884,
+  "lines_per_second"   : 538.935037816221,
+  "report_file"        : "loc/kobolog__gorb.json"},
+"Go" :{
+  "nFiles": 29,
+  "blank": 709,
+  "comment": 498,
+  "code": 2468},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 64},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 2,
+  "code": 43},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 37},
+"Python" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 17,
+  "code": 37},
+"make" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 2,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 761,
+  "comment": 519,
+  "code": 2685,
+  "nFiles": 41} }

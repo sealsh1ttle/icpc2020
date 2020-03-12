@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 285.175952911377,
+  "n_files"            : 621,
+  "n_lines"            : 493458,
+  "files_per_second"   : 2.17760296287319,
+  "lines_per_second"   : 1730.36328961913,
+  "report_file"        : "loc/yarnpkg__berry.json"},
+"JavaScript" :{
+  "nFiles": 178,
+  "blank": 54519,
+  "comment": 69186,
+  "code": 329534},
+"TypeScript" :{
+  "nFiles": 221,
+  "blank": 6263,
+  "comment": 6808,
+  "code": 21159},
+"JSON" :{
+  "nFiles": 109,
+  "blank": 5,
+  "comment": 0,
+  "code": 1882},
+"Markdown" :{
+  "nFiles": 35,
+  "blank": 858,
+  "comment": 0,
+  "code": 1524},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 157,
+  "comment": 9,
+  "code": 566},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 92,
+  "comment": 28,
+  "code": 291},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 195},
+"SVG" :{
+  "nFiles": 43,
+  "blank": 0,
+  "comment": 0,
+  "code": 163},
+"C" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 41},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 3,
+  "code": 37},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 26},
+"Prolog" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 21,
+  "code": 24},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 61953,
+  "comment": 76056,
+  "code": 355449,
+  "nFiles": 621} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.5313990116119,
+  "n_files"            : 42,
+  "n_lines"            : 3415,
+  "files_per_second"   : 3.35158109330663,
+  "lines_per_second"   : 272.515462705766,
+  "report_file"        : "loc/react-component__banner-anim.json"},
+"JavaScript" :{
+  "nFiles": 17,
+  "blank": 73,
+  "comment": 19,
+  "code": 1272},
+"JSX" :{
+  "nFiles": 6,
+  "blank": 69,
+  "comment": 8,
+  "code": 1206},
+"LESS" :{
+  "nFiles": 5,
+  "blank": 8,
+  "comment": 0,
+  "code": 271},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 0,
+  "code": 139},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 125},
+"TypeScript" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 9,
+  "code": 109},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 31},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 225,
+  "comment": 36,
+  "code": 3154,
+  "nFiles": 42} }

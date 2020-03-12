@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.6698369979858,
+  "n_files"            : 142,
+  "n_lines"            : 30660,
+  "files_per_second"   : 5.13194204976114,
+  "lines_per_second"   : 1108.06579750476,
+  "report_file"        : "loc/Metaswitch__chef.json"},
+"XML" :{
+  "nFiles": 8,
+  "blank": 35,
+  "comment": 102,
+  "code": 12178},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 944,
+  "comment": 44,
+  "code": 5898},
+"Ruby" :{
+  "nFiles": 92,
+  "blank": 687,
+  "comment": 1153,
+  "code": 3735},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 349,
+  "comment": 625,
+  "code": 1791},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 211,
+  "comment": 318,
+  "code": 1052},
+"ERB" :{
+  "nFiles": 16,
+  "blank": 134,
+  "comment": 1,
+  "code": 826},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 154,
+  "comment": 0,
+  "code": 268},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 7,
+  "code": 98},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 5,
+  "code": 14},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 2532,
+  "comment": 2255,
+  "code": 25873,
+  "nFiles": 142} }

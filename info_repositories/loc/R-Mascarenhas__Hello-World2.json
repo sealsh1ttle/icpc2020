@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.198377847671509,
+  "n_files"            : 1,
+  "n_lines"            : 2,
+  "files_per_second"   : 5.04088542010944,
+  "lines_per_second"   : 10.0817708402189,
+  "report_file"        : "loc/R-Mascarenhas__Hello-World2.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 2,
+  "nFiles": 1} }

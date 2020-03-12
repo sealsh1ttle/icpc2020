@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.610276937484741,
+  "n_files"            : 5,
+  "n_lines"            : 130,
+  "files_per_second"   : 8.19300172247623,
+  "lines_per_second"   : 213.018044784382,
+  "report_file"        : "loc/raphamorim__imgStatus.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 54},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 10,
+  "code": 44},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 13,
+  "comment": 10,
+  "code": 107,
+  "nFiles": 5} }

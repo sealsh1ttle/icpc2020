@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0293729305267334,
+  "n_files"            : 3,
+  "n_lines"            : 226,
+  "files_per_second"   : 102.134854990706,
+  "lines_per_second"   : 7694.15907596653,
+  "report_file"        : "loc/steren__awesome-cloudrun.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 0,
+  "code": 171},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 52,
+  "comment": 0,
+  "code": 174,
+  "nFiles": 3} }

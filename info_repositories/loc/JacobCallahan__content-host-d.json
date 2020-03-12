@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.9673728942871,
+  "n_files"            : 36,
+  "n_lines"            : 1548,
+  "files_per_second"   : 3.28246338909041,
+  "lines_per_second"   : 141.145925730888,
+  "report_file"        : "loc/JacobCallahan__content-host-d.json"},
+"Bourne Shell" :{
+  "nFiles": 14,
+  "blank": 101,
+  "comment": 122,
+  "code": 533},
+"Python" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 6,
+  "code": 316},
+"Dockerfile" :{
+  "nFiles": 18,
+  "blank": 79,
+  "comment": 3,
+  "code": 197},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 16,
+  "code": 75},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 54},
+"SUM": {
+  "blank": 226,
+  "comment": 147,
+  "code": 1175,
+  "nFiles": 36} }

@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 146.341498851776,
+  "n_files"            : 2223,
+  "n_lines"            : 698200,
+  "files_per_second"   : 15.1904963215635,
+  "lines_per_second"   : 4771.03217800974,
+  "report_file"        : "loc/terraform-providers__terraform-provider-gitlab.json"},
+"Go" :{
+  "nFiles": 2003,
+  "blank": 67456,
+  "comment": 110891,
+  "code": 494912},
+"Markdown" :{
+  "nFiles": 86,
+  "blank": 2308,
+  "comment": 0,
+  "code": 6256},
+"Assembly" :{
+  "nFiles": 45,
+  "blank": 543,
+  "comment": 765,
+  "code": 5145},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 4403},
+"Protocol Buffers" :{
+  "nFiles": 14,
+  "blank": 425,
+  "comment": 927,
+  "code": 1300},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 141,
+  "comment": 385,
+  "code": 809},
+"YAML" :{
+  "nFiles": 34,
+  "blank": 95,
+  "comment": 4,
+  "code": 446},
+"make" :{
+  "nFiles": 9,
+  "blank": 72,
+  "comment": 11,
+  "code": 256},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 75,
+  "code": 206},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 91},
+"C" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 30,
+  "code": 40},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 9,
+  "code": 33},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 23,
+  "code": 31},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 71136,
+  "comment": 113125,
+  "code": 513939,
+  "nFiles": 2223} }

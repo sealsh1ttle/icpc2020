@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.3092470169067,
+  "n_files"            : 1020,
+  "n_lines"            : 100684,
+  "files_per_second"   : 71.2825768396369,
+  "lines_per_second"   : 7036.28918286471,
+  "report_file"        : "loc/alibaba__Sentinel.json"},
+"Java" :{
+  "nFiles": 822,
+  "blank": 10299,
+  "comment": 21967,
+  "code": 46903},
+"JavaScript" :{
+  "nFiles": 48,
+  "blank": 488,
+  "comment": 467,
+  "code": 5619},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 4595},
+"Maven" :{
+  "nFiles": 53,
+  "blank": 276,
+  "comment": 31,
+  "code": 2826},
+"HTML" :{
+  "nFiles": 39,
+  "blank": 143,
+  "comment": 217,
+  "code": 2562},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 406,
+  "comment": 48,
+  "code": 1897},
+"Markdown" :{
+  "nFiles": 37,
+  "blank": 520,
+  "comment": 0,
+  "code": 1215},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 9,
+  "comment": 26,
+  "code": 96},
+"XML" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 46},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 16},
+"SUM": {
+  "blank": 12152,
+  "comment": 22757,
+  "code": 65775,
+  "nFiles": 1020} }

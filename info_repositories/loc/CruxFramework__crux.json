@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 210.683057069778,
+  "n_files"            : 1095,
+  "n_lines"            : 146270,
+  "files_per_second"   : 5.1973804406936,
+  "lines_per_second"   : 694.265604621236,
+  "report_file"        : "loc/CruxFramework__crux.json"},
+"Java" :{
+  "nFiles": 1063,
+  "blank": 12409,
+  "comment": 37845,
+  "code": 77777},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 540,
+  "comment": 1965,
+  "code": 5703},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 627,
+  "comment": 91,
+  "code": 3712},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 533,
+  "comment": 24,
+  "code": 2911},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 172,
+  "comment": 198,
+  "code": 653},
+"XML" :{
+  "nFiles": 14,
+  "blank": 121,
+  "comment": 166,
+  "code": 555},
+"Maven" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 14,
+  "code": 156},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 12,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 14430,
+  "comment": 40315,
+  "code": 91525,
+  "nFiles": 1095} }

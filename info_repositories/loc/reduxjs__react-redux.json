@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.015645980835,
+  "n_files"            : 120,
+  "n_lines"            : 36367,
+  "files_per_second"   : 3.74816738265515,
+  "lines_per_second"   : 1135.91336004183,
+  "report_file"        : "loc/reduxjs__react-redux.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 18808},
+"Markdown" :{
+  "nFiles": 51,
+  "blank": 2957,
+  "comment": 0,
+  "code": 7156},
+"JavaScript" :{
+  "nFiles": 46,
+  "blank": 1103,
+  "comment": 507,
+  "code": 5459},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 11,
+  "code": 280},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 4112,
+  "comment": 518,
+  "code": 31737,
+  "nFiles": 120} }

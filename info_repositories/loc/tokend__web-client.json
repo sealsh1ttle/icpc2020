@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.00588393211365,
+  "n_files"            : 837,
+  "n_lines"            : 88075,
+  "files_per_second"   : 104.548105755391,
+  "lines_per_second"   : 11001.2836492306,
+  "report_file"        : "loc/tokend__web-client.json"},
+"Vuejs Component" :{
+  "nFiles": 326,
+  "blank": 5285,
+  "comment": 749,
+  "code": 43785},
+"JavaScript" :{
+  "nFiles": 443,
+  "blank": 3992,
+  "comment": 988,
+  "code": 21842},
+"JSON" :{
+  "nFiles": 29,
+  "blank": 10,
+  "comment": 0,
+  "code": 8091},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 230,
+  "comment": 0,
+  "code": 1260},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 209,
+  "comment": 57,
+  "code": 1057},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 1,
+  "code": 288},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 51},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 0,
+  "code": 19},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 9787,
+  "comment": 1796,
+  "code": 76492,
+  "nFiles": 837} }

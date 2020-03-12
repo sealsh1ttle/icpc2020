@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 32.6209738254547,
+  "n_files"            : 131,
+  "n_lines"            : 40118,
+  "files_per_second"   : 4.01582125355738,
+  "lines_per_second"   : 1229.82226755889,
+  "report_file"        : "loc/ox-it__wl-calendar.json"},
+"Java" :{
+  "nFiles": 74,
+  "blank": 4968,
+  "comment": 7251,
+  "code": 19638},
+"Velocity Template Language" :{
+  "nFiles": 18,
+  "blank": 324,
+  "comment": 239,
+  "code": 4428},
+"XSLT" :{
+  "nFiles": 3,
+  "blank": 164,
+  "comment": 52,
+  "code": 937},
+"Maven" :{
+  "nFiles": 9,
+  "blank": 33,
+  "comment": 1,
+  "code": 597},
+"XML" :{
+  "nFiles": 15,
+  "blank": 81,
+  "comment": 43,
+  "code": 540},
+"JSP" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 8,
+  "code": 368},
+"SQL" :{
+  "nFiles": 6,
+  "blank": 31,
+  "comment": 27,
+  "code": 112},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 3,
+  "code": 108},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 16,
+  "code": 69},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 5668,
+  "comment": 7640,
+  "code": 26810,
+  "nFiles": 131} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 162.329128980637,
+  "n_files"            : 719,
+  "n_lines"            : 318906,
+  "files_per_second"   : 4.429272826849,
+  "lines_per_second"   : 1964.56422826023,
+  "report_file"        : "loc/elkarte__Elkarte.json"},
+"PHP" :{
+  "nFiles": 636,
+  "blank": 32574,
+  "comment": 63005,
+  "code": 182619},
+"JavaScript" :{
+  "nFiles": 35,
+  "blank": 2223,
+  "comment": 3550,
+  "code": 13092},
+"CSS" :{
+  "nFiles": 22,
+  "blank": 3046,
+  "comment": 2191,
+  "code": 11788},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2671},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 807},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 178,
+  "comment": 0,
+  "code": 445},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 75,
+  "comment": 90,
+  "code": 237},
+"XML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 137},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 73},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 8,
+  "code": 56},
+"INI" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 4,
+  "code": 12},
+"SUM": {
+  "blank": 38121,
+  "comment": 68848,
+  "code": 211937,
+  "nFiles": 719} }

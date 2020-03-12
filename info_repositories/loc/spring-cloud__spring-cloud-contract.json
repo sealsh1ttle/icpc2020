@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 547.959132909775,
+  "n_files"            : 1393,
+  "n_lines"            : 154468,
+  "files_per_second"   : 2.54216038448504,
+  "lines_per_second"   : 281.896934867649,
+  "report_file"        : "loc/spring-cloud__spring-cloud-contract.json"},
+"Java" :{
+  "nFiles": 691,
+  "blank": 10600,
+  "comment": 17269,
+  "code": 39507},
+"Groovy" :{
+  "nFiles": 269,
+  "blank": 3508,
+  "comment": 5640,
+  "code": 38198},
+"AsciiDoc" :{
+  "nFiles": 43,
+  "blank": 2355,
+  "comment": 126,
+  "code": 9598},
+"Maven" :{
+  "nFiles": 97,
+  "blank": 496,
+  "comment": 544,
+  "code": 8872},
+"JSON" :{
+  "nFiles": 86,
+  "blank": 2,
+  "comment": 0,
+  "code": 2752},
+"Kotlin" :{
+  "nFiles": 26,
+  "blank": 716,
+  "comment": 991,
+  "code": 2266},
+"Bourne Shell" :{
+  "nFiles": 37,
+  "blank": 423,
+  "comment": 679,
+  "code": 2096},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 401,
+  "comment": 3,
+  "code": 1607},
+"YAML" :{
+  "nFiles": 65,
+  "blank": 10,
+  "comment": 91,
+  "code": 1451},
+"Gradle" :{
+  "nFiles": 27,
+  "blank": 209,
+  "comment": 140,
+  "code": 1307},
+"DOS Batch" :{
+  "nFiles": 11,
+  "blank": 309,
+  "comment": 10,
+  "code": 1067},
+"XML" :{
+  "nFiles": 34,
+  "blank": 67,
+  "comment": 351,
+  "code": 668},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 0,
+  "code": 69},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 6,
+  "code": 40},
+"SUM": {
+  "blank": 19120,
+  "comment": 25850,
+  "code": 109498,
+  "nFiles": 1393} }

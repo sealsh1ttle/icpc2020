@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.8698508739471,
+  "n_files"            : 81,
+  "n_lines"            : 2750,
+  "files_per_second"   : 4.29256174524588,
+  "lines_per_second"   : 145.73512098057,
+  "report_file"        : "loc/webdriverio-boneyard__wdio-allure-reporter.json"},
+"JavaScript" :{
+  "nFiles": 71,
+  "blank": 381,
+  "comment": 24,
+  "code": 1977},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 122},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 94},
+"Cucumber" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 0,
+  "code": 45},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 32},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 21},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 430,
+  "comment": 24,
+  "code": 2296,
+  "nFiles": 81} }

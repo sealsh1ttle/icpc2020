@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.4175710678101,
+  "n_files"            : 51,
+  "n_lines"            : 1822,
+  "files_per_second"   : 4.89557495389576,
+  "lines_per_second"   : 174.89681501957,
+  "report_file"        : "loc/backend-br__como-instalar-xyz.json"},
+"Markdown" :{
+  "nFiles": 50,
+  "blank": 585,
+  "comment": 0,
+  "code": 1199},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 10,
+  "code": 21},
+"SUM": {
+  "blank": 592,
+  "comment": 10,
+  "code": 1220,
+  "nFiles": 51} }

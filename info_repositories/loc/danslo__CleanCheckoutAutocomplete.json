@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.181845903396606,
+  "n_files"            : 11,
+  "n_lines"            : 381,
+  "files_per_second"   : 60.4907770509901,
+  "lines_per_second"   : 2095.18055058429,
+  "report_file"        : "loc/danslo__CleanCheckoutAutocomplete.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 17,
+  "code": 150},
+"XML" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 20,
+  "code": 96},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 17,
+  "code": 42},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 26,
+  "comment": 54,
+  "code": 301,
+  "nFiles": 11} }

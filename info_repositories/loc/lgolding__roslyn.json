@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3952.73290610313,
+  "n_files"            : 13806,
+  "n_lines"            : 5896223,
+  "files_per_second"   : 3.49277331101303,
+  "lines_per_second"   : 1491.68262568312,
+  "report_file"        : "loc/lgolding__roslyn.json"},
+"C#" :{
+  "nFiles": 9159,
+  "blank": 400837,
+  "comment": 309609,
+  "code": 2665710},
+"Visual Basic" :{
+  "nFiles": 3351,
+  "blank": 270977,
+  "comment": 116811,
+  "code": 1558576},
+"XML" :{
+  "nFiles": 706,
+  "blank": 6976,
+  "comment": 5329,
+  "code": 509462},
+"MSBuild script" :{
+  "nFiles": 239,
+  "blank": 355,
+  "comment": 882,
+  "code": 13626},
+"Markdown" :{
+  "nFiles": 116,
+  "blank": 2124,
+  "comment": 2,
+  "code": 7597},
+"SKILL" :{
+  "nFiles": 36,
+  "blank": 899,
+  "comment": 0,
+  "code": 5042},
+"PowerShell" :{
+  "nFiles": 52,
+  "blank": 1038,
+  "comment": 632,
+  "code": 4734},
+"XAML" :{
+  "nFiles": 29,
+  "blank": 105,
+  "comment": 17,
+  "code": 3396},
+"YAML" :{
+  "nFiles": 34,
+  "blank": 359,
+  "comment": 188,
+  "code": 2654},
+"ANTLR Grammar" :{
+  "nFiles": 2,
+  "blank": 676,
+  "comment": 2,
+  "code": 2595},
+"Bourne Shell" :{
+  "nFiles": 25,
+  "blank": 450,
+  "comment": 162,
+  "code": 2327},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 460},
+"XSD" :{
+  "nFiles": 3,
+  "blank": 74,
+  "comment": 217,
+  "code": 401},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 10,
+  "code": 184},
+"DOS Batch" :{
+  "nFiles": 27,
+  "blank": 55,
+  "comment": 7,
+  "code": 173},
+"C++" :{
+  "nFiles": 4,
+  "blank": 28,
+  "comment": 22,
+  "code": 135},
+"diff" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 83,
+  "code": 95},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 15,
+  "code": 38},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 10},
+"F#" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 1,
+  "code": 10},
+"SUM": {
+  "blank": 685008,
+  "comment": 433990,
+  "code": 4777225,
+  "nFiles": 13806} }

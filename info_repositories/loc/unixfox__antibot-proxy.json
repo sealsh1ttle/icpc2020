@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0857069492340088,
+  "n_files"            : 5,
+  "n_lines"            : 249,
+  "files_per_second"   : 58.3383266431327,
+  "lines_per_second"   : 2905.24866682801,
+  "report_file"        : "loc/unixfox__antibot-proxy.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 130},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 41},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 30,
+  "comment": 0,
+  "code": 219,
+  "nFiles": 5} }

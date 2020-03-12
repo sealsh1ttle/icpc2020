@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.770328998565674,
+  "n_files"            : 5,
+  "n_lines"            : 1140,
+  "files_per_second"   : 6.4907331923241,
+  "lines_per_second"   : 1479.88716784989,
+  "report_file"        : "loc/cncf__soc.json"},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 315,
+  "comment": 0,
+  "code": 825},
+"SUM": {
+  "blank": 315,
+  "comment": 0,
+  "code": 825,
+  "nFiles": 5} }

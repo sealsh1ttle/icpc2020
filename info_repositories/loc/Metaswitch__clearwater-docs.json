@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.47865104675293,
+  "n_files"            : 2,
+  "n_lines"            : 33,
+  "files_per_second"   : 4.17840933090524,
+  "lines_per_second"   : 68.9437539599364,
+  "report_file"        : "loc/Metaswitch__clearwater-docs.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 14,
+  "comment": 0,
+  "code": 19,
+  "nFiles": 2} }

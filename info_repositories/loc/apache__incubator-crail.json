@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.37483692169189,
+  "n_files"            : 225,
+  "n_lines"            : 27026,
+  "files_per_second"   : 35.2950205258403,
+  "lines_per_second"   : 4239.48099880604,
+  "report_file"        : "loc/apache__incubator-crail.json"},
+"Java" :{
+  "nFiles": 178,
+  "blank": 3268,
+  "comment": 3217,
+  "code": 16248},
+"Maven" :{
+  "nFiles": 12,
+  "blank": 74,
+  "comment": 214,
+  "code": 945},
+"reStructuredText" :{
+  "nFiles": 15,
+  "blank": 416,
+  "comment": 554,
+  "code": 614},
+"XML" :{
+  "nFiles": 5,
+  "blank": 21,
+  "comment": 109,
+  "code": 342},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 82,
+  "comment": 140,
+  "code": 244},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 105},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 18,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 31,
+  "code": 54},
+"Python" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 101,
+  "code": 40},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 20,
+  "code": 10},
+"SUM": {
+  "blank": 3965,
+  "comment": 4404,
+  "code": 18657,
+  "nFiles": 225} }

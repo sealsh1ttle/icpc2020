@@ -1,0 +1,209 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4013.6875269413,
+  "n_files"            : 16504,
+  "n_lines"            : 6038760,
+  "files_per_second"   : 4.11192946367132,
+  "lines_per_second"   : 1504.54163645418,
+  "report_file"        : "loc/kubernetes-incubator__cluster-capacity.json"},
+"Go" :{
+  "nFiles": 13162,
+  "blank": 441683,
+  "comment": 787380,
+  "code": 3476803},
+"JSON" :{
+  "nFiles": 634,
+  "blank": 222,
+  "comment": 0,
+  "code": 753625},
+"HTML" :{
+  "nFiles": 122,
+  "blank": 5064,
+  "comment": 104,
+  "code": 268898},
+"Markdown" :{
+  "nFiles": 476,
+  "blank": 16517,
+  "comment": 0,
+  "code": 52129},
+"YAML" :{
+  "nFiles": 721,
+  "blank": 877,
+  "comment": 1834,
+  "code": 39966},
+"Bourne Shell" :{
+  "nFiles": 426,
+  "blank": 7102,
+  "comment": 12669,
+  "code": 33583},
+"Protocol Buffers" :{
+  "nFiles": 233,
+  "blank": 5986,
+  "comment": 15741,
+  "code": 17977},
+"PO File" :{
+  "nFiles": 10,
+  "blank": 1224,
+  "comment": 1736,
+  "code": 13581},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 1644,
+  "comment": 4396,
+  "code": 8634},
+"Swift" :{
+  "nFiles": 17,
+  "blank": 1160,
+  "comment": 1083,
+  "code": 7753},
+"Assembly" :{
+  "nFiles": 50,
+  "blank": 872,
+  "comment": 950,
+  "code": 7443},
+"Java" :{
+  "nFiles": 3,
+  "blank": 469,
+  "comment": 1431,
+  "code": 6101},
+"XML" :{
+  "nFiles": 9,
+  "blank": 246,
+  "comment": 37,
+  "code": 4994},
+"Python" :{
+  "nFiles": 30,
+  "blank": 936,
+  "comment": 981,
+  "code": 3357},
+"Bourne Again Shell" :{
+  "nFiles": 89,
+  "blank": 635,
+  "comment": 641,
+  "code": 2941},
+"C++" :{
+  "nFiles": 1,
+  "blank": 411,
+  "comment": 220,
+  "code": 2749},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 124,
+  "comment": 12,
+  "code": 2439},
+"make" :{
+  "nFiles": 150,
+  "blank": 743,
+  "comment": 2765,
+  "code": 2421},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 7,
+  "comment": 7,
+  "code": 2322},
+"Dockerfile" :{
+  "nFiles": 163,
+  "blank": 673,
+  "comment": 1465,
+  "code": 1777},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 253,
+  "comment": 219,
+  "code": 1608},
+"SaltStack" :{
+  "nFiles": 41,
+  "blank": 190,
+  "comment": 159,
+  "code": 1536},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 180,
+  "comment": 179,
+  "code": 1173},
+"Cucumber" :{
+  "nFiles": 58,
+  "blank": 131,
+  "comment": 58,
+  "code": 781},
+"C" :{
+  "nFiles": 13,
+  "blank": 93,
+  "comment": 60,
+  "code": 414},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 100,
+  "comment": 156,
+  "code": 398},
+"Ruby" :{
+  "nFiles": 10,
+  "blank": 67,
+  "comment": 4,
+  "code": 366},
+"sed" :{
+  "nFiles": 6,
+  "blank": 4,
+  "comment": 28,
+  "code": 351},
+"Starlark" :{
+  "nFiles": 6,
+  "blank": 22,
+  "comment": 21,
+  "code": 198},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 122},
+"ERB" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 69},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 35},
+"INI" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 0,
+  "code": 34},
+"Windows Message File" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 32},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 3,
+  "code": 32},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 22,
+  "code": 21},
+"vim script" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 18},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 487690,
+  "comment": 834366,
+  "code": 4716704,
+  "nFiles": 16504} }

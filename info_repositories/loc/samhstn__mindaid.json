@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.41229510307312,
+  "n_files"            : 33,
+  "n_lines"            : 1192,
+  "files_per_second"   : 80.0397573340751,
+  "lines_per_second"   : 2891.13305279447,
+  "report_file"        : "loc/samhstn__mindaid.json"},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 85,
+  "comment": 4,
+  "code": 897},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 5,
+  "code": 94},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 63},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 113,
+  "comment": 9,
+  "code": 1070,
+  "nFiles": 33} }

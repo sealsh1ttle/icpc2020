@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.98200607299805,
+  "n_files"            : 18,
+  "n_lines"            : 2061,
+  "files_per_second"   : 2.25507220057015,
+  "lines_per_second"   : 258.205766965282,
+  "report_file"        : "loc/hashemi__CompilerKit.json"},
+"Swift" :{
+  "nFiles": 16,
+  "blank": 315,
+  "comment": 136,
+  "code": 1509},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 67},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 345,
+  "comment": 136,
+  "code": 1580,
+  "nFiles": 18} }

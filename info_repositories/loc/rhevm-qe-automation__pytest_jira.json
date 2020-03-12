@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.132270812988281,
+  "n_files"            : 8,
+  "n_lines"            : 1977,
+  "files_per_second"   : 60.4819749668339,
+  "lines_per_second"   : 14946.6080636788,
+  "report_file"        : "loc/rhevm-qe-automation__pytest_jira.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 258,
+  "comment": 460,
+  "code": 981},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 71,
+  "comment": 38,
+  "code": 127},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 330,
+  "comment": 498,
+  "code": 1149,
+  "nFiles": 8} }

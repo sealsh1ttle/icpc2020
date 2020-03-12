@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.43509411811829,
+  "n_files"            : 22,
+  "n_lines"            : 2436,
+  "files_per_second"   : 4.04776799111194,
+  "lines_per_second"   : 448.198310288577,
+  "report_file"        : "loc/IBM-Swift__Kitura-Session-Redis.json"},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 117,
+  "comment": 0,
+  "code": 815},
+"Swift" :{
+  "nFiles": 7,
+  "blank": 91,
+  "comment": 146,
+  "code": 438},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 59,
+  "code": 416},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 0,
+  "code": 112},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 5,
+  "code": 79},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 4,
+  "code": 34},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 307,
+  "comment": 214,
+  "code": 1915,
+  "nFiles": 22} }

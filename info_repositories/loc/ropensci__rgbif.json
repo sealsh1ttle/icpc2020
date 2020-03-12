@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 67.6754741668701,
+  "n_files"            : 358,
+  "n_lines"            : 57030,
+  "files_per_second"   : 5.28995185341835,
+  "lines_per_second"   : 842.698196090638,
+  "report_file"        : "loc/ropensci__rgbif.json"},
+"HTML" :{
+  "nFiles": 98,
+  "blank": 4641,
+  "comment": 1138,
+  "code": 20055},
+"YAML" :{
+  "nFiles": 113,
+  "blank": 19,
+  "comment": 0,
+  "code": 11909},
+"R" :{
+  "nFiles": 117,
+  "blank": 1050,
+  "comment": 5350,
+  "code": 6761},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 572,
+  "comment": 0,
+  "code": 2091},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 447},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 73,
+  "comment": 32,
+  "code": 290},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 16,
+  "code": 137},
+"Rmd" :{
+  "nFiles": 9,
+  "blank": 504,
+  "comment": 1720,
+  "code": 132},
+"make" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 30},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 6910,
+  "comment": 8257,
+  "code": 41863,
+  "nFiles": 358} }

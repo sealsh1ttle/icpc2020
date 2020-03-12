@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.48191499710083,
+  "n_files"            : 15,
+  "n_lines"            : 963,
+  "files_per_second"   : 6.04372027951069,
+  "lines_per_second"   : 388.006841944586,
+  "report_file"        : "loc/Nexmo__nexmo-laravel.json"},
+"PHP" :{
+  "nFiles": 11,
+  "blank": 87,
+  "comment": 271,
+  "code": 317},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 52,
+  "comment": 0,
+  "code": 140},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 58},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 143,
+  "comment": 271,
+  "code": 549,
+  "nFiles": 15} }

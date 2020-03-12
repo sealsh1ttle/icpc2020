@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 116.89968585968,
+  "n_files"            : 294,
+  "n_lines"            : 29961,
+  "files_per_second"   : 2.51497681826879,
+  "lines_per_second"   : 256.296668204596,
+  "report_file"        : "loc/lets-blade__blade.json"},
+"Java" :{
+  "nFiles": 275,
+  "blank": 3908,
+  "comment": 6249,
+  "code": 17557},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 374,
+  "comment": 0,
+  "code": 1113},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 7,
+  "code": 316},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 0,
+  "code": 68},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 44},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 18},
+"SUM": {
+  "blank": 4376,
+  "comment": 6281,
+  "code": 19304,
+  "nFiles": 294} }

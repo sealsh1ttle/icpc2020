@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.08927202224731,
+  "n_files"            : 232,
+  "n_lines"            : 66189,
+  "files_per_second"   : 111.043462760991,
+  "lines_per_second"   : 31680.4127443415,
+  "report_file"        : "loc/syoyo__tinyobjloader.json"},
+"C/C++ Header" :{
+  "nFiles": 40,
+  "blank": 3902,
+  "comment": 4139,
+  "code": 19388},
+"C++" :{
+  "nFiles": 54,
+  "blank": 1763,
+  "comment": 1403,
+  "code": 8807},
+"Python" :{
+  "nFiles": 53,
+  "blank": 2698,
+  "comment": 3694,
+  "code": 8691},
+"reStructuredText" :{
+  "nFiles": 30,
+  "blank": 2010,
+  "comment": 2397,
+  "code": 3379},
+"CMake" :{
+  "nFiles": 17,
+  "blank": 205,
+  "comment": 297,
+  "code": 904},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 854},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 196,
+  "comment": 0,
+  "code": 475},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 14,
+  "comment": 29,
+  "code": 390},
+"make" :{
+  "nFiles": 8,
+  "blank": 42,
+  "comment": 8,
+  "code": 185},
+"Lua" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 16,
+  "code": 149},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 18,
+  "code": 53},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 10881,
+  "comment": 12001,
+  "code": 43307,
+  "nFiles": 232} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.31476616859436,
+  "n_files"            : 30,
+  "n_lines"            : 2292,
+  "files_per_second"   : 95.3088450832245,
+  "lines_per_second"   : 7281.59576435835,
+  "report_file"        : "loc/gailkaiser__coms4156_jumpstart.json"},
+"Python" :{
+  "nFiles": 11,
+  "blank": 335,
+  "comment": 57,
+  "code": 1223},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 31,
+  "comment": 1,
+  "code": 560},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 6,
+  "code": 28},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 9,
+  "code": 12},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 8},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 386,
+  "comment": 73,
+  "code": 1833,
+  "nFiles": 30} }

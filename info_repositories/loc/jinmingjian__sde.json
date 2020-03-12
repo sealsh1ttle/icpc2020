@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.60968208312988,
+  "n_files"            : 27,
+  "n_lines"            : 5142,
+  "files_per_second"   : 3.13600429601283,
+  "lines_per_second"   : 597.234595929554,
+  "report_file"        : "loc/jinmingjian__sde.json"},
+"TypeScript" :{
+  "nFiles": 18,
+  "blank": 440,
+  "comment": 1424,
+  "code": 2784},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 7,
+  "comment": 0,
+  "code": 309},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 57,
+  "comment": 0,
+  "code": 87},
+"Swift" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 19},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 506,
+  "comment": 1424,
+  "code": 3212,
+  "nFiles": 27} }

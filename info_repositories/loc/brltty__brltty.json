@@ -1,0 +1,124 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 252.391357898712,
+  "n_files"            : 844,
+  "n_lines"            : 231722,
+  "files_per_second"   : 3.34401307171028,
+  "lines_per_second"   : 918.105920619489,
+  "report_file"        : "loc/brltty__brltty.json"},
+"C" :{
+  "nFiles": 343,
+  "blank": 24205,
+  "comment": 8545,
+  "code": 107086},
+"C/C++ Header" :{
+  "nFiles": 279,
+  "blank": 3707,
+  "comment": 5611,
+  "code": 15413},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3659,
+  "comment": 721,
+  "code": 13815},
+"Java" :{
+  "nFiles": 68,
+  "blank": 1947,
+  "comment": 1155,
+  "code": 7281},
+"PO File" :{
+  "nFiles": 4,
+  "blank": 3270,
+  "comment": 3669,
+  "code": 6654},
+"Bourne Shell" :{
+  "nFiles": 39,
+  "blank": 560,
+  "comment": 835,
+  "code": 4874},
+"XML" :{
+  "nFiles": 34,
+  "blank": 697,
+  "comment": 469,
+  "code": 4260},
+"m4" :{
+  "nFiles": 7,
+  "blank": 346,
+  "comment": 0,
+  "code": 3007},
+"Bourne Again Shell" :{
+  "nFiles": 13,
+  "blank": 465,
+  "comment": 226,
+  "code": 1986},
+"Tcl/Tk" :{
+  "nFiles": 8,
+  "blank": 386,
+  "comment": 193,
+  "code": 1539},
+"awk" :{
+  "nFiles": 10,
+  "blank": 152,
+  "comment": 159,
+  "code": 611},
+"Cython" :{
+  "nFiles": 2,
+  "blank": 120,
+  "comment": 210,
+  "code": 608},
+"diff" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 141,
+  "code": 565},
+"Lisp" :{
+  "nFiles": 4,
+  "blank": 73,
+  "comment": 69,
+  "code": 345},
+"OCaml" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 82,
+  "code": 301},
+"Python" :{
+  "nFiles": 3,
+  "blank": 71,
+  "comment": 59,
+  "code": 239},
+"make" :{
+  "nFiles": 8,
+  "blank": 74,
+  "comment": 121,
+  "code": 199},
+"AutoHotkey" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 28,
+  "code": 179},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 138},
+"reStructuredText" :{
+  "nFiles": 8,
+  "blank": 65,
+  "comment": 60,
+  "code": 137},
+"Ant" :{
+  "nFiles": 2,
+  "blank": 34,
+  "comment": 118,
+  "code": 32},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 39967,
+  "comment": 22471,
+  "code": 169284,
+  "nFiles": 844} }

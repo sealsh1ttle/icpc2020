@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.291034936904907,
+  "n_files"            : 24,
+  "n_lines"            : 936,
+  "files_per_second"   : 82.4643262944124,
+  "lines_per_second"   : 3216.10872548208,
+  "report_file"        : "loc/nearprotocol__near-shell.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 59,
+  "comment": 58,
+  "code": 423},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 82},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 3,
+  "code": 77},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 65},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 52},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 46},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 19,
+  "code": 20},
+"SUM": {
+  "blank": 91,
+  "comment": 80,
+  "code": 765,
+  "nFiles": 24} }

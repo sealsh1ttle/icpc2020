@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.79029202461243,
+  "n_files"            : 41,
+  "n_lines"            : 3040,
+  "files_per_second"   : 5.2629606015366,
+  "lines_per_second"   : 390.229273870031,
+  "report_file"        : "loc/kelset__reactriot2017-overlooper.json"},
+"JavaScript" :{
+  "nFiles": 34,
+  "blank": 227,
+  "comment": 40,
+  "code": 1504},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1141},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 36},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 22,
+  "code": 23},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 262,
+  "comment": 62,
+  "code": 2716,
+  "nFiles": 41} }

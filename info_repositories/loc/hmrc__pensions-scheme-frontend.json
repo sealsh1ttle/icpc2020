@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.1734020709991,
+  "n_files"            : 1755,
+  "n_lines"            : 206377,
+  "files_per_second"   : 123.8234822669,
+  "lines_per_second"   : 14560.8654129891,
+  "report_file"        : "loc/hmrc__pensions-scheme-frontend.json"},
+"Scala" :{
+  "nFiles": 1559,
+  "blank": 23012,
+  "comment": 23566,
+  "code": 90705},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 1,
+  "comment": 0,
+  "code": 60142},
+"HTML" :{
+  "nFiles": 135,
+  "blank": 1187,
+  "comment": 2,
+  "code": 6032},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 102,
+  "comment": 16,
+  "code": 659},
+"Java" :{
+  "nFiles": 25,
+  "blank": 76,
+  "comment": 1,
+  "code": 275},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 48,
+  "comment": 63,
+  "code": 218},
+"XML" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 0,
+  "code": 198},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 26},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 4},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 24458,
+  "comment": 23648,
+  "code": 158271,
+  "nFiles": 1755} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 59.5495178699493,
+  "n_files"            : 280,
+  "n_lines"            : 47766,
+  "files_per_second"   : 4.70196921848291,
+  "lines_per_second"   : 802.122363178767,
+  "report_file"        : "loc/mailchimp__mc-magento.json"},
+"PHP" :{
+  "nFiles": 259,
+  "blank": 5238,
+  "comment": 10278,
+  "code": 29699},
+"XML" :{
+  "nFiles": 7,
+  "blank": 4,
+  "comment": 6,
+  "code": 1204},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 73,
+  "comment": 0,
+  "code": 508},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 45,
+  "comment": 0,
+  "code": 301},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 6,
+  "code": 234},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 64},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 5405,
+  "comment": 10290,
+  "code": 32071,
+  "nFiles": 280} }

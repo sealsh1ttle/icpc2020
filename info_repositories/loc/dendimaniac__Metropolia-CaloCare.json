@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.9169771671295,
+  "n_files"            : 50,
+  "n_lines"            : 3208,
+  "files_per_second"   : 3.87087469096388,
+  "lines_per_second"   : 248.355320172243,
+  "report_file"        : "loc/dendimaniac__Metropolia-CaloCare.json"},
+"XML" :{
+  "nFiles": 26,
+  "blank": 143,
+  "comment": 3,
+  "code": 1601},
+"Java" :{
+  "nFiles": 16,
+  "blank": 200,
+  "comment": 64,
+  "code": 848},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 3,
+  "code": 50},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 0},
+"SUM": {
+  "blank": 401,
+  "comment": 112,
+  "code": 2695,
+  "nFiles": 50} }

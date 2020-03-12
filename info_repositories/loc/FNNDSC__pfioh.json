@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.53140115737915,
+  "n_files"            : 20,
+  "n_lines"            : 3447,
+  "files_per_second"   : 5.6634743855731,
+  "lines_per_second"   : 976.099810353523,
+  "report_file"        : "loc/FNNDSC__pfioh.json"},
+"Python" :{
+  "nFiles": 10,
+  "blank": 459,
+  "comment": 448,
+  "code": 1782},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 318},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 97,
+  "comment": 110,
+  "code": 60},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 2,
+  "code": 54},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 33},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 27,
+  "code": 26},
+"SUM": {
+  "blank": 585,
+  "comment": 589,
+  "code": 2273,
+  "nFiles": 20} }

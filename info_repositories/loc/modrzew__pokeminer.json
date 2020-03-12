@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.26429009437561,
+  "n_files"            : 18,
+  "n_lines"            : 3495,
+  "files_per_second"   : 5.51421579565312,
+  "lines_per_second"   : 1070.67690032265,
+  "report_file"        : "loc/modrzew__pokeminer.json"},
+"Python" :{
+  "nFiles": 6,
+  "blank": 184,
+  "comment": 148,
+  "code": 1268},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 132,
+  "comment": 0,
+  "code": 923},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 21,
+  "code": 629},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 0,
+  "code": 71},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 5,
+  "code": 8},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 416,
+  "comment": 174,
+  "code": 2905,
+  "nFiles": 18} }

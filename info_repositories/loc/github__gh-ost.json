@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 266.650035858154,
+  "n_files"            : 547,
+  "n_lines"            : 253256,
+  "files_per_second"   : 2.05137793527611,
+  "lines_per_second"   : 949.76923286341,
+  "report_file"        : "loc/github__gh-ost.json"},
+"Go" :{
+  "nFiles": 408,
+  "blank": 12399,
+  "comment": 12344,
+  "code": 222099},
+"Markdown" :{
+  "nFiles": 42,
+  "blank": 1198,
+  "comment": 0,
+  "code": 2662},
+"SQL" :{
+  "nFiles": 52,
+  "blank": 97,
+  "comment": 2,
+  "code": 1243},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 58,
+  "comment": 19,
+  "code": 320},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 46,
+  "comment": 5,
+  "code": 291},
+"Bourne Again Shell" :{
+  "nFiles": 22,
+  "blank": 92,
+  "comment": 37,
+  "code": 179},
+"make" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 0,
+  "code": 67},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 25,
+  "code": 22},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 8},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 13932,
+  "comment": 12432,
+  "code": 226892,
+  "nFiles": 547} }

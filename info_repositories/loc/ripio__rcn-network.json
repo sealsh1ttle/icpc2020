@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.45042896270752,
+  "n_files"            : 72,
+  "n_lines"            : 20540,
+  "files_per_second"   : 159.847625177585,
+  "lines_per_second"   : 45600.9752937166,
+  "report_file"        : "loc/ripio__rcn-network.json"},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 1939,
+  "comment": 377,
+  "code": 9693},
+"Solidity" :{
+  "nFiles": 51,
+  "blank": 1196,
+  "comment": 1007,
+  "code": 4639},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 338,
+  "comment": 0,
+  "code": 1033},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 38,
+  "code": 147},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 82},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 43},
+"SUM": {
+  "blank": 3480,
+  "comment": 1423,
+  "code": 15637,
+  "nFiles": 72} }

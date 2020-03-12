@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.59160208702087,
+  "n_files"            : 332,
+  "n_lines"            : 32372,
+  "files_per_second"   : 128.106086062635,
+  "lines_per_second"   : 12491.1151145169,
+  "report_file"        : "loc/Frederikam__FredBoat.json"},
+"Kotlin" :{
+  "nFiles": 155,
+  "blank": 2310,
+  "comment": 3366,
+  "code": 10890},
+"Java" :{
+  "nFiles": 145,
+  "blank": 1850,
+  "comment": 4192,
+  "code": 7172},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 64,
+  "comment": 50,
+  "code": 388},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 84,
+  "comment": 336,
+  "code": 346},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 51,
+  "comment": 26,
+  "code": 258},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 99,
+  "comment": 0,
+  "code": 235},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 31,
+  "comment": 39,
+  "code": 162},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 50,
+  "code": 141},
+"XML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 29,
+  "code": 89},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 4529,
+  "comment": 8090,
+  "code": 19753,
+  "nFiles": 332} }

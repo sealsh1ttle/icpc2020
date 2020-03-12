@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.6683371067047,
+  "n_files"            : 61,
+  "n_lines"            : 5861,
+  "files_per_second"   : 5.22782290588339,
+  "lines_per_second"   : 502.299509039058,
+  "report_file"        : "loc/mulesoft__mule-aggregators-module.json"},
+"Java" :{
+  "nFiles": 48,
+  "blank": 685,
+  "comment": 729,
+  "code": 2695},
+"XML" :{
+  "nFiles": 10,
+  "blank": 129,
+  "comment": 6,
+  "code": 1459},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 93},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 2,
+  "code": 23},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 838,
+  "comment": 737,
+  "code": 4286,
+  "nFiles": 61} }

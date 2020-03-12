@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 408.947514057159,
+  "n_files"            : 1979,
+  "n_lines"            : 188386,
+  "files_per_second"   : 4.83925181587824,
+  "lines_per_second"   : 460.660582408306,
+  "report_file"        : "loc/robotframework__robotframework.json"},
+"RobotFramework" :{
+  "nFiles": 1129,
+  "blank": 12047,
+  "comment": 4615,
+  "code": 48372},
+"Python" :{
+  "nFiles": 595,
+  "blank": 13548,
+  "comment": 13783,
+  "code": 40754},
+"HTML" :{
+  "nFiles": 29,
+  "blank": 926,
+  "comment": 441,
+  "code": 13746},
+"reStructuredText" :{
+  "nFiles": 89,
+  "blank": 5765,
+  "comment": 10212,
+  "code": 12421},
+"JavaScript" :{
+  "nFiles": 33,
+  "blank": 723,
+  "comment": 641,
+  "code": 3796},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 131,
+  "comment": 109,
+  "code": 1985},
+"Java" :{
+  "nFiles": 66,
+  "blank": 388,
+  "comment": 217,
+  "code": 1559},
+"XML" :{
+  "nFiles": 11,
+  "blank": 6,
+  "comment": 23,
+  "code": 866},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 532},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 391},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 1,
+  "code": 166},
+"make" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 5,
+  "code": 124},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 33581,
+  "comment": 30049,
+  "code": 124756,
+  "nFiles": 1979} }

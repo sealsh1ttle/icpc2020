@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 781.648221969604,
+  "n_files"            : 3215,
+  "n_lines"            : 2033353,
+  "files_per_second"   : 4.11310345195798,
+  "lines_per_second"   : 2601.36586107282,
+  "report_file"        : "loc/sky-uk__licence-compliance-checker.json"},
+"Go" :{
+  "nFiles": 2678,
+  "blank": 67692,
+  "comment": 119174,
+  "code": 943857},
+"JSON" :{
+  "nFiles": 44,
+  "blank": 0,
+  "comment": 0,
+  "code": 836950},
+"Assembly" :{
+  "nFiles": 114,
+  "blank": 2467,
+  "comment": 3072,
+  "code": 14226},
+"Fortran 77" :{
+  "nFiles": 88,
+  "blank": 55,
+  "comment": 8720,
+  "code": 9168},
+"Markdown" :{
+  "nFiles": 106,
+  "blank": 2584,
+  "comment": 0,
+  "code": 7287},
+"HTML" :{
+  "nFiles": 33,
+  "blank": 1067,
+  "comment": 27,
+  "code": 3518},
+"C" :{
+  "nFiles": 19,
+  "blank": 517,
+  "comment": 651,
+  "code": 2195},
+"Perl" :{
+  "nFiles": 11,
+  "blank": 270,
+  "comment": 278,
+  "code": 1625},
+"Fortran 90" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 24,
+  "code": 1311},
+"Bourne Shell" :{
+  "nFiles": 18,
+  "blank": 180,
+  "comment": 426,
+  "code": 1159},
+"YAML" :{
+  "nFiles": 41,
+  "blank": 117,
+  "comment": 20,
+  "code": 728},
+"make" :{
+  "nFiles": 23,
+  "blank": 199,
+  "comment": 72,
+  "code": 587},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 6,
+  "code": 417},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 199,
+  "comment": 144,
+  "code": 393},
+"MATLAB" :{
+  "nFiles": 3,
+  "blank": 107,
+  "comment": 176,
+  "code": 369},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 43,
+  "comment": 21,
+  "code": 326},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 34,
+  "code": 239},
+"Python" :{
+  "nFiles": 8,
+  "blank": 38,
+  "comment": 5,
+  "code": 132},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 25,
+  "comment": 23,
+  "code": 86},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 77},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 29,
+  "code": 62},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 75726,
+  "comment": 132907,
+  "code": 1824720,
+  "nFiles": 3215} }

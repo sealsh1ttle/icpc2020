@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.463971138000488,
+  "n_files"            : 66,
+  "n_lines"            : 8260,
+  "files_per_second"   : 142.250227642243,
+  "lines_per_second"   : 17802.8315200747,
+  "report_file"        : "loc/genialis__resolwe-bio-py.json"},
+"Python" :{
+  "nFiles": 53,
+  "blank": 1444,
+  "comment": 1288,
+  "code": 3740},
+"reStructuredText" :{
+  "nFiles": 10,
+  "blank": 434,
+  "comment": 248,
+  "code": 1010},
+"INI" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 48},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 9,
+  "code": 24},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 1887,
+  "comment": 1545,
+  "code": 4828,
+  "nFiles": 66} }

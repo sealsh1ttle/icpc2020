@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.59286689758301,
+  "n_files"            : 140,
+  "n_lines"            : 15200,
+  "files_per_second"   : 87.8918384282038,
+  "lines_per_second"   : 9542.54245791927,
+  "report_file"        : "loc/fontforge__designwithfontforge.com.json"},
+"Markdown" :{
+  "nFiles": 106,
+  "blank": 4803,
+  "comment": 0,
+  "code": 7773},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 2,
+  "code": 811},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 115,
+  "comment": 55,
+  "code": 797},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 121,
+  "comment": 40,
+  "code": 551},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 32},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 1,
+  "code": 25},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 5050,
+  "comment": 101,
+  "code": 10049,
+  "nFiles": 140} }

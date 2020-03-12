@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.9418971538544,
+  "n_files"            : 168,
+  "n_lines"            : 11880,
+  "files_per_second"   : 5.42953132979025,
+  "lines_per_second"   : 383.945429749453,
+  "report_file"        : "loc/systers__FirstAide-Android.json"},
+"Java" :{
+  "nFiles": 66,
+  "blank": 947,
+  "comment": 760,
+  "code": 4728},
+"XML" :{
+  "nFiles": 90,
+  "blank": 496,
+  "comment": 66,
+  "code": 4286},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 92,
+  "comment": 0,
+  "code": 175},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 3,
+  "code": 47},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 1590,
+  "comment": 867,
+  "code": 9423,
+  "nFiles": 168} }

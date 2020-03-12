@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 531.699547052383,
+  "n_files"            : 1636,
+  "n_lines"            : 503462,
+  "files_per_second"   : 3.07692569811202,
+  "lines_per_second"   : 946.891910649678,
+  "report_file"        : "loc/ionic-team__ionic-site.json"},
+"CSS" :{
+  "nFiles": 186,
+  "blank": 19474,
+  "comment": 2180,
+  "code": 145021},
+"JavaScript" :{
+  "nFiles": 207,
+  "blank": 19552,
+  "comment": 66198,
+  "code": 144773},
+"Sass" :{
+  "nFiles": 272,
+  "blank": 10292,
+  "comment": 3296,
+  "code": 55435},
+"HTML" :{
+  "nFiles": 147,
+  "blank": 1556,
+  "comment": 339,
+  "code": 19166},
+"SVG" :{
+  "nFiles": 756,
+  "blank": 1,
+  "comment": 19,
+  "code": 9494},
+"TypeScript" :{
+  "nFiles": 35,
+  "blank": 298,
+  "comment": 156,
+  "code": 3943},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 1,
+  "comment": 0,
+  "code": 1282},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 351,
+  "comment": 0,
+  "code": 454},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 11,
+  "code": 73},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 51544,
+  "comment": 72199,
+  "code": 379719,
+  "nFiles": 1636} }

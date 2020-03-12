@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 95.9553611278534,
+  "n_files"            : 291,
+  "n_lines"            : 15773,
+  "files_per_second"   : 3.03266015134125,
+  "lines_per_second"   : 164.378517412734,
+  "report_file"        : "loc/hegner__hep-sf.github.io.json"},
+"Markdown" :{
+  "nFiles": 274,
+  "blank": 5321,
+  "comment": 0,
+  "code": 9847},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 62,
+  "comment": 5,
+  "code": 228},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 41,
+  "comment": 29,
+  "code": 168},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 2,
+  "code": 35},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 5436,
+  "comment": 36,
+  "code": 10301,
+  "nFiles": 291} }

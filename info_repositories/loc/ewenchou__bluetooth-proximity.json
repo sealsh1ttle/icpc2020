@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.81171798706055,
+  "n_files"            : 8,
+  "n_lines"            : 376,
+  "files_per_second"   : 4.41569828038178,
+  "lines_per_second"   : 207.537819177944,
+  "report_file"        : "loc/ewenchou__bluetooth-proximity.json"},
+"Python" :{
+  "nFiles": 6,
+  "blank": 48,
+  "comment": 54,
+  "code": 185},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 0,
+  "code": 56},
+"SUM": {
+  "blank": 81,
+  "comment": 54,
+  "code": 241,
+  "nFiles": 8} }

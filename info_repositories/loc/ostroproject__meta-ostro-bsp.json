@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.1449000835419,
+  "n_files"            : 49,
+  "n_lines"            : 12594,
+  "files_per_second"   : 1.74099036964261,
+  "lines_per_second"   : 447.470055413859,
+  "report_file"        : "loc/ostroproject__meta-ostro-bsp.json"},
+"diff" :{
+  "nFiles": 20,
+  "blank": 675,
+  "comment": 2593,
+  "code": 6826},
+"C" :{
+  "nFiles": 11,
+  "blank": 225,
+  "comment": 184,
+  "code": 860},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 54,
+  "comment": 12,
+  "code": 265},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 246},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 0,
+  "code": 205},
+"Pascal" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 64,
+  "code": 127},
+"make" :{
+  "nFiles": 5,
+  "blank": 17,
+  "comment": 0,
+  "code": 50},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 33},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 1055,
+  "comment": 2854,
+  "code": 8685,
+  "nFiles": 49} }

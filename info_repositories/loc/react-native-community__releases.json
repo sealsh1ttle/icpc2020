@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.01279902458191,
+  "n_files"            : 7,
+  "n_lines"            : 3082,
+  "files_per_second"   : 6.91153904190385,
+  "lines_per_second"   : 3043.05190387824,
+  "report_file"        : "loc/react-native-community__releases.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 668,
+  "comment": 0,
+  "code": 2010},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 0,
+  "code": 289},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"SUM": {
+  "blank": 740,
+  "comment": 0,
+  "code": 2342,
+  "nFiles": 7} }

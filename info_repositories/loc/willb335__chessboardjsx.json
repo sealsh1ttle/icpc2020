@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.08368301391602,
+  "n_files"            : 45,
+  "n_lines"            : 30906,
+  "files_per_second"   : 5.56676949387213,
+  "lines_per_second"   : 3823.25728839138,
+  "report_file"        : "loc/willb335__chessboardjsx.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 26484},
+"JavaScript" :{
+  "nFiles": 36,
+  "blank": 366,
+  "comment": 237,
+  "code": 3452},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 62,
+  "comment": 0,
+  "code": 172},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 43},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 40},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 22,
+  "code": 15},
+"SUM": {
+  "blank": 441,
+  "comment": 259,
+  "code": 30206,
+  "nFiles": 45} }

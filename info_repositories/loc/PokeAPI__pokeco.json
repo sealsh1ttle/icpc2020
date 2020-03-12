@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.92843890190125,
+  "n_files"            : 31,
+  "n_lines"            : 23654,
+  "files_per_second"   : 16.0751787206933,
+  "lines_per_second"   : 12265.8799180412,
+  "report_file"        : "loc/PokeAPI__pokeco.json"},
+"Python" :{
+  "nFiles": 19,
+  "blank": 3167,
+  "comment": 732,
+  "code": 16194},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 652,
+  "comment": 0,
+  "code": 2728},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 61},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 10,
+  "code": 36},
+"make" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 25},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 7},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 3858,
+  "comment": 742,
+  "code": 19054,
+  "nFiles": 31} }

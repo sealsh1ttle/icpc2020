@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.650144100189209,
+  "n_files"            : 97,
+  "n_lines"            : 9047,
+  "files_per_second"   : 149.19769320643,
+  "lines_per_second"   : 13915.3766024595,
+  "report_file"        : "loc/mbj__unparser.json"},
+"Ruby" :{
+  "nFiles": 85,
+  "blank": 1280,
+  "comment": 2411,
+  "code": 4666},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 30,
+  "comment": 20,
+  "code": 322},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 116,
+  "comment": 0,
+  "code": 202},
+"SUM": {
+  "blank": 1426,
+  "comment": 2431,
+  "code": 5190,
+  "nFiles": 97} }

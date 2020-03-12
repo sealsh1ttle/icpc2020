@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 57.5765109062195,
+  "n_files"            : 278,
+  "n_lines"            : 28548,
+  "files_per_second"   : 4.82835787762141,
+  "lines_per_second"   : 495.827196727828,
+  "report_file"        : "loc/prisma-labs__graphql-playground.json"},
+"TypeScript" :{
+  "nFiles": 167,
+  "blank": 1892,
+  "comment": 852,
+  "code": 18131},
+"GraphQL" :{
+  "nFiles": 28,
+  "blank": 230,
+  "comment": 98,
+  "code": 1785},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 164,
+  "comment": 0,
+  "code": 1567},
+"JavaScript" :{
+  "nFiles": 21,
+  "blank": 114,
+  "comment": 382,
+  "code": 1265},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 0,
+  "code": 864},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 224,
+  "comment": 0,
+  "code": 527},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 21,
+  "comment": 8,
+  "code": 137},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 12,
+  "code": 114},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 1,
+  "code": 88},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 2678,
+  "comment": 1353,
+  "code": 24517,
+  "nFiles": 278} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.161606073379517,
+  "n_files"            : 28,
+  "n_lines"            : 918,
+  "files_per_second"   : 173.260815107144,
+  "lines_per_second"   : 5680.4795810128,
+  "report_file"        : "loc/ULL-ESIT-DSI-1617__estudiar-cookies-y-sessions-en-expressjs-alejandro-carlos-samuel-35l2-p4.json"},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 242,
+  "comment": 0,
+  "code": 472},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 30,
+  "comment": 7,
+  "code": 130},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 272,
+  "comment": 7,
+  "code": 639,
+  "nFiles": 28} }

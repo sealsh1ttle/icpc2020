@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.14300894737244,
+  "n_files"            : 333,
+  "n_lines"            : 33164,
+  "files_per_second"   : 105.94942794496,
+  "lines_per_second"   : 10551.6721572572,
+  "report_file"        : "loc/tokend__admin-panel-conto.json"},
+"Vuejs Component" :{
+  "nFiles": 184,
+  "blank": 3146,
+  "comment": 785,
+  "code": 22162},
+"JavaScript" :{
+  "nFiles": 121,
+  "blank": 613,
+  "comment": 229,
+  "code": 4472},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 199,
+  "comment": 9,
+  "code": 1015},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 1,
+  "code": 145},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 125},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 71},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 62},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 44},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 4009,
+  "comment": 1025,
+  "code": 28130,
+  "nFiles": 333} }

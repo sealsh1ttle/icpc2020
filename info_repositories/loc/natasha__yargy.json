@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.7651889324188,
+  "n_files"            : 73,
+  "n_lines"            : 39193,
+  "files_per_second"   : 5.30323269505408,
+  "lines_per_second"   : 2847.25478105828,
+  "report_file"        : "loc/natasha__yargy.json"},
+"Python" :{
+  "nFiles": 44,
+  "blank": 1226,
+  "comment": 206,
+  "code": 4216},
+"SVG" :{
+  "nFiles": 18,
+  "blank": 0,
+  "comment": 321,
+  "code": 1515},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 28604,
+  "code": 785},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 746,
+  "comment": 1118,
+  "code": 227},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 0,
+  "code": 120},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 12,
+  "code": 25},
+"make" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 1,
+  "code": 16},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 2017,
+  "comment": 30262,
+  "code": 6914,
+  "nFiles": 73} }

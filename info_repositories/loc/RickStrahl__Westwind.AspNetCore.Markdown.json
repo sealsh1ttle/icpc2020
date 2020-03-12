@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 30.3436601161957,
+  "n_files"            : 119,
+  "n_lines"            : 32193,
+  "files_per_second"   : 3.92174179200237,
+  "lines_per_second"   : 1060.94650008346,
+  "report_file"        : "loc/RickStrahl__Westwind.AspNetCore.Markdown.json"},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 2736,
+  "comment": 2379,
+  "code": 9928},
+"CSS" :{
+  "nFiles": 41,
+  "blank": 513,
+  "comment": 215,
+  "code": 9626},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 942,
+  "comment": 0,
+  "code": 2280},
+"C#" :{
+  "nFiles": 28,
+  "blank": 370,
+  "comment": 642,
+  "code": 1296},
+"Razor" :{
+  "nFiles": 15,
+  "blank": 92,
+  "comment": 5,
+  "code": 559},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 292},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 223},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 81},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 4665,
+  "comment": 3241,
+  "code": 24287,
+  "nFiles": 119} }

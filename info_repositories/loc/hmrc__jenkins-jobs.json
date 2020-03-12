@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.4399170875549,
+  "n_files"            : 76,
+  "n_lines"            : 2915,
+  "files_per_second"   : 3.54478982776082,
+  "lines_per_second"   : 135.961346683194,
+  "report_file"        : "loc/hmrc__jenkins-jobs.json"},
+"Groovy" :{
+  "nFiles": 69,
+  "blank": 529,
+  "comment": 61,
+  "code": 2004},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 590,
+  "comment": 85,
+  "code": 2240,
+  "nFiles": 76} }

@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 467.180453062057,
+  "n_files"            : 1437,
+  "n_lines"            : 95744,
+  "files_per_second"   : 3.07589923889456,
+  "lines_per_second"   : 204.940081230843,
+  "report_file"        : "loc/cylc__cylc-flow.json"},
+"Python" :{
+  "nFiles": 245,
+  "blank": 6804,
+  "comment": 13122,
+  "code": 32186},
+"Bourne Again Shell" :{
+  "nFiles": 623,
+  "blank": 1663,
+  "comment": 12504,
+  "code": 14872},
+"Windows Resource File" :{
+  "nFiles": 530,
+  "blank": 537,
+  "comment": 1,
+  "code": 10058},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 632,
+  "comment": 0,
+  "code": 1566},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 88,
+  "comment": 277,
+  "code": 496},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 30,
+  "code": 180},
+"XML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 6,
+  "code": 157},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 48,
+  "code": 119},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 45,
+  "code": 54},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 38,
+  "code": 52},
+"INI" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 3,
+  "code": 38},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 1,
+  "code": 30},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 18,
+  "code": 17},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 9822,
+  "comment": 26093,
+  "code": 59829,
+  "nFiles": 1437} }

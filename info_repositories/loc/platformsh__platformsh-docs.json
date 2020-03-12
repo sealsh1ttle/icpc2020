@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.5665619373322,
+  "n_files"            : 221,
+  "n_lines"            : 24978,
+  "files_per_second"   : 3.13179491720544,
+  "lines_per_second"   : 353.96368073284,
+  "report_file"        : "loc/platformsh__platformsh-docs.json"},
+"Markdown" :{
+  "nFiles": 201,
+  "blank": 5612,
+  "comment": 0,
+  "code": 12447},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 24,
+  "code": 3152},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 1790},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 36,
+  "comment": 51,
+  "code": 1171},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 384},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 36,
+  "code": 119},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 2,
+  "code": 59},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 4},
+"SUM": {
+  "blank": 5736,
+  "comment": 116,
+  "code": 19126,
+  "nFiles": 221} }

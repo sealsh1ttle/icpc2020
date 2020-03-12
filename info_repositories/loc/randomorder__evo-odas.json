@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.89878988265991,
+  "n_files"            : 45,
+  "n_lines"            : 5726,
+  "files_per_second"   : 5.05686734863653,
+  "lines_per_second"   : 643.458276406506,
+  "report_file"        : "loc/randomorder__evo-odas.json"},
+"Python" :{
+  "nFiles": 21,
+  "blank": 490,
+  "comment": 978,
+  "code": 3053},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 7,
+  "code": 496},
+"JSON" :{
+  "nFiles": 14,
+  "blank": 1,
+  "comment": 0,
+  "code": 276},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 6,
+  "code": 133},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 17,
+  "code": 91},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 0,
+  "code": 60},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 43},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 552,
+  "comment": 1008,
+  "code": 4166,
+  "nFiles": 45} }

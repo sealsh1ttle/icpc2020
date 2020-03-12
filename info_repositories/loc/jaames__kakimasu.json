@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.6766400337219,
+  "n_files"            : 115,
+  "n_lines"            : 13503,
+  "files_per_second"   : 4.47877914902288,
+  "lines_per_second"   : 525.886563906574,
+  "report_file"        : "loc/jaames__kakimasu.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 11187},
+"SVG" :{
+  "nFiles": 92,
+  "blank": 0,
+  "comment": 92,
+  "code": 1130},
+"Vuejs Component" :{
+  "nFiles": 7,
+  "blank": 62,
+  "comment": 5,
+  "code": 595},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 3,
+  "code": 113},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 6,
+  "code": 110},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 35},
+"Python" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 22,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 4,
+  "code": 9},
+"SUM": {
+  "blank": 131,
+  "comment": 132,
+  "code": 13240,
+  "nFiles": 115} }

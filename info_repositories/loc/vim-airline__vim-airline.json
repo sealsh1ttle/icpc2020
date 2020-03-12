@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.4222660064697,
+  "n_files"            : 92,
+  "n_lines"            : 8727,
+  "files_per_second"   : 6.85428227660327,
+  "lines_per_second"   : 650.188276390399,
+  "report_file"        : "loc/vim-airline__vim-airline.json"},
+"vim script" :{
+  "nFiles": 86,
+  "blank": 1151,
+  "comment": 755,
+  "code": 6170},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 138,
+  "comment": 0,
+  "code": 491},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 9},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 6},
+"SUM": {
+  "blank": 1294,
+  "comment": 757,
+  "code": 6676,
+  "nFiles": 92} }

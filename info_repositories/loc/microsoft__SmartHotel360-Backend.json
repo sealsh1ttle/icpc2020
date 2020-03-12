@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 129.130913972855,
+  "n_files"            : 336,
+  "n_lines"            : 16796,
+  "files_per_second"   : 2.60201054621694,
+  "lines_per_second"   : 130.069550994821,
+  "report_file"        : "loc/microsoft__SmartHotel360-Backend.json"},
+"C#" :{
+  "nFiles": 114,
+  "blank": 881,
+  "comment": 40,
+  "code": 5180},
+"YAML" :{
+  "nFiles": 109,
+  "blank": 172,
+  "comment": 127,
+  "code": 3661},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 2410},
+"Bourne Shell" :{
+  "nFiles": 12,
+  "blank": 126,
+  "comment": 68,
+  "code": 677},
+"Java" :{
+  "nFiles": 16,
+  "blank": 127,
+  "comment": 6,
+  "code": 542},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 308,
+  "comment": 0,
+  "code": 537},
+"PowerShell" :{
+  "nFiles": 11,
+  "blank": 98,
+  "comment": 12,
+  "code": 422},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 58,
+  "comment": 17,
+  "code": 351},
+"MSBuild script" :{
+  "nFiles": 10,
+  "blank": 49,
+  "comment": 0,
+  "code": 342},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 49,
+  "comment": 0,
+  "code": 220},
+"Dockerfile" :{
+  "nFiles": 9,
+  "blank": 25,
+  "comment": 0,
+  "code": 122},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 112},
+"Pug" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1927,
+  "comment": 270,
+  "code": 14599,
+  "nFiles": 336} }

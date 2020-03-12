@@ -1,0 +1,119 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 333.622824907303,
+  "n_files"            : 948,
+  "n_lines"            : 381578,
+  "files_per_second"   : 2.84153220111185,
+  "lines_per_second"   : 1143.74069012221,
+  "report_file"        : "loc/cscenter__hpcourse.json"},
+"Java" :{
+  "nFiles": 502,
+  "blank": 23839,
+  "comment": 56874,
+  "code": 234966},
+"C++" :{
+  "nFiles": 165,
+  "blank": 6988,
+  "comment": 2310,
+  "code": 33050},
+"C/C++ Header" :{
+  "nFiles": 40,
+  "blank": 1575,
+  "comment": 952,
+  "code": 8865},
+"XML" :{
+  "nFiles": 58,
+  "blank": 0,
+  "comment": 0,
+  "code": 4981},
+"Kotlin" :{
+  "nFiles": 28,
+  "blank": 337,
+  "comment": 213,
+  "code": 1806},
+"Protocol Buffers" :{
+  "nFiles": 12,
+  "blank": 193,
+  "comment": 44,
+  "code": 728},
+"Maven" :{
+  "nFiles": 21,
+  "blank": 83,
+  "comment": 2,
+  "code": 671},
+"C#" :{
+  "nFiles": 4,
+  "blank": 86,
+  "comment": 20,
+  "code": 529},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 161,
+  "comment": 0,
+  "code": 322},
+"CMake" :{
+  "nFiles": 38,
+  "blank": 126,
+  "comment": 16,
+  "code": 314},
+"make" :{
+  "nFiles": 33,
+  "blank": 109,
+  "comment": 43,
+  "code": 299},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 41,
+  "code": 253},
+"Groovy" :{
+  "nFiles": 3,
+  "blank": 39,
+  "comment": 8,
+  "code": 200},
+"DOS Batch" :{
+  "nFiles": 6,
+  "blank": 47,
+  "comment": 4,
+  "code": 134},
+"Python" :{
+  "nFiles": 4,
+  "blank": 33,
+  "comment": 16,
+  "code": 100},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 53},
+"Gradle" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 0,
+  "code": 44},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 21},
+"C" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 33678,
+  "comment": 60550,
+  "code": 287350,
+  "nFiles": 948} }

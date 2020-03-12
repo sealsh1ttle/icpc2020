@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.968896865844727,
+  "n_files"            : 6,
+  "n_lines"            : 450,
+  "files_per_second"   : 6.19260956610582,
+  "lines_per_second"   : 464.445717457936,
+  "report_file"        : "loc/getlantern__ipfs-example.json"},
+"Go" :{
+  "nFiles": 5,
+  "blank": 57,
+  "comment": 5,
+  "code": 342},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 67,
+  "comment": 5,
+  "code": 378,
+  "nFiles": 6} }

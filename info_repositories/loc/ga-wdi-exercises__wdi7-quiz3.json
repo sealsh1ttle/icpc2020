@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.177733898162842,
+  "n_files"            : 1,
+  "n_lines"            : 174,
+  "files_per_second"   : 5.62638872120944,
+  "lines_per_second"   : 978.991637490442,
+  "report_file"        : "loc/ga-wdi-exercises__wdi7-quiz3.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 46,
+  "comment": 0,
+  "code": 128},
+"SUM": {
+  "blank": 46,
+  "comment": 0,
+  "code": 128,
+  "nFiles": 1} }

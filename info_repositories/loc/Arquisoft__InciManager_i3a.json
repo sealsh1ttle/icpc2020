@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.62054896354675,
+  "n_files"            : 33,
+  "n_lines"            : 2265,
+  "files_per_second"   : 4.33039668898619,
+  "lines_per_second"   : 297.222681834961,
+  "report_file"        : "loc/Arquisoft__InciManager_i3a.json"},
+"Java" :{
+  "nFiles": 18,
+  "blank": 164,
+  "comment": 114,
+  "code": 678},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 100,
+  "comment": 0,
+  "code": 266},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 38,
+  "comment": 19,
+  "code": 222},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 47,
+  "comment": 2,
+  "code": 219},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 18,
+  "code": 196},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 124},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 384,
+  "comment": 153,
+  "code": 1728,
+  "nFiles": 33} }

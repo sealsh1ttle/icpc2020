@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.614089012145996,
+  "n_files"            : 4,
+  "n_lines"            : 76,
+  "files_per_second"   : 6.51371368137918,
+  "lines_per_second"   : 123.760559946204,
+  "report_file"        : "loc/RJ722__example-vulture.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 12,
+  "code": 19},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 23,
+  "comment": 12,
+  "code": 41,
+  "nFiles": 4} }

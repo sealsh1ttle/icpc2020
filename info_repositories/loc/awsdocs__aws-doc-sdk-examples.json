@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 22.4140739440918,
+  "n_files"            : 2399,
+  "n_lines"            : 192588,
+  "files_per_second"   : 107.030966614276,
+  "lines_per_second"   : 8592.28003264284,
+  "report_file"        : "loc/awsdocs__aws-doc-sdk-examples.json"},
+"Java" :{
+  "nFiles": 489,
+  "blank": 7415,
+  "comment": 14906,
+  "code": 25669},
+"C#" :{
+  "nFiles": 171,
+  "blank": 2014,
+  "comment": 4843,
+  "code": 13819},
+"Python" :{
+  "nFiles": 340,
+  "blank": 4949,
+  "comment": 12852,
+  "code": 11108},
+"PHP" :{
+  "nFiles": 381,
+  "blank": 3383,
+  "comment": 15383,
+  "code": 10221},
+"C++" :{
+  "nFiles": 174,
+  "blank": 2415,
+  "comment": 4537,
+  "code": 8595},
+"Go" :{
+  "nFiles": 171,
+  "blank": 2272,
+  "comment": 5006,
+  "code": 6620},
+"JavaScript" :{
+  "nFiles": 191,
+  "blank": 1325,
+  "comment": 5859,
+  "code": 4770},
+"Ruby" :{
+  "nFiles": 192,
+  "blank": 1473,
+  "comment": 5050,
+  "code": 4279},
+"JSON" :{
+  "nFiles": 62,
+  "blank": 24,
+  "comment": 0,
+  "code": 3079},
+"MSBuild script" :{
+  "nFiles": 33,
+  "blank": 21,
+  "comment": 140,
+  "code": 2227},
+"Maven" :{
+  "nFiles": 39,
+  "blank": 103,
+  "comment": 6,
+  "code": 1747},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 92,
+  "comment": 175,
+  "code": 1188},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 167,
+  "comment": 452,
+  "code": 758},
+"Bourne Shell" :{
+  "nFiles": 34,
+  "blank": 10,
+  "comment": 0,
+  "code": 406},
+"TypeScript" :{
+  "nFiles": 23,
+  "blank": 101,
+  "comment": 635,
+  "code": 402},
+"CMake" :{
+  "nFiles": 22,
+  "blank": 114,
+  "comment": 224,
+  "code": 373},
+"reStructuredText" :{
+  "nFiles": 11,
+  "blank": 208,
+  "comment": 91,
+  "code": 339},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 170,
+  "comment": 0,
+  "code": 319},
+"make" :{
+  "nFiles": 27,
+  "blank": 72,
+  "comment": 0,
+  "code": 135},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 46},
+"SUM": {
+  "blank": 26329,
+  "comment": 70159,
+  "code": 96100,
+  "nFiles": 2399} }

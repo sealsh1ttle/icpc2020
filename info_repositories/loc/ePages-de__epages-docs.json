@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 70.8285231590271,
+  "n_files"            : 307,
+  "n_lines"            : 30478,
+  "files_per_second"   : 4.33441198979557,
+  "lines_per_second"   : 430.306868485307,
+  "report_file"        : "loc/ePages-de__epages-docs.json"},
+"JSON" :{
+  "nFiles": 174,
+  "blank": 2,
+  "comment": 0,
+  "code": 8673},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 1623,
+  "comment": 1541,
+  "code": 6608},
+"Markdown" :{
+  "nFiles": 58,
+  "blank": 1284,
+  "comment": 0,
+  "code": 3827},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 1,
+  "code": 1813},
+"Sass" :{
+  "nFiles": 18,
+  "blank": 317,
+  "comment": 102,
+  "code": 1365},
+"RAML" :{
+  "nFiles": 22,
+  "blank": 46,
+  "comment": 21,
+  "code": 1298},
+"Ruby" :{
+  "nFiles": 8,
+  "blank": 130,
+  "comment": 7,
+  "code": 732},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 44,
+  "comment": 0,
+  "code": 365},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 60,
+  "comment": 0,
+  "code": 345},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 1,
+  "code": 179},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 2,
+  "code": 32},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 3544,
+  "comment": 1675,
+  "code": 25259,
+  "nFiles": 307} }

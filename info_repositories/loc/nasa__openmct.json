@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.7135100364685,
+  "n_files"            : 1239,
+  "n_lines"            : 147684,
+  "files_per_second"   : 115.648372548537,
+  "lines_per_second"   : 13784.8379753496,
+  "report_file"        : "loc/nasa__openmct.json"},
+"JavaScript" :{
+  "nFiles": 921,
+  "blank": 12164,
+  "comment": 33332,
+  "code": 66668},
+"Sass" :{
+  "nFiles": 86,
+  "blank": 1005,
+  "comment": 384,
+  "code": 10379},
+"Markdown" :{
+  "nFiles": 60,
+  "blank": 2216,
+  "comment": 0,
+  "code": 10013},
+"HTML" :{
+  "nFiles": 149,
+  "blank": 510,
+  "comment": 2026,
+  "code": 4237},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 4197},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 3,
+  "code": 352},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 5,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 39},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 28,
+  "code": 24},
+"GLSL" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 29,
+  "code": 17},
+"SUM": {
+  "blank": 15908,
+  "comment": 35807,
+  "code": 95969,
+  "nFiles": 1239} }

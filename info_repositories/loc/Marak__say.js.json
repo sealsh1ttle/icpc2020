@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.60377883911133,
+  "n_files"            : 20,
+  "n_lines"            : 2438,
+  "files_per_second"   : 3.02856901893029,
+  "lines_per_second"   : 369.182563407602,
+  "report_file"        : "loc/Marak__say.js.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1688},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 137,
+  "comment": 56,
+  "code": 410},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 44,
+  "comment": 0,
+  "code": 81},
+"TypeScript" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 184,
+  "comment": 56,
+  "code": 2198,
+  "nFiles": 20} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.090616941452,
+  "n_files"            : 53,
+  "n_lines"            : 4327,
+  "files_per_second"   : 4.77881440498666,
+  "lines_per_second"   : 390.149621327873,
+  "report_file"        : "loc/morajabi__just-one-rocks-webapp.json"},
+"JavaScript" :{
+  "nFiles": 47,
+  "blank": 493,
+  "comment": 101,
+  "code": 3568},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 90},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 494,
+  "comment": 101,
+  "code": 3732,
+  "nFiles": 53} }

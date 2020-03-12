@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.203681945800781,
+  "n_files"            : 1,
+  "n_lines"            : 10,
+  "files_per_second"   : 4.90961531258194,
+  "lines_per_second"   : 49.0961531258194,
+  "report_file"        : "loc/jonathanlee46__phase-0-gps-1.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 3,
+  "comment": 0,
+  "code": 7,
+  "nFiles": 1} }

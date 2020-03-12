@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.5859739780426,
+  "n_files"            : 18,
+  "n_lines"            : 1671,
+  "files_per_second"   : 5.01955678156518,
+  "lines_per_second"   : 465.982187888634,
+  "report_file"        : "loc/geocoder-php__GeocoderLaravel.json"},
+"PHP" :{
+  "nFiles": 11,
+  "blank": 158,
+  "comment": 147,
+  "code": 653},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 118,
+  "comment": 0,
+  "code": 463},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 75},
+"XML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 39},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 282,
+  "comment": 147,
+  "code": 1242,
+  "nFiles": 18} }

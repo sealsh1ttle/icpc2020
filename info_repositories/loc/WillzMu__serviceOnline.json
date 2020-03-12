@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.554728031158447,
+  "n_files"            : 32,
+  "n_lines"            : 18943,
+  "files_per_second"   : 57.685925719625,
+  "lines_per_second"   : 34148.2653408393,
+  "report_file"        : "loc/WillzMu__serviceOnline.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 15543},
+"JSX" :{
+  "nFiles": 11,
+  "blank": 206,
+  "comment": 291,
+  "code": 1441},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 135,
+  "comment": 54,
+  "code": 750},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 53,
+  "comment": 32,
+  "code": 311},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 5,
+  "code": 44},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 20,
+  "code": 17},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 11},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 417,
+  "comment": 402,
+  "code": 18124,
+  "nFiles": 32} }

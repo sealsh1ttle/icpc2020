@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.8182609081268,
+  "n_files"            : 124,
+  "n_lines"            : 7384,
+  "files_per_second"   : 3.1943728827388,
+  "lines_per_second"   : 190.219752952769,
+  "report_file"        : "loc/square__flow.json"},
+"Java" :{
+  "nFiles": 74,
+  "blank": 792,
+  "comment": 1349,
+  "code": 3373},
+"XML" :{
+  "nFiles": 33,
+  "blank": 72,
+  "comment": 446,
+  "code": 428},
+"Gradle" :{
+  "nFiles": 10,
+  "blank": 65,
+  "comment": 16,
+  "code": 325},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 77,
+  "comment": 0,
+  "code": 209},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 27,
+  "code": 147},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 24},
+"SUM": {
+  "blank": 1039,
+  "comment": 1839,
+  "code": 4506,
+  "nFiles": 124} }

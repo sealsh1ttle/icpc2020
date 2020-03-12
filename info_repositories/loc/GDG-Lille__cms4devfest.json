@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.8761110305786,
+  "n_files"            : 48,
+  "n_lines"            : 16505,
+  "files_per_second"   : 3.02341045030161,
+  "lines_per_second"   : 1039.61228087975,
+  "report_file"        : "loc/GDG-Lille__cms4devfest.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 13464},
+"Vuejs Component" :{
+  "nFiles": 19,
+  "blank": 160,
+  "comment": 7,
+  "code": 1886},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 96,
+  "comment": 5,
+  "code": 684},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 0,
+  "code": 52},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 46},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 35},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 17},
+"SUM": {
+  "blank": 290,
+  "comment": 13,
+  "code": 16202,
+  "nFiles": 48} }

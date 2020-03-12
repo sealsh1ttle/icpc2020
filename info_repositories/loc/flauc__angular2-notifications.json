@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.50019288063049,
+  "n_files"            : 30,
+  "n_lines"            : 12063,
+  "files_per_second"   : 5.45435417467779,
+  "lines_per_second"   : 2193.19581363794,
+  "report_file"        : "loc/flauc__angular2-notifications.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 10239},
+"TypeScript" :{
+  "nFiles": 13,
+  "blank": 156,
+  "comment": 26,
+  "code": 862},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 92,
+  "comment": 0,
+  "code": 267},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 0,
+  "code": 125},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 67,
+  "code": 102},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 60},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 309,
+  "comment": 93,
+  "code": 11661,
+  "nFiles": 30} }

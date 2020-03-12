@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.902930974960327,
+  "n_files"            : 139,
+  "n_lines"            : 39586,
+  "files_per_second"   : 153.943107341187,
+  "lines_per_second"   : 43841.6679655267,
+  "report_file"        : "loc/weldr__cockpit-composer.json"},
+"JavaScript" :{
+  "nFiles": 103,
+  "blank": 1152,
+  "comment": 627,
+  "code": 13936},
+"PO File" :{
+  "nFiles": 14,
+  "blank": 2616,
+  "comment": 13333,
+  "code": 5871},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 60,
+  "comment": 41,
+  "code": 693},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 284},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 132,
+  "comment": 0,
+  "code": 283},
+"Python" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 31,
+  "code": 147},
+"make" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 11,
+  "code": 104},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 17,
+  "comment": 25,
+  "code": 77},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 51},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"EJS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 13},
+"SUM": {
+  "blank": 4033,
+  "comment": 14070,
+  "code": 21483,
+  "nFiles": 139} }

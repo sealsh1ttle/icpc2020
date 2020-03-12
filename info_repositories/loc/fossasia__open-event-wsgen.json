@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.04891014099121,
+  "n_files"            : 113,
+  "n_lines"            : 42485,
+  "files_per_second"   : 107.730868054356,
+  "lines_per_second"   : 40503.9462768966,
+  "report_file"        : "loc/fossasia__open-event-wsgen.json"},
+"JavaScript" :{
+  "nFiles": 48,
+  "blank": 3040,
+  "comment": 1695,
+  "code": 16816},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 10586},
+"Handlebars" :{
+  "nFiles": 14,
+  "blank": 287,
+  "comment": 95,
+  "code": 3354},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 427,
+  "comment": 30,
+  "code": 2154},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 435,
+  "comment": 0,
+  "code": 1153},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 69,
+  "comment": 23,
+  "code": 861},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 685},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 78,
+  "comment": 11,
+  "code": 385},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 22,
+  "comment": 2,
+  "code": 73},
+"Python" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 68},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 20,
+  "code": 63},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 3,
+  "code": 23},
+"SUM": {
+  "blank": 4384,
+  "comment": 1880,
+  "code": 36221,
+  "nFiles": 113} }

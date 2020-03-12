@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.4262177944183,
+  "n_files"            : 62,
+  "n_lines"            : 14637,
+  "files_per_second"   : 4.01913163850399,
+  "lines_per_second"   : 948.839190206176,
+  "report_file"        : "loc/microsoft__TailwindTraders-Rewards.json"},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 1070,
+  "comment": 53,
+  "code": 7432},
+"C#" :{
+  "nFiles": 31,
+  "blank": 320,
+  "comment": 600,
+  "code": 1629},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 549,
+  "comment": 331,
+  "code": 1406},
+"ASP.NET" :{
+  "nFiles": 6,
+  "blank": 37,
+  "comment": 0,
+  "code": 388},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 260},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 7,
+  "code": 237},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 111},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 77,
+  "comment": 0,
+  "code": 96},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 2054,
+  "comment": 991,
+  "code": 11592,
+  "nFiles": 62} }

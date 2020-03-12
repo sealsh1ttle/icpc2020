@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.876919031143188,
+  "n_files"            : 96,
+  "n_lines"            : 22245,
+  "files_per_second"   : 109.474189281592,
+  "lines_per_second"   : 25367.222297594,
+  "report_file"        : "loc/OWASP__CheatSheetSeries.json"},
+"Markdown" :{
+  "nFiles": 81,
+  "blank": 6573,
+  "comment": 0,
+  "code": 15048},
+"Python" :{
+  "nFiles": 5,
+  "blank": 28,
+  "comment": 76,
+  "code": 217},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 111},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 69},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 14,
+  "code": 69},
+"Java" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 31},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 6603,
+  "comment": 96,
+  "code": 15546,
+  "nFiles": 96} }

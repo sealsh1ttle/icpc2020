@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 349.768425941467,
+  "n_files"            : 1504,
+  "n_lines"            : 742234,
+  "files_per_second"   : 4.29998790185736,
+  "lines_per_second"   : 2122.0726199117,
+  "report_file"        : "loc/astropy__astropy.json"},
+"C" :{
+  "nFiles": 369,
+  "blank": 39375,
+  "comment": 61963,
+  "code": 221144},
+"Python" :{
+  "nFiles": 724,
+  "blank": 52809,
+  "comment": 77626,
+  "code": 141630},
+"reStructuredText" :{
+  "nFiles": 233,
+  "blank": 15657,
+  "comment": 7075,
+  "code": 40935},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 3903,
+  "comment": 8696,
+  "code": 13069},
+"Bourne Shell" :{
+  "nFiles": 9,
+  "blank": 1297,
+  "comment": 1647,
+  "code": 11336},
+"C/C++ Header" :{
+  "nFiles": 82,
+  "blank": 2514,
+  "comment": 13472,
+  "code": 9680},
+"lex" :{
+  "nFiles": 5,
+  "blank": 1519,
+  "comment": 784,
+  "code": 6113},
+"XML" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 6,
+  "code": 1448},
+"Cython" :{
+  "nFiles": 8,
+  "blank": 308,
+  "comment": 296,
+  "code": 1428},
+"YAML" :{
+  "nFiles": 26,
+  "blank": 151,
+  "comment": 90,
+  "code": 1390},
+"XSD" :{
+  "nFiles": 3,
+  "blank": 99,
+  "comment": 300,
+  "code": 1197},
+"make" :{
+  "nFiles": 4,
+  "blank": 111,
+  "comment": 139,
+  "code": 696},
+"m4" :{
+  "nFiles": 1,
+  "blank": 93,
+  "comment": 0,
+  "code": 466},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 30,
+  "code": 419},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 90,
+  "comment": 0,
+  "code": 337},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 263},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 1,
+  "code": 150},
+"Windows Module Definition" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 16,
+  "code": 138},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 27,
+  "code": 116},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 79},
+"TeX" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 2,
+  "code": 32},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 117972,
+  "comment": 172170,
+  "code": 452092,
+  "nFiles": 1504} }

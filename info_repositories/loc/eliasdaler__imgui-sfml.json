@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0819780826568604,
+  "n_files"            : 10,
+  "n_lines"            : 1701,
+  "files_per_second"   : 121.983823918614,
+  "lines_per_second"   : 20749.4484485562,
+  "report_file"        : "loc/eliasdaler__imgui-sfml.json"},
+"C++" :{
+  "nFiles": 2,
+  "blank": 172,
+  "comment": 29,
+  "code": 775},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 0,
+  "code": 162},
+"CMake" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 36,
+  "code": 161},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 6,
+  "code": 125},
+"Python" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 19,
+  "code": 79},
+"SUM": {
+  "blank": 309,
+  "comment": 90,
+  "code": 1302,
+  "nFiles": 10} }

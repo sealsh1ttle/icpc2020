@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 42.8655390739441,
+  "n_files"            : 50,
+  "n_lines"            : 12649,
+  "files_per_second"   : 1.16643814775661,
+  "lines_per_second"   : 295.085522619468,
+  "report_file"        : "loc/wizzomafizzo__starcheat.json"},
+"Qt" :{
+  "nFiles": 17,
+  "blank": 6,
+  "comment": 0,
+  "code": 6441},
+"Python" :{
+  "nFiles": 26,
+  "blank": 1121,
+  "comment": 382,
+  "code": 4454},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 34,
+  "comment": 0,
+  "code": 103},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 59},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 5,
+  "code": 29},
+"SUM": {
+  "blank": 1176,
+  "comment": 387,
+  "code": 11086,
+  "nFiles": 50} }

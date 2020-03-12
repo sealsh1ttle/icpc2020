@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.146892070770264,
+  "n_files"            : 18,
+  "n_lines"            : 2417,
+  "files_per_second"   : 122.538949213614,
+  "lines_per_second"   : 16454.2577916281,
+  "report_file"        : "loc/kupiakos__LapisMirror.json"},
+"Python" :{
+  "nFiles": 17,
+  "blank": 394,
+  "comment": 753,
+  "code": 1239},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 26},
+"SUM": {
+  "blank": 399,
+  "comment": 753,
+  "code": 1265,
+  "nFiles": 18} }

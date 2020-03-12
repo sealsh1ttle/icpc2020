@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.0603330135345,
+  "n_files"            : 264,
+  "n_lines"            : 47866,
+  "files_per_second"   : 7.98540050676202,
+  "lines_per_second"   : 1447.83780551769,
+  "report_file"        : "loc/jplag__jplag.json"},
+"Java" :{
+  "nFiles": 179,
+  "blank": 4899,
+  "comment": 4599,
+  "code": 28272},
+"ANTLR Grammar" :{
+  "nFiles": 5,
+  "blank": 696,
+  "comment": 872,
+  "code": 3786},
+"Maven" :{
+  "nFiles": 22,
+  "blank": 161,
+  "comment": 91,
+  "code": 2189},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 83,
+  "comment": 0,
+  "code": 919},
+"JSP" :{
+  "nFiles": 8,
+  "blank": 28,
+  "comment": 108,
+  "code": 271},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 32,
+  "code": 158},
+"XML" :{
+  "nFiles": 11,
+  "blank": 8,
+  "comment": 16,
+  "code": 156},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 143,
+  "code": 114},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 71},
+"Velocity Template Language" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 40},
+"INI" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 9},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 10,
+  "code": 8},
+"SUM": {
+  "blank": 5956,
+  "comment": 5875,
+  "code": 36035,
+  "nFiles": 264} }

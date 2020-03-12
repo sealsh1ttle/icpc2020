@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.926146984100342,
+  "n_files"            : 10,
+  "n_lines"            : 2212,
+  "files_per_second"   : 10.7974221928866,
+  "lines_per_second"   : 2388.38978906651,
+  "report_file"        : "loc/rShetty__awesome-podcasts.json"},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 620,
+  "comment": 0,
+  "code": 1485},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 107},
+"SUM": {
+  "blank": 620,
+  "comment": 0,
+  "code": 1592,
+  "nFiles": 10} }

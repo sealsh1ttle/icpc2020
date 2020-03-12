@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.41813182830811,
+  "n_files"            : 843,
+  "n_lines"            : 86541,
+  "files_per_second"   : 89.5081970997892,
+  "lines_per_second"   : 9188.7649883901,
+  "report_file"        : "loc/AlphaWallet__alpha-wallet-android.json"},
+"Java" :{
+  "nFiles": 535,
+  "blank": 9106,
+  "comment": 3429,
+  "code": 55547},
+"XML" :{
+  "nFiles": 265,
+  "blank": 1451,
+  "comment": 217,
+  "code": 14168},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 6,
+  "code": 378},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 170,
+  "comment": 0,
+  "code": 345},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 324},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 49,
+  "comment": 46,
+  "code": 213},
+"Solidity" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 17,
+  "code": 177},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 152},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 23,
+  "comment": 12,
+  "code": 139},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 12,
+  "code": 107},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 6,
+  "code": 23},
+"C" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 14},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 21,
+  "code": 14},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 6},
+"SUM": {
+  "blank": 10958,
+  "comment": 3791,
+  "code": 71792,
+  "nFiles": 843} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.278214931488037,
+  "n_files"            : 4,
+  "n_lines"            : 475,
+  "files_per_second"   : 14.3773735600959,
+  "lines_per_second"   : 1707.31311026139,
+  "report_file"        : "loc/NathanKell__CrossFeedEnabler.json"},
+"C#" :{
+  "nFiles": 3,
+  "blank": 42,
+  "comment": 91,
+  "code": 282},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 53},
+"SUM": {
+  "blank": 42,
+  "comment": 98,
+  "code": 335,
+  "nFiles": 4} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.30186295509338,
+  "n_files"            : 27,
+  "n_lines"            : 2046,
+  "files_per_second"   : 5.09254958656781,
+  "lines_per_second"   : 385.90209089325,
+  "report_file"        : "loc/ethz-asl__waypoint_navigator.json"},
+"C++" :{
+  "nFiles": 1,
+  "blank": 85,
+  "comment": 62,
+  "code": 602},
+"YAML" :{
+  "nFiles": 19,
+  "blank": 116,
+  "comment": 207,
+  "code": 370},
+"XML" :{
+  "nFiles": 4,
+  "blank": 32,
+  "comment": 30,
+  "code": 128},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 65,
+  "code": 120},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 62,
+  "comment": 0,
+  "code": 119},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 332,
+  "comment": 364,
+  "code": 1350,
+  "nFiles": 27} }

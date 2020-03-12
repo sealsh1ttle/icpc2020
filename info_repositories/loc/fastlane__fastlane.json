@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 503.756162166595,
+  "n_files"            : 1716,
+  "n_lines"            : 611610,
+  "files_per_second"   : 3.40640994369119,
+  "lines_per_second"   : 1214.09929234322,
+  "report_file"        : "loc/fastlane__fastlane.json"},
+"JSON" :{
+  "nFiles": 241,
+  "blank": 211,
+  "comment": 0,
+  "code": 452791},
+"Ruby" :{
+  "nFiles": 1095,
+  "blank": 17258,
+  "comment": 8313,
+  "code": 92445},
+"XML" :{
+  "nFiles": 85,
+  "blank": 29,
+  "comment": 33,
+  "code": 14933},
+"Swift" :{
+  "nFiles": 52,
+  "blank": 1364,
+  "comment": 3995,
+  "code": 6289},
+"Markdown" :{
+  "nFiles": 88,
+  "blank": 1831,
+  "comment": 0,
+  "code": 4379},
+"ERB" :{
+  "nFiles": 27,
+  "blank": 399,
+  "comment": 2,
+  "code": 1831},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 145,
+  "comment": 280,
+  "code": 839},
+"Objective C" :{
+  "nFiles": 50,
+  "blank": 384,
+  "comment": 417,
+  "code": 639},
+"Java" :{
+  "nFiles": 15,
+  "blank": 183,
+  "comment": 144,
+  "code": 633},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 117,
+  "comment": 94,
+  "code": 583},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 22,
+  "code": 137},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 4,
+  "code": 123},
+"C/C++ Header" :{
+  "nFiles": 32,
+  "blank": 154,
+  "comment": 161,
+  "code": 119},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 22,
+  "comment": 5,
+  "code": 108},
+"Fish Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 29},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 4,
+  "code": 25},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"zsh" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 16},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 22188,
+  "comment": 13479,
+  "code": 575943,
+  "nFiles": 1716} }

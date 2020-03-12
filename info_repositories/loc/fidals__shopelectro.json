@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 140.923377037048,
+  "n_files"            : 352,
+  "n_lines"            : 46887,
+  "files_per_second"   : 2.49781127447336,
+  "lines_per_second"   : 332.712719392706,
+  "report_file"        : "loc/fidals__shopelectro.json"},
+"LESS" :{
+  "nFiles": 117,
+  "blank": 3054,
+  "comment": 2142,
+  "code": 16718},
+"Python" :{
+  "nFiles": 105,
+  "blank": 2068,
+  "comment": 885,
+  "code": 7414},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 4645},
+"JavaScript" :{
+  "nFiles": 37,
+  "blank": 597,
+  "comment": 827,
+  "code": 3590},
+"HTML" :{
+  "nFiles": 62,
+  "blank": 236,
+  "comment": 52,
+  "code": 2936},
+"YAML" :{
+  "nFiles": 7,
+  "blank": 49,
+  "comment": 39,
+  "code": 501},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 74,
+  "comment": 0,
+  "code": 216},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 92,
+  "comment": 35,
+  "code": 201},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 39,
+  "comment": 33,
+  "code": 189},
+"make" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 14,
+  "code": 99},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 57},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 4,
+  "code": 26},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 6253,
+  "comment": 4035,
+  "code": 36599,
+  "nFiles": 352} }

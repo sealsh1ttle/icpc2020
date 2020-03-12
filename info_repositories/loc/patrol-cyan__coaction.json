@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.7567529678345,
+  "n_files"            : 63,
+  "n_lines"            : 2431,
+  "files_per_second"   : 3.9982856955749,
+  "lines_per_second"   : 154.283055967343,
+  "report_file"        : "loc/patrol-cyan__coaction.json"},
+"JavaScript" :{
+  "nFiles": 30,
+  "blank": 186,
+  "comment": 160,
+  "code": 705},
+"Python" :{
+  "nFiles": 13,
+  "blank": 165,
+  "comment": 86,
+  "code": 449},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 57,
+  "comment": 0,
+  "code": 119},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 15,
+  "comment": 2,
+  "code": 117},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 16,
+  "comment": 1,
+  "code": 113},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 103},
+"INI" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 34},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 15},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 487,
+  "comment": 250,
+  "code": 1694,
+  "nFiles": 63} }

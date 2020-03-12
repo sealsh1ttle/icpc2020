@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 55.3563239574432,
+  "n_files"            : 214,
+  "n_lines"            : 204775,
+  "files_per_second"   : 3.86586363943745,
+  "lines_per_second"   : 3699.21601292432,
+  "report_file"        : "loc/roclark__sportsreference.json"},
+"HTML" :{
+  "nFiles": 89,
+  "blank": 26016,
+  "comment": 39671,
+  "code": 79954},
+"Python" :{
+  "nFiles": 104,
+  "blank": 5709,
+  "comment": 14061,
+  "code": 37076},
+"reStructuredText" :{
+  "nFiles": 12,
+  "blank": 490,
+  "comment": 747,
+  "code": 599},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 57,
+  "comment": 0,
+  "code": 222},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 2,
+  "code": 120},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 21},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 10},
+"SUM": {
+  "blank": 32286,
+  "comment": 54487,
+  "code": 118002,
+  "nFiles": 214} }

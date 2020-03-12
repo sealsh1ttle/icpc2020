@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.76918196678162,
+  "n_files"            : 161,
+  "n_lines"            : 11583,
+  "files_per_second"   : 91.0025102126046,
+  "lines_per_second"   : 6547.09363846335,
+  "report_file"        : "loc/Lemoncode__vuejs-by-sample.json"},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 1494,
+  "comment": 0,
+  "code": 6253},
+"TypeScript" :{
+  "nFiles": 91,
+  "blank": 130,
+  "comment": 0,
+  "code": 1495},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 18,
+  "comment": 15,
+  "code": 793},
+"Vuejs Component" :{
+  "nFiles": 21,
+  "blank": 50,
+  "comment": 0,
+  "code": 674},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 535},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 108},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 1694,
+  "comment": 15,
+  "code": 9874,
+  "nFiles": 161} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.6672389507294,
+  "n_files"            : 73,
+  "n_lines"            : 9919,
+  "files_per_second"   : 4.13194162390532,
+  "lines_per_second"   : 561.434643390642,
+  "report_file"        : "loc/rsdoiel__rsdoiel.github.io.json"},
+"HTML" :{
+  "nFiles": 24,
+  "blank": 843,
+  "comment": 30,
+  "code": 3660},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 631,
+  "comment": 0,
+  "code": 2135},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 226,
+  "comment": 218,
+  "code": 1190},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 54,
+  "comment": 40,
+  "code": 365},
+"XML" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 0,
+  "code": 229},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 9,
+  "code": 111},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 65},
+"make" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 3,
+  "code": 47},
+"SUM": {
+  "blank": 1816,
+  "comment": 301,
+  "code": 7802,
+  "nFiles": 73} }

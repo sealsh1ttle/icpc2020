@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 679.317482948303,
+  "n_files"            : 2811,
+  "n_lines"            : 420627,
+  "files_per_second"   : 4.13797682314901,
+  "lines_per_second"   : 619.190600210138,
+  "report_file"        : "loc/zammad__zammad.json"},
+"Ruby" :{
+  "nFiles": 1657,
+  "blank": 28729,
+  "comment": 16302,
+  "code": 147990},
+"JavaScript" :{
+  "nFiles": 166,
+  "blank": 9542,
+  "comment": 6967,
+  "code": 52417},
+"CoffeeScript" :{
+  "nFiles": 401,
+  "blank": 9366,
+  "comment": 2974,
+  "code": 43515},
+"YAML" :{
+  "nFiles": 99,
+  "blank": 243,
+  "comment": 175,
+  "code": 36535},
+"JSON" :{
+  "nFiles": 97,
+  "blank": 1,
+  "comment": 0,
+  "code": 30420},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 2291,
+  "comment": 15,
+  "code": 11215},
+"CSS" :{
+  "nFiles": 17,
+  "blank": 224,
+  "comment": 125,
+  "code": 6716},
+"SVG" :{
+  "nFiles": 150,
+  "blank": 1,
+  "comment": 140,
+  "code": 5948},
+"HTML" :{
+  "nFiles": 14,
+  "blank": 354,
+  "comment": 219,
+  "code": 2835},
+"ERB" :{
+  "nFiles": 178,
+  "blank": 294,
+  "comment": 0,
+  "code": 2733},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 150,
+  "comment": 176,
+  "code": 717},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 130,
+  "comment": 47,
+  "code": 637},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 31,
+  "code": 230},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 71,
+  "comment": 0,
+  "code": 119},
+"SUM": {
+  "blank": 51429,
+  "comment": 27171,
+  "code": 342027,
+  "nFiles": 2811} }

@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 339.632195949554,
+  "n_files"            : 1563,
+  "n_lines"            : 499220,
+  "files_per_second"   : 4.6020371997717,
+  "lines_per_second"   : 1469.88420401153,
+  "report_file"        : "loc/bitcoin__bitcoin.json"},
+"Qt Linguist" :{
+  "nFiles": 99,
+  "blank": 64,
+  "comment": 0,
+  "code": 201069},
+"C++" :{
+  "nFiles": 423,
+  "blank": 17427,
+  "comment": 14398,
+  "code": 107013},
+"C/C++ Header" :{
+  "nFiles": 368,
+  "blank": 7756,
+  "comment": 12375,
+  "code": 31875},
+"Python" :{
+  "nFiles": 174,
+  "blank": 6132,
+  "comment": 6527,
+  "code": 25187},
+"Markdown" :{
+  "nFiles": 159,
+  "blank": 4569,
+  "comment": 0,
+  "code": 17743},
+"Qt" :{
+  "nFiles": 18,
+  "blank": 2,
+  "comment": 0,
+  "code": 8602},
+"C" :{
+  "nFiles": 18,
+  "blank": 891,
+  "comment": 653,
+  "code": 7541},
+"JSON" :{
+  "nFiles": 86,
+  "blank": 338,
+  "comment": 0,
+  "code": 6811},
+"Bourne Shell" :{
+  "nFiles": 67,
+  "blank": 468,
+  "comment": 915,
+  "code": 5261},
+"m4" :{
+  "nFiles": 22,
+  "blank": 612,
+  "comment": 148,
+  "code": 4988},
+"make" :{
+  "nFiles": 44,
+  "blank": 520,
+  "comment": 95,
+  "code": 2812},
+"XML" :{
+  "nFiles": 20,
+  "blank": 32,
+  "comment": 1,
+  "code": 1123},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 80,
+  "comment": 68,
+  "code": 945},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 84,
+  "comment": 105,
+  "code": 730},
+"SVG" :{
+  "nFiles": 21,
+  "blank": 8,
+  "comment": 20,
+  "code": 726},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 0,
+  "code": 460},
+"Java" :{
+  "nFiles": 4,
+  "blank": 143,
+  "comment": 187,
+  "code": 438},
+"diff" :{
+  "nFiles": 12,
+  "blank": 46,
+  "comment": 184,
+  "code": 187},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 26,
+  "code": 176},
+"Windows Resource File" :{
+  "nFiles": 5,
+  "blank": 16,
+  "comment": 0,
+  "code": 162},
+"Objective C++" :{
+  "nFiles": 3,
+  "blank": 32,
+  "comment": 20,
+  "code": 134},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 20,
+  "code": 133},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 8,
+  "code": 37},
+"IDL" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 39296,
+  "comment": 35750,
+  "code": 424174,
+  "nFiles": 1563} }

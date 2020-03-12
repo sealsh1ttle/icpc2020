@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.123800039291382,
+  "n_files"            : 10,
+  "n_lines"            : 161,
+  "files_per_second"   : 80.7754186286121,
+  "lines_per_second"   : 1300.48423992066,
+  "report_file"        : "loc/tmcw__are-we-flow-yet.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 0,
+  "code": 37},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 17,
+  "code": 31},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"SUM": {
+  "blank": 26,
+  "comment": 17,
+  "code": 118,
+  "nFiles": 10} }

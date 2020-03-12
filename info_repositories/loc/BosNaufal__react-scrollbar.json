@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.2063558101654,
+  "n_files"            : 23,
+  "n_lines"            : 3348,
+  "files_per_second"   : 1.88426426016893,
+  "lines_per_second"   : 274.283336654155,
+  "report_file"        : "loc/BosNaufal__react-scrollbar.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 248,
+  "comment": 167,
+  "code": 1136},
+"JSX" :{
+  "nFiles": 6,
+  "blank": 163,
+  "comment": 86,
+  "code": 779},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 1,
+  "code": 251},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 97,
+  "comment": 0,
+  "code": 206},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 94},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 45},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 36},
+"SUM": {
+  "blank": 547,
+  "comment": 254,
+  "code": 2547,
+  "nFiles": 23} }

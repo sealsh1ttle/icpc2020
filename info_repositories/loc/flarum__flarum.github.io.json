@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.1078081130981,
+  "n_files"            : 74,
+  "n_lines"            : 2715,
+  "files_per_second"   : 4.89812946034465,
+  "lines_per_second"   : 179.708398443726,
+  "report_file"        : "loc/flarum__flarum.github.io.json"},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 86,
+  "comment": 2,
+  "code": 909},
+"HTML" :{
+  "nFiles": 19,
+  "blank": 140,
+  "comment": 0,
+  "code": 742},
+"SVG" :{
+  "nFiles": 44,
+  "blank": 2,
+  "comment": 45,
+  "code": 555},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 78,
+  "comment": 0,
+  "code": 116},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 306,
+  "comment": 47,
+  "code": 2362,
+  "nFiles": 74} }

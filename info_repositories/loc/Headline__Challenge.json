@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.739790916442871,
+  "n_files"            : 4,
+  "n_lines"            : 1882,
+  "files_per_second"   : 5.4069331091995,
+  "lines_per_second"   : 2543.96202787836,
+  "report_file"        : "loc/Headline__Challenge.json"},
+"SparForte" :{
+  "nFiles": 1,
+  "blank": 155,
+  "comment": 0,
+  "code": 982},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 129,
+  "comment": 0,
+  "code": 576},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 37},
+"SUM": {
+  "blank": 287,
+  "comment": 0,
+  "code": 1595,
+  "nFiles": 4} }

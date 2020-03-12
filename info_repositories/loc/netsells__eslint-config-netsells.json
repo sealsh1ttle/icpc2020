@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.796161890029907,
+  "n_files"            : 8,
+  "n_lines"            : 2145,
+  "files_per_second"   : 10.0482076574897,
+  "lines_per_second"   : 2694.17567816443,
+  "report_file"        : "loc/netsells__eslint-config-netsells.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 584,
+  "comment": 0,
+  "code": 1293},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 3,
+  "comment": 68,
+  "code": 168},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 587,
+  "comment": 68,
+  "code": 1490,
+  "nFiles": 8} }

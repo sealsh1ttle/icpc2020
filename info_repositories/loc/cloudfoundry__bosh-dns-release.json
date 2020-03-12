@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1225.01158308983,
+  "n_files"            : 3272,
+  "n_lines"            : 1380712,
+  "files_per_second"   : 2.67099515234548,
+  "lines_per_second"   : 1127.10117933534,
+  "report_file"        : "loc/cloudfoundry__bosh-dns-release.json"},
+"Go" :{
+  "nFiles": 2879,
+  "blank": 104937,
+  "comment": 121686,
+  "code": 1113764},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 101,
+  "comment": 0,
+  "code": 16265},
+"Assembly" :{
+  "nFiles": 70,
+  "blank": 772,
+  "comment": 997,
+  "code": 8596},
+"YAML" :{
+  "nFiles": 141,
+  "blank": 269,
+  "comment": 12,
+  "code": 4607},
+"Markdown" :{
+  "nFiles": 43,
+  "blank": 791,
+  "comment": 0,
+  "code": 2106},
+"Bourne Shell" :{
+  "nFiles": 34,
+  "blank": 309,
+  "comment": 649,
+  "code": 1502},
+"Perl" :{
+  "nFiles": 9,
+  "blank": 167,
+  "comment": 153,
+  "code": 1085},
+"ERB" :{
+  "nFiles": 55,
+  "blank": 173,
+  "comment": 0,
+  "code": 716},
+"Bourne Again Shell" :{
+  "nFiles": 8,
+  "blank": 60,
+  "comment": 9,
+  "code": 241},
+"TOML" :{
+  "nFiles": 8,
+  "blank": 47,
+  "comment": 131,
+  "code": 113},
+"PowerShell" :{
+  "nFiles": 6,
+  "blank": 30,
+  "comment": 1,
+  "code": 85},
+"C" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 37,
+  "code": 64},
+"make" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 65,
+  "code": 34},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 0,
+  "code": 34},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 25},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 20},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 107709,
+  "comment": 123745,
+  "code": 1149258,
+  "nFiles": 3272} }

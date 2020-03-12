@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0586271286010742,
+  "n_files"            : 8,
+  "n_lines"            : 546,
+  "files_per_second"   : 136.455599837332,
+  "lines_per_second"   : 9313.09468889793,
+  "report_file"        : "loc/k4m4__terminals-are-sexy.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 96,
+  "comment": 0,
+  "code": 354},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 37},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 36},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 106,
+  "comment": 1,
+  "code": 439,
+  "nFiles": 8} }

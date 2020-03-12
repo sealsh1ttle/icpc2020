@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.66677188873291,
+  "n_files"            : 329,
+  "n_lines"            : 295690,
+  "files_per_second"   : 89.7246979041528,
+  "lines_per_second"   : 80640.4131406654,
+  "report_file"        : "loc/STMicroelectronics__STMems_Standard_C_drivers.json"},
+"C" :{
+  "nFiles": 277,
+  "blank": 25059,
+  "comment": 92621,
+  "code": 129004},
+"C/C++ Header" :{
+  "nFiles": 51,
+  "blank": 6876,
+  "comment": 4738,
+  "code": 37285},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 0,
+  "code": 69},
+"SUM": {
+  "blank": 31973,
+  "comment": 97359,
+  "code": 166358,
+  "nFiles": 329} }

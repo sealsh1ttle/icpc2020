@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.05722093582153,
+  "n_files"            : 11,
+  "n_lines"            : 246,
+  "files_per_second"   : 10.4046369375501,
+  "lines_per_second"   : 232.685516967029,
+  "report_file"        : "loc/lewagon__rails-stylesheets.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 101},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 11,
+  "comment": 27,
+  "code": 71},
+"SUM": {
+  "blank": 47,
+  "comment": 27,
+  "code": 172,
+  "nFiles": 11} }

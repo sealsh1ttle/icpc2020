@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 512.290247917175,
+  "n_files"            : 1266,
+  "n_lines"            : 104816,
+  "files_per_second"   : 2.47125531892749,
+  "lines_per_second"   : 204.602762645105,
+  "report_file"        : "loc/spinnaker__halyard.json"},
+"Java" :{
+  "nFiles": 1134,
+  "blank": 11099,
+  "comment": 17986,
+  "code": 55683},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 3137,
+  "comment": 0,
+  "code": 9095},
+"Groovy" :{
+  "nFiles": 32,
+  "blank": 614,
+  "comment": 490,
+  "code": 3012},
+"Bourne Shell" :{
+  "nFiles": 46,
+  "blank": 517,
+  "comment": 109,
+  "code": 1745},
+"YAML" :{
+  "nFiles": 21,
+  "blank": 37,
+  "comment": 0,
+  "code": 364},
+"Gradle" :{
+  "nFiles": 10,
+  "blank": 46,
+  "comment": 41,
+  "code": 339},
+"Bourne Again Shell" :{
+  "nFiles": 5,
+  "blank": 57,
+  "comment": 0,
+  "code": 198},
+"Python" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 81},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 2,
+  "code": 13},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"HCL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 15564,
+  "comment": 18630,
+  "code": 70622,
+  "nFiles": 1266} }

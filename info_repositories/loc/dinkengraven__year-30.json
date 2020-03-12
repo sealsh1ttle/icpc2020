@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.224309206008911,
+  "n_files"            : 2,
+  "n_lines"            : 35,
+  "files_per_second"   : 8.91626356129381,
+  "lines_per_second"   : 156.034612322642,
+  "report_file"        : "loc/dinkengraven__year-30.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 6,
+  "comment": 0,
+  "code": 29,
+  "nFiles": 2} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.2267889976501,
+  "n_files"            : 34,
+  "n_lines"            : 15358,
+  "files_per_second"   : 3.32460169148032,
+  "lines_per_second"   : 1501.7421405222,
+  "report_file"        : "loc/sindresorhus__caprine.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 9976},
+"TypeScript" :{
+  "nFiles": 19,
+  "blank": 453,
+  "comment": 146,
+  "code": 2676},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 279,
+  "comment": 283,
+  "code": 1264},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 106,
+  "comment": 0,
+  "code": 150},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 838,
+  "comment": 429,
+  "code": 14091,
+  "nFiles": 34} }

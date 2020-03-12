@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.80358386039734,
+  "n_files"            : 10,
+  "n_lines"            : 443,
+  "files_per_second"   : 3.56686316441512,
+  "lines_per_second"   : 158.01203818359,
+  "report_file"        : "loc/conda-forge__pynwb-feedstock.json"},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 12,
+  "code": 115},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 95},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 16,
+  "code": 73},
+"Python" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 7,
+  "code": 40},
+"SUM": {
+  "blank": 85,
+  "comment": 35,
+  "code": 323,
+  "nFiles": 10} }

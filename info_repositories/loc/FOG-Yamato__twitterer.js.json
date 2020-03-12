@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0883209705352783,
+  "n_files"            : 8,
+  "n_lines"            : 392,
+  "files_per_second"   : 90.57871478897,
+  "lines_per_second"   : 4438.35702465953,
+  "report_file"        : "loc/FOG-Yamato__twitterer.js.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 49,
+  "comment": 3,
+  "code": 233},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 53},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"SUM": {
+  "blank": 70,
+  "comment": 3,
+  "code": 319,
+  "nFiles": 8} }

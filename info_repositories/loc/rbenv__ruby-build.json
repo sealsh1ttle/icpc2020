@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 65.072389125824,
+  "n_files"            : 17,
+  "n_lines"            : 2538,
+  "files_per_second"   : 0.261247515703301,
+  "lines_per_second"   : 39.0027173444104,
+  "report_file"        : "loc/rbenv__ruby-build.json"},
+"Bourne Again Shell" :{
+  "nFiles": 11,
+  "blank": 349,
+  "comment": 162,
+  "code": 1725},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 62,
+  "comment": 0,
+  "code": 176},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 19},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 15},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 11},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 425,
+  "comment": 165,
+  "code": 1948,
+  "nFiles": 17} }

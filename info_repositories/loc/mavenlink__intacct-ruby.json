@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.28663802146912,
+  "n_files"            : 21,
+  "n_lines"            : 1193,
+  "files_per_second"   : 9.18378851520537,
+  "lines_per_second"   : 521.726652316191,
+  "report_file"        : "loc/mavenlink__intacct-ruby.json"},
+"Ruby" :{
+  "nFiles": 16,
+  "blank": 125,
+  "comment": 16,
+  "code": 954},
+"Cucumber" :{
+  "nFiles": 4,
+  "blank": 12,
+  "comment": 0,
+  "code": 57},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 149,
+  "comment": 16,
+  "code": 1028,
+  "nFiles": 21} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.3363080024719,
+  "n_files"            : 56,
+  "n_lines"            : 17971,
+  "files_per_second"   : 3.42794712192782,
+  "lines_per_second"   : 1100.06495943151,
+  "report_file"        : "loc/DE-labtory__hatchout-web.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 15745},
+"Vuejs Component" :{
+  "nFiles": 19,
+  "blank": 193,
+  "comment": 16,
+  "code": 1332},
+"TypeScript" :{
+  "nFiles": 23,
+  "blank": 63,
+  "comment": 6,
+  "code": 435},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 7,
+  "comment": 55,
+  "code": 63},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 31},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 16},
+"SUM": {
+  "blank": 271,
+  "comment": 78,
+  "code": 17622,
+  "nFiles": 56} }

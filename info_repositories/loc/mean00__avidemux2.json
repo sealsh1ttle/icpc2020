@@ -1,0 +1,174 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1041.04813885689,
+  "n_files"            : 3318,
+  "n_lines"            : 995893,
+  "files_per_second"   : 3.18717250063316,
+  "lines_per_second"   : 956.625311384284,
+  "report_file"        : "loc/mean00__avidemux2.json"},
+"C/C++ Header" :{
+  "nFiles": 961,
+  "blank": 13581,
+  "comment": 25107,
+  "code": 433241},
+"C++" :{
+  "nFiles": 1156,
+  "blank": 33245,
+  "comment": 42268,
+  "code": 198819},
+"C" :{
+  "nFiles": 104,
+  "blank": 14254,
+  "comment": 16625,
+  "code": 97781},
+"Qt" :{
+  "nFiles": 39,
+  "blank": 0,
+  "comment": 0,
+  "code": 23958},
+"HTML" :{
+  "nFiles": 192,
+  "blank": 839,
+  "comment": 999,
+  "code": 18475},
+"diff" :{
+  "nFiles": 53,
+  "blank": 122,
+  "comment": 1459,
+  "code": 13952},
+"Glade" :{
+  "nFiles": 12,
+  "blank": 681,
+  "comment": 2,
+  "code": 12755},
+"CMake" :{
+  "nFiles": 415,
+  "blank": 2825,
+  "comment": 3064,
+  "code": 9958},
+"Assembly" :{
+  "nFiles": 15,
+  "blank": 616,
+  "comment": 949,
+  "code": 6087},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 12,
+  "code": 4732},
+"Python" :{
+  "nFiles": 59,
+  "blank": 229,
+  "comment": 829,
+  "code": 3534},
+"Bourne Again Shell" :{
+  "nFiles": 27,
+  "blank": 69,
+  "comment": 136,
+  "code": 2597},
+"JavaScript" :{
+  "nFiles": 147,
+  "blank": 138,
+  "comment": 377,
+  "code": 2161},
+"DOS Batch" :{
+  "nFiles": 37,
+  "blank": 567,
+  "comment": 24,
+  "code": 1677},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 240,
+  "comment": 40,
+  "code": 1181},
+"Bourne Shell" :{
+  "nFiles": 27,
+  "blank": 107,
+  "comment": 101,
+  "code": 990},
+"Perl" :{
+  "nFiles": 6,
+  "blank": 124,
+  "comment": 176,
+  "code": 981},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 112,
+  "comment": 69,
+  "code": 364},
+"XSLT" :{
+  "nFiles": 4,
+  "blank": 48,
+  "comment": 12,
+  "code": 363},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 358},
+"Gencat NLS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 299},
+"GLSL" :{
+  "nFiles": 2,
+  "blank": 44,
+  "comment": 55,
+  "code": 274},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 263},
+"HLSL" :{
+  "nFiles": 10,
+  "blank": 34,
+  "comment": 11,
+  "code": 241},
+"make" :{
+  "nFiles": 15,
+  "blank": 48,
+  "comment": 10,
+  "code": 206},
+"IDL" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 0,
+  "code": 146},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 125},
+"m4" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 34},
+"INI" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 33},
+"Verilog-SystemVerilog" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 67957,
+  "comment": 92325,
+  "code": 835611,
+  "nFiles": 3318} }

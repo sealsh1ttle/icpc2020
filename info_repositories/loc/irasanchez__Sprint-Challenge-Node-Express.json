@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.11273407936096,
+  "n_files"            : 15,
+  "n_lines"            : 577,
+  "files_per_second"   : 7.0998050093162,
+  "lines_per_second"   : 273.105832691696,
+  "report_file"        : "loc/irasanchez__Sprint-Challenge-Node-Express.json"},
+"JavaScript" :{
+  "nFiles": 13,
+  "blank": 50,
+  "comment": 32,
+  "code": 348},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 0,
+  "code": 74},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 93,
+  "comment": 32,
+  "code": 452,
+  "nFiles": 15} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.509130954742432,
+  "n_files"            : 116,
+  "n_lines"            : 2840,
+  "files_per_second"   : 227.839220773139,
+  "lines_per_second"   : 5578.13264651479,
+  "report_file"        : "loc/IdanCo__ng1bs4.json"},
+"JavaScript" :{
+  "nFiles": 64,
+  "blank": 267,
+  "comment": 222,
+  "code": 1419},
+"HTML" :{
+  "nFiles": 26,
+  "blank": 24,
+  "comment": 8,
+  "code": 435},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 75,
+  "comment": 0,
+  "code": 125},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 29,
+  "comment": 16,
+  "code": 116},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 65},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"SUM": {
+  "blank": 395,
+  "comment": 246,
+  "code": 2199,
+  "nFiles": 116} }

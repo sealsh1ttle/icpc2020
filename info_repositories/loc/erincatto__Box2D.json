@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.29001307487488,
+  "n_files"            : 329,
+  "n_lines"            : 115355,
+  "files_per_second"   : 99.9996025889691,
+  "lines_per_second"   : 35062.1706889074,
+  "report_file"        : "loc/erincatto__Box2D.json"},
+"C/C++ Header" :{
+  "nFiles": 166,
+  "blank": 5820,
+  "comment": 11431,
+  "code": 35466},
+"C++" :{
+  "nFiles": 85,
+  "blank": 4838,
+  "comment": 4291,
+  "code": 26260},
+"C" :{
+  "nFiles": 26,
+  "blank": 2265,
+  "comment": 1501,
+  "code": 11969},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 17,
+  "comment": 17,
+  "code": 3203},
+"Objective C" :{
+  "nFiles": 7,
+  "blank": 691,
+  "comment": 385,
+  "code": 2835},
+"diff" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 208,
+  "code": 1115},
+"Objective C++" :{
+  "nFiles": 6,
+  "blank": 219,
+  "comment": 104,
+  "code": 788},
+"C#" :{
+  "nFiles": 8,
+  "blank": 103,
+  "comment": 98,
+  "code": 648},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 7,
+  "code": 358},
+"XML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 48,
+  "code": 296},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 3,
+  "code": 134},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 0,
+  "code": 97},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 29},
+"INI" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 14052,
+  "comment": 18093,
+  "code": 83210,
+  "nFiles": 329} }

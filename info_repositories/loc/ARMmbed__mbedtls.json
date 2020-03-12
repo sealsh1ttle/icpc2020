@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 137.204957008362,
+  "n_files"            : 264,
+  "n_lines"            : 114003,
+  "files_per_second"   : 1.92412873234537,
+  "lines_per_second"   : 830.895635884731,
+  "report_file"        : "loc/ARMmbed__mbedtls.json"},
+"C" :{
+  "nFiles": 84,
+  "blank": 8688,
+  "comment": 7350,
+  "code": 47098},
+"Bourne Shell" :{
+  "nFiles": 29,
+  "blank": 1540,
+  "comment": 1118,
+  "code": 10940},
+"XML" :{
+  "nFiles": 51,
+  "blank": 0,
+  "comment": 0,
+  "code": 9313},
+"C/C++ Header" :{
+  "nFiles": 33,
+  "blank": 1276,
+  "comment": 9130,
+  "code": 6606},
+"Python" :{
+  "nFiles": 8,
+  "blank": 576,
+  "comment": 1901,
+  "code": 2237},
+"make" :{
+  "nFiles": 7,
+  "blank": 398,
+  "comment": 240,
+  "code": 1427},
+"Perl" :{
+  "nFiles": 22,
+  "blank": 342,
+  "comment": 264,
+  "code": 1358},
+"CMake" :{
+  "nFiles": 15,
+  "blank": 172,
+  "comment": 32,
+  "code": 690},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 241,
+  "comment": 0,
+  "code": 410},
+"Oracle Forms" :{
+  "nFiles": 3,
+  "blank": 46,
+  "comment": 80,
+  "code": 196},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 36,
+  "code": 114},
+"C++" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 21,
+  "code": 94},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 40},
+"Tcl/Tk" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 13304,
+  "comment": 20172,
+  "code": 80527,
+  "nFiles": 264} }

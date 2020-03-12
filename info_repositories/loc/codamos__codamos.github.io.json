@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 253.141849994659,
+  "n_files"            : 852,
+  "n_lines"            : 21091,
+  "files_per_second"   : 3.36570187828672,
+  "lines_per_second"   : 83.3169229048652,
+  "report_file"        : "loc/codamos__codamos.github.io.json"},
+"YAML" :{
+  "nFiles": 824,
+  "blank": 298,
+  "comment": 188,
+  "code": 15637},
+"HTML" :{
+  "nFiles": 22,
+  "blank": 389,
+  "comment": 204,
+  "code": 1926},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 335,
+  "comment": 96,
+  "code": 1827},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 0,
+  "code": 83},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 14,
+  "comment": 3,
+  "code": 63},
+"SUM": {
+  "blank": 1064,
+  "comment": 491,
+  "code": 19536,
+  "nFiles": 852} }

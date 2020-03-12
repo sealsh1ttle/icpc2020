@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 38.982607126236,
+  "n_files"            : 817,
+  "n_lines"            : 455695,
+  "files_per_second"   : 20.9580646403238,
+  "lines_per_second"   : 11689.7004483138,
+  "report_file"        : "loc/kubermatic__tail.json"},
+"Go" :{
+  "nFiles": 721,
+  "blank": 30637,
+  "comment": 55139,
+  "code": 357787},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3810},
+"Perl" :{
+  "nFiles": 10,
+  "blank": 262,
+  "comment": 270,
+  "code": 1578},
+"Protocol Buffers" :{
+  "nFiles": 11,
+  "blank": 375,
+  "comment": 843,
+  "code": 1039},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 373,
+  "comment": 0,
+  "code": 980},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 95,
+  "comment": 331,
+  "code": 632},
+"Assembly" :{
+  "nFiles": 24,
+  "blank": 222,
+  "comment": 248,
+  "code": 424},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 25,
+  "comment": 2,
+  "code": 259},
+"make" :{
+  "nFiles": 5,
+  "blank": 26,
+  "comment": 5,
+  "code": 79},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 53},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 9,
+  "code": 38},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 28,
+  "code": 28},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"SUM": {
+  "blank": 32057,
+  "comment": 56882,
+  "code": 366756,
+  "nFiles": 817} }

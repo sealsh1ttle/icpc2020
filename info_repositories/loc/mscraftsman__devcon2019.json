@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.4565918445587,
+  "n_files"            : 156,
+  "n_lines"            : 40709,
+  "files_per_second"   : 3.21937623059467,
+  "lines_per_second"   : 840.112736995375,
+  "report_file"        : "loc/mscraftsman__devcon2019.json"},
+"JSON" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 16547},
+"SVG" :{
+  "nFiles": 33,
+  "blank": 89,
+  "comment": 19,
+  "code": 13034},
+"Vuejs Component" :{
+  "nFiles": 52,
+  "blank": 633,
+  "comment": 374,
+  "code": 6942},
+"JavaScript" :{
+  "nFiles": 29,
+  "blank": 57,
+  "comment": 134,
+  "code": 1662},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 134,
+  "comment": 10,
+  "code": 608},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 65,
+  "comment": 0,
+  "code": 156},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 1,
+  "code": 135},
+"CSS" :{
+  "nFiles": 11,
+  "blank": 18,
+  "comment": 0,
+  "code": 30},
+"XML" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 14,
+  "code": 20},
+"make" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1015,
+  "comment": 552,
+  "code": 39142,
+  "nFiles": 156} }

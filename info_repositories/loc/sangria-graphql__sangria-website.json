@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 26.0517539978027,
+  "n_files"            : 69,
+  "n_lines"            : 23333,
+  "files_per_second"   : 2.64857406552433,
+  "lines_per_second"   : 895.640270592451,
+  "report_file"        : "loc/sangria-graphql__sangria-website.json"},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 112,
+  "comment": 73,
+  "code": 8722},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 17,
+  "comment": 6,
+  "code": 4930},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 941,
+  "comment": 0,
+  "code": 2934},
+"Sass" :{
+  "nFiles": 13,
+  "blank": 28,
+  "comment": 24,
+  "code": 1520},
+"LESS" :{
+  "nFiles": 13,
+  "blank": 28,
+  "comment": 34,
+  "code": 1510},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 527,
+  "comment": 200,
+  "code": 1365},
+"HTML" :{
+  "nFiles": 12,
+  "blank": 37,
+  "comment": 9,
+  "code": 162},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 128},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"SUM": {
+  "blank": 1695,
+  "comment": 346,
+  "code": 21292,
+  "nFiles": 69} }

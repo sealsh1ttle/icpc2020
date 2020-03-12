@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.42771196365356,
+  "n_files"            : 13,
+  "n_lines"            : 956,
+  "files_per_second"   : 9.10547808728348,
+  "lines_per_second"   : 669.602850111001,
+  "report_file"        : "loc/GoogleChrome__proxy-polyfill.json"},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 81,
+  "comment": 145,
+  "code": 429},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 0,
+  "code": 124},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 66},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 12,
+  "code": 45},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 132,
+  "comment": 157,
+  "code": 667,
+  "nFiles": 13} }

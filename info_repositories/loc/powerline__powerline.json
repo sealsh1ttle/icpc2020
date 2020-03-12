@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 85.0673961639404,
+  "n_files"            : 303,
+  "n_lines"            : 37832,
+  "files_per_second"   : 3.56188168045092,
+  "lines_per_second"   : 444.729728497753,
+  "report_file"        : "loc/powerline__powerline.json"},
+"Python" :{
+  "nFiles": 168,
+  "blank": 4528,
+  "comment": 3084,
+  "code": 20511},
+"JSON" :{
+  "nFiles": 50,
+  "blank": 58,
+  "comment": 0,
+  "code": 2566},
+"reStructuredText" :{
+  "nFiles": 40,
+  "blank": 979,
+  "comment": 569,
+  "code": 2252},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 212,
+  "comment": 74,
+  "code": 1750},
+"vim script" :{
+  "nFiles": 11,
+  "blank": 29,
+  "comment": 0,
+  "code": 475},
+"zsh" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 14,
+  "code": 180},
+"C" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 10,
+  "code": 131},
+"Fish Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 95},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 88},
+"C Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 6,
+  "code": 51},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 39},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 2,
+  "code": 29},
+"Lua" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 5883,
+  "comment": 3764,
+  "code": 28185,
+  "nFiles": 303} }

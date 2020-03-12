@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 104.014442205429,
+  "n_files"            : 240,
+  "n_lines"            : 16706,
+  "files_per_second"   : 2.30737188904978,
+  "lines_per_second"   : 160.61231157694,
+  "report_file"        : "loc/jupyter__repo2docker.json"},
+"Python" :{
+  "nFiles": 85,
+  "blank": 1868,
+  "comment": 2912,
+  "code": 6015},
+"reStructuredText" :{
+  "nFiles": 49,
+  "blank": 482,
+  "comment": 156,
+  "code": 1074},
+"YAML" :{
+  "nFiles": 30,
+  "blank": 15,
+  "comment": 50,
+  "code": 997},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 286,
+  "comment": 0,
+  "code": 754},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 628},
+"XML" :{
+  "nFiles": 6,
+  "blank": 11,
+  "comment": 0,
+  "code": 572},
+"Bourne Again Shell" :{
+  "nFiles": 21,
+  "blank": 38,
+  "comment": 45,
+  "code": 152},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 68},
+"Dockerfile" :{
+  "nFiles": 8,
+  "blank": 25,
+  "comment": 9,
+  "code": 51},
+"Nix" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 6,
+  "code": 51},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 7,
+  "comment": 10,
+  "code": 42},
+"Julia" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 31},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 27},
+"make" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 6,
+  "code": 18},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 183,
+  "code": 12},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"Rmd" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 40,
+  "code": 7},
+"TOML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"R" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 2765,
+  "comment": 3422,
+  "code": 10519,
+  "nFiles": 240} }

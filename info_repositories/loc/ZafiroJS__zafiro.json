@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.9682590961456,
+  "n_files"            : 58,
+  "n_lines"            : 2135,
+  "files_per_second"   : 2.76608562179878,
+  "lines_per_second"   : 101.820565561041,
+  "report_file"        : "loc/ZafiroJS__zafiro.json"},
+"TypeScript" :{
+  "nFiles": 27,
+  "blank": 149,
+  "comment": 47,
+  "code": 961},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 163,
+  "comment": 0,
+  "code": 359},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 209},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 28,
+  "code": 140},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 27},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 348,
+  "comment": 75,
+  "code": 1712,
+  "nFiles": 58} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 87.7528920173645,
+  "n_files"            : 163,
+  "n_lines"            : 128297,
+  "files_per_second"   : 1.85748863943704,
+  "lines_per_second"   : 1462.02588941015,
+  "report_file"        : "loc/tgdwyer__WebCola.json"},
+"JavaScript" :{
+  "nFiles": 25,
+  "blank": 20796,
+  "comment": 30842,
+  "code": 36540},
+"TypeScript" :{
+  "nFiles": 35,
+  "blank": 2670,
+  "comment": 4010,
+  "code": 12143},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 8673},
+"HTML" :{
+  "nFiles": 38,
+  "blank": 679,
+  "comment": 49,
+  "code": 4414},
+"CSS" :{
+  "nFiles": 36,
+  "blank": 583,
+  "comment": 130,
+  "code": 3489},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 2822},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 144,
+  "comment": 0,
+  "code": 282},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 21},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 24875,
+  "comment": 35032,
+  "code": 68390,
+  "nFiles": 163} }

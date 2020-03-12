@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.1589260101318,
+  "n_files"            : 104,
+  "n_lines"            : 56206,
+  "files_per_second"   : 3.04459220905109,
+  "lines_per_second"   : 1645.42643944159,
+  "report_file"        : "loc/DesignEngrLab__TVGL.json"},
+"C#" :{
+  "nFiles": 86,
+  "blank": 4263,
+  "comment": 12670,
+  "code": 28224},
+"XML" :{
+  "nFiles": 6,
+  "blank": 35,
+  "comment": 96,
+  "code": 9377},
+"MSBuild script" :{
+  "nFiles": 5,
+  "blank": 11,
+  "comment": 28,
+  "code": 1278},
+"XAML" :{
+  "nFiles": 5,
+  "blank": 13,
+  "comment": 75,
+  "code": 131},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 4322,
+  "comment": 12869,
+  "code": 39015,
+  "nFiles": 104} }

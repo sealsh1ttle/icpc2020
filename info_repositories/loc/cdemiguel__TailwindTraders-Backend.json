@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 111.852035999298,
+  "n_files"            : 377,
+  "n_lines"            : 17580,
+  "files_per_second"   : 3.37052425225738,
+  "lines_per_second"   : 157.171926670251,
+  "report_file"        : "loc/cdemiguel__TailwindTraders-Backend.json"},
+"C#" :{
+  "nFiles": 139,
+  "blank": 737,
+  "comment": 107,
+  "code": 4482},
+"YAML" :{
+  "nFiles": 105,
+  "blank": 167,
+  "comment": 62,
+  "code": 3514},
+"JSON" :{
+  "nFiles": 29,
+  "blank": 0,
+  "comment": 0,
+  "code": 3495},
+"PowerShell" :{
+  "nFiles": 18,
+  "blank": 196,
+  "comment": 41,
+  "code": 741},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 337,
+  "comment": 0,
+  "code": 704},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 102,
+  "comment": 10,
+  "code": 693},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 67,
+  "comment": 52,
+  "code": 399},
+"Java" :{
+  "nFiles": 11,
+  "blank": 87,
+  "comment": 3,
+  "code": 365},
+"Go" :{
+  "nFiles": 14,
+  "blank": 62,
+  "comment": 8,
+  "code": 290},
+"MSBuild script" :{
+  "nFiles": 7,
+  "blank": 28,
+  "comment": 7,
+  "code": 288},
+"Dockerfile" :{
+  "nFiles": 12,
+  "blank": 42,
+  "comment": 5,
+  "code": 193},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 112},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 1,
+  "code": 97},
+"XML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 42},
+"SUM": {
+  "blank": 1869,
+  "comment": 296,
+  "code": 15415,
+  "nFiles": 377} }

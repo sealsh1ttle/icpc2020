@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.3279719352722,
+  "n_files"            : 3491,
+  "n_lines"            : 321858,
+  "files_per_second"   : 98.8168810368225,
+  "lines_per_second"   : 9110.57109617577,
+  "report_file"        : "loc/SpongePowered__SpongeCommon.json"},
+"Java" :{
+  "nFiles": 3458,
+  "blank": 37929,
+  "comment": 95016,
+  "code": 186719},
+"JSON" :{
+  "nFiles": 18,
+  "blank": 2,
+  "comment": 0,
+  "code": 1280},
+"Gradle" :{
+  "nFiles": 6,
+  "blank": 88,
+  "comment": 69,
+  "code": 335},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 21,
+  "comment": 23,
+  "code": 131},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 0,
+  "code": 78},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 23},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 13},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 38098,
+  "comment": 95113,
+  "code": 188647,
+  "nFiles": 3491} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 85.9904971122742,
+  "n_files"            : 195,
+  "n_lines"            : 11031,
+  "files_per_second"   : 2.26769243751896,
+  "lines_per_second"   : 128.281616811649,
+  "report_file"        : "loc/mapstruct__mapstruct-examples.json"},
+"Java" :{
+  "nFiles": 141,
+  "blank": 1131,
+  "comment": 2894,
+  "code": 3180},
+"Maven" :{
+  "nFiles": 25,
+  "blank": 295,
+  "comment": 371,
+  "code": 1429},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 59,
+  "code": 258},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 39,
+  "comment": 41,
+  "code": 249},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 71,
+  "comment": 6,
+  "code": 197},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 56,
+  "comment": 0,
+  "code": 178},
+"Gradle" :{
+  "nFiles": 8,
+  "blank": 31,
+  "comment": 0,
+  "code": 122},
+"Kotlin" :{
+  "nFiles": 6,
+  "blank": 38,
+  "comment": 2,
+  "code": 98},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 19,
+  "code": 79},
+"Freemarker Template" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 71},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 1742,
+  "comment": 3392,
+  "code": 5897,
+  "nFiles": 195} }

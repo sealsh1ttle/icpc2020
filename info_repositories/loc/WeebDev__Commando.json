@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.516329050064087,
+  "n_files"            : 94,
+  "n_lines"            : 6546,
+  "files_per_second"   : 182.05444762082,
+  "lines_per_second"   : 12677.9618524031,
+  "report_file"        : "loc/WeebDev__Commando.json"},
+"JavaScript" :{
+  "nFiles": 88,
+  "blank": 877,
+  "comment": 131,
+  "code": 5288},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 96},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 5,
+  "code": 30},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 904,
+  "comment": 136,
+  "code": 5506,
+  "nFiles": 94} }

@@ -1,0 +1,184 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1727.67000293732,
+  "n_files"            : 3681,
+  "n_lines"            : 8920062,
+  "files_per_second"   : 2.13061521803453,
+  "lines_per_second"   : 5163.05890872358,
+  "report_file"        : "loc/wesnoth__wesnoth.json"},
+"PO File" :{
+  "nFiles": 1702,
+  "blank": 1154783,
+  "comment": 2986262,
+  "code": 4212933},
+"C++" :{
+  "nFiles": 607,
+  "blank": 41799,
+  "comment": 32729,
+  "code": 183196},
+"C/C++ Header" :{
+  "nFiles": 668,
+  "blank": 19967,
+  "comment": 31582,
+  "code": 48335},
+"HTML" :{
+  "nFiles": 43,
+  "blank": 67,
+  "comment": 0,
+  "code": 37518},
+"Java" :{
+  "nFiles": 211,
+  "blank": 8882,
+  "comment": 14291,
+  "code": 32854},
+"XML" :{
+  "nFiles": 41,
+  "blank": 55,
+  "comment": 9,
+  "code": 19256},
+"Python" :{
+  "nFiles": 82,
+  "blank": 2800,
+  "comment": 4341,
+  "code": 18363},
+"Lua" :{
+  "nFiles": 139,
+  "blank": 3057,
+  "comment": 2699,
+  "code": 16502},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 575,
+  "comment": 0,
+  "code": 16223},
+"Lisp" :{
+  "nFiles": 3,
+  "blank": 145,
+  "comment": 259,
+  "code": 7550},
+"ANTLR Grammar" :{
+  "nFiles": 2,
+  "blank": 714,
+  "comment": 78,
+  "code": 3119},
+"CMake" :{
+  "nFiles": 27,
+  "blank": 578,
+  "comment": 1068,
+  "code": 2832},
+"Bourne Shell" :{
+  "nFiles": 34,
+  "blank": 496,
+  "comment": 429,
+  "code": 2521},
+"TeX" :{
+  "nFiles": 16,
+  "blank": 491,
+  "comment": 13,
+  "code": 1733},
+"Perl" :{
+  "nFiles": 11,
+  "blank": 322,
+  "comment": 319,
+  "code": 1508},
+"INI" :{
+  "nFiles": 9,
+  "blank": 4,
+  "comment": 0,
+  "code": 1079},
+"C" :{
+  "nFiles": 2,
+  "blank": 125,
+  "comment": 178,
+  "code": 1064},
+"Bourne Again Shell" :{
+  "nFiles": 7,
+  "blank": 100,
+  "comment": 96,
+  "code": 635},
+"XMI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 571},
+"vim script" :{
+  "nFiles": 3,
+  "blank": 69,
+  "comment": 126,
+  "code": 416},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 68,
+  "comment": 16,
+  "code": 344},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 49,
+  "comment": 3,
+  "code": 291},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 2,
+  "code": 256},
+"Objective C++" :{
+  "nFiles": 4,
+  "blank": 76,
+  "comment": 55,
+  "code": 220},
+"make" :{
+  "nFiles": 6,
+  "blank": 36,
+  "comment": 49,
+  "code": 131},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 115},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 7,
+  "code": 94},
+"Windows Resource File" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 87},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 11,
+  "code": 85},
+"Ant" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 49},
+"sed" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 8,
+  "code": 48},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 53,
+  "code": 40},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 37},
+"diff" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 18,
+  "code": 16},
+"SUM": {
+  "blank": 1235335,
+  "comment": 3074706,
+  "code": 4610021,
+  "nFiles": 3681} }

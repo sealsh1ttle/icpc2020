@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.79781699180603,
+  "n_files"            : 3,
+  "n_lines"            : 93,
+  "files_per_second"   : 3.76026085030961,
+  "lines_per_second"   : 116.568086359598,
+  "report_file"        : "loc/flathub__com.teamspeak.TeamSpeak.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 93,
+  "nFiles": 3} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 153.474351882935,
+  "n_files"            : 606,
+  "n_lines"            : 78709,
+  "files_per_second"   : 3.94854249302996,
+  "lines_per_second"   : 512.847906079035,
+  "report_file"        : "loc/rust-analyzer__rust-analyzer.json"},
+"Rust" :{
+  "nFiles": 516,
+  "blank": 6559,
+  "comment": 4368,
+  "code": 59088},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 1,
+  "comment": 0,
+  "code": 3166},
+"TypeScript" :{
+  "nFiles": 33,
+  "blank": 370,
+  "comment": 187,
+  "code": 2208},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 471,
+  "comment": 0,
+  "code": 1399},
+"TOML" :{
+  "nFiles": 25,
+  "blank": 57,
+  "comment": 10,
+  "code": 343},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 34,
+  "code": 177},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 0,
+  "code": 96},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 1,
+  "code": 70},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 2,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 7526,
+  "comment": 4602,
+  "code": 66581,
+  "nFiles": 606} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.68795895576477,
+  "n_files"            : 358,
+  "n_lines"            : 23645,
+  "files_per_second"   : 133.186557492707,
+  "lines_per_second"   : 8796.63729585208,
+  "report_file"        : "loc/benmosher__eslint-plugin-import.json"},
+"JavaScript" :{
+  "nFiles": 251,
+  "blank": 2006,
+  "comment": 1335,
+  "code": 14572},
+"Markdown" :{
+  "nFiles": 52,
+  "blank": 1251,
+  "comment": 0,
+  "code": 3664},
+"JSON" :{
+  "nFiles": 32,
+  "blank": 0,
+  "comment": 0,
+  "code": 405},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 28,
+  "comment": 22,
+  "code": 165},
+"TypeScript" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 9,
+  "code": 117},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 4,
+  "code": 16},
+"JSX" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"CoffeeScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 3324,
+  "comment": 1370,
+  "code": 18951,
+  "nFiles": 358} }

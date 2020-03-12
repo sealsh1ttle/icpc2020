@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 155.135895967484,
+  "n_files"            : 538,
+  "n_lines"            : 77505,
+  "files_per_second"   : 3.46792724304609,
+  "lines_per_second"   : 499.594239725441,
+  "report_file"        : "loc/spring-cloud__spring-cloud-netflix.json"},
+"Java" :{
+  "nFiles": 439,
+  "blank": 8909,
+  "comment": 12633,
+  "code": 35947},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 9158},
+"Maven" :{
+  "nFiles": 27,
+  "blank": 13,
+  "comment": 29,
+  "code": 2963},
+"AsciiDoc" :{
+  "nFiles": 12,
+  "blank": 677,
+  "comment": 15,
+  "code": 2306},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 155,
+  "comment": 55,
+  "code": 913},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 130,
+  "comment": 158,
+  "code": 652},
+"INI" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 537},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 82,
+  "comment": 108,
+  "code": 482},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 6,
+  "code": 430},
+"LESS" :{
+  "nFiles": 4,
+  "blank": 52,
+  "comment": 3,
+  "code": 261},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 22,
+  "comment": 1,
+  "code": 195},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 171},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 8,
+  "comment": 16,
+  "code": 155},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 0,
+  "code": 129},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 53},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 6,
+  "code": 21},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 10096,
+  "comment": 13030,
+  "code": 54379,
+  "nFiles": 538} }

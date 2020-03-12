@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 336.490940093994,
+  "n_files"            : 1586,
+  "n_lines"            : 695764,
+  "files_per_second"   : 4.71335127048881,
+  "lines_per_second"   : 2067.70500211877,
+  "report_file"        : "loc/hrydgard__ppsspp.json"},
+"C++" :{
+  "nFiles": 562,
+  "blank": 40986,
+  "comment": 24524,
+  "code": 303317},
+"C/C++ Header" :{
+  "nFiles": 658,
+  "blank": 22207,
+  "comment": 18543,
+  "code": 118476},
+"C" :{
+  "nFiles": 115,
+  "blank": 15425,
+  "comment": 10629,
+  "code": 83885},
+"XML" :{
+  "nFiles": 68,
+  "blank": 15,
+  "comment": 12,
+  "code": 24806},
+"Qt Linguist" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 11708},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 4,
+  "comment": 5,
+  "code": 3668},
+"CMake" :{
+  "nFiles": 42,
+  "blank": 377,
+  "comment": 284,
+  "code": 3186},
+"Java" :{
+  "nFiles": 22,
+  "blank": 393,
+  "comment": 269,
+  "code": 2655},
+"Objective C++" :{
+  "nFiles": 9,
+  "blank": 378,
+  "comment": 193,
+  "code": 1590},
+"make" :{
+  "nFiles": 13,
+  "blank": 174,
+  "comment": 53,
+  "code": 1407},
+"INI" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 0,
+  "code": 1135},
+"GLSL" :{
+  "nFiles": 25,
+  "blank": 295,
+  "comment": 152,
+  "code": 1006},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 77,
+  "comment": 49,
+  "code": 633},
+"Python" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 78,
+  "code": 491},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 73,
+  "comment": 0,
+  "code": 423},
+"Bourne Shell" :{
+  "nFiles": 20,
+  "blank": 79,
+  "comment": 56,
+  "code": 357},
+"DOS Batch" :{
+  "nFiles": 12,
+  "blank": 95,
+  "comment": 53,
+  "code": 312},
+"Assembly" :{
+  "nFiles": 4,
+  "blank": 65,
+  "comment": 82,
+  "code": 266},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 8,
+  "comment": 7,
+  "code": 159},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 20,
+  "code": 121},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 3,
+  "code": 109},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 62,
+  "code": 48},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 61,
+  "code": 19},
+"SUM": {
+  "blank": 80825,
+  "comment": 55135,
+  "code": 559804,
+  "nFiles": 1586} }

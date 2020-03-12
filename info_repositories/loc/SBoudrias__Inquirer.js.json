@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.1568341255188,
+  "n_files"            : 120,
+  "n_lines"            : 9193,
+  "files_per_second"   : 5.67192611560249,
+  "lines_per_second"   : 434.516806506114,
+  "report_file"        : "loc/SBoudrias__Inquirer.js.json"},
+"JavaScript" :{
+  "nFiles": 85,
+  "blank": 1165,
+  "comment": 624,
+  "code": 5596},
+"JSON" :{
+  "nFiles": 20,
+  "blank": 0,
+  "comment": 0,
+  "code": 1172},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 193,
+  "comment": 0,
+  "code": 417},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1358,
+  "comment": 624,
+  "code": 7211,
+  "nFiles": 120} }

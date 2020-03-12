@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 93.0675189495087,
+  "n_files"            : 277,
+  "n_lines"            : 34576,
+  "files_per_second"   : 2.97633377494762,
+  "lines_per_second"   : 371.515222392017,
+  "report_file"        : "loc/nhibernate__NHibernate.Spatial.json"},
+"C#" :{
+  "nFiles": 208,
+  "blank": 3614,
+  "comment": 6408,
+  "code": 19513},
+"XML" :{
+  "nFiles": 38,
+  "blank": 206,
+  "comment": 28,
+  "code": 3709},
+"MSBuild script" :{
+  "nFiles": 13,
+  "blank": 70,
+  "comment": 7,
+  "code": 435},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 213},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 0,
+  "code": 71},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 50,
+  "code": 63},
+"SQL" :{
+  "nFiles": 6,
+  "blank": 27,
+  "comment": 18,
+  "code": 36},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 31},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 9},
+"SUM": {
+  "blank": 3981,
+  "comment": 6515,
+  "code": 24080,
+  "nFiles": 277} }

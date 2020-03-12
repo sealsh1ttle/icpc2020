@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.4919109344482,
+  "n_files"            : 3276,
+  "n_lines"            : 4983410,
+  "files_per_second"   : 61.2429046330871,
+  "lines_per_second"   : 93161.9363179403,
+  "report_file"        : "loc/stm32duino__Arduino_Core_STM32.json"},
+"C/C++ Header" :{
+  "nFiles": 1608,
+  "blank": 288008,
+  "comment": 822391,
+  "code": 2327376},
+"C" :{
+  "nFiles": 1324,
+  "blank": 202321,
+  "comment": 548440,
+  "code": 669327},
+"Assembly" :{
+  "nFiles": 177,
+  "blank": 15381,
+  "comment": 13088,
+  "code": 49956},
+"HTML" :{
+  "nFiles": 28,
+  "blank": 1791,
+  "comment": 5032,
+  "code": 14996},
+"C++" :{
+  "nFiles": 88,
+  "blank": 1773,
+  "comment": 4249,
+  "code": 12506},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 415,
+  "comment": 0,
+  "code": 1483},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 209,
+  "comment": 56,
+  "code": 1435},
+"Python" :{
+  "nFiles": 2,
+  "blank": 122,
+  "comment": 90,
+  "code": 865},
+"Arduino Sketch" :{
+  "nFiles": 25,
+  "blank": 333,
+  "comment": 527,
+  "code": 575},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 316},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 46,
+  "code": 134},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 13,
+  "code": 57},
+"AsciiDoc" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 0,
+  "code": 54},
+"SUM": {
+  "blank": 510398,
+  "comment": 1393932,
+  "code": 3079080,
+  "nFiles": 3276} }

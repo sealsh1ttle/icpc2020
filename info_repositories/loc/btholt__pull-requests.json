@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.3979091644287,
+  "n_files"            : 2,
+  "n_lines"            : 4,
+  "files_per_second"   : 0.129887764542752,
+  "lines_per_second"   : 0.259775529085504,
+  "report_file"        : "loc/btholt__pull-requests.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1,
+  "comment": 0,
+  "code": 3,
+  "nFiles": 2} }

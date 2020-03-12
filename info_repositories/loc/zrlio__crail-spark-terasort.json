@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.209128141403198,
+  "n_files"            : 21,
+  "n_lines"            : 3262,
+  "files_per_second"   : 100.416901613983,
+  "lines_per_second"   : 15598.0920507053,
+  "report_file"        : "loc/zrlio__crail-spark-terasort.json"},
+"Scala" :{
+  "nFiles": 10,
+  "blank": 190,
+  "comment": 346,
+  "code": 966},
+"Java" :{
+  "nFiles": 6,
+  "blank": 91,
+  "comment": 243,
+  "code": 816},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 25,
+  "code": 207},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 44,
+  "comment": 0,
+  "code": 176},
+"C++" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 26,
+  "code": 53},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 28,
+  "code": 12},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 2,
+  "code": 11},
+"SUM": {
+  "blank": 351,
+  "comment": 670,
+  "code": 2241,
+  "nFiles": 21} }

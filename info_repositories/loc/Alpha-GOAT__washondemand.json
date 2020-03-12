@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.530546903610229,
+  "n_files"            : 85,
+  "n_lines"            : 5030,
+  "files_per_second"   : 160.212036714563,
+  "lines_per_second"   : 9480.78287852063,
+  "report_file"        : "loc/Alpha-GOAT__washondemand.json"},
+"JavaScript" :{
+  "nFiles": 47,
+  "blank": 403,
+  "comment": 85,
+  "code": 2501},
+"HTML" :{
+  "nFiles": 20,
+  "blank": 32,
+  "comment": 42,
+  "code": 684},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 108,
+  "comment": 4,
+  "code": 618},
+"XML" :{
+  "nFiles": 9,
+  "blank": 2,
+  "comment": 3,
+  "code": 325},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 100},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 85},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 16},
+"SUM": {
+  "blank": 565,
+  "comment": 136,
+  "code": 4329,
+  "nFiles": 85} }

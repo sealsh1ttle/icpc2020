@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 44.7745280265808,
+  "n_files"            : 213,
+  "n_lines"            : 49575,
+  "files_per_second"   : 4.75716907330772,
+  "lines_per_second"   : 1107.21435121704,
+  "report_file"        : "loc/GPP-MDS-Nikn__Nikn.json"},
+"CSS" :{
+  "nFiles": 6,
+  "blank": 2126,
+  "comment": 1685,
+  "code": 18639},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 3863,
+  "comment": 2205,
+  "code": 11852},
+"Ruby" :{
+  "nFiles": 102,
+  "blank": 637,
+  "comment": 820,
+  "code": 2594},
+"ERB" :{
+  "nFiles": 67,
+  "blank": 165,
+  "comment": 0,
+  "code": 2393},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 1144},
+"LESS" :{
+  "nFiles": 3,
+  "blank": 63,
+  "comment": 21,
+  "code": 719},
+"Sass" :{
+  "nFiles": 7,
+  "blank": 30,
+  "comment": 12,
+  "code": 230},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 8,
+  "blank": 10,
+  "comment": 38,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 6909,
+  "comment": 4787,
+  "code": 37879,
+  "nFiles": 213} }

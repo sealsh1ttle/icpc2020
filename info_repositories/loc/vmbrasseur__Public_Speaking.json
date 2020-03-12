@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.950785160064697,
+  "n_files"            : 9,
+  "n_lines"            : 1052,
+  "files_per_second"   : 9.46586082537046,
+  "lines_per_second"   : 1106.45395425441,
+  "report_file"        : "loc/vmbrasseur__Public_Speaking.json"},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 269,
+  "comment": 0,
+  "code": 783},
+"SUM": {
+  "blank": 269,
+  "comment": 0,
+  "code": 783,
+  "nFiles": 9} }

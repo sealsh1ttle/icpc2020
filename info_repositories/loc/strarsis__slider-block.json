@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.15826916694641,
+  "n_files"            : 27,
+  "n_lines"            : 16710,
+  "files_per_second"   : 5.2343138999052,
+  "lines_per_second"   : 3239.45871360799,
+  "report_file"        : "loc/strarsis__slider-block.json"},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 675,
+  "comment": 428,
+  "code": 7459},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 7141},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 33,
+  "code": 599},
+"Sass" :{
+  "nFiles": 6,
+  "blank": 6,
+  "comment": 0,
+  "code": 196},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 54,
+  "code": 54},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 18},
+"SUM": {
+  "blank": 702,
+  "comment": 515,
+  "code": 15493,
+  "nFiles": 27} }

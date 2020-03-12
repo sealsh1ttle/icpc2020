@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0903608798980713,
+  "n_files"            : 2,
+  "n_lines"            : 390,
+  "files_per_second"   : 22.1334719433458,
+  "lines_per_second"   : 4316.02702895243,
+  "report_file"        : "loc/maxyermayank__docker-compose-elasticsearch-kibana.json"},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 24,
+  "code": 289},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 57},
+"SUM": {
+  "blank": 20,
+  "comment": 24,
+  "code": 346,
+  "nFiles": 2} }

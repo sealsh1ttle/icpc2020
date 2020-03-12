@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 113.412690877914,
+  "n_files"            : 315,
+  "n_lines"            : 53282,
+  "files_per_second"   : 2.7774669444982,
+  "lines_per_second"   : 469.806329323026,
+  "report_file"        : "loc/eaud__BookItList.json"},
+"CSS" :{
+  "nFiles": 20,
+  "blank": 1766,
+  "comment": 531,
+  "code": 17541},
+"JavaScript" :{
+  "nFiles": 43,
+  "blank": 2690,
+  "comment": 1844,
+  "code": 9906},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 665,
+  "comment": 328,
+  "code": 7267},
+"Sass" :{
+  "nFiles": 23,
+  "blank": 275,
+  "comment": 43,
+  "code": 4153},
+"Ruby" :{
+  "nFiles": 107,
+  "blank": 319,
+  "comment": 514,
+  "code": 1400},
+"LESS" :{
+  "nFiles": 14,
+  "blank": 29,
+  "comment": 35,
+  "code": 1367},
+"ERB" :{
+  "nFiles": 66,
+  "blank": 170,
+  "comment": 0,
+  "code": 1121},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 931},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 35,
+  "comment": 101,
+  "code": 159},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 25},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 2,
+  "code": 22},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 21},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 5968,
+  "comment": 3401,
+  "code": 43913,
+  "nFiles": 315} }

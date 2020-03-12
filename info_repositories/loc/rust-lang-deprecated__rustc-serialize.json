@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.00866484642029,
+  "n_files"            : 13,
+  "n_lines"            : 6897,
+  "files_per_second"   : 6.47196072713064,
+  "lines_per_second"   : 3433.62408730923,
+  "report_file"        : "loc/rust-lang-deprecated__rustc-serialize.json"},
+"Rust" :{
+  "nFiles": 9,
+  "blank": 720,
+  "comment": 1360,
+  "code": 4725},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 21},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 738,
+  "comment": 1360,
+  "code": 4799,
+  "nFiles": 13} }

@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 191.491961956024,
+  "n_files"            : 549,
+  "n_lines"            : 35811,
+  "files_per_second"   : 2.86696106923839,
+  "lines_per_second"   : 187.010460565566,
+  "report_file"        : "loc/testcontainers__testcontainers-java.json"},
+"Java" :{
+  "nFiles": 359,
+  "blank": 5056,
+  "comment": 3701,
+  "code": 19310},
+"Markdown" :{
+  "nFiles": 61,
+  "blank": 1017,
+  "comment": 0,
+  "code": 2652},
+"Gradle" :{
+  "nFiles": 49,
+  "blank": 165,
+  "comment": 10,
+  "code": 775},
+"YAML" :{
+  "nFiles": 22,
+  "blank": 155,
+  "comment": 986,
+  "code": 671},
+"Groovy" :{
+  "nFiles": 12,
+  "blank": 106,
+  "comment": 16,
+  "code": 324},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 26,
+  "comment": 37,
+  "code": 144},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 2,
+  "code": 104},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 96},
+"Kotlin" :{
+  "nFiles": 5,
+  "blank": 24,
+  "comment": 0,
+  "code": 91},
+"XML" :{
+  "nFiles": 8,
+  "blank": 11,
+  "comment": 8,
+  "code": 74},
+"Maven" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 50},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 30},
+"SQL" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 23,
+  "code": 21},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"Cucumber" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 6622,
+  "comment": 4783,
+  "code": 24406,
+  "nFiles": 549} }

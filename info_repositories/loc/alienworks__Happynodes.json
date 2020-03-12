@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 29.9374680519104,
+  "n_files"            : 138,
+  "n_lines"            : 39484,
+  "files_per_second"   : 4.60960825947984,
+  "lines_per_second"   : 1318.88240954567,
+  "report_file"        : "loc/alienworks__Happynodes.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 15450},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 66,
+  "comment": 58,
+  "code": 7637},
+"JavaScript" :{
+  "nFiles": 60,
+  "blank": 1284,
+  "comment": 324,
+  "code": 6321},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 931,
+  "comment": 0,
+  "code": 2132},
+"Python" :{
+  "nFiles": 16,
+  "blank": 580,
+  "comment": 1521,
+  "code": 1882},
+"YAML" :{
+  "nFiles": 11,
+  "blank": 4,
+  "comment": 19,
+  "code": 507},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 292},
+"Dockerfile" :{
+  "nFiles": 13,
+  "blank": 66,
+  "comment": 20,
+  "code": 147},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 32,
+  "code": 105},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 22,
+  "code": 21},
+"Pug" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2976,
+  "comment": 1996,
+  "code": 34512,
+  "nFiles": 138} }

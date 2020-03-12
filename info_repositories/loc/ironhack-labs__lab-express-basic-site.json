@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.283591032028198,
+  "n_files"            : 1,
+  "n_lines"            : 57,
+  "files_per_second"   : 3.52620459415856,
+  "lines_per_second"   : 200.993661867038,
+  "report_file"        : "loc/ironhack-labs__lab-express-basic-site.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 35},
+"SUM": {
+  "blank": 22,
+  "comment": 0,
+  "code": 35,
+  "nFiles": 1} }

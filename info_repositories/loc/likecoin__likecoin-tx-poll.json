@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.05374193191528,
+  "n_files"            : 19,
+  "n_lines"            : 7798,
+  "files_per_second"   : 6.22187480920608,
+  "lines_per_second"   : 2553.58840853626,
+  "report_file"        : "loc/likecoin__likecoin-tx-poll.json"},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 5784},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 91,
+  "comment": 43,
+  "code": 1787},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 46},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 6,
+  "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 104,
+  "comment": 49,
+  "code": 7645,
+  "nFiles": 19} }

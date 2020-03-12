@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.2525351047516,
+  "n_files"            : 42,
+  "n_lines"            : 11897,
+  "files_per_second"   : 3.73249224366025,
+  "lines_per_second"   : 1057.27286244824,
+  "report_file"        : "loc/gmasterofnone__spont.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 10546},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 60,
+  "comment": 8,
+  "code": 336},
+"XML" :{
+  "nFiles": 9,
+  "blank": 5,
+  "comment": 3,
+  "code": 250},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 89,
+  "code": 87},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 19,
+  "code": 65},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Java" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 4,
+  "code": 44},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 16},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 14},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 4},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 178,
+  "comment": 169,
+  "code": 11550,
+  "nFiles": 42} }

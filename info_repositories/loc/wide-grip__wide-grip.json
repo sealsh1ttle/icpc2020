@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.175558090209961,
+  "n_files"            : 33,
+  "n_lines"            : 1748,
+  "files_per_second"   : 187.971969622894,
+  "lines_per_second"   : 9956.81826972176,
+  "report_file"        : "loc/wide-grip__wide-grip.json"},
+"Elm" :{
+  "nFiles": 18,
+  "blank": 324,
+  "comment": 3,
+  "code": 901},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 2,
+  "code": 195},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 31,
+  "comment": 1,
+  "code": 161},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 92},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 377,
+  "comment": 6,
+  "code": 1365,
+  "nFiles": 33} }

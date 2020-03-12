@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.6520440578461,
+  "n_files"            : 58,
+  "n_lines"            : 2626,
+  "files_per_second"   : 5.44496433595564,
+  "lines_per_second"   : 246.525454245164,
+  "report_file"        : "loc/jackbrewer__stylus-mixins.json"},
+"Stylus" :{
+  "nFiles": 35,
+  "blank": 267,
+  "comment": 280,
+  "code": 921},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 252,
+  "comment": 0,
+  "code": 854},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 28},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 521,
+  "comment": 280,
+  "code": 1825,
+  "nFiles": 58} }

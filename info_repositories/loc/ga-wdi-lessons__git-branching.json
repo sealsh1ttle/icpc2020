@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.3317539691925,
+  "n_files"            : 5,
+  "n_lines"            : 333,
+  "files_per_second"   : 1.5007110507658,
+  "lines_per_second"   : 99.9473559810021,
+  "report_file"        : "loc/ga-wdi-lessons__git-branching.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 91,
+  "comment": 0,
+  "code": 234},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 91,
+  "comment": 0,
+  "code": 242,
+  "nFiles": 5} }

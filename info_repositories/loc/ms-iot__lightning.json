@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.4622168540955,
+  "n_files"            : 131,
+  "n_lines"            : 24380,
+  "files_per_second"   : 5.58344511154466,
+  "lines_per_second"   : 1039.11749480503,
+  "report_file"        : "loc/ms-iot__lightning.json"},
+"C++" :{
+  "nFiles": 41,
+  "blank": 1702,
+  "comment": 1740,
+  "code": 8160},
+"C/C++ Header" :{
+  "nFiles": 64,
+  "blank": 1642,
+  "comment": 2274,
+  "code": 6100},
+"XML" :{
+  "nFiles": 16,
+  "blank": 52,
+  "comment": 28,
+  "code": 1988},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 29,
+  "comment": 0,
+  "code": 139},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 135},
+"Arduino Sketch" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 27,
+  "code": 124},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 0,
+  "code": 54},
+"C#" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 14,
+  "code": 50},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 19},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 3501,
+  "comment": 4093,
+  "code": 16786,
+  "nFiles": 131} }

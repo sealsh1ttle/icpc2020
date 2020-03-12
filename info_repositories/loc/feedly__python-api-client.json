@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.064445972442627,
+  "n_files"            : 6,
+  "n_lines"            : 1079,
+  "files_per_second"   : 93.1012408159641,
+  "lines_per_second"   : 16742.7064734042,
+  "report_file"        : "loc/feedly__python-api-client.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 190,
+  "comment": 152,
+  "code": 617},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 27,
+  "comment": 0,
+  "code": 93},
+"SUM": {
+  "blank": 217,
+  "comment": 152,
+  "code": 710,
+  "nFiles": 6} }

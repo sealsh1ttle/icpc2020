@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 43.471608877182,
+  "n_files"            : 168,
+  "n_lines"            : 46818,
+  "files_per_second"   : 3.86459126632836,
+  "lines_per_second"   : 1076.97877325572,
+  "report_file"        : "loc/monero-project__research-lab.json"},
+"TeX" :{
+  "nFiles": 30,
+  "blank": 2871,
+  "comment": 869,
+  "code": 10197},
+"C" :{
+  "nFiles": 7,
+  "blank": 671,
+  "comment": 719,
+  "code": 9369},
+"Python" :{
+  "nFiles": 48,
+  "blank": 1090,
+  "comment": 1175,
+  "code": 6739},
+"Java" :{
+  "nFiles": 51,
+  "blank": 1228,
+  "comment": 1920,
+  "code": 6217},
+"C++" :{
+  "nFiles": 6,
+  "blank": 210,
+  "comment": 351,
+  "code": 1280},
+"C/C++ Header" :{
+  "nFiles": 18,
+  "blank": 284,
+  "comment": 461,
+  "code": 974},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 6,
+  "code": 69},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 34,
+  "comment": 0,
+  "code": 64},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 6398,
+  "comment": 5501,
+  "code": 34919,
+  "nFiles": 168} }

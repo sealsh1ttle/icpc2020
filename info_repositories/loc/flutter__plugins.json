@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.8245160579681,
+  "n_files"            : 709,
+  "n_lines"            : 61850,
+  "files_per_second"   : 59.9601705916944,
+  "lines_per_second"   : 5230.65804103851,
+  "report_file"        : "loc/flutter__plugins.json"},
+"Dart" :{
+  "nFiles": 171,
+  "blank": 3441,
+  "comment": 3980,
+  "code": 20075},
+"Java" :{
+  "nFiles": 103,
+  "blank": 1618,
+  "comment": 1109,
+  "code": 9727},
+"Objective C" :{
+  "nFiles": 58,
+  "blank": 974,
+  "comment": 338,
+  "code": 6517},
+"Markdown" :{
+  "nFiles": 72,
+  "blank": 1896,
+  "comment": 0,
+  "code": 3491},
+"XML" :{
+  "nFiles": 105,
+  "blank": 45,
+  "comment": 71,
+  "code": 2388},
+"Gradle" :{
+  "nFiles": 72,
+  "blank": 406,
+  "comment": 47,
+  "code": 2184},
+"YAML" :{
+  "nFiles": 47,
+  "blank": 163,
+  "comment": 103,
+  "code": 919},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 1,
+  "comment": 0,
+  "code": 806},
+"C/C++ Header" :{
+  "nFiles": 45,
+  "blank": 200,
+  "comment": 153,
+  "code": 478},
+"Ruby" :{
+  "nFiles": 22,
+  "blank": 22,
+  "comment": 66,
+  "code": 381},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 41,
+  "comment": 22,
+  "code": 179},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 8809,
+  "comment": 5889,
+  "code": 47152,
+  "nFiles": 709} }

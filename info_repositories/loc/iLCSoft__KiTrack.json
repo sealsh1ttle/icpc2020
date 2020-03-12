@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.7046589851379,
+  "n_files"            : 85,
+  "n_lines"            : 7474,
+  "files_per_second"   : 3.06807602452706,
+  "lines_per_second"   : 269.774120086062,
+  "report_file"        : "loc/iLCSoft__KiTrack.json"},
+"C++" :{
+  "nFiles": 33,
+  "blank": 2076,
+  "comment": 241,
+  "code": 1918},
+"C/C++ Header" :{
+  "nFiles": 41,
+  "blank": 1120,
+  "comment": 707,
+  "code": 953},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 87,
+  "comment": 76,
+  "code": 95},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 0,
+  "code": 59},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 49},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 3331,
+  "comment": 1027,
+  "code": 3116,
+  "nFiles": 85} }

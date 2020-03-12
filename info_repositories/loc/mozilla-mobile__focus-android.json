@@ -1,0 +1,94 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 151.588197946548,
+  "n_files"            : 609,
+  "n_lines"            : 322235,
+  "files_per_second"   : 4.01746315511145,
+  "lines_per_second"   : 2125.72617370663,
+  "report_file"        : "loc/mozilla-mobile__focus-android.json"},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 4,
+  "comment": 0,
+  "code": 252621},
+"XML" :{
+  "nFiles": 273,
+  "blank": 647,
+  "comment": 939,
+  "code": 28149},
+"Kotlin" :{
+  "nFiles": 138,
+  "blank": 2668,
+  "comment": 1347,
+  "code": 11484},
+"Java" :{
+  "nFiles": 103,
+  "blank": 2472,
+  "comment": 1599,
+  "code": 9296},
+"Python" :{
+  "nFiles": 25,
+  "blank": 669,
+  "comment": 1100,
+  "code": 2900},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 270,
+  "comment": 48,
+  "code": 2389},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 50,
+  "comment": 156,
+  "code": 736},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 194,
+  "comment": 0,
+  "code": 510},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 106,
+  "comment": 83,
+  "code": 465},
+"Bourne Shell" :{
+  "nFiles": 13,
+  "blank": 110,
+  "comment": 137,
+  "code": 350},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 36,
+  "comment": 32,
+  "code": 196},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 107},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 64,
+  "code": 59},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 32,
+  "code": 57},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 7316,
+  "comment": 5540,
+  "code": 309379,
+  "nFiles": 609} }

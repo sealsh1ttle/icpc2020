@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 25.116112947464,
+  "n_files"            : 177,
+  "n_lines"            : 29635,
+  "files_per_second"   : 7.04726883376561,
+  "lines_per_second"   : 1179.91984117878,
+  "report_file"        : "loc/ray-project__asv.json"},
+"Python" :{
+  "nFiles": 94,
+  "blank": 3950,
+  "comment": 3874,
+  "code": 12399},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 466,
+  "comment": 384,
+  "code": 2992},
+"JSON" :{
+  "nFiles": 46,
+  "blank": 49,
+  "comment": 0,
+  "code": 1997},
+"reStructuredText" :{
+  "nFiles": 12,
+  "blank": 457,
+  "comment": 104,
+  "code": 1306},
+"C++" :{
+  "nFiles": 1,
+  "blank": 93,
+  "comment": 30,
+  "code": 330},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 1,
+  "code": 274},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 47,
+  "comment": 3,
+  "code": 214},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 1,
+  "code": 208},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 16,
+  "code": 125},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 56},
+"SUM": {
+  "blank": 5165,
+  "comment": 4426,
+  "code": 20044,
+  "nFiles": 177} }

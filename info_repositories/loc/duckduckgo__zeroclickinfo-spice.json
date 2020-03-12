@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 259.86380982399,
+  "n_files"            : 912,
+  "n_lines"            : 57523,
+  "files_per_second"   : 3.5095306292081,
+  "lines_per_second"   : 221.358256999931,
+  "report_file"        : "loc/duckduckgo__zeroclickinfo-spice.json"},
+"Perl" :{
+  "nFiles": 386,
+  "blank": 3033,
+  "comment": 1325,
+  "code": 15946},
+"JavaScript" :{
+  "nFiles": 205,
+  "blank": 2058,
+  "comment": 1148,
+  "code": 14691},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 9,
+  "comment": 7,
+  "code": 9162},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 0,
+  "code": 4165},
+"CSS" :{
+  "nFiles": 99,
+  "blank": 568,
+  "comment": 69,
+  "code": 2946},
+"Handlebars" :{
+  "nFiles": 181,
+  "blank": 67,
+  "comment": 20,
+  "code": 1902},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 54,
+  "comment": 0,
+  "code": 103},
+"Python" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 21,
+  "code": 60},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 3,
+  "code": 48},
+"INI" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 43},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 7,
+  "code": 21},
+"SUM": {
+  "blank": 5836,
+  "comment": 2600,
+  "code": 49087,
+  "nFiles": 912} }

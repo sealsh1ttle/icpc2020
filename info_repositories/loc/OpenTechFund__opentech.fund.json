@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 205.218456983566,
+  "n_files"            : 924,
+  "n_lines"            : 71891,
+  "files_per_second"   : 4.50251899162263,
+  "lines_per_second"   : 350.314494401237,
+  "report_file"        : "loc/OpenTechFund__opentech.fund.json"},
+"Python" :{
+  "nFiles": 481,
+  "blank": 6833,
+  "comment": 1259,
+  "code": 28421},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 11806},
+"Sass" :{
+  "nFiles": 110,
+  "blank": 1772,
+  "comment": 174,
+  "code": 8669},
+"JavaScript" :{
+  "nFiles": 103,
+  "blank": 1034,
+  "comment": 237,
+  "code": 5123},
+"HTML" :{
+  "nFiles": 196,
+  "blank": 644,
+  "comment": 44,
+  "code": 5055},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 39,
+  "comment": 31,
+  "code": 368},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 58,
+  "comment": 0,
+  "code": 182},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 65},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 12,
+  "code": 33},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 10402,
+  "comment": 1758,
+  "code": 59731,
+  "nFiles": 924} }

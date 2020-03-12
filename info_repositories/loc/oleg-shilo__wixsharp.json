@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.90007185935974,
+  "n_files"            : 747,
+  "n_lines"            : 151320,
+  "files_per_second"   : 75.4539977701041,
+  "lines_per_second"   : 15284.7375402572,
+  "report_file"        : "loc/oleg-shilo__wixsharp.json"},
+"XML" :{
+  "nFiles": 46,
+  "blank": 439,
+  "comment": 683,
+  "code": 39485},
+"C#" :{
+  "nFiles": 408,
+  "blank": 7785,
+  "comment": 22323,
+  "code": 36735},
+"WiX string localization" :{
+  "nFiles": 71,
+  "blank": 1501,
+  "comment": 104,
+  "code": 25016},
+"MSBuild script" :{
+  "nFiles": 121,
+  "blank": 3,
+  "comment": 851,
+  "code": 13257},
+"C/C++ Header" :{
+  "nFiles": 8,
+  "blank": 113,
+  "comment": 83,
+  "code": 514},
+"XAML" :{
+  "nFiles": 5,
+  "blank": 19,
+  "comment": 1,
+  "code": 420},
+"C++" :{
+  "nFiles": 4,
+  "blank": 77,
+  "comment": 83,
+  "code": 255},
+"WiX source" :{
+  "nFiles": 6,
+  "blank": 94,
+  "comment": 82,
+  "code": 251},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 0,
+  "code": 214},
+"DOS Batch" :{
+  "nFiles": 58,
+  "blank": 27,
+  "comment": 3,
+  "code": 180},
+"Windows Resource File" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 60,
+  "code": 150},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 6,
+  "code": 100},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 73},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 18,
+  "code": 41},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 38,
+  "code": 33},
+"ASP.NET" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 16},
+"WiX include" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 10226,
+  "comment": 24335,
+  "code": 116759,
+  "nFiles": 747} }

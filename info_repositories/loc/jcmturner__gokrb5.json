@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.001876115799,
+  "n_files"            : 187,
+  "n_lines"            : 20656,
+  "files_per_second"   : 3.11656921592092,
+  "lines_per_second"   : 344.255902267715,
+  "report_file"        : "loc/jcmturner__gokrb5.json"},
+"Go" :{
+  "nFiles": 152,
+  "blank": 1815,
+  "comment": 2050,
+  "code": 15408},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 106,
+  "comment": 0,
+  "code": 469},
+"Bourne Shell" :{
+  "nFiles": 16,
+  "blank": 142,
+  "comment": 7,
+  "code": 459},
+"Dockerfile" :{
+  "nFiles": 6,
+  "blank": 28,
+  "comment": 5,
+  "code": 119},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 1,
+  "code": 36},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2101,
+  "comment": 2063,
+  "code": 16492,
+  "nFiles": 187} }

@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.2532529830933,
+  "n_files"            : 122,
+  "n_lines"            : 11625,
+  "files_per_second"   : 3.56170551334838,
+  "lines_per_second"   : 339.383824530122,
+  "report_file"        : "loc/keibai__keibai-api.json"},
+"Java" :{
+  "nFiles": 107,
+  "blank": 2041,
+  "comment": 319,
+  "code": 8863},
+"SQL" :{
+  "nFiles": 7,
+  "blank": 25,
+  "comment": 41,
+  "code": 113},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 113},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 27,
+  "comment": 0,
+  "code": 43},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 12},
+"JSP" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 10},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 4},
+"SUM": {
+  "blank": 2098,
+  "comment": 361,
+  "code": 9166,
+  "nFiles": 122} }

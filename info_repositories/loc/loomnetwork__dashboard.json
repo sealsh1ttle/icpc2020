@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 54.7265360355377,
+  "n_files"            : 287,
+  "n_lines"            : 59446,
+  "files_per_second"   : 5.24425664020889,
+  "lines_per_second"   : 1086.23721335839,
+  "report_file"        : "loc/loomnetwork__dashboard.json"},
+"JSON" :{
+  "nFiles": 28,
+  "blank": 1,
+  "comment": 0,
+  "code": 29888},
+"Vuejs Component" :{
+  "nFiles": 75,
+  "blank": 1055,
+  "comment": 240,
+  "code": 9791},
+"TypeScript" :{
+  "nFiles": 105,
+  "blank": 1184,
+  "comment": 858,
+  "code": 9050},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 569,
+  "comment": 20,
+  "code": 3259},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 9,
+  "comment": 2,
+  "code": 1211},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 182,
+  "comment": 168,
+  "code": 795},
+"SVG" :{
+  "nFiles": 36,
+  "blank": 0,
+  "comment": 29,
+  "code": 480},
+"Sass" :{
+  "nFiles": 5,
+  "blank": 47,
+  "comment": 13,
+  "code": 297},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 28,
+  "comment": 27,
+  "code": 110},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 35,
+  "code": 37},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 36},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 3095,
+  "comment": 1392,
+  "code": 54959,
+  "nFiles": 287} }

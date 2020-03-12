@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.21322989463806,
+  "n_files"            : 17,
+  "n_lines"            : 4712,
+  "files_per_second"   : 2.35678056131788,
+  "lines_per_second"   : 653.24411793705,
+  "report_file"        : "loc/avelino__awesome-go.json"},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 330,
+  "comment": 0,
+  "code": 2215},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 207,
+  "comment": 157,
+  "code": 927},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 88,
+  "comment": 161,
+  "code": 359},
+"Go" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 2,
+  "code": 127},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 0,
+  "code": 51},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 37},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 11},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 660,
+  "comment": 320,
+  "code": 3732,
+  "nFiles": 17} }

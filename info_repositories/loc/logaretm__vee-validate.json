@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 41.9409549236298,
+  "n_files"            : 190,
+  "n_lines"            : 13237,
+  "files_per_second"   : 4.53017820757708,
+  "lines_per_second"   : 315.610362808936,
+  "report_file"        : "loc/logaretm__vee-validate.json"},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 1085,
+  "comment": 0,
+  "code": 3119},
+"JavaScript" :{
+  "nFiles": 48,
+  "blank": 441,
+  "comment": 108,
+  "code": 2793},
+"TypeScript" :{
+  "nFiles": 46,
+  "blank": 517,
+  "comment": 160,
+  "code": 2542},
+"JSON" :{
+  "nFiles": 53,
+  "blank": 0,
+  "comment": 0,
+  "code": 1603},
+"Vuejs Component" :{
+  "nFiles": 7,
+  "blank": 113,
+  "comment": 21,
+  "code": 669},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 3,
+  "code": 25},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 1,
+  "code": 22},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 2166,
+  "comment": 293,
+  "code": 10778,
+  "nFiles": 190} }

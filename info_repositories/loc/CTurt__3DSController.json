@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.40593981742859,
+  "n_files"            : 35,
+  "n_lines"            : 2757,
+  "files_per_second"   : 7.94382162496873,
+  "lines_per_second"   : 625.746177715394,
+  "report_file"        : "loc/CTurt__3DSController.json"},
+"C" :{
+  "nFiles": 14,
+  "blank": 268,
+  "comment": 48,
+  "code": 966},
+"C/C++ Header" :{
+  "nFiles": 14,
+  "blank": 145,
+  "comment": 95,
+  "code": 487},
+"Python" :{
+  "nFiles": 2,
+  "blank": 62,
+  "comment": 34,
+  "code": 319},
+"make" :{
+  "nFiles": 2,
+  "blank": 48,
+  "comment": 54,
+  "code": 124},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 38},
+"INI" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 33},
+"SUM": {
+  "blank": 559,
+  "comment": 231,
+  "code": 1967,
+  "nFiles": 35} }

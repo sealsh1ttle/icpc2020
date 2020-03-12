@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.41247606277466,
+  "n_files"            : 15,
+  "n_lines"            : 2826,
+  "files_per_second"   : 6.2176782731465,
+  "lines_per_second"   : 1171.4105866608,
+  "report_file"        : "loc/irasanchez__Sprint-Challenge-React-Smurfs.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 747,
+  "comment": 0,
+  "code": 1683},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 28,
+  "comment": 4,
+  "code": 226},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 50},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 42},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 17},
+"SUM": {
+  "blank": 784,
+  "comment": 24,
+  "code": 2018,
+  "nFiles": 15} }

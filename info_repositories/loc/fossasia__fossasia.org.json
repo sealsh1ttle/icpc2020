@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 101.663225889206,
+  "n_files"            : 354,
+  "n_lines"            : 136263,
+  "files_per_second"   : 3.48208505980121,
+  "lines_per_second"   : 1340.33716526467,
+  "report_file"        : "loc/fossasia__fossasia.org.json"},
+"CSS" :{
+  "nFiles": 41,
+  "blank": 111,
+  "comment": 1886,
+  "code": 66073},
+"LESS" :{
+  "nFiles": 62,
+  "blank": 5867,
+  "comment": 3455,
+  "code": 18267},
+"PHP" :{
+  "nFiles": 172,
+  "blank": 2318,
+  "comment": 9421,
+  "code": 10356},
+"HTML" :{
+  "nFiles": 26,
+  "blank": 658,
+  "comment": 284,
+  "code": 6133},
+"JavaScript" :{
+  "nFiles": 33,
+  "blank": 1705,
+  "comment": 669,
+  "code": 4693},
+"SVG" :{
+  "nFiles": 12,
+  "blank": 17,
+  "comment": 8,
+  "code": 3935},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 118},
+"XML" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 109},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 47},
+"Python" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 31},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 10735,
+  "comment": 15726,
+  "code": 109802,
+  "nFiles": 354} }

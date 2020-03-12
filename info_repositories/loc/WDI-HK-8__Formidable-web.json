@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 31.6751551628113,
+  "n_files"            : 119,
+  "n_lines"            : 2914,
+  "files_per_second"   : 3.75688767389887,
+  "lines_per_second"   : 91.9963922835405,
+  "report_file"        : "loc/WDI-HK-8__Formidable-web.json"},
+"Ruby" :{
+  "nFiles": 75,
+  "blank": 158,
+  "comment": 263,
+  "code": 581},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 42,
+  "comment": 9,
+  "code": 549},
+"ERB" :{
+  "nFiles": 18,
+  "blank": 90,
+  "comment": 0,
+  "code": 512},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 99,
+  "comment": 16,
+  "code": 466},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 11,
+  "comment": 33,
+  "code": 21},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 11},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 25,
+  "code": 0},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 406,
+  "comment": 349,
+  "code": 2159,
+  "nFiles": 119} }

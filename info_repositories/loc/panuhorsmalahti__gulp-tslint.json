@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.276365995407104,
+  "n_files"            : 33,
+  "n_lines"            : 5335,
+  "files_per_second"   : 119.406875478255,
+  "lines_per_second"   : 19304.1115356512,
+  "report_file"        : "loc/panuhorsmalahti__gulp-tslint.json"},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 3799},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 55,
+  "comment": 137,
+  "code": 581},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 100,
+  "comment": 0,
+  "code": 292},
+"TypeScript" :{
+  "nFiles": 14,
+  "blank": 50,
+  "comment": 80,
+  "code": 236},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 205,
+  "comment": 217,
+  "code": 4913,
+  "nFiles": 33} }

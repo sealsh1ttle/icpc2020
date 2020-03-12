@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.528048992156982,
+  "n_files"            : 79,
+  "n_lines"            : 4575,
+  "files_per_second"   : 149.607330329899,
+  "lines_per_second"   : 8663.96881340872,
+  "report_file"        : "loc/codeforboston__windfall-elimination.json"},
+"TypeScript" :{
+  "nFiles": 58,
+  "blank": 251,
+  "comment": 34,
+  "code": 2204},
+"JavaScript" :{
+  "nFiles": 12,
+  "blank": 192,
+  "comment": 114,
+  "code": 741},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 83,
+  "comment": 22,
+  "code": 498},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 306},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 0,
+  "code": 68},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 15},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 569,
+  "comment": 171,
+  "code": 3835,
+  "nFiles": 79} }

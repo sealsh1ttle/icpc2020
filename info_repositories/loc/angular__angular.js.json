@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.2148430347443,
+  "n_files"            : 1317,
+  "n_lines"            : 385757,
+  "files_per_second"   : 92.6496336808614,
+  "lines_per_second"   : 27137.6193924283,
+  "report_file"        : "loc/angular__angular.js.json"},
+"JavaScript" :{
+  "nFiles": 1112,
+  "blank": 32431,
+  "comment": 37005,
+  "code": 229423},
+"XML" :{
+  "nFiles": 12,
+  "blank": 452,
+  "comment": 0,
+  "code": 40451},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 4186,
+  "comment": 0,
+  "code": 15509},
+"SVG" :{
+  "nFiles": 42,
+  "blank": 6,
+  "comment": 1,
+  "code": 11339},
+"JSON" :{
+  "nFiles": 39,
+  "blank": 69,
+  "comment": 0,
+  "code": 9020},
+"HTML" :{
+  "nFiles": 62,
+  "blank": 239,
+  "comment": 22,
+  "code": 2755},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 257,
+  "comment": 24,
+  "code": 1325},
+"Bourne Shell" :{
+  "nFiles": 24,
+  "blank": 174,
+  "comment": 118,
+  "code": 568},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 130,
+  "code": 109},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 7,
+  "code": 87},
+"SUM": {
+  "blank": 37864,
+  "comment": 37307,
+  "code": 310586,
+  "nFiles": 1317} }

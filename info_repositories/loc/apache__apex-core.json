@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 154.791303157806,
+  "n_files"            : 555,
+  "n_lines"            : 122661,
+  "files_per_second"   : 3.58547275381608,
+  "lines_per_second"   : 792.428240460963,
+  "report_file"        : "loc/apache__apex-core.json"},
+"Java" :{
+  "nFiles": 474,
+  "blank": 13405,
+  "comment": 22539,
+  "code": 71651},
+"Markdown" :{
+  "nFiles": 21,
+  "blank": 1688,
+  "comment": 0,
+  "code": 8437},
+"Maven" :{
+  "nFiles": 13,
+  "blank": 128,
+  "comment": 238,
+  "code": 1993},
+"XML" :{
+  "nFiles": 33,
+  "blank": 169,
+  "comment": 428,
+  "code": 1216},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 0,
+  "code": 342},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 67,
+  "code": 88},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 27,
+  "code": 67},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 14,
+  "code": 25},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 19,
+  "code": 16},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 20,
+  "code": 9},
+"Velocity Template Language" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 16,
+  "code": 1},
+"SUM": {
+  "blank": 15445,
+  "comment": 23368,
+  "code": 83848,
+  "nFiles": 555} }

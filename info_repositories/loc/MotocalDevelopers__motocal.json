@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.00313591957092,
+  "n_files"            : 57,
+  "n_lines"            : 84708,
+  "files_per_second"   : 56.8218113696706,
+  "lines_per_second"   : 84443.1929386325,
+  "report_file"        : "loc/MotocalDevelopers__motocal.json"},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 0,
+  "code": 59535},
+"JavaScript" :{
+  "nFiles": 32,
+  "blank": 1135,
+  "comment": 819,
+  "code": 18917},
+"Python" :{
+  "nFiles": 4,
+  "blank": 305,
+  "comment": 244,
+  "code": 1959},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 198,
+  "comment": 9,
+  "code": 1139},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 0,
+  "code": 249},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 94},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 27},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1702,
+  "comment": 1077,
+  "code": 81929,
+  "nFiles": 57} }

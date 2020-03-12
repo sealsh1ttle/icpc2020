@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.5275120735168,
+  "n_files"            : 63,
+  "n_lines"            : 4177,
+  "files_per_second"   : 5.02893149336347,
+  "lines_per_second"   : 333.42614044094,
+  "report_file"        : "loc/indigo-iam__iam-documentation.json"},
+"Markdown" :{
+  "nFiles": 61,
+  "blank": 1023,
+  "comment": 0,
+  "code": 3094},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 1030,
+  "comment": 0,
+  "code": 3147,
+  "nFiles": 63} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.587723970413208,
+  "n_files"            : 44,
+  "n_lines"            : 25979,
+  "files_per_second"   : 74.8650764900148,
+  "lines_per_second"   : 44202.7232303203,
+  "report_file"        : "loc/hjespers__teslams.json"},
+"JavaScript" :{
+  "nFiles": 26,
+  "blank": 2835,
+  "comment": 3371,
+  "code": 16149},
+"HTML" :{
+  "nFiles": 11,
+  "blank": 52,
+  "comment": 0,
+  "code": 1745},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 49,
+  "code": 1323},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 109,
+  "comment": 0,
+  "code": 232},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 78},
+"SUM": {
+  "blank": 3032,
+  "comment": 3420,
+  "code": 19527,
+  "nFiles": 44} }

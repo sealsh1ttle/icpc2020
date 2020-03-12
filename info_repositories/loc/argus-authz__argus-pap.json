@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 66.4001259803772,
+  "n_files"            : 298,
+  "n_lines"            : 36251,
+  "files_per_second"   : 4.48794329227728,
+  "lines_per_second"   : 545.947759356858,
+  "report_file"        : "loc/argus-authz__argus-pap.json"},
+"Java" :{
+  "nFiles": 275,
+  "blank": 6870,
+  "comment": 8588,
+  "code": 18147},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 43,
+  "comment": 9,
+  "code": 569},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 57,
+  "code": 336},
+"XML" :{
+  "nFiles": 6,
+  "blank": 108,
+  "comment": 101,
+  "code": 311},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 110,
+  "comment": 193,
+  "code": 248},
+"INI" :{
+  "nFiles": 4,
+  "blank": 59,
+  "comment": 0,
+  "code": 229},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 93},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 32,
+  "code": 55},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 16,
+  "code": 26},
+"SUM": {
+  "blank": 7241,
+  "comment": 8996,
+  "code": 20014,
+  "nFiles": 298} }

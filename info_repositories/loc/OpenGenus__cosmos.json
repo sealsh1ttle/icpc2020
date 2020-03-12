@@ -1,0 +1,249 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1229.00683903694,
+  "n_files"            : 3095,
+  "n_lines"            : 300003,
+  "files_per_second"   : 2.51829355353731,
+  "lines_per_second"   : 244.10197768719,
+  "report_file"        : "loc/OpenGenus__cosmos.json"},
+"Jupyter Notebook" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 18734,
+  "code": 82161},
+"C++" :{
+  "nFiles": 479,
+  "blank": 5656,
+  "comment": 4878,
+  "code": 32999},
+"Python" :{
+  "nFiles": 346,
+  "blank": 3882,
+  "comment": 2673,
+  "code": 23564},
+"C" :{
+  "nFiles": 276,
+  "blank": 3386,
+  "comment": 2036,
+  "code": 16949},
+"JSON" :{
+  "nFiles": 584,
+  "blank": 0,
+  "comment": 0,
+  "code": 14089},
+"Java" :{
+  "nFiles": 300,
+  "blank": 3060,
+  "comment": 2294,
+  "code": 13966},
+"Markdown" :{
+  "nFiles": 252,
+  "blank": 4208,
+  "comment": 0,
+  "code": 12238},
+"C/C++ Header" :{
+  "nFiles": 20,
+  "blank": 2692,
+  "comment": 1217,
+  "code": 11327},
+"JavaScript" :{
+  "nFiles": 126,
+  "blank": 855,
+  "comment": 1224,
+  "code": 4673},
+"Go" :{
+  "nFiles": 113,
+  "blank": 931,
+  "comment": 495,
+  "code": 4225},
+"Swift" :{
+  "nFiles": 70,
+  "blank": 836,
+  "comment": 322,
+  "code": 3770},
+"C#" :{
+  "nFiles": 66,
+  "blank": 542,
+  "comment": 415,
+  "code": 3350},
+"Ruby" :{
+  "nFiles": 60,
+  "blank": 351,
+  "comment": 241,
+  "code": 1722},
+"Rust" :{
+  "nFiles": 50,
+  "blank": 256,
+  "comment": 142,
+  "code": 1708},
+"Scala" :{
+  "nFiles": 51,
+  "blank": 248,
+  "comment": 122,
+  "code": 1309},
+"PHP" :{
+  "nFiles": 48,
+  "blank": 236,
+  "comment": 295,
+  "code": 1214},
+"Objective C" :{
+  "nFiles": 21,
+  "blank": 273,
+  "comment": 141,
+  "code": 1183},
+"Bourne Shell" :{
+  "nFiles": 52,
+  "blank": 167,
+  "comment": 136,
+  "code": 998},
+"Kotlin" :{
+  "nFiles": 16,
+  "blank": 133,
+  "comment": 47,
+  "code": 757},
+"Haskell" :{
+  "nFiles": 37,
+  "blank": 186,
+  "comment": 189,
+  "code": 715},
+"HTML" :{
+  "nFiles": 38,
+  "blank": 30,
+  "comment": 3,
+  "code": 598},
+"TypeScript" :{
+  "nFiles": 7,
+  "blank": 57,
+  "comment": 179,
+  "code": 569},
+"Brainfuck" :{
+  "nFiles": 1,
+  "blank": 70,
+  "comment": 6,
+  "code": 326},
+"Elixir" :{
+  "nFiles": 13,
+  "blank": 30,
+  "comment": 10,
+  "code": 186},
+"MATLAB" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 95,
+  "code": 147},
+"Ada" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 4,
+  "code": 98},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 6,
+  "code": 71},
+"Julia" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 5,
+  "code": 68},
+"Arduino Sketch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 19,
+  "code": 67},
+"F#" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 62},
+"Elm" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 53},
+"Standard ML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 15,
+  "code": 49},
+"Clojure" :{
+  "nFiles": 4,
+  "blank": 13,
+  "comment": 17,
+  "code": 49},
+"Lua" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 10,
+  "code": 48},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 39},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 1,
+  "code": 37},
+"OCaml" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 4,
+  "code": 32},
+"Nim" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 1,
+  "code": 31},
+"Visual Basic" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 5,
+  "code": 29},
+"Erlang" :{
+  "nFiles": 6,
+  "blank": 13,
+  "comment": 9,
+  "code": 29},
+"Prolog" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 15,
+  "code": 26},
+"Fortran 77" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 2,
+  "code": 24},
+"make" :{
+  "nFiles": 5,
+  "blank": 6,
+  "comment": 1,
+  "code": 23},
+"Racket" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 19},
+"ReasonML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"PureScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"Crystal" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 28351,
+  "comment": 36012,
+  "code": 235640,
+  "nFiles": 3095} }

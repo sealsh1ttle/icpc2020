@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 64.4692680835724,
+  "n_files"            : 3898,
+  "n_lines"            : 2550252,
+  "files_per_second"   : 60.4629169195309,
+  "lines_per_second"   : 39557.6384812384,
+  "report_file"        : "loc/aws__aws-sdk-ruby.json"},
+"JSON" :{
+  "nFiles": 777,
+  "blank": 225,
+  "comment": 0,
+  "code": 885759},
+"Ruby" :{
+  "nFiles": 2749,
+  "blank": 85046,
+  "comment": 1098159,
+  "code": 440567},
+"Markdown" :{
+  "nFiles": 215,
+  "blank": 13893,
+  "comment": 0,
+  "code": 22046},
+"Cucumber" :{
+  "nFiles": 127,
+  "blank": 438,
+  "comment": 532,
+  "code": 2086},
+"Mustache" :{
+  "nFiles": 23,
+  "blank": 174,
+  "comment": 0,
+  "code": 1127},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 55},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 3,
+  "code": 53},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 40},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 99805,
+  "comment": 1098694,
+  "code": 1351753,
+  "nFiles": 3898} }

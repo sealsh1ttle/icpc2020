@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 120.850051879883,
+  "n_files"            : 377,
+  "n_lines"            : 21396,
+  "files_per_second"   : 3.11956837531782,
+  "lines_per_second"   : 177.045848695756,
+  "report_file"        : "loc/mantl__mantl.json"},
+"YAML" :{
+  "nFiles": 175,
+  "blank": 597,
+  "comment": 261,
+  "code": 5056},
+"HCL" :{
+  "nFiles": 46,
+  "blank": 528,
+  "comment": 178,
+  "code": 3025},
+"reStructuredText" :{
+  "nFiles": 86,
+  "blank": 1950,
+  "comment": 1743,
+  "code": 2216},
+"Python" :{
+  "nFiles": 11,
+  "blank": 533,
+  "comment": 495,
+  "code": 1794},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 334,
+  "comment": 0,
+  "code": 1181},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 3,
+  "comment": 0,
+  "code": 501},
+"Bourne Shell" :{
+  "nFiles": 18,
+  "blank": 69,
+  "comment": 42,
+  "code": 231},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"Bourne Again Shell" :{
+  "nFiles": 9,
+  "blank": 55,
+  "comment": 19,
+  "code": 138},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 4133,
+  "comment": 2745,
+  "code": 14518,
+  "nFiles": 377} }

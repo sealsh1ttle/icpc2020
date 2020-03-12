@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.33109998703003,
+  "n_files"            : 197,
+  "n_lines"            : 36707,
+  "files_per_second"   : 84.5094595238665,
+  "lines_per_second"   : 15746.6433032618,
+  "report_file"        : "loc/OctoLinker__OctoLinker.json"},
+"JSON" :{
+  "nFiles": 52,
+  "blank": 0,
+  "comment": 0,
+  "code": 22683},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 2253,
+  "comment": 22,
+  "code": 5571},
+"JavaScript" :{
+  "nFiles": 116,
+  "blank": 819,
+  "comment": 127,
+  "code": 4678},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 104,
+  "comment": 0,
+  "code": 253},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 2,
+  "code": 84},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 2,
+  "code": 50},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"Go" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 5,
+  "code": 6},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"Java" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 3},
+"SUM": {
+  "blank": 3205,
+  "comment": 161,
+  "code": 33341,
+  "nFiles": 197} }

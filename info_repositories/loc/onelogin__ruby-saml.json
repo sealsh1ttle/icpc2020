@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 21.5475208759308,
+  "n_files"            : 92,
+  "n_lines"            : 15406,
+  "files_per_second"   : 4.26963271226096,
+  "lines_per_second"   : 714.97784309883,
+  "report_file"        : "loc/onelogin__ruby-saml.json"},
+"Ruby" :{
+  "nFiles": 39,
+  "blank": 1541,
+  "comment": 951,
+  "code": 7513},
+"XSD" :{
+  "nFiles": 12,
+  "blank": 233,
+  "comment": 40,
+  "code": 2415},
+"XML" :{
+  "nFiles": 38,
+  "blank": 0,
+  "comment": 0,
+  "code": 1677},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 238,
+  "comment": 0,
+  "code": 752},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"SUM": {
+  "blank": 2012,
+  "comment": 991,
+  "code": 12403,
+  "nFiles": 92} }

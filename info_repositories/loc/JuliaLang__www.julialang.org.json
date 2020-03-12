@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 109.476365089417,
+  "n_files"            : 338,
+  "n_lines"            : 98189,
+  "files_per_second"   : 3.08742439268908,
+  "lines_per_second"   : 896.896786076178,
+  "report_file"        : "loc/JuliaLang__www.julialang.org.json"},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 5,
+  "comment": 1,
+  "code": 40943},
+"Markdown" :{
+  "nFiles": 245,
+  "blank": 5638,
+  "comment": 0,
+  "code": 20034},
+"CSS" :{
+  "nFiles": 14,
+  "blank": 1406,
+  "comment": 93,
+  "code": 10994},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 1925,
+  "comment": 2117,
+  "code": 7571},
+"HTML" :{
+  "nFiles": 47,
+  "blank": 374,
+  "comment": 275,
+  "code": 2898},
+"Jupyter Notebook" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 3436,
+  "code": 191},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 6,
+  "code": 78},
+"make" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 3,
+  "code": 57},
+"Julia" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 3,
+  "code": 57},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 34},
+"XML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 9374,
+  "comment": 5934,
+  "code": 82881,
+  "nFiles": 338} }

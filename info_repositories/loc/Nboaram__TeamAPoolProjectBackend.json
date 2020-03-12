@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0179660320281982,
+  "n_files"            : 1,
+  "n_lines"            : 5,
+  "files_per_second"   : 55.6605931922235,
+  "lines_per_second"   : 278.302965961117,
+  "report_file"        : "loc/Nboaram__TeamAPoolProjectBackend.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 0,
+  "comment": 0,
+  "code": 5,
+  "nFiles": 1} }

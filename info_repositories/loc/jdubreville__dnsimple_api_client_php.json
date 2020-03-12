@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 130.784630060196,
+  "n_files"            : 577,
+  "n_lines"            : 73418,
+  "files_per_second"   : 4.41183340683401,
+  "lines_per_second"   : 561.365658687937,
+  "report_file"        : "loc/jdubreville__dnsimple_api_client_php.json"},
+"PHP" :{
+  "nFiles": 500,
+  "blank": 7757,
+  "comment": 26256,
+  "code": 34488},
+"XML" :{
+  "nFiles": 32,
+  "blank": 59,
+  "comment": 0,
+  "code": 1183},
+"Ant" :{
+  "nFiles": 7,
+  "blank": 160,
+  "comment": 12,
+  "code": 1090},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 742},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 193,
+  "comment": 168,
+  "code": 519},
+"Markdown" :{
+  "nFiles": 13,
+  "blank": 139,
+  "comment": 0,
+  "code": 254},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 251},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 0,
+  "code": 57},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 43},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 10,
+  "code": 22},
+"SUM": {
+  "blank": 8323,
+  "comment": 26446,
+  "code": 38649,
+  "nFiles": 577} }

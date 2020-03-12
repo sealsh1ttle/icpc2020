@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.2497529983521,
+  "n_files"            : 44,
+  "n_lines"            : 7383,
+  "files_per_second"   : 3.08777281999825,
+  "lines_per_second"   : 518.114243864706,
+  "report_file"        : "loc/oakserver__oak.json"},
+"TypeScript" :{
+  "nFiles": 39,
+  "blank": 618,
+  "comment": 1697,
+  "code": 4764},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 86,
+  "comment": 0,
+  "code": 193},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 706,
+  "comment": 1697,
+  "code": 4980,
+  "nFiles": 44} }

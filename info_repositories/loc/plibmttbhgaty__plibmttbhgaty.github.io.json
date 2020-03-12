@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.55637502670288,
+  "n_files"            : 36,
+  "n_lines"            : 2437,
+  "files_per_second"   : 4.20738921420001,
+  "lines_per_second"   : 284.816875416817,
+  "report_file"        : "loc/plibmttbhgaty__plibmttbhgaty.github.io.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 105,
+  "comment": 67,
+  "code": 687},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 118,
+  "comment": 12,
+  "code": 590},
+"ERB" :{
+  "nFiles": 12,
+  "blank": 19,
+  "comment": 0,
+  "code": 216},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 77,
+  "comment": 141,
+  "code": 157},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 97},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 40},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 51,
+  "code": 22},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 353,
+  "comment": 271,
+  "code": 1813,
+  "nFiles": 36} }

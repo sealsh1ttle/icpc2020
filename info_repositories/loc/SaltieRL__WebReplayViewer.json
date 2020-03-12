@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.84877419471741,
+  "n_files"            : 84,
+  "n_lines"            : 17379,
+  "files_per_second"   : 45.4355108590423,
+  "lines_per_second"   : 9400.28265737258,
+  "report_file"        : "loc/SaltieRL__WebReplayViewer.json"},
+"JSON" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 14024},
+"TypeScript" :{
+  "nFiles": 71,
+  "blank": 376,
+  "comment": 196,
+  "code": 2552},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 1,
+  "code": 166},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 22},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"SUM": {
+  "blank": 398,
+  "comment": 197,
+  "code": 16784,
+  "nFiles": 84} }

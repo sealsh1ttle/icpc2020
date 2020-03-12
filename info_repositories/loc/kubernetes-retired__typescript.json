@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.93938398361206,
+  "n_files"            : 25,
+  "n_lines"            : 66073,
+  "files_per_second"   : 5.0613598948665,
+  "lines_per_second"   : 13376.7692933406,
+  "report_file"        : "loc/kubernetes-retired__typescript.json"},
+"TypeScript" :{
+  "nFiles": 15,
+  "blank": 8547,
+  "comment": 13399,
+  "code": 42722},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 1222},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 41},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 8,
+  "code": 31},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 17,
+  "code": 4},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 8589,
+  "comment": 13424,
+  "code": 44060,
+  "nFiles": 25} }

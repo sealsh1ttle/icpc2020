@@ -1,0 +1,189 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 769.718230962753,
+  "n_files"            : 1672,
+  "n_lines"            : 313393,
+  "files_per_second"   : 2.172223461446,
+  "lines_per_second"   : 407.152887113005,
+  "report_file"        : "loc/sider__runners.json"},
+"PHP" :{
+  "nFiles": 839,
+  "blank": 27447,
+  "comment": 76439,
+  "code": 168297},
+"Ruby" :{
+  "nFiles": 223,
+  "blank": 1999,
+  "comment": 846,
+  "code": 14591},
+"JSON" :{
+  "nFiles": 88,
+  "blank": 0,
+  "comment": 0,
+  "code": 14456},
+"YAML" :{
+  "nFiles": 207,
+  "blank": 58,
+  "comment": 147,
+  "code": 1559},
+"CSS" :{
+  "nFiles": 16,
+  "blank": 49,
+  "comment": 104,
+  "code": 1411},
+"PO File" :{
+  "nFiles": 42,
+  "blank": 142,
+  "comment": 26,
+  "code": 854},
+"Dockerfile" :{
+  "nFiles": 29,
+  "blank": 201,
+  "comment": 252,
+  "code": 834},
+"ERB" :{
+  "nFiles": 38,
+  "blank": 88,
+  "comment": 0,
+  "code": 333},
+"XML" :{
+  "nFiles": 14,
+  "blank": 13,
+  "comment": 8,
+  "code": 310},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 99,
+  "comment": 0,
+  "code": 223},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 15,
+  "comment": 3,
+  "code": 190},
+"Ant" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 47,
+  "code": 182},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 166},
+"JavaScript" :{
+  "nFiles": 29,
+  "blank": 11,
+  "comment": 52,
+  "code": 158},
+"DOS Batch" :{
+  "nFiles": 4,
+  "blank": 42,
+  "comment": 2,
+  "code": 148},
+"TypeScript" :{
+  "nFiles": 10,
+  "blank": 27,
+  "comment": 10,
+  "code": 142},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 26,
+  "comment": 38,
+  "code": 139},
+"Python" :{
+  "nFiles": 13,
+  "blank": 55,
+  "comment": 47,
+  "code": 130},
+"Bourne Again Shell" :{
+  "nFiles": 16,
+  "blank": 25,
+  "comment": 39,
+  "code": 102},
+"SQL" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 1,
+  "code": 85},
+"Go" :{
+  "nFiles": 8,
+  "blank": 21,
+  "comment": 4,
+  "code": 65},
+"C" :{
+  "nFiles": 10,
+  "blank": 6,
+  "comment": 0,
+  "code": 59},
+"Kotlin" :{
+  "nFiles": 8,
+  "blank": 15,
+  "comment": 15,
+  "code": 56},
+"Java" :{
+  "nFiles": 8,
+  "blank": 13,
+  "comment": 30,
+  "code": 52},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 37,
+  "code": 48},
+"Sass" :{
+  "nFiles": 8,
+  "blank": 10,
+  "comment": 3,
+  "code": 44},
+"INI" :{
+  "nFiles": 7,
+  "blank": 4,
+  "comment": 3,
+  "code": 42},
+"Haml" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 1,
+  "code": 26},
+"Swift" :{
+  "nFiles": 5,
+  "blank": 2,
+  "comment": 0,
+  "code": 19},
+"C++" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"LESS" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 1,
+  "code": 13},
+"Slim" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"JSX" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"CoffeeScript" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 3,
+  "code": 5},
+"Korn Shell" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 30451,
+  "comment": 78161,
+  "code": 204781,
+  "nFiles": 1672} }

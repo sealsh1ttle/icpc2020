@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.594398021698,
+  "n_files"            : 852,
+  "n_lines"            : 221635,
+  "files_per_second"   : 99.1343428415793,
+  "lines_per_second"   : 25788.309947997,
+  "report_file"        : "loc/openshift__aos-cd-jobs.json"},
+"XML" :{
+  "nFiles": 236,
+  "blank": 1999,
+  "comment": 0,
+  "code": 182484},
+"YAML" :{
+  "nFiles": 382,
+  "blank": 478,
+  "comment": 392,
+  "code": 15355},
+"Groovy" :{
+  "nFiles": 63,
+  "blank": 1154,
+  "comment": 1315,
+  "code": 8026},
+"Bourne Shell" :{
+  "nFiles": 73,
+  "blank": 704,
+  "comment": 406,
+  "code": 3092},
+"Python" :{
+  "nFiles": 47,
+  "blank": 793,
+  "comment": 851,
+  "code": 2833},
+"Markdown" :{
+  "nFiles": 49,
+  "blank": 263,
+  "comment": 0,
+  "code": 1227},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 28,
+  "code": 222},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 5400,
+  "comment": 2992,
+  "code": 213243,
+  "nFiles": 852} }

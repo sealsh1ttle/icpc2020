@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 23.6750810146332,
+  "n_files"            : 1,
+  "n_lines"            : 10,
+  "files_per_second"   : 0.0422385038252632,
+  "lines_per_second"   : 0.422385038252632,
+  "report_file"        : "loc/Millenaire__Content.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 3,
+  "comment": 0,
+  "code": 7,
+  "nFiles": 1} }

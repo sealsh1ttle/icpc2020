@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0313739776611328,
+  "n_files"            : 4,
+  "n_lines"            : 548,
+  "files_per_second"   : 127.494194175938,
+  "lines_per_second"   : 17466.7046021035,
+  "report_file"        : "loc/DirtyDevWork__homebridge-daikin.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 121,
+  "code": 264},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 47},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 38},
+"SUM": {
+  "blank": 78,
+  "comment": 121,
+  "code": 349,
+  "nFiles": 4} }

@@ -1,0 +1,284 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7474.70702004433,
+  "n_files"            : 23161,
+  "n_lines"            : 7035438,
+  "files_per_second"   : 3.09858298631518,
+  "lines_per_second"   : 941.232610339593,
+  "report_file"        : "loc/mongodb__mongo.json"},
+"C/C++ Header" :{
+  "nFiles": 9780,
+  "blank": 309184,
+  "comment": 541305,
+  "code": 1473830},
+"C++" :{
+  "nFiles": 4342,
+  "blank": 269132,
+  "comment": 258877,
+  "code": 1374696},
+"Go" :{
+  "nFiles": 1520,
+  "blank": 40546,
+  "comment": 87056,
+  "code": 747439},
+"C" :{
+  "nFiles": 1314,
+  "blank": 82894,
+  "comment": 197343,
+  "code": 742069},
+"JavaScript" :{
+  "nFiles": 3408,
+  "blank": 55089,
+  "comment": 57408,
+  "code": 242850},
+"Python" :{
+  "nFiles": 947,
+  "blank": 32939,
+  "comment": 58368,
+  "code": 119650},
+"YAML" :{
+  "nFiles": 639,
+  "blank": 5282,
+  "comment": 5291,
+  "code": 66372},
+"Bourne Shell" :{
+  "nFiles": 231,
+  "blank": 11290,
+  "comment": 11867,
+  "code": 63449},
+"m4" :{
+  "nFiles": 42,
+  "blank": 2273,
+  "comment": 334,
+  "code": 21911},
+"diff" :{
+  "nFiles": 28,
+  "blank": 240,
+  "comment": 1027,
+  "code": 16184},
+"IDL" :{
+  "nFiles": 187,
+  "blank": 1080,
+  "comment": 0,
+  "code": 13588},
+"MSBuild script" :{
+  "nFiles": 30,
+  "blank": 0,
+  "comment": 0,
+  "code": 9592},
+"Markdown" :{
+  "nFiles": 121,
+  "blank": 2705,
+  "comment": 0,
+  "code": 9565},
+"XML" :{
+  "nFiles": 23,
+  "blank": 14,
+  "comment": 22,
+  "code": 9270},
+"Perl" :{
+  "nFiles": 21,
+  "blank": 1307,
+  "comment": 1530,
+  "code": 7927},
+"SWIG" :{
+  "nFiles": 27,
+  "blank": 1493,
+  "comment": 3924,
+  "code": 7838},
+"make" :{
+  "nFiles": 80,
+  "blank": 1490,
+  "comment": 981,
+  "code": 6344},
+"HTML" :{
+  "nFiles": 18,
+  "blank": 1097,
+  "comment": 77,
+  "code": 6233},
+"Assembly" :{
+  "nFiles": 54,
+  "blank": 745,
+  "comment": 1690,
+  "code": 6144},
+"Java" :{
+  "nFiles": 49,
+  "blank": 1029,
+  "comment": 2780,
+  "code": 4980},
+"JSON" :{
+  "nFiles": 57,
+  "blank": 1,
+  "comment": 0,
+  "code": 4691},
+"reStructuredText" :{
+  "nFiles": 30,
+  "blank": 1546,
+  "comment": 488,
+  "code": 3710},
+"TeX" :{
+  "nFiles": 32,
+  "blank": 742,
+  "comment": 0,
+  "code": 2511},
+"CSS" :{
+  "nFiles": 13,
+  "blank": 621,
+  "comment": 102,
+  "code": 2434},
+"ReasonML" :{
+  "nFiles": 2,
+  "blank": 316,
+  "comment": 570,
+  "code": 2076},
+"DOS Batch" :{
+  "nFiles": 30,
+  "blank": 286,
+  "comment": 26,
+  "code": 2060},
+"Pascal" :{
+  "nFiles": 7,
+  "blank": 322,
+  "comment": 1707,
+  "code": 1272},
+"NAnt script" :{
+  "nFiles": 6,
+  "blank": 116,
+  "comment": 0,
+  "code": 1199},
+"PHP" :{
+  "nFiles": 7,
+  "blank": 48,
+  "comment": 24,
+  "code": 1066},
+"Bourne Again Shell" :{
+  "nFiles": 6,
+  "blank": 173,
+  "comment": 186,
+  "code": 882},
+"WiX source" :{
+  "nFiles": 5,
+  "blank": 56,
+  "comment": 22,
+  "code": 690},
+"TOML" :{
+  "nFiles": 23,
+  "blank": 194,
+  "comment": 136,
+  "code": 675},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 656},
+"Gencat NLS" :{
+  "nFiles": 2,
+  "blank": 41,
+  "comment": 0,
+  "code": 633},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 533},
+"CMake" :{
+  "nFiles": 7,
+  "blank": 79,
+  "comment": 177,
+  "code": 416},
+"Windows Resource File" :{
+  "nFiles": 7,
+  "blank": 69,
+  "comment": 99,
+  "code": 318},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 50,
+  "comment": 46,
+  "code": 287},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 40,
+  "comment": 0,
+  "code": 237},
+"Protocol Buffers" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 193},
+"Starlark" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 32,
+  "code": 163},
+"Windows Module Definition" :{
+  "nFiles": 6,
+  "blank": 2,
+  "comment": 0,
+  "code": 141},
+"Lua" :{
+  "nFiles": 4,
+  "blank": 39,
+  "comment": 5,
+  "code": 115},
+"INI" :{
+  "nFiles": 21,
+  "blank": 4,
+  "comment": 0,
+  "code": 59},
+"Rust" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 7,
+  "code": 47},
+"Windows Message File" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 19,
+  "code": 34},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 21,
+  "code": 19},
+"R" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 18,
+  "code": 12},
+"vim script" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 15,
+  "code": 11},
+"Jam" :{
+  "nFiles": 5,
+  "blank": 5,
+  "comment": 40,
+  "code": 10},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 9},
+"D" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 22,
+  "code": 8},
+"RobotFramework" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 824683,
+  "comment": 1233648,
+  "code": 4977107,
+  "nFiles": 23161} }

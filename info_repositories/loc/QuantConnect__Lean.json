@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 768.025585889816,
+  "n_files"            : 2575,
+  "n_lines"            : 530989,
+  "files_per_second"   : 3.35275288650269,
+  "lines_per_second"   : 691.368894155797,
+  "report_file"        : "loc/QuantConnect__Lean.json"},
+"C#" :{
+  "nFiles": 2254,
+  "blank": 47959,
+  "comment": 153368,
+  "code": 259876},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 105,
+  "comment": 0,
+  "code": 32486},
+"Python" :{
+  "nFiles": 220,
+  "blank": 3697,
+  "comment": 6673,
+  "code": 11143},
+"MSBuild script" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 154,
+  "code": 7320},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3027},
+"XML" :{
+  "nFiles": 27,
+  "blank": 12,
+  "comment": 64,
+  "code": 1159},
+"Markdown" :{
+  "nFiles": 19,
+  "blank": 364,
+  "comment": 0,
+  "code": 973},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 0,
+  "code": 706},
+"XAML" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 72,
+  "code": 668},
+"Jupyter Notebook" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 672,
+  "code": 128},
+"Visual Basic" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 30,
+  "code": 28},
+"F#" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 16,
+  "code": 26},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 26},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 26},
+"Java" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 23},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 5,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 2,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 25,
+  "code": 5},
+"SUM": {
+  "blank": 52249,
+  "comment": 161082,
+  "code": 317658,
+  "nFiles": 2575} }

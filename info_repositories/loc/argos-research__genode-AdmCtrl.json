@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.25021505355835,
+  "n_files"            : 30,
+  "n_lines"            : 3414,
+  "files_per_second"   : 119.896863011897,
+  "lines_per_second"   : 13644.2630107539,
+  "report_file"        : "loc/argos-research__genode-AdmCtrl.json"},
+"C++" :{
+  "nFiles": 11,
+  "blank": 448,
+  "comment": 558,
+  "code": 1418},
+"C/C++ Header" :{
+  "nFiles": 12,
+  "blank": 210,
+  "comment": 256,
+  "code": 503},
+"make" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 18},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 659,
+  "comment": 814,
+  "code": 1941,
+  "nFiles": 30} }

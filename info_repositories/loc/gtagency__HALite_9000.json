@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.8458890914917,
+  "n_files"            : 101,
+  "n_lines"            : 5669,
+  "files_per_second"   : 2.98411425171838,
+  "lines_per_second"   : 167.494492009817,
+  "report_file"        : "loc/gtagency__HALite_9000.json"},
+"Java" :{
+  "nFiles": 17,
+  "blank": 226,
+  "comment": 34,
+  "code": 2140},
+"Python" :{
+  "nFiles": 36,
+  "blank": 381,
+  "comment": 124,
+  "code": 1449},
+"C++" :{
+  "nFiles": 3,
+  "blank": 59,
+  "comment": 30,
+  "code": 275},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 16,
+  "comment": 6,
+  "code": 260},
+"Scala" :{
+  "nFiles": 8,
+  "blank": 42,
+  "comment": 4,
+  "code": 223},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 2,
+  "code": 199},
+"Bourne Shell" :{
+  "nFiles": 22,
+  "blank": 6,
+  "comment": 0,
+  "code": 68},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 58},
+"DOS Batch" :{
+  "nFiles": 3,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 788,
+  "comment": 200,
+  "code": 4681,
+  "nFiles": 101} }

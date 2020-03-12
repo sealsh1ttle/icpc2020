@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.551775932312012,
+  "n_files"            : 2,
+  "n_lines"            : 42,
+  "files_per_second"   : 3.62465972667518,
+  "lines_per_second"   : 76.1178542601788,
+  "report_file"        : "loc/dotnet__roslyn-analyzers-contrib.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 0,
+  "code": 24},
+"SUM": {
+  "blank": 18,
+  "comment": 0,
+  "code": 24,
+  "nFiles": 2} }

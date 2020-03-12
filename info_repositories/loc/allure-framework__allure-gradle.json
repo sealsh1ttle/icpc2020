@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 44.9902639389038,
+  "n_files"            : 64,
+  "n_lines"            : 2378,
+  "files_per_second"   : 1.42252999642125,
+  "lines_per_second"   : 52.8558801795271,
+  "report_file"        : "loc/allure-framework__allure-gradle.json"},
+"Java" :{
+  "nFiles": 15,
+  "blank": 138,
+  "comment": 15,
+  "code": 493},
+"Gradle" :{
+  "nFiles": 24,
+  "blank": 97,
+  "comment": 3,
+  "code": 458},
+"Groovy" :{
+  "nFiles": 14,
+  "blank": 134,
+  "comment": 43,
+  "code": 443},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 75,
+  "comment": 27,
+  "code": 145},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 46},
+"Cucumber" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 489,
+  "comment": 112,
+  "code": 1777,
+  "nFiles": 64} }

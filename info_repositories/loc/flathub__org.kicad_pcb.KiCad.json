@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.416337013244629,
+  "n_files"            : 2,
+  "n_lines"            : 200,
+  "files_per_second"   : 4.80380061434714,
+  "lines_per_second"   : 480.380061434714,
+  "report_file"        : "loc/flathub__org.kicad_pcb.KiCad.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 196},
+"SUM": {
+  "blank": 4,
+  "comment": 0,
+  "code": 196,
+  "nFiles": 2} }

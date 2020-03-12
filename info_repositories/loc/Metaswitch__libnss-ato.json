@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.57103705406189,
+  "n_files"            : 5,
+  "n_lines"            : 532,
+  "files_per_second"   : 3.18261112115248,
+  "lines_per_second"   : 338.629823290624,
+  "report_file"        : "loc/Metaswitch__libnss-ato.json"},
+"C" :{
+  "nFiles": 2,
+  "blank": 58,
+  "comment": 90,
+  "code": 153},
+"make" :{
+  "nFiles": 2,
+  "blank": 28,
+  "comment": 35,
+  "code": 73},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 26,
+  "comment": 0,
+  "code": 69},
+"SUM": {
+  "blank": 112,
+  "comment": 125,
+  "code": 295,
+  "nFiles": 5} }

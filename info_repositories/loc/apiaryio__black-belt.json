@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.42365407943726,
+  "n_files"            : 48,
+  "n_lines"            : 4827,
+  "files_per_second"   : 5.69823968877965,
+  "lines_per_second"   : 573.029228702904,
+  "report_file"        : "loc/apiaryio__black-belt.json"},
+"Python" :{
+  "nFiles": 35,
+  "blank": 782,
+  "comment": 484,
+  "code": 1874},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 868},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 1,
+  "code": 212},
+"make" :{
+  "nFiles": 1,
+  "blank": 28,
+  "comment": 6,
+  "code": 143},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 129,
+  "comment": 51,
+  "code": 135},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 27},
+"SUM": {
+  "blank": 990,
+  "comment": 542,
+  "code": 3295,
+  "nFiles": 48} }

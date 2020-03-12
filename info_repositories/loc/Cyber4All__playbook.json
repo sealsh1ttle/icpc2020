@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0841169357299805,
+  "n_files"            : 5,
+  "n_lines"            : 127,
+  "files_per_second"   : 59.4410620953936,
+  "lines_per_second"   : 1509.802977223,
+  "report_file"        : "loc/Cyber4All__playbook.json"},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 47,
+  "comment": 0,
+  "code": 80},
+"SUM": {
+  "blank": 47,
+  "comment": 0,
+  "code": 80,
+  "nFiles": 5} }

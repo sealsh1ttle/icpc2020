@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 58.2549059391022,
+  "n_files"            : 204,
+  "n_lines"            : 25405,
+  "files_per_second"   : 3.50185098939573,
+  "lines_per_second"   : 436.100609733326,
+  "report_file"        : "loc/willianjusten__willianjusten.com.br.json"},
+"Markdown" :{
+  "nFiles": 141,
+  "blank": 6862,
+  "comment": 0,
+  "code": 14629},
+"JavaScript" :{
+  "nFiles": 52,
+  "blank": 349,
+  "comment": 44,
+  "code": 2704},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 17,
+  "comment": 2,
+  "code": 658},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 79},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 56},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 7230,
+  "comment": 46,
+  "code": 18129,
+  "nFiles": 204} }

@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.178236961364746,
+  "n_files"            : 1,
+  "n_lines"            : 4,
+  "files_per_second"   : 5.61050857433318,
+  "lines_per_second"   : 22.4420342973327,
+  "report_file"        : "loc/aspnet__aspnet-docker.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1,
+  "comment": 0,
+  "code": 3,
+  "nFiles": 1} }

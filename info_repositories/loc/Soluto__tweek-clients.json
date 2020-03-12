@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.57847714424133,
+  "n_files"            : 91,
+  "n_lines"            : 6612,
+  "files_per_second"   : 57.6505021513869,
+  "lines_per_second"   : 4188.84747499967,
+  "report_file"        : "loc/Soluto__tweek-clients.json"},
+"TypeScript" :{
+  "nFiles": 50,
+  "blank": 877,
+  "comment": 1001,
+  "code": 3280},
+"C#" :{
+  "nFiles": 12,
+  "blank": 102,
+  "comment": 29,
+  "code": 553},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 3,
+  "comment": 0,
+  "code": 321},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 64,
+  "comment": 0,
+  "code": 178},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 85},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 35},
+"Dockerfile" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 0,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 16},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 1086,
+  "comment": 1030,
+  "code": 4496,
+  "nFiles": 91} }

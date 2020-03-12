@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 78.9556810855865,
+  "n_files"            : 266,
+  "n_lines"            : 23319,
+  "files_per_second"   : 3.3689786009402,
+  "lines_per_second"   : 295.342902238062,
+  "report_file"        : "loc/theforeman__foreman_remote_execution.json"},
+"Ruby" :{
+  "nFiles": 176,
+  "blank": 1535,
+  "comment": 223,
+  "code": 8470},
+"PO File" :{
+  "nFiles": 11,
+  "blank": 3366,
+  "comment": 62,
+  "code": 6923},
+"ERB" :{
+  "nFiles": 49,
+  "blank": 88,
+  "comment": 197,
+  "code": 846},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 65,
+  "comment": 7,
+  "code": 525},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 63,
+  "code": 211},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 85,
+  "comment": 134,
+  "code": 188},
+"Sass" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 0,
+  "code": 83},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 56},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 27,
+  "comment": 0,
+  "code": 53},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 11,
+  "code": 40},
+"SUM": {
+  "blank": 5227,
+  "comment": 697,
+  "code": 17395,
+  "nFiles": 266} }

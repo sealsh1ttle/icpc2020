@@ -1,0 +1,84 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.22613978385925,
+  "n_files"            : 277,
+  "n_lines"            : 40248,
+  "files_per_second"   : 85.8611277124019,
+  "lines_per_second"   : 12475.590859815,
+  "report_file"        : "loc/Instabug__instabug-cordova.json"},
+"JavaScript" :{
+  "nFiles": 68,
+  "blank": 2028,
+  "comment": 4024,
+  "code": 10441},
+"Java" :{
+  "nFiles": 48,
+  "blank": 1173,
+  "comment": 2816,
+  "code": 5782},
+"Objective C" :{
+  "nFiles": 29,
+  "blank": 1011,
+  "comment": 1396,
+  "code": 3813},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 1,
+  "comment": 0,
+  "code": 1488},
+"C/C++ Header" :{
+  "nFiles": 50,
+  "blank": 654,
+  "comment": 1376,
+  "code": 981},
+"XML" :{
+  "nFiles": 22,
+  "blank": 56,
+  "comment": 144,
+  "code": 606},
+"Gradle" :{
+  "nFiles": 8,
+  "blank": 100,
+  "comment": 142,
+  "code": 602},
+"DOS Batch" :{
+  "nFiles": 20,
+  "blank": 18,
+  "comment": 0,
+  "code": 450},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 100,
+  "comment": 0,
+  "code": 341},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 44,
+  "comment": 105,
+  "code": 185},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 133},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 23,
+  "code": 74},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 50,
+  "code": 44},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 20,
+  "code": 6},
+"SUM": {
+  "blank": 5206,
+  "comment": 10096,
+  "code": 24946,
+  "nFiles": 277} }

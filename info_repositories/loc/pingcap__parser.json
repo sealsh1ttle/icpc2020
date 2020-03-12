@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.3321390151978,
+  "n_files"            : 72,
+  "n_lines"            : 57701,
+  "files_per_second"   : 6.96854735443394,
+  "lines_per_second"   : 5584.61320691934,
+  "report_file"        : "loc/pingcap__parser.json"},
+"Go" :{
+  "nFiles": 62,
+  "blank": 2565,
+  "comment": 3845,
+  "code": 40555},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 561,
+  "comment": 380,
+  "code": 9514},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 58,
+  "comment": 0,
+  "code": 90},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 56},
+"make" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 31},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 1,
+  "code": 30},
+"SUM": {
+  "blank": 3199,
+  "comment": 4226,
+  "code": 50276,
+  "nFiles": 72} }

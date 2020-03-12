@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 94.4845240116119,
+  "n_files"            : 9015,
+  "n_lines"            : 308281,
+  "files_per_second"   : 95.4124508146125,
+  "lines_per_second"   : 3262.76713805652,
+  "report_file"        : "loc/mui-org__material-ui.json"},
+"JavaScript" :{
+  "nFiles": 7019,
+  "blank": 16291,
+  "comment": 9286,
+  "code": 127258},
+"Markdown" :{
+  "nFiles": 1157,
+  "blank": 36134,
+  "comment": 0,
+  "code": 78771},
+"TypeScript" :{
+  "nFiles": 751,
+  "blank": 2936,
+  "comment": 980,
+  "code": 32359},
+"JSON" :{
+  "nFiles": 50,
+  "blank": 0,
+  "comment": 0,
+  "code": 3406},
+"YAML" :{
+  "nFiles": 9,
+  "blank": 25,
+  "comment": 37,
+  "code": 336},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 16,
+  "comment": 66,
+  "code": 185},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 10,
+  "code": 115},
+"SVG" :{
+  "nFiles": 21,
+  "blank": 0,
+  "comment": 0,
+  "code": 42},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 55425,
+  "comment": 10379,
+  "code": 242477,
+  "nFiles": 9015} }

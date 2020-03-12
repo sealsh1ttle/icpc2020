@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.2438220977783,
+  "n_files"            : 85,
+  "n_lines"            : 12262,
+  "files_per_second"   : 2.41177020370212,
+  "lines_per_second"   : 347.919132209357,
+  "report_file"        : "loc/yast__yast-country.json"},
+"Ruby" :{
+  "nFiles": 54,
+  "blank": 1604,
+  "comment": 2221,
+  "code": 7197},
+"make" :{
+  "nFiles": 13,
+  "blank": 58,
+  "comment": 28,
+  "code": 209},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 206},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 79,
+  "comment": 0,
+  "code": 203},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 153},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 47,
+  "code": 128},
+"Expect" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 17,
+  "code": 35},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 3,
+  "code": 34},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 1779,
+  "comment": 2316,
+  "code": 8167,
+  "nFiles": 85} }

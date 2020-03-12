@@ -1,0 +1,104 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 336.478065013885,
+  "n_files"            : 2950,
+  "n_lines"            : 1422341,
+  "files_per_second"   : 8.76728769787196,
+  "lines_per_second"   : 4227.14330558607,
+  "report_file"        : "loc/Azure__aks-engine.json"},
+"Go" :{
+  "nFiles": 2305,
+  "blank": 94686,
+  "comment": 164956,
+  "code": 1070147},
+"JSON" :{
+  "nFiles": 291,
+  "blank": 6,
+  "comment": 0,
+  "code": 50525},
+"YAML" :{
+  "nFiles": 113,
+  "blank": 416,
+  "comment": 847,
+  "code": 13541},
+"Markdown" :{
+  "nFiles": 85,
+  "blank": 2250,
+  "comment": 0,
+  "code": 6613},
+"Assembly" :{
+  "nFiles": 43,
+  "blank": 494,
+  "comment": 702,
+  "code": 4886},
+"Bourne Shell" :{
+  "nFiles": 58,
+  "blank": 665,
+  "comment": 374,
+  "code": 4526},
+"PowerShell" :{
+  "nFiles": 20,
+  "blank": 542,
+  "comment": 414,
+  "code": 2351},
+"PO File" :{
+  "nFiles": 20,
+  "blank": 386,
+  "comment": 508,
+  "code": 1545},
+"make" :{
+  "nFiles": 5,
+  "blank": 60,
+  "comment": 4,
+  "code": 243},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 143},
+"Python" :{
+  "nFiles": 2,
+  "blank": 54,
+  "comment": 82,
+  "code": 115},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 27,
+  "code": 86},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 6,
+  "code": 40},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"PHP" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 2},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 99610,
+  "comment": 167933,
+  "code": 1154798,
+  "nFiles": 2950} }

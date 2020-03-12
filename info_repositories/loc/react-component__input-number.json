@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.8688440322876,
+  "n_files"            : 19,
+  "n_lines"            : 3428,
+  "files_per_second"   : 4.91102764583806,
+  "lines_per_second"   : 886.052777364888,
+  "report_file"        : "loc/react-component__input-number.json"},
+"JavaScript" :{
+  "nFiles": 11,
+  "blank": 234,
+  "comment": 97,
+  "code": 2531},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 61,
+  "comment": 0,
+  "code": 270},
+"LESS" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 0,
+  "code": 108},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 73},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 29},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 318,
+  "comment": 97,
+  "code": 3013,
+  "nFiles": 19} }

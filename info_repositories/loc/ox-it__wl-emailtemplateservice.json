@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.4744260311127,
+  "n_files"            : 39,
+  "n_lines"            : 3301,
+  "files_per_second"   : 3.72335437609245,
+  "lines_per_second"   : 315.148533217466,
+  "report_file"        : "loc/ox-it__wl-emailtemplateservice.json"},
+"Java" :{
+  "nFiles": 18,
+  "blank": 432,
+  "comment": 543,
+  "code": 1265},
+"Maven" :{
+  "nFiles": 7,
+  "blank": 42,
+  "comment": 5,
+  "code": 433},
+"XML" :{
+  "nFiles": 10,
+  "blank": 50,
+  "comment": 42,
+  "code": 289},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 0,
+  "code": 152},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 28},
+"SUM": {
+  "blank": 543,
+  "comment": 591,
+  "code": 2167,
+  "nFiles": 39} }

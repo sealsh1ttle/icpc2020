@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.81516814231873,
+  "n_files"            : 9,
+  "n_lines"            : 234,
+  "files_per_second"   : 4.95821835463862,
+  "lines_per_second"   : 128.913677220604,
+  "report_file"        : "loc/flathub__io.qt.qtwebkit.BaseApp.json"},
+"diff" :{
+  "nFiles": 7,
+  "blank": 18,
+  "comment": 82,
+  "code": 73},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 61},
+"SUM": {
+  "blank": 18,
+  "comment": 82,
+  "code": 134,
+  "nFiles": 9} }

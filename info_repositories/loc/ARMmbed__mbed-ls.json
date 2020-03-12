@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.294296026229858,
+  "n_files"            : 1,
+  "n_lines"            : 9,
+  "files_per_second"   : 3.39793918664384,
+  "lines_per_second"   : 30.5814526797946,
+  "report_file"        : "loc/ARMmbed__mbed-ls.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 4,
+  "comment": 0,
+  "code": 5,
+  "nFiles": 1} }

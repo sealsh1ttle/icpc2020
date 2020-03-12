@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.519741058349609,
+  "n_files"            : 23,
+  "n_lines"            : 1380,
+  "files_per_second"   : 44.2528055663611,
+  "lines_per_second"   : 2655.16833398167,
+  "report_file"        : "loc/Tsudico__Disenchanting.json"},
+"Java" :{
+  "nFiles": 9,
+  "blank": 115,
+  "comment": 19,
+  "code": 743},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 4,
+  "comment": 0,
+  "code": 128},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 16,
+  "code": 74},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 183,
+  "comment": 59,
+  "code": 1138,
+  "nFiles": 23} }

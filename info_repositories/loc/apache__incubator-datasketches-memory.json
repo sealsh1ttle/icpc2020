@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.804817199707031,
+  "n_files"            : 96,
+  "n_lines"            : 21536,
+  "files_per_second"   : 119.281745016068,
+  "lines_per_second"   : 26758.8714652713,
+  "report_file"        : "loc/apache__incubator-datasketches-memory.json"},
+"Java" :{
+  "nFiles": 90,
+  "blank": 2250,
+  "comment": 5227,
+  "code": 12741},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 79,
+  "code": 558},
+"XML" :{
+  "nFiles": 2,
+  "blank": 84,
+  "comment": 114,
+  "code": 287},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 70},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 17,
+  "code": 19},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 16,
+  "code": 12},
+"SUM": {
+  "blank": 2396,
+  "comment": 5453,
+  "code": 13687,
+  "nFiles": 96} }

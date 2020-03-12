@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.6218798160553,
+  "n_files"            : 115,
+  "n_lines"            : 5879,
+  "files_per_second"   : 6.52597800010096,
+  "lines_per_second"   : 333.619344892118,
+  "report_file"        : "loc/avsingh999__Python-for-beginner.json"},
+"Markdown" :{
+  "nFiles": 75,
+  "blank": 1067,
+  "comment": 0,
+  "code": 3265},
+"Python" :{
+  "nFiles": 39,
+  "blank": 360,
+  "comment": 253,
+  "code": 918},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 1427,
+  "comment": 253,
+  "code": 4199,
+  "nFiles": 115} }

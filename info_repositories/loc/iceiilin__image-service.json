@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.3607270717621,
+  "n_files"            : 58,
+  "n_lines"            : 7082,
+  "files_per_second"   : 3.15891629853816,
+  "lines_per_second"   : 385.714572866331,
+  "report_file"        : "loc/iceiilin__image-service.json"},
+"JavaScript" :{
+  "nFiles": 41,
+  "blank": 874,
+  "comment": 577,
+  "code": 3932},
+"Vuejs Component" :{
+  "nFiles": 6,
+  "blank": 93,
+  "comment": 19,
+  "code": 789},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 86,
+  "comment": 0,
+  "code": 299},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 44,
+  "comment": 23,
+  "code": 166},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 145},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 10},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 9},
+"SUM": {
+  "blank": 1108,
+  "comment": 624,
+  "code": 5350,
+  "nFiles": 58} }

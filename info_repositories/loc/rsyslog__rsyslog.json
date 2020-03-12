@@ -1,0 +1,114 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 330.713376045227,
+  "n_files"            : 1424,
+  "n_lines"            : 212032,
+  "files_per_second"   : 4.30584337721272,
+  "lines_per_second"   : 641.135240840707,
+  "report_file"        : "loc/rsyslog__rsyslog.json"},
+"C" :{
+  "nFiles": 202,
+  "blank": 16682,
+  "comment": 20654,
+  "code": 99856},
+"Bourne Shell" :{
+  "nFiles": 967,
+  "blank": 4672,
+  "comment": 4469,
+  "code": 31742},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 1603,
+  "comment": 1243,
+  "code": 6437},
+"C/C++ Header" :{
+  "nFiles": 103,
+  "blank": 1157,
+  "comment": 4310,
+  "code": 6021},
+"make" :{
+  "nFiles": 84,
+  "blank": 430,
+  "comment": 122,
+  "code": 3679},
+"m4" :{
+  "nFiles": 5,
+  "blank": 317,
+  "comment": 1,
+  "code": 2557},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 326,
+  "comment": 0,
+  "code": 1183},
+"Python" :{
+  "nFiles": 20,
+  "blank": 331,
+  "comment": 786,
+  "code": 1123},
+"lex" :{
+  "nFiles": 1,
+  "blank": 53,
+  "comment": 87,
+  "code": 436},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 324},
+"Perl" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 72,
+  "code": 210},
+"yacc" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 44,
+  "code": 188},
+"reStructuredText" :{
+  "nFiles": 3,
+  "blank": 70,
+  "comment": 0,
+  "code": 175},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 30,
+  "comment": 120,
+  "code": 164},
+"SQL" :{
+  "nFiles": 7,
+  "blank": 3,
+  "comment": 0,
+  "code": 107},
+"Java" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 37,
+  "code": 65},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 46},
+"Expect" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"Tcl/Tk" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 25732,
+  "comment": 31946,
+  "code": 154354,
+  "nFiles": 1424} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 126.345121860504,
+  "n_files"            : 427,
+  "n_lines"            : 83123,
+  "files_per_second"   : 3.37963186636873,
+  "lines_per_second"   : 657.904308262688,
+  "report_file"        : "loc/OpenUpSA__umibukela.json"},
+"JavaScript" :{
+  "nFiles": 113,
+  "blank": 7021,
+  "comment": 4406,
+  "code": 26428},
+"HTML" :{
+  "nFiles": 67,
+  "blank": 451,
+  "comment": 95,
+  "code": 9242},
+"Sass" :{
+  "nFiles": 92,
+  "blank": 1700,
+  "comment": 1641,
+  "code": 9075},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 2156,
+  "comment": 39,
+  "code": 6593},
+"Python" :{
+  "nFiles": 95,
+  "blank": 1080,
+  "comment": 604,
+  "code": 5882},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 3,
+  "comment": 6,
+  "code": 2518},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 596,
+  "comment": 0,
+  "code": 1697},
+"LESS" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 33,
+  "code": 1343},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 467},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 13039,
+  "comment": 6827,
+  "code": 63257,
+  "nFiles": 427} }

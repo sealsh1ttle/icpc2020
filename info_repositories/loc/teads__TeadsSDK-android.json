@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.0533609390259,
+  "n_files"            : 91,
+  "n_lines"            : 4974,
+  "files_per_second"   : 3.36372254098483,
+  "lines_per_second"   : 183.858856251193,
+  "report_file"        : "loc/teads__TeadsSDK-android.json"},
+"Kotlin" :{
+  "nFiles": 30,
+  "blank": 463,
+  "comment": 386,
+  "code": 1650},
+"XML" :{
+  "nFiles": 49,
+  "blank": 163,
+  "comment": 23,
+  "code": 1380},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 34,
+  "comment": 37,
+  "code": 216},
+"Gradle" :{
+  "nFiles": 4,
+  "blank": 19,
+  "comment": 12,
+  "code": 140},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 79},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Java" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 6,
+  "code": 21},
+"ProGuard" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 33,
+  "code": 15},
+"SUM": {
+  "blank": 766,
+  "comment": 520,
+  "code": 3688,
+  "nFiles": 91} }

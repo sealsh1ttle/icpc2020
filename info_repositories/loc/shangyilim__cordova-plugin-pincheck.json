@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.10055804252625,
+  "n_files"            : 6,
+  "n_lines"            : 197,
+  "files_per_second"   : 5.45177970461918,
+  "lines_per_second"   : 179.000100301663,
+  "report_file"        : "loc/shangyilim__cordova-plugin-pincheck.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 0,
+  "code": 45},
+"Java" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 3,
+  "code": 37},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 3,
+  "code": 25},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 45,
+  "comment": 6,
+  "code": 146,
+  "nFiles": 6} }

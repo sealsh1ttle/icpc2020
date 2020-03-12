@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 477.946012973785,
+  "n_files"            : 1163,
+  "n_lines"            : 278821,
+  "files_per_second"   : 2.43332922219353,
+  "lines_per_second"   : 583.373419657113,
+  "report_file"        : "loc/microsoft__sarif-sdk.json"},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 699,
+  "comment": 0,
+  "code": 77860},
+"C#" :{
+  "nFiles": 708,
+  "blank": 14877,
+  "comment": 14602,
+  "code": 72811},
+"XML" :{
+  "nFiles": 309,
+  "blank": 2189,
+  "comment": 438,
+  "code": 68403},
+"C" :{
+  "nFiles": 2,
+  "blank": 2683,
+  "comment": 1299,
+  "code": 15866},
+"MSBuild script" :{
+  "nFiles": 17,
+  "blank": 111,
+  "comment": 12,
+  "code": 1662},
+"PowerShell" :{
+  "nFiles": 15,
+  "blank": 262,
+  "comment": 247,
+  "code": 1001},
+"C++" :{
+  "nFiles": 50,
+  "blank": 290,
+  "comment": 117,
+  "code": 968},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 162,
+  "comment": 0,
+  "code": 636},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 100,
+  "comment": 37,
+  "code": 479},
+"XSD" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 19,
+  "code": 375},
+"DOS Batch" :{
+  "nFiles": 10,
+  "blank": 54,
+  "comment": 0,
+  "code": 179},
+"Java" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 84},
+"C/C++ Header" :{
+  "nFiles": 8,
+  "blank": 26,
+  "comment": 7,
+  "code": 75},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 6,
+  "code": 72},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 21},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 12,
+  "code": 18},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 5,
+  "code": 16},
+"SUM": {
+  "blank": 21493,
+  "comment": 16802,
+  "code": 240526,
+  "nFiles": 1163} }

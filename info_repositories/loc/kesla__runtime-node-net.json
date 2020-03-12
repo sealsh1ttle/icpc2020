@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.11100602149963,
+  "n_files"            : 10,
+  "n_lines"            : 817,
+  "files_per_second"   : 1.4062707821883,
+  "lines_per_second"   : 114.892322904784,
+  "report_file"        : "loc/kesla__runtime-node-net.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 119,
+  "comment": 19,
+  "code": 635},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 41},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 120,
+  "comment": 19,
+  "code": 678,
+  "nFiles": 10} }

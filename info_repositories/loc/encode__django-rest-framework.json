@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 83.9855580329895,
+  "n_files"            : 371,
+  "n_lines"            : 97249,
+  "files_per_second"   : 4.41742614669859,
+  "lines_per_second"   : 1157.92527045901,
+  "report_file"        : "loc/encode__django-rest-framework.json"},
+"Python" :{
+  "nFiles": 141,
+  "blank": 7115,
+  "comment": 5402,
+  "code": 25987},
+"Markdown" :{
+  "nFiles": 77,
+  "blank": 6388,
+  "comment": 0,
+  "code": 14147},
+"PO File" :{
+  "nFiles": 52,
+  "blank": 5252,
+  "comment": 5966,
+  "code": 11698},
+"CSS" :{
+  "nFiles": 12,
+  "blank": 1157,
+  "comment": 95,
+  "code": 8204},
+"HTML" :{
+  "nFiles": 68,
+  "blank": 256,
+  "comment": 22,
+  "code": 1978},
+"JavaScript" :{
+  "nFiles": 14,
+  "blank": 428,
+  "comment": 600,
+  "code": 1648},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 702},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 16,
+  "comment": 0,
+  "code": 129},
+"INI" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 1,
+  "code": 52},
+"SUM": {
+  "blank": 20618,
+  "comment": 12086,
+  "code": 64545,
+  "nFiles": 371} }

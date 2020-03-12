@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.19797086715698,
+  "n_files"            : 209,
+  "n_lines"            : 20461,
+  "files_per_second"   : 174.461671589725,
+  "lines_per_second"   : 17079.7141741501,
+  "report_file"        : "loc/kefirjs__kefir.json"},
+"JavaScript" :{
+  "nFiles": 181,
+  "blank": 1783,
+  "comment": 346,
+  "code": 10635},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3408},
+"Pug" :{
+  "nFiles": 17,
+  "blank": 706,
+  "comment": 18,
+  "code": 2464},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 228,
+  "comment": 0,
+  "code": 571},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 2,
+  "code": 248},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 25},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 2729,
+  "comment": 368,
+  "code": 17364,
+  "nFiles": 209} }

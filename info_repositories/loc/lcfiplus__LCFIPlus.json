@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.7133440971375,
+  "n_files"            : 73,
+  "n_lines"            : 22936,
+  "files_per_second"   : 6.23220827413753,
+  "lines_per_second"   : 1958.10861610436,
+  "report_file"        : "loc/lcfiplus__LCFIPlus.json"},
+"C++" :{
+  "nFiles": 29,
+  "blank": 2934,
+  "comment": 2587,
+  "code": 12130},
+"C/C++ Header" :{
+  "nFiles": 34,
+  "blank": 863,
+  "comment": 412,
+  "code": 3523},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 44,
+  "comment": 0,
+  "code": 114},
+"CMake" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 34,
+  "code": 100},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 3,
+  "code": 49},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 7,
+  "code": 42},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 3924,
+  "comment": 3043,
+  "code": 15969,
+  "nFiles": 73} }

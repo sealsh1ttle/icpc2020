@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 75.4331521987915,
+  "n_files"            : 436,
+  "n_lines"            : 55554,
+  "files_per_second"   : 5.77995201434768,
+  "lines_per_second"   : 736.466638085025,
+  "report_file"        : "loc/CruxFramework__crux-widgets.json"},
+"Java" :{
+  "nFiles": 396,
+  "blank": 5796,
+  "comment": 13297,
+  "code": 31207},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 469,
+  "comment": 197,
+  "code": 3449},
+"XML" :{
+  "nFiles": 21,
+  "blank": 76,
+  "comment": 76,
+  "code": 737},
+"SVG" :{
+  "nFiles": 15,
+  "blank": 1,
+  "comment": 15,
+  "code": 186},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 42},
+"SUM": {
+  "blank": 6347,
+  "comment": 13586,
+  "code": 35621,
+  "nFiles": 436} }

@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.6512820720673,
+  "n_files"            : 65,
+  "n_lines"            : 3795,
+  "files_per_second"   : 3.90360332127448,
+  "lines_per_second"   : 227.910378526718,
+  "report_file"        : "loc/AOSiP__platform_packages_apps_Changelog.json"},
+"XML" :{
+  "nFiles": 46,
+  "blank": 88,
+  "comment": 192,
+  "code": 1669},
+"Java" :{
+  "nFiles": 12,
+  "blank": 210,
+  "comment": 1,
+  "code": 1299},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 1,
+  "code": 33},
+"make" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 18},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 358,
+  "comment": 217,
+  "code": 3220,
+  "nFiles": 65} }

@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.80491805076599,
+  "n_files"            : 31,
+  "n_lines"            : 6727,
+  "files_per_second"   : 5.34029933392589,
+  "lines_per_second"   : 1158.84495546192,
+  "report_file"        : "loc/spreadsheetsonline__spreadsheetsonline.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 6227},
+"JavaScript" :{
+  "nFiles": 21,
+  "blank": 62,
+  "comment": 28,
+  "code": 341},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 7,
+  "comment": 8,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 73,
+  "comment": 36,
+  "code": 6618,
+  "nFiles": 31} }

@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.866402149200439,
+  "n_files"            : 4,
+  "n_lines"            : 601,
+  "files_per_second"   : 4.61679371835747,
+  "lines_per_second"   : 693.67325618321,
+  "report_file"        : "loc/xabikos__vscode-react.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 415},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 0,
+  "code": 153},
+"SUM": {
+  "blank": 33,
+  "comment": 0,
+  "code": 568,
+  "nFiles": 4} }

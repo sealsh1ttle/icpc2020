@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.624972105026245,
+  "n_files"            : 3,
+  "n_lines"            : 238,
+  "files_per_second"   : 4.80021424296052,
+  "lines_per_second"   : 380.816996608201,
+  "report_file"        : "loc/learn-co-curriculum__conditional-readme.json"},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 65,
+  "comment": 0,
+  "code": 173},
+"SUM": {
+  "blank": 65,
+  "comment": 0,
+  "code": 173,
+  "nFiles": 3} }

@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.36543989181519,
+  "n_files"            : 836,
+  "n_lines"            : 111429,
+  "files_per_second"   : 113.503064620621,
+  "lines_per_second"   : 15128.6279756115,
+  "report_file"        : "loc/ppy__osu-framework.json"},
+"C#" :{
+  "nFiles": 779,
+  "blank": 19132,
+  "comment": 19669,
+  "code": 70572},
+"SVG" :{
+  "nFiles": 14,
+  "blank": 0,
+  "comment": 0,
+  "code": 450},
+"MSBuild script" :{
+  "nFiles": 11,
+  "blank": 1,
+  "comment": 0,
+  "code": 411},
+"XML" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 2,
+  "code": 378},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 314},
+"F#" :{
+  "nFiles": 6,
+  "blank": 64,
+  "comment": 18,
+  "code": 213},
+"C/C++ Header" :{
+  "nFiles": 3,
+  "blank": 13,
+  "comment": 8,
+  "code": 47},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 39},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 33},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 14},
+"SUM": {
+  "blank": 19235,
+  "comment": 19699,
+  "code": 72495,
+  "nFiles": 836} }

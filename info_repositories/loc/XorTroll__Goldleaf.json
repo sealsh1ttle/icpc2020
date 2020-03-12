@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 60.8310601711273,
+  "n_files"            : 158,
+  "n_lines"            : 64754,
+  "files_per_second"   : 2.5973573295537,
+  "lines_per_second"   : 1064.48909188557,
+  "report_file"        : "loc/XorTroll__Goldleaf.json"},
+"C" :{
+  "nFiles": 4,
+  "blank": 1091,
+  "comment": 521,
+  "code": 21095},
+"C/C++ Header" :{
+  "nFiles": 60,
+  "blank": 4289,
+  "comment": 7536,
+  "code": 14842},
+"C++" :{
+  "nFiles": 51,
+  "blank": 1128,
+  "comment": 845,
+  "code": 8575},
+"JSON" :{
+  "nFiles": 12,
+  "blank": 0,
+  "comment": 0,
+  "code": 2370},
+"Java" :{
+  "nFiles": 9,
+  "blank": 183,
+  "comment": 126,
+  "code": 1083},
+"make" :{
+  "nFiles": 3,
+  "blank": 83,
+  "comment": 73,
+  "code": 217},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 138,
+  "comment": 0,
+  "code": 175},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 3,
+  "code": 157},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 72},
+"Assembly" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 4,
+  "code": 32},
+"FXML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 24},
+"INI" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 0,
+  "code": 17},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 6949,
+  "comment": 9109,
+  "code": 48696,
+  "nFiles": 158} }

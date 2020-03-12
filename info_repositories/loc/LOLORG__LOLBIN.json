@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.089818000793457,
+  "n_files"            : 3,
+  "n_lines"            : 197,
+  "files_per_second"   : 33.4008770346461,
+  "lines_per_second"   : 2193.32425860842,
+  "report_file"        : "loc/LOLORG__LOLBIN.json"},
+"PHP" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 0,
+  "code": 84},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 39,
+  "comment": 0,
+  "code": 62},
+"SUM": {
+  "blank": 51,
+  "comment": 0,
+  "code": 146,
+  "nFiles": 3} }

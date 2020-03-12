@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.02679204940796,
+  "n_files"            : 402,
+  "n_lines"            : 132725,
+  "files_per_second"   : 66.7021521075197,
+  "lines_per_second"   : 22022.4953693297,
+  "report_file"        : "loc/syuilo__Misskey.old.json"},
+"JavaScript" :{
+  "nFiles": 195,
+  "blank": 36697,
+  "comment": 6979,
+  "code": 59752},
+"LESS" :{
+  "nFiles": 57,
+  "blank": 3036,
+  "comment": 309,
+  "code": 17915},
+"Pug" :{
+  "nFiles": 105,
+  "blank": 266,
+  "comment": 42,
+  "code": 4624},
+"SVG" :{
+  "nFiles": 31,
+  "blank": 113,
+  "comment": 27,
+  "code": 2243},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 378},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 30,
+  "comment": 0,
+  "code": 177},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 128},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 1},
+"SUM": {
+  "blank": 40142,
+  "comment": 7365,
+  "code": 85218,
+  "nFiles": 402} }

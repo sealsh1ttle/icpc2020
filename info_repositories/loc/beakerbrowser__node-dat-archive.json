@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.5332248210907,
+  "n_files"            : 13,
+  "n_lines"            : 7811,
+  "files_per_second"   : 5.13179876170752,
+  "lines_per_second"   : 3083.42154828442,
+  "report_file"        : "loc/beakerbrowser__node-dat-archive.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 5906},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 282,
+  "comment": 206,
+  "code": 1314},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 84},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 299,
+  "comment": 206,
+  "code": 7306,
+  "nFiles": 13} }

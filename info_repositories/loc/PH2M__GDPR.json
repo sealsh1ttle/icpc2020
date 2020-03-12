@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.4400601387024,
+  "n_files"            : 66,
+  "n_lines"            : 9508,
+  "files_per_second"   : 2.70048435337051,
+  "lines_per_second"   : 389.033412603739,
+  "report_file"        : "loc/PH2M__GDPR.json"},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 492,
+  "comment": 194,
+  "code": 4395},
+"PHP" :{
+  "nFiles": 32,
+  "blank": 241,
+  "comment": 850,
+  "code": 1325},
+"XML" :{
+  "nFiles": 5,
+  "blank": 6,
+  "comment": 76,
+  "code": 896},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 106,
+  "comment": 33,
+  "code": 619},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 30,
+  "comment": 0,
+  "code": 117},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 55},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 6,
+  "code": 24},
+"make" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 895,
+  "comment": 1159,
+  "code": 7454,
+  "nFiles": 66} }

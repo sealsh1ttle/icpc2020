@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3371.48991322517,
+  "n_files"            : 9261,
+  "n_lines"            : 3866252,
+  "files_per_second"   : 2.74685680169837,
+  "lines_per_second"   : 1146.74879638051,
+  "report_file"        : "loc/logicmonitor__k8s-argus.json"},
+"Go" :{
+  "nFiles": 7448,
+  "blank": 257194,
+  "comment": 324869,
+  "code": 2788870},
+"JSON" :{
+  "nFiles": 405,
+  "blank": 146,
+  "comment": 0,
+  "code": 313310},
+"YAML" :{
+  "nFiles": 374,
+  "blank": 1124,
+  "comment": 426,
+  "code": 53231},
+"Markdown" :{
+  "nFiles": 305,
+  "blank": 9521,
+  "comment": 0,
+  "code": 27484},
+"Swift" :{
+  "nFiles": 24,
+  "blank": 2874,
+  "comment": 2493,
+  "code": 18049},
+"Protocol Buffers" :{
+  "nFiles": 273,
+  "blank": 5265,
+  "comment": 15708,
+  "code": 15360},
+"XML" :{
+  "nFiles": 14,
+  "blank": 297,
+  "comment": 20,
+  "code": 6081},
+"HTML" :{
+  "nFiles": 32,
+  "blank": 2298,
+  "comment": 29,
+  "code": 5475},
+"Bourne Shell" :{
+  "nFiles": 98,
+  "blank": 701,
+  "comment": 826,
+  "code": 3321},
+"Assembly" :{
+  "nFiles": 48,
+  "blank": 345,
+  "comment": 405,
+  "code": 1766},
+"make" :{
+  "nFiles": 107,
+  "blank": 366,
+  "comment": 1797,
+  "code": 1601},
+"Bourne Again Shell" :{
+  "nFiles": 14,
+  "blank": 212,
+  "comment": 169,
+  "code": 1002},
+"Dockerfile" :{
+  "nFiles": 12,
+  "blank": 64,
+  "comment": 49,
+  "code": 449},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 43,
+  "comment": 20,
+  "code": 395},
+"Java" :{
+  "nFiles": 1,
+  "blank": 77,
+  "comment": 14,
+  "code": 384},
+"TOML" :{
+  "nFiles": 12,
+  "blank": 173,
+  "comment": 153,
+  "code": 370},
+"SVG" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 7,
+  "code": 323},
+"HCL" :{
+  "nFiles": 63,
+  "blank": 44,
+  "comment": 28,
+  "code": 316},
+"C" :{
+  "nFiles": 6,
+  "blank": 55,
+  "comment": 48,
+  "code": 298},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 21,
+  "comment": 12,
+  "code": 85},
+"PowerShell" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 8,
+  "code": 69},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 8,
+  "code": 55},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 6,
+  "code": 18},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 280844,
+  "comment": 347095,
+  "code": 3238313,
+  "nFiles": 9261} }

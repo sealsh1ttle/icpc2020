@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.723313093185425,
+  "n_files"            : 120,
+  "n_lines"            : 8926,
+  "files_per_second"   : 165.903259778594,
+  "lines_per_second"   : 12340.4374731978,
+  "report_file"        : "loc/puppetlabs__puppetlabs-puppet_agent.json"},
+"Ruby" :{
+  "nFiles": 36,
+  "blank": 500,
+  "comment": 255,
+  "code": 3008},
+"Puppet" :{
+  "nFiles": 21,
+  "blank": 115,
+  "comment": 301,
+  "code": 981},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 318,
+  "comment": 0,
+  "code": 836},
+"YAML" :{
+  "nFiles": 31,
+  "blank": 24,
+  "comment": 63,
+  "code": 597},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 79,
+  "comment": 73,
+  "code": 516},
+"PowerShell" :{
+  "nFiles": 4,
+  "blank": 23,
+  "comment": 118,
+  "code": 326},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 263},
+"ERB" :{
+  "nFiles": 6,
+  "blank": 42,
+  "comment": 0,
+  "code": 247},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 97,
+  "code": 90},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 1132,
+  "comment": 907,
+  "code": 6887,
+  "nFiles": 120} }

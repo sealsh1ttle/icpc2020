@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.87735390663147,
+  "n_files"            : 621,
+  "n_lines"            : 206315,
+  "files_per_second"   : 105.659793482798,
+  "lines_per_second"   : 35103.3821133713,
+  "report_file"        : "loc/mpv-player__mpv.json"},
+"C" :{
+  "nFiles": 305,
+  "blank": 20489,
+  "comment": 12249,
+  "code": 113731},
+"reStructuredText" :{
+  "nFiles": 22,
+  "blank": 3603,
+  "comment": 144,
+  "code": 12204},
+"C/C++ Header" :{
+  "nFiles": 197,
+  "blank": 3012,
+  "comment": 7801,
+  "code": 10324},
+"Objective C" :{
+  "nFiles": 14,
+  "blank": 945,
+  "comment": 394,
+  "code": 5232},
+"Lua" :{
+  "nFiles": 19,
+  "blank": 962,
+  "comment": 629,
+  "code": 4703},
+"Python" :{
+  "nFiles": 23,
+  "blank": 459,
+  "comment": 204,
+  "code": 2667},
+"Swift" :{
+  "nFiles": 10,
+  "blank": 358,
+  "comment": 192,
+  "code": 1962},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 942},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 204,
+  "comment": 0,
+  "code": 589},
+"Bourne Shell" :{
+  "nFiles": 11,
+  "blank": 79,
+  "comment": 49,
+  "code": 491},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 93,
+  "comment": 82,
+  "code": 464},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 3,
+  "code": 346},
+"zsh" :{
+  "nFiles": 1,
+  "blank": 51,
+  "comment": 54,
+  "code": 146},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 1,
+  "code": 114},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 8,
+  "code": 104},
+"Windows Module Definition" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 60},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 49},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 17,
+  "code": 29},
+"HLSL" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 6,
+  "code": 22},
+"SUM": {
+  "blank": 30303,
+  "comment": 21833,
+  "code": 154179,
+  "nFiles": 621} }

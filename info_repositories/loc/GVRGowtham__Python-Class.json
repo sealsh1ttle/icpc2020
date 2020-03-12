@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.1965119838715,
+  "n_files"            : 51,
+  "n_lines"            : 29695,
+  "files_per_second"   : 3.14882612075896,
+  "lines_per_second"   : 1833.41944423407,
+  "report_file"        : "loc/GVRGowtham__Python-Class.json"},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 592,
+  "comment": 47,
+  "code": 11839},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 2404,
+  "comment": 2025,
+  "code": 8639},
+"Sass" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 24,
+  "code": 1352},
+"LESS" :{
+  "nFiles": 13,
+  "blank": 26,
+  "comment": 33,
+  "code": 1343},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 853},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 22,
+  "code": 402},
+"Python" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 6,
+  "code": 12},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 3095,
+  "comment": 2157,
+  "code": 24443,
+  "nFiles": 51} }

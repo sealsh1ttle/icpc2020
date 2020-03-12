@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 17.6666269302368,
+  "n_files"            : 94,
+  "n_lines"            : 6915,
+  "files_per_second"   : 5.32076668461918,
+  "lines_per_second"   : 391.415974724911,
+  "report_file"        : "loc/rocjs__roc-repo.json"},
+"JavaScript" :{
+  "nFiles": 53,
+  "blank": 451,
+  "comment": 208,
+  "code": 4190},
+"Markdown" :{
+  "nFiles": 28,
+  "blank": 557,
+  "comment": 0,
+  "code": 1138},
+"Handlebars" :{
+  "nFiles": 8,
+  "blank": 19,
+  "comment": 0,
+  "code": 183},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 161},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 1027,
+  "comment": 208,
+  "code": 5680,
+  "nFiles": 94} }

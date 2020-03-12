@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.15302300453186,
+  "n_files"            : 9,
+  "n_lines"            : 3051,
+  "files_per_second"   : 58.8146862462509,
+  "lines_per_second"   : 19938.1786374791,
+  "report_file"        : "loc/FAC-11__jaam-todo-list.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2380},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 41,
+  "code": 253},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 0,
+  "code": 133},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 3,
+  "code": 113},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 25},
+"SUM": {
+  "blank": 103,
+  "comment": 44,
+  "code": 2904,
+  "nFiles": 9} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.209843158721924,
+  "n_files"            : 29,
+  "n_lines"            : 965,
+  "files_per_second"   : 138.198453438407,
+  "lines_per_second"   : 4598.67267476078,
+  "report_file"        : "loc/mike820324__chessClock.json"},
+"JavaScript" :{
+  "nFiles": 27,
+  "blank": 129,
+  "comment": 41,
+  "code": 741},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 44},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 130,
+  "comment": 41,
+  "code": 794,
+  "nFiles": 29} }

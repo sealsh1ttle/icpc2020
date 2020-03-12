@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.4646339416504,
+  "n_files"            : 45,
+  "n_lines"            : 3016,
+  "files_per_second"   : 2.90986519110569,
+  "lines_per_second"   : 195.025631474994,
+  "report_file"        : "loc/kylef__swiftenv.json"},
+"Bourne Again Shell" :{
+  "nFiles": 22,
+  "blank": 245,
+  "comment": 53,
+  "code": 1107},
+"Markdown" :{
+  "nFiles": 11,
+  "blank": 277,
+  "comment": 0,
+  "code": 618},
+"make" :{
+  "nFiles": 2,
+  "blank": 31,
+  "comment": 6,
+  "code": 189},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 0,
+  "code": 64},
+"Python" :{
+  "nFiles": 2,
+  "blank": 74,
+  "comment": 153,
+  "code": 62},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 27},
+"Fish Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 20},
+"zsh" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 14},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 16,
+  "code": 12},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 9},
+"SUM": {
+  "blank": 664,
+  "comment": 230,
+  "code": 2122,
+  "nFiles": 45} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.247038841247559,
+  "n_files"            : 41,
+  "n_lines"            : 4221,
+  "files_per_second"   : 165.965804376947,
+  "lines_per_second"   : 17086.3819579291,
+  "report_file"        : "loc/jendrikseipp__vulture.json"},
+"Python" :{
+  "nFiles": 31,
+  "blank": 657,
+  "comment": 1004,
+  "code": 1709},
+"reStructuredText" :{
+  "nFiles": 4,
+  "blank": 195,
+  "comment": 24,
+  "code": 415},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 72},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 46},
+"INI" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 30},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 4,
+  "code": 23},
+"SUM": {
+  "blank": 894,
+  "comment": 1032,
+  "code": 2295,
+  "nFiles": 41} }

@@ -1,0 +1,149 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2101.08906888962,
+  "n_files"            : 7187,
+  "n_lines"            : 2110172,
+  "files_per_second"   : 3.42060701110505,
+  "lines_per_second"   : 1004.32296338355,
+  "report_file"        : "loc/hashicorp__packer.json"},
+"Go" :{
+  "nFiles": 6211,
+  "blank": 220682,
+  "comment": 308371,
+  "code": 1453561},
+"JSON" :{
+  "nFiles": 170,
+  "blank": 145,
+  "comment": 0,
+  "code": 52458},
+"Markdown" :{
+  "nFiles": 452,
+  "blank": 10370,
+  "comment": 0,
+  "code": 32846},
+"ERB" :{
+  "nFiles": 56,
+  "blank": 2158,
+  "comment": 0,
+  "code": 8969},
+"Assembly" :{
+  "nFiles": 58,
+  "blank": 939,
+  "comment": 1485,
+  "code": 6851},
+"Bourne Shell" :{
+  "nFiles": 38,
+  "blank": 298,
+  "comment": 479,
+  "code": 1727},
+"YAML" :{
+  "nFiles": 103,
+  "blank": 272,
+  "comment": 50,
+  "code": 1677},
+"Protocol Buffers" :{
+  "nFiles": 17,
+  "blank": 431,
+  "comment": 1164,
+  "code": 1170},
+"make" :{
+  "nFiles": 21,
+  "blank": 205,
+  "comment": 29,
+  "code": 626},
+"Sass" :{
+  "nFiles": 12,
+  "blank": 113,
+  "comment": 23,
+  "code": 617},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 3,
+  "comment": 0,
+  "code": 403},
+"Python" :{
+  "nFiles": 6,
+  "blank": 47,
+  "comment": 599,
+  "code": 177},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 138},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 20,
+  "code": 104},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 24,
+  "code": 76},
+"PowerShell" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 41,
+  "code": 69},
+"Dockerfile" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 11,
+  "code": 69},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 42,
+  "comment": 6,
+  "code": 67},
+"HCL" :{
+  "nFiles": 2,
+  "blank": 15,
+  "comment": 13,
+  "code": 58},
+"TOML" :{
+  "nFiles": 6,
+  "blank": 24,
+  "comment": 113,
+  "code": 57},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 46},
+"C" :{
+  "nFiles": 2,
+  "blank": 12,
+  "comment": 30,
+  "code": 40},
+"builder" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 31},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 6,
+  "code": 15},
+"INI" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 1},
+"SUM": {
+  "blank": 235839,
+  "comment": 312469,
+  "code": 1561864,
+  "nFiles": 7187} }

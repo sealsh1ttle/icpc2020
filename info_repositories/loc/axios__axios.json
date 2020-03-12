@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.1684169769287,
+  "n_files"            : 115,
+  "n_lines"            : 10515,
+  "files_per_second"   : 7.11263200127122,
+  "lines_per_second"   : 650.341960811886,
+  "report_file"        : "loc/axios__axios.json"},
+"JavaScript" :{
+  "nFiles": 82,
+  "blank": 1150,
+  "comment": 1099,
+  "code": 5409},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 441,
+  "comment": 0,
+  "code": 1328},
+"HTML" :{
+  "nFiles": 9,
+  "blank": 45,
+  "comment": 0,
+  "code": 415},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 93,
+  "comment": 11,
+  "code": 384},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 126},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 1729,
+  "comment": 1110,
+  "code": 7676,
+  "nFiles": 115} }

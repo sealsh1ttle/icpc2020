@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 27.4294509887695,
+  "n_files"            : 136,
+  "n_lines"            : 75683,
+  "files_per_second"   : 4.95817433807489,
+  "lines_per_second"   : 2759.18756197443,
+  "report_file"        : "loc/pingcap__tidb-tools.json"},
+"Java" :{
+  "nFiles": 4,
+  "blank": 1897,
+  "comment": 15731,
+  "code": 36326},
+"Go" :{
+  "nFiles": 91,
+  "blank": 2557,
+  "comment": 2089,
+  "code": 14218},
+"Markdown" :{
+  "nFiles": 17,
+  "blank": 202,
+  "comment": 0,
+  "code": 543},
+"Protocol Buffers" :{
+  "nFiles": 4,
+  "blank": 185,
+  "comment": 586,
+  "code": 444},
+"Bourne Shell" :{
+  "nFiles": 10,
+  "blank": 68,
+  "comment": 18,
+  "code": 226},
+"TOML" :{
+  "nFiles": 6,
+  "blank": 106,
+  "comment": 139,
+  "code": 175},
+"make" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 4,
+  "code": 58},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 4,
+  "code": 52},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 13},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 5048,
+  "comment": 18574,
+  "code": 52061,
+  "nFiles": 136} }

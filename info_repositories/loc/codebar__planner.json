@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 168.939206838608,
+  "n_files"            : 644,
+  "n_lines"            : 25881,
+  "files_per_second"   : 3.81202215904346,
+  "lines_per_second"   : 153.197120338826,
+  "report_file"        : "loc/codebar__planner.json"},
+"Ruby" :{
+  "nFiles": 426,
+  "blank": 2447,
+  "comment": 380,
+  "code": 9979},
+"Haml" :{
+  "nFiles": 156,
+  "blank": 495,
+  "comment": 4,
+  "code": 4802},
+"YAML" :{
+  "nFiles": 15,
+  "blank": 17,
+  "comment": 1,
+  "code": 4347},
+"Sass" :{
+  "nFiles": 20,
+  "blank": 445,
+  "comment": 893,
+  "code": 880},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 127,
+  "comment": 0,
+  "code": 294},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 12,
+  "comment": 3,
+  "code": 158},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 58,
+  "code": 149},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 15,
+  "comment": 38,
+  "code": 90},
+"ERB" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 56},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 24,
+  "comment": 8,
+  "code": 49},
+"make" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 3,
+  "code": 13},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 3,
+  "code": 8},
+"SUM": {
+  "blank": 3641,
+  "comment": 1391,
+  "code": 20849,
+  "nFiles": 644} }

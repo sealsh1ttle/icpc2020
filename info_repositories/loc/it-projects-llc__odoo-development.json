@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 46.3229269981384,
+  "n_files"            : 174,
+  "n_lines"            : 7525,
+  "files_per_second"   : 3.75623932414704,
+  "lines_per_second"   : 162.446556978198,
+  "report_file"        : "loc/it-projects-llc__odoo-development.json"},
+"reStructuredText" :{
+  "nFiles": 166,
+  "blank": 2088,
+  "comment": 1614,
+  "code": 3106},
+"make" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 6,
+  "code": 181},
+"diff" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 51,
+  "code": 87},
+"Python" :{
+  "nFiles": 1,
+  "blank": 75,
+  "comment": 179,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 28},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 10},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 2223,
+  "comment": 1850,
+  "code": 3452,
+  "nFiles": 174} }

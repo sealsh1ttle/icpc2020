@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.70614194869995,
+  "n_files"            : 10,
+  "n_lines"            : 176,
+  "files_per_second"   : 2.69822368878985,
+  "lines_per_second"   : 47.4887369227014,
+  "report_file"        : "loc/learn-co-curriculum__sinatra-mvc-lab.json"},
+"Ruby" :{
+  "nFiles": 7,
+  "blank": 30,
+  "comment": 1,
+  "code": 98},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 0,
+  "code": 19},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 48,
+  "comment": 1,
+  "code": 127,
+  "nFiles": 10} }

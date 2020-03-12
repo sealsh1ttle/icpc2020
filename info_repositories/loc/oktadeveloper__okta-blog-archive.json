@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.23888111114502,
+  "n_files"            : 552,
+  "n_lines"            : 191297,
+  "files_per_second"   : 66.9993889404825,
+  "lines_per_second"   : 23218.8081633107,
+  "report_file"        : "loc/oktadeveloper__okta-blog-archive.json"},
+"Markdown" :{
+  "nFiles": 369,
+  "blank": 37140,
+  "comment": 0,
+  "code": 107883},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 14391},
+"Sass" :{
+  "nFiles": 79,
+  "blank": 1400,
+  "comment": 691,
+  "code": 10201},
+"AsciiDoc" :{
+  "nFiles": 24,
+  "blank": 3108,
+  "comment": 71,
+  "code": 8639},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 305,
+  "comment": 176,
+  "code": 1913},
+"SVG" :{
+  "nFiles": 10,
+  "blank": 276,
+  "comment": 1,
+  "code": 1783},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 78,
+  "comment": 30,
+  "code": 1150},
+"HTML" :{
+  "nFiles": 31,
+  "blank": 70,
+  "comment": 59,
+  "code": 1031},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 96,
+  "comment": 13,
+  "code": 573},
+"Ruby" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 8,
+  "code": 95},
+"XML" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 73},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 18,
+  "code": 11},
+"SUM": {
+  "blank": 42487,
+  "comment": 1067,
+  "code": 147743,
+  "nFiles": 552} }

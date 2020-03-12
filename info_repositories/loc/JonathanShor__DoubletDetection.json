@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.111423969268799,
+  "n_files"            : 16,
+  "n_lines"            : 1195,
+  "files_per_second"   : 143.595674296988,
+  "lines_per_second"   : 10724.8019240563,
+  "report_file"        : "loc/JonathanShor__DoubletDetection.json"},
+"Python" :{
+  "nFiles": 5,
+  "blank": 110,
+  "comment": 203,
+  "code": 462},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 36},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 1,
+  "code": 26},
+"reStructuredText" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 17,
+  "code": 22},
+"Jupyter Notebook" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 221,
+  "code": 18},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 7,
+  "code": 9},
+"SUM": {
+  "blank": 157,
+  "comment": 449,
+  "code": 589,
+  "nFiles": 16} }

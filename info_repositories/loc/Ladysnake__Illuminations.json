@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.64479398727417,
+  "n_files"            : 55,
+  "n_lines"            : 2338,
+  "files_per_second"   : 85.2985621539515,
+  "lines_per_second"   : 3625.96433301707,
+  "report_file"        : "loc/Ladysnake__Illuminations.json"},
+"Java" :{
+  "nFiles": 22,
+  "blank": 270,
+  "comment": 42,
+  "code": 1201},
+"JSON" :{
+  "nFiles": 27,
+  "blank": 4,
+  "comment": 0,
+  "code": 405},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 128},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Gradle" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 22,
+  "code": 54},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 44},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 349,
+  "comment": 87,
+  "code": 1902,
+  "nFiles": 55} }

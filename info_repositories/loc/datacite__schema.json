@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 90.3845989704132,
+  "n_files"            : 290,
+  "n_lines"            : 19623,
+  "files_per_second"   : 3.20851122097615,
+  "lines_per_second"   : 217.105571342121,
+  "report_file"        : "loc/datacite__schema.json"},
+"XML" :{
+  "nFiles": 97,
+  "blank": 1,
+  "comment": 47,
+  "code": 6225},
+"XSD" :{
+  "nFiles": 75,
+  "blank": 33,
+  "comment": 317,
+  "code": 4882},
+"JSON" :{
+  "nFiles": 20,
+  "blank": 17,
+  "comment": 0,
+  "code": 3056},
+"Ruby" :{
+  "nFiles": 62,
+  "blank": 291,
+  "comment": 30,
+  "code": 2060},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 64,
+  "comment": 94,
+  "code": 839},
+"Markdown" :{
+  "nFiles": 16,
+  "blank": 129,
+  "comment": 0,
+  "code": 424},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 91,
+  "comment": 0,
+  "code": 395},
+"ERB" :{
+  "nFiles": 11,
+  "blank": 54,
+  "comment": 0,
+  "code": 383},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 5,
+  "code": 61},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 55},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 10,
+  "code": 18},
+"TeX" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 0},
+"SUM": {
+  "blank": 705,
+  "comment": 504,
+  "code": 18414,
+  "nFiles": 290} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.36099815368652,
+  "n_files"            : 11,
+  "n_lines"            : 892,
+  "files_per_second"   : 1.49436255387335,
+  "lines_per_second"   : 121.179218005002,
+  "report_file"        : "loc/ygorshenin__icfp2016.json"},
+"Haskell" :{
+  "nFiles": 9,
+  "blank": 149,
+  "comment": 20,
+  "code": 633},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 55,
+  "code": 6},
+"SUM": {
+  "blank": 158,
+  "comment": 75,
+  "code": 659,
+  "nFiles": 11} }

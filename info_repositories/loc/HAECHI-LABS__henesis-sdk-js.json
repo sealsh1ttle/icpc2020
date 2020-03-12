@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 16.5297508239746,
+  "n_files"            : 56,
+  "n_lines"            : 3772,
+  "files_per_second"   : 3.38783086305077,
+  "lines_per_second"   : 228.194607418348,
+  "report_file"        : "loc/HAECHI-LABS__henesis-sdk-js.json"},
+"TypeScript" :{
+  "nFiles": 38,
+  "blank": 566,
+  "comment": 532,
+  "code": 1924},
+"JSON" :{
+  "nFiles": 9,
+  "blank": 0,
+  "comment": 0,
+  "code": 253},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 151,
+  "comment": 0,
+  "code": 213},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 4,
+  "code": 87},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 736,
+  "comment": 536,
+  "code": 2500,
+  "nFiles": 56} }

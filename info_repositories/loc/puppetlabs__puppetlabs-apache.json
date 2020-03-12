@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.08431196212769,
+  "n_files"            : 365,
+  "n_lines"            : 48735,
+  "files_per_second"   : 175.117739873932,
+  "lines_per_second"   : 23381.8165828933,
+  "report_file"        : "loc/puppetlabs__puppetlabs-apache.json"},
+"Ruby" :{
+  "nFiles": 106,
+  "blank": 1303,
+  "comment": 156,
+  "code": 12821},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 6439,
+  "comment": 0,
+  "code": 12278},
+"Puppet" :{
+  "nFiles": 129,
+  "blank": 423,
+  "comment": 5084,
+  "code": 5657},
+"ERB" :{
+  "nFiles": 106,
+  "blank": 203,
+  "comment": 101,
+  "code": 3699},
+"YAML" :{
+  "nFiles": 10,
+  "blank": 8,
+  "comment": 18,
+  "code": 377},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 116},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 5,
+  "code": 21},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 8378,
+  "comment": 5364,
+  "code": 34993,
+  "nFiles": 365} }

@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 49.9716641902924,
+  "n_files"            : 244,
+  "n_lines"            : 80592,
+  "files_per_second"   : 4.88276714321234,
+  "lines_per_second"   : 1612.75397379413,
+  "report_file"        : "loc/naver__arcus-memcached.json"},
+"C" :{
+  "nFiles": 43,
+  "blank": 4740,
+  "comment": 3568,
+  "code": 36709},
+"Perl" :{
+  "nFiles": 119,
+  "blank": 2175,
+  "comment": 1291,
+  "code": 17726},
+"C/C++ Header" :{
+  "nFiles": 48,
+  "blank": 837,
+  "comment": 2267,
+  "code": 4014},
+"XML" :{
+  "nFiles": 4,
+  "blank": 117,
+  "comment": 1,
+  "code": 2231},
+"Markdown" :{
+  "nFiles": 14,
+  "blank": 581,
+  "comment": 0,
+  "code": 2004},
+"m4" :{
+  "nFiles": 2,
+  "blank": 92,
+  "comment": 75,
+  "code": 772},
+"make" :{
+  "nFiles": 2,
+  "blank": 42,
+  "comment": 21,
+  "code": 215},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 39,
+  "comment": 47,
+  "code": 188},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 23,
+  "comment": 2,
+  "code": 162},
+"DTD" :{
+  "nFiles": 1,
+  "blank": 69,
+  "comment": 74,
+  "code": 161},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 48},
+"D" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 226,
+  "code": 38},
+"SUM": {
+  "blank": 8752,
+  "comment": 7572,
+  "code": 64268,
+  "nFiles": 244} }

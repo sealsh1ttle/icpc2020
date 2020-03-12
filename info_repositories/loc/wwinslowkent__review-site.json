@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15634.3293318748,
+  "n_files"            : 8362,
+  "n_lines"            : 956779,
+  "files_per_second"   : 0.534848654041832,
+  "lines_per_second"   : 61.1973164751842,
+  "report_file"        : "loc/wwinslowkent__review-site.json"},
+"JavaScript" :{
+  "nFiles": 6709,
+  "blank": 101471,
+  "comment": 149433,
+  "code": 518707},
+"JSON" :{
+  "nFiles": 887,
+  "blank": 527,
+  "comment": 0,
+  "code": 96383},
+"Markdown" :{
+  "nFiles": 380,
+  "blank": 13040,
+  "comment": 0,
+  "code": 32095},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 2163,
+  "comment": 30,
+  "code": 12456},
+"JSX" :{
+  "nFiles": 9,
+  "blank": 1077,
+  "comment": 558,
+  "code": 8354},
+"C/C++ Header" :{
+  "nFiles": 19,
+  "blank": 1046,
+  "comment": 310,
+  "code": 5166},
+"XML" :{
+  "nFiles": 12,
+  "blank": 233,
+  "comment": 11,
+  "code": 2661},
+"YAML" :{
+  "nFiles": 110,
+  "blank": 183,
+  "comment": 137,
+  "code": 1955},
+"Ruby" :{
+  "nFiles": 102,
+  "blank": 442,
+  "comment": 734,
+  "code": 1577},
+"make" :{
+  "nFiles": 38,
+  "blank": 264,
+  "comment": 208,
+  "code": 794},
+"ERB" :{
+  "nFiles": 34,
+  "blank": 134,
+  "comment": 0,
+  "code": 608},
+"diff" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 13,
+  "code": 588},
+"CSS" :{
+  "nFiles": 7,
+  "blank": 49,
+  "comment": 27,
+  "code": 455},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 79,
+  "comment": 121,
+  "code": 418},
+"Python" :{
+  "nFiles": 2,
+  "blank": 81,
+  "comment": 176,
+  "code": 384},
+"C++" :{
+  "nFiles": 7,
+  "blank": 70,
+  "comment": 36,
+  "code": 317},
+"TypeScript" :{
+  "nFiles": 6,
+  "blank": 73,
+  "comment": 335,
+  "code": 240},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 20,
+  "comment": 12,
+  "code": 130},
+"CoffeeScript" :{
+  "nFiles": 10,
+  "blank": 58,
+  "comment": 60,
+  "code": 111},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 100},
+"C" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 4,
+  "code": 23},
+"Handlebars" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 19},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 121024,
+  "comment": 152206,
+  "code": 683549,
+  "nFiles": 8362} }

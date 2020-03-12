@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.36263799667358,
+  "n_files"            : 28,
+  "n_lines"            : 1785,
+  "files_per_second"   : 3.80298474713144,
+  "lines_per_second"   : 242.440277629629,
+  "report_file"        : "loc/nickwah__DynamicLayoutInflator.json"},
+"Java" :{
+  "nFiles": 4,
+  "blank": 59,
+  "comment": 50,
+  "code": 992},
+"XML" :{
+  "nFiles": 17,
+  "blank": 9,
+  "comment": 6,
+  "code": 313},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 3,
+  "code": 36},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 32},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 15,
+  "code": 0},
+"SUM": {
+  "blank": 128,
+  "comment": 97,
+  "code": 1560,
+  "nFiles": 28} }

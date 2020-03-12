@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.98025703430176,
+  "n_files"            : 35,
+  "n_lines"            : 7629,
+  "files_per_second"   : 3.50692370744625,
+  "lines_per_second"   : 764.409170403069,
+  "report_file"        : "loc/sdslabs__join.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4783},
+"SVG" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 0,
+  "code": 846},
+"Sass" :{
+  "nFiles": 10,
+  "blank": 140,
+  "comment": 5,
+  "code": 700},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 4,
+  "code": 368},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 40,
+  "comment": 95,
+  "code": 348},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 40,
+  "comment": 4,
+  "code": 230},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 236,
+  "comment": 108,
+  "code": 7285,
+  "nFiles": 35} }

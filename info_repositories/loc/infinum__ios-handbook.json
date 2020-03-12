@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.58002305030823,
+  "n_files"            : 21,
+  "n_lines"            : 3103,
+  "files_per_second"   : 2.77044012407668,
+  "lines_per_second"   : 409.365509762378,
+  "report_file"        : "loc/infinum__ios-handbook.json"},
+"Markdown" :{
+  "nFiles": 18,
+  "blank": 903,
+  "comment": 0,
+  "code": 2112},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 8,
+  "code": 41},
+"Slim" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 30},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"SUM": {
+  "blank": 908,
+  "comment": 8,
+  "code": 2187,
+  "nFiles": 21} }

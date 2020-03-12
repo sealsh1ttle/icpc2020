@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 48.621414899826,
+  "n_files"            : 339,
+  "n_lines"            : 80273,
+  "files_per_second"   : 6.97223642500813,
+  "lines_per_second"   : 1650.9803378899,
+  "report_file"        : "loc/jmhodges__rchardet.json"},
+"XML" :{
+  "nFiles": 295,
+  "blank": 6158,
+  "comment": 1227,
+  "code": 65166},
+"Ruby" :{
+  "nFiles": 42,
+  "blank": 326,
+  "comment": 1334,
+  "code": 6025},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 6490,
+  "comment": 2561,
+  "code": 71222,
+  "nFiles": 339} }

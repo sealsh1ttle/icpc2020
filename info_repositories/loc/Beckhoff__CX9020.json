@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.253295183181763,
+  "n_files"            : 35,
+  "n_lines"            : 1212,
+  "files_per_second"   : 138.178703441369,
+  "lines_per_second"   : 4784.93110202683,
+  "report_file"        : "loc/Beckhoff__CX9020.json"},
+"Bourne Shell" :{
+  "nFiles": 25,
+  "blank": 115,
+  "comment": 30,
+  "code": 395},
+"diff" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 44,
+  "code": 137},
+"C++" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 13,
+  "code": 110},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 91},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 20,
+  "code": 65},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 44},
+"make" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 1,
+  "code": 36},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 12},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 207,
+  "comment": 109,
+  "code": 896,
+  "nFiles": 35} }

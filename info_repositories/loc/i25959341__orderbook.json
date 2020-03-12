@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.63035011291504,
+  "n_files"            : 14,
+  "n_lines"            : 1713,
+  "files_per_second"   : 5.32248537229318,
+  "lines_per_second"   : 651.244103052729,
+  "report_file"        : "loc/i25959341__orderbook.json"},
+"Go" :{
+  "nFiles": 11,
+  "blank": 257,
+  "comment": 85,
+  "code": 1104},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 62,
+  "comment": 0,
+  "code": 173},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 12,
+  "code": 13},
+"SUM": {
+  "blank": 326,
+  "comment": 97,
+  "code": 1290,
+  "nFiles": 14} }

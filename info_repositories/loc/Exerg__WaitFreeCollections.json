@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.137511014938354,
+  "n_files"            : 21,
+  "n_lines"            : 3184,
+  "files_per_second"   : 152.715038932803,
+  "lines_per_second"   : 23154.5087600973,
+  "report_file"        : "loc/Exerg__WaitFreeCollections.json"},
+"CMake" :{
+  "nFiles": 10,
+  "blank": 144,
+  "comment": 154,
+  "code": 880},
+"C/C++ Header" :{
+  "nFiles": 4,
+  "blank": 165,
+  "comment": 89,
+  "code": 850},
+"C++" :{
+  "nFiles": 4,
+  "blank": 114,
+  "comment": 1,
+  "code": 471},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 48,
+  "comment": 0,
+  "code": 135},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 2,
+  "code": 122},
+"SUM": {
+  "blank": 480,
+  "comment": 246,
+  "code": 2458,
+  "nFiles": 21} }

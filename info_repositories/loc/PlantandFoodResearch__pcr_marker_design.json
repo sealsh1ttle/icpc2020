@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.22711992263794,
+  "n_files"            : 31,
+  "n_lines"            : 10210,
+  "files_per_second"   : 4.28939886591571,
+  "lines_per_second"   : 1412.73427164514,
+  "report_file"        : "loc/PlantandFoodResearch__pcr_marker_design.json"},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 987},
+"Jupyter Notebook" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 7343,
+  "code": 646},
+"Python" :{
+  "nFiles": 10,
+  "blank": 146,
+  "comment": 259,
+  "code": 526},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 52,
+  "comment": 0,
+  "code": 104},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 4,
+  "comment": 1,
+  "code": 104},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 6,
+  "code": 16},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 213,
+  "comment": 7609,
+  "code": 2388,
+  "nFiles": 31} }

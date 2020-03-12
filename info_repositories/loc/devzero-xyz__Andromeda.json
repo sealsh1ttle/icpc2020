@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.193682193756104,
+  "n_files"            : 35,
+  "n_lines"            : 3478,
+  "files_per_second"   : 180.708403396515,
+  "lines_per_second"   : 17957.2522003737,
+  "report_file"        : "loc/devzero-xyz__Andromeda.json"},
+"Python" :{
+  "nFiles": 30,
+  "blank": 302,
+  "comment": 190,
+  "code": 2646},
+"C" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 0,
+  "code": 258},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 25},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 24},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 327,
+  "comment": 190,
+  "code": 2961,
+  "nFiles": 35} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.01704812049866,
+  "n_files"            : 7,
+  "n_lines"            : 163,
+  "files_per_second"   : 6.88266352290972,
+  "lines_per_second"   : 160.267736319184,
+  "report_file"        : "loc/blakeembrey__getvalue.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 69},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 34},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 25},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 25,
+  "comment": 0,
+  "code": 138,
+  "nFiles": 7} }

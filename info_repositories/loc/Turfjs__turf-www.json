@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.78404402732849,
+  "n_files"            : 58,
+  "n_lines"            : 22753,
+  "files_per_second"   : 32.5104084380988,
+  "lines_per_second"   : 12753.6090205528,
+  "report_file"        : "loc/Turfjs__turf-www.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 20346},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 124,
+  "comment": 0,
+  "code": 1005},
+"Vuejs Component" :{
+  "nFiles": 8,
+  "blank": 60,
+  "comment": 23,
+  "code": 770},
+"JavaScript" :{
+  "nFiles": 39,
+  "blank": 29,
+  "comment": 24,
+  "code": 324},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 28},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 227,
+  "comment": 47,
+  "code": 22479,
+  "nFiles": 58} }

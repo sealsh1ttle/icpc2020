@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.9336428642273,
+  "n_files"            : 159,
+  "n_lines"            : 14182,
+  "files_per_second"   : 4.4248227378663,
+  "lines_per_second"   : 394.671924958615,
+  "report_file"        : "loc/yiisoft__yii2-gii.json"},
+"PHP" :{
+  "nFiles": 60,
+  "blank": 710,
+  "comment": 1448,
+  "code": 4242},
+"Sass" :{
+  "nFiles": 55,
+  "blank": 875,
+  "comment": 774,
+  "code": 3700},
+"Markdown" :{
+  "nFiles": 33,
+  "blank": 415,
+  "comment": 0,
+  "code": 1365},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 32,
+  "comment": 11,
+  "code": 247},
+"SQL" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 8,
+  "code": 147},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 81},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 2,
+  "code": 35},
+"make" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 3,
+  "code": 31},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 1},
+"SUM": {
+  "blank": 2072,
+  "comment": 2247,
+  "code": 9863,
+  "nFiles": 159} }

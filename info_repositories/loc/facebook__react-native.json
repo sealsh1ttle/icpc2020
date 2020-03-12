@@ -1,0 +1,129 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 757.189467906952,
+  "n_files"            : 3373,
+  "n_lines"            : 537761,
+  "files_per_second"   : 4.45463142709018,
+  "lines_per_second"   : 710.206656052014,
+  "report_file"        : "loc/facebook__react-native.json"},
+"JavaScript" :{
+  "nFiles": 903,
+  "blank": 19479,
+  "comment": 36241,
+  "code": 220926},
+"Java" :{
+  "nFiles": 810,
+  "blank": 12874,
+  "comment": 13411,
+  "code": 67828},
+"C++" :{
+  "nFiles": 267,
+  "blank": 5989,
+  "comment": 3239,
+  "code": 30063},
+"Objective C" :{
+  "nFiles": 238,
+  "blank": 6609,
+  "comment": 3223,
+  "code": 29922},
+"C/C++ Header" :{
+  "nFiles": 738,
+  "blank": 9660,
+  "comment": 12923,
+  "code": 29199},
+"Objective C++" :{
+  "nFiles": 114,
+  "blank": 4406,
+  "comment": 1778,
+  "code": 17098},
+"Bourne Shell" :{
+  "nFiles": 42,
+  "blank": 378,
+  "comment": 372,
+  "code": 1396},
+"XML" :{
+  "nFiles": 120,
+  "blank": 128,
+  "comment": 251,
+  "code": 1288},
+"Ruby" :{
+  "nFiles": 32,
+  "blank": 213,
+  "comment": 168,
+  "code": 1227},
+"Gradle" :{
+  "nFiles": 9,
+  "blank": 177,
+  "comment": 308,
+  "code": 876},
+"Markdown" :{
+  "nFiles": 22,
+  "blank": 442,
+  "comment": 0,
+  "code": 798},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 79,
+  "comment": 88,
+  "code": 777},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 73,
+  "comment": 0,
+  "code": 692},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 0,
+  "comment": 0,
+  "code": 655},
+"Starlark" :{
+  "nFiles": 5,
+  "blank": 108,
+  "comment": 94,
+  "code": 588},
+"make" :{
+  "nFiles": 24,
+  "blank": 204,
+  "comment": 150,
+  "code": 384},
+"Assembly" :{
+  "nFiles": 4,
+  "blank": 75,
+  "comment": 242,
+  "code": 191},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 25,
+  "comment": 2,
+  "code": 85},
+"ProGuard" :{
+  "nFiles": 7,
+  "blank": 29,
+  "comment": 69,
+  "code": 71},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 6,
+  "code": 68},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 11,
+  "code": 37},
+"Python" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 15},
+"CMake" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 13},
+"SUM": {
+  "blank": 60984,
+  "comment": 72580,
+  "code": 404197,
+  "nFiles": 3373} }

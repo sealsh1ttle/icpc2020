@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.604923963546753,
+  "n_files"            : 4,
+  "n_lines"            : 73,
+  "files_per_second"   : 6.61240129511062,
+  "lines_per_second"   : 120.676323635769,
+  "report_file"        : "loc/vtrpldn__vaidarmerda.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 45},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 22},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 4,
+  "comment": 0,
+  "code": 69,
+  "nFiles": 4} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.89744186401367,
+  "n_files"            : 13,
+  "n_lines"            : 812,
+  "files_per_second"   : 2.20434559589749,
+  "lines_per_second"   : 137.686817220674,
+  "report_file"        : "loc/eestec-lc-zagreb__frms-data-populator.json"},
+"Java" :{
+  "nFiles": 11,
+  "blank": 126,
+  "comment": 10,
+  "code": 563},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 2,
+  "code": 83},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 142,
+  "comment": 12,
+  "code": 658,
+  "nFiles": 13} }

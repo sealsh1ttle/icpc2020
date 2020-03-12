@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.834896087646484,
+  "n_files"            : 79,
+  "n_lines"            : 25494,
+  "files_per_second"   : 94.6225538350475,
+  "lines_per_second"   : 30535.536550262,
+  "report_file"        : "loc/s-yadav__react-number-format.json"},
+"JavaScript" :{
+  "nFiles": 68,
+  "blank": 3735,
+  "comment": 1341,
+  "code": 19353},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 78,
+  "comment": 0,
+  "code": 319},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 88,
+  "comment": 151,
+  "code": 207},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 112},
+"TypeScript" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 10,
+  "code": 53},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 1,
+  "code": 17},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 3918,
+  "comment": 1503,
+  "code": 20073,
+  "nFiles": 79} }

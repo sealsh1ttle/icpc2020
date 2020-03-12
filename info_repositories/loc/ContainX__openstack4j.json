@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.139909029007,
+  "n_files"            : 2114,
+  "n_lines"            : 166233,
+  "files_per_second"   : 110.449845754031,
+  "lines_per_second"   : 8685.15099774352,
+  "report_file"        : "loc/ContainX__openstack4j.json"},
+"Java" :{
+  "nFiles": 1684,
+  "blank": 23982,
+  "comment": 42367,
+  "code": 77469},
+"JSON" :{
+  "nFiles": 362,
+  "blank": 97,
+  "comment": 0,
+  "code": 12789},
+"YAML" :{
+  "nFiles": 26,
+  "blank": 14,
+  "comment": 6,
+  "code": 3609},
+"Groovy" :{
+  "nFiles": 15,
+  "blank": 649,
+  "comment": 470,
+  "code": 1913},
+"Maven" :{
+  "nFiles": 15,
+  "blank": 46,
+  "comment": 66,
+  "code": 1402},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 245,
+  "comment": 0,
+  "code": 909},
+"XML" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 73,
+  "code": 75},
+"make" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 2,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 25062,
+  "comment": 42984,
+  "code": 98187,
+  "nFiles": 2114} }

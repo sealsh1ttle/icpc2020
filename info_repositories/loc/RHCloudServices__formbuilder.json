@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 13.5814819335938,
+  "n_files"            : 75,
+  "n_lines"            : 6878,
+  "files_per_second"   : 5.52222506842112,
+  "lines_per_second"   : 506.424853608007,
+  "report_file"        : "loc/RHCloudServices__formbuilder.json"},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 196,
+  "comment": 5,
+  "code": 2481},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 1391},
+"CoffeeScript" :{
+  "nFiles": 28,
+  "blank": 225,
+  "comment": 29,
+  "code": 1269},
+"HTML" :{
+  "nFiles": 29,
+  "blank": 52,
+  "comment": 14,
+  "code": 369},
+"Stylus" :{
+  "nFiles": 1,
+  "blank": 58,
+  "comment": 2,
+  "code": 251},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 108,
+  "comment": 0,
+  "code": 235},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 40,
+  "comment": 0,
+  "code": 128},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 5,
+  "code": 10},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 682,
+  "comment": 55,
+  "code": 6141,
+  "nFiles": 75} }

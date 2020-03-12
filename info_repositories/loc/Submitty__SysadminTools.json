@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.31396293640137,
+  "n_files"            : 17,
+  "n_lines"            : 2455,
+  "files_per_second"   : 12.9379600664833,
+  "lines_per_second"   : 1868.39364489509,
+  "report_file"        : "loc/Submitty__SysadminTools.json"},
+"PHP" :{
+  "nFiles": 6,
+  "blank": 223,
+  "comment": 542,
+  "code": 991},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 100,
+  "comment": 0,
+  "code": 251},
+"Python" :{
+  "nFiles": 1,
+  "blank": 32,
+  "comment": 66,
+  "code": 91},
+"Perl" :{
+  "nFiles": 4,
+  "blank": 26,
+  "comment": 16,
+  "code": 86},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 2,
+  "code": 26},
+"SUM": {
+  "blank": 384,
+  "comment": 626,
+  "code": 1445,
+  "nFiles": 17} }

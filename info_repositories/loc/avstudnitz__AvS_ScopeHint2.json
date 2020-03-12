@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.160059928894043,
+  "n_files"            : 8,
+  "n_lines"            : 400,
+  "files_per_second"   : 49.9812792325796,
+  "lines_per_second"   : 2499.06396162898,
+  "report_file"        : "loc/avstudnitz__AvS_ScopeHint2.json"},
+"PHP" :{
+  "nFiles": 4,
+  "blank": 32,
+  "comment": 79,
+  "code": 178},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 0,
+  "code": 53},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"XML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 54,
+  "comment": 79,
+  "code": 267,
+  "nFiles": 8} }

@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 11.4294281005859,
+  "n_files"            : 40,
+  "n_lines"            : 1406,
+  "files_per_second"   : 3.49973766385996,
+  "lines_per_second"   : 123.015778884678,
+  "report_file"        : "loc/sesac__shipshape.json"},
+"Ruby" :{
+  "nFiles": 22,
+  "blank": 163,
+  "comment": 30,
+  "code": 641},
+"Bourne Again Shell" :{
+  "nFiles": 11,
+  "blank": 65,
+  "comment": 31,
+  "code": 243},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 0,
+  "code": 92},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 38,
+  "comment": 0,
+  "code": 88},
+"SUM": {
+  "blank": 281,
+  "comment": 61,
+  "code": 1064,
+  "nFiles": 40} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.6494870185852,
+  "n_files"            : 75,
+  "n_lines"            : 2471,
+  "files_per_second"   : 5.92909419091909,
+  "lines_per_second"   : 195.343889943481,
+  "report_file"        : "loc/it-kmitl-2018__group2-backend.json"},
+"Java" :{
+  "nFiles": 69,
+  "blank": 480,
+  "comment": 3,
+  "code": 1589},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 22,
+  "code": 129},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 2,
+  "code": 59},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 0,
+  "code": 55},
+"Gradle" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 45},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 551,
+  "comment": 27,
+  "code": 1893,
+  "nFiles": 75} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 208.130923032761,
+  "n_files"            : 839,
+  "n_lines"            : 97946,
+  "files_per_second"   : 4.03111650962091,
+  "lines_per_second"   : 470.598018654743,
+  "report_file"        : "loc/webdriverio__webdriverio.json"},
+"JavaScript" :{
+  "nFiles": 612,
+  "blank": 6792,
+  "comment": 6471,
+  "code": 37063},
+"JSON" :{
+  "nFiles": 87,
+  "blank": 1,
+  "comment": 0,
+  "code": 33307},
+"Markdown" :{
+  "nFiles": 91,
+  "blank": 2826,
+  "comment": 5,
+  "code": 8696},
+"TypeScript" :{
+  "nFiles": 22,
+  "blank": 190,
+  "comment": 119,
+  "code": 1062},
+"EJS" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 0,
+  "code": 444},
+"Sass" :{
+  "nFiles": 11,
+  "blank": 72,
+  "comment": 28,
+  "code": 415},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 9,
+  "comment": 20,
+  "code": 207},
+"SVG" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 2,
+  "code": 126},
+"Cucumber" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 0,
+  "code": 54},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 9921,
+  "comment": 6645,
+  "code": 81380,
+  "nFiles": 839} }

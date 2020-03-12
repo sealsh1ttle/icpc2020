@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 166.454972982407,
+  "n_files"            : 775,
+  "n_lines"            : 292046,
+  "files_per_second"   : 4.65591376523135,
+  "lines_per_second"   : 1754.50450513646,
+  "report_file"        : "loc/VoIPGRID__Vialer-pjsip-iOS.json"},
+"C/C++ Header" :{
+  "nFiles": 767,
+  "blank": 36294,
+  "comment": 157568,
+  "code": 97081},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 150,
+  "comment": 11,
+  "code": 649},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 105,
+  "comment": 0,
+  "code": 160},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 36555,
+  "comment": 157579,
+  "code": 97912,
+  "nFiles": 775} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 242.829543828964,
+  "n_files"            : 1346,
+  "n_lines"            : 253014,
+  "files_per_second"   : 5.54298286269503,
+  "lines_per_second"   : 1041.94076227483,
+  "report_file"        : "loc/g-truc__glm.json"},
+"HTML" :{
+  "nFiles": 696,
+  "blank": 6191,
+  "comment": 3659,
+  "code": 143670},
+"C++" :{
+  "nFiles": 295,
+  "blank": 8998,
+  "comment": 1798,
+  "code": 43169},
+"C/C++ Header" :{
+  "nFiles": 243,
+  "blank": 5738,
+  "comment": 10745,
+  "code": 15608},
+"JavaScript" :{
+  "nFiles": 94,
+  "blank": 82,
+  "comment": 95,
+  "code": 5235},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 526,
+  "comment": 89,
+  "code": 2666},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 974,
+  "comment": 0,
+  "code": 2605},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 50,
+  "comment": 0,
+  "code": 571},
+"CMake" :{
+  "nFiles": 9,
+  "blank": 59,
+  "comment": 1,
+  "code": 420},
+"XML" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 6,
+  "code": 49},
+"SUM": {
+  "blank": 22628,
+  "comment": 16393,
+  "code": 213993,
+  "nFiles": 1346} }

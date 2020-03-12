@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 469.451756954193,
+  "n_files"            : 1692,
+  "n_lines"            : 239565,
+  "files_per_second"   : 3.60420421254297,
+  "lines_per_second"   : 510.308027291877,
+  "report_file"        : "loc/liferay__clay.json"},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 4341,
+  "comment": 28,
+  "code": 38743},
+"HTML" :{
+  "nFiles": 77,
+  "blank": 2056,
+  "comment": 4,
+  "code": 37569},
+"Markdown" :{
+  "nFiles": 163,
+  "blank": 3608,
+  "comment": 0,
+  "code": 35961},
+"Sass" :{
+  "nFiles": 308,
+  "blank": 6771,
+  "comment": 3559,
+  "code": 26706},
+"JSON" :{
+  "nFiles": 61,
+  "blank": 0,
+  "comment": 0,
+  "code": 26139},
+"TypeScript" :{
+  "nFiles": 257,
+  "blank": 3346,
+  "comment": 3067,
+  "code": 19250},
+"JavaScript" :{
+  "nFiles": 115,
+  "blank": 3352,
+  "comment": 3198,
+  "code": 14361},
+"SVG" :{
+  "nFiles": 699,
+  "blank": 9,
+  "comment": 229,
+  "code": 6982},
+"EJS" :{
+  "nFiles": 5,
+  "blank": 46,
+  "comment": 0,
+  "code": 205},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 9,
+  "comment": 2,
+  "code": 24},
+"SUM": {
+  "blank": 23538,
+  "comment": 10087,
+  "code": 205940,
+  "nFiles": 1692} }
