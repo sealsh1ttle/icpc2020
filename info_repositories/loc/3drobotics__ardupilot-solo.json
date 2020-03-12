@@ -1,0 +1,134 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 152.15812087059,
+  "n_files"            : 1838,
+  "n_lines"            : 622603,
+  "files_per_second"   : 12.0795392942793,
+  "lines_per_second"   : 4091.81577978031,
+  "report_file"        : "loc/3drobotics__ardupilot-solo.json"},
+"m4" :{
+  "nFiles": 8,
+  "blank": 0,
+  "comment": 0,
+  "code": 259398},
+"C/C++ Header" :{
+  "nFiles": 841,
+  "blank": 22810,
+  "comment": 49402,
+  "code": 98013},
+"C++" :{
+  "nFiles": 335,
+  "blank": 11618,
+  "comment": 16978,
+  "code": 57038},
+"Arduino Sketch" :{
+  "nFiles": 202,
+  "blank": 7324,
+  "comment": 10125,
+  "code": 32027},
+"C" :{
+  "nFiles": 55,
+  "blank": 2533,
+  "comment": 1818,
+  "code": 10020},
+"Python" :{
+  "nFiles": 86,
+  "blank": 2281,
+  "comment": 2592,
+  "code": 9134},
+"XML" :{
+  "nFiles": 42,
+  "blank": 405,
+  "comment": 424,
+  "code": 8392},
+"make" :{
+  "nFiles": 58,
+  "blank": 2266,
+  "comment": 1731,
+  "code": 3167},
+"MATLAB" :{
+  "nFiles": 53,
+  "blank": 451,
+  "comment": 737,
+  "code": 2881},
+"Bourne Shell" :{
+  "nFiles": 42,
+  "blank": 384,
+  "comment": 128,
+  "code": 2642},
+"Lua" :{
+  "nFiles": 3,
+  "blank": 217,
+  "comment": 377,
+  "code": 1512},
+"Gencat NLS" :{
+  "nFiles": 74,
+  "blank": 110,
+  "comment": 0,
+  "code": 609},
+"C#" :{
+  "nFiles": 6,
+  "blank": 70,
+  "comment": 123,
+  "code": 447},
+"Perl" :{
+  "nFiles": 3,
+  "blank": 114,
+  "comment": 36,
+  "code": 399},
+"Pascal" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 59,
+  "code": 272},
+"reStructuredText" :{
+  "nFiles": 6,
+  "blank": 111,
+  "comment": 59,
+  "code": 228},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 4,
+  "code": 221},
+"Markdown" :{
+  "nFiles": 9,
+  "blank": 73,
+  "comment": 0,
+  "code": 195},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 51,
+  "comment": 2,
+  "code": 170},
+"MSBuild script" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 7,
+  "code": 79},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 57},
+"CMake" :{
+  "nFiles": 4,
+  "blank": 10,
+  "comment": 0,
+  "code": 39},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 37},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 18,
+  "comment": 54,
+  "code": 25},
+"SUM": {
+  "blank": 50945,
+  "comment": 84656,
+  "code": 487002,
+  "nFiles": 1838} }

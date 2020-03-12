@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 359.578414201736,
+  "n_files"            : 1233,
+  "n_lines"            : 533716,
+  "files_per_second"   : 3.42901562302414,
+  "lines_per_second"   : 1484.28264578909,
+  "report_file"        : "loc/aerogear__ups-config-operator.json"},
+"Go" :{
+  "nFiles": 1107,
+  "blank": 38810,
+  "comment": 59326,
+  "code": 414868},
+"Protocol Buffers" :{
+  "nFiles": 39,
+  "blank": 2423,
+  "comment": 8003,
+  "code": 3913},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 1635},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 370,
+  "comment": 0,
+  "code": 1078},
+"Perl" :{
+  "nFiles": 8,
+  "blank": 142,
+  "comment": 131,
+  "code": 855},
+"Bourne Shell" :{
+  "nFiles": 7,
+  "blank": 72,
+  "comment": 252,
+  "code": 492},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 42,
+  "comment": 15,
+  "code": 239},
+"Assembly" :{
+  "nFiles": 25,
+  "blank": 206,
+  "comment": 249,
+  "code": 228},
+"make" :{
+  "nFiles": 3,
+  "blank": 17,
+  "comment": 30,
+  "code": 59},
+"TOML" :{
+  "nFiles": 4,
+  "blank": 15,
+  "comment": 70,
+  "code": 42},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 9,
+  "code": 37},
+"C" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 7,
+  "code": 24},
+"Starlark" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 19,
+  "code": 18},
+"SUM": {
+  "blank": 42117,
+  "comment": 68111,
+  "code": 423488,
+  "nFiles": 1233} }

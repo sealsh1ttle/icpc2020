@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.850784063339233,
+  "n_files"            : 2,
+  "n_lines"            : 249,
+  "files_per_second"   : 2.35077275913023,
+  "lines_per_second"   : 292.671208511714,
+  "report_file"        : "loc/adeverteuil__console-solarized.json"},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 38,
+  "comment": 7,
+  "code": 81},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 19,
+  "comment": 36,
+  "code": 68},
+"SUM": {
+  "blank": 57,
+  "comment": 43,
+  "code": 149,
+  "nFiles": 2} }

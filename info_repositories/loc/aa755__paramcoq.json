@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 7.80144286155701,
+  "n_files"            : 38,
+  "n_lines"            : 10236,
+  "files_per_second"   : 4.87089384288793,
+  "lines_per_second"   : 1312.06498357371,
+  "report_file"        : "loc/aa755__paramcoq.json"},
+"OCaml" :{
+  "nFiles": 17,
+  "blank": 579,
+  "comment": 552,
+  "code": 5888},
+"Coq" :{
+  "nFiles": 13,
+  "blank": 265,
+  "comment": 1664,
+  "code": 885},
+"Python" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 112},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 56},
+"make" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 2,
+  "code": 54},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 0,
+  "code": 44},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 3,
+  "code": 42},
+"SUM": {
+  "blank": 934,
+  "comment": 2221,
+  "code": 7081,
+  "nFiles": 38} }

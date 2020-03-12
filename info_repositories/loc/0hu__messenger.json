@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.853024005889893,
+  "n_files"            : 6,
+  "n_lines"            : 5139,
+  "files_per_second"   : 7.03379970384383,
+  "lines_per_second"   : 6024.44944634224,
+  "report_file"        : "loc/0hu__messenger.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 5019},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 52},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 31},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 6},
+"SUM": {
+  "blank": 17,
+  "comment": 0,
+  "code": 5122,
+  "nFiles": 6} }

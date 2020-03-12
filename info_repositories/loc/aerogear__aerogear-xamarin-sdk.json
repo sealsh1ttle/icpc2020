@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 77.9499809741974,
+  "n_files"            : 218,
+  "n_lines"            : 14465,
+  "files_per_second"   : 2.79666521114561,
+  "lines_per_second"   : 185.567716877162,
+  "report_file"        : "loc/aerogear__aerogear-xamarin-sdk.json"},
+"C#" :{
+  "nFiles": 136,
+  "blank": 1401,
+  "comment": 2095,
+  "code": 5669},
+"MSBuild script" :{
+  "nFiles": 20,
+  "blank": 22,
+  "comment": 0,
+  "code": 1867},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 765},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 72,
+  "comment": 124,
+  "code": 614},
+"AsciiDoc" :{
+  "nFiles": 16,
+  "blank": 234,
+  "comment": 13,
+  "code": 545},
+"XML" :{
+  "nFiles": 17,
+  "blank": 0,
+  "comment": 1,
+  "code": 520},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 104,
+  "comment": 0,
+  "code": 254},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 52},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 2,
+  "code": 40},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 11,
+  "code": 35},
+"SUM": {
+  "blank": 1858,
+  "comment": 2246,
+  "code": 10361,
+  "nFiles": 218} }

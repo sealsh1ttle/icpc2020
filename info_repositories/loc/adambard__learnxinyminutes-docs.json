@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 153.100124835968,
+  "n_files"            : 714,
+  "n_lines"            : 260340,
+  "files_per_second"   : 4.66361474730985,
+  "lines_per_second"   : 1700.4558309729,
+  "report_file"        : "loc/adambard__learnxinyminutes-docs.json"},
+"Markdown" :{
+  "nFiles": 706,
+  "blank": 56762,
+  "comment": 1,
+  "code": 202734},
+"TeX" :{
+  "nFiles": 2,
+  "blank": 91,
+  "comment": 100,
+  "code": 245},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 83,
+  "comment": 4,
+  "code": 240},
+"Ruby" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 76},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"ERB" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 56936,
+  "comment": 105,
+  "code": 203299,
+  "nFiles": 714} }

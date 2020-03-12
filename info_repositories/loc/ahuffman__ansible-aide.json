@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.98727011680603,
+  "n_files"            : 7,
+  "n_lines"            : 611,
+  "files_per_second"   : 7.09025815816858,
+  "lines_per_second"   : 618.878247805857,
+  "report_file"        : "loc/ahuffman__ansible-aide.json"},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 25,
+  "comment": 166,
+  "code": 317},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 89},
+"SUM": {
+  "blank": 39,
+  "comment": 166,
+  "code": 406,
+  "nFiles": 7} }

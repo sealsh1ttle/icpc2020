@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 37.220673084259,
+  "n_files"            : 139,
+  "n_lines"            : 10322,
+  "files_per_second"   : 3.73448378231463,
+  "lines_per_second"   : 277.319004324112,
+  "report_file"        : "loc/aerogear__voyager-server.json"},
+"JSON" :{
+  "nFiles": 22,
+  "blank": 5,
+  "comment": 0,
+  "code": 4552},
+"TypeScript" :{
+  "nFiles": 48,
+  "blank": 378,
+  "comment": 206,
+  "code": 1694},
+"Markdown" :{
+  "nFiles": 35,
+  "blank": 615,
+  "comment": 0,
+  "code": 1405},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 149,
+  "comment": 61,
+  "code": 824},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 4,
+  "code": 147},
+"Bourne Shell" :{
+  "nFiles": 6,
+  "blank": 34,
+  "comment": 10,
+  "code": 116},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 78},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 1216,
+  "comment": 281,
+  "code": 8825,
+  "nFiles": 139} }

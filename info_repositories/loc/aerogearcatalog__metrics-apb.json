@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.5813748836517,
+  "n_files"            : 49,
+  "n_lines"            : 8158,
+  "files_per_second"   : 3.14478024987459,
+  "lines_per_second"   : 523.573822009733,
+  "report_file"        : "loc/aerogearcatalog__metrics-apb.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 2,
+  "comment": 0,
+  "code": 4264},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 219,
+  "comment": 44,
+  "code": 1224},
+"YAML" :{
+  "nFiles": 23,
+  "blank": 111,
+  "comment": 22,
+  "code": 1094},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 101,
+  "comment": 0,
+  "code": 457},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 235},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 66,
+  "comment": 0,
+  "code": 143},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 92},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 2,
+  "code": 42},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 522,
+  "comment": 68,
+  "code": 7568,
+  "nFiles": 49} }

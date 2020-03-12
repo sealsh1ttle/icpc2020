@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.729250192642212,
+  "n_files"            : 137,
+  "n_lines"            : 4422,
+  "files_per_second"   : 187.864194459275,
+  "lines_per_second"   : 6063.76253940812,
+  "report_file"        : "loc/actnforchildren__mental_health_app.json"},
+"Elixir" :{
+  "nFiles": 79,
+  "blank": 290,
+  "comment": 364,
+  "code": 1573},
+"EEx" :{
+  "nFiles": 38,
+  "blank": 87,
+  "comment": 0,
+  "code": 797},
+"Elm" :{
+  "nFiles": 3,
+  "blank": 58,
+  "comment": 7,
+  "code": 334},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 47,
+  "comment": 4,
+  "code": 208},
+"JavaScript" :{
+  "nFiles": 5,
+  "blank": 33,
+  "comment": 93,
+  "code": 165},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 102},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 75},
+"PO File" :{
+  "nFiles": 1,
+  "blank": 21,
+  "comment": 19,
+  "code": 57},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 16},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 573,
+  "comment": 488,
+  "code": 3361,
+  "nFiles": 137} }

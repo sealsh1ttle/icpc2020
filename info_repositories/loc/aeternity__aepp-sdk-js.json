@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 33.5555329322815,
+  "n_files"            : 165,
+  "n_lines"            : 45843,
+  "files_per_second"   : 4.9172218582547,
+  "lines_per_second"   : 1366.18304029073,
+  "report_file"        : "loc/aeternity__aepp-sdk-js.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 12458},
+"JavaScript" :{
+  "nFiles": 87,
+  "blank": 1391,
+  "comment": 4664,
+  "code": 10390},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 10,
+  "comment": 0,
+  "code": 9109},
+"Markdown" :{
+  "nFiles": 53,
+  "blank": 2117,
+  "comment": 0,
+  "code": 5027},
+"Vuejs Component" :{
+  "nFiles": 3,
+  "blank": 22,
+  "comment": 11,
+  "code": 344},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 7,
+  "code": 165},
+"Handlebars" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 1,
+  "code": 27},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 2,
+  "code": 14},
+"Lisp" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"CSS" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 55,
+  "code": 3},
+"SUM": {
+  "blank": 3563,
+  "comment": 4740,
+  "code": 37540,
+  "nFiles": 165} }

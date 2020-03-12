@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 75.8101689815521,
+  "n_files"            : 128,
+  "n_lines"            : 19090,
+  "files_per_second"   : 1.6884278417998,
+  "lines_per_second"   : 251.813183593423,
+  "report_file"        : "loc/aeternity__aepp-sophia-examples.json"},
+"JavaScript" :{
+  "nFiles": 58,
+  "blank": 3005,
+  "comment": 1736,
+  "code": 11752},
+"JSON" :{
+  "nFiles": 29,
+  "blank": 0,
+  "comment": 0,
+  "code": 569},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 83,
+  "comment": 6,
+  "code": 529},
+"Markdown" :{
+  "nFiles": 15,
+  "blank": 157,
+  "comment": 0,
+  "code": 522},
+"Handlebars" :{
+  "nFiles": 9,
+  "blank": 155,
+  "comment": 5,
+  "code": 509},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 10,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 3,
+  "code": 12},
+"SUM": {
+  "blank": 3413,
+  "comment": 1760,
+  "code": 13917,
+  "nFiles": 128} }

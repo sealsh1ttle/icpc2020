@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.2727270126343,
+  "n_files"            : 134,
+  "n_lines"            : 35955,
+  "files_per_second"   : 4.73954988282946,
+  "lines_per_second"   : 1271.72026893383,
+  "report_file"        : "loc/aeternity__aepp-waellet.json"},
+"JSON" :{
+  "nFiles": 15,
+  "blank": 3,
+  "comment": 0,
+  "code": 18624},
+"Vuejs Component" :{
+  "nFiles": 43,
+  "blank": 414,
+  "comment": 72,
+  "code": 7771},
+"JavaScript" :{
+  "nFiles": 66,
+  "blank": 705,
+  "comment": 96,
+  "code": 7418},
+"Sass" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 2,
+  "code": 539},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 43,
+  "comment": 0,
+  "code": 109},
+"HTML" :{
+  "nFiles": 4,
+  "blank": 3,
+  "comment": 0,
+  "code": 60},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 59},
+"SUM": {
+  "blank": 1205,
+  "comment": 170,
+  "code": 34580,
+  "nFiles": 134} }

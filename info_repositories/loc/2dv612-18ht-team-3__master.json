@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.388452053070068,
+  "n_files"            : 49,
+  "n_lines"            : 19785,
+  "files_per_second"   : 126.141693969015,
+  "lines_per_second"   : 50932.926840346,
+  "report_file"        : "loc/2dv612-18ht-team-3__master.json"},
+"JSON" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 16391},
+"Vuejs Component" :{
+  "nFiles": 18,
+  "blank": 129,
+  "comment": 116,
+  "code": 1689},
+"JavaScript" :{
+  "nFiles": 23,
+  "blank": 69,
+  "comment": 77,
+  "code": 1255},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 29},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 19},
+"SUM": {
+  "blank": 206,
+  "comment": 196,
+  "code": 19383,
+  "nFiles": 49} }

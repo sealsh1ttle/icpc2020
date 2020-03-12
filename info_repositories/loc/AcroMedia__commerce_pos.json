@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.54539680480957,
+  "n_files"            : 111,
+  "n_lines"            : 15848,
+  "files_per_second"   : 71.8262129535578,
+  "lines_per_second"   : 10254.9713773692,
+  "report_file"        : "loc/AcroMedia__commerce_pos.json"},
+"Pascal" :{
+  "nFiles": 35,
+  "blank": 947,
+  "comment": 2765,
+  "code": 2909},
+"Sass" :{
+  "nFiles": 16,
+  "blank": 496,
+  "comment": 83,
+  "code": 2772},
+"PHP" :{
+  "nFiles": 30,
+  "blank": 483,
+  "comment": 1304,
+  "code": 2083},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 282,
+  "comment": 144,
+  "code": 1259},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 35,
+  "comment": 0,
+  "code": 95},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 46,
+  "code": 57},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 7,
+  "code": 9},
+"CSS" :{
+  "nFiles": 8,
+  "blank": 8,
+  "comment": 8,
+  "code": 8},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 2279,
+  "comment": 4357,
+  "code": 9212,
+  "nFiles": 111} }

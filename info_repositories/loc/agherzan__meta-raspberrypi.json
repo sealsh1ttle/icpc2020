@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 35.7884700298309,
+  "n_files"            : 67,
+  "n_lines"            : 10499,
+  "files_per_second"   : 1.8721113236792,
+  "lines_per_second"   : 293.362638616535,
+  "report_file"        : "loc/agherzan__meta-raspberrypi.json"},
+"diff" :{
+  "nFiles": 55,
+  "blank": 486,
+  "comment": 1499,
+  "code": 4162},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 1,
+  "code": 3206},
+"Markdown" :{
+  "nFiles": 7,
+  "blank": 179,
+  "comment": 0,
+  "code": 345},
+"make" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 5,
+  "code": 190},
+"Python" :{
+  "nFiles": 1,
+  "blank": 73,
+  "comment": 236,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 11,
+  "code": 10},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 11,
+  "code": 8},
+"SUM": {
+  "blank": 781,
+  "comment": 1763,
+  "code": 7955,
+  "nFiles": 67} }

@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.4009108543396,
+  "n_files"            : 23,
+  "n_lines"            : 7056,
+  "files_per_second"   : 6.76289411427875,
+  "lines_per_second"   : 2074.73829871091,
+  "report_file"        : "loc/a2exfr__Catalog-Easy.json"},
+"PHP" :{
+  "nFiles": 5,
+  "blank": 1230,
+  "comment": 163,
+  "code": 2590},
+"CSS" :{
+  "nFiles": 5,
+  "blank": 42,
+  "comment": 167,
+  "code": 1748},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 237,
+  "comment": 73,
+  "code": 688},
+"INI" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 45},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 36},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 1532,
+  "comment": 403,
+  "code": 5121,
+  "nFiles": 23} }

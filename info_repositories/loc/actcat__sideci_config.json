@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5.51289200782776,
+  "n_files"            : 18,
+  "n_lines"            : 7822,
+  "files_per_second"   : 3.26507393477721,
+  "lines_per_second"   : 1418.85601765707,
+  "report_file"        : "loc/actcat__sideci_config.json"},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 1138,
+  "comment": 1360,
+  "code": 5219},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 7,
+  "code": 27},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 22},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 19},
+"INI" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 1151,
+  "comment": 1367,
+  "code": 5304,
+  "nFiles": 18} }

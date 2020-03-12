@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 42.6195931434631,
+  "n_files"            : 4493,
+  "n_lines"            : 692729,
+  "files_per_second"   : 105.420996978455,
+  "lines_per_second"   : 16253.7684878451,
+  "report_file"        : "loc/0xd4d__dnSpy.json"},
+"C#" :{
+  "nFiles": 4121,
+  "blank": 76096,
+  "comment": 118180,
+  "code": 354358},
+"XML" :{
+  "nFiles": 198,
+  "blank": 2200,
+  "comment": 9249,
+  "code": 95969},
+"XAML" :{
+  "nFiles": 121,
+  "blank": 1448,
+  "comment": 1950,
+  "code": 20300},
+"SKILL" :{
+  "nFiles": 1,
+  "blank": 1240,
+  "comment": 37,
+  "code": 9105},
+"MSBuild script" :{
+  "nFiles": 33,
+  "blank": 247,
+  "comment": 18,
+  "code": 1049},
+"Visual Basic" :{
+  "nFiles": 11,
+  "blank": 176,
+  "comment": 118,
+  "code": 666},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 0,
+  "code": 96},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 16,
+  "comment": 5,
+  "code": 74},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 2,
+  "code": 64},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 81472,
+  "comment": 129559,
+  "code": 481698,
+  "nFiles": 4493} }

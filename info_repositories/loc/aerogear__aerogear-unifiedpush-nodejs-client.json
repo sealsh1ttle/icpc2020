@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.18655395507812,
+  "n_files"            : 21,
+  "n_lines"            : 3357,
+  "files_per_second"   : 5.01605860699056,
+  "lines_per_second"   : 801.852797317491,
+  "report_file"        : "loc/aerogear__aerogear-unifiedpush-nodejs-client.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 1749},
+"JavaScript" :{
+  "nFiles": 9,
+  "blank": 127,
+  "comment": 133,
+  "code": 916},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 64,
+  "comment": 0,
+  "code": 181},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 2,
+  "code": 125},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 5,
+  "code": 40},
+"SUM": {
+  "blank": 206,
+  "comment": 140,
+  "code": 3011,
+  "nFiles": 21} }

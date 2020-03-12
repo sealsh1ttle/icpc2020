@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.97548389434814,
+  "n_files"            : 262,
+  "n_lines"            : 33758,
+  "files_per_second"   : 88.0529047721153,
+  "lines_per_second"   : 11345.3815240346,
+  "report_file"        : "loc/Adyen__adyen-magento2.json"},
+"PHP" :{
+  "nFiles": 190,
+  "blank": 2573,
+  "comment": 9211,
+  "code": 11393},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 59,
+  "comment": 73,
+  "code": 2975},
+"XML" :{
+  "nFiles": 40,
+  "blank": 89,
+  "comment": 867,
+  "code": 2304},
+"JavaScript" :{
+  "nFiles": 16,
+  "blank": 231,
+  "comment": 645,
+  "code": 2044},
+"HTML" :{
+  "nFiles": 7,
+  "blank": 120,
+  "comment": 282,
+  "code": 646},
+"XSD" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 46,
+  "code": 78},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 0,
+  "code": 57},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"SUM": {
+  "blank": 3094,
+  "comment": 11124,
+  "code": 19540,
+  "nFiles": 262} }

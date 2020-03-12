@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.1482419967651,
+  "n_files"            : 42,
+  "n_lines"            : 5482,
+  "files_per_second"   : 4.13864785776571,
+  "lines_per_second"   : 540.192084673133,
+  "report_file"        : "loc/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod__dropzone_ruby.json"},
+"Ruby" :{
+  "nFiles": 40,
+  "blank": 1143,
+  "comment": 274,
+  "code": 3962},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 0,
+  "code": 74},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1167,
+  "comment": 274,
+  "code": 4041,
+  "nFiles": 42} }

@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 53.9131200313568,
+  "n_files"            : 318,
+  "n_lines"            : 53516,
+  "files_per_second"   : 5.89837872145121,
+  "lines_per_second"   : 992.634074393657,
+  "report_file"        : "loc/aerogear__mobile-developer-console.json"},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 0,
+  "comment": 0,
+  "code": 18447},
+"CSS" :{
+  "nFiles": 34,
+  "blank": 2349,
+  "comment": 113,
+  "code": 15265},
+"JavaScript" :{
+  "nFiles": 205,
+  "blank": 1572,
+  "comment": 530,
+  "code": 12908},
+"Sass" :{
+  "nFiles": 30,
+  "blank": 144,
+  "comment": 0,
+  "code": 784},
+"YAML" :{
+  "nFiles": 12,
+  "blank": 13,
+  "comment": 6,
+  "code": 556},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 25,
+  "comment": 48,
+  "code": 200},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 74,
+  "comment": 0,
+  "code": 172},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 32,
+  "comment": 10,
+  "code": 117},
+"make" :{
+  "nFiles": 1,
+  "blank": 12,
+  "comment": 0,
+  "code": 45},
+"XML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 3,
+  "code": 24},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 20,
+  "code": 18},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 9},
+"SVG" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 4234,
+  "comment": 730,
+  "code": 48552,
+  "nFiles": 318} }

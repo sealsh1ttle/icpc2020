@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.5762140750885,
+  "n_files"            : 17,
+  "n_lines"            : 10219,
+  "files_per_second"   : 4.75363041558951,
+  "lines_per_second"   : 2857.49113040642,
+  "report_file"        : "loc/adrian621__Drawline.json"},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 1001,
+  "comment": 13,
+  "code": 5711},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 663,
+  "comment": 305,
+  "code": 2363},
+"EJS" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 1,
+  "code": 106},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 35},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 5},
+"SUM": {
+  "blank": 1680,
+  "comment": 319,
+  "code": 8220,
+  "nFiles": 17} }

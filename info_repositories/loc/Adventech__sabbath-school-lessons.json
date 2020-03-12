@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8866.66622495651,
+  "n_files"            : 44508,
+  "n_lines"            : 898450,
+  "files_per_second"   : 5.01969949818634,
+  "lines_per_second"   : 101.328952416319,
+  "report_file"        : "loc/Adventech__sabbath-school-lessons.json"},
+"Markdown" :{
+  "nFiles": 39255,
+  "blank": 325289,
+  "comment": 0,
+  "code": 536456},
+"YAML" :{
+  "nFiles": 5228,
+  "blank": 1,
+  "comment": 0,
+  "code": 22475},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 777,
+  "comment": 6,
+  "code": 5668},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 3736},
+"JavaScript" :{
+  "nFiles": 10,
+  "blank": 256,
+  "comment": 111,
+  "code": 2741},
+"HTML" :{
+  "nFiles": 8,
+  "blank": 56,
+  "comment": 1,
+  "code": 419},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 49,
+  "comment": 1,
+  "code": 396},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 11},
+"SUM": {
+  "blank": 326428,
+  "comment": 120,
+  "code": 571902,
+  "nFiles": 44508} }

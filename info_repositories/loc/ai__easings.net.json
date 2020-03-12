@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.830621004104614,
+  "n_files"            : 115,
+  "n_lines"            : 6190,
+  "files_per_second"   : 138.450628423449,
+  "lines_per_second"   : 7452.25556470564,
+  "report_file"        : "loc/ai__easings.net.json"},
+"CSS" :{
+  "nFiles": 31,
+  "blank": 378,
+  "comment": 1,
+  "code": 1691},
+"YAML" :{
+  "nFiles": 31,
+  "blank": 212,
+  "comment": 0,
+  "code": 1468},
+"TypeScript" :{
+  "nFiles": 23,
+  "blank": 151,
+  "comment": 60,
+  "code": 809},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 119,
+  "comment": 86,
+  "code": 645},
+"Pug" :{
+  "nFiles": 17,
+  "blank": 58,
+  "comment": 0,
+  "code": 345},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 124},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 27},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 932,
+  "comment": 147,
+  "code": 5111,
+  "nFiles": 115} }

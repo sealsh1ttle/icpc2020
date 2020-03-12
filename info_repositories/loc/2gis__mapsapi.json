@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 91.123880147934,
+  "n_files"            : 529,
+  "n_lines"            : 121028,
+  "files_per_second"   : 5.80528396224131,
+  "lines_per_second"   : 1328.16995724412,
+  "report_file"        : "loc/2gis__mapsapi.json"},
+"JavaScript" :{
+  "nFiles": 249,
+  "blank": 10190,
+  "comment": 8034,
+  "code": 54078},
+"Markdown" :{
+  "nFiles": 74,
+  "blank": 3324,
+  "comment": 0,
+  "code": 21840},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 18,
+  "comment": 0,
+  "code": 14971},
+"LESS" :{
+  "nFiles": 67,
+  "blank": 375,
+  "comment": 19,
+  "code": 2110},
+"Python" :{
+  "nFiles": 33,
+  "blank": 348,
+  "comment": 1093,
+  "code": 1706},
+"HTML" :{
+  "nFiles": 23,
+  "blank": 241,
+  "comment": 0,
+  "code": 1561},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 62,
+  "comment": 7,
+  "code": 588},
+"SVG" :{
+  "nFiles": 64,
+  "blank": 0,
+  "comment": 0,
+  "code": 319},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 14,
+  "comment": 1,
+  "code": 61},
+"Mustache" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 15},
+"INI" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 23,
+  "code": 14},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"SUM": {
+  "blank": 14580,
+  "comment": 9177,
+  "code": 97271,
+  "nFiles": 529} }

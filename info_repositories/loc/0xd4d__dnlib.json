@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.25016188621521,
+  "n_files"            : 383,
+  "n_lines"            : 91072,
+  "files_per_second"   : 117.840284086895,
+  "lines_per_second"   : 28020.7581001612,
+  "report_file"        : "loc/0xd4d__dnlib.json"},
+"C#" :{
+  "nFiles": 378,
+  "blank": 10696,
+  "comment": 25230,
+  "code": 54355},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 168,
+  "comment": 0,
+  "code": 452},
+"MSBuild script" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 2,
+  "code": 70},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 1,
+  "code": 37},
+"PowerShell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 4,
+  "code": 24},
+"SUM": {
+  "blank": 10897,
+  "comment": 25237,
+  "code": 54938,
+  "nFiles": 383} }

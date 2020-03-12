@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 47.2018539905548,
+  "n_files"            : 173,
+  "n_lines"            : 28707,
+  "files_per_second"   : 3.66511027373242,
+  "lines_per_second"   : 608.175263745876,
+  "report_file"        : "loc/adrianhall__azure-sdk.json"},
+"Markdown" :{
+  "nFiles": 96,
+  "blank": 3960,
+  "comment": 0,
+  "code": 8412},
+"CSS" :{
+  "nFiles": 9,
+  "blank": 1468,
+  "comment": 67,
+  "code": 7790},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3479},
+"HTML" :{
+  "nFiles": 43,
+  "blank": 148,
+  "comment": 46,
+  "code": 918},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 313,
+  "comment": 531,
+  "code": 898},
+"YAML" :{
+  "nFiles": 13,
+  "blank": 38,
+  "comment": 10,
+  "code": 540},
+"XML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 0,
+  "code": 52},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 5935,
+  "comment": 654,
+  "code": 22118,
+  "nFiles": 173} }

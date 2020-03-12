@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.88256883621216,
+  "n_files"            : 13,
+  "n_lines"            : 880,
+  "files_per_second"   : 6.90545798376052,
+  "lines_per_second"   : 467.44638659302,
+  "report_file"        : "loc/aerogear__trira.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 100,
+  "comment": 18,
+  "code": 549},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 45,
+  "comment": 0,
+  "code": 128},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"SUM": {
+  "blank": 145,
+  "comment": 18,
+  "code": 717,
+  "nFiles": 13} }

@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.588412046432495,
+  "n_files"            : 5,
+  "n_lines"            : 149,
+  "files_per_second"   : 8.49744669626443,
+  "lines_per_second"   : 253.22391154868,
+  "report_file"        : "loc/42cs__personal-assistant.json"},
+"Python" :{
+  "nFiles": 2,
+  "blank": 17,
+  "comment": 19,
+  "code": 66},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 16,
+  "comment": 0,
+  "code": 17},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 33,
+  "comment": 19,
+  "code": 97,
+  "nFiles": 5} }

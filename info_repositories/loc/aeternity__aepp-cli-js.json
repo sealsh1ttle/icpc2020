@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 14.9187860488892,
+  "n_files"            : 73,
+  "n_lines"            : 20243,
+  "files_per_second"   : 4.89315952120887,
+  "lines_per_second"   : 1356.87983818947,
+  "report_file"        : "loc/aeternity__aepp-cli-js.json"},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 6674},
+"Markdown" :{
+  "nFiles": 28,
+  "blank": 4774,
+  "comment": 0,
+  "code": 4199},
+"JavaScript" :{
+  "nFiles": 34,
+  "blank": 452,
+  "comment": 1106,
+  "code": 2739},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 13,
+  "comment": 7,
+  "code": 165},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 10,
+  "comment": 0,
+  "code": 70},
+"Handlebars" :{
+  "nFiles": 4,
+  "blank": 6,
+  "comment": 1,
+  "code": 27},
+"SUM": {
+  "blank": 5255,
+  "comment": 1114,
+  "code": 13874,
+  "nFiles": 73} }

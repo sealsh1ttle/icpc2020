@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.0892429351807,
+  "n_files"            : 175,
+  "n_lines"            : 218389,
+  "files_per_second"   : 4.47693500460451,
+  "lines_per_second"   : 5586.93347840329,
+  "report_file"        : "loc/aerogear__data-sync-ui.json"},
+"SVG" :{
+  "nFiles": 42,
+  "blank": 0,
+  "comment": 28,
+  "code": 194757},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 17171},
+"JavaScript" :{
+  "nFiles": 79,
+  "blank": 710,
+  "comment": 156,
+  "code": 4325},
+"CSS" :{
+  "nFiles": 27,
+  "blank": 104,
+  "comment": 18,
+  "code": 603},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 61,
+  "comment": 0,
+  "code": 175},
+"GraphQL" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 113},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 4,
+  "comment": 3,
+  "code": 67},
+"Bourne Shell" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 4,
+  "code": 32},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 2,
+  "code": 19},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 907,
+  "comment": 211,
+  "code": 217271,
+  "nFiles": 175} }

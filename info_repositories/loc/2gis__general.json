@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 4.88389801979065,
+  "n_files"            : 25,
+  "n_lines"            : 12168,
+  "files_per_second"   : 5.11886200299318,
+  "lines_per_second"   : 2491.45251409684,
+  "report_file"        : "loc/2gis__general.json"},
+"JSON" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 0,
+  "code": 10027},
+"TypeScript" :{
+  "nFiles": 11,
+  "blank": 264,
+  "comment": 115,
+  "code": 1408},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 12,
+  "code": 143},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 30,
+  "comment": 0,
+  "code": 97},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 20},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 13},
+"SUM": {
+  "blank": 303,
+  "comment": 127,
+  "code": 11738,
+  "nFiles": 25} }

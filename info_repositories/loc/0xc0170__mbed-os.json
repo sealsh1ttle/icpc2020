@@ -1,0 +1,109 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 5074.35267400742,
+  "n_files"            : 15768,
+  "n_lines"            : 9285628,
+  "files_per_second"   : 3.10739142763354,
+  "lines_per_second"   : 1829.91380310718,
+  "report_file"        : "loc/0xc0170__mbed-os.json"},
+"C/C++ Header" :{
+  "nFiles": 8293,
+  "blank": 458359,
+  "comment": 1604086,
+  "code": 3104310},
+"C" :{
+  "nFiles": 5154,
+  "blank": 397864,
+  "comment": 917795,
+  "code": 1747578},
+"JSON" :{
+  "nFiles": 255,
+  "blank": 34,
+  "comment": 0,
+  "code": 492538},
+"C++" :{
+  "nFiles": 1050,
+  "blank": 45014,
+  "comment": 39194,
+  "code": 204360},
+"Assembly" :{
+  "nFiles": 500,
+  "blank": 23199,
+  "comment": 41304,
+  "code": 133258},
+"Python" :{
+  "nFiles": 214,
+  "blank": 6773,
+  "comment": 9046,
+  "code": 28421},
+"Markdown" :{
+  "nFiles": 130,
+  "blank": 5288,
+  "comment": 0,
+  "code": 14148},
+"Bourne Shell" :{
+  "nFiles": 25,
+  "blank": 410,
+  "comment": 204,
+  "code": 2427},
+"CMake" :{
+  "nFiles": 57,
+  "blank": 876,
+  "comment": 1990,
+  "code": 1871},
+"make" :{
+  "nFiles": 31,
+  "blank": 420,
+  "comment": 684,
+  "code": 1820},
+"XML" :{
+  "nFiles": 33,
+  "blank": 0,
+  "comment": 0,
+  "code": 719},
+"YAML" :{
+  "nFiles": 5,
+  "blank": 65,
+  "comment": 91,
+  "code": 518},
+"INI" :{
+  "nFiles": 6,
+  "blank": 3,
+  "comment": 0,
+  "code": 207},
+"HTML" :{
+  "nFiles": 5,
+  "blank": 10,
+  "comment": 5,
+  "code": 201},
+"Oracle Forms" :{
+  "nFiles": 4,
+  "blank": 45,
+  "comment": 0,
+  "code": 159},
+"XSLT" :{
+  "nFiles": 1,
+  "blank": 10,
+  "comment": 0,
+  "code": 91},
+"Bourne Again Shell" :{
+  "nFiles": 3,
+  "blank": 16,
+  "comment": 34,
+  "code": 85},
+"Perl" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 1,
+  "code": 82},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 938400,
+  "comment": 2614434,
+  "code": 5732794,
+  "nFiles": 15768} }

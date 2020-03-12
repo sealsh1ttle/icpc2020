@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.202955961227417,
+  "n_files"            : 22,
+  "n_lines"            : 1741,
+  "files_per_second"   : 108.397900051571,
+  "lines_per_second"   : 8578.2156358993,
+  "report_file"        : "loc/acl-services__creek.json"},
+"Ruby" :{
+  "nFiles": 19,
+  "blank": 191,
+  "comment": 86,
+  "code": 794},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 670},
+"SUM": {
+  "blank": 191,
+  "comment": 86,
+  "code": 1464,
+  "nFiles": 22} }

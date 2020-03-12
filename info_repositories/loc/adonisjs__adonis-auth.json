@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.8187561035156,
+  "n_files"            : 58,
+  "n_lines"            : 10041,
+  "files_per_second"   : 4.52461998119249,
+  "lines_per_second"   : 783.305331571617,
+  "report_file"        : "loc/adonisjs__adonis-auth.json"},
+"JavaScript" :{
+  "nFiles": 45,
+  "blank": 1393,
+  "comment": 2216,
+  "code": 5494},
+"Markdown" :{
+  "nFiles": 8,
+  "blank": 280,
+  "comment": 0,
+  "code": 348},
+"Mustache" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 171},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 101},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 29},
+"SUM": {
+  "blank": 1682,
+  "comment": 2216,
+  "code": 6143,
+  "nFiles": 58} }

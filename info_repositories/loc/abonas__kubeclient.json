@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 24.281042098999,
+  "n_files"            : 111,
+  "n_lines"            : 10525,
+  "files_per_second"   : 4.57146771326491,
+  "lines_per_second"   : 433.465744883902,
+  "report_file"        : "loc/abonas__kubeclient.json"},
+"JSON" :{
+  "nFiles": 59,
+  "blank": 7,
+  "comment": 0,
+  "code": 4064},
+"Ruby" :{
+  "nFiles": 46,
+  "blank": 709,
+  "comment": 204,
+  "code": 3618},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 0,
+  "code": 936},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 274,
+  "comment": 0,
+  "code": 711},
+"SUM": {
+  "blank": 992,
+  "comment": 204,
+  "code": 9329,
+  "nFiles": 111} }

@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 20.6431679725647,
+  "n_files"            : 77,
+  "n_lines"            : 2747,
+  "files_per_second"   : 3.73004764105659,
+  "lines_per_second"   : 133.070660649123,
+  "report_file"        : "loc/aerogear__cordova-showcase-template.json"},
+"TypeScript" :{
+  "nFiles": 26,
+  "blank": 115,
+  "comment": 41,
+  "code": 863},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 50,
+  "comment": 18,
+  "code": 423},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 2,
+  "comment": 0,
+  "code": 271},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 72,
+  "comment": 0,
+  "code": 178},
+"SVG" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 2,
+  "code": 155},
+"Sass" :{
+  "nFiles": 15,
+  "blank": 67,
+  "comment": 55,
+  "code": 138},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 105},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 0,
+  "code": 86},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 1,
+  "code": 34},
+"JavaScript" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 8,
+  "code": 23},
+"SUM": {
+  "blank": 346,
+  "comment": 125,
+  "code": 2276,
+  "nFiles": 77} }

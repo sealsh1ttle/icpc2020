@@ -1,0 +1,69 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 10.9121909141541,
+  "n_files"            : 130,
+  "n_lines"            : 41603,
+  "files_per_second"   : 11.9132813037003,
+  "lines_per_second"   : 3812.52493906034,
+  "report_file"        : "loc/3drobotics__solodevguide.json"},
+"XML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 32,
+  "code": 33271},
+"LESS" :{
+  "nFiles": 23,
+  "blank": 480,
+  "comment": 306,
+  "code": 2314},
+"Markdown" :{
+  "nFiles": 32,
+  "blank": 811,
+  "comment": 0,
+  "code": 1406},
+"JavaScript" :{
+  "nFiles": 21,
+  "blank": 143,
+  "comment": 92,
+  "code": 702},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 2,
+  "comment": 1,
+  "code": 525},
+"JSON" :{
+  "nFiles": 23,
+  "blank": 0,
+  "comment": 0,
+  "code": 469},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 50,
+  "comment": 11,
+  "code": 448},
+"Python" :{
+  "nFiles": 8,
+  "blank": 74,
+  "comment": 63,
+  "code": 359},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 22},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 6},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 1573,
+  "comment": 505,
+  "code": 39525,
+  "nFiles": 130} }

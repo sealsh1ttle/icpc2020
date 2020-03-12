@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 52.2743971347809,
+  "n_files"            : 241,
+  "n_lines"            : 26373,
+  "files_per_second"   : 4.61028750611167,
+  "lines_per_second"   : 504.510839828561,
+  "report_file"        : "loc/Adventech__sabbath-school-android.json"},
+"XML" :{
+  "nFiles": 106,
+  "blank": 709,
+  "comment": 2244,
+  "code": 6573},
+"Bourne Again Shell" :{
+  "nFiles": 2,
+  "blank": 19,
+  "comment": 20,
+  "code": 5601},
+"Java" :{
+  "nFiles": 70,
+  "blank": 1147,
+  "comment": 1599,
+  "code": 4676},
+"HTML" :{
+  "nFiles": 2,
+  "blank": 20,
+  "comment": 21,
+  "code": 1323},
+"JSON" :{
+  "nFiles": 40,
+  "blank": 73,
+  "comment": 0,
+  "code": 1025},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 59,
+  "comment": 0,
+  "code": 311},
+"JavaScript" :{
+  "nFiles": 7,
+  "blank": 47,
+  "comment": 51,
+  "code": 223},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 36,
+  "comment": 66,
+  "code": 146},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 22,
+  "comment": 2,
+  "code": 91},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 0,
+  "code": 74},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 2,
+  "code": 64},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 12,
+  "code": 37},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 23},
+"SUM": {
+  "blank": 2189,
+  "comment": 4017,
+  "code": 20167,
+  "nFiles": 241} }

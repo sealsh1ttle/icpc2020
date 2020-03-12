@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.540627956390381,
+  "n_files"            : 6,
+  "n_lines"            : 201,
+  "files_per_second"   : 11.0982052057764,
+  "lines_per_second"   : 371.789874393511,
+  "report_file"        : "loc/2gis__cross-domain-analytics.json"},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 23,
+  "comment": 3,
+  "code": 103},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 54},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 14},
+"SUM": {
+  "blank": 27,
+  "comment": 3,
+  "code": 171,
+  "nFiles": 6} }

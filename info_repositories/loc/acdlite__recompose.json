@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.0983669757843,
+  "n_files"            : 154,
+  "n_lines"            : 7369,
+  "files_per_second"   : 5.48074555837071,
+  "lines_per_second"   : 262.257233893726,
+  "report_file"        : "loc/acdlite__recompose.json"},
+"JavaScript" :{
+  "nFiles": 134,
+  "blank": 795,
+  "comment": 371,
+  "code": 4180},
+"Markdown" :{
+  "nFiles": 10,
+  "blank": 465,
+  "comment": 0,
+  "code": 1263},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 225},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 27},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 20,
+  "code": 17},
+"SUM": {
+  "blank": 1266,
+  "comment": 391,
+  "code": 5712,
+  "nFiles": 154} }

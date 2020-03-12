@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 15.7713928222656,
+  "n_files"            : 54,
+  "n_lines"            : 11113,
+  "files_per_second"   : 3.42392080449383,
+  "lines_per_second"   : 704.630220376666,
+  "report_file"        : "loc/adrian621__weco.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 7512},
+"JavaScript" :{
+  "nFiles": 20,
+  "blank": 335,
+  "comment": 228,
+  "code": 1538},
+"Java" :{
+  "nFiles": 6,
+  "blank": 105,
+  "comment": 31,
+  "code": 453},
+"XML" :{
+  "nFiles": 7,
+  "blank": 6,
+  "comment": 4,
+  "code": 210},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 20,
+  "comment": 21,
+  "code": 123},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 89,
+  "code": 80},
+"Objective C" :{
+  "nFiles": 3,
+  "blank": 26,
+  "comment": 24,
+  "code": 75},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 24,
+  "comment": 2,
+  "code": 71},
+"ProGuard" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 25,
+  "code": 31},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 5,
+  "comment": 0,
+  "code": 13},
+"Python" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 12},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 8,
+  "code": 4},
+"SUM": {
+  "blank": 557,
+  "comment": 434,
+  "code": 10122,
+  "nFiles": 54} }

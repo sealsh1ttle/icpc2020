@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.378253936767578,
+  "n_files"            : 2,
+  "n_lines"            : 183,
+  "files_per_second"   : 5.2874532307351,
+  "lines_per_second"   : 483.801970612261,
+  "report_file"        : "loc/a-sk__node-imapnotify.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 0,
+  "code": 117},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"SUM": {
+  "blank": 36,
+  "comment": 0,
+  "code": 147,
+  "nFiles": 2} }

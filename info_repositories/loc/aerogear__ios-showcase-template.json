@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 34.0227828025818,
+  "n_files"            : 115,
+  "n_lines"            : 6779,
+  "files_per_second"   : 3.38008800359721,
+  "lines_per_second"   : 199.248839794656,
+  "report_file"        : "loc/aerogear__ios-showcase-template.json"},
+"Swift" :{
+  "nFiles": 58,
+  "blank": 687,
+  "comment": 898,
+  "code": 2643},
+"XML" :{
+  "nFiles": 6,
+  "blank": 5,
+  "comment": 14,
+  "code": 1145},
+"JSON" :{
+  "nFiles": 41,
+  "blank": 1,
+  "comment": 0,
+  "code": 970},
+"Markdown" :{
+  "nFiles": 4,
+  "blank": 35,
+  "comment": 0,
+  "code": 126},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 7,
+  "comment": 18,
+  "code": 111},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 29,
+  "comment": 0,
+  "code": 53},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 7,
+  "code": 14},
+"C/C++ Header" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 778,
+  "comment": 937,
+  "code": 5064,
+  "nFiles": 115} }

@@ -1,0 +1,314 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 392.821673154831,
+  "n_files"            : 711,
+  "n_lines"            : 9859,
+  "files_per_second"   : 1.8099815987489,
+  "lines_per_second"   : 25.0979023657742,
+  "report_file"        : "loc/1995parham__github-do-not-ban-us.json"},
+"JSON" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2784},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 532,
+  "comment": 0,
+  "code": 2062},
+"JavaScript" :{
+  "nFiles": 107,
+  "blank": 75,
+  "comment": 56,
+  "code": 447},
+"C++" :{
+  "nFiles": 47,
+  "blank": 70,
+  "comment": 27,
+  "code": 338},
+"C#" :{
+  "nFiles": 34,
+  "blank": 34,
+  "comment": 14,
+  "code": 332},
+"PHP" :{
+  "nFiles": 63,
+  "blank": 70,
+  "comment": 42,
+  "code": 296},
+"Java" :{
+  "nFiles": 43,
+  "blank": 27,
+  "comment": 37,
+  "code": 222},
+"C" :{
+  "nFiles": 31,
+  "blank": 43,
+  "comment": 17,
+  "code": 221},
+"HTML" :{
+  "nFiles": 15,
+  "blank": 23,
+  "comment": 2,
+  "code": 218},
+"Python" :{
+  "nFiles": 88,
+  "blank": 62,
+  "comment": 66,
+  "code": 197},
+"Go" :{
+  "nFiles": 30,
+  "blank": 64,
+  "comment": 25,
+  "code": 191},
+"Assembly" :{
+  "nFiles": 9,
+  "blank": 32,
+  "comment": 30,
+  "code": 118},
+"TypeScript" :{
+  "nFiles": 15,
+  "blank": 28,
+  "comment": 10,
+  "code": 98},
+"Bourne Shell" :{
+  "nFiles": 32,
+  "blank": 33,
+  "comment": 13,
+  "code": 75},
+"make" :{
+  "nFiles": 5,
+  "blank": 15,
+  "comment": 0,
+  "code": 67},
+"Kotlin" :{
+  "nFiles": 18,
+  "blank": 5,
+  "comment": 3,
+  "code": 63},
+"Rust" :{
+  "nFiles": 14,
+  "blank": 5,
+  "comment": 8,
+  "code": 53},
+"Brainfuck" :{
+  "nFiles": 9,
+  "blank": 1,
+  "comment": 1,
+  "code": 46},
+"Haskell" :{
+  "nFiles": 11,
+  "blank": 11,
+  "comment": 4,
+  "code": 36},
+"JSX" :{
+  "nFiles": 4,
+  "blank": 7,
+  "comment": 3,
+  "code": 35},
+"Ruby" :{
+  "nFiles": 10,
+  "blank": 5,
+  "comment": 0,
+  "code": 29},
+"XML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 26},
+"Scala" :{
+  "nFiles": 6,
+  "blank": 2,
+  "comment": 0,
+  "code": 22},
+"Vuejs Component" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 22},
+"Dart" :{
+  "nFiles": 7,
+  "blank": 1,
+  "comment": 3,
+  "code": 20},
+"MSBuild script" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 0,
+  "code": 19},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 18},
+"CSS" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 4,
+  "code": 17},
+"Perl" :{
+  "nFiles": 6,
+  "blank": 8,
+  "comment": 0,
+  "code": 16},
+"Swift" :{
+  "nFiles": 3,
+  "blank": 5,
+  "comment": 8,
+  "code": 14},
+"Visual Basic" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 12},
+"Lisp" :{
+  "nFiles": 6,
+  "blank": 0,
+  "comment": 1,
+  "code": 11},
+"Ada" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 11},
+"Racket" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 11},
+"Pascal" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 10},
+"Elixir" :{
+  "nFiles": 5,
+  "blank": 1,
+  "comment": 0,
+  "code": 10},
+"CUDA" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 10},
+"Groovy" :{
+  "nFiles": 4,
+  "blank": 1,
+  "comment": 0,
+  "code": 9},
+"D" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"Erlang" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 1,
+  "code": 7},
+"Clojure" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 7},
+"COBOL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"F#" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 6},
+"HCL" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 5},
+"Lua" :{
+  "nFiles": 5,
+  "blank": 0,
+  "comment": 0,
+  "code": 5},
+"MATLAB" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 1,
+  "code": 4},
+"Prolog" :{
+  "nFiles": 2,
+  "blank": 1,
+  "comment": 0,
+  "code": 4},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Verilog-SystemVerilog" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 4},
+"Objective C" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 3,
+  "code": 4},
+"R" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Fortran 90" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"ABAP" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 2},
+"Tcl/Tk" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 4,
+  "code": 2},
+"Fortran 77" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"DOS Batch" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"Scheme" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"Crystal" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1},
+"SUM": {
+  "blank": 1200,
+  "comment": 384,
+  "code": 8275,
+  "nFiles": 711} }

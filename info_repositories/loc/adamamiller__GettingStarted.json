@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.3765709400177,
+  "n_files"            : 2,
+  "n_lines"            : 603,
+  "files_per_second"   : 5.31108428044393,
+  "lines_per_second"   : 1601.29191055384,
+  "report_file"        : "loc/adamamiller__GettingStarted.json"},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 113,
+  "comment": 0,
+  "code": 376},
+"C Shell" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 43,
+  "code": 49},
+"SUM": {
+  "blank": 135,
+  "comment": 43,
+  "code": 425,
+  "nFiles": 2} }

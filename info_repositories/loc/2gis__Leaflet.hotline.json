@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.889694929122925,
+  "n_files"            : 10,
+  "n_lines"            : 2674,
+  "files_per_second"   : 11.2398077955307,
+  "lines_per_second"   : 3005.52460452491,
+  "report_file"        : "loc/2gis__Leaflet.hotline.json"},
+"JavaScript" :{
+  "nFiles": 8,
+  "blank": 316,
+  "comment": 372,
+  "code": 1940},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 43},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 316,
+  "comment": 372,
+  "code": 1986,
+  "nFiles": 10} }

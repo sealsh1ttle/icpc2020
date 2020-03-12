@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 6.2315731048584,
+  "n_files"            : 28,
+  "n_lines"            : 2006,
+  "files_per_second"   : 4.49324745595458,
+  "lines_per_second"   : 321.90908559446,
+  "report_file"        : "loc/aerogearcatalog__data-sync-apb.json"},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 1061},
+"YAML" :{
+  "nFiles": 23,
+  "blank": 60,
+  "comment": 20,
+  "code": 707},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 50},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 2,
+  "code": 38},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 18},
+"make" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 17},
+"SUM": {
+  "blank": 93,
+  "comment": 22,
+  "code": 1891,
+  "nFiles": 28} }

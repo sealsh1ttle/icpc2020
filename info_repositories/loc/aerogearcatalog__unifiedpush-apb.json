@@ -1,0 +1,44 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 18.9802799224854,
+  "n_files"            : 64,
+  "n_lines"            : 4158,
+  "files_per_second"   : 3.37192076520332,
+  "lines_per_second"   : 219.069477214303,
+  "report_file"        : "loc/aerogearcatalog__unifiedpush-apb.json"},
+"AsciiDoc" :{
+  "nFiles": 35,
+  "blank": 868,
+  "comment": 114,
+  "code": 1774},
+"YAML" :{
+  "nFiles": 20,
+  "blank": 56,
+  "comment": 25,
+  "code": 724},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 216},
+"Markdown" :{
+  "nFiles": 6,
+  "blank": 92,
+  "comment": 0,
+  "code": 193},
+"Groovy" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 2,
+  "code": 42},
+"make" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 31},
+"SUM": {
+  "blank": 1037,
+  "comment": 141,
+  "code": 2980,
+  "nFiles": 64} }

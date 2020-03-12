@@ -1,0 +1,54 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.5474009513855,
+  "n_files"            : 227,
+  "n_lines"            : 77560,
+  "files_per_second"   : 5.73994736794574,
+  "lines_per_second"   : 1961.19082756772,
+  "report_file"        : "loc/addyosmani__essential-js-design-patterns.json"},
+"JavaScript" :{
+  "nFiles": 132,
+  "blank": 10235,
+  "comment": 8105,
+  "code": 37309},
+"HTML" :{
+  "nFiles": 43,
+  "blank": 2488,
+  "comment": 49,
+  "code": 8931},
+"JSON" :{
+  "nFiles": 11,
+  "blank": 0,
+  "comment": 0,
+  "code": 7949},
+"CSS" :{
+  "nFiles": 10,
+  "blank": 220,
+  "comment": 113,
+  "code": 1057},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 325,
+  "comment": 0,
+  "code": 518},
+"PHP" :{
+  "nFiles": 22,
+  "blank": 28,
+  "comment": 4,
+  "code": 186},
+"XML" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 40},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 13296,
+  "comment": 8271,
+  "code": 55993,
+  "nFiles": 227} }

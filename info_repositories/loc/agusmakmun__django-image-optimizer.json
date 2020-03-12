@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.05362296104431,
+  "n_files"            : 14,
+  "n_lines"            : 613,
+  "files_per_second"   : 6.81722023252053,
+  "lines_per_second"   : 298.496857323935,
+  "report_file"        : "loc/agusmakmun__django-image-optimizer.json"},
+"Python" :{
+  "nFiles": 12,
+  "blank": 118,
+  "comment": 94,
+  "code": 298},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 36,
+  "comment": 9,
+  "code": 47},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 9},
+"SUM": {
+  "blank": 156,
+  "comment": 103,
+  "code": 354,
+  "nFiles": 14} }

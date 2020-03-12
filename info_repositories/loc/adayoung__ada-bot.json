@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.18255400657654,
+  "n_files"            : 29,
+  "n_lines"            : 1860,
+  "files_per_second"   : 9.11217843910061,
+  "lines_per_second"   : 584.436272300936,
+  "report_file"        : "loc/adayoung__ada-bot.json"},
+"Go" :{
+  "nFiles": 24,
+  "blank": 266,
+  "comment": 43,
+  "code": 1431},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 24,
+  "comment": 0,
+  "code": 81},
+"YAML" :{
+  "nFiles": 2,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 293,
+  "comment": 43,
+  "code": 1524,
+  "nFiles": 29} }

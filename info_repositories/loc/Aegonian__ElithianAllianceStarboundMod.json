@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 78.4798338413239,
+  "n_files"            : 653,
+  "n_lines"            : 260310,
+  "files_per_second"   : 8.32060884991528,
+  "lines_per_second"   : 3316.90304704663,
+  "report_file"        : "loc/Aegonian__ElithianAllianceStarboundMod.json"},
+"JSON" :{
+  "nFiles": 161,
+  "blank": 8262,
+  "comment": 0,
+  "code": 191973},
+"Lua" :{
+  "nFiles": 360,
+  "blank": 7170,
+  "comment": 3176,
+  "code": 31169},
+"diff" :{
+  "nFiles": 127,
+  "blank": 591,
+  "comment": 17547,
+  "code": 257},
+"liquid" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 0,
+  "code": 76},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 31,
+  "comment": 0,
+  "code": 50},
+"SUM": {
+  "blank": 16062,
+  "comment": 20723,
+  "code": 223525,
+  "nFiles": 653} }

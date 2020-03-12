@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 9.19460821151733,
+  "n_files"            : 58,
+  "n_lines"            : 12232,
+  "files_per_second"   : 6.30804474380411,
+  "lines_per_second"   : 1330.34488458986,
+  "report_file"        : "loc/Activiti__activiti-cloud-demo-ui.json"},
+"JSON" :{
+  "nFiles": 10,
+  "blank": 0,
+  "comment": 0,
+  "code": 10751},
+"TypeScript" :{
+  "nFiles": 33,
+  "blank": 164,
+  "comment": 74,
+  "code": 803},
+"HTML" :{
+  "nFiles": 6,
+  "blank": 27,
+  "comment": 0,
+  "code": 139},
+"JavaScript" :{
+  "nFiles": 3,
+  "blank": 6,
+  "comment": 4,
+  "code": 82},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 0,
+  "code": 54},
+"Sass" :{
+  "nFiles": 2,
+  "blank": 8,
+  "comment": 0,
+  "code": 34},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 0,
+  "code": 17},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 0,
+  "code": 13},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 2,
+  "code": 13},
+"SUM": {
+  "blank": 246,
+  "comment": 80,
+  "code": 11906,
+  "nFiles": 58} }

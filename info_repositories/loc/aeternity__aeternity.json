@@ -1,0 +1,74 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 122.451497077942,
+  "n_files"            : 570,
+  "n_lines"            : 178971,
+  "files_per_second"   : 4.6549042976354,
+  "lines_per_second"   : 1461.5664509686,
+  "report_file"        : "loc/aeternity__aeternity.json"},
+"Erlang" :{
+  "nFiles": 387,
+  "blank": 17144,
+  "comment": 11072,
+  "code": 108557},
+"JSON" :{
+  "nFiles": 56,
+  "blank": 4,
+  "comment": 0,
+  "code": 26834},
+"YAML" :{
+  "nFiles": 14,
+  "blank": 190,
+  "comment": 229,
+  "code": 5239},
+"Markdown" :{
+  "nFiles": 56,
+  "blank": 1624,
+  "comment": 0,
+  "code": 4105},
+"Python" :{
+  "nFiles": 9,
+  "blank": 299,
+  "comment": 323,
+  "code": 1130},
+"DOS Batch" :{
+  "nFiles": 13,
+  "blank": 125,
+  "comment": 0,
+  "code": 451},
+"make" :{
+  "nFiles": 5,
+  "blank": 137,
+  "comment": 28,
+  "code": 425},
+"Mustache" :{
+  "nFiles": 12,
+  "blank": 76,
+  "comment": 0,
+  "code": 406},
+"Bourne Shell" :{
+  "nFiles": 15,
+  "blank": 87,
+  "comment": 32,
+  "code": 211},
+"reStructuredText" :{
+  "nFiles": 1,
+  "blank": 35,
+  "comment": 33,
+  "code": 92},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 9,
+  "code": 21},
+"Bourne Again Shell" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 20,
+  "code": 14},
+"SUM": {
+  "blank": 19740,
+  "comment": 11746,
+  "code": 147485,
+  "nFiles": 570} }

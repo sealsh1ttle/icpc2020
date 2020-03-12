@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 8.04378604888916,
+  "n_files"            : 33,
+  "n_lines"            : 3229,
+  "files_per_second"   : 4.10254571658545,
+  "lines_per_second"   : 401.427882389527,
+  "report_file"        : "loc/aerogear__aerogear-integration-tests.json"},
+"JSON" :{
+  "nFiles": 7,
+  "blank": 0,
+  "comment": 0,
+  "code": 1791},
+"TypeScript" :{
+  "nFiles": 16,
+  "blank": 185,
+  "comment": 32,
+  "code": 871},
+"Bourne Shell" :{
+  "nFiles": 3,
+  "blank": 25,
+  "comment": 1,
+  "code": 92},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 47},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 18,
+  "comment": 0,
+  "code": 38},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 30},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 25,
+  "code": 22},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 1,
+  "comment": 0,
+  "code": 21},
+"Dockerfile" :{
+  "nFiles": 2,
+  "blank": 11,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 243,
+  "comment": 58,
+  "code": 2928,
+  "nFiles": 33} }

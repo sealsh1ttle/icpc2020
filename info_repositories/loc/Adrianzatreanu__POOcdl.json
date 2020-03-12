@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.104343891143799,
+  "n_files"            : 6,
+  "n_lines"            : 297,
+  "files_per_second"   : 57.5021683994059,
+  "lines_per_second"   : 2846.35733577059,
+  "report_file"        : "loc/Adrianzatreanu__POOcdl.json"},
+"reStructuredText" :{
+  "nFiles": 2,
+  "blank": 53,
+  "comment": 0,
+  "code": 183},
+"Java" :{
+  "nFiles": 3,
+  "blank": 18,
+  "comment": 9,
+  "code": 32},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 2},
+"SUM": {
+  "blank": 71,
+  "comment": 9,
+  "code": 217,
+  "nFiles": 6} }

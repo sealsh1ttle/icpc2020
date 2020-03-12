@@ -1,0 +1,49 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.99351191520691,
+  "n_files"            : 20,
+  "n_lines"            : 2284,
+  "files_per_second"   : 6.68111588211855,
+  "lines_per_second"   : 762.983433737938,
+  "report_file"        : "loc/agauniyal__wireframe.json"},
+"SVG" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 976},
+"Sass" :{
+  "nFiles": 9,
+  "blank": 75,
+  "comment": 6,
+  "code": 448},
+"CSS" :{
+  "nFiles": 3,
+  "blank": 103,
+  "comment": 150,
+  "code": 231},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 151},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 14,
+  "comment": 0,
+  "code": 72},
+"JSON" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 33},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 10},
+"SUM": {
+  "blank": 207,
+  "comment": 156,
+  "code": 1921,
+  "nFiles": 20} }

@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 39.3398299217224,
+  "n_files"            : 236,
+  "n_lines"            : 16988,
+  "files_per_second"   : 5.99900915864629,
+  "lines_per_second"   : 431.8269813012,
+  "report_file"        : "loc/aerogear__mobile-docs.json"},
+"AsciiDoc" :{
+  "nFiles": 209,
+  "blank": 3305,
+  "comment": 809,
+  "code": 10118},
+"JSON" :{
+  "nFiles": 3,
+  "blank": 0,
+  "comment": 0,
+  "code": 2136},
+"JavaScript" :{
+  "nFiles": 4,
+  "blank": 18,
+  "comment": 37,
+  "code": 126},
+"YAML" :{
+  "nFiles": 6,
+  "blank": 10,
+  "comment": 0,
+  "code": 124},
+"Markdown" :{
+  "nFiles": 3,
+  "blank": 20,
+  "comment": 0,
+  "code": 65},
+"XML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 55},
+"Bourne Shell" :{
+  "nFiles": 8,
+  "blank": 30,
+  "comment": 21,
+  "code": 37},
+"Ruby" :{
+  "nFiles": 1,
+  "blank": 9,
+  "comment": 20,
+  "code": 33},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 12},
+"SUM": {
+  "blank": 3395,
+  "comment": 887,
+  "code": 12706,
+  "nFiles": 236} }

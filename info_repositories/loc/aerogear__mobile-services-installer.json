@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 12.1027708053589,
+  "n_files"            : 40,
+  "n_lines"            : 1356,
+  "files_per_second"   : 3.30502829833716,
+  "lines_per_second"   : 112.04045931363,
+  "report_file"        : "loc/aerogear__mobile-services-installer.json"},
+"YAML" :{
+  "nFiles": 33,
+  "blank": 138,
+  "comment": 10,
+  "code": 892},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 33,
+  "comment": 0,
+  "code": 96},
+"Bourne Shell" :{
+  "nFiles": 4,
+  "blank": 30,
+  "comment": 1,
+  "code": 76},
+"Python" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 0,
+  "code": 67},
+"SUM": {
+  "blank": 214,
+  "comment": 11,
+  "code": 1131,
+  "nFiles": 40} }

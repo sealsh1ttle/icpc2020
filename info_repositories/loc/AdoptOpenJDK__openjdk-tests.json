@@ -1,0 +1,99 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 163.070025920868,
+  "n_files"            : 565,
+  "n_lines"            : 88314,
+  "files_per_second"   : 3.46476918004646,
+  "lines_per_second"   : 541.571018348005,
+  "report_file"        : "loc/AdoptOpenJDK__openjdk-tests.json"},
+"HTML" :{
+  "nFiles": 20,
+  "blank": 77,
+  "comment": 14,
+  "code": 26840},
+"Java" :{
+  "nFiles": 216,
+  "blank": 3541,
+  "comment": 8915,
+  "code": 18130},
+"XML" :{
+  "nFiles": 88,
+  "blank": 312,
+  "comment": 1089,
+  "code": 10825},
+"Bourne Shell" :{
+  "nFiles": 50,
+  "blank": 855,
+  "comment": 1290,
+  "code": 3808},
+"Ant" :{
+  "nFiles": 59,
+  "blank": 470,
+  "comment": 620,
+  "code": 2433},
+"Markdown" :{
+  "nFiles": 12,
+  "blank": 557,
+  "comment": 0,
+  "code": 1664},
+"Groovy" :{
+  "nFiles": 21,
+  "blank": 159,
+  "comment": 268,
+  "code": 1233},
+"SVG" :{
+  "nFiles": 3,
+  "blank": 234,
+  "comment": 0,
+  "code": 816},
+"DOS Batch" :{
+  "nFiles": 53,
+  "blank": 224,
+  "comment": 622,
+  "code": 774},
+"Dockerfile" :{
+  "nFiles": 17,
+  "blank": 178,
+  "comment": 454,
+  "code": 476},
+"Korn Shell" :{
+  "nFiles": 7,
+  "blank": 91,
+  "comment": 84,
+  "code": 315},
+"Perl" :{
+  "nFiles": 7,
+  "blank": 45,
+  "comment": 101,
+  "code": 247},
+"Visual Basic" :{
+  "nFiles": 2,
+  "blank": 9,
+  "comment": 0,
+  "code": 173},
+"make" :{
+  "nFiles": 3,
+  "blank": 14,
+  "comment": 56,
+  "code": 122},
+"XSLT" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 0,
+  "code": 80},
+"Assembly" :{
+  "nFiles": 4,
+  "blank": 11,
+  "comment": 17,
+  "code": 54},
+"INI" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 11},
+"SUM": {
+  "blank": 6783,
+  "comment": 13530,
+  "code": 68001,
+  "nFiles": 565} }

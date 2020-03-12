@@ -1,0 +1,34 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 19.62260389328,
+  "n_files"            : 93,
+  "n_lines"            : 54672,
+  "files_per_second"   : 4.73943216230588,
+  "lines_per_second"   : 2786.17457180201,
+  "report_file"        : "loc/affeldt-aist__infotheo.json"},
+"Coq" :{
+  "nFiles": 90,
+  "blank": 6561,
+  "comment": 1972,
+  "code": 45895},
+"OCaml" :{
+  "nFiles": 1,
+  "blank": 33,
+  "comment": 11,
+  "code": 114},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 6,
+  "comment": 5,
+  "code": 42},
+"make" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 22},
+"SUM": {
+  "blank": 6611,
+  "comment": 1988,
+  "code": 46073,
+  "nFiles": 93} }

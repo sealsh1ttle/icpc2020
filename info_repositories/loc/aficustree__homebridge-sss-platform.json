@@ -1,0 +1,29 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.0734071731567383,
+  "n_files"            : 6,
+  "n_lines"            : 351,
+  "files_per_second"   : 81.735881412963,
+  "lines_per_second"   : 4781.54906265834,
+  "report_file"        : "loc/aficustree__homebridge-sss-platform.json"},
+"JavaScript" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 5,
+  "code": 177},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 2,
+  "comment": 0,
+  "code": 125},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 16},
+"SUM": {
+  "blank": 28,
+  "comment": 5,
+  "code": 318,
+  "nFiles": 6} }

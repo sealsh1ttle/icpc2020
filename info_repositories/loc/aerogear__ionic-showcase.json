@@ -1,0 +1,79 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 28.1471090316772,
+  "n_files"            : 129,
+  "n_lines"            : 7839,
+  "files_per_second"   : 4.58306392513779,
+  "lines_per_second"   : 278.501070613606,
+  "report_file"        : "loc/aerogear__ionic-showcase.json"},
+"JSON" :{
+  "nFiles": 16,
+  "blank": 1,
+  "comment": 0,
+  "code": 2709},
+"TypeScript" :{
+  "nFiles": 62,
+  "blank": 353,
+  "comment": 136,
+  "code": 2005},
+"JavaScript" :{
+  "nFiles": 15,
+  "blank": 120,
+  "comment": 47,
+  "code": 761},
+"HTML" :{
+  "nFiles": 13,
+  "blank": 38,
+  "comment": 5,
+  "code": 755},
+"Sass" :{
+  "nFiles": 8,
+  "blank": 42,
+  "comment": 4,
+  "code": 230},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 3,
+  "comment": 6,
+  "code": 168},
+"AsciiDoc" :{
+  "nFiles": 1,
+  "blank": 37,
+  "comment": 0,
+  "code": 105},
+"XML" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 100},
+"Markdown" :{
+  "nFiles": 5,
+  "blank": 28,
+  "comment": 0,
+  "code": 60},
+"SVG" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 1,
+  "code": 52},
+"GraphQL" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 37},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 11},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 1,
+  "code": 7},
+"SUM": {
+  "blank": 638,
+  "comment": 201,
+  "code": 7000,
+  "nFiles": 129} }

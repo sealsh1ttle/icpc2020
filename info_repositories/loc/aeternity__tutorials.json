@@ -1,0 +1,19 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 3.98145484924316,
+  "n_files"            : 30,
+  "n_lines"            : 7163,
+  "files_per_second"   : 7.53493412231027,
+  "lines_per_second"   : 1799.09110393695,
+  "report_file"        : "loc/aeternity__tutorials.json"},
+"Markdown" :{
+  "nFiles": 30,
+  "blank": 1539,
+  "comment": 0,
+  "code": 5624},
+"SUM": {
+  "blank": 1539,
+  "comment": 0,
+  "code": 5624,
+  "nFiles": 30} }

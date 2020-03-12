@@ -1,0 +1,59 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 1.25730514526367,
+  "n_files"            : 152,
+  "n_lines"            : 42000,
+  "files_per_second"   : 120.893484427858,
+  "lines_per_second"   : 33404.7785919083,
+  "report_file"        : "loc/achaw-team-svpchicago__SVP-Chicago.json"},
+"JavaScript" :{
+  "nFiles": 6,
+  "blank": 3083,
+  "comment": 16845,
+  "code": 13946},
+"CSS" :{
+  "nFiles": 2,
+  "blank": 531,
+  "comment": 27,
+  "code": 2812},
+"ERB" :{
+  "nFiles": 48,
+  "blank": 173,
+  "comment": 0,
+  "code": 1612},
+"Ruby" :{
+  "nFiles": 83,
+  "blank": 330,
+  "comment": 705,
+  "code": 1459},
+"HTML" :{
+  "nFiles": 3,
+  "blank": 15,
+  "comment": 3,
+  "code": 182},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 17,
+  "comment": 92,
+  "code": 81},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 36},
+"Sass" :{
+  "nFiles": 4,
+  "blank": 5,
+  "comment": 9,
+  "code": 17},
+"CoffeeScript" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 3,
+  "code": 0},
+"SUM": {
+  "blank": 4171,
+  "comment": 17684,
+  "code": 20145,
+  "nFiles": 152} }

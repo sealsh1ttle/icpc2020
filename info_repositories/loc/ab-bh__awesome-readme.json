@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.638182163238525,
+  "n_files"            : 3,
+  "n_lines"            : 59,
+  "files_per_second"   : 4.70085215916435,
+  "lines_per_second"   : 92.4500924635656,
+  "report_file"        : "loc/ab-bh__awesome-readme.json"},
+"Markdown" :{
+  "nFiles": 2,
+  "blank": 14,
+  "comment": 0,
+  "code": 38},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 7},
+"SUM": {
+  "blank": 14,
+  "comment": 0,
+  "code": 45,
+  "nFiles": 3} }

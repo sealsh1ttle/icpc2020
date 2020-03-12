@@ -1,0 +1,39 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 0.157846927642822,
+  "n_files"            : 11,
+  "n_lines"            : 1523,
+  "files_per_second"   : 69.6877675369832,
+  "lines_per_second"   : 9648.58817807503,
+  "report_file"        : "loc/Abhimanyu121__mentor_backend.json"},
+"Python" :{
+  "nFiles": 6,
+  "blank": 58,
+  "comment": 54,
+  "code": 729},
+"Jupyter Notebook" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 559,
+  "code": 51},
+"INI" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 0,
+  "code": 34},
+"Mako" :{
+  "nFiles": 1,
+  "blank": 7,
+  "comment": 0,
+  "code": 17},
+"Bourne Shell" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 76,
+  "comment": 613,
+  "code": 834,
+  "nFiles": 11} }

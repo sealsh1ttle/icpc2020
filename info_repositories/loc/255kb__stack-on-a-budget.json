@@ -1,0 +1,24 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 2.01248097419739,
+  "n_files"            : 34,
+  "n_lines"            : 1536,
+  "files_per_second"   : 16.8945696560236,
+  "lines_per_second"   : 763.237029166243,
+  "report_file"        : "loc/255kb__stack-on-a-budget.json"},
+"Markdown" :{
+  "nFiles": 33,
+  "blank": 503,
+  "comment": 0,
+  "code": 1014},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 4,
+  "comment": 0,
+  "code": 15},
+"SUM": {
+  "blank": 507,
+  "comment": 0,
+  "code": 1029,
+  "nFiles": 34} }

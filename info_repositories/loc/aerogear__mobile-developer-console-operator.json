@@ -1,0 +1,64 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.84",
+  "elapsed_seconds"    : 681.557405948639,
+  "n_files"            : 2302,
+  "n_lines"            : 1008879,
+  "files_per_second"   : 3.37755848576822,
+  "lines_per_second"   : 1480.2553551535,
+  "report_file"        : "loc/aerogear__mobile-developer-console-operator.json"},
+"Go" :{
+  "nFiles": 2240,
+  "blank": 71972,
+  "comment": 123588,
+  "code": 808262},
+"YAML" :{
+  "nFiles": 17,
+  "blank": 8,
+  "comment": 12,
+  "code": 1827},
+"Assembly" :{
+  "nFiles": 35,
+  "blank": 271,
+  "comment": 320,
+  "code": 1603},
+"AsciiDoc" :{
+  "nFiles": 3,
+  "blank": 171,
+  "comment": 4,
+  "code": 479},
+"make" :{
+  "nFiles": 1,
+  "blank": 17,
+  "comment": 0,
+  "code": 96},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 54,
+  "comment": 0,
+  "code": 61},
+"TOML" :{
+  "nFiles": 1,
+  "blank": 11,
+  "comment": 7,
+  "code": 37},
+"C" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 7,
+  "code": 24},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 6,
+  "comment": 5,
+  "code": 14},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 5,
+  "comment": 1,
+  "code": 9},
+"SUM": {
+  "blank": 72523,
+  "comment": 123944,
+  "code": 812412,
+  "nFiles": 2302} }
