@@ -1,5 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------
-# Knowledge Transfer in Modern Code Review (ICPC 2020) - Replication Package
+# Knowledge Transfer in Modern Code Review (ICPC 2020)  
+## Replication Package
 
 1) bots.txt contains the names of the 147 bots.
 
